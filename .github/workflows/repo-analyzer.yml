@@ -2,7 +2,7 @@ name: GitHub Repository Analyzer
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # Every Sunday at midnight
+    - cron: '0 0 * * *'  # Runs every day at 00:00 (Midnight) UTC
   workflow_dispatch:       # Manual trigger
 
 permissions:
