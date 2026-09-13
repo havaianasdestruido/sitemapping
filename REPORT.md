@@ -1,0 +1,3290 @@
+# 📊 GitHub Profile Report: [@havaianasdestruido](https://github.com/havaianasdestruido)
+
+![](https://avatars.githubusercontent.com/u/272969483?v=4)
+
+> i lost my old acc so please follow this one instead
+
+**Generated:** 2026-09-13 17:28:52 UTC
+**Public Repositories:** 49
+
+---
+
+## 📁 Public Repositories
+
+- ## [blaster](https://github.com/havaianasdestruido/blaster)
+  > MIRROR of blaster worm code decomp
+  > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 C | 📅 Created: 2026-09-10 | 🔄 Updated: 2026-09-10
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/blaster/tree/main) _(default)_ — HEAD: `9dddc4d`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/blaster/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/blaster/commits/main)
+          - [`9dddc4d`](https://github.com/havaianasdestruido/blaster/commit/9dddc4d019b9b972dece066919a8b9f7c785a098) **Create README.txt** — _Pato (new acc)_ (2026-09-10)
+          - [`20c4a98`](https://github.com/havaianasdestruido/blaster/commit/20c4a98579abfac65fabb199b09869820a5582c2) **Create blaster.c** — _Pato (new acc)_ (2026-09-10)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 2 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C` — 100.0% (46,157 bytes)
+
+---
+
+- ## [PatoCraft](https://github.com/havaianasdestruido/PatoCraft)
+  > OldSchool MCPE revival with QoL changes
+  > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 Smali | 📅 Created: 2026-09-05 | 🔄 Updated: 2026-09-12
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/PatoCraft/tree/main) _(default)_ — HEAD: `954e410`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/PatoCraft/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/PatoCraft/commits/main)
+          - [`954e410`](https://github.com/havaianasdestruido/PatoCraft/commit/954e410940a4a17a8e9b30b5344c8e2771663682) **fix(android): prune manifest to core components, use patocraft release k** — _PatoCraft Dev_ (2026-09-12)
+          - [`e62ca5b`](https://github.com/havaianasdestruido/PatoCraft/commit/e62ca5b5a470973adf1343b2f6d9b4a4f3569313) **feat(android): gradle build for patocraft - green debug/release apk** — _PatoCraft Dev_ (2026-09-12)
+          - [`e00ed9d`](https://github.com/havaianasdestruido/PatoCraft/commit/e00ed9db7812a96d2a6303471a915fd2b29dd37c) **chore: rename package to quack.mc.patocraft, app to PatoCraft, rebuild f** — _PatoCraft Dev_ (2026-09-05)
+          - [`dc92b4c`](https://github.com/havaianasdestruido/PatoCraft/commit/dc92b4c932fe85cb2c57ea7b35d4235614b0e5f1) **chore: init git, add smart .gitignore** — _PatoCraft Dev_ (2026-09-05)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (0)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `Smali` — 77.9% (34,777,369 bytes)
+      - `Java` — 21.5% (9,614,791 bytes)
+      - `HLSL` — 0.5% (207,948 bytes)
+      - `C` — 0.1% (27,116 bytes)
+      - `JavaScript` — 0.1% (23,356 bytes)
+      - `Python` — 0.0% (4,869 bytes)
+      - `Batchfile` — 0.0% (867 bytes)
+
+---
+
+- ## [.github](https://github.com/havaianasdestruido/.github)
+  > me
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-08-09 | 🔄 Updated: 2026-08-09
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/.github/tree/main) _(default)_ — HEAD: `08c1c31`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/.github/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/.github/commits/main)
+          - [`08c1c31`](https://github.com/havaianasdestruido/.github/commit/08c1c31709b73d9a8e000f25e78021f658e2c899) **Update README.md** — _Pato (new acc)_ (2026-08-09)
+          - [`a9a1754`](https://github.com/havaianasdestruido/.github/commit/a9a1754326d594f274bfee559d66526412b38f07) **Create README.md for GitHub profile** — _Pato (new acc)_ (2026-08-09)
+          - [`f120f51`](https://github.com/havaianasdestruido/.github/commit/f120f51d3c51716c484d4c68c0eb344f6f9ec4bf) **Clean up README.md by removing header and image** — _Pato (new acc)_ (2026-08-09)
+          - [`298816e`](https://github.com/havaianasdestruido/.github/commit/298816edb0d8363f0095041837d15e8c62fc67a6) **Add files via upload** — _Pato (new acc)_ (2026-08-09)
+          - [`3968e20`](https://github.com/havaianasdestruido/.github/commit/3968e20ae78b8963b35a51f75112d8e0e83ee15b) **Initial commit** — _Pato (new acc)_ (2026-08-09)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 5 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+
+---
+
+- ## [AudioTaste](https://github.com/havaianasdestruido/AudioTaste)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 JavaScript | 📅 Created: 2026-08-07 | 🔄 Updated: 2026-08-08
+
+    - ### 🌿 Branches (2)
+      - [`main`](https://github.com/havaianasdestruido/AudioTaste/tree/main) _(default)_ — HEAD: `e225946`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/AudioTaste/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/AudioTaste/commits/main)
+          - [`e225946`](https://github.com/havaianasdestruido/AudioTaste/commit/e2259460c2e1d4359d7834474af4fc3c9c3bbf36) **feat(build): minify html/css/js/svg + compress images at Vercel deploy i** — _UltimateQuack_ (2026-08-08)
+          - [`4aa37b5`](https://github.com/havaianasdestruido/AudioTaste/commit/4aa37b5e4ba55279f2c997eb31ae67204923af1a) **feat: remove review edit/delete entirely (anyone could mutate any commen** — _UltimateQuack_ (2026-08-08)
+          - [`5ec2234`](https://github.com/havaianasdestruido/AudioTaste/commit/5ec2234e498d26e1e0118532e46be8705fe7995a) **chore: write 14 audit reports to logs/ (gitignored)** — _UltimateQuack_ (2026-08-08)
+          - [`c466ca8`](https://github.com/havaianasdestruido/AudioTaste/commit/c466ca8c5df32c27f99a67ebac3f34170663f3a3) **fix(frontend): cap albums fetch, guard avg NaN, truncate API errors (aud** — _UltimateQuack_ (2026-08-08)
+          - [`e6b7093`](https://github.com/havaianasdestruido/AudioTaste/commit/e6b70930a4e1f06983a1db456ac7aff6e6c8c5e2) **chore: untrack personal CSV export from public repo (audit #13)** — _UltimateQuack_ (2026-08-08)
+          - [`1344ad0`](https://github.com/havaianasdestruido/AudioTaste/commit/1344ad02b78eafc7c203bcffd4826bf63d485437) **fix(covers): force https on Last.fm cover URLs (audit #11)** — _UltimateQuack_ (2026-08-08)
+          - [`f5436b0`](https://github.com/havaianasdestruido/AudioTaste/commit/f5436b023f68816b82221fe1510c03107b76d6d4) **fix(deps): pin speed-insights, disable debug, 50% sample rate (audit #9)** — _UltimateQuack_ (2026-08-08)
+          - [`ac5639f`](https://github.com/havaianasdestruido/AudioTaste/commit/ac5639f5ab5db98a4337a3d675830fa715c92ce7) **fix(server): harden path sanitization, add security headers + CSP (audit** — _UltimateQuack_ (2026-08-08)
+          - [`420a1b6`](https://github.com/havaianasdestruido/AudioTaste/commit/420a1b6e68e9d23982272708d8a21e2d8c221f56) **fix(covers): add timeouts, rate-limit retries, atomic cache writes (pipe** — _UltimateQuack_ (2026-08-08)
+          - [`dbf84e5`](https://github.com/havaianasdestruido/AudioTaste/commit/dbf84e50198c2b954e6fb4dc920284bb27fb943c) **fix(seed): dedupe scrobbles, fix date ordering, harden chunk/blacklist l** — _UltimateQuack_ (2026-08-08)
+      - [`vercel/install-vercel-speed-insights-ftzuun`](https://github.com/havaianasdestruido/AudioTaste/tree/vercel/install-vercel-speed-insights-ftzuun) — HEAD: `4e7ad01`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/AudioTaste/commits/vercel/install-vercel-speed-insights-ftzuun)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/AudioTaste/commits/vercel/install-vercel-speed-insights-ftzuun)
+          - [`4e7ad01`](https://github.com/havaianasdestruido/AudioTaste/commit/4e7ad01509542836213e7125ccc4fb067bb78d9b) **Install Vercel Speed Insights with framework support** — _Vercel_ (2026-08-07)
+          - [`e27869a`](https://github.com/havaianasdestruido/AudioTaste/commit/e27869afb676b664d95856451be0f087013fe0c1) **feat: client-side album art via Last.fm with localStorage caching** — _UltimateQuack_ (2026-08-07)
+          - [`981355a`](https://github.com/havaianasdestruido/AudioTaste/commit/981355a1fad7ffeaece41e049f957a703366f97f) **feat: blacklist artists and rework rating scale (top album 10.0, others ** — _UltimateQuack_ (2026-08-07)
+          - [`34a2a20`](https://github.com/havaianasdestruido/AudioTaste/commit/34a2a203a94edde0de95706890236aea4ceb48cb) **feat: fetch album art with Last.fm fallback, local caching, fan-out work** — _UltimateQuack_ (2026-08-07)
+          - [`63d27be`](https://github.com/havaianasdestruido/AudioTaste/commit/63d27bef1b7cbfa578649f28f3d83ca43858f91b) **chore: generate config.js at build time from env, keep secrets out of gi** — _UltimateQuack_ (2026-08-07)
+          - [`e1d1d62`](https://github.com/havaianasdestruido/AudioTaste/commit/e1d1d6278e0917b6af455913cc8e90b658e86da8) **feat: add scrobble trends, REST seed pipeline, and .env-driven config** — _UltimateQuack_ (2026-08-07)
+          - [`71a8f88`](https://github.com/havaianasdestruido/AudioTaste/commit/71a8f88206b6197848852378c9626bb78b26163a) **Remove introductory text from hero section** — _havaianasdestruido_ (2026-08-07)
+          - [`463a609`](https://github.com/havaianasdestruido/AudioTaste/commit/463a609b8f523a79ee1e210f9227c3711bd1aade) **feat: build AudioTaste album rating platform with Supabase REST API** — _UltimateQuack_ (2026-08-07)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (1)
+        - ✅ Merged [#1 Install Vercel Speed Insights with framework support](https://github.com/havaianasdestruido/AudioTaste/pull/1) — _vercel[bot]_ (2026-08-07) `vercel/install-vercel-speed-insights-ftzuun` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`4e7ad01`](https://github.com/havaianasdestruido/AudioTaste/commit/4e7ad01509542836213e7125ccc4fb067bb78d9b) Install Vercel Speed Insights with framework support
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (2)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 2 commit(s)
+      - [@vercel[bot]](https://github.com/apps/vercel) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `JavaScript` — 79.3% (88,551 bytes)
+      - `CSS` — 13.6% (15,248 bytes)
+      - `HTML` — 7.1% (7,933 bytes)
+
+---
+
+- ## [BloodAndBacon-DnSpyEx](https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx)
+  > Decompile of Blood & Bacon made using DnSpyEx.
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-12 | 🔄 Updated: 2026-08-12
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/tree/main) _(default)_ — HEAD: `0813bc7`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commits/main)
+          - [`0813bc7`](https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/0813bc7bffd7af5680e338235220396ab306964f) **init** — _havaianasdestruido_ (2026-08-12)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C#` — 100.0% (11,557,836 bytes)
+
+---
+
+- ## [calculator](https://github.com/havaianasdestruido/calculator) `🍴 Fork`
+  > Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of t
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-07-26 | 🔄 Updated: 2026-07-26
+
+  - 🔗 Forked from: [unoplatform/calculator](https://github.com/unoplatform/calculator)
+    - ### 🌿 Branches (1)
+      - [`uno`](https://github.com/havaianasdestruido/calculator/tree/uno) _(default)_ — HEAD: `c32d9b2`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/calculator/commits/uno)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/calculator/commits/uno)
+          - [`c32d9b2`](https://github.com/havaianasdestruido/calculator/commit/c32d9b20ee49a394370afd5e73cd7d2f48507cc8) **Merge pull request #649 from unoplatform/dev/sb/xcode-bump** — _Steve Bilogan_ (2025-08-19)
+          - [`aa83e3d`](https://github.com/havaianasdestruido/calculator/commit/aa83e3d2f98016bba93a16e17e609d7dc2c216c6) **chore: merge branch 'canaries/dev' into dev/sb/xcode-bump** — _Steve Bilogan_ (2025-08-19)
+          - [`4d27530`](https://github.com/havaianasdestruido/calculator/commit/4d275309de38647aaf98a32d097fbd0b161feafb) **ci: adjust xcode for macos-15** — _Steve Bilogan_ (2025-08-15)
+          - [`19758f9`](https://github.com/havaianasdestruido/calculator/commit/19758f91862ef0c12df019591fdaf424954091a2) **chore: Disable appimage** — _Jérôme Laban_ (2025-07-10)
+          - [`d9163c8`](https://github.com/havaianasdestruido/calculator/commit/d9163c8b0db3a3113a0fe9b6a5abcf2bd71f03f1) **chore: Remove libssl snap dependency** — _Jérôme Laban_ (2025-07-09)
+          - [`05bdc49`](https://github.com/havaianasdestruido/calculator/commit/05bdc4906007a50e37ece31fec4f06628b9f9d22) **chore: Adjust snap** — _Jérôme Laban_ (2025-07-09)
+          - [`d19980a`](https://github.com/havaianasdestruido/calculator/commit/d19980aa919e6e1f62864aea5a65282f7557cdd1) **chore: Adjust snap version** — _Jérôme Laban_ (2025-07-09)
+          - [`29127b2`](https://github.com/havaianasdestruido/calculator/commit/29127b2d58b64d653cb92be92886782b7907e7b1) **chore: Adjust snapcraft run** — _Jérôme Laban_ (2025-07-09)
+          - [`6bc1b64`](https://github.com/havaianasdestruido/calculator/commit/6bc1b644c22fe9fa15093408359dd88f8a9eaa86) **chore: Adjust snap and appimage publish** — _Jérôme Laban_ (2025-07-09)
+          - [`4febb57`](https://github.com/havaianasdestruido/calculator/commit/4febb57478cfe4aefffe3e5713c16b1eb476743b) **chore: Run apt update** — _Jérôme Laban_ (2025-06-20)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/calculator/commits/uno/?after=8b5e4c3b80dc3b02520494acfb296306249bb832+34)
+          - [`8e17b50`](https://github.com/havaianasdestruido/calculator/commit/8e17b50769729563799f1abd9a62fef2a598148b) **chore: Remove unused feed** — _Jérôme Laban_ (2024-10-18)
+          - [`c213693`](https://github.com/havaianasdestruido/calculator/commit/c2136937ec751f1892c959feddf56ad5af1dbec3) **chore: Move to latest net9 bootstrap** — _Jérôme Laban_ (2024-10-17)
+          - [`f5fbf68`](https://github.com/havaianasdestruido/calculator/commit/f5fbf68685a888d513946ce1165577e78d1b56f1) **chore: Update xcode** — _Jérôme Laban_ (2024-10-10)
+          - [`c5203d9`](https://github.com/havaianasdestruido/calculator/commit/c5203d9eb4aaf59f723fe0652f3ff9e85b5d7f66) **chore: Update to net9 rc2** — _Jérôme Laban_ (2024-10-10)
+          - [`5cad839`](https://github.com/havaianasdestruido/calculator/commit/5cad83952bae75212f38991dfadb50ca06c214dc) **chore: Disble XAML trimming** — _Jerome Laban_ (2024-09-23)
+          - [`52caab0`](https://github.com/havaianasdestruido/calculator/commit/52caab0d10917eb47506bd118d1adc0140f0daa8) **chore: Update aot profile** — _Jerome Laban_ (2024-09-23)
+          - [`497a8ef`](https://github.com/havaianasdestruido/calculator/commit/497a8ef2249c4b717a6b60bb32cd92468d4573c2) **chore: Always use AOT, restore SIMD** — _Jerome Laban_ (2024-09-23)
+          - [`8f95c53`](https://github.com/havaianasdestruido/calculator/commit/8f95c539e935b513d70cea725117262d45e1adf8) **chore: Adjust AOT profile** — _Jerome Laban_ (2024-09-23)
+          - [`0dee4af`](https://github.com/havaianasdestruido/calculator/commit/0dee4afc080a069637f900e4e93ac3f34ebafe31) **chore: Always enable logging** — _Jerome Laban_ (2024-09-22)
+          - [`73740eb`](https://github.com/havaianasdestruido/calculator/commit/73740ebd28ad3b485eb1615fdca76d1d75af51e0) **chore: Adjust minimum catalyst** — _Jerome Laban_ (2024-09-21)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/calculator/commits/uno/?after=74dfd863bd62909d6699b748bcf1b1df3add4507+34)
+          - [`579fbfe`](https://github.com/havaianasdestruido/calculator/commit/579fbfee2ac39185ff8be3457ba98b3a03a6655a) **chore: Adjust git install** — _Jerome Laban_ (2024-03-15)
+          - [`1894821`](https://github.com/havaianasdestruido/calculator/commit/1894821412aa31de5261490cb41f9f181feda493) **ci: Adjust gitversion** — _Jerome Laban_ (2024-03-15)
+          - [`3326fe4`](https://github.com/havaianasdestruido/calculator/commit/3326fe490d2e2e378b79899dea2fdd71e6221c7f) **chore: Misc adjustments for net8** — _Jerome Laban_ (2023-11-15)
+          - [`7400acf`](https://github.com/havaianasdestruido/calculator/commit/7400acf0acced66b0cd4aff6def35480015f280a) **chore: More net8 updates** — _Jerome Laban_ (2023-11-15)
+          - [`02a50cc`](https://github.com/havaianasdestruido/calculator/commit/02a50cc58dce551cd23e4ba1f90f203bbc243c7c) **chore: Bump to net8** — _Jerome Laban_ (2023-11-15)
+          - [`c883238`](https://github.com/havaianasdestruido/calculator/commit/c8832384bec1d62abc9705988217c96562941129) **chore: Adjust for enhanced security mode validation** — _Jérôme Laban_ (2023-09-18)
+          - [`b705ef4`](https://github.com/havaianasdestruido/calculator/commit/b705ef48c22150ed3bca07ad4dfa13b577c1ce13) **ci: Update build version** — _Jerome Laban_ (2024-02-14)
+          - [`00ac785`](https://github.com/havaianasdestruido/calculator/commit/00ac785878546e7cb18ac143eada7420b7f903d5) **Merge pull request #611 from unoplatform/dev/jela/net8** — _Jérôme Laban_ (2024-02-14)
+          - [`16034f0`](https://github.com/havaianasdestruido/calculator/commit/16034f0b52f84fd5f0c9c55f93f3e51f6b5cd9a6) **chore: Adjust macOS 13 agents** — _Jerome Laban_ (2024-02-14)
+          - [`ed347ed`](https://github.com/havaianasdestruido/calculator/commit/ed347edc6f172916f88820c7188dea2129e4b9a1) **chore: adjust windows gtk** — _Jerome Laban_ (2024-02-14)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/calculator/commits/uno/?after=b53dba7b3c60d9f68b73f3142faf6c50da15ef04+34)
+          - [`5629a4d`](https://github.com/havaianasdestruido/calculator/commit/5629a4d3422192260c0306f6cb641b43b958962d) **Merge pull request #602 from unoplatform/dev/jela/lottie-mobile-adjust** — _Jérôme Laban_ (2023-09-10)
+          - [`743caf6`](https://github.com/havaianasdestruido/calculator/commit/743caf61b6e31b2b26f3029fd6b5333bf14bf603) **fix: Remove lottie dependency on mobile** — _Jerome Laban_ (2023-09-10)
+          - [`fff2527`](https://github.com/havaianasdestruido/calculator/commit/fff2527a86c8f28e2bce22f4910df25a9b55c4f7) **Merge pull request #601 from unoplatform/dev/jela/locale-adjust** — _Jérôme Laban_ (2023-09-10)
+          - [`8e7457f`](https://github.com/havaianasdestruido/calculator/commit/8e7457f0e08458dd3a3fd5142c847e2d27ea113c) **chore: Remove unused console** — _Jerome Laban_ (2023-09-10)
+          - [`bd995ee`](https://github.com/havaianasdestruido/calculator/commit/bd995eeb9ed15235366d7f3b1ddddf46941bacc5) **Merge pull request #600 from unoplatform/dev/jela/locale-adjust** — _Jérôme Laban_ (2023-09-10)
+          - [`afff4ed`](https://github.com/havaianasdestruido/calculator/commit/afff4edf320ceb28bab94328a1c6f472d7799740) **fix: Adjust for neutral culture** — _Jerome Laban_ (2023-09-10)
+          - [`ff172b0`](https://github.com/havaianasdestruido/calculator/commit/ff172b0427dd3ce8c86cda44ffd22c54ab994001) **Merge pull request #599 from unoplatform/dev/jela/mobile-fix** — _Jérôme Laban_ (2023-09-10)
+          - [`1c3d6ac`](https://github.com/havaianasdestruido/calculator/commit/1c3d6acfd87c95e3afaffb2402003cadf242cd83) **fix: Invalid units loading after netcore migration** — _Jay_ (2023-09-10)
+          - [`06ac292`](https://github.com/havaianasdestruido/calculator/commit/06ac2928400530eab35ce048470aafdaf8a2a6eb) **fix: Adjust rates refresh alignment** — _Jay_ (2023-09-10)
+          - [`81756c1`](https://github.com/havaianasdestruido/calculator/commit/81756c17ac4469448de6579415ed769c7372ea6c) **Merge pull request #598 from unoplatform/dev/jela/mobile-fix** — _Jérôme Laban_ (2023-09-09)
+        - 📄 [Commits Page 5](https://github.com/havaianasdestruido/calculator/commits/uno/?after=1ca277019463a4899d0b27ef5af8148b01dd7325+34)
+          - [`3159a33`](https://github.com/havaianasdestruido/calculator/commit/3159a331ff4ba45ccb0acd84f4977c6e94a70a82) **chore: Adjust finder displayname** — _Jerome Laban_ (2023-09-05)
+          - [`9ce4694`](https://github.com/havaianasdestruido/calculator/commit/9ce4694640aa433edba133b4e1dd619fd66a8f94) **Merge pull request #591 from unoplatform/dev/jela/catalyst-appname** — _Jérôme Laban_ (2023-09-05)
+          - [`9abbc3f`](https://github.com/havaianasdestruido/calculator/commit/9abbc3f09f8d70987eefedbfd2398c7d24e3cc04) **dix: Adjust localization for catalyst** — _Jerome Laban_ (2023-09-05)
+          - [`d270a92`](https://github.com/havaianasdestruido/calculator/commit/d270a9228bbe873244bff7e17380257af8ff4678) **Merge pull request #590 from unoplatform/dev/jela/catalyst-appname** — _Jérôme Laban_ (2023-09-05)
+          - [`51e1452`](https://github.com/havaianasdestruido/calculator/commit/51e1452a29c11fc40d2f61a230b53878db1c7607) **chore: Use neutral localization bundle displayname** — _Jerome Laban_ (2023-09-05)
+          - [`ecba22b`](https://github.com/havaianasdestruido/calculator/commit/ecba22b3238714265dbf7ba60084224a62f8d9f9) **chore: adjust catalyst bundle name** — _Jerome Laban_ (2023-09-05)
+          - [`ce3ac7b`](https://github.com/havaianasdestruido/calculator/commit/ce3ac7bdba4d69fd4b973c1f4a3d543c159fe6ad) **fix(catalyst): Adjust external app name** — _Jerome Laban_ (2023-09-05)
+          - [`4d1ea2d`](https://github.com/havaianasdestruido/calculator/commit/4d1ea2d91bf691cb6829b15f7cf2c25fcc1e63b0) **Merge pull request #589 from unoplatform/dev/jela/catalyst-appname** — _Jérôme Laban_ (2023-09-05)
+          - [`b0a835f`](https://github.com/havaianasdestruido/calculator/commit/b0a835f5a2bf346ef5141834e45a164f17e850ac) **chore: Adjust ApplicationTitle property** — _Jerome Laban_ (2023-09-05)
+          - [`998e901`](https://github.com/havaianasdestruido/calculator/commit/998e9017ae1165946f95f08fedf8061c6ce84a91) **ci: Bump to 7.0.400** — _Jerome Laban_ (2023-09-05)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (30)
+      - [@jeromelaban](https://github.com/jeromelaban) — 729 commit(s)
+      - [@davidjohnoliver](https://github.com/davidjohnoliver) — 48 commit(s)
+      - [@mcooley](https://github.com/mcooley) — 34 commit(s)
+      - [@carldebilly](https://github.com/carldebilly) — 29 commit(s)
+      - [@rudyhuyn](https://github.com/rudyhuyn) — 27 commit(s)
+      - [@janisozaur](https://github.com/janisozaur) — 23 commit(s)
+      - [@sanderl](https://github.com/sanderl) — 22 commit(s)
+      - [@ajpinedam](https://github.com/ajpinedam) — 17 commit(s)
+      - [@MaximeDion-Work](https://github.com/MaximeDion-Work) — 16 commit(s)
+      - [@joshkoon](https://github.com/joshkoon) — 13 commit(s)
+      - [@ghuntley](https://github.com/ghuntley) — 7 commit(s)
+      - [@HowardWolosky](https://github.com/HowardWolosky) — 6 commit(s)
+      - [@bwaldbaum](https://github.com/bwaldbaum) — 5 commit(s)
+      - [@grochocki](https://github.com/grochocki) — 5 commit(s)
+      - [@joseartrivera](https://github.com/joseartrivera) — 5 commit(s)
+      - [@EriWong](https://github.com/EriWong) — 4 commit(s)
+      - [@Maharramoff](https://github.com/Maharramoff) — 4 commit(s)
+      - [@marknoble](https://github.com/marknoble) — 3 commit(s)
+      - [@jeremiethibeault](https://github.com/jeremiethibeault) — 3 commit(s)
+      - [@kazo0](https://github.com/kazo0) — 3 commit(s)
+      - [@MakanWG](https://github.com/MakanWG) — 3 commit(s)
+      - [@jsoref](https://github.com/jsoref) — 3 commit(s)
+      - [@ebariche](https://github.com/ebariche) — 2 commit(s)
+      - [@jefgen](https://github.com/jefgen) — 2 commit(s)
+      - [@LanceMcCarthy](https://github.com/LanceMcCarthy) — 2 commit(s)
+      - [@microsoftopensource](https://github.com/microsoftopensource) — 2 commit(s)
+      - [@NicolasChampagne](https://github.com/NicolasChampagne) — 2 commit(s)
+      - [@hassanuz](https://github.com/hassanuz) — 2 commit(s)
+      - [@Potapy4](https://github.com/Potapy4) — 1 commit(s)
+      - [@seyfer](https://github.com/seyfer) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C#` — 64.8% (859,232 bytes)
+      - `C++` — 32.0% (424,928 bytes)
+      - `C` — 1.6% (21,784 bytes)
+      - `JavaScript` — 0.5% (6,889 bytes)
+      - `PowerShell` — 0.5% (6,830 bytes)
+      - `Shell` — 0.3% (4,448 bytes)
+      - `TypeScript` — 0.1% (1,509 bytes)
+      - `HTML` — 0.1% (1,170 bytes)
+
+---
+
+- ## [face-tagger](https://github.com/havaianasdestruido/face-tagger)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-08-04
+
+    - ### 🌿 Branches (1)
+      - [`master`](https://github.com/havaianasdestruido/face-tagger/tree/master) _(default)_ — HEAD: `514a70a`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/face-tagger/commits/master)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/face-tagger/commits/master)
+          - [`514a70a`](https://github.com/havaianasdestruido/face-tagger/commit/514a70a8ccaafb6cc6feff7061884fecc80fe05d) **initial commit** — _UltimateQuack_ (2026-08-03)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (0)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C#` — 100.0% (9,145 bytes)
+
+---
+
+- ## [FNF-PeoteView](https://github.com/havaianasdestruido/FNF-PeoteView) `🍴 Fork`
+  > The fastest running opengl fnf engine in haxe EVER. We're optimizing, and someti
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C | 📅 Created: 2026-08-10 | 🔄 Updated: 2026-08-11
+
+  - 🔗 Forked from: [SomeGuyWhoLovesCoding/FNF-PeoteView](https://github.com/SomeGuyWhoLovesCoding/FNF-PeoteView)
+    - ### 🌿 Branches (1)
+      - [`official`](https://github.com/havaianasdestruido/FNF-PeoteView/tree/official) _(default)_ — HEAD: `8f4c985`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/FNF-PeoteView/commits/official)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/FNF-PeoteView/commits/official)
+          - [`8f4c985`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/8f4c9857a9b7d209f4f167d1916b686441893b28) **Perf: add timeStretch toggle to performance options** — _havaianasdestruido_ (2026-08-11)
+          - [`45a818d`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/45a818d8450c336665e59194e80eaca80a6c4819) **Perf: back Int128 with struct fields and fix toString padding** — _havaianasdestruido_ (2026-08-11)
+          - [`d57cde1`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/d57cde1a87f19e879331a6dda3eb76365aedc012) **Perf: reuse compressed texture artifacts and in-place premultiply** — _havaianasdestruido_ (2026-08-11)
+          - [`51a351a`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/51a351adda244d8253f451c96134aed19f62fc8f) **Perf: buffered LZ4 stream writes and scratch buffers** — _havaianasdestruido_ (2026-08-11)
+          - [`6fcf40c`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/6fcf40c5dd5babfaff8a59cbdb94dbed2c103a65) **Perf: dirty-flag noteskin editor sprite updates** — _havaianasdestruido_ (2026-08-11)
+          - [`b4975e2`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/b4975e2dc2074e5dc059d40ed81a11cba72e1586) **Perf: cache alphabet chars per title and skip unchanged icon changeID** — _havaianasdestruido_ (2026-08-11)
+          - [`5e6183a`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/5e6183a56f3c267652ce87d255d214feb5d16d6e) **Perf: dirty-gate AnimateActor leaf uploads and unroll corners** — _havaianasdestruido_ (2026-08-11)
+          - [`f61691b`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/f61691bf3c89af05ed094801db9e32fece909c5b) **Perf: cache text relayouts and skip redundant alpha uploads** — _havaianasdestruido_ (2026-08-11)
+          - [`25dfa6f`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/25dfa6f50f7e4be340ca0b9dabecfbab379ce5c2) **Perf: skip redundant note/sustain clip re-setup in gameplay** — _havaianasdestruido_ (2026-08-11)
+          - [`9508f68`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/9508f6866dd0b04a8e45d71abfe63ae65de2ec16) **Add performance bottleneck markers** — _havaianasdestruido_ (2026-08-10)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/FNF-PeoteView/commits/official/?after=cb3a1dec28591916ec8fb27adfe0f9636a4191d4+34)
+          - [`1105508`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/110550885a07be067a829ef22c67172482abfaf4) **Update linux.bash** — _SomeGuyWhoLovesCoding_ (2026-07-23)
+          - [`8e77caa`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/8e77caa8dc838d0f9cf528883b14f558f9f79bda) **Merge branch 'official' into official** — _SomeGuyWhoLovesCoding_ (2026-07-23)
+          - [`3b06bf2`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/3b06bf2cea18afb051e24e2798e9924e50260606) **Updated reformat.** — _ElastedAlorian_ (2026-07-23)
+          - [`88e347b`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/88e347bb2ec06fc910eae8b43ef50a8b786dc699) **v** — _SomeGuyWhoLovesCoding_ (2026-07-23)
+          - [`0e78bcc`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/0e78bccd685f1e329ece619108df5342dc3ec390) **Reorganize Project.xml** — _ElastedAlorian_ (2026-07-23)
+          - [`ba74715`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/ba74715870679a503ed57e4f3a2b6622eb8f4326) **Shared  alphaspr & instructions txt for all 3 opts** — _SomeGuyWhoLovesCoding_ (2026-07-23)
+          - [`186c02e`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/186c02ec7311cd7c8fd20664ab4b163ffb0b4620) **Yep, compressed textures can also be supported on** — _SomeGuyWhoLovesCoding_ (2026-07-22)
+          - [`d7feff8`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/d7feff84ef64c73a256650260de44e011dcf2700) **Utilize LZ4 as ASTC compressor** — _SomeGuyWhoLovesCoding_ (2026-07-22)
+          - [`4ffb3b1`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/4ffb3b120a4bd1b7e3d7ca886186d18a43ce13ea) **Update ASTCEncoder.hx for Linux** — _SomeGuyWhoLovesCoding_ (2026-07-22)
+          - [`5f43a37`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/5f43a370d613c8226e76bb84910d075d337f1644) **Finish compressed texture support** — _SomeGuyWhoLovesCoding_ (2026-07-22)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/FNF-PeoteView/commits/official/?after=6f59e03177beab0cc1408215669ce16d8015dff9+34)
+          - [`43efbb9`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/43efbb9c00c5b0b335011072a1fdc3bf85d304b8) **Currently stuck at a shader error for custom variables that've already e** — _SomeGuyWhoLovesCoding_ (2026-07-18)
+          - [`2b9b389`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/2b9b389770ed11aa78df71c09c75b55dff0eb2a7) **Ok I just found exiting the noteskin editor won't  lose your notskindata** — _SomeGuyWhoLovesCoding_ (2026-07-18)
+          - [`365829d`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/365829dac8a9d9b081e1eab084f09c14bae8f8fb) **oops forgot the exit condition on confirmPopup** — _SomeGuyWhoLovesCoding_ (2026-07-18)
+          - [`f9c430e`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/f9c430ee1a59117d216f22c392c7d02e37d79daa) **Gotta put up another confirmation in there.** — _SomeGuyWhoLovesCoding_ (2026-07-18)
+          - [`356d534`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/356d5344bf2611423a427bae056ed73e15d4f5ad) **Really finalize noteskin editor and prewarm freeplaymenu addprograms as ** — _SomeGuyWhoLovesCoding_ (2026-07-18)
+          - [`5fbb027`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/5fbb027728fd541305188b879bc0f0b660e8865d) **Finalize the noteskin editor (almost)** — _SomeGuyWhoLovesCoding_ (2026-07-18)
+          - [`6244f38`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/6244f38fe26a22657092806c30f16728a009d51a) **(almost) finalize Noteskin class + optimize Text with Qwen** — _SomeGuyWhoLovesCoding_ (2026-07-18)
+          - [`504b778`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/504b778b9a90287582f22e94698654bb00c3e66c) **Update project.xml** — _SomeGuyWhoLovesCoding_ (2026-07-18)
+          - [`9da1ca8`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/9da1ca86d3d68612e1e402ee86c796289d676d06) **Ok now before I implement exiting cache the bufs,progs first** — _SomeGuyWhoLovesCoding_ (2026-07-17)
+          - [`df9fcd2`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/df9fcd24669bbbef2df0fa92501d32229d12173a) **Did it** — _SomeGuyWhoLovesCoding_ (2026-07-17)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/FNF-PeoteView/commits/official/?after=76ecad4ae0ca3146a67b15fef1b8a6f9537e9a0b+34)
+          - [`555f2c9`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/555f2c9d23dcbd4233bb04c5bcfd06b58526d1b4) **ig thats good enough, fuck it** — _SomeGuyWhoLovesCoding_ (2026-07-15)
+          - [`d5115ef`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/d5115efff4c40d53e14d7972b0ef882cc0157afb) **Post-finish polish** — _SomeGuyWhoLovesCoding_ (2026-07-15)
+          - [`b87c790`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/b87c79034a22c4757064aa545a1ddea699aaca24) **Huh, it wasn't bad after all huh** — _SomeGuyWhoLovesCoding_ (2026-07-15)
+          - [`900f06a`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/900f06a1aaf09dc95647127b8ff6ff453f7e32d4) **Recombine noteskin editor and start working on sustain rework** — _SomeGuyWhoLovesCoding_ (2026-07-14)
+          - [`149d292`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/149d292750ff76e9dea61b9fe663bfffe850bfd6) **Refined input binds some more** — _SomeGuyWhoLovesCoding_ (2026-07-14)
+          - [`8b946a4`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/8b946a4141af06e7d7380af9d68ae7c658261019) **Prepase sustain part :D** — _SomeGuyWhoLovesCoding_ (2026-07-14)
+          - [`8465a03`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/8465a031800f50bdd75a40a2360be7165593d306) **Refine noteskin strumline preview display** — _SomeGuyWhoLovesCoding_ (2026-07-13)
+          - [`1443322`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/1443322088adcf5d0b53e5bd1d94b1463fd8b64e) **Split NoteskinEditor into eight classes.** — _SomeGuyWhoLovesCoding_ (2026-07-13)
+          - [`e72b351`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/e72b351ee62dc0df86310e8832ac6c4903dbba28) **Move instructions text to top right** — _SomeGuyWhoLovesCoding_ (2026-07-13)
+          - [`f07b428`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/f07b4287c19698a67fad5e8959ab0dcd4c0d2eda) **Enums + create mania complete done** — _SomeGuyWhoLovesCoding_ (2026-07-13)
+        - 📄 [Commits Page 5](https://github.com/havaianasdestruido/FNF-PeoteView/commits/official/?after=4f744f3b79c761a035aba200b5c25a03e78c3080+34)
+          - [`ef3e797`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/ef3e7976e86946bac554b590ff5ab59f4ad1e97d) **Swap out @::structInit for @:struct** — _SomeGuyWhoLovesCoding_ (2026-07-10)
+          - [`e72a5be`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/e72a5befef1bb5eb82dda57d331f679dbb519366) **Thank god.** — _SomeGuyWhoLovesCoding_ (2026-07-10)
+          - [`052dde7`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/052dde7fa193d4b58e4c22a5d76d2e292f06018c) **Fix playback rate** — _SomeGuyWhoLovesCoding_ (2026-07-09)
+          - [`ed72810`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/ed72810e31e96cf01b05c2a71e2ecf664babab06) **.** — _SomeGuyWhoLovesCoding_ (2026-07-09)
+          - [`07304a9`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/07304a9a9e4802cb13413a642b4454cbed4ff07a) **Do up hashlink path for miniaudio** — _SomeGuyWhoLovesCoding_ (2026-07-09)
+          - [`9163fcf`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/9163fcf74bb2b960a72c3b25f510774a795ef58f) **Use more fma** — _SomeGuyWhoLovesCoding_ (2026-07-09)
+          - [`f539a3a`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/f539a3a2de6d77369edd70f59a465dc82e22ba92) **Utilize `fmaf` onto very expensive loop sectors** — _SomeGuyWhoLovesCoding_ (2026-07-09)
+          - [`c694033`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/c69403363bf998e966304e32353c98e77b5a6d96) **d** — _SomeGuyWhoLovesCoding_ (2026-07-09)
+          - [`e43216b`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/e43216bc241b0fa18e588a99045262b91a9e7897) **.j** — _SomeGuyWhoLovesCoding_ (2026-07-09)
+          - [`ac7aa94`](https://github.com/havaianasdestruido/FNF-PeoteView/commit/ac7aa94992b65a0289ee0c6a37d28ad369bb2330) **Hopefully this works** — _SomeGuyWhoLovesCoding_ (2026-07-09)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (6)
+      - [@SomeGuyWhoLovesCoding](https://github.com/SomeGuyWhoLovesCoding) — 1996 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 10 commit(s)
+      - [@ElastedAlorian](https://github.com/ElastedAlorian) — 10 commit(s)
+      - [@CanIGetaPR](https://github.com/CanIGetaPR) — 8 commit(s)
+      - [@jobf](https://github.com/jobf) — 3 commit(s)
+      - [@qwen-intl](https://github.com/qwen-intl) — 2 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C` — 70.7% (4,407,895 bytes)
+      - `Haxe` — 15.3% (956,314 bytes)
+      - `C++` — 13.9% (866,270 bytes)
+      - `Shell` — 0.1% (3,497 bytes)
+      - `Lua` — 0.0% (1,306 bytes)
+      - `Batchfile` — 0.0% (758 bytes)
+
+---
+
+- ## [FNF-Phoenix-Engine](https://github.com/havaianasdestruido/FNF-Phoenix-Engine) `🍴 Fork | 🗃️ Template`
+  > Phoenix Engine is an enhanced fork of JSE, which in turn is a fork of Psych but 
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 1 open issues | 💻 Haxe | 📅 Created: 2026-04-23 | 🔄 Updated: 2026-09-05
+
+  - 🔗 Forked from: [JordanSantiagoYT/FNF-JS-Engine](https://github.com/JordanSantiagoYT/FNF-JS-Engine)
+    - ### 🌿 Branches (11)
+      - [`fix/ci-matrix-if`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/fix/ci-matrix-if) — HEAD: `e546cec`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/ci-matrix-if)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/ci-matrix-if)
+          - [`e546cec`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e546cecd718e88715f0730f55fc32bf63367327a) **Merge pull request #13 from havaianasdestruido/jules-1547208090006608356** — _Pato (new acc)_ (2026-08-31)
+          - [`57adef3`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/57adef303a2c3a7539b0d3812f0dfd3bb36939ae) **Merge branch 'main' into jules-15472080900066083561-4f7fe005** — _Pato (new acc)_ (2026-08-31)
+          - [`582c98e`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/582c98e27bb7cff13c5f6973f9829e97e7b9d1b0) **workflow: default builds to Windows and Android with toggle** — _google-labs-jules[bot]_ (2026-08-30)
+          - [`e237edf`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e237edf1e418ec9ebecda84f7d7af8f3ff480dce) **Update mobile.yml** — _Pato (new acc)_ (2026-08-30)
+          - [`fb15bb7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/fb15bb73c52efdc034ba49d15befb6ac99d4f017) **Le fix (2/2)** — _Pato (new acc)_ (2026-08-30)
+          - [`0a17cc3`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0a17cc3deb708b440cfad207a114d062d5dea213) **Le fix (1/2)** — _Pato (new acc)_ (2026-08-30)
+          - [`12717f6`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/12717f68da1681f9548e882178e505c47e35a11d) **workflow: default builds to Windows and Android with toggle** — _google-labs-jules[bot]_ (2026-08-30)
+          - [`144c806`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/144c806d38bb64c81d6a06b38f26fb4db428eab3) **Stupid mobile fix** — _Pato (new acc)_ (2026-08-30)
+          - [`380b3ca`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/380b3caaffa201794dac0c6bb562ff4f04794b5b) **Merge pull request #12 from havaianasdestruido/fix-hmm-json-bom-12799565** — _Pato (new acc)_ (2026-08-30)
+          - [`f275f5e`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f275f5e55e21feea5d1a6067ab4eae594897faa3) **Fix UTF-8 BOM in hmm.json and JSON configs** — _google-labs-jules[bot]_ (2026-08-30)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/ci-matrix-if/?after=24be09902c3f78b95642048f88b5e3d741f65f2e+34)
+          - [`33e3acb`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/33e3acb8f3a7dd7fc1f031efd8605d1aa73c4cf5) **fix: restore compilation after source tree refactor** — _havaianasdestruido_ (2026-08-28)
+          - [`e02f6c2`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e02f6c2b1d1d08c8712829a446b773506bcb26c0) **refactor: reorganize source tree into packages (WIP)** — _havaianasdestruido_ (2026-08-25)
+          - [`6572cb3`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6572cb3d2c4541cfdd348f51c7b37dee56be0b2c) **fix(python): normalize CRLF to LF before parsing** — _havaianasdestruido_ (2026-08-23)
+          - [`7165583`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/71655834822ec21bb4db243d6b90ffdba28bd6b4) **feat: proper Linux GameMode support** — _havaianasdestruido_ (2026-08-23)
+          - [`c62bc7a`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c62bc7aa4b83d582448e782dcab07ced14e97afe) **build: pin hscript-improved to working commit** — _havaianasdestruido_ (2026-08-23)
+          - [`5bfc2dd`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5bfc2ddcb01462eae38f315d4c4aca398f877092) **fix: strip UTF-8 BOM from JSON reads** — _havaianasdestruido_ (2026-08-23)
+          - [`8e2e39c`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/8e2e39cf1aa831fa8b896a1a04a0bad05a2ac4f8) **claude pointed some bugfixes so i guess this workflow should work proper** — _Pato (new acc)_ (2026-08-23)
+          - [`acac2d4`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/acac2d413c2edda9e982cfd2f89a4cacf8d5c76e) **asdf** — _Pato (new acc)_ (2026-08-23)
+          - [`da4472b`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/da4472b7756cd54b8526b3ea5b33189051f8df14) **Merge pull request #9 from havaianasdestruido/fix/workflows-and-cache-op** — _Pato (new acc)_ (2026-08-23)
+          - [`1174eb2`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1174eb2f22d33147524fbe7fa486422c13aee988) **Fix failing workflows, build artifact paths, and cache system** — _google-labs-jules[bot]_ (2026-08-23)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/ci-matrix-if/?after=9126f7cd7b9ebb6b82d9b01558311aeb5ce521b6+34)
+          - [`4a791b7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4a791b7e735489ea2c76273c3c87e740ad62cd8e) **chore: remove applied BOTTLENECK note in ChartingState.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`81e7fbc`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/81e7fbc747c68b7795fa32acf2ac79c26bb5c56d) **chore: remove applied BOTTLENECK note in ChartingState.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`7874aff`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7874aff382736ecba8fc26d53c4bb7ade1f579ad) **chore: remove applied BOTTLENECK note in ChartingState.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`08ea214`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/08ea214d0ca00f080646ea97c481dd0bb3ac4351) **chore: remove applied BOTTLENECK note in PhillyStreets.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`87a699c`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/87a699cb3a766a6ff1cfbf017b8cdd8668acf846) **chore: remove applied BOTTLENECK note in BaseOptionsMenu.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`390c2d5`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/390c2d51f33d3520e8e7a153144aff17f851e7c8) **chore: remove applied BOTTLENECK note in HScript.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`1743142`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1743142c15108db3048cf19cb2a4bc0a705fa430) **chore: remove applied BOTTLENECK note in Convert.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`70b48e9`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/70b48e9eed3801d4c0fea1193ef762ee0066f7d7) **chore: remove applied BOTTLENECK note in FunkinLua.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`020e892`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/020e892015a9a1f46f154f7175784d2dad9e39bf) **chore: remove applied BOTTLENECK note in FunkinLua.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`c95b195`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c95b195c26834fd8abc0d6e2e71c70a72a5b0f90) **chore: remove applied BOTTLENECK note in PlayState.hx** — _havaianasdestruido_ (2026-08-12)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/ci-matrix-if/?after=42cd7b723ddc08e17e2eebc4c67a99e03ad28edb+34)
+          - [`7aa0a32`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7aa0a32245bcf0b54d496dfb4a99fdb596048423) **Move assets/exclude to art/exclude** — _Flynn Waiver_ (2026-08-10)
+          - [`807a366`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/807a36648d24834427d967ad4f230a112ff7a64c) **Organize art scripts; remove excluded audio files** — _Flynn Waiver_ (2026-08-10)
+          - [`688d946`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/688d9467da09651190b68a5befbc3bf5a75ccfef) **compress the audio files, again** — _Flynn Waiver_ (2026-08-10)
+          - [`d81aacf`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d81aacf2fa642749c1142036cf14c4bd85d55734) **Revert "Delete compress.ps1"** — _Flynn Waiver_ (2026-08-10)
+          - [`e3ba75c`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e3ba75ced39de86876bad7a2259fdd0cac4aa912) **Revert "chore: minified all .OGG & .MP3 files (50% size reduction) + min** — _Flynn Waiver_ (2026-08-10)
+          - [`5870b8c`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5870b8ce5725365c1e6422b426b48e9e32c2e147) **Merge branch 'main' into bottlenecks** — _Flynn Waiver_ (2026-08-10)
+          - [`002605a`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/002605a10119d98bc826bbe857d40fad74f369a7) **Delete compress.ps1** — _Flynn Waiver_ (2026-08-10)
+          - [`7661f3d`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7661f3de002bb3d8b6eff52551199005e043955f) **chore: minified all .OGG & .MP3 files (50% size reduction) + minified al** — _Pato (new acc)_ (2026-08-10)
+          - [`d5bcf64`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d5bcf64e5fddab06ffa06cbb82406c178fd3a780) **Merge pull request #2 from havaianasdestruido/minify-json** — _Pato (new acc)_ (2026-08-10)
+          - [`9133a46`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9133a46fdf112fb82f457dd782bc515d0ee95f01) **chore: minified all .JSON files** — _havaianasdestruido_ (2026-08-10)
+        - 📄 [Commits Page 5](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/ci-matrix-if/?after=e4d18ce710d66731c6a15782692ac43e0b421ac0+34)
+          - [`892c629`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/892c62962b7a065c9a7dae2a23d745c9ed41616f) **perf(FlxGame, FPSCounter): cache PlayState check and throttle outline re** — _UltimateQuack_ (2026-08-08)
+          - [`2396c56`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/2396c5686e5110bfc54840fdfa1a48a7f5aef6f9) **perf(ChartingState): cache grid layer and waveform buffers, dedupe undo ** — _UltimateQuack_ (2026-08-08)
+          - [`a15e44f`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a15e44fa9c6548c135753109960137168eb17b86) **perf(Alphabet): cache sparrow atlases and skip duplicate animations (hig** — _UltimateQuack_ (2026-08-08)
+          - [`b3f16fc`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b3f16fc0d472c76fd38fc2cb9e2567411b7f9cf8) **perf(PlayState): batch note iteration and inline key arrays (high bottle** — _UltimateQuack_ (2026-08-08)
+          - [`c8ca8c2`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c8ca8c22e24d2e88e84d51585c2e0288a68601c0) **perf(Convert): direct-call bridge for 0-8 args (high bottleneck)** — _UltimateQuack_ (2026-08-08)
+          - [`5f38b1e`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5f38b1e347a28888cc0cf182c91f736b26375d15) **perf(HScript): cache parsed AST to avoid re-parsing (ultra bottleneck)** — _UltimateQuack_ (2026-08-08)
+          - [`9f90c59`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9f90c596c1a7df0be189268a6c7651219d55ef02) **perf(FunkinLua): cache missing calls and fast-path var splitting (ultra ** — _UltimateQuack_ (2026-08-08)
+          - [`8b10795`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/8b1079510483b6c969e76398b4f6b4024408754c) **you know what would be funny? if this worked** — _JordanSantiagoYT_ (2026-08-04)
+          - [`9bcbc72`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9bcbc7219df4058f0b88e2f03a003a81d6865bd6) **Add HXCPP_NO_ARCH_LEVEL build configuration** — _Flynn Waiver_ (2026-07-27)
+          - [`9b31bb7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9b31bb70b41244a7c23544e0ad0450fa11204130) **Merge pull request #1559 from JordanSantiagoYT/feat/hxluau** — _Flynn Waiver_ (2026-07-23)
+      - [`fix/mobile-workflow-haxelib`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/fix/mobile-workflow-haxelib) — HEAD: `fb15bb7`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/mobile-workflow-haxelib)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/mobile-workflow-haxelib)
+          - [`fb15bb7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/fb15bb73c52efdc034ba49d15befb6ac99d4f017) **Le fix (2/2)** — _Pato (new acc)_ (2026-08-30)
+          - [`0a17cc3`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0a17cc3deb708b440cfad207a114d062d5dea213) **Le fix (1/2)** — _Pato (new acc)_ (2026-08-30)
+          - [`144c806`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/144c806d38bb64c81d6a06b38f26fb4db428eab3) **Stupid mobile fix** — _Pato (new acc)_ (2026-08-30)
+          - [`380b3ca`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/380b3caaffa201794dac0c6bb562ff4f04794b5b) **Merge pull request #12 from havaianasdestruido/fix-hmm-json-bom-12799565** — _Pato (new acc)_ (2026-08-30)
+          - [`f275f5e`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f275f5e55e21feea5d1a6067ab4eae594897faa3) **Fix UTF-8 BOM in hmm.json and JSON configs** — _google-labs-jules[bot]_ (2026-08-30)
+          - [`6d1ccd7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6d1ccd7322b51fb73057389a0e03fdecabcf2293) **Change mobile branch to main in workflow** — _Pato (new acc)_ (2026-08-30)
+          - [`214207a`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/214207ad4aa0501efe9abcc7ce1bc2ad1576898b) **Merge pull request #11 from havaianasdestruido/rename-executable-phoenix** — _Pato (new acc)_ (2026-08-30)
+          - [`9304f53`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9304f53c5621d8d370f89aa0f681b58d6075a461) **Merge branch 'main' into rename-executable-phoenix-engine-93120916005531** — _Pato (new acc)_ (2026-08-30)
+          - [`0b975ed`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0b975ed989942c9ffc498b2f95c0dd57783aeba7) **Phoenix Engine this Phoenix Engine that, etc.** — _Pato (new acc)_ (2026-08-30)
+          - [`42ad9bc`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/42ad9bcc91179cb478bb3d0a77b9f5f3e064ebb4) **Rename engine executable and package name to FNF-Phoenix-Engine and quac** — _google-labs-jules[bot]_ (2026-08-30)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/mobile-workflow-haxelib/?after=c62bc7aa4b83d582448e782dcab07ced14e97afe+34)
+          - [`5bfc2dd`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5bfc2ddcb01462eae38f315d4c4aca398f877092) **fix: strip UTF-8 BOM from JSON reads** — _havaianasdestruido_ (2026-08-23)
+          - [`8e2e39c`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/8e2e39cf1aa831fa8b896a1a04a0bad05a2ac4f8) **claude pointed some bugfixes so i guess this workflow should work proper** — _Pato (new acc)_ (2026-08-23)
+          - [`acac2d4`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/acac2d413c2edda9e982cfd2f89a4cacf8d5c76e) **asdf** — _Pato (new acc)_ (2026-08-23)
+          - [`da4472b`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/da4472b7756cd54b8526b3ea5b33189051f8df14) **Merge pull request #9 from havaianasdestruido/fix/workflows-and-cache-op** — _Pato (new acc)_ (2026-08-23)
+          - [`1174eb2`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1174eb2f22d33147524fbe7fa486422c13aee988) **Fix failing workflows, build artifact paths, and cache system** — _google-labs-jules[bot]_ (2026-08-23)
+          - [`9e12696`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9e12696349944743295cc02ee2fdcfe10eb96066) **Fix failing workflows, build artifact paths, and cache system** — _google-labs-jules[bot]_ (2026-08-23)
+          - [`26d3298`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/26d32981f30b4fb5d2fb9e9c375e50d38a3bc11a) **Fix failing workflows and optimize cache system** — _google-labs-jules[bot]_ (2026-08-23)
+          - [`fa4aadb`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/fa4aadb22ed25b7a2a0b64c4be93ca5b05be901b) **Fix: Add hxgamemode installation and reorder dependencies for Windows se** — _Pato (new acc)_ (2026-08-21)
+          - [`43e085d`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/43e085d34227c1b22b20144bbc7308bbbed4da35) **Fix: Move hxgamemode before hython and ensure proper dependency order** — _Pato (new acc)_ (2026-08-21)
+          - [`b5c8884`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b5c8884e3aa0ee25e5a3f3aea900bff64050c8a1) **Merge pull request #7 from havaianasdestruido/codex/include-bf-clicker-m** — _Pato (new acc)_ (2026-08-21)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/mobile-workflow-haxelib/?after=87a699cb3a766a6ff1cfbf017b8cdd8668acf846+34)
+          - [`390c2d5`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/390c2d51f33d3520e8e7a153144aff17f851e7c8) **chore: remove applied BOTTLENECK note in HScript.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`1743142`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1743142c15108db3048cf19cb2a4bc0a705fa430) **chore: remove applied BOTTLENECK note in Convert.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`70b48e9`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/70b48e9eed3801d4c0fea1193ef762ee0066f7d7) **chore: remove applied BOTTLENECK note in FunkinLua.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`020e892`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/020e892015a9a1f46f154f7175784d2dad9e39bf) **chore: remove applied BOTTLENECK note in FunkinLua.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`c95b195`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c95b195c26834fd8abc0d6e2e71c70a72a5b0f90) **chore: remove applied BOTTLENECK note in PlayState.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`fd83ccf`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/fd83ccf6c20539a1cec763697ea046f42efce12e) **chore: remove applied BOTTLENECK note in PlayState.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`91787a9`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/91787a9b6944709871bf6b2e073177320062e51d) **chore: remove applied BOTTLENECK note in FlxGame.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`5860a82`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5860a825f4f6869ec3ed963cb7cd2b4b6a59c3fc) **chore: remove applied BOTTLENECK note in FreeplayState.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`a7a0677`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a7a067798bb8d4a9f2c954a3a228cc578e53e7de) **chore: remove applied BOTTLENECK note in Alphabet.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`92624ea`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/92624ea722e5c1be639eb84f7e07c6bc782f41eb) **chore: remove applied BOTTLENECK note in Alphabet.hx** — _havaianasdestruido_ (2026-08-12)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/mobile-workflow-haxelib/?after=e3ba75ced39de86876bad7a2259fdd0cac4aa912+34)
+          - [`5870b8c`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5870b8ce5725365c1e6422b426b48e9e32c2e147) **Merge branch 'main' into bottlenecks** — _Flynn Waiver_ (2026-08-10)
+          - [`002605a`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/002605a10119d98bc826bbe857d40fad74f369a7) **Delete compress.ps1** — _Flynn Waiver_ (2026-08-10)
+          - [`7661f3d`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7661f3de002bb3d8b6eff52551199005e043955f) **chore: minified all .OGG & .MP3 files (50% size reduction) + minified al** — _Pato (new acc)_ (2026-08-10)
+          - [`d5bcf64`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d5bcf64e5fddab06ffa06cbb82406c178fd3a780) **Merge pull request #2 from havaianasdestruido/minify-json** — _Pato (new acc)_ (2026-08-10)
+          - [`9133a46`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9133a46fdf112fb82f457dd782bc515d0ee95f01) **chore: minified all .JSON files** — _havaianasdestruido_ (2026-08-10)
+          - [`61a87ee`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/61a87ee7b1fa3f32fa8b263d4f99ec10d0609fe1) **Merge branch 'JordanSantiagoYT:main' into bottlenecks** — _Pato (new acc)_ (2026-08-10)
+          - [`458ddd3`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/458ddd35dfb43d2daf0e81abbdd021e5e30dea7a) **Remove excluded images from assets** — _Flynn Waiver_ (2026-08-10)
+          - [`20e8d67`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/20e8d670af6c697566b0e80d108894d3dd1ee85f) **Merge branch 'JordanSantiagoYT:main' into bottlenecks** — _Pato (new acc)_ (2026-08-10)
+          - [`738f8c8`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/738f8c89a77c255348f02eb9669cbc5c13d73fe5) **Merge branch 'JordanSantiagoYT:main' into main** — _Pato (new acc)_ (2026-08-10)
+          - [`21a9135`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/21a9135b4f17b63feec37b2494aa5960b67431c6) **Merge pull request #1 from havaianasdestruido/nightly-link** — _Pato (new acc)_ (2026-08-10)
+        - 📄 [Commits Page 5](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/mobile-workflow-haxelib/?after=c8ca8c22e24d2e88e84d51585c2e0288a68601c0+34)
+          - [`5f38b1e`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5f38b1e347a28888cc0cf182c91f736b26375d15) **perf(HScript): cache parsed AST to avoid re-parsing (ultra bottleneck)** — _UltimateQuack_ (2026-08-08)
+          - [`9f90c59`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9f90c596c1a7df0be189268a6c7651219d55ef02) **perf(FunkinLua): cache missing calls and fast-path var splitting (ultra ** — _UltimateQuack_ (2026-08-08)
+          - [`8b10795`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/8b1079510483b6c969e76398b4f6b4024408754c) **you know what would be funny? if this worked** — _JordanSantiagoYT_ (2026-08-04)
+          - [`9bcbc72`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9bcbc7219df4058f0b88e2f03a003a81d6865bd6) **Add HXCPP_NO_ARCH_LEVEL build configuration** — _Flynn Waiver_ (2026-07-27)
+          - [`9b31bb7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9b31bb70b41244a7c23544e0ad0450fa11204130) **Merge pull request #1559 from JordanSantiagoYT/feat/hxluau** — _Flynn Waiver_ (2026-07-23)
+          - [`9e7a4d1`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9e7a4d152600850c95f773f1c7ffa8b3fb660579) **Merge branch 'main' into feat/hxluau** — _Flynn Waiver_ (2026-07-23)
+          - [`51db49b`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/51db49b0a80d7c6712e792aaaa8a8af3aed859a3) **hxSehException my ass.** — _JordanSantiagoYT_ (2026-07-14)
+          - [`6f3a670`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6f3a6708dd50e7c63d97b5f42fc703feb42bab09) **Merge branch 'feat/hxluau' of https://github.com/JordanSantiagoYT/FNF-JS** — _Flynn Waiver_ (2026-07-10)
+          - [`898bbed`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/898bbeda0cb530fdf41718826127b95a8db2fe57) **Merge remote-tracking branch 'origin/main' into feat/hxluau** — _Flynn Waiver_ (2026-07-10)
+          - [`0ca7055`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0ca70551e0a90680f38b79465ea5a7f010bb2f3a) **Replace hxluajit with hxluau dependency** — _Flynn Waiver_ (2026-07-10)
+      - [`fix/workflows/mobile-setup`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/fix/workflows/mobile-setup) — HEAD: `144c806`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/workflows/mobile-setup)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/workflows/mobile-setup)
+          - [`144c806`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/144c806d38bb64c81d6a06b38f26fb4db428eab3) **Stupid mobile fix** — _Pato (new acc)_ (2026-08-30)
+          - [`380b3ca`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/380b3caaffa201794dac0c6bb562ff4f04794b5b) **Merge pull request #12 from havaianasdestruido/fix-hmm-json-bom-12799565** — _Pato (new acc)_ (2026-08-30)
+          - [`f275f5e`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f275f5e55e21feea5d1a6067ab4eae594897faa3) **Fix UTF-8 BOM in hmm.json and JSON configs** — _google-labs-jules[bot]_ (2026-08-30)
+          - [`6d1ccd7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6d1ccd7322b51fb73057389a0e03fdecabcf2293) **Change mobile branch to main in workflow** — _Pato (new acc)_ (2026-08-30)
+          - [`214207a`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/214207ad4aa0501efe9abcc7ce1bc2ad1576898b) **Merge pull request #11 from havaianasdestruido/rename-executable-phoenix** — _Pato (new acc)_ (2026-08-30)
+          - [`9304f53`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9304f53c5621d8d370f89aa0f681b58d6075a461) **Merge branch 'main' into rename-executable-phoenix-engine-93120916005531** — _Pato (new acc)_ (2026-08-30)
+          - [`0b975ed`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0b975ed989942c9ffc498b2f95c0dd57783aeba7) **Phoenix Engine this Phoenix Engine that, etc.** — _Pato (new acc)_ (2026-08-30)
+          - [`42ad9bc`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/42ad9bcc91179cb478bb3d0a77b9f5f3e064ebb4) **Rename engine executable and package name to FNF-Phoenix-Engine and quac** — _google-labs-jules[bot]_ (2026-08-30)
+          - [`c5dcfd7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c5dcfd721f6c96b4c49b8faf75186aa31e74dba3) **New icons** — _Pato (new acc)_ (2026-08-30)
+          - [`43f7f53`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/43f7f53dc8963bd564811d4220d484b27848445b) **Delete art/iconOG.png** — _Pato (new acc)_ (2026-08-30)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/workflows/mobile-setup/?after=8e2e39cf1aa831fa8b896a1a04a0bad05a2ac4f8+34)
+          - [`acac2d4`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/acac2d413c2edda9e982cfd2f89a4cacf8d5c76e) **asdf** — _Pato (new acc)_ (2026-08-23)
+          - [`da4472b`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/da4472b7756cd54b8526b3ea5b33189051f8df14) **Merge pull request #9 from havaianasdestruido/fix/workflows-and-cache-op** — _Pato (new acc)_ (2026-08-23)
+          - [`1174eb2`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1174eb2f22d33147524fbe7fa486422c13aee988) **Fix failing workflows, build artifact paths, and cache system** — _google-labs-jules[bot]_ (2026-08-23)
+          - [`9e12696`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9e12696349944743295cc02ee2fdcfe10eb96066) **Fix failing workflows, build artifact paths, and cache system** — _google-labs-jules[bot]_ (2026-08-23)
+          - [`26d3298`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/26d32981f30b4fb5d2fb9e9c375e50d38a3bc11a) **Fix failing workflows and optimize cache system** — _google-labs-jules[bot]_ (2026-08-23)
+          - [`fa4aadb`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/fa4aadb22ed25b7a2a0b64c4be93ca5b05be901b) **Fix: Add hxgamemode installation and reorder dependencies for Windows se** — _Pato (new acc)_ (2026-08-21)
+          - [`43e085d`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/43e085d34227c1b22b20144bbc7308bbbed4da35) **Fix: Move hxgamemode before hython and ensure proper dependency order** — _Pato (new acc)_ (2026-08-21)
+          - [`b5c8884`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b5c8884e3aa0ee25e5a3f3aea900bff64050c8a1) **Merge pull request #7 from havaianasdestruido/codex/include-bf-clicker-m** — _Pato (new acc)_ (2026-08-21)
+          - [`fc9bc75`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/fc9bc75f824939c9826a69bf6a4162ded2646971) **Merge pull request #8 from havaianasdestruido/codex/optimize-workflow-co** — _Pato (new acc)_ (2026-08-21)
+          - [`5efeff7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5efeff7a7f487a6df92ba71fa37f90dc95f02f33) **Speed up native build workflows** — _Pato (new acc)_ (2026-08-21)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/workflows/mobile-setup/?after=1743142c15108db3048cf19cb2a4bc0a705fa430+34)
+          - [`70b48e9`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/70b48e9eed3801d4c0fea1193ef762ee0066f7d7) **chore: remove applied BOTTLENECK note in FunkinLua.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`020e892`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/020e892015a9a1f46f154f7175784d2dad9e39bf) **chore: remove applied BOTTLENECK note in FunkinLua.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`c95b195`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c95b195c26834fd8abc0d6e2e71c70a72a5b0f90) **chore: remove applied BOTTLENECK note in PlayState.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`fd83ccf`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/fd83ccf6c20539a1cec763697ea046f42efce12e) **chore: remove applied BOTTLENECK note in PlayState.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`91787a9`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/91787a9b6944709871bf6b2e073177320062e51d) **chore: remove applied BOTTLENECK note in FlxGame.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`5860a82`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5860a825f4f6869ec3ed963cb7cd2b4b6a59c3fc) **chore: remove applied BOTTLENECK note in FreeplayState.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`a7a0677`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a7a067798bb8d4a9f2c954a3a228cc578e53e7de) **chore: remove applied BOTTLENECK note in Alphabet.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`92624ea`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/92624ea722e5c1be639eb84f7e07c6bc782f41eb) **chore: remove applied BOTTLENECK note in Alphabet.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`541507e`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/541507edcf8f47e37fa0bcb97d569f55b651a1af) **Delete source/ImageOutline.hx** — _Flynn Waiver_ (2026-08-12)
+          - [`932e78a`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/932e78a3d730776b3482dca89ad500fc02a1050a) **Merge branch 'main' into bottlenecks** — _Flynn Waiver_ (2026-08-12)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/workflows/mobile-setup/?after=002605a10119d98bc826bbe857d40fad74f369a7+34)
+          - [`7661f3d`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7661f3de002bb3d8b6eff52551199005e043955f) **chore: minified all .OGG & .MP3 files (50% size reduction) + minified al** — _Pato (new acc)_ (2026-08-10)
+          - [`d5bcf64`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d5bcf64e5fddab06ffa06cbb82406c178fd3a780) **Merge pull request #2 from havaianasdestruido/minify-json** — _Pato (new acc)_ (2026-08-10)
+          - [`9133a46`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9133a46fdf112fb82f457dd782bc515d0ee95f01) **chore: minified all .JSON files** — _havaianasdestruido_ (2026-08-10)
+          - [`61a87ee`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/61a87ee7b1fa3f32fa8b263d4f99ec10d0609fe1) **Merge branch 'JordanSantiagoYT:main' into bottlenecks** — _Pato (new acc)_ (2026-08-10)
+          - [`458ddd3`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/458ddd35dfb43d2daf0e81abbdd021e5e30dea7a) **Remove excluded images from assets** — _Flynn Waiver_ (2026-08-10)
+          - [`20e8d67`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/20e8d670af6c697566b0e80d108894d3dd1ee85f) **Merge branch 'JordanSantiagoYT:main' into bottlenecks** — _Pato (new acc)_ (2026-08-10)
+          - [`738f8c8`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/738f8c89a77c255348f02eb9669cbc5c13d73fe5) **Merge branch 'JordanSantiagoYT:main' into main** — _Pato (new acc)_ (2026-08-10)
+          - [`21a9135`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/21a9135b4f17b63feec37b2494aa5960b67431c6) **Merge pull request #1 from havaianasdestruido/nightly-link** — _Pato (new acc)_ (2026-08-10)
+          - [`510c422`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/510c4224cf503bc0474244dd409105809000c995) **run oxipng for good measure** — _Flynn Waiver_ (2026-08-10)
+          - [`d59a291`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d59a2913ccc205ba8eb906a6cde4b1e2a1f091a9) **fixed readme for the branch** — _Pato (new acc)_ (2026-08-10)
+        - 📄 [Commits Page 5](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix/workflows/mobile-setup/?after=9f90c596c1a7df0be189268a6c7651219d55ef02+34)
+          - [`8b10795`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/8b1079510483b6c969e76398b4f6b4024408754c) **you know what would be funny? if this worked** — _JordanSantiagoYT_ (2026-08-04)
+          - [`9bcbc72`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9bcbc7219df4058f0b88e2f03a003a81d6865bd6) **Add HXCPP_NO_ARCH_LEVEL build configuration** — _Flynn Waiver_ (2026-07-27)
+          - [`9b31bb7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9b31bb70b41244a7c23544e0ad0450fa11204130) **Merge pull request #1559 from JordanSantiagoYT/feat/hxluau** — _Flynn Waiver_ (2026-07-23)
+          - [`9e7a4d1`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9e7a4d152600850c95f773f1c7ffa8b3fb660579) **Merge branch 'main' into feat/hxluau** — _Flynn Waiver_ (2026-07-23)
+          - [`51db49b`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/51db49b0a80d7c6712e792aaaa8a8af3aed859a3) **hxSehException my ass.** — _JordanSantiagoYT_ (2026-07-14)
+          - [`6f3a670`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6f3a6708dd50e7c63d97b5f42fc703feb42bab09) **Merge branch 'feat/hxluau' of https://github.com/JordanSantiagoYT/FNF-JS** — _Flynn Waiver_ (2026-07-10)
+          - [`898bbed`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/898bbeda0cb530fdf41718826127b95a8db2fe57) **Merge remote-tracking branch 'origin/main' into feat/hxluau** — _Flynn Waiver_ (2026-07-10)
+          - [`0ca7055`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0ca70551e0a90680f38b79465ea5a7f010bb2f3a) **Replace hxluajit with hxluau dependency** — _Flynn Waiver_ (2026-07-10)
+          - [`3cb3bc6`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/3cb3bc6084092d2122911335acdcc2ec59db110d) **I hate this** — _Flynn Waiver_ (2026-07-10)
+          - [`34060ed`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/34060ed4d5a895c2a0cff4fbcbddfd634b537dd2) **Merge branch 'main' into feat/hxluau** — _Flynn Waiver_ (2026-07-10)
+      - [`fix-broken-workflows-451876394576674102`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/fix-broken-workflows-451876394576674102) — HEAD: `f76f7fe`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix-broken-workflows-451876394576674102)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix-broken-workflows-451876394576674102)
+          - [`f76f7fe`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f76f7fea749db8c1434656c779d714e4884d6d5e) **fix: repair broken GitHub Actions workflows and Android build compilatio** — _google-labs-jules[bot]_ (2026-08-31)
+          - [`31dd949`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/31dd949d22f0cdb30abe0d92249d2cc09044c1ff) **fix: repair broken GitHub Actions workflows and Android compilation issu** — _google-labs-jules[bot]_ (2026-08-31)
+          - [`1c73057`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1c73057ab2fb5a625d312d69ed3eb03bed9cbc47) **fix: repair broken GitHub Actions workflows and project haxelib dependen** — _google-labs-jules[bot]_ (2026-08-31)
+          - [`7701ed8`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7701ed8e5530a6192de386e5244cb8d370332f1d) **fix: repair broken GitHub Actions workflows** — _google-labs-jules[bot]_ (2026-08-31)
+          - [`b83f604`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b83f604b7007c88c36a8d87fe5ead519d2408221) **Update README.md** — _Pato (new acc)_ (2026-08-31)
+          - [`62a07da`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/62a07dae3c1ba48d378b1b777fae1d3bc16d670e) **Update nightly.yml** — _Pato (new acc)_ (2026-08-31)
+          - [`662945b`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/662945b94e9382fa1fab9da1826c9bf99853c817) **Update mobile.yml** — _Pato (new acc)_ (2026-08-31)
+          - [`181b9dd`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/181b9dd1792ba4850818e5df29902aa8f335a572) **Update mobile-release.yml** — _Pato (new acc)_ (2026-08-31)
+          - [`31f39ab`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/31f39abd9c3997556de871d92b2a1dd48918e1ce) **Update nightly.yml** — _Pato (new acc)_ (2026-08-31)
+          - [`9aad3c7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9aad3c7467837dd9e1a4e6a3eca159257e5fcf25) **Update mobile.yml** — _Pato (new acc)_ (2026-08-31)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix-broken-workflows-451876394576674102/?after=8c4fc57935036db031448c13ea1997ac9b6a8632+34)
+          - [`cfab58f`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/cfab58fb760ccf8cd8318954903ca1920d9bfadf) **Delete art/icon16.png** — _Pato (new acc)_ (2026-08-30)
+          - [`c0e6817`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c0e681752c2054d7202494c8641875e6cdbd68ed) **Merge pull request #10 from havaianasdestruido/feat/mobile-android-suppo** — _Pato (new acc)_ (2026-08-30)
+          - [`55d19cb`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/55d19cbfe65a42d4f8f9380b8cc7fd906eb3f13a) **Fix FlxActionInputDigital, FlxKey.NONE, and TitleState imports in Contro** — _google-labs-jules[bot]_ (2026-08-30)
+          - [`aaa6971`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/aaa6971794ed0ae8b2702b3607988e4d904465c9) **Add ClientPrefs and CoolUtil imports to mobile source files** — _google-labs-jules[bot]_ (2026-08-30)
+          - [`b88410f`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b88410f0e50681c0d2ebad8cdf10adbfbe1c3b48) **Add mobile (Android) target support and touch controls** — _google-labs-jules[bot]_ (2026-08-30)
+          - [`4e86b34`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4e86b3429b20cb3eeddf3828485508a12fe9bf86) **Fix mobile CI workflow paths, keystore handling, and null safety** — _google-labs-jules[bot]_ (2026-08-30)
+          - [`adee2fe`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/adee2fec8cbd7d2f5f817d7fc563565fd413b630) **Fix Certificate type qualification in project.hxp for HXP build** — _google-labs-jules[bot]_ (2026-08-30)
+          - [`e18aa9c`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e18aa9c3d85cf8c350f31bbc5c14665bd8c364e6) **Fix HXP certificate reference and update mobile CI workflows** — _google-labs-jules[bot]_ (2026-08-30)
+          - [`b049c31`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b049c3172a677cf9b9ee456783a778a55f4d710c) **Add mobile and Android support with touch controls and CI workflows** — _google-labs-jules[bot]_ (2026-08-29)
+          - [`b32e766`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b32e766873be17daf10731dba3e231e303ab26d4) **New readme and stuff** — _Pato (new acc)_ (2026-08-29)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix-broken-workflows-451876394576674102/?after=944603feb9df79de990339ccc5710f8065a7b7d5+34)
+          - [`628cf41`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/628cf417410dc613c27abf36bbc66db9c6fe1436) **Readme for built-in mods** — _Pato (new acc)_ (2026-08-21)
+          - [`9088277`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/90882778922be2b04ec6a923fd317e7cbe2126c3) **Enhance comments in TemplateScript.py** — _Pato (new acc)_ (2026-08-21)
+          - [`fc0393b`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/fc0393b15bc36c6f2903b59d956878cee36c7261) **Add installation of hython 0.0.352-beta** — _Pato (new acc)_ (2026-08-21)
+          - [`449cdda`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/449cdda19951d548a18a5ec937b51ab054b88cdc) **Merge pull request #6 from havaianasdestruido/bottlenecks** — _Pato (new acc)_ (2026-08-21)
+          - [`0324f42`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0324f425dadd4614559783472d091d56b186cfab) **Merge branch 'main' into bottlenecks** — _Pato (new acc)_ (2026-08-21)
+          - [`1288e8f`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1288e8fcbbf08af1a0b2638d8f39643ca5d881ae) **Merge pull request #5 from havaianasdestruido/the-fearsome-python-experi** — _Pato (new acc)_ (2026-08-21)
+          - [`510bf78`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/510bf7844707d7f54ea663de9d69bc21935a6793) **Merge branch 'main' into the-fearsome-python-experiment** — _Pato (new acc)_ (2026-08-21)
+          - [`2cb6640`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/2cb6640324ccf8faeb54259ef461623d318c8924) **you don't need to include this** — _Flynn Waiver_ (2026-08-12)
+          - [`838e4ab`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/838e4ab02f035699067bcbc2a88578ff1b037bca) **Merge branch 'main' into bottlenecks** — _Flynn Waiver_ (2026-08-12)
+          - [`72c85bb`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/72c85bba0897e3406d2b348c3197c9712c47ff21) **feat(vscode): add ULTRA build task variants for native and HTML5** — _havaianasdestruido_ (2026-08-12)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix-broken-workflows-451876394576674102/?after=ba654a1c5cef6f98eff84ec64f2ede4cce26cc99+34)
+          - [`80bfc9d`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/80bfc9dd0b8097a99f10896dac41f76486474676) **Merge branch 'JordanSantiagoYT:main' into bottlenecks** — _Pato (new acc)_ (2026-08-11)
+          - [`2355cb0`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/2355cb08e0d2cdac00b174572835c42fb5d30f72) **Merge branch 'main' of https://github.com/JordanSantiagoYT/FNF-JS-Engine** — _JordanSantiagoYT_ (2026-08-11)
+          - [`cf37b69`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/cf37b69a69aec875ae10ce29b0ba02160734df18) **claps hands** — _JordanSantiagoYT_ (2026-08-11)
+          - [`d8b7db1`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d8b7db17ac17c643f62103fc330fbd6d915f3a59) **Merge branch 'main' of https://github.com/JordanSantiagoYT/FNF-JS-Engine** — _Flynn Waiver_ (2026-08-11)
+          - [`871323b`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/871323b491662867ec1c227ddc37e1c5b24f268b) **fix: HScript-improved should now replace HScript** — _Flynn Waiver_ (2026-08-11)
+          - [`ea164ed`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/ea164ed81c200ce6bff5ebcd77dbc690cdcf1309) **Merge branch 'JordanSantiagoYT:main' into bottlenecks** — _Pato (new acc)_ (2026-08-11)
+          - [`192918f`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/192918f4a8a6ef278f165358d85cb69fdcdce7b9) **Merge pull request #3 from JordanSantiagoYT/main** — _Pato (new acc)_ (2026-08-11)
+          - [`1a434a2`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1a434a28c4dbc6f5f5f604e56415f2b163f4b6c0) **Merge pull request #1587 from havaianasdestruido/git-clone-warning** — _Flynn Waiver_ (2026-08-11)
+          - [`8e23735`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/8e2373509e7c80adf192e53b00926387c4ee3083) **feat: add pure-Python BF Clicker mod** — _havaianasdestruido_ (2026-08-11)
+          - [`ba3ee29`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/ba3ee2979fa16b1f258aed5a194b1669a349f5d1) **Merge Rain FX toggle into global shaders toggle** — _havaianasdestruido_ (2026-08-11)
+        - 📄 [Commits Page 5](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix-broken-workflows-451876394576674102/?after=f5ade11f059a9929fa494dff98bb17315152e626+34)
+          - [`8a786d5`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/8a786d5cd802a94f99cb68c0965a44665305e6ad) **Merge branch 'JordanSantiagoYT:main' into main** — _Pato (new acc)_ (2026-08-10)
+          - [`0ce69c0`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0ce69c04cea04056f481b7d773b6ac8b4cccea20) **Merge pull request #1575 from havaianasdestruido/asset-compression-wip** — _Flynn Waiver_ (2026-08-10)
+          - [`592f111`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/592f111d6d5c4bbe09362a9eb3a38a6389e783d6) **Merge branch 'JordanSantiagoYT:main' into nightly-link** — _Pato (new acc)_ (2026-08-10)
+          - [`2d611b8`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/2d611b8a04a8ff1fd6b180fb032f33167323acc2) **Merge branch 'JordanSantiagoYT:main' into asset-compression-wip** — _Pato (new acc)_ (2026-08-10)
+          - [`fef48dd`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/fef48dd17456ed2ba974ef6c7c8bcf60f667ad55) **Merge branch 'main' into main** — _Flynn Waiver_ (2026-08-10)
+          - [`ee4ad74`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/ee4ad745136495f4ea62e393079e3b9fa7c3ec8c) **fix MORE crashes related to defaultCamZoom** — _JordanSantiagoYT_ (2026-08-10)
+          - [`7211dab`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7211dab357864671f8e9990d6bb2094ead3286bb) **Merge branch 'main' into main** — _Flynn Waiver_ (2026-08-10)
+          - [`dbc0687`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/dbc0687f14a7d2bcfa4510b5df34bddc8ea75e43) **remove newline in project.hxp** — _JordanSantiagoYT_ (2026-08-09)
+          - [`874478a`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/874478a46c751aeb84feea083dffedf61eb6e5ae) **based on https://github.com/oprypin/nightly.link/blob/master/.github/wor** — _Pato (new acc)_ (2026-08-09)
+          - [`4645622`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/46456223fc36a1b4bb00df27515e753182b44236) **removed some ULTRA flag building scripts** — _havaianasdestruido_ (2026-08-09)
+      - [`fix-hmm-json-bom-12799565648666142956`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/fix-hmm-json-bom-12799565648666142956) — HEAD: `f275f5e`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix-hmm-json-bom-12799565648666142956)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix-hmm-json-bom-12799565648666142956)
+          - [`f275f5e`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f275f5e55e21feea5d1a6067ab4eae594897faa3) **Fix UTF-8 BOM in hmm.json and JSON configs** — _google-labs-jules[bot]_ (2026-08-30)
+          - [`6d1ccd7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6d1ccd7322b51fb73057389a0e03fdecabcf2293) **Change mobile branch to main in workflow** — _Pato (new acc)_ (2026-08-30)
+          - [`214207a`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/214207ad4aa0501efe9abcc7ce1bc2ad1576898b) **Merge pull request #11 from havaianasdestruido/rename-executable-phoenix** — _Pato (new acc)_ (2026-08-30)
+          - [`9304f53`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9304f53c5621d8d370f89aa0f681b58d6075a461) **Merge branch 'main' into rename-executable-phoenix-engine-93120916005531** — _Pato (new acc)_ (2026-08-30)
+          - [`0b975ed`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0b975ed989942c9ffc498b2f95c0dd57783aeba7) **Phoenix Engine this Phoenix Engine that, etc.** — _Pato (new acc)_ (2026-08-30)
+          - [`42ad9bc`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/42ad9bcc91179cb478bb3d0a77b9f5f3e064ebb4) **Rename engine executable and package name to FNF-Phoenix-Engine and quac** — _google-labs-jules[bot]_ (2026-08-30)
+          - [`c5dcfd7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c5dcfd721f6c96b4c49b8faf75186aa31e74dba3) **New icons** — _Pato (new acc)_ (2026-08-30)
+          - [`43f7f53`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/43f7f53dc8963bd564811d4220d484b27848445b) **Delete art/iconOG.png** — _Pato (new acc)_ (2026-08-30)
+          - [`f09c503`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f09c503d725e64bc3c3839e931f87ce2f8555dad) **Delete art/icon64.png** — _Pato (new acc)_ (2026-08-30)
+          - [`8c4fc57`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/8c4fc57935036db031448c13ea1997ac9b6a8632) **Delete art/icon32.png** — _Pato (new acc)_ (2026-08-30)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix-hmm-json-bom-12799565648666142956/?after=da4472b7756cd54b8526b3ea5b33189051f8df14+34)
+          - [`1174eb2`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1174eb2f22d33147524fbe7fa486422c13aee988) **Fix failing workflows, build artifact paths, and cache system** — _google-labs-jules[bot]_ (2026-08-23)
+          - [`9e12696`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9e12696349944743295cc02ee2fdcfe10eb96066) **Fix failing workflows, build artifact paths, and cache system** — _google-labs-jules[bot]_ (2026-08-23)
+          - [`26d3298`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/26d32981f30b4fb5d2fb9e9c375e50d38a3bc11a) **Fix failing workflows and optimize cache system** — _google-labs-jules[bot]_ (2026-08-23)
+          - [`fa4aadb`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/fa4aadb22ed25b7a2a0b64c4be93ca5b05be901b) **Fix: Add hxgamemode installation and reorder dependencies for Windows se** — _Pato (new acc)_ (2026-08-21)
+          - [`43e085d`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/43e085d34227c1b22b20144bbc7308bbbed4da35) **Fix: Move hxgamemode before hython and ensure proper dependency order** — _Pato (new acc)_ (2026-08-21)
+          - [`b5c8884`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b5c8884e3aa0ee25e5a3f3aea900bff64050c8a1) **Merge pull request #7 from havaianasdestruido/codex/include-bf-clicker-m** — _Pato (new acc)_ (2026-08-21)
+          - [`fc9bc75`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/fc9bc75f824939c9826a69bf6a4162ded2646971) **Merge pull request #8 from havaianasdestruido/codex/optimize-workflow-co** — _Pato (new acc)_ (2026-08-21)
+          - [`5efeff7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5efeff7a7f487a6df92ba71fa37f90dc95f02f33) **Speed up native build workflows** — _Pato (new acc)_ (2026-08-21)
+          - [`6cee507`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6cee5073a5c575caba7ecf6f185a9de0ab4ecd1e) **fix: ship bf clicker mod in build outputs** — _Pato (new acc)_ (2026-08-21)
+          - [`944603f`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/944603feb9df79de990339ccc5710f8065a7b7d5) **Update README.md** — _Pato (new acc)_ (2026-08-21)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix-hmm-json-bom-12799565648666142956/?after=020e892015a9a1f46f154f7175784d2dad9e39bf+34)
+          - [`c95b195`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c95b195c26834fd8abc0d6e2e71c70a72a5b0f90) **chore: remove applied BOTTLENECK note in PlayState.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`fd83ccf`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/fd83ccf6c20539a1cec763697ea046f42efce12e) **chore: remove applied BOTTLENECK note in PlayState.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`91787a9`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/91787a9b6944709871bf6b2e073177320062e51d) **chore: remove applied BOTTLENECK note in FlxGame.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`5860a82`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5860a825f4f6869ec3ed963cb7cd2b4b6a59c3fc) **chore: remove applied BOTTLENECK note in FreeplayState.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`a7a0677`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a7a067798bb8d4a9f2c954a3a228cc578e53e7de) **chore: remove applied BOTTLENECK note in Alphabet.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`92624ea`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/92624ea722e5c1be639eb84f7e07c6bc782f41eb) **chore: remove applied BOTTLENECK note in Alphabet.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`541507e`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/541507edcf8f47e37fa0bcb97d569f55b651a1af) **Delete source/ImageOutline.hx** — _Flynn Waiver_ (2026-08-12)
+          - [`932e78a`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/932e78a3d730776b3482dca89ad500fc02a1050a) **Merge branch 'main' into bottlenecks** — _Flynn Waiver_ (2026-08-12)
+          - [`7f83bb2`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7f83bb27886d281e018b8c7fdb113bb85e01162e) **Remove "Counter Border"** — _JordanSantiagoYT_ (2026-08-12)
+          - [`ba654a1`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/ba654a1c5cef6f98eff84ec64f2ede4cce26cc99) **fix(build): pin hxcpp to git on Windows MSVC** — _havaianasdestruido_ (2026-08-11)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix-hmm-json-bom-12799565648666142956/?after=d5bcf64e5fddab06ffa06cbb82406c178fd3a780+34)
+          - [`9133a46`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9133a46fdf112fb82f457dd782bc515d0ee95f01) **chore: minified all .JSON files** — _havaianasdestruido_ (2026-08-10)
+          - [`61a87ee`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/61a87ee7b1fa3f32fa8b263d4f99ec10d0609fe1) **Merge branch 'JordanSantiagoYT:main' into bottlenecks** — _Pato (new acc)_ (2026-08-10)
+          - [`458ddd3`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/458ddd35dfb43d2daf0e81abbdd021e5e30dea7a) **Remove excluded images from assets** — _Flynn Waiver_ (2026-08-10)
+          - [`20e8d67`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/20e8d670af6c697566b0e80d108894d3dd1ee85f) **Merge branch 'JordanSantiagoYT:main' into bottlenecks** — _Pato (new acc)_ (2026-08-10)
+          - [`738f8c8`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/738f8c89a77c255348f02eb9669cbc5c13d73fe5) **Merge branch 'JordanSantiagoYT:main' into main** — _Pato (new acc)_ (2026-08-10)
+          - [`21a9135`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/21a9135b4f17b63feec37b2494aa5960b67431c6) **Merge pull request #1 from havaianasdestruido/nightly-link** — _Pato (new acc)_ (2026-08-10)
+          - [`510c422`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/510c4224cf503bc0474244dd409105809000c995) **run oxipng for good measure** — _Flynn Waiver_ (2026-08-10)
+          - [`d59a291`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d59a2913ccc205ba8eb906a6cde4b1e2a1f091a9) **fixed readme for the branch** — _Pato (new acc)_ (2026-08-10)
+          - [`e020b5f`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e020b5f8c716c089d83d14c25d3e8e1f2194cfbc) **Merge branch 'JordanSantiagoYT:main' into nightly-link** — _Pato (new acc)_ (2026-08-10)
+          - [`f5ade11`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f5ade11f059a9929fa494dff98bb17315152e626) **Update README.md with new engine details** — _Pato (new acc)_ (2026-08-10)
+        - 📄 [Commits Page 5](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/fix-hmm-json-bom-12799565648666142956/?after=9bcbc7219df4058f0b88e2f03a003a81d6865bd6+34)
+          - [`9b31bb7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9b31bb70b41244a7c23544e0ad0450fa11204130) **Merge pull request #1559 from JordanSantiagoYT/feat/hxluau** — _Flynn Waiver_ (2026-07-23)
+          - [`9e7a4d1`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9e7a4d152600850c95f773f1c7ffa8b3fb660579) **Merge branch 'main' into feat/hxluau** — _Flynn Waiver_ (2026-07-23)
+          - [`51db49b`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/51db49b0a80d7c6712e792aaaa8a8af3aed859a3) **hxSehException my ass.** — _JordanSantiagoYT_ (2026-07-14)
+          - [`6f3a670`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6f3a6708dd50e7c63d97b5f42fc703feb42bab09) **Merge branch 'feat/hxluau' of https://github.com/JordanSantiagoYT/FNF-JS** — _Flynn Waiver_ (2026-07-10)
+          - [`898bbed`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/898bbeda0cb530fdf41718826127b95a8db2fe57) **Merge remote-tracking branch 'origin/main' into feat/hxluau** — _Flynn Waiver_ (2026-07-10)
+          - [`0ca7055`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0ca70551e0a90680f38b79465ea5a7f010bb2f3a) **Replace hxluajit with hxluau dependency** — _Flynn Waiver_ (2026-07-10)
+          - [`3cb3bc6`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/3cb3bc6084092d2122911335acdcc2ec59db110d) **I hate this** — _Flynn Waiver_ (2026-07-10)
+          - [`34060ed`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/34060ed4d5a895c2a0cff4fbcbddfd634b537dd2) **Merge branch 'main' into feat/hxluau** — _Flynn Waiver_ (2026-07-10)
+          - [`43e236c`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/43e236c2888144550186750b946c0121af4bdfea) **Update URL for hxluajit repository** — _Flynn Waiver_ (2026-07-10)
+          - [`f5b01a5`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f5b01a5455041aceed0bd19325199029d0d51567) **Migrate from hxluajit to hxluau library** — _Flynn Waiver_ (2026-07-08)
+      - _...and 6 more — [View all branches](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/branches)_
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (1)
+        - 🟢 Open [#14 fix: repair broken GitHub Actions workflows](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/14) — _havaianasdestruido_ (2026-08-31) `fix-broken-workflows-451876394576674102` → `main`
+          - 📝 4 commit(s) in this PR
+            - [`7701ed8`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7701ed8e5530a6192de386e5244cb8d370332f1d) fix: repair broken GitHub Actions workflows
+            - [`1c73057`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1c73057ab2fb5a625d312d69ed3eb03bed9cbc47) fix: repair broken GitHub Actions workflows and project haxe
+            - [`31dd949`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/31dd949d22f0cdb30abe0d92249d2cc09044c1ff) fix: repair broken GitHub Actions workflows and Android comp
+            - [`f76f7fe`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f76f7fea749db8c1434656c779d714e4884d6d5e) fix: repair broken GitHub Actions workflows and Android buil
+      - **Closed PRs** (13)
+        - ✅ Merged [#13 workflow: default builds to Windows and Android with toggle](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/13) — _havaianasdestruido_ (2026-08-30) `jules-15472080900066083561-4f7fe005` → `main`
+          - 📝 3 commit(s) in this PR
+            - [`12717f6`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/12717f68da1681f9548e882178e505c47e35a11d) workflow: default builds to Windows and Android with toggle
+            - [`582c98e`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/582c98e27bb7cff13c5f6973f9829e97e7b9d1b0) workflow: default builds to Windows and Android with toggle
+            - [`57adef3`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/57adef303a2c3a7539b0d3812f0dfd3bb36939ae) Merge branch 'main' into jules-15472080900066083561-4f7fe005
+        - ✅ Merged [#12 Fix UTF-8 BOM in hmm.json causing hmm install failure](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/12) — _havaianasdestruido_ (2026-08-30) `fix-hmm-json-bom-12799565648666142956` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`f275f5e`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f275f5e55e21feea5d1a6067ab4eae594897faa3) Fix UTF-8 BOM in hmm.json and JSON configs
+        - ✅ Merged [#11 Rebranding](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/11) — _havaianasdestruido_ (2026-08-30) `rename-executable-phoenix-engine-9312091600553147924` → `main`
+          - 📝 2 commit(s) in this PR
+            - [`42ad9bc`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/42ad9bcc91179cb478bb3d0a77b9f5f3e064ebb4) Rename engine executable and package name to FNF-Phoenix-Eng
+            - [`9304f53`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9304f53c5621d8d370f89aa0f681b58d6075a461) Merge branch 'main' into rename-executable-phoenix-engine-93
+        - ✅ Merged [#10 Add Mobile and Android Target Support](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/10) — _havaianasdestruido_ (2026-08-29) `feat/mobile-android-support-4381999023176773013` → `main`
+          - 📝 7 commit(s) in this PR
+            - [`b049c31`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b049c3172a677cf9b9ee456783a778a55f4d710c) Add mobile and Android support with touch controls and CI wo
+            - [`e18aa9c`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e18aa9c3d85cf8c350f31bbc5c14665bd8c364e6) Fix HXP certificate reference and update mobile CI workflows
+            - [`adee2fe`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/adee2fec8cbd7d2f5f817d7fc563565fd413b630) Fix Certificate type qualification in project.hxp for HXP bu
+            - [`4e86b34`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4e86b3429b20cb3eeddf3828485508a12fe9bf86) Fix mobile CI workflow paths, keystore handling, and null sa
+            - [`b88410f`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b88410f0e50681c0d2ebad8cdf10adbfbe1c3b48) Add mobile (Android) target support and touch controls
+        - ✅ Merged [#9 Fix failing workflows and optimize cache system](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/9) — _havaianasdestruido_ (2026-08-23) `fix/workflows-and-cache-optimization-14471544405070009642` → `main`
+          - 📝 3 commit(s) in this PR
+            - [`26d3298`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/26d32981f30b4fb5d2fb9e9c375e50d38a3bc11a) Fix failing workflows and optimize cache system
+            - [`9e12696`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9e12696349944743295cc02ee2fdcfe10eb96066) Fix failing workflows, build artifact paths, and cache syste
+            - [`1174eb2`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1174eb2f22d33147524fbe7fa486422c13aee988) Fix failing workflows, build artifact paths, and cache syste
+        - ✅ Merged [#8 Speed up native build workflows and port parallel build flag](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/8) — _havaianasdestruido_ (2026-08-21) `codex/optimize-workflow-compilation-time` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`5efeff7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5efeff7a7f487a6df92ba71fa37f90dc95f02f33) Speed up native build workflows
+        - ✅ Merged [#7 Ship bf-clicker mod in build outputs](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/7) — _havaianasdestruido_ (2026-08-21) `codex/include-bf-clicker-mod-in-output-zip` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`6cee507`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6cee5073a5c575caba7ecf6f185a9de0ab4ecd1e) fix: ship bf clicker mod in build outputs
+        - ✅ Merged [#6 Bottlenecks](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/6) — _havaianasdestruido_ (2026-08-21) `bottlenecks` → `main`
+          - 📝 30 commit(s) in this PR
+            - [`d59a291`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d59a2913ccc205ba8eb906a6cde4b1e2a1f091a9) fixed readme for the branch
+            - [`20e8d67`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/20e8d670af6c697566b0e80d108894d3dd1ee85f) Merge branch 'JordanSantiagoYT:main' into bottlenecks
+            - [`61a87ee`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/61a87ee7b1fa3f32fa8b263d4f99ec10d0609fe1) Merge branch 'JordanSantiagoYT:main' into bottlenecks
+            - [`5870b8c`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5870b8ce5725365c1e6422b426b48e9e32c2e147) Merge branch 'main' into bottlenecks
+            - [`ba3ee29`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/ba3ee2979fa16b1f258aed5a194b1669a349f5d1) Merge Rain FX toggle into global shaders toggle
+        - ✅ Merged [#5 The fearsome python experiment is now fully completed](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/5) — _havaianasdestruido_ (2026-08-21) `the-fearsome-python-experiment` → `main`
+          - 📝 4 commit(s) in this PR
+            - [`87e4d85`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/87e4d85da9331ac5635444f7b2dd9ab56b41a975) feat: add Python script modding via Hython
+            - [`8e23735`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/8e2373509e7c80adf192e53b00926387c4ee3083) feat: add pure-Python BF Clicker mod
+            - [`ba654a1`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/ba654a1c5cef6f98eff84ec64f2ede4cce26cc99) fix(build): pin hxcpp to git on Windows MSVC
+            - [`510bf78`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/510bf7844707d7f54ea663de9d69bc21935a6793) Merge branch 'main' into the-fearsome-python-experiment
+        - 🔴 Closed [#4 merge some stuff made by ArkoseLabsOfficial and Moxie](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/4) — _havaianasdestruido_ (2026-08-14) `main` → `mobile-test`
+          - 📝 30 commit(s) in this PR
+            - [`f31204e`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f31204edb535a90803dab944a9effbe3aae92503) some mobile stuffs
+            - [`9511809`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/95118097c8dbafa8e0f38211d610c01f6f40c6fe) they are using homu's lime huh, that makes my life easier
+            - [`82398cc`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/82398cc1986ac75eb799425d0d8a5f16b6387289) funni
+            - [`96a9d97`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/96a9d971017f460f5b79626491786d4ce88adfdc) branch: fucker
+            - [`1b1fa89`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1b1fa89749188b003f48ce0c15516d6b9de04870) fuck
+        - ✅ Merged [#3 upd](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/3) — _havaianasdestruido_ (2026-08-10) `main` → `main`
+          - 📝 13 commit(s) in this PR
+            - [`7661f3d`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7661f3de002bb3d8b6eff52551199005e043955f) chore: minified all .OGG & .MP3 files (50% size reduction) +
+            - [`002605a`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/002605a10119d98bc826bbe857d40fad74f369a7) Delete compress.ps1
+            - [`e3ba75c`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e3ba75ced39de86876bad7a2259fdd0cac4aa912) Revert "chore: minified all .OGG & .MP3 files (50% size redu
+            - [`d81aacf`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d81aacf2fa642749c1142036cf14c4bd85d55734) Revert "Delete compress.ps1"
+            - [`688d946`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/688d9467da09651190b68a5befbc3bf5a75ccfef) compress the audio files, again
+        - ✅ Merged [#2 Minify json](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/2) — _havaianasdestruido_ (2026-08-10) `minify-json` → `main`
+          - 📝 2 commit(s) in this PR
+            - [`458ddd3`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/458ddd35dfb43d2daf0e81abbdd021e5e30dea7a) Remove excluded images from assets
+            - [`9133a46`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9133a46fdf112fb82f457dd782bc515d0ee95f01) chore: minified all .JSON files
+        - ✅ Merged [#1 Nightly link](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/1) — _havaianasdestruido_ (2026-08-10) `nightly-link` → `main`
+          - 📝 3 commit(s) in this PR
+            - [`874478a`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/874478a46c751aeb84feea083dffedf61eb6e5ae) based on https://github.com/oprypin/nightly.link/blob/master
+            - [`592f111`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/592f111d6d5c4bbe09362a9eb3a38a6389e783d6) Merge branch 'JordanSantiagoYT:main' into nightly-link
+            - [`e020b5f`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e020b5f8c716c089d83d14c25d3e8e1f2194cfbc) Merge branch 'JordanSantiagoYT:main' into nightly-link
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (30)
+      - [@JordanSantiagoYT](https://github.com/JordanSantiagoYT) — 1227 commit(s)
+      - [@moxie-coder](https://github.com/moxie-coder) — 487 commit(s)
+      - [@ShadowMario](https://github.com/ShadowMario) — 363 commit(s)
+      - [@TheStinkern](https://github.com/TheStinkern) — 122 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 120 commit(s)
+      - [@imavie](https://github.com/imavie) — 100 commit(s)
+      - [@bbpanzu](https://github.com/bbpanzu) — 84 commit(s)
+      - [@HomuHomu833](https://github.com/HomuHomu833) — 46 commit(s)
+      - [@alanyao](https://github.com/alanyao) — 38 commit(s)
+      - [@crowplexus](https://github.com/crowplexus) — 37 commit(s)
+      - [@NAEL2XD](https://github.com/NAEL2XD) — 37 commit(s)
+      - [@Raltyro](https://github.com/Raltyro) — 26 commit(s)
+      - [@nate902011](https://github.com/nate902011) — 21 commit(s)
+      - [@SomeGuyWhoLovesCoding](https://github.com/SomeGuyWhoLovesCoding) — 19 commit(s)
+      - [@nebulazorua](https://github.com/nebulazorua) — 15 commit(s)
+      - [@google-labs-jules[bot]](https://github.com/apps/google-labs-jules) — 14 commit(s)
+      - [@miujoan6952](https://github.com/miujoan6952) — 11 commit(s)
+      - [@system32unknown](https://github.com/system32unknown) — 11 commit(s)
+      - [@Kade-github](https://github.com/Kade-github) — 10 commit(s)
+      - [@MeowcaTheoRange](https://github.com/MeowcaTheoRange) — 10 commit(s)
+      - [@ACrazyTown](https://github.com/ACrazyTown) — 8 commit(s)
+      - [@ACoolioDude](https://github.com/ACoolioDude) — 8 commit(s)
+      - [@fireredfan7](https://github.com/fireredfan7) — 7 commit(s)
+      - [@TehPuertoRicanSpartan](https://github.com/TehPuertoRicanSpartan) — 6 commit(s)
+      - [@BiliousData](https://github.com/BiliousData) — 5 commit(s)
+      - [@superpowers04](https://github.com/superpowers04) — 5 commit(s)
+      - [@libauror-a](https://github.com/libauror-a) — 5 commit(s)
+      - [@nahiassis](https://github.com/nahiassis) — 4 commit(s)
+      - [@skedgyedgy](https://github.com/skedgyedgy) — 4 commit(s)
+      - [@MAJigsaw77](https://github.com/MAJigsaw77) — 4 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `Haxe` — 98.7% (2,041,270 bytes)
+      - `Python` — 0.5% (9,854 bytes)
+      - `PowerShell` — 0.3% (6,419 bytes)
+      - `Batchfile` — 0.2% (4,125 bytes)
+      - `C` — 0.1% (3,044 bytes)
+      - `Shell` — 0.1% (2,841 bytes)
+
+---
+
+- ## [FNF-Phoenix-Engine-fork](https://github.com/havaianasdestruido/FNF-Phoenix-Engine-fork)
+  > Fork of havaianasdestruido/FNF-Phoenix-Engine with CI fix to avoid matrix usage 
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-08-31 | 🔄 Updated: 2026-08-31
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine-fork/tree/main) _(default)_ — HEAD: `9b0267b`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/FNF-Phoenix-Engine-fork/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/FNF-Phoenix-Engine-fork/commits/main)
+          - [`9b0267b`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine-fork/commit/9b0267bbee72dae649da997e195ca6fd73fbe339) **Initial commit** — _Pato (new acc)_ (2026-08-31)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+
+---
+
+- ## [Giggles-Shit](https://github.com/havaianasdestruido/Giggles-Shit)
+  > userscript for custom goofy emojis for github
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 JavaScript | 📅 Created: 2026-08-12 | 🔄 Updated: 2026-08-12
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/Giggles-Shit/tree/main) _(default)_ — HEAD: `9b040e7`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/Giggles-Shit/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/Giggles-Shit/commits/main)
+          - [`9b040e7`](https://github.com/havaianasdestruido/Giggles-Shit/commit/9b040e7432f5a46f604869fd0c2bb45f786e7d20) **Update README.md** — _Pato (new acc)_ (2026-08-12)
+          - [`b791a93`](https://github.com/havaianasdestruido/Giggles-Shit/commit/b791a934e7ef085749eedb5782832946d42ce932) **Add files via upload** — _Pato (new acc)_ (2026-08-12)
+          - [`1118cbb`](https://github.com/havaianasdestruido/Giggles-Shit/commit/1118cbb8e2846016c5094e4847e9b8e2baee2139) **Create readme.txt** — _Pato (new acc)_ (2026-08-12)
+          - [`22c07e7`](https://github.com/havaianasdestruido/Giggles-Shit/commit/22c07e7756543f8b77809011371f9e310c68df45) **added gifs** — _Pato (new acc)_ (2026-08-12)
+          - [`fe0187b`](https://github.com/havaianasdestruido/Giggles-Shit/commit/fe0187b1c9bdd271ff3ef4097a9a80f4f3f4ff38) **Create readme.txt** — _Pato (new acc)_ (2026-08-12)
+          - [`612c767`](https://github.com/havaianasdestruido/Giggles-Shit/commit/612c7670b07e25d0a63429930708886a315a78e3) **final ver** — _Pato (new acc)_ (2026-08-12)
+          - [`252597e`](https://github.com/havaianasdestruido/Giggles-Shit/commit/252597ee3835a96e2eb24d48431508087f27e256) **working ver** — _Pato (new acc)_ (2026-08-12)
+          - [`598e116`](https://github.com/havaianasdestruido/Giggles-Shit/commit/598e1162e001280fcc986ddaba4f8767067c27a8) **Update gas.userscript.js** — _Pato (new acc)_ (2026-08-12)
+          - [`f6c63b2`](https://github.com/havaianasdestruido/Giggles-Shit/commit/f6c63b226d30c70b82acab207034536026800f15) **use repo emojis** — _Pato (new acc)_ (2026-08-12)
+          - [`337452d`](https://github.com/havaianasdestruido/Giggles-Shit/commit/337452da1ef77f5930b8612a32126d2e221ae05b) **Add files via upload** — _Pato (new acc)_ (2026-08-12)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 17 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `JavaScript` — 100.0% (40,546 bytes)
+
+---
+
+- ## [gitgithub](https://github.com/havaianasdestruido/gitgithub)
+  > trabalho escolar
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-08-14 | 🔄 Updated: 2026-08-14
+
+    - ### 🌿 Branches (4)
+      - [`add-git-installation-tutorials-17541894421943877497`](https://github.com/havaianasdestruido/gitgithub/tree/add-git-installation-tutorials-17541894421943877497) — HEAD: `7b5cb88`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/gitgithub/commits/add-git-installation-tutorials-17541894421943877497)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/gitgithub/commits/add-git-installation-tutorials-17541894421943877497)
+          - [`7b5cb88`](https://github.com/havaianasdestruido/gitgithub/commit/7b5cb88ce47a6367a08c9edcfa140e6c9022d068) **docs: add Git installation tutorials for OS platforms** — _google-labs-jules[bot]_ (2026-08-14)
+          - [`9420923`](https://github.com/havaianasdestruido/gitgithub/commit/942092318e090c24111939fb5f8eadbcfd26b89d) **Update README.MD** — _Pato (new acc)_ (2026-08-14)
+          - [`76a14d2`](https://github.com/havaianasdestruido/gitgithub/commit/76a14d2b9154a6ee36ddad7cf51e63fc8e92343b) **Update README.MD** — _Pato (new acc)_ (2026-08-14)
+          - [`a4af160`](https://github.com/havaianasdestruido/gitgithub/commit/a4af1603d3dca64ce693d3a159767d91143cf2f3) **Create README.MD** — _Pato (new acc)_ (2026-08-14)
+      - [`expand-tba-readme-934878366318225114`](https://github.com/havaianasdestruido/gitgithub/tree/expand-tba-readme-934878366318225114) — HEAD: `b5da763`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/gitgithub/commits/expand-tba-readme-934878366318225114)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/gitgithub/commits/expand-tba-readme-934878366318225114)
+          - [`b5da763`](https://github.com/havaianasdestruido/gitgithub/commit/b5da76343c699ed5fc1917bcfbcfbc130673b80d) **docs: expand TBA sections in README with Git command examples** — _google-labs-jules[bot]_ (2026-08-14)
+          - [`c1b49d3`](https://github.com/havaianasdestruido/gitgithub/commit/c1b49d32392139d61dbcc74b2fa06360dde59282) **Merge pull request #2 from havaianasdestruido/fix-readme-grammar-9987866** — _Pato (new acc)_ (2026-08-14)
+          - [`74f7000`](https://github.com/havaianasdestruido/gitgithub/commit/74f7000ead8f6de310681dbf5279c36914149d55) **Merge branch 'main' into fix-readme-grammar-9987866976443268935** — _Pato (new acc)_ (2026-08-14)
+          - [`e2d1aa0`](https://github.com/havaianasdestruido/gitgithub/commit/e2d1aa0b8786d369da48008c09c5c4a8a8ad0870) **fix: correcao de gramatica e ortografia no README.MD** — _google-labs-jules[bot]_ (2026-08-14)
+          - [`bacb688`](https://github.com/havaianasdestruido/gitgithub/commit/bacb6888fe68e73d40b698da1507080b8773f626) **adicionado seção sobre git** — _Pato (new acc)_ (2026-08-14)
+          - [`060700f`](https://github.com/havaianasdestruido/gitgithub/commit/060700fd026a2a24718dd0f0122992d813784d89) **Add files via upload** — _Pato (new acc)_ (2026-08-14)
+          - [`587446d`](https://github.com/havaianasdestruido/gitgithub/commit/587446ddf97ab5eca4fa71cb5d913c11a80ac4df) **imagens** — _Pato (new acc)_ (2026-08-14)
+          - [`c3cf07f`](https://github.com/havaianasdestruido/gitgithub/commit/c3cf07f9a152a99d94705fa3358cf7662651a0fc) **Add files via upload** — _Pato (new acc)_ (2026-08-14)
+          - [`7cd653a`](https://github.com/havaianasdestruido/gitgithub/commit/7cd653ac30ec4f006e2558d1b45c2bdf4e01e5e5) **Update README.MD** — _Pato (new acc)_ (2026-08-14)
+          - [`4d60381`](https://github.com/havaianasdestruido/gitgithub/commit/4d603810681bfc52eba7e6ed8bff73f676200d28) **Update README.MD** — _Pato (new acc)_ (2026-08-14)
+      - [`fix-readme-grammar-9987866976443268935`](https://github.com/havaianasdestruido/gitgithub/tree/fix-readme-grammar-9987866976443268935) — HEAD: `74f7000`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/gitgithub/commits/fix-readme-grammar-9987866976443268935)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/gitgithub/commits/fix-readme-grammar-9987866976443268935)
+          - [`74f7000`](https://github.com/havaianasdestruido/gitgithub/commit/74f7000ead8f6de310681dbf5279c36914149d55) **Merge branch 'main' into fix-readme-grammar-9987866976443268935** — _Pato (new acc)_ (2026-08-14)
+          - [`e2d1aa0`](https://github.com/havaianasdestruido/gitgithub/commit/e2d1aa0b8786d369da48008c09c5c4a8a8ad0870) **fix: correcao de gramatica e ortografia no README.MD** — _google-labs-jules[bot]_ (2026-08-14)
+          - [`bacb688`](https://github.com/havaianasdestruido/gitgithub/commit/bacb6888fe68e73d40b698da1507080b8773f626) **adicionado seção sobre git** — _Pato (new acc)_ (2026-08-14)
+          - [`060700f`](https://github.com/havaianasdestruido/gitgithub/commit/060700fd026a2a24718dd0f0122992d813784d89) **Add files via upload** — _Pato (new acc)_ (2026-08-14)
+          - [`587446d`](https://github.com/havaianasdestruido/gitgithub/commit/587446ddf97ab5eca4fa71cb5d913c11a80ac4df) **imagens** — _Pato (new acc)_ (2026-08-14)
+          - [`c3cf07f`](https://github.com/havaianasdestruido/gitgithub/commit/c3cf07f9a152a99d94705fa3358cf7662651a0fc) **Add files via upload** — _Pato (new acc)_ (2026-08-14)
+          - [`7cd653a`](https://github.com/havaianasdestruido/gitgithub/commit/7cd653ac30ec4f006e2558d1b45c2bdf4e01e5e5) **Update README.MD** — _Pato (new acc)_ (2026-08-14)
+          - [`4d60381`](https://github.com/havaianasdestruido/gitgithub/commit/4d603810681bfc52eba7e6ed8bff73f676200d28) **Update README.MD** — _Pato (new acc)_ (2026-08-14)
+          - [`59b6ab2`](https://github.com/havaianasdestruido/gitgithub/commit/59b6ab2e95af7c451e34aec8a59832bed4739b03) **Add files via upload** — _Pato (new acc)_ (2026-08-14)
+          - [`31a6d06`](https://github.com/havaianasdestruido/gitgithub/commit/31a6d06784ff3ce4b88fa3f98ab394168cb5fe20) **Create readme.txt** — _Pato (new acc)_ (2026-08-14)
+      - [`main`](https://github.com/havaianasdestruido/gitgithub/tree/main) _(default)_ — HEAD: `726e1f5`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/gitgithub/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/gitgithub/commits/main)
+          - [`726e1f5`](https://github.com/havaianasdestruido/gitgithub/commit/726e1f5e1080a3ba5e9766bd68edab37212f7402) **Merge pull request #3 from havaianasdestruido/expand-tba-readme-93487836** — _Pato (new acc)_ (2026-08-14)
+          - [`b5da763`](https://github.com/havaianasdestruido/gitgithub/commit/b5da76343c699ed5fc1917bcfbcfbc130673b80d) **docs: expand TBA sections in README with Git command examples** — _google-labs-jules[bot]_ (2026-08-14)
+          - [`c1b49d3`](https://github.com/havaianasdestruido/gitgithub/commit/c1b49d32392139d61dbcc74b2fa06360dde59282) **Merge pull request #2 from havaianasdestruido/fix-readme-grammar-9987866** — _Pato (new acc)_ (2026-08-14)
+          - [`74f7000`](https://github.com/havaianasdestruido/gitgithub/commit/74f7000ead8f6de310681dbf5279c36914149d55) **Merge branch 'main' into fix-readme-grammar-9987866976443268935** — _Pato (new acc)_ (2026-08-14)
+          - [`e2d1aa0`](https://github.com/havaianasdestruido/gitgithub/commit/e2d1aa0b8786d369da48008c09c5c4a8a8ad0870) **fix: correcao de gramatica e ortografia no README.MD** — _google-labs-jules[bot]_ (2026-08-14)
+          - [`bacb688`](https://github.com/havaianasdestruido/gitgithub/commit/bacb6888fe68e73d40b698da1507080b8773f626) **adicionado seção sobre git** — _Pato (new acc)_ (2026-08-14)
+          - [`060700f`](https://github.com/havaianasdestruido/gitgithub/commit/060700fd026a2a24718dd0f0122992d813784d89) **Add files via upload** — _Pato (new acc)_ (2026-08-14)
+          - [`587446d`](https://github.com/havaianasdestruido/gitgithub/commit/587446ddf97ab5eca4fa71cb5d913c11a80ac4df) **imagens** — _Pato (new acc)_ (2026-08-14)
+          - [`c3cf07f`](https://github.com/havaianasdestruido/gitgithub/commit/c3cf07f9a152a99d94705fa3358cf7662651a0fc) **Add files via upload** — _Pato (new acc)_ (2026-08-14)
+          - [`7cd653a`](https://github.com/havaianasdestruido/gitgithub/commit/7cd653ac30ec4f006e2558d1b45c2bdf4e01e5e5) **Update README.MD** — _Pato (new acc)_ (2026-08-14)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (3)
+        - ✅ Merged [#3 Expand TBA sections in README.MD with Git code examples](https://github.com/havaianasdestruido/gitgithub/pull/3) — _havaianasdestruido_ (2026-08-14) `expand-tba-readme-934878366318225114` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`b5da763`](https://github.com/havaianasdestruido/gitgithub/commit/b5da76343c699ed5fc1917bcfbcfbc130673b80d) docs: expand TBA sections in README with Git command example
+        - ✅ Merged [#2 Corrigir gramática e ortografia no README.MD](https://github.com/havaianasdestruido/gitgithub/pull/2) — _havaianasdestruido_ (2026-08-14) `fix-readme-grammar-9987866976443268935` → `main`
+          - 📝 2 commit(s) in this PR
+            - [`e2d1aa0`](https://github.com/havaianasdestruido/gitgithub/commit/e2d1aa0b8786d369da48008c09c5c4a8a8ad0870) fix: correcao de gramatica e ortografia no README.MD
+            - [`74f7000`](https://github.com/havaianasdestruido/gitgithub/commit/74f7000ead8f6de310681dbf5279c36914149d55) Merge branch 'main' into fix-readme-grammar-9987866976443268
+        - ✅ Merged [#1 Add Git installation tutorials to README](https://github.com/havaianasdestruido/gitgithub/pull/1) — _havaianasdestruido_ (2026-08-14) `add-git-installation-tutorials-17541894421943877497` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`7b5cb88`](https://github.com/havaianasdestruido/gitgithub/commit/7b5cb88ce47a6367a08c9edcfa140e6c9022d068) docs: add Git installation tutorials for OS platforms
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (2)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 15 commit(s)
+      - [@google-labs-jules[bot]](https://github.com/apps/google-labs-jules) — 3 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+
+---
+
+- ## [havaianasdestruido.github.io](https://github.com/havaianasdestruido/havaianasdestruido.github.io)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 HTML | 📅 Created: 2026-08-12 | 🔄 Updated: 2026-08-12
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/tree/main) _(default)_ — HEAD: `5b6c00b`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commits/main)
+          - [`5b6c00b`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/5b6c00ba26e7b76fb9be60927e0bd314701f3d4c) **Add files via upload** — _Pato (new acc)_ (2026-08-12)
+          - [`e07cb17`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e07cb17dc90152c120daa3785996ccb258bafce2) **full screen car** — _Pato (new acc)_ (2026-08-12)
+          - [`14ded86`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/14ded868c36f7260c5c95e4b06f75130ce0cf5e8) **Create static.yml** — _Pato (new acc)_ (2026-08-12)
+          - [`e0fd055`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e0fd055e859dcba9378aefb4f4624dda73efd9c0) **Create index.html** — _Pato (new acc)_ (2026-08-12)
+          - [`7ca7f22`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/7ca7f2290eb2becff3915f0a0e7e77d80c670287) **Create readme.md** — _Pato (new acc)_ (2026-08-12)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 5 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `HTML` — 100.0% (372 bytes)
+
+---
+
+- ## [Hiphenatus](https://github.com/havaianasdestruido/Hiphenatus)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-09-07 | 🔄 Updated: 2026-09-07
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/Hiphenatus/tree/main) _(default)_ — HEAD: `1b99902`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/Hiphenatus/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/Hiphenatus/commits/main)
+          - [`1b99902`](https://github.com/havaianasdestruido/Hiphenatus/commit/1b99902af481bd3ab3b06dc71593fe822eeeeeab) **downgraded OH too** — _UltimateQuack_ (2025-04-18)
+          - [`8bf024e`](https://github.com/havaianasdestruido/Hiphenatus/commit/8bf024e0ee0a43b9567b9eb233bddd29b11ad41d) **moved to .net 4.0 guyssssss** — _UltimateQuack_ (2025-04-18)
+          - [`d180d6c`](https://github.com/havaianasdestruido/Hiphenatus/commit/d180d6c4baffab8bfa7d29cdd1024b6212e483af) **final version before migrating to XP suppport** — _UltimateQuack_ (2025-04-18)
+          - [`1ba4c99`](https://github.com/havaianasdestruido/Hiphenatus/commit/1ba4c9905b22fb5e5e9550e2aac7676d6275488e) **cool small changes + shader ig** — _UltimateQuack_ (2025-04-18)
+          - [`1070b29`](https://github.com/havaianasdestruido/Hiphenatus/commit/1070b2989b7ba3bc51097e81e91ca68b79762712) **since whole system will crash, i guess its not necessary to abort** — _UltimateQuack_ (2025-04-18)
+          - [`fad8ae1`](https://github.com/havaianasdestruido/Hiphenatus/commit/fad8ae14672c5759d9e62f6e038b2b1c7f3623c7) **raised the exe amount thing** — _UltimateQuack_ (2025-04-18)
+          - [`61aaeea`](https://github.com/havaianasdestruido/Hiphenatus/commit/61aaeea3fbebfb7f58637cc27dc52ceae5e072d1) **OMFG** — _UltimateQuack_ (2025-04-18)
+          - [`a6a543b`](https://github.com/havaianasdestruido/Hiphenatus/commit/a6a543becf91ac599b99112034a72cf02d0958f4) **corruptions changes + fvck desteuctive or no builds** — _UltimateQuack_ (2025-04-18)
+          - [`79225dc`](https://github.com/havaianasdestruido/Hiphenatus/commit/79225dc377ffdf2862655908b92cb390d6b6bb56) **Merge branch 'main' of https://github.com/PatoFlamejanteTV/Hiphenatus** — _UltimateQuack_ (2025-04-18)
+          - [`0f03e7c`](https://github.com/havaianasdestruido/Hiphenatus/commit/0f03e7c829ab50b8b015d8dbb75d6e264692ef7d) **new thigns again again AGAIN** — _UltimateQuack_ (2025-04-18)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (0)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C#` — 93.3% (100,558 bytes)
+      - `Visual Basic .NET` — 6.7% (7,278 bytes)
+
+---
+
+- ## [hscript-improved](https://github.com/havaianasdestruido/hscript-improved) `🍴 Fork`
+  > Fork of HScript with many new features
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 Haxe | 📅 Created: 2026-08-09 | 🔄 Updated: 2026-08-09
+
+  - 🔗 Forked from: [CodenameCrew/hscript-improved](https://github.com/CodenameCrew/hscript-improved)
+    - ### 🌿 Branches (1)
+      - [`master`](https://github.com/havaianasdestruido/hscript-improved/tree/master) _(default)_ — HEAD: `11cbbcf`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/hscript-improved/commits/master)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/hscript-improved/commits/master)
+          - [`11cbbcf`](https://github.com/havaianasdestruido/hscript-improved/commit/11cbbcffcf48b0e9ecc86e4e8f81deadafe3da54) **perf(interp): speed up resolve, forLoop, get/set, call** — _havaianasdestruido_ (2026-08-09)
+          - [`48ec0f4`](https://github.com/havaianasdestruido/hscript-improved/commit/48ec0f4b013a4e5e18d6ce1456be7b3c3f12a1fa) **Update haxelib.json** — _Frakits_ (2025-08-15)
+          - [`49c90e6`](https://github.com/havaianasdestruido/hscript-improved/commit/49c90e643439b85043f51ce200fb034b5b08da13) **Fix typo** — _Ne_Eo_ (2025-01-19)
+          - [`bb46d45`](https://github.com/havaianasdestruido/hscript-improved/commit/bb46d45d567c7b7d1c80eed6eed43cc02e2d37cb) **Import Redirects** — _Ne_Eo_ (2024-11-15)
+          - [`3a5c4f2`](https://github.com/havaianasdestruido/hscript-improved/commit/3a5c4f2164ed490780e909c2982381e104e9afff) **Fix ending in with #end in the file (#5)** — _Redar13_ (2024-11-06)
+          - [`f18c7a2`](https://github.com/havaianasdestruido/hscript-improved/commit/f18c7a2210260b2c471a989e22d7f7b2850f368b) **Small optimization** — _Ne_Eo_ (2024-08-02)
+          - [`123a7de`](https://github.com/havaianasdestruido/hscript-improved/commit/123a7de64a58a4f38dd4497d34b6c820a5a99fb9) **Fix Trigraph bug** — _Ne_Eo_ (2024-07-26)
+          - [`e0e1436`](https://github.com/havaianasdestruido/hscript-improved/commit/e0e1436930b4e0cfbd33c238f981cd6a588bdb02) **Fix bug oops :3** — _Ne_Eo_ (2024-06-03)
+          - [`b96e6c8`](https://github.com/havaianasdestruido/hscript-improved/commit/b96e6c8149dcd189dce39ec80a25571af9f5acc9) **Fix import extend class (#4)** — _Redar13_ (2024-04-22)
+          - [`f6402ac`](https://github.com/havaianasdestruido/hscript-improved/commit/f6402ac638a3463d0614da8863289d66a061735b) **Improve Auto Complete Performance** — _NeeEoo_ (2024-04-13)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/hscript-improved/commits/master/?after=812abae6e52060735d5b546dc94c2e7be27ddefc+34)
+          - [`b3b512d`](https://github.com/havaianasdestruido/hscript-improved/commit/b3b512d02709e566fb1b80dacfb8ef30ef109f3b) **Added support for ?.** — _NeeEoo_ (2023-04-09)
+          - [`ed296c4`](https://github.com/havaianasdestruido/hscript-improved/commit/ed296c4c7f2fdb674f4c41a4065509c2ae049a0a) **Merge branch 'master' into custom-classes** — _NeeEoo_ (2023-04-09)
+          - [`595bb47`](https://github.com/havaianasdestruido/hscript-improved/commit/595bb47249ed2659ae9acf299fd4c7c634e2e1f2) **?? and .? syntax (only ?? is functional)** — _lunarcleint_ (2023-04-09)
+          - [`daad1a4`](https://github.com/havaianasdestruido/hscript-improved/commit/daad1a4fa8c6a54e7a4dad622a5a2d1f807ce5c1) **Added underscore support to numbers + binary** — _NeeEoo_ (2023-04-07)
+          - [`daef1ac`](https://github.com/havaianasdestruido/hscript-improved/commit/daef1ac198f564f9e4645186f379f3f676c80572) **Merge branch 'custom-classes' of https://github.com/YoshiCrafter29/hscri** — _Yoshman29_ (2023-04-07)
+          - [`3b9d88b`](https://github.com/havaianasdestruido/hscript-improved/commit/3b9d88b252e93502e96f0a4d03fbcfa581a31236) **Update Interp.hx** — _Yoshman29_ (2023-04-07)
+          - [`809f822`](https://github.com/havaianasdestruido/hscript-improved/commit/809f8229b4236fc6642c1734cb5abb9a23e4d487) **Implemented Super** — _NeeEoo_ (2023-04-02)
+          - [`ffb1ee2`](https://github.com/havaianasdestruido/hscript-improved/commit/ffb1ee25236cbd350059347d2dca293b56ad9db6) **Update CustomClassHandler.hx** — _Yoshman29_ (2023-04-02)
+          - [`0903718`](https://github.com/havaianasdestruido/hscript-improved/commit/0903718314e35cecf6b70cb1c6c4fcb471e60c94) **removed all unnecessary traces** — _Yoshman29_ (2023-04-01)
+          - [`e0cb883`](https://github.com/havaianasdestruido/hscript-improved/commit/e0cb883ae4026e656888c3bcb9980a56821dcce4) **Update ClassExtendMacro.hx** — _Yoshman29_ (2023-04-01)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/hscript-improved/commits/master/?after=37542065d6c1297ac63eac27e0cf69d6b7d9b7ff+34)
+          - [`c9608f7`](https://github.com/havaianasdestruido/hscript-improved/commit/c9608f7760b92fe0010bfd44bb826f07915c8e26) **Update Interp.hx** — _Yoshman29_ (2022-11-04)
+          - [`6ba54b0`](https://github.com/havaianasdestruido/hscript-improved/commit/6ba54b0e77af86d6868003c932b157e1db9e84e5) **static and public** — _Yoshman29_ (2022-11-04)
+          - [`f9bb310`](https://github.com/havaianasdestruido/hscript-improved/commit/f9bb3105c89639f834fee77ebf19c0bdebd20b23) **new interface** — _Yoshman29_ (2022-11-02)
+          - [`4b5baa9`](https://github.com/havaianasdestruido/hscript-improved/commit/4b5baa9b5f923b06d3cf189e65322dc36790cd6b) **Revert "thing that needs to be reverted"** — _Yoshman29_ (2022-10-13)
+          - [`6dedd87`](https://github.com/havaianasdestruido/hscript-improved/commit/6dedd8726061534dcd2bd02e8675945305610926) **thing that needs to be reverted** — _Yoshman29_ (2022-10-13)
+          - [`9131722`](https://github.com/havaianasdestruido/hscript-improved/commit/91317222fbf0a9f07594c80bbc95e752cbbafb5a) **Update Interp.hx** — _Yoshman29_ (2022-08-13)
+          - [`494953a`](https://github.com/havaianasdestruido/hscript-improved/commit/494953a8cc04b2f5d3eaecc6e9d0b56ef098a47e) **Added interp.importEnabled** — _Yoshman29_ (2022-08-12)
+          - [`ae4d8be`](https://github.com/havaianasdestruido/hscript-improved/commit/ae4d8be50c5e4f7685d3d51b0ed247694f9679c2) **more error handling + variables fix** — _Yoshman29_ (2022-08-10)
+          - [`d34790e`](https://github.com/havaianasdestruido/hscript-improved/commit/d34790e05c65cff907843e329282c69d18987f7b) **fix** — _Yoshman29_ (2022-07-19)
+          - [`b77e15c`](https://github.com/havaianasdestruido/hscript-improved/commit/b77e15c6d6f211b96f12f6a61e9328482c36a46f) **forgot to push smh** — _Yoshman29_ (2022-07-11)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/hscript-improved/commits/master/?after=b9a566350b57da75c6d803747dc85675d6c55ee2+34)
+          - [`ce9ce67`](https://github.com/havaianasdestruido/hscript-improved/commit/ce9ce674ea4d3e157692943f967117d0d766c57d) **added missing unary -** — _Nicolas Cannasse_ (2019-12-18)
+          - [`b864177`](https://github.com/havaianasdestruido/hscript-improved/commit/b8641779bda4e378584969d4d14e4bd1a3f9c999) **added error on missing event args** — _Nicolas Cannasse_ (2019-12-16)
+          - [`5e620d7`](https://github.com/havaianasdestruido/hscript-improved/commit/5e620d784efe4f9cc11fc9afd3751233fedb6415) **added canWrite check on fields** — _Nicolas Cannasse_ (2019-12-13)
+          - [`013bcfa`](https://github.com/havaianasdestruido/hscript-improved/commit/013bcfaffbf49bdf07bc5da150f1ce904f0b3abe) **fixed unicode parsing in strings** — _Nicolas Cannasse_ (2019-12-09)
+          - [`2504c96`](https://github.com/havaianasdestruido/hscript-improved/commit/2504c969272907d4aec5c9457f61594e4ebca50d) **\[TravisCI\] use php from apt** — _Andy Li_ (2019-12-03)
+          - [`e2f4d14`](https://github.com/havaianasdestruido/hscript-improved/commit/e2f4d1481ec40b233f68bfef32ebf1f1a4542fa3) **\[TravisCI\] some fixes** — _Andy Li_ (2019-12-03)
+          - [`ea3d685`](https://github.com/havaianasdestruido/hscript-improved/commit/ea3d68573bdb3b7b0bf11629bda23fcdd6521110) **\[AppVeyor\] remove php and flash tests** — _Andy Li_ (2019-12-03)
+          - [`c6cb594`](https://github.com/havaianasdestruido/hscript-improved/commit/c6cb594ef1ac85d099a76ea6eb53a969453fae81) **\[AppVeyor\] use Haxe 4.0.3** — _Andy Li_ (2019-12-03)
+          - [`948123b`](https://github.com/havaianasdestruido/hscript-improved/commit/948123bc7a7ffb26483079cd3aa85842c2e8a7e4) **keep haxe 3 support** — _Andy Li_ (2019-12-02)
+          - [`68f5b26`](https://github.com/havaianasdestruido/hscript-improved/commit/68f5b26af98b818cde07405c0a2403140cbf81de) **bugfixes for eval (close #90)** — _Nicolas Cannasse_ (2019-12-03)
+        - 📄 [Commits Page 5](https://github.com/havaianasdestruido/hscript-improved/commits/master/?after=575040be650e8f1bbe69a42989e382cc69bd4c4b+34)
+          - [`206959a`](https://github.com/havaianasdestruido/hscript-improved/commit/206959adbd99ce74ef2b50e8ff484b78aaf8b942) **Support new function type syntax. (#74)** — _Juraj Kirchheim_ (2018-09-26)
+          - [`dd1c97b`](https://github.com/havaianasdestruido/hscript-improved/commit/dd1c97b6afaf46c51dba4c548d375ebad82ba03f) **more type checking** — _ncannasse_ (2018-09-25)
+          - [`85463dc`](https://github.com/havaianasdestruido/hscript-improved/commit/85463dcff07597cf9812d26b081c5f6a5e53b99c) **implemented apply type parameters** — _ncannasse_ (2018-09-25)
+          - [`7ff8164`](https://github.com/havaianasdestruido/hscript-improved/commit/7ff816417e4310dabd552e3e9e06c8e5b140c3c3) **fixes** — _ncannasse_ (2018-09-24)
+          - [`3fa2f38`](https://github.com/havaianasdestruido/hscript-improved/commit/3fa2f3898a681594d1c4fe641e3dc76913ff3270) **fix** — _ncannasse_ (2018-09-24)
+          - [`514ce9e`](https://github.com/havaianasdestruido/hscript-improved/commit/514ce9eec2dff71a33754cb8c3c2b1c03a025da9) **more type checks** — _ncannasse_ (2018-09-21)
+          - [`5bc357b`](https://github.com/havaianasdestruido/hscript-improved/commit/5bc357b4b3872d3c7e35b7943800d34fc3bfd809) **hscriptPos changes** — _ncannasse_ (2018-09-21)
+          - [`56ddc3c`](https://github.com/havaianasdestruido/hscript-improved/commit/56ddc3c24e19ed3f64d8760060a7f522960c8ac1) **more typing** — _ncannasse_ (2018-09-20)
+          - [`e407b2a`](https://github.com/havaianasdestruido/hscript-improved/commit/e407b2a3077c490d8e489be39786f79e57024ab6) **optimize the ast (eliminate (function(_) e)(null) calls)** — _ncannasse_ (2018-09-19)
+          - [`1ac194e`](https://github.com/havaianasdestruido/hscript-improved/commit/1ac194ed1ddec6225ed326f2ae2a8dfb02a686f4) **more typing** — _ncannasse_ (2018-09-19)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (24)
+      - [@ncannasse](https://github.com/ncannasse) — 179 commit(s)
+      - [@NeeEoo](https://github.com/NeeEoo) — 39 commit(s)
+      - [@YoshiCrafter29](https://github.com/YoshiCrafter29) — 38 commit(s)
+      - [@andyli](https://github.com/andyli) — 30 commit(s)
+      - [@Simn](https://github.com/Simn) — 12 commit(s)
+      - [@sebthom](https://github.com/sebthom) — 4 commit(s)
+      - [@Gama11](https://github.com/Gama11) — 4 commit(s)
+      - [@zjnue](https://github.com/zjnue) — 4 commit(s)
+      - [@lunarcleint](https://github.com/lunarcleint) — 2 commit(s)
+      - [@Redar13](https://github.com/Redar13) — 2 commit(s)
+      - [@back2dos](https://github.com/back2dos) — 2 commit(s)
+      - [@ckentgeorge](https://github.com/ckentgeorge) — 2 commit(s)
+      - [@starburst997](https://github.com/starburst997) — 1 commit(s)
+      - [@romamik](https://github.com/romamik) — 1 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 1 commit(s)
+      - [@tpr-evilempire](https://github.com/tpr-evilempire) — 1 commit(s)
+      - [@tcoxon](https://github.com/tcoxon) — 1 commit(s)
+      - [@Yanrishatum](https://github.com/Yanrishatum) — 1 commit(s)
+      - [@MSGhero](https://github.com/MSGhero) — 1 commit(s)
+      - [@markknol](https://github.com/markknol) — 1 commit(s)
+      - [@TheLeerName](https://github.com/TheLeerName) — 1 commit(s)
+      - [@Frakits](https://github.com/Frakits) — 1 commit(s)
+      - [@bubblebenj](https://github.com/bubblebenj) — 1 commit(s)
+      - [@RealyUniqueName](https://github.com/RealyUniqueName) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `Haxe` — 99.7% (206,716 bytes)
+      - `Batchfile` — 0.3% (519 bytes)
+
+---
+
+- ## [hxluau](https://github.com/havaianasdestruido/hxluau) `🍴 Fork`
+  > Haxe/hxcpp @:native bindings for Luau.
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C++ | 📅 Created: 2026-08-09 | 🔄 Updated: 2026-08-09
+
+  - 🔗 Forked from: [Ajwyunsx/hxluau](https://github.com/Ajwyunsx/hxluau)
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/hxluau/tree/main) _(default)_ — HEAD: `4a1c4a0`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/hxluau/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/hxluau/commits/main)
+          - [`4a1c4a0`](https://github.com/havaianasdestruido/hxluau/commit/4a1c4a0d1e5944c7e09f096dc173e86c75572d27) **perf: fix major bottlenecks and enable codegen** — _havaianasdestruido_ (2026-08-09)
+          - [`8f308ba`](https://github.com/havaianasdestruido/hxluau/commit/8f308bad9d743f28e9c98e006b5b593febbecc74) **Update build-libs.yml** — _AjwwkD_ (2025-11-12)
+          - [`1c4c772`](https://github.com/havaianasdestruido/hxluau/commit/1c4c77273502f5da579c9ccc78430fbe65c58321) **Update print statement from 'Hello' to 'Goodbye'** — _AjwwkD_ (2025-11-12)
+          - [`674e394`](https://github.com/havaianasdestruido/hxluau/commit/674e394dccfa4fbe0d8f59e0dc5fa192f7f2445e) **Update build-libs.yml** — _AjwwkD_ (2025-11-12)
+          - [`e5e2229`](https://github.com/havaianasdestruido/hxluau/commit/e5e222966885ead8993b94abeb740ac14e89b5dc) **Update build-libs.yml** — _AjwwkD_ (2025-11-12)
+          - [`02ac5fd`](https://github.com/havaianasdestruido/hxluau/commit/02ac5fd9b51e69aee0d87dfa08fea0b032b587d8) **Update build-libs.yml** — _AjwwkD_ (2025-11-12)
+          - [`cb8a334`](https://github.com/havaianasdestruido/hxluau/commit/cb8a334c196dcb513b802f3651f5f8d853da74e6) **Update build-libs.yml** — _AjwwkD_ (2025-11-12)
+          - [`60db5d9`](https://github.com/havaianasdestruido/hxluau/commit/60db5d90bf6c6c7d400503b94996d2c775c670e8) **Update build-libs.yml** — _AjwwkD_ (2025-11-12)
+          - [`112bc50`](https://github.com/havaianasdestruido/hxluau/commit/112bc509c82fdd421689d5103d48e0f102b7ad3e) **Update build-libs.yml** — _AjwwkD_ (2025-11-12)
+          - [`18c92fa`](https://github.com/havaianasdestruido/hxluau/commit/18c92fa4d3df2e6866da0865dc0981f4de0ed027) **Update build-libs.yml** — _AjwwkD_ (2025-11-12)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/hxluau/commits/main/?after=7006ba8a25b41f1deda0ace500f8c7b7d7601215+34)
+          - [`f757f82`](https://github.com/havaianasdestruido/hxluau/commit/f757f822841062a7a451765c1d3dbe738dd2464a) **大体修复完毕** — _Ajwyunsx_ (2025-11-07)
+          - [`cfa228b`](https://github.com/havaianasdestruido/hxluau/commit/cfa228bef9b2597626647359bb8746e8a92aff6e) **chore: prune vendor & Luau sources; keep minimal headers; keep Windows x** — _Ajwyunsx_ (2025-11-07)
+          - [`24ce2f7`](https://github.com/havaianasdestruido/hxluau/commit/24ce2f73a516c7d3c323ba927a5756e1f1417933) **chore: add Windows x64 minimal luau.lib and .gitignore \[skip ci\]** — _Ajwyunsx_ (2025-11-07)
+          - [`369dd98`](https://github.com/havaianasdestruido/hxluau/commit/369dd9899164f38184f49cacce0d09dee3c72610) **Update build-libs.yml** — _AjwwkD_ (2025-11-07)
+          - [`9499281`](https://github.com/havaianasdestruido/hxluau/commit/94992812211dc4cd30a455dcdfeba563ebb4b9a8) **Update README.md** — _AjwwkD_ (2025-11-07)
+          - [`f38e742`](https://github.com/havaianasdestruido/hxluau/commit/f38e7426977e7331b93aea272ef6515ed688aadb) **Update Main.hx** — _AjwwkD_ (2025-11-06)
+          - [`bfbe762`](https://github.com/havaianasdestruido/hxluau/commit/bfbe762a0bc10df477f382799518d5386ff9ffc4) **Update Main.hx** — _AjwwkD_ (2025-11-06)
+          - [`2e2eeac`](https://github.com/havaianasdestruido/hxluau/commit/2e2eeac11c90abbb31e5d7a2f81eddb4a053a013) **修复print函数输出问题** — _Ajwyunsx_ (2025-11-06)
+          - [`f2ce95a`](https://github.com/havaianasdestruido/hxluau/commit/f2ce95aaeeb581a351a6760a2980a5d0b904be15) **修复Luau API链接错误** — _Ajwyunsx_ (2025-11-06)
+          - [`d30a054`](https://github.com/havaianasdestruido/hxluau/commit/d30a0546bcbd48d0ffdde788064f05f5f656817a) **简化luau-binding例子为纯文件读取** — _Ajwyunsx_ (2025-11-06)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/hxluau/commits/main/?after=409230f5ef6e8f46da5a62fffa967f5718a7922c+34)
+          - [`90d77ec`](https://github.com/havaianasdestruido/hxluau/commit/90d77ec3ed7c65590bf73680b160d1673d7ba066) **修复 luau-binding 示例中的类型错误和函数签名问题** — _Ajwyunsx_ (2025-11-06)
+          - [`a07e9d1`](https://github.com/havaianasdestruido/hxluau/commit/a07e9d1f02c09c4be830f37bdd1f76fab3e90cbb) **Merge branch 'main' of github.com:Ajwyunsx/hxluau** — _Ajwyunsx_ (2025-11-06)
+          - [`e0d270f`](https://github.com/havaianasdestruido/hxluau/commit/e0d270f1ed8f36f8f6d3b86e761ce7b199381112) **Add luau-binding example to workflow matrix** — _Ajwyunsx_ (2025-11-06)
+          - [`e2f03d8`](https://github.com/havaianasdestruido/hxluau/commit/e2f03d89b1e8fb3d53d8c32666054d1c93475f6e) **Merge pull request #1 from Ajwyunsx/luau-binding-example** — _AjwwkD_ (2025-11-06)
+          - [`80874a3`](https://github.com/havaianasdestruido/hxluau/commit/80874a31075642919a67f3cf9f888b7a8285e218) **Add luau-binding example using source/luau directory** — _Ajwyunsx_ (2025-11-06)
+          - [`ea45372`](https://github.com/havaianasdestruido/hxluau/commit/ea45372e6c6867a1d0bdb0dc6463a3f1000e8b03) **Merge branch 'main' of github.com:Ajwyunsx/hxluau** — _Ajwyunsx_ (2025-11-06)
+          - [`c6e343e`](https://github.com/havaianasdestruido/hxluau/commit/c6e343edecb9fb4cdf5dcb9104475d1d55b1e219) **Add luau-binding example using source/luau directory** — _Ajwyunsx_ (2025-11-06)
+          - [`67c59be`](https://github.com/havaianasdestruido/hxluau/commit/67c59be7e06baf5ce5947371880955c53d1441ac) **Update script.lua** — _AjwwkD_ (2025-11-06)
+          - [`c8fe0ca`](https://github.com/havaianasdestruido/hxluau/commit/c8fe0ca3d82b6f6de63313a305e3af005c162f7b) **Update build-libs.yml** — _AjwwkD_ (2025-11-06)
+          - [`6314b4b`](https://github.com/havaianasdestruido/hxluau/commit/6314b4b5911e8c30d0dd509cc8f09099a93051be) **Update Build.xml** — _AjwwkD_ (2025-11-06)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/hxluau/commits/main/?after=7720c4c542bb8783bb364937b4946bf59283f791+34)
+          - [`1ae96a8`](https://github.com/havaianasdestruido/hxluau/commit/1ae96a8d5a7fc5264b93ae72922786243ce5c250) **Delete .github/workflows/publish-haxelib.yml** — _AjwwkD_ (2025-11-06)
+          - [`7445dff`](https://github.com/havaianasdestruido/hxluau/commit/7445dffd5873b5d8ec60723dd2ba64b2b643f78b) **Create publish-haxelib.yml** — _AjwwkD_ (2025-11-06)
+          - [`ba296d3`](https://github.com/havaianasdestruido/hxluau/commit/ba296d353c6adbe3d6fb9dc152ce38a90f97cfff) **Add compiled Luau libraries \[skip ci\]** — _GitHub Action_ (2025-11-06)
+          - [`91c4a7a`](https://github.com/havaianasdestruido/hxluau/commit/91c4a7a88863a64632242095fe0e160de9574d0f) **Update main.yml** — _AjwwkD_ (2025-11-06)
+          - [`36f3531`](https://github.com/havaianasdestruido/hxluau/commit/36f35312eba5ae88885b1617b958b81c61e25ab1) **Add files via upload** — _AjwwkD_ (2025-11-06)
+          - [`f28f207`](https://github.com/havaianasdestruido/hxluau/commit/f28f207be42e88a79f79384d7f813185f19cfb4c) **Add files via upload** — _AjwwkD_ (2025-11-06)
+          - [`b56555d`](https://github.com/havaianasdestruido/hxluau/commit/b56555d93ad862fd4cda384f93edfa5603095487) **Delete project/luau/lib/Linux/libluau.a** — _AjwwkD_ (2025-11-06)
+          - [`a5c3bae`](https://github.com/havaianasdestruido/hxluau/commit/a5c3baeee51c710e4b64a637aaf1a873cf8de4aa) **Delete project/luau/lib/MacOS/libluau.a** — _AjwwkD_ (2025-11-06)
+          - [`bd16e56`](https://github.com/havaianasdestruido/hxluau/commit/bd16e56681ee02e21b857c5a49bcd73dc5190ae2) **Delete project/luau/lib/Windows/luau.lib** — _AjwwkD_ (2025-11-06)
+          - [`31325c2`](https://github.com/havaianasdestruido/hxluau/commit/31325c20182eca9eca77bc9900f8a119a9422409) **Add compiled Luau libraries \[skip ci\]** — _GitHub Action_ (2025-11-06)
+        - 📄 [Commits Page 5](https://github.com/havaianasdestruido/hxluau/commits/main/?after=e3b703842b084abc62db547d77f89626c0402087+34)
+          - [`3fbf33a`](https://github.com/havaianasdestruido/hxluau/commit/3fbf33ab27d7d7fc77a96157a1e696054da1120d) **Update .gitattributes** — _AjwwkD_ (2025-11-06)
+          - [`975dd79`](https://github.com/havaianasdestruido/hxluau/commit/975dd792de7e036990f59586d3bb6939569848b2) **Update build-libs.yml** — _AjwwkD_ (2025-11-06)
+          - [`648a492`](https://github.com/havaianasdestruido/hxluau/commit/648a4929cb1a2c91ec740b24481e7a0c80b7cfa0) **手动上传** — _AjwwkD_ (2025-11-06)
+          - [`8688a84`](https://github.com/havaianasdestruido/hxluau/commit/8688a84f423bef442c027c791bb03e0eaf4db556) **Update build-libs.yml** — _AjwwkD_ (2025-11-06)
+          - [`4274cf3`](https://github.com/havaianasdestruido/hxluau/commit/4274cf34813d69d807082e7b47aa23d81b06c854) **Update build-libs.yml** — _AjwwkD_ (2025-11-06)
+          - [`faddf22`](https://github.com/havaianasdestruido/hxluau/commit/faddf22de95a92f4a85f7c84fe4c25b31ebe3e15) **"Fix"** — _GitHub_ (2025-11-06)
+          - [`9baedf0`](https://github.com/havaianasdestruido/hxluau/commit/9baedf0bf2ef5b670a68e182f50f345283e66012) **"Refactor"** — _GitHub_ (2025-11-06)
+          - [`d408ea5`](https://github.com/havaianasdestruido/hxluau/commit/d408ea504a6e19d942c8f4f1de02696e8f06342b) **"Add"** — _GitHub_ (2025-11-06)
+          - [`f601be1`](https://github.com/havaianasdestruido/hxluau/commit/f601be1a936888f00da8b77329ec594c5df8aaa1) **"Fix"** — _GitHub_ (2025-11-06)
+          - [`276c3e0`](https://github.com/havaianasdestruido/hxluau/commit/276c3e0aa80a337e79a5211740656ed827eaddca) **"Fix"** — _GitHub_ (2025-11-06)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (6)
+      - [@Ajwyunsx](https://github.com/Ajwyunsx) — 152 commit(s)
+      - [@MAJigsaw77](https://github.com/MAJigsaw77) — 101 commit(s)
+      - [@actions-user](https://github.com/actions-user) — 8 commit(s)
+      - [@HomuHomu833](https://github.com/HomuHomu833) — 3 commit(s)
+      - [@github-actions[bot]](https://github.com/apps/github-actions) — 2 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C++` — 83.0% (803,795 bytes)
+      - `C` — 8.6% (83,566 bytes)
+      - `Haxe` — 8.3% (80,789 bytes)
+
+---
+
+- ## [ImaturidadePlusPlus](https://github.com/havaianasdestruido/ImaturidadePlusPlus) `🗃️ Template`
+  > old fnf mod
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 Lua | 📅 Created: 2026-08-09 | 🔄 Updated: 2026-08-09
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/ImaturidadePlusPlus/tree/main) _(default)_ — HEAD: `a27ddc2`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/ImaturidadePlusPlus/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/ImaturidadePlusPlus/commits/main)
+          - [`a27ddc2`](https://github.com/havaianasdestruido/ImaturidadePlusPlus/commit/a27ddc2275be7d91ee0d81f82b6a2d35aaa9ce18) **Create README.md** — _Pato (new acc)_ (2026-08-09)
+          - [`9a9b90e`](https://github.com/havaianasdestruido/ImaturidadePlusPlus/commit/9a9b90ea2bc3d7c1c67414d074bc77037bc50f01) **intial** — _havaianasdestruido_ (2026-08-09)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 2 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `Lua` — 74.6% (226,710 bytes)
+      - `SVG` — 11.7% (35,436 bytes)
+      - `Text` — 6.1% (18,599 bytes)
+      - `Batchfile` — 3.8% (11,493 bytes)
+      - `HTML` — 1.5% (4,539 bytes)
+      - `GLSL` — 1.0% (3,171 bytes)
+      - `Markdown` — 0.7% (2,276 bytes)
+      - `Python` — 0.4% (1,297 bytes)
+      - `Shell` — 0.1% (189 bytes)
+      - `VBScript` — 0.0% (26 bytes)
+      - `Rich Text Format` — 0.0% (14 bytes)
+
+---
+
+- ## [lastfm-to-csv-unicode](https://github.com/havaianasdestruido/lastfm-to-csv-unicode) `🍴 Fork`
+  > Web based tool for exporting scrobbles, now patched for supporting UNICODE strin
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-08-07 | 🔄 Updated: 2026-08-07
+
+  - 🔗 Forked from: [benfoxall/lastfm-to-csv](https://github.com/benfoxall/lastfm-to-csv)
+    - ### 🌿 Branches (2)
+      - [`fix/csv-utf8-bom-and-escaping`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/tree/fix/csv-utf8-bom-and-escaping) — HEAD: `08efd3f`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commits/fix/csv-utf8-bom-and-escaping)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commits/fix/csv-utf8-bom-and-escaping)
+          - [`08efd3f`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/08efd3faa5a5ed23ffaf6699cf19250ff868c064) **Fix CSV encoding and escaping - add UTF-8 BOM and proper field escaping** — _UltimateQuack_ (2026-08-07)
+          - [`0d3c382`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/0d3c3827b38a34ae8ffb7860f134c8a481b08299) **Styling and lighthouse** — _Ben Foxall_ (2024-05-30)
+          - [`055540e`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/055540e8501bd7fccb4500e32e6252c81eecd2b3) **Hook up api calls** — _Ben Foxall_ (2024-05-28)
+          - [`af8ca7d`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/af8ca7d41f78a061e0b6f411ad9d6cfbb4adc2a7) **DB & stubbed out users** — _Ben Foxall_ (2024-05-28)
+          - [`7b6a56b`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/7b6a56bf19e1acae7d5889c372eb11c6adb2429c) **css** — _Ben Foxall_ (2024-05-28)
+          - [`48e2605`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/48e26055ae63d2c9bfe94f2ca4ce446a77913916) **React** — _Ben Foxall_ (2024-05-28)
+          - [`74dbc25`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/74dbc25c52ed3d560c4d7fedf917b26e85fccdde) **Remove dev reload** — _Ben Foxall_ (2024-05-28)
+          - [`2651cdb`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/2651cdb2da2cccc98d8c797edc964fe3d634d497) **Add publish script** — _Ben Foxall_ (2024-05-28)
+          - [`fcba9c0`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/fcba9c0867cb94d824a6f78ec7e564faa2c77ce6) **Stub out v2 code** — _Ben Foxall_ (2024-05-28)
+          - [`7e97ad7`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/7e97ad74d13941c91c4830f3067d4eae5239a138) **Add some readme** — _Ben Foxall_ (2024-04-14)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commits/fix/csv-utf8-bom-and-escaping/?after=173aab03695be0f9dce3dbfe7889b04e63d19d45+34)
+          - [`da32437`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/da32437a0ca8e256104a11066e7522acf12056b6) **safari fixes** — _Ben Foxall_ (2014-05-27)
+          - [`55bdfd6`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/55bdfd67a55709ff80744da4ad4653e0b5279242) **firefox fixes** — _Ben Foxall_ (2014-05-27)
+          - [`ebaf7ac`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/ebaf7ac2ff7cce83e190b32346a635a692aabf9d) **bind to ui with rivets, much nicer** — _Ben Foxall_ (2014-05-27)
+          - [`d4203f0`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/d4203f0990f5c026728d7fd671edafc913140a2d) **use rivets** — _Ben Foxall_ (2014-05-27)
+          - [`4b07380`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/4b073807c1aad459f65e72889d7d4421b177ce38) **use better library for csv** — _Ben Foxall_ (2014-05-27)
+          - [`534ff1b`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/534ff1bb115ba99328027e0054acebfd615eac36) **friendly viewport** — _Ben Foxall_ (2014-05-27)
+          - [`71c2d28`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/71c2d28b9055a7e2534d2a811ea4f9b6e33f79ec) **hacky changes, made on the bus** — _Ben Foxall_ (2014-05-26)
+          - [`00e8d08`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/00e8d0889aeac0c5574aa16d5073b88c34614687) **started hooking up things** — _Ben Foxall_ (2014-05-26)
+          - [`7960438`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/7960438a7e378fe38cc456bb8ce45038235a7c34) **local github flag** — _Ben Foxall_ (2014-05-26)
+          - [`ccfaa1c`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/ccfaa1ce9cd9d77fa8d3491c15dbe40aed8008af) **added jquery for bootstrap reasons** — _Ben Foxall_ (2014-05-26)
+      - [`main`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/tree/main) _(default)_ — HEAD: `0d3c382`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commits/main)
+          - [`0d3c382`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/0d3c3827b38a34ae8ffb7860f134c8a481b08299) **Styling and lighthouse** — _Ben Foxall_ (2024-05-30)
+          - [`055540e`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/055540e8501bd7fccb4500e32e6252c81eecd2b3) **Hook up api calls** — _Ben Foxall_ (2024-05-28)
+          - [`af8ca7d`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/af8ca7d41f78a061e0b6f411ad9d6cfbb4adc2a7) **DB & stubbed out users** — _Ben Foxall_ (2024-05-28)
+          - [`7b6a56b`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/7b6a56bf19e1acae7d5889c372eb11c6adb2429c) **css** — _Ben Foxall_ (2024-05-28)
+          - [`48e2605`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/48e26055ae63d2c9bfe94f2ca4ce446a77913916) **React** — _Ben Foxall_ (2024-05-28)
+          - [`74dbc25`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/74dbc25c52ed3d560c4d7fedf917b26e85fccdde) **Remove dev reload** — _Ben Foxall_ (2024-05-28)
+          - [`2651cdb`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/2651cdb2da2cccc98d8c797edc964fe3d634d497) **Add publish script** — _Ben Foxall_ (2024-05-28)
+          - [`fcba9c0`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/fcba9c0867cb94d824a6f78ec7e564faa2c77ce6) **Stub out v2 code** — _Ben Foxall_ (2024-05-28)
+          - [`7e97ad7`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/7e97ad74d13941c91c4830f3067d4eae5239a138) **Add some readme** — _Ben Foxall_ (2024-04-14)
+          - [`9f6a342`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/9f6a3424c9ad6ac7e38681610c007504031a7153) **Remove binary file** — _Ben Foxall_ (2024-04-14)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commits/main/?after=da32437a0ca8e256104a11066e7522acf12056b6+34)
+          - [`55bdfd6`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/55bdfd67a55709ff80744da4ad4653e0b5279242) **firefox fixes** — _Ben Foxall_ (2014-05-27)
+          - [`ebaf7ac`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/ebaf7ac2ff7cce83e190b32346a635a692aabf9d) **bind to ui with rivets, much nicer** — _Ben Foxall_ (2014-05-27)
+          - [`d4203f0`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/d4203f0990f5c026728d7fd671edafc913140a2d) **use rivets** — _Ben Foxall_ (2014-05-27)
+          - [`4b07380`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/4b073807c1aad459f65e72889d7d4421b177ce38) **use better library for csv** — _Ben Foxall_ (2014-05-27)
+          - [`534ff1b`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/534ff1bb115ba99328027e0054acebfd615eac36) **friendly viewport** — _Ben Foxall_ (2014-05-27)
+          - [`71c2d28`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/71c2d28b9055a7e2534d2a811ea4f9b6e33f79ec) **hacky changes, made on the bus** — _Ben Foxall_ (2014-05-26)
+          - [`00e8d08`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/00e8d0889aeac0c5574aa16d5073b88c34614687) **started hooking up things** — _Ben Foxall_ (2014-05-26)
+          - [`7960438`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/7960438a7e378fe38cc456bb8ce45038235a7c34) **local github flag** — _Ben Foxall_ (2014-05-26)
+          - [`ccfaa1c`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/ccfaa1ce9cd9d77fa8d3491c15dbe40aed8008af) **added jquery for bootstrap reasons** — _Ben Foxall_ (2014-05-26)
+          - [`805c54d`](https://github.com/havaianasdestruido/lastfm-to-csv-unicode/commit/805c54da13cb75fd4ce58c3292e47f573e60e4bc) **stubbed out result section** — _Ben Foxall_ (2014-05-24)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (5)
+      - [@benfoxall](https://github.com/benfoxall) — 31 commit(s)
+      - [@jebeck](https://github.com/jebeck) — 2 commit(s)
+      - [@davidstraka2](https://github.com/davidstraka2) — 1 commit(s)
+      - [@Hum4n01d](https://github.com/Hum4n01d) — 1 commit(s)
+      - [@matteocontrini](https://github.com/matteocontrini) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `JavaScript` — 95.2% (359,011 bytes)
+      - `HTML` — 2.5% (9,604 bytes)
+      - `CSS` — 1.2% (4,395 bytes)
+      - `TypeScript` — 1.1% (3,996 bytes)
+
+---
+
+- ## [MeatyMod](https://github.com/havaianasdestruido/MeatyMod) `📦 Archived`
+  > C# .NET mod suite for Blood & Bacon. Injects .NET mod DLLs into the game executa
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-06 | 🔄 Updated: 2026-08-13
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/MeatyMod/tree/main) _(default)_ — HEAD: `8213f37`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/MeatyMod/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/MeatyMod/commits/main)
+          - [`8213f37`](https://github.com/havaianasdestruido/MeatyMod/commit/8213f37801827a8495c3b218d318ebd22cfd42a5) **docs: extreme-testing evidence, script/tool documentation, QA registry u** — _UltimateQuack_ (2026-08-07)
+          - [`7091adf`](https://github.com/havaianasdestruido/MeatyMod/commit/7091adf1a69a64b692f79b012867bf36531ef591) **fix(release): pack example mods into release artifact, renumber steps** — _UltimateQuack_ (2026-08-07)
+          - [`f422a2e`](https://github.com/havaianasdestruido/MeatyMod/commit/f422a2efd157d639cfd5e5b70a14a1712f91876b) **feat(tools): headless modharness proving Inject() executes + memscan pro** — _UltimateQuack_ (2026-08-07)
+          - [`e1188ef`](https://github.com/havaianasdestruido/MeatyMod/commit/e1188ef9c7b3d8b3ffef4f6b3b2ea457da29ceda) **test(formats): deterministic LZX decompression fixture + raw non-square ** — _UltimateQuack_ (2026-08-07)
+          - [`b2d19d9`](https://github.com/havaianasdestruido/MeatyMod/commit/b2d19d9af2fdbe256c6aa713a518d28a79ff36df) **feat(cli): verify install checksums.txt before extract, fail verify on e** — _UltimateQuack_ (2026-08-07)
+          - [`5611a9a`](https://github.com/havaianasdestruido/MeatyMod/commit/5611a9ab730e7eec5849dd0891ee9aea67902ea7) **feat(scripts): per-mod build/run bat + all.bat, fix delayed-expansion ne** — _UltimateQuack_ (2026-08-07)
+          - [`32b4c32`](https://github.com/havaianasdestruido/MeatyMod/commit/32b4c3238413dc5f9b33c55a43858c8445a5c180) **chore: ignore dist build output** — _UltimateQuack_ (2026-08-07)
+          - [`8d8480b`](https://github.com/havaianasdestruido/MeatyMod/commit/8d8480bb70cfe9d13a3a50b4522df1e5e02f2002) **chore(oink): add diagnostic logging to trace hook and skin application** — _UltimateQuack_ (2026-08-06)
+          - [`0e6edcc`](https://github.com/havaianasdestruido/MeatyMod/commit/0e6edcc51019aa68d00e0d3895269b837cdecef4) **fix(launch): pick newest meatymod.exe, avoid stale Release binary corrup** — _UltimateQuack_ (2026-08-06)
+          - [`db6e178`](https://github.com/havaianasdestruido/MeatyMod/commit/db6e1788572dccf8fce8134c15baa3bd85a49262) **Merge branch 'main' of https://github.com/havaianasdestruido/MeatyMod** — _UltimateQuack_ (2026-08-06)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/MeatyMod/commits/main/?after=54564f5a3326ded8ed7d9e1cae3ec401ebb7eb3e+34)
+          - [`38948fb`](https://github.com/havaianasdestruido/MeatyMod/commit/38948fb504cc50f9f7da3def876a764e2d52e56f) **feat(mod): Oink - pig skin + speed multiplier, toggle O** — _UltimateQuack_ (2026-08-06)
+          - [`26fb86a`](https://github.com/havaianasdestruido/MeatyMod/commit/26fb86a01263ff285772af332fc64a3b5546752a) **feat(injector): real Mono.Cecil IL patch, meatymod inject/restore comman** — _UltimateQuack_ (2026-08-05)
+          - [`008f6c6`](https://github.com/havaianasdestruido/MeatyMod/commit/008f6c677999d843e7feb4e0b25da747e5fef689) **feat(mod): QuackMenu - creative mode, flat world, boss spawner menu** — _UltimateQuack_ (2026-08-05)
+          - [`2ae5fe1`](https://github.com/havaianasdestruido/MeatyMod/commit/2ae5fe14ae17bf45b6336a9778187e2887e96ccc) **fix(cli): wire real pack/install commands, add csproj, commit plan docs** — _UltimateQuack_ (2026-08-05)
+          - [`56b8d9d`](https://github.com/havaianasdestruido/MeatyMod/commit/56b8d9dcbc6fb227b7c0beef75585958ffa56f74) **docs(maintenance): phase 4 reports** — _UltimateQuack_ (2026-08-05)
+          - [`1bb6df4`](https://github.com/havaianasdestruido/MeatyMod/commit/1bb6df441e553de2bca4961af6a7588dc4ce1329) **docs(qa): phase 3 validation reports** — _UltimateQuack_ (2026-08-05)
+          - [`70c576b`](https://github.com/havaianasdestruido/MeatyMod/commit/70c576b7d802c1b3f967e764ce64fd6bb2c453eb) **test(formats): xnb header test** — _UltimateQuack_ (2026-08-05)
+          - [`7056bd1`](https://github.com/havaianasdestruido/MeatyMod/commit/7056bd1e54188e77fac8522461f73aef2f109200) **feat(verifier): asset validator** — _UltimateQuack_ (2026-08-05)
+          - [`da77c37`](https://github.com/havaianasdestruido/MeatyMod/commit/da77c377622ff1b5e621080244ac944a74e54535) **feat(injector): assembly patch skeleton** — _UltimateQuack_ (2026-08-05)
+          - [`2449326`](https://github.com/havaianasdestruido/MeatyMod/commit/244932631523cb696a69080f8b0936e994589b55) **feat(cli): program entry point** — _UltimateQuack_ (2026-08-05)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 2 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C#` — 92.7% (219,991 bytes)
+      - `Batchfile` — 3.7% (8,807 bytes)
+      - `PowerShell` — 3.5% (8,410 bytes)
+
+---
+
+- ## [mediapublisher](https://github.com/havaianasdestruido/mediapublisher)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-08-04
+
+    - ### 🌿 Branches (1)
+      - [`master`](https://github.com/havaianasdestruido/mediapublisher/tree/master) _(default)_ — HEAD: `190b00b`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/mediapublisher/commits/master)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/mediapublisher/commits/master)
+          - [`190b00b`](https://github.com/havaianasdestruido/mediapublisher/commit/190b00b9a4a78ec6b02ad403c42c8c158641c57b) **initial commit** — _UltimateQuack_ (2026-08-03)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (0)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C#` — 100.0% (50,369 bytes)
+
+---
+
+- ## [metadata-editor](https://github.com/havaianasdestruido/metadata-editor)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-08-04
+
+    - ### 🌿 Branches (1)
+      - [`master`](https://github.com/havaianasdestruido/metadata-editor/tree/master) _(default)_ — HEAD: `9fcd26d`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/metadata-editor/commits/master)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/metadata-editor/commits/master)
+          - [`9fcd26d`](https://github.com/havaianasdestruido/metadata-editor/commit/9fcd26d40c21abecc2b6fab3f37a8cec0cce907e) **initial commit** — _UltimateQuack_ (2026-08-03)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (0)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C#` — 100.0% (8,775 bytes)
+
+---
+
+- ## [mmr-cli](https://github.com/havaianasdestruido/mmr-cli)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-08-04
+
+    - ### 🌿 Branches (1)
+      - [`master`](https://github.com/havaianasdestruido/mmr-cli/tree/master) _(default)_ — HEAD: `0def37a`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/mmr-cli/commits/master)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/mmr-cli/commits/master)
+          - [`0def37a`](https://github.com/havaianasdestruido/mmr-cli/commit/0def37aea3caf7eeb632c013154fc7cb79ef0de7) **feat: full 21-DLL test framework with coverage and reporters** — _UltimateQuack_ (2026-08-03)
+          - [`bfcdcf7`](https://github.com/havaianasdestruido/mmr-cli/commit/bfcdcf79820659bb3d6d0b944183a381858e631a) **mmr-cli: P/Invoke usage tests for WMMR core DLLs (wlidcli, uxctl, WLXVid** — _UltimateQuack_ (2026-08-03)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (0)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C#` — 100.0% (91,679 bytes)
+
+---
+
+- ## [mmr-gui](https://github.com/havaianasdestruido/mmr-gui)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-08-04
+
+    - ### 🌿 Branches (1)
+      - [`master`](https://github.com/havaianasdestruido/mmr-gui/tree/master) _(default)_ — HEAD: `86e9125`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/mmr-gui/commits/master)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/mmr-gui/commits/master)
+          - [`86e9125`](https://github.com/havaianasdestruido/mmr-gui/commit/86e9125d95fb2c8141d37c07c5747b5d084fc790) **docs: mmr-gui README - usage, workflows, baseline selftest record, CI** — _UltimateQuack_ (2026-08-03)
+          - [`3deeaa6`](https://github.com/havaianasdestruido/mmr-gui/commit/3deeaa6ed0514c57a579d806d33b701d04fc1410) **feat: full 21-DLL GUI suite browser - 128 checks, deep workflows, JUnit/** — _UltimateQuack_ (2026-08-03)
+          - [`2508d97`](https://github.com/havaianasdestruido/mmr-gui/commit/2508d97d262934c552861655f3820cab13081840) **fix: UxControlsCreateObject 3-arg stdcall signature (stack safety); UxCo** — _UltimateQuack_ (2026-08-03)
+          - [`428c9c5`](https://github.com/havaianasdestruido/mmr-gui/commit/428c9c56c41433a00104c4066d6e7be808b61e56) **mmr-gui: WinForms harness exercising WMMR core DLLs (wlidcli, uxctl, WLX** — _UltimateQuack_ (2026-08-03)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (0)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C#` — 100.0% (80,550 bytes)
+
+---
+
+- ## [mmr-python](https://github.com/havaianasdestruido/mmr-python)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-08-04
+
+    - ### 🌿 Branches (1)
+      - [`master`](https://github.com/havaianasdestruido/mmr-python/tree/master) _(default)_ — HEAD: `0dfddee`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/mmr-python/commits/master)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/mmr-python/commits/master)
+          - [`0dfddee`](https://github.com/havaianasdestruido/mmr-python/commit/0dfddee44a0e4cbb939f938e3301652e8fd0c717) **feat: full 21-DLL ctypes framework - coverage, workflows, JUnit/JSON/TAP** — _UltimateQuack_ (2026-08-03)
+          - [`1ecafe7`](https://github.com/havaianasdestruido/mmr-python/commit/1ecafe7feeaa5792d9eb5398f416a750bdac16dc) **mmr-python: ctypes usage tests for WMMR core DLLs (wlidcli, uxctl, WLXVi** — _UltimateQuack_ (2026-08-01)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (0)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `Python` — 100.0% (65,986 bytes)
+
+---
+
+- ## [movielibrary](https://github.com/havaianasdestruido/movielibrary)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-08-04
+
+    - ### 🌿 Branches (1)
+      - [`master`](https://github.com/havaianasdestruido/movielibrary/tree/master) _(default)_ — HEAD: `9a74cbd`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/movielibrary/commits/master)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/movielibrary/commits/master)
+          - [`9a74cbd`](https://github.com/havaianasdestruido/movielibrary/commit/9a74cbd4263644d3c8d77ff5705c78b075a0990c) **initial commit** — _UltimateQuack_ (2026-08-03)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (0)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C#` — 100.0% (7,846 bytes)
+
+---
+
+- ## [moviemaker-launcher](https://github.com/havaianasdestruido/moviemaker-launcher)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-08-04
+
+    - ### 🌿 Branches (1)
+      - [`master`](https://github.com/havaianasdestruido/moviemaker-launcher/tree/master) _(default)_ — HEAD: `0260b6d`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/moviemaker-launcher/commits/master)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/moviemaker-launcher/commits/master)
+          - [`0260b6d`](https://github.com/havaianasdestruido/moviemaker-launcher/commit/0260b6dcd40990f7f60289a88550d17677671249) **initial commit** — _UltimateQuack_ (2026-08-03)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (0)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C#` — 100.0% (27,368 bytes)
+
+---
+
+- ## [noisy](https://github.com/havaianasdestruido/noisy)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-09-07 | 🔄 Updated: 2026-09-07
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/noisy/tree/main) _(default)_ — HEAD: `2ecddb7`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/noisy/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/noisy/commits/main)
+          - [`2ecddb7`](https://github.com/havaianasdestruido/noisy/commit/2ecddb7922ae5241b37acd07499353d9c211d0a3) **.** — _UltimateQuack_ (2025-10-15)
+          - [`a8ecbd0`](https://github.com/havaianasdestruido/noisy/commit/a8ecbd039d5eead6844c4bad921f29483cb789ea) **downgraded to .NET 4 for support** — _UltimateQuack_ (2025-10-15)
+          - [`1542484`](https://github.com/havaianasdestruido/noisy/commit/15424843c099f986e5e54ee012480dc70d638c07) **testing** — _UltimateQuack_ (2025-10-15)
+          - [`5404a2e`](https://github.com/havaianasdestruido/noisy/commit/5404a2e87ee0a9748ae1320674795af5f921e5e9) **;** — _UltimateQuack_ (2025-10-15)
+          - [`f518933`](https://github.com/havaianasdestruido/noisy/commit/f51893390b3927de459614039c971955bcb0957d) **Merge pull request #2 from PatoFlamejanteTV/feature/increase-performance** — _UltimateQuack_ (2025-10-15)
+          - [`10e40dd`](https://github.com/havaianasdestruido/noisy/commit/10e40ddfce8597cd1b035a5e5e7a154fd3a9f00a) **Merge branch 'main' into feature/increase-performance** — _UltimateQuack_ (2025-10-15)
+          - [`0aeaed6`](https://github.com/havaianasdestruido/noisy/commit/0aeaed6c9de41956d61a86570ab559ff87c0c39d) **LGTM** — _UltimateQuack_ (2025-10-15)
+          - [`b5f3d78`](https://github.com/havaianasdestruido/noisy/commit/b5f3d781d1bf43c6117e94933aea16ff53459eb8) **Implement advanced optimization using unsafe code** — _google-labs-jules[bot]_ (2025-10-15)
+          - [`c3f57af`](https://github.com/havaianasdestruido/noisy/commit/c3f57af5bae838f8dd201d2cc54d871b9ded7c9d) **Merge branch 'main' of https://github.com/PatoFlamejanteTV/noisy** — _UltimateQuack_ (2025-10-15)
+          - [`20fbf70`](https://github.com/havaianasdestruido/noisy/commit/20fbf70aef5cc3395a00b02799cde5cabbc332c1) **...** — _UltimateQuack_ (2025-10-15)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@google-labs-jules[bot]](https://github.com/apps/google-labs-jules) — 2 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C#` — 100.0% (47,934 bytes)
+
+---
+
+- ## [OdontoAura](https://github.com/havaianasdestruido/OdontoAura)
+  > Sistema de gerenciamento, agendamento e manutenção de pacientes, horários, consu
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 TypeScript | 📅 Created: 2026-09-03 | 🔄 Updated: 2026-09-12
+
+    - ### 🌿 Branches (4)
+      - [`feat/connect-frontend-backend-vercel-2197773701412789504`](https://github.com/havaianasdestruido/OdontoAura/tree/feat/connect-frontend-backend-vercel-2197773701412789504) — HEAD: `b0a3385`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/OdontoAura/commits/feat/connect-frontend-backend-vercel-2197773701412789504)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/OdontoAura/commits/feat/connect-frontend-backend-vercel-2197773701412789504)
+          - [`b0a3385`](https://github.com/havaianasdestruido/OdontoAura/commit/b0a3385c89e4aa951f226e363a3e8a43dcb48ead) **feat: connect odonto-aura-frontend.vercel.app to odonto-aura-backend.ver** — _google-labs-jules[bot]_ (2026-09-10)
+          - [`b94816c`](https://github.com/havaianasdestruido/OdontoAura/commit/b94816c657fd627945fd587ba7742f018c606ee9) **Connect frontend Vercel app to backend Vercel API** — _google-labs-jules[bot]_ (2026-09-10)
+          - [`26be9e5`](https://github.com/havaianasdestruido/OdontoAura/commit/26be9e5ab46f38790eb39cc9d569b70982a9d830) **deploy: configure Supabase and Vercel serverless API** — _aluno_ (2026-09-10)
+          - [`bacbbc2`](https://github.com/havaianasdestruido/OdontoAura/commit/bacbbc2927bada8e9ddf7fa3b9b39b6431a89b18) **chore: document follow-ups with TODO comments** — _havaianasdestruido_ (2026-09-10)
+          - [`d9bd430`](https://github.com/havaianasdestruido/OdontoAura/commit/d9bd4305bdbc7b79d7cdc683c5f56cd95fb2c274) **test: add strict coverage for auth/doctors/medical-records and RQ page** — _havaianasdestruido_ (2026-09-10)
+          - [`d74eda3`](https://github.com/havaianasdestruido/OdontoAura/commit/d74eda357505af28dc1682c5e42d8d6517a26342) **perf: cut DB round-trips and enable response compression** — _havaianasdestruido_ (2026-09-10)
+          - [`943610b`](https://github.com/havaianasdestruido/OdontoAura/commit/943610b8dae04997e5a1490a28cf535a3a8ab5b0) **chore(deps): bump amannn/action-semantic-pull-request from 5 to 6 (#5)** — _dependabot[bot]_ (2026-09-10)
+          - [`611e400`](https://github.com/havaianasdestruido/OdontoAura/commit/611e4009d3f7977c9ee242fd96b041cfc12baddc) **chore(deps): bump actions/setup-node from 4 to 7 (#4)** — _dependabot[bot]_ (2026-09-10)
+          - [`8e897c8`](https://github.com/havaianasdestruido/OdontoAura/commit/8e897c84266d092482c2d38b57739c7465d1e436) **chore(deps): bump pnpm/action-setup from 4 to 6 (#2)** — _dependabot[bot]_ (2026-09-10)
+          - [`3e8a9fa`](https://github.com/havaianasdestruido/OdontoAura/commit/3e8a9fa0e765f651d7aaeaecba707101b97e37e0) **chore(deps): bump actions/checkout from 4 to 7 (#3)** — _dependabot[bot]_ (2026-09-10)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/OdontoAura/commits/feat/connect-frontend-backend-vercel-2197773701412789504/?after=5642f8df5632e9c00569ce588115faf8a10f6e6c+34)
+          - [`1c25e44`](https://github.com/havaianasdestruido/OdontoAura/commit/1c25e445f5761f0198a787c4ebe7e5126ea4dbb4) **renomeado denovo pra OdontoAura, a gente ainda precisa discutir se vai o** — _Pato (new acc)_ (2026-09-05)
+          - [`1e66595`](https://github.com/havaianasdestruido/OdontoAura/commit/1e665951035a6aee6a45cd7ae999678bb569f8e9) **chore(deps-dev): bump jest and @types/jest (#19)** — _dependabot[bot]_ (2026-09-04)
+          - [`5ee712f`](https://github.com/havaianasdestruido/OdontoAura/commit/5ee712f6a451b8081e1db8401bab1e836a202282) **chore(deps-dev): bump typescript from 5.9.3 to 7.0.2 (#7)** — _dependabot[bot]_ (2026-09-04)
+          - [`1f987d9`](https://github.com/havaianasdestruido/OdontoAura/commit/1f987d974a29def21e7947acacaef0bdcac1dc88) **chore(deps-dev): bump @nestjs/cli from 10.4.9 to 12.0.0 (#20)** — _dependabot[bot]_ (2026-09-04)
+          - [`91421b2`](https://github.com/havaianasdestruido/OdontoAura/commit/91421b2c1dfd2e5c761207957b6e2235b26c862a) **chore(deps-dev): bump eslint-config-next from 14.2.35 to 16.3.4 (#12)** — _dependabot[bot]_ (2026-09-04)
+          - [`bfa16ca`](https://github.com/havaianasdestruido/OdontoAura/commit/bfa16ca823448d08a52b3bf484c4186322896303) **chore(deps): bump bcryptjs and @types/bcryptjs (#6)** — _dependabot[bot]_ (2026-09-04)
+          - [`f100eeb`](https://github.com/havaianasdestruido/OdontoAura/commit/f100eebdbee57d7efaa322ffa9112328ba5fd43c) **chore(deps): bump @nestjs/core from 11.2.3 to 12.0.1 (#15)** — _dependabot[bot]_ (2026-09-04)
+          - [`59d1520`](https://github.com/havaianasdestruido/OdontoAura/commit/59d1520c95677e35bd3c5a86a465ed5419f2e0f1) **chore(deps): bump date-fns from 3.6.0 to 4.4.0 (#17)** — _dependabot[bot]_ (2026-09-04)
+          - [`47ae665`](https://github.com/havaianasdestruido/OdontoAura/commit/47ae66540a9bb1b246720a92404f728abb04adb5) **chore(deps): bump @nestjs/config from 3.3.0 to 12.0.0 (#8)** — _dependabot[bot]_ (2026-09-04)
+          - [`dae80d8`](https://github.com/havaianasdestruido/OdontoAura/commit/dae80d80a62023e4db0d10e10ca25823cbc5b218) **chore(deps-dev): bump @testing-library/jest-dom from 6.10.0 to 7.0.1 (#1** — _dependabot[bot]_ (2026-09-04)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/OdontoAura/commits/feat/connect-frontend-backend-vercel-2197773701412789504/?after=be18d2198710288c4a7ba580b9fcc13b1ecd026c+34)
+          - [`2a10663`](https://github.com/havaianasdestruido/OdontoAura/commit/2a1066375cfbe21db928ed6cadf3f8de7e62acea) **feat(backend): add doctors and specialties modules** — _havaianasdestruido_ (2026-09-04)
+          - [`a0ffd24`](https://github.com/havaianasdestruido/OdontoAura/commit/a0ffd24c0f94617542869d492120f6ed0b8b3892) **feat(backend): add users module with CRUD and RBAC guards** — _havaianasdestruido_ (2026-09-04)
+          - [`ea69511`](https://github.com/havaianasdestruido/OdontoAura/commit/ea695113248d6464409d1feff87737ccf4f2ceda) **feat(backend): add auth module with JWT, guards, RBAC, register/login** — _havaianasdestruido_ (2026-09-04)
+          - [`6e6f332`](https://github.com/havaianasdestruido/OdontoAura/commit/6e6f3329c10bb48dfe5a142848b97acb12f89672) **feat(backend): scaffold NestJS app with Fastify, Swagger, health check** — _havaianasdestruido_ (2026-09-04)
+          - [`642c3be`](https://github.com/havaianasdestruido/OdontoAura/commit/642c3be6cd7920d211a4bfb200983715f4a6bdc3) **feat(shared): add Prisma schema with all domain entities** — _havaianasdestruido_ (2026-09-04)
+          - [`4bdef18`](https://github.com/havaianasdestruido/OdontoAura/commit/4bdef18fa54e4134bb9463d70c8f6d69e63ac7e5) **chore: init monorepo scaffolding with pnpm workspaces, tsconfig base, en** — _havaianasdestruido_ (2026-09-04)
+          - [`4e3fab6`](https://github.com/havaianasdestruido/OdontoAura/commit/4e3fab69c58863bdaf091fcb8deba0b7e23e38cd) **Rename project from OdontoAura to Medcn** — _morelloettore_ (2026-09-04)
+          - [`0bb7690`](https://github.com/havaianasdestruido/OdontoAura/commit/0bb76907a6ac3f223c3d3e5d41a5353edd48b19c) **Merge pull request #1 from havaianasdestruido/jules-15954618156849110106** — _Pato (new acc)_ (2026-09-03)
+          - [`617c663`](https://github.com/havaianasdestruido/OdontoAura/commit/617c663a8b0cd3be84d14867f5c32322196b3f69) **docs: adicionar documentacao da stack tecnologica em docs/stack/ e atual** — _google-labs-jules[bot]_ (2026-09-03)
+          - [`9851cc8`](https://github.com/havaianasdestruido/OdontoAura/commit/9851cc889e34929a3969f8afe37f58370df5fe67) **Create README.md** — _Pato (new acc)_ (2026-09-03)
+      - [`fix/build-errors`](https://github.com/havaianasdestruido/OdontoAura/tree/fix/build-errors) — HEAD: `7a5033e`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/OdontoAura/commits/fix/build-errors)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/OdontoAura/commits/fix/build-errors)
+          - [`7a5033e`](https://github.com/havaianasdestruido/OdontoAura/commit/7a5033e8fac36a8e9acbd5bc983f2b49e28d3ac8) **fix(backend): type-clean test mocks for strict tsconfig** — _havaianasdestruido_ (2026-09-10)
+          - [`92276ff`](https://github.com/havaianasdestruido/OdontoAura/commit/92276ff1b92c3e8eab284826a5831d19faaf3d9e) **feat(frontend): add dashboard pages and session hydration** — _havaianasdestruido_ (2026-09-09)
+          - [`cfefeb7`](https://github.com/havaianasdestruido/OdontoAura/commit/cfefeb7d8ae15f3536a4d6702a5b396ea9bf05e2) **fix(backend): enforce validation, RBAC and ownership across modules** — _havaianasdestruido_ (2026-09-09)
+          - [`f4790ec`](https://github.com/havaianasdestruido/OdontoAura/commit/f4790ec9f832781360fa75dad1a0b28d55c0d90c) **chore(scripts): add start_all.ps1 unified dev/prod launcher** — _havaianasdestruido_ (2026-09-07)
+          - [`a6f0efc`](https://github.com/havaianasdestruido/OdontoAura/commit/a6f0efc39a2a6290758d9b43c14eafa3e6d72db4) **feat(db): migrate services to Prisma + Postgres persistence** — _havaianasdestruido_ (2026-09-07)
+          - [`7b45bf7`](https://github.com/havaianasdestruido/OdontoAura/commit/7b45bf7f2cffac3741f54131dfbb3a312d01ea77) **feat: mount all feature modules + switch backend tests to vitest** — _havaianasdestruido_ (2026-09-07)
+          - [`4e5c0af`](https://github.com/havaianasdestruido/OdontoAura/commit/4e5c0af364f2549d32ccaeca67a4aa0fbc94abba) **fix(backend): add @fastify/static peer for SwaggerModule on Fastify** — _havaianasdestruido_ (2026-09-07)
+          - [`7eef85c`](https://github.com/havaianasdestruido/OdontoAura/commit/7eef85c9c143a8be530cea663b39d5421137e3c0) **fix: repair build/lint/typecheck across backend and frontend** — _havaianasdestruido_ (2026-09-05)
+          - [`1c25e44`](https://github.com/havaianasdestruido/OdontoAura/commit/1c25e445f5761f0198a787c4ebe7e5126ea4dbb4) **renomeado denovo pra OdontoAura, a gente ainda precisa discutir se vai o** — _Pato (new acc)_ (2026-09-05)
+          - [`1e66595`](https://github.com/havaianasdestruido/OdontoAura/commit/1e665951035a6aee6a45cd7ae999678bb569f8e9) **chore(deps-dev): bump jest and @types/jest (#19)** — _dependabot[bot]_ (2026-09-04)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/OdontoAura/commits/fix/build-errors/?after=664069aa5518c52f3b624157c23848a4b147b3b6+34)
+          - [`7df34ba`](https://github.com/havaianasdestruido/OdontoAura/commit/7df34ba4e54114832b1e1a339acfdba2a12cac7b) **docs: update README with architecture, API docs, getting started guide** — _havaianasdestruido_ (2026-09-04)
+          - [`ad1a932`](https://github.com/havaianasdestruido/OdontoAura/commit/ad1a9322d6d41f687410700c535cf05791122d25) **ci: add GitHub Actions workflows, templates, and dependabot** — _havaianasdestruido_ (2026-09-04)
+          - [`447a0f0`](https://github.com/havaianasdestruido/OdontoAura/commit/447a0f0f84275e1797289ebc59b40596182a79af) **feat(frontend): add login and register pages with form validation** — _havaianasdestruido_ (2026-09-04)
+          - [`0b824d6`](https://github.com/havaianasdestruido/OdontoAura/commit/0b824d6a28e9df2daba857ff37a95a2ed3ed10eb) **feat(frontend): add dashboard layout with role-based sidebar navigation** — _havaianasdestruido_ (2026-09-04)
+          - [`2f1a9ce`](https://github.com/havaianasdestruido/OdontoAura/commit/2f1a9ce69747e3291d3025ba50ca7472b0b6c172) **feat(frontend): scaffold Next.js app with Tailwind, Shadcn config, auth ** — _havaianasdestruido_ (2026-09-04)
+          - [`b33c344`](https://github.com/havaianasdestruido/OdontoAura/commit/b33c34405612a9dd8de6c2d4e0d6e360c54196a4) **feat(backend): add health plans module for insurance management** — _havaianasdestruido_ (2026-09-04)
+          - [`9b747d6`](https://github.com/havaianasdestruido/OdontoAura/commit/9b747d613a46b8d5fddff68700de7e4ba118ea78) **feat(backend): add medical records module for electronic health records** — _havaianasdestruido_ (2026-09-04)
+          - [`be18d21`](https://github.com/havaianasdestruido/OdontoAura/commit/be18d2198710288c4a7ba580b9fcc13b1ecd026c) **feat(backend): add appointments module with status lifecycle** — _havaianasdestruido_ (2026-09-04)
+          - [`2a10663`](https://github.com/havaianasdestruido/OdontoAura/commit/2a1066375cfbe21db928ed6cadf3f8de7e62acea) **feat(backend): add doctors and specialties modules** — _havaianasdestruido_ (2026-09-04)
+          - [`a0ffd24`](https://github.com/havaianasdestruido/OdontoAura/commit/a0ffd24c0f94617542869d492120f6ed0b8b3892) **feat(backend): add users module with CRUD and RBAC guards** — _havaianasdestruido_ (2026-09-04)
+      - [`fix/har-cors-vercel-routing-6506941725452652626`](https://github.com/havaianasdestruido/OdontoAura/tree/fix/har-cors-vercel-routing-6506941725452652626) — HEAD: `8da97f6`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/OdontoAura/commits/fix/har-cors-vercel-routing-6506941725452652626)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/OdontoAura/commits/fix/har-cors-vercel-routing-6506941725452652626)
+          - [`8da97f6`](https://github.com/havaianasdestruido/OdontoAura/commit/8da97f6cfee2c446217278356f3f789141384c7c) **fix(backend): add Vercel rewrites and enhance CORS configuration** — _google-labs-jules[bot]_ (2026-09-10)
+          - [`427bbcc`](https://github.com/havaianasdestruido/OdontoAura/commit/427bbcc42e11f7f9e2b351b25c34e2b2bf768a42) **Connect frontend Vercel app to backend Vercel API (#45)** — _morelloettore_ (2026-09-10)
+          - [`26be9e5`](https://github.com/havaianasdestruido/OdontoAura/commit/26be9e5ab46f38790eb39cc9d569b70982a9d830) **deploy: configure Supabase and Vercel serverless API** — _aluno_ (2026-09-10)
+          - [`bacbbc2`](https://github.com/havaianasdestruido/OdontoAura/commit/bacbbc2927bada8e9ddf7fa3b9b39b6431a89b18) **chore: document follow-ups with TODO comments** — _havaianasdestruido_ (2026-09-10)
+          - [`d9bd430`](https://github.com/havaianasdestruido/OdontoAura/commit/d9bd4305bdbc7b79d7cdc683c5f56cd95fb2c274) **test: add strict coverage for auth/doctors/medical-records and RQ page** — _havaianasdestruido_ (2026-09-10)
+          - [`d74eda3`](https://github.com/havaianasdestruido/OdontoAura/commit/d74eda357505af28dc1682c5e42d8d6517a26342) **perf: cut DB round-trips and enable response compression** — _havaianasdestruido_ (2026-09-10)
+          - [`943610b`](https://github.com/havaianasdestruido/OdontoAura/commit/943610b8dae04997e5a1490a28cf535a3a8ab5b0) **chore(deps): bump amannn/action-semantic-pull-request from 5 to 6 (#5)** — _dependabot[bot]_ (2026-09-10)
+          - [`611e400`](https://github.com/havaianasdestruido/OdontoAura/commit/611e4009d3f7977c9ee242fd96b041cfc12baddc) **chore(deps): bump actions/setup-node from 4 to 7 (#4)** — _dependabot[bot]_ (2026-09-10)
+          - [`8e897c8`](https://github.com/havaianasdestruido/OdontoAura/commit/8e897c84266d092482c2d38b57739c7465d1e436) **chore(deps): bump pnpm/action-setup from 4 to 6 (#2)** — _dependabot[bot]_ (2026-09-10)
+          - [`3e8a9fa`](https://github.com/havaianasdestruido/OdontoAura/commit/3e8a9fa0e765f651d7aaeaecba707101b97e37e0) **chore(deps): bump actions/checkout from 4 to 7 (#3)** — _dependabot[bot]_ (2026-09-10)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/OdontoAura/commits/fix/har-cors-vercel-routing-6506941725452652626/?after=5642f8df5632e9c00569ce588115faf8a10f6e6c+34)
+          - [`1c25e44`](https://github.com/havaianasdestruido/OdontoAura/commit/1c25e445f5761f0198a787c4ebe7e5126ea4dbb4) **renomeado denovo pra OdontoAura, a gente ainda precisa discutir se vai o** — _Pato (new acc)_ (2026-09-05)
+          - [`1e66595`](https://github.com/havaianasdestruido/OdontoAura/commit/1e665951035a6aee6a45cd7ae999678bb569f8e9) **chore(deps-dev): bump jest and @types/jest (#19)** — _dependabot[bot]_ (2026-09-04)
+          - [`5ee712f`](https://github.com/havaianasdestruido/OdontoAura/commit/5ee712f6a451b8081e1db8401bab1e836a202282) **chore(deps-dev): bump typescript from 5.9.3 to 7.0.2 (#7)** — _dependabot[bot]_ (2026-09-04)
+          - [`1f987d9`](https://github.com/havaianasdestruido/OdontoAura/commit/1f987d974a29def21e7947acacaef0bdcac1dc88) **chore(deps-dev): bump @nestjs/cli from 10.4.9 to 12.0.0 (#20)** — _dependabot[bot]_ (2026-09-04)
+          - [`91421b2`](https://github.com/havaianasdestruido/OdontoAura/commit/91421b2c1dfd2e5c761207957b6e2235b26c862a) **chore(deps-dev): bump eslint-config-next from 14.2.35 to 16.3.4 (#12)** — _dependabot[bot]_ (2026-09-04)
+          - [`bfa16ca`](https://github.com/havaianasdestruido/OdontoAura/commit/bfa16ca823448d08a52b3bf484c4186322896303) **chore(deps): bump bcryptjs and @types/bcryptjs (#6)** — _dependabot[bot]_ (2026-09-04)
+          - [`f100eeb`](https://github.com/havaianasdestruido/OdontoAura/commit/f100eebdbee57d7efaa322ffa9112328ba5fd43c) **chore(deps): bump @nestjs/core from 11.2.3 to 12.0.1 (#15)** — _dependabot[bot]_ (2026-09-04)
+          - [`59d1520`](https://github.com/havaianasdestruido/OdontoAura/commit/59d1520c95677e35bd3c5a86a465ed5419f2e0f1) **chore(deps): bump date-fns from 3.6.0 to 4.4.0 (#17)** — _dependabot[bot]_ (2026-09-04)
+          - [`47ae665`](https://github.com/havaianasdestruido/OdontoAura/commit/47ae66540a9bb1b246720a92404f728abb04adb5) **chore(deps): bump @nestjs/config from 3.3.0 to 12.0.0 (#8)** — _dependabot[bot]_ (2026-09-04)
+          - [`dae80d8`](https://github.com/havaianasdestruido/OdontoAura/commit/dae80d80a62023e4db0d10e10ca25823cbc5b218) **chore(deps-dev): bump @testing-library/jest-dom from 6.10.0 to 7.0.1 (#1** — _dependabot[bot]_ (2026-09-04)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/OdontoAura/commits/fix/har-cors-vercel-routing-6506941725452652626/?after=be18d2198710288c4a7ba580b9fcc13b1ecd026c+34)
+          - [`2a10663`](https://github.com/havaianasdestruido/OdontoAura/commit/2a1066375cfbe21db928ed6cadf3f8de7e62acea) **feat(backend): add doctors and specialties modules** — _havaianasdestruido_ (2026-09-04)
+          - [`a0ffd24`](https://github.com/havaianasdestruido/OdontoAura/commit/a0ffd24c0f94617542869d492120f6ed0b8b3892) **feat(backend): add users module with CRUD and RBAC guards** — _havaianasdestruido_ (2026-09-04)
+          - [`ea69511`](https://github.com/havaianasdestruido/OdontoAura/commit/ea695113248d6464409d1feff87737ccf4f2ceda) **feat(backend): add auth module with JWT, guards, RBAC, register/login** — _havaianasdestruido_ (2026-09-04)
+          - [`6e6f332`](https://github.com/havaianasdestruido/OdontoAura/commit/6e6f3329c10bb48dfe5a142848b97acb12f89672) **feat(backend): scaffold NestJS app with Fastify, Swagger, health check** — _havaianasdestruido_ (2026-09-04)
+          - [`642c3be`](https://github.com/havaianasdestruido/OdontoAura/commit/642c3be6cd7920d211a4bfb200983715f4a6bdc3) **feat(shared): add Prisma schema with all domain entities** — _havaianasdestruido_ (2026-09-04)
+          - [`4bdef18`](https://github.com/havaianasdestruido/OdontoAura/commit/4bdef18fa54e4134bb9463d70c8f6d69e63ac7e5) **chore: init monorepo scaffolding with pnpm workspaces, tsconfig base, en** — _havaianasdestruido_ (2026-09-04)
+          - [`4e3fab6`](https://github.com/havaianasdestruido/OdontoAura/commit/4e3fab69c58863bdaf091fcb8deba0b7e23e38cd) **Rename project from OdontoAura to Medcn** — _morelloettore_ (2026-09-04)
+          - [`0bb7690`](https://github.com/havaianasdestruido/OdontoAura/commit/0bb76907a6ac3f223c3d3e5d41a5353edd48b19c) **Merge pull request #1 from havaianasdestruido/jules-15954618156849110106** — _Pato (new acc)_ (2026-09-03)
+          - [`617c663`](https://github.com/havaianasdestruido/OdontoAura/commit/617c663a8b0cd3be84d14867f5c32322196b3f69) **docs: adicionar documentacao da stack tecnologica em docs/stack/ e atual** — _google-labs-jules[bot]_ (2026-09-03)
+          - [`9851cc8`](https://github.com/havaianasdestruido/OdontoAura/commit/9851cc889e34929a3969f8afe37f58370df5fe67) **Create README.md** — _Pato (new acc)_ (2026-09-03)
+      - [`main`](https://github.com/havaianasdestruido/OdontoAura/tree/main) _(default)_ — HEAD: `fe145e4`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/OdontoAura/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/OdontoAura/commits/main)
+          - [`fe145e4`](https://github.com/havaianasdestruido/OdontoAura/commit/fe145e4eb0913ff01d9b24daf75e199ab47971e0) **docs: add production Vercel URLs to README** — _havaianasdestruido_ (2026-09-12)
+          - [`451d265`](https://github.com/havaianasdestruido/OdontoAura/commit/451d265d8a83a41d974e601f02f88de13fc5c20b) **chore(deps): force picomatch 4.0.7 to close high-severity advisories** — _havaianasdestruido_ (2026-09-12)
+          - [`3cc3089`](https://github.com/havaianasdestruido/OdontoAura/commit/3cc3089608cc2daf1bb99464f8e638b35c94791c) **feat(frontend): migrate dashboard pages to react-query and client valida** — _havaianasdestruido_ (2026-09-12)
+          - [`37ca951`](https://github.com/havaianasdestruido/OdontoAura/commit/37ca951454da10f63152495d2d5e09e4deae31c9) **build: move pnpm overrides to workspace config, bump esbuild** — _havaianasdestruido_ (2026-09-12)
+          - [`68ecae4`](https://github.com/havaianasdestruido/OdontoAura/commit/68ecae45895d4be43e04e87774af98990fb2de29) **chore(deps): bump esbuild in the npm_and_yarn group across 1 directory (** — _dependabot[bot]_ (2026-09-12)
+          - [`31d886c`](https://github.com/havaianasdestruido/OdontoAura/commit/31d886ce9132cefdee92b291b884235f43de9b9b) **chore(deps): bump esbuild (#47)** — _dependabot[bot]_ (2026-09-12)
+          - [`c908cc9`](https://github.com/havaianasdestruido/OdontoAura/commit/c908cc964f26a90e53a71b01de3e6add045b8ff0) **fix: align merge leftovers for build** — _havaianasdestruido_ (2026-09-12)
+          - [`cb8f696`](https://github.com/havaianasdestruido/OdontoAura/commit/cb8f69604f44f9132e686d34dd8a70eb8670c6ac) **chore: ignore .vercel in frontend** — _havaianasdestruido_ (2026-09-12)
+          - [`cdd071b`](https://github.com/havaianasdestruido/OdontoAura/commit/cdd071be801147b2653eaee06135ced683315d35) **feat: improve frontend auth and dashboard UX** — _havaianasdestruido_ (2026-09-12)
+          - [`92f21e2`](https://github.com/havaianasdestruido/OdontoAura/commit/92f21e2ac653def4c5750b6424982bc42dfd00a8) **test: add end-to-end suite against the deployed cloud API** — _havaianasdestruido_ (2026-09-12)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/OdontoAura/commits/main/?after=60582067db7573308713dea5a2c7e56018a5208d+34)
+          - [`77e191a`](https://github.com/havaianasdestruido/OdontoAura/commit/77e191a31adadde6e4a54b8e31883a21fd001d59) **chore(deps): bump tailwind-merge from 2.6.1 to 3.6.0 (#42)** — _dependabot[bot]_ (2026-09-07)
+          - [`f7fde91`](https://github.com/havaianasdestruido/OdontoAura/commit/f7fde913b394e15c89518fd8612bb33e7aafb24f) **chore(deps-dev): bump prisma from 5.22.0 to 7.10.0 (#31)** — _dependabot[bot]_ (2026-09-07)
+          - [`3341ee4`](https://github.com/havaianasdestruido/OdontoAura/commit/3341ee4e2ee56f1136f5d91c0397fb068feb8d12) **chore(deps-dev): bump autoprefixer from 10.5.4 to 10.5.5 (#35)** — _dependabot[bot]_ (2026-09-07)
+          - [`fb4973b`](https://github.com/havaianasdestruido/OdontoAura/commit/fb4973ba82ef2c1d17b8297ab3d0833eb155fc3d) **chore(deps): bump lucide-react from 0.400.0 to 1.41.0 (#34)** — _dependabot[bot]_ (2026-09-07)
+          - [`a36b976`](https://github.com/havaianasdestruido/OdontoAura/commit/a36b97641acf563a1dedf4d922b703ebfb97666f) **chore(deps): bump react-dom and @types/react-dom (#32)** — _dependabot[bot]_ (2026-09-07)
+          - [`3fd7be5`](https://github.com/havaianasdestruido/OdontoAura/commit/3fd7be59ce0d52eb777f28f2412f6f087b1e810a) **chore(deps-dev): bump jest-environment-jsdom from 29.7.0 to 30.5.1 (#30)** — _dependabot[bot]_ (2026-09-07)
+          - [`7372d1d`](https://github.com/havaianasdestruido/OdontoAura/commit/7372d1d7a92cf2792ba4ef2409e1c5ff8e089ccb) **chore(deps): bump zustand from 4.5.7 to 5.0.15 (#29)** — _dependabot[bot]_ (2026-09-07)
+          - [`521a4db`](https://github.com/havaianasdestruido/OdontoAura/commit/521a4db65219527fcce5066bdf158a807fb19987) **chore(deps): bump class-validator from 0.14.4 to 0.15.1 (#28)** — _dependabot[bot]_ (2026-09-07)
+          - [`ee17d8b`](https://github.com/havaianasdestruido/OdontoAura/commit/ee17d8b1e93e8ce9425d7a82a3c963708d84c8b6) **chore(deps): bump actions/upload-artifact from 4 to 7 (#27)** — _dependabot[bot]_ (2026-09-07)
+          - [`e543d6a`](https://github.com/havaianasdestruido/OdontoAura/commit/e543d6aeec3b963f0b383bd6e85f4c96c9478c6d) **Merge pull request #26 from havaianasdestruido/fix/build-errors** — _Pato (new acc)_ (2026-09-05)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/OdontoAura/commits/main/?after=8c3990f5cb79f4e27c856bcedb502e9310ea7944+34)
+          - [`3a14fb0`](https://github.com/havaianasdestruido/OdontoAura/commit/3a14fb0fcefe099740881c26d25ea014e4f0aa52) **chore(deps): bump @nestjs/platform-fastify from 10.4.22 to 12.0.1** — _dependabot[bot]_ (2026-09-04)
+          - [`244f7de`](https://github.com/havaianasdestruido/OdontoAura/commit/244f7de2c3e30fd724180f0f61415bf81d3229de) **chore(deps): bump @nestjs/jwt from 10.2.0 to 12.0.1** — _dependabot[bot]_ (2026-09-04)
+          - [`d0380f3`](https://github.com/havaianasdestruido/OdontoAura/commit/d0380f3fb723d146f57a5578fbf881d4a705de63) **chore(deps): bump @prisma/client from 5.22.0 to 7.10.0** — _dependabot[bot]_ (2026-09-04)
+          - [`e0c0b7f`](https://github.com/havaianasdestruido/OdontoAura/commit/e0c0b7f997fe2904ea44196a055a9ddaf3d5080a) **fix: resolve test and dependency issues** — _havaianasdestruido_ (2026-09-04)
+          - [`664069a`](https://github.com/havaianasdestruido/OdontoAura/commit/664069aa5518c52f3b624157c23848a4b147b3b6) **test: add unit tests for auth, appointments, health check, and home page** — _havaianasdestruido_ (2026-09-04)
+          - [`7df34ba`](https://github.com/havaianasdestruido/OdontoAura/commit/7df34ba4e54114832b1e1a339acfdba2a12cac7b) **docs: update README with architecture, API docs, getting started guide** — _havaianasdestruido_ (2026-09-04)
+          - [`ad1a932`](https://github.com/havaianasdestruido/OdontoAura/commit/ad1a9322d6d41f687410700c535cf05791122d25) **ci: add GitHub Actions workflows, templates, and dependabot** — _havaianasdestruido_ (2026-09-04)
+          - [`447a0f0`](https://github.com/havaianasdestruido/OdontoAura/commit/447a0f0f84275e1797289ebc59b40596182a79af) **feat(frontend): add login and register pages with form validation** — _havaianasdestruido_ (2026-09-04)
+          - [`0b824d6`](https://github.com/havaianasdestruido/OdontoAura/commit/0b824d6a28e9df2daba857ff37a95a2ed3ed10eb) **feat(frontend): add dashboard layout with role-based sidebar navigation** — _havaianasdestruido_ (2026-09-04)
+          - [`2f1a9ce`](https://github.com/havaianasdestruido/OdontoAura/commit/2f1a9ce69747e3291d3025ba50ca7472b0b6c172) **feat(frontend): scaffold Next.js app with Tailwind, Shadcn config, auth ** — _havaianasdestruido_ (2026-09-04)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (20)
+        - ✅ Merged [#48 chore(deps): bump esbuild from 0.24.2 to 0.28.1 in the npm_a](https://github.com/havaianasdestruido/OdontoAura/pull/48) — _dependabot[bot]_ (2026-09-12) `dependabot/npm_and_yarn/npm_and_yarn-53cbaf2a5b` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`f2055f7`](https://github.com/havaianasdestruido/OdontoAura/commit/f2055f7ac49b27abbe2a3d48cdeed672b44e8f88) chore(deps): bump esbuild in the npm_and_yarn group across 1
+        - ✅ Merged [#47 chore(deps): bump esbuild from 0.24.2 to 0.28.1 in /apps/bac](https://github.com/havaianasdestruido/OdontoAura/pull/47) — _dependabot[bot]_ (2026-09-12) `dependabot/npm_and_yarn/apps/backend/npm_and_yarn-53cbaf2a5b` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`2c4f723`](https://github.com/havaianasdestruido/OdontoAura/commit/2c4f7235d88d0acf0de59b44a684d7e12dc71ab6) chore(deps): bump esbuild
+        - ✅ Merged [#46 fix(backend): add Vercel rewrites and enhance CORS configura](https://github.com/havaianasdestruido/OdontoAura/pull/46) — _morelloettore_ (2026-09-10) `fix/har-cors-vercel-routing-6506941725452652626` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`8da97f6`](https://github.com/havaianasdestruido/OdontoAura/commit/8da97f6cfee2c446217278356f3f789141384c7c) fix(backend): add Vercel rewrites and enhance CORS configura
+        - ✅ Merged [#45 Connect odonto-aura-frontend.vercel.app to odonto-aura-backe](https://github.com/havaianasdestruido/OdontoAura/pull/45) — _morelloettore_ (2026-09-10) `feat/connect-frontend-backend-vercel-2197773701412789504` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`b94816c`](https://github.com/havaianasdestruido/OdontoAura/commit/b94816c657fd627945fd587ba7742f018c606ee9) Connect frontend Vercel app to backend Vercel API
+        - ✅ Merged [#44 chore: realign main with validated stack (Prisma/Postgres, R](https://github.com/havaianasdestruido/OdontoAura/pull/44) — _havaianasdestruido_ (2026-09-10) `integration/fix-build-errors` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`05ada61`](https://github.com/havaianasdestruido/OdontoAura/commit/05ada61013fc0494bf4eb3447ae15c04e9a5f1be) chore: realign main with validated stack (Prisma/Postgres, R
+        - ✅ Merged [#43 chore(deps): bump @hookform/resolvers from 3.10.0 to 5.9.1](https://github.com/havaianasdestruido/OdontoAura/pull/43) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/hookform/resolvers-5.9.1` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`e6dca1a`](https://github.com/havaianasdestruido/OdontoAura/commit/e6dca1a247d5dafac5d870b97b9a230cbe5a3e2b) chore(deps): bump @hookform/resolvers from 3.10.0 to 5.9.1
+        - ✅ Merged [#42 chore(deps): bump tailwind-merge from 2.6.1 to 3.6.0](https://github.com/havaianasdestruido/OdontoAura/pull/42) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/tailwind-merge-3.6.0` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`540506b`](https://github.com/havaianasdestruido/OdontoAura/commit/540506be8d522af494ff314de3607ff4d4e64308) chore(deps): bump tailwind-merge from 2.6.1 to 3.6.0
+        - ✅ Merged [#41 chore(deps): bump next from 15.5.25 to 16.3.4](https://github.com/havaianasdestruido/OdontoAura/pull/41) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/next-16.3.4` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`c10b200`](https://github.com/havaianasdestruido/OdontoAura/commit/c10b200624ac39a9a8f21269547d54e9c81016d8) chore(deps): bump next from 15.5.25 to 16.3.4
+        - ✅ Merged [#40 chore(deps-dev): bump @types/node from 20.19.43 to 26.4.1](https://github.com/havaianasdestruido/OdontoAura/pull/40) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/types/node-26.4.1` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`5696329`](https://github.com/havaianasdestruido/OdontoAura/commit/569632993ee5d5ab49dda6cd0c99ece8dd3e0009) chore(deps-dev): bump @types/node from 20.19.43 to 26.4.1
+        - ✅ Merged [#39 chore(deps): bump react and @types/react](https://github.com/havaianasdestruido/OdontoAura/pull/39) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/multi-9b1536b8cd` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`7cc0855`](https://github.com/havaianasdestruido/OdontoAura/commit/7cc085549bd9330742a0c47ffd80350dcc511ad8) chore(deps): bump react and @types/react
+        - ✅ Merged [#38 chore(deps-dev): bump @testing-library/react from 15.0.7 to ](https://github.com/havaianasdestruido/OdontoAura/pull/38) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/testing-library/react-16.3.3` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`cdffcef`](https://github.com/havaianasdestruido/OdontoAura/commit/cdffcef973522283a27bcd70e07d0f3f2a9ae71c) chore(deps-dev): bump @testing-library/react from 15.0.7 to 
+        - ✅ Merged [#37 chore(deps-dev): bump eslint from 8.57.1 to 10.10.0](https://github.com/havaianasdestruido/OdontoAura/pull/37) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/eslint-10.10.0` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`980ed81`](https://github.com/havaianasdestruido/OdontoAura/commit/980ed81c26fa75f3a39b342b9484966fff2a202a) chore(deps-dev): bump eslint from 8.57.1 to 10.10.0
+        - ✅ Merged [#36 chore(deps-dev): bump @nestjs/schematics from 10.2.3 to 12.0](https://github.com/havaianasdestruido/OdontoAura/pull/36) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/nestjs/schematics-12.0.0` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`938a58f`](https://github.com/havaianasdestruido/OdontoAura/commit/938a58f02f574d8cd7c5ae488a82218f5d7fcf58) chore(deps-dev): bump @nestjs/schematics from 10.2.3 to 12.0
+        - ✅ Merged [#35 chore(deps-dev): bump autoprefixer from 10.5.4 to 10.5.5](https://github.com/havaianasdestruido/OdontoAura/pull/35) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/autoprefixer-10.5.5` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`b82c25f`](https://github.com/havaianasdestruido/OdontoAura/commit/b82c25f792c3f97936a21495900efba154411f6a) chore(deps-dev): bump autoprefixer from 10.5.4 to 10.5.5
+        - ✅ Merged [#34 chore(deps): bump lucide-react from 0.400.0 to 1.41.0](https://github.com/havaianasdestruido/OdontoAura/pull/34) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/lucide-react-1.41.0` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`4b2efa6`](https://github.com/havaianasdestruido/OdontoAura/commit/4b2efa6edf03ab4c278d22ccdff7b4841e8b9566) chore(deps): bump lucide-react from 0.400.0 to 1.41.0
+        - ✅ Merged [#33 chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.3](https://github.com/havaianasdestruido/OdontoAura/pull/33) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/tailwindcss-4.3.3` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`74823c8`](https://github.com/havaianasdestruido/OdontoAura/commit/74823c88753c50f8ac8a6ac23d1e5faa8227646e) chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.3
+        - ✅ Merged [#32 chore(deps): bump react-dom and @types/react-dom](https://github.com/havaianasdestruido/OdontoAura/pull/32) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/multi-2c38914542` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`064d3f0`](https://github.com/havaianasdestruido/OdontoAura/commit/064d3f08cdde3229c757a8b5420e6332e31a3a0f) chore(deps): bump react-dom and @types/react-dom
+        - ✅ Merged [#31 chore(deps-dev): bump prisma from 5.22.0 to 7.10.0](https://github.com/havaianasdestruido/OdontoAura/pull/31) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/prisma-7.10.0` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`b6a86d0`](https://github.com/havaianasdestruido/OdontoAura/commit/b6a86d0de8a64d81d74ad663b461148c0f3652bc) chore(deps-dev): bump prisma from 5.22.0 to 7.10.0
+        - ✅ Merged [#30 chore(deps-dev): bump jest-environment-jsdom from 29.7.0 to ](https://github.com/havaianasdestruido/OdontoAura/pull/30) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/jest-environment-jsdom-30.5.1` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`a5fc76c`](https://github.com/havaianasdestruido/OdontoAura/commit/a5fc76c8ff869f3405b2b7efacfb0ff0e1feed4c) chore(deps-dev): bump jest-environment-jsdom from 29.7.0 to 
+        - ✅ Merged [#29 chore(deps): bump zustand from 4.5.7 to 5.0.15](https://github.com/havaianasdestruido/OdontoAura/pull/29) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/zustand-5.0.15` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`b04e904`](https://github.com/havaianasdestruido/OdontoAura/commit/b04e904c77a5b60b16779d51fc03ac1f32ce01e5) chore(deps): bump zustand from 4.5.7 to 5.0.15
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (4)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 49 commit(s)
+      - [@dependabot[bot]](https://github.com/apps/dependabot) — 39 commit(s)
+      - [@morelloettore](https://github.com/morelloettore) — 3 commit(s)
+      - [@google-labs-jules[bot]](https://github.com/apps/google-labs-jules) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `TypeScript` — 97.5% (224,865 bytes)
+      - `PowerShell` — 1.7% (3,951 bytes)
+      - `JavaScript` — 0.6% (1,476 bytes)
+      - `CSS` — 0.2% (377 bytes)
+
+---
+
+- ## [orelha](https://github.com/havaianasdestruido/orelha)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 HTML | 📅 Created: 2026-08-25 | 🔄 Updated: 2026-08-31
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/orelha/tree/main) _(default)_ — HEAD: `fe8f47a`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/orelha/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/orelha/commits/main)
+          - [`fe8f47a`](https://github.com/havaianasdestruido/orelha/commit/fe8f47a31db6a33e292698b4808aba6d452e7dd9) **Create static.yml** — _Pato (new acc)_ (2026-08-25)
+          - [`1e70550`](https://github.com/havaianasdestruido/orelha/commit/1e70550eef301c995cd43838d2b8cde07aaf2d2c) **Add files via upload** — _Pato (new acc)_ (2026-08-25)
+          - [`fd8e9fa`](https://github.com/havaianasdestruido/orelha/commit/fd8e9fad9708f9a5ae6889c947b1eca2cc1cf566) **Initial commit** — _Pato (new acc)_ (2026-08-25)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 3 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `HTML` — 100.0% (35,529 bytes)
+
+---
+
+- ## [photoviewer](https://github.com/havaianasdestruido/photoviewer)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-08-04
+
+    - ### 🌿 Branches (1)
+      - [`master`](https://github.com/havaianasdestruido/photoviewer/tree/master) _(default)_ — HEAD: `e476d2c`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/photoviewer/commits/master)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/photoviewer/commits/master)
+          - [`e476d2c`](https://github.com/havaianasdestruido/photoviewer/commit/e476d2cc9a024bdb77167aefc215c2c9848415f2) **initial** — _UltimateQuack_ (2026-08-03)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (0)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C#` — 100.0% (54,122 bytes)
+
+---
+
+- ## [pipeline-graph](https://github.com/havaianasdestruido/pipeline-graph)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-08-04
+
+    - ### 🌿 Branches (1)
+      - [`master`](https://github.com/havaianasdestruido/pipeline-graph/tree/master) _(default)_ — HEAD: `182146c`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/pipeline-graph/commits/master)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/pipeline-graph/commits/master)
+          - [`182146c`](https://github.com/havaianasdestruido/pipeline-graph/commit/182146c6e713788f36de7fe6f6c3f1f88e99f61f) **initial commit** — _UltimateQuack_ (2026-08-03)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (0)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C#` — 100.0% (46,926 bytes)
+
+---
+
+- ## [pong-pop](https://github.com/havaianasdestruido/pong-pop)
+  > Jogo simples onde você joga ping pong, mas com pop ups.
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 JavaScript | 📅 Created: 2026-07-28 | 🔄 Updated: 2026-08-13
+
+    - ### 🌿 Branches (3)
+      - [`codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola`](https://github.com/havaianasdestruido/pong-pop/tree/codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola) — HEAD: `796d5c1`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/pong-pop/commits/codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/pong-pop/commits/codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola)
+          - [`796d5c1`](https://github.com/havaianasdestruido/pong-pop/commit/796d5c1f8434666fa2d70df3093f594ec3d26c03) **Smooth AI paddle window movement** — _Pato (new acc)_ (2026-08-13)
+          - [`7a62afa`](https://github.com/havaianasdestruido/pong-pop/commit/7a62afa75b0022b33e71739f59f1a2f875c139d0) **fix: weird 'lagging' ai window issue** — _havaianasdestruido_ (2026-08-13)
+          - [`990d492`](https://github.com/havaianasdestruido/pong-pop/commit/990d492e233c0b00ad467460bb21260815c17f48) **Update README.md** — _havaianasdestruido_ (2026-08-03)
+          - [`5276442`](https://github.com/havaianasdestruido/pong-pop/commit/52764429d096a1c04b2756346b232d9146af866b) **Add GNU General Public License v3** — _havaianasdestruido_ (2026-08-03)
+          - [`68c3b1a`](https://github.com/havaianasdestruido/pong-pop/commit/68c3b1a93b8e431be5f9d1e7b8ab4732b1b6ae11) **Add demo gif to README** — _havaianasdestruido_ (2026-08-03)
+          - [`18647ec`](https://github.com/havaianasdestruido/pong-pop/commit/18647ec3a6dfec1cdc98e10a9f27fe505cc96d9e) **Add files via upload** — _havaianasdestruido_ (2026-08-03)
+          - [`ad974c2`](https://github.com/havaianasdestruido/pong-pop/commit/ad974c298c2aa2fb9fc197992e0f2b04d8627aa2) **Create readme.md** — _havaianasdestruido_ (2026-08-03)
+          - [`ce6ee1a`](https://github.com/havaianasdestruido/pong-pop/commit/ce6ee1abd12acfd63ccb11a3e16776208a2653d9) **fix: arrumado bug do player não conseguir se mover** — _UltimateQuack_ (2026-08-03)
+          - [`883bb4b`](https://github.com/havaianasdestruido/pong-pop/commit/883bb4b95756725cb3c144d5017ff06e59721274) **wip** — _UltimateQuack_ (2026-08-03)
+          - [`a5011d8`](https://github.com/havaianasdestruido/pong-pop/commit/a5011d88b66607de5dc9c1690c012c6949b26150) **Create README.md** — _havaianasdestruido_ (2026-08-03)
+      - [`codex/create-pong-game-with-popup-windows`](https://github.com/havaianasdestruido/pong-pop/tree/codex/create-pong-game-with-popup-windows) — HEAD: `ebce1a9`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/pong-pop/commits/codex/create-pong-game-with-popup-windows)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/pong-pop/commits/codex/create-pong-game-with-popup-windows)
+          - [`ebce1a9`](https://github.com/havaianasdestruido/pong-pop/commit/ebce1a99b0c8c9c21ffd5527c3b589af2b134f73) **Create popup window Pong game** — _havaianasdestruido_ (2026-07-28)
+          - [`239b6a0`](https://github.com/havaianasdestruido/pong-pop/commit/239b6a04199b5326491b52276b93ff0901465f67) **Initialize repository** — _havaianasdestruido_ (2026-07-28)
+      - [`main`](https://github.com/havaianasdestruido/pong-pop/tree/main) _(default)_ — HEAD: `59f6e56`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/pong-pop/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/pong-pop/commits/main)
+          - [`59f6e56`](https://github.com/havaianasdestruido/pong-pop/commit/59f6e5666f097d11286e8bad464709c6e3838db0) **Merge pull request #2 from havaianasdestruido/codex/corrigir-janela-da-i** — _Pato (new acc)_ (2026-08-13)
+          - [`796d5c1`](https://github.com/havaianasdestruido/pong-pop/commit/796d5c1f8434666fa2d70df3093f594ec3d26c03) **Smooth AI paddle window movement** — _Pato (new acc)_ (2026-08-13)
+          - [`7a62afa`](https://github.com/havaianasdestruido/pong-pop/commit/7a62afa75b0022b33e71739f59f1a2f875c139d0) **fix: weird 'lagging' ai window issue** — _havaianasdestruido_ (2026-08-13)
+          - [`990d492`](https://github.com/havaianasdestruido/pong-pop/commit/990d492e233c0b00ad467460bb21260815c17f48) **Update README.md** — _havaianasdestruido_ (2026-08-03)
+          - [`5276442`](https://github.com/havaianasdestruido/pong-pop/commit/52764429d096a1c04b2756346b232d9146af866b) **Add GNU General Public License v3** — _havaianasdestruido_ (2026-08-03)
+          - [`68c3b1a`](https://github.com/havaianasdestruido/pong-pop/commit/68c3b1a93b8e431be5f9d1e7b8ab4732b1b6ae11) **Add demo gif to README** — _havaianasdestruido_ (2026-08-03)
+          - [`18647ec`](https://github.com/havaianasdestruido/pong-pop/commit/18647ec3a6dfec1cdc98e10a9f27fe505cc96d9e) **Add files via upload** — _havaianasdestruido_ (2026-08-03)
+          - [`ad974c2`](https://github.com/havaianasdestruido/pong-pop/commit/ad974c298c2aa2fb9fc197992e0f2b04d8627aa2) **Create readme.md** — _havaianasdestruido_ (2026-08-03)
+          - [`ce6ee1a`](https://github.com/havaianasdestruido/pong-pop/commit/ce6ee1abd12acfd63ccb11a3e16776208a2653d9) **fix: arrumado bug do player não conseguir se mover** — _UltimateQuack_ (2026-08-03)
+          - [`883bb4b`](https://github.com/havaianasdestruido/pong-pop/commit/883bb4b95756725cb3c144d5017ff06e59721274) **wip** — _UltimateQuack_ (2026-08-03)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (2)
+        - ✅ Merged [#2 Smooth AI paddle movement and reduce popup shaking](https://github.com/havaianasdestruido/pong-pop/pull/2) — _havaianasdestruido_ (2026-08-13) `codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`796d5c1`](https://github.com/havaianasdestruido/pong-pop/commit/796d5c1f8434666fa2d70df3093f594ec3d26c03) Smooth AI paddle window movement
+        - ✅ Merged [#1 Add popup-window Pong game with Play launcher and performanc](https://github.com/havaianasdestruido/pong-pop/pull/1) — _havaianasdestruido_ (2026-07-28) `codex/create-pong-game-with-popup-windows` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`ebce1a9`](https://github.com/havaianasdestruido/pong-pop/commit/ebce1a99b0c8c9c21ffd5527c3b589af2b134f73) Create popup window Pong game
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 13 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `JavaScript` — 78.0% (7,451 bytes)
+      - `HTML` — 14.8% (1,413 bytes)
+      - `CSS` — 7.2% (687 bytes)
+
+---
+
+- ## [Quack3DMM](https://github.com/havaianasdestruido/Quack3DMM) `🍴 Fork`
+  > This is the source code for the original Microsoft 3D Movie Maker released in 19
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-07-12 | 🔄 Updated: 2026-07-12
+
+  - 🔗 Forked from: [microsoft/Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker)
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/Quack3DMM/tree/main) _(default)_ — HEAD: `104b265`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/Quack3DMM/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/Quack3DMM/commits/main)
+          - [`104b265`](https://github.com/havaianasdestruido/Quack3DMM/commit/104b2653e68046c2f6373186169f281006db35b1) **Update README.md** — _Scott Hanselman_ (2022-05-04)
+          - [`3954101`](https://github.com/havaianasdestruido/Quack3DMM/commit/3954101c194ac7cd853d550c96c705d85f3b0f92) **commit message** — _Scott Hanselman_ (2022-05-03)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@shanselman](https://github.com/shanselman) — 2 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `SWIG` — 76.8% (28,476,528 bytes)
+      - `C++` — 17.9% (6,620,551 bytes)
+      - `C` — 4.0% (1,494,618 bytes)
+      - `Assembly` — 1.1% (390,147 bytes)
+      - `Makefile` — 0.2% (84,917 bytes)
+      - `Batchfile` — 0.0% (13,832 bytes)
+
+---
+
+- ## [R2K16](https://github.com/havaianasdestruido/R2K16) `🍴 Fork | 🗃️ Template`
+  > 2K16 RBLX
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C++ | 📅 Created: 2026-09-06 | 🔄 Updated: 2026-09-06
+
+  - 🔗 Forked from: [Artifaqt/ROBLOX2016](https://github.com/Artifaqt/ROBLOX2016)
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/R2K16/tree/main) _(default)_ — HEAD: `5f5a3e1`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/R2K16/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/R2K16/commits/main)
+          - [`5f5a3e1`](https://github.com/havaianasdestruido/R2K16/commit/5f5a3e17aed3a1886067ca025174e52fb49a61eb) **my changes and additions to this fork is under Apache 2.0** — _Pato (new acc)_ (2026-09-06)
+          - [`a46b938`](https://github.com/havaianasdestruido/R2K16/commit/a46b93873276437d54acfd0d4a0d31d6ed2ae18b) **new stuff on TODO** — _Pato (new acc)_ (2026-09-06)
+          - [`4e95345`](https://github.com/havaianasdestruido/R2K16/commit/4e953450d337a8b1f2bf1157d50c3d401d97a373) **Update README.md** — _Pato (new acc)_ (2026-09-06)
+          - [`e0cfac5`](https://github.com/havaianasdestruido/R2K16/commit/e0cfac59fea3a5b986843e65b0fda286e439f9fc) **Update README.md** — _UltimateQuack_ (2025-01-30)
+          - [`17354ca`](https://github.com/havaianasdestruido/R2K16/commit/17354cab616058176d5f31ba123d741d7f725ca6) **\[ImgBot\] Optimized images** — _UltimateQuack_ (2025-01-30)
+          - [`9a12a88`](https://github.com/havaianasdestruido/R2K16/commit/9a12a88b40047176acfaf5fe04a46bd993433f55) **Update README.md** — _UltimateQuack_ (2025-01-29)
+          - [`332b61a`](https://github.com/havaianasdestruido/R2K16/commit/332b61a14b369472a21643bd54a1e98668169a81) **Delete .github/workflows/jekyll-gh-pages.yml** — _UltimateQuack_ (2024-12-20)
+          - [`f52ba91`](https://github.com/havaianasdestruido/R2K16/commit/f52ba91c240db4b0db6b6c1345a7094c8c43e177) **Create jekyll-gh-pages.yml** — _UltimateQuack_ (2024-12-20)
+          - [`dd0298a`](https://github.com/havaianasdestruido/R2K16/commit/dd0298aee99bff9edd85298e6482ba767a045283) **\[ImgBot\] Optimize images** — _ImgBotApp_ (2024-12-19)
+          - [`05db15d`](https://github.com/havaianasdestruido/R2K16/commit/05db15d61050dd4a972636202cb613043ad4a9c0) **full source code** — _PatoFlamejanteTV_ (2024-12-19)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (2)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 3 commit(s)
+      - [@ImgBotApp](https://github.com/ImgBotApp) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C++` — 51.8% (557,213,413 bytes)
+      - `HTML` — 32.4% (348,767,133 bytes)
+      - `C` — 13.0% (139,874,683 bytes)
+      - `JavaScript` — 0.4% (4,015,166 bytes)
+      - `Python` — 0.3% (3,400,448 bytes)
+      - `Objective-C++` — 0.2% (2,675,524 bytes)
+      - `Objective-C` — 0.2% (2,223,658 bytes)
+      - `IDL` — 0.2% (2,200,374 bytes)
+      - `Lua` — 0.2% (2,046,924 bytes)
+      - `Assembly` — 0.1% (1,539,045 bytes)
+      - `QML` — 0.1% (1,446,093 bytes)
+      - `Java` — 0.1% (1,401,718 bytes)
+      - `CSS` — 0.1% (1,218,372 bytes)
+      - `C#` — 0.1% (905,324 bytes)
+      - `XSLT` — 0.1% (875,007 bytes)
+      - `CMake` — 0.1% (768,823 bytes)
+      - `Shell` — 0.1% (730,710 bytes)
+      - `QMake` — 0.1% (635,968 bytes)
+      - `Makefile` — 0.0% (518,535 bytes)
+      - `GAP` — 0.0% (385,184 bytes)
+      - `Yacc` — 0.0% (383,743 bytes)
+      - `M4` — 0.0% (216,731 bytes)
+      - `CWeb` — 0.0% (173,921 bytes)
+      - `Perl` — 0.0% (156,625 bytes)
+      - `Cuda` — 0.0% (130,316 bytes)
+      - `HLSL` — 0.0% (120,595 bytes)
+      - `DIGITAL Command Language` — 0.0% (100,111 bytes)
+      - `Ada` — 0.0% (89,079 bytes)
+      - `PHP` — 0.0% (86,439 bytes)
+      - `Roff` — 0.0% (86,099 bytes)
+      - `TeX` — 0.0% (82,851 bytes)
+      - `VBScript` — 0.0% (69,481 bytes)
+      - `Module Management System` — 0.0% (69,178 bytes)
+      - `Rich Text Format` — 0.0% (61,478 bytes)
+      - `Batchfile` — 0.0% (59,681 bytes)
+      - `Lex` — 0.0% (53,422 bytes)
+      - `Go Template` — 0.0% (52,207 bytes)
+      - `Pascal` — 0.0% (42,413 bytes)
+      - `Max` — 0.0% (36,857 bytes)
+      - `Qt Script` — 0.0% (29,918 bytes)
+      - `Pawn` — 0.0% (29,116 bytes)
+      - `Ruby` — 0.0% (26,381 bytes)
+      - `LLVM` — 0.0% (23,063 bytes)
+      - `GLSL` — 0.0% (18,207 bytes)
+      - `BitBake` — 0.0% (15,622 bytes)
+      - `XQuery` — 0.0% (12,547 bytes)
+      - `AIDL` — 0.0% (8,443 bytes)
+      - `Less` — 0.0% (8,428 bytes)
+      - `POV-Ray SDL` — 0.0% (4,063 bytes)
+      - `Visual Basic .NET` — 0.0% (3,795 bytes)
+      - `NASL` — 0.0% (2,832 bytes)
+      - `AppleScript` — 0.0% (2,781 bytes)
+      - `Prolog` — 0.0% (2,612 bytes)
+      - `Eiffel` — 0.0% (2,159 bytes)
+      - `Fortran` — 0.0% (1,856 bytes)
+      - `Gherkin` — 0.0% (1,620 bytes)
+      - `Tcl` — 0.0% (1,172 bytes)
+      - `sed` — 0.0% (946 bytes)
+      - `Scilab` — 0.0% (673 bytes)
+      - `D` — 0.0% (597 bytes)
+      - `Rez` — 0.0% (354 bytes)
+      - `SCSS` — 0.0% (259 bytes)
+      - `GDB` — 0.0% (227 bytes)
+      - `Sass` — 0.0% (167 bytes)
+
+---
+
+- ## [Rbx2Source-enhanced](https://github.com/havaianasdestruido/Rbx2Source-enhanced) `🍴 Fork`
+  > A utility tool that automatically assembles Roblox assets into geometry data, wh
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-11 | 🔄 Updated: 2026-08-11
+
+  - 🔗 Forked from: [aleksa07/Rbx2Source-enhanced](https://github.com/aleksa07/Rbx2Source-enhanced)
+    - ### 🌿 Branches (1)
+      - [`experimental`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/tree/experimental) _(default)_ — HEAD: `0387fd6`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commits/experimental)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commits/experimental)
+          - [`0387fd6`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/0387fd6957074ff5a5029e5c9dccefb46ff11fd3) **Fix all 33 audit bottlenecks — HTTP caching, texture compositing, SMD wr** — _havaianasdestruido_ (2026-08-11)
+          - [`b98373e`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/b98373e6d88cd7d2d0a8a03eac14c7cdabc80a10) **v2.10.5 — R6 animation fix, head mode, Advanced tab, rate-limit/404/free** — _aleksa07_ (2026-08-06)
+          - [`bac3cd9`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/bac3cd9a2e265bffaae668462c0b3a1e0402ef0b) **Fix R6 animations in-game: raw delta frames + QC \** — _aleksa07_ (2026-08-06)
+          - [`47af853`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/47af8535de9a7774ba0a8f74a3b588e51b60ce6b) **Fix R6 animation mirror: absolute delta-sequence frames, drop QC $delta** — _aleksa07_ (2026-08-06)
+          - [`1e0c303`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/1e0c303030361b99d7d4736437673deecd042238) **Revert R6 DeltaSequence routing, restore axis-patch animation path** — _aleksa07_ (2026-08-06)
+          - [`2062ab4`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/2062ab43ddb7723e72e4d58080ef86780d8a1183) **Refresh repo-root Rbx2Source.exe with head mode feature** — _aleksa07_ (2026-08-06)
+          - [`42d594c`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/42d594c20579dfac29e4e3c272920d0e09c174d7) **Add head mode (Default/Faceless/Headless) with name-based auto-detect** — _aleksa07_ (2026-08-06)
+          - [`5b59e5d`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/5b59e5d3885c57afa541ada575e8b54ea59f1844) **Refresh repo-root Rbx2Source.exe with R6 DeltaSequence fix** — _aleksa07_ (2026-08-06)
+          - [`4abd10c`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/4abd10cabf18871be4b32994229c13508c2b260e) **Route R6 animations through DeltaSequence with raw deltas** — _aleksa07_ (2026-08-06)
+          - [`55cab9c`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/55cab9c46a5636c229fff6f13ab2cd8bcff03a2e) **Refresh repo-root Rbx2Source.exe with outfit disk cache** — _aleksa07_ (2026-08-06)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commits/experimental/?after=4150e3d5935360dcad0145091659b9bf10ae74db+34)
+          - [`68b8ccd`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/68b8ccdc15a0d0ae560cf38813c9b4e65a72a782) **v2.9.3 — Fixed RobloxFileFormat CPU config (x64 platform)** — _aleksa07_ (2026-07-11)
+          - [`6875751`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/68757514514e1b78a38183f96fb27213e19f7f08) **Fix update popup loop: initialize CurrentVersion in registry defaults, r** — _aleksa07_ (2026-05-18)
+          - [`c3a8c24`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/c3a8c241e85bf6d7cef66b2f578dd56a79ddcf98) **Persist latest version to registry after update check to avoid repeat pr** — _aleksa07_ (2026-05-18)
+          - [`eaf083f`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/eaf083fb1e7c4391120bf7f38aecfa3adb263aaa) **Bump all version refs to 2.9.2** — _aleksa07_ (2026-05-18)
+          - [`d567bd2`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/d567bd20ce531f8b647cf87c93b3667e5763ce04) **Fix version.txt: 2.9.2 -> 2.9 to match app version** — _aleksa07_ (2026-05-18)
+          - [`b4fc7a5`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/b4fc7a54e1b76883b695be8cea296eff0a228086) **Fix version.txt: 2.9 -> 2.9.2 to match release** — _aleksa07_ (2026-05-18)
+          - [`b821e74`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/b821e7451073d862b47cb8f7c11910aef006adc4) **Replace auto-download with update popup, remove version.txt from release** — _aleksa07_ (2026-05-18)
+          - [`e2b0682`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/e2b0682d6eb465b7cb1248842ccacadf6a9532c7) **Fix auto-update loop: persist CurrentVersion with Settings.Save()** — _aleksa07_ (2026-05-18)
+          - [`4e9d9c5`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/4e9d9c5ddaef53e2969eea6ecfefc7a64a5d8c25) **Update AGENTS.md with full changelog** — _aleksa07_ (2026-05-18)
+          - [`8160b2a`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/8160b2a7ce36eec2499212251056a0e0c3cc40d8) **Update AGENTS.md: auto-update branch change** — _aleksa07_ (2026-05-18)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commits/experimental/?after=1ae6c83e80154fc0cb58d66e73afb3922536001d+34)
+          - [`f19d1f6`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/f19d1f60bbcf84ea04cd2deeb20e5db3cd96a4b4) **Update README.md** — _Max_ (2023-05-25)
+          - [`bc14da3`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/bc14da30c2413b8fa34f2bb63951019bf7ea9f5e) **Merge pull request #89 from LockpickInteractive/max-merge** — _Max_ (2023-05-25)
+          - [`10e9ead`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/10e9eadd74a71bb30f0ed787d7713bacce694cf3) **Merge pull request #31 from LockpickInteractive/dependabot/nuget/Fody-6.** — _qfoxb_ (2023-04-29)
+          - [`4e967ae`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/4e967ae03fda2cb6b6eea9151d523feda18331cd) **Bump Fody from 6.6.4 to 6.7.0** — _dependabot[bot]_ (2023-04-29)
+          - [`f40e952`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/f40e952f2ee78afa32aeb800a8b452a043325dba) **Merge pull request #34 from femou1/main** — _qfoxb_ (2023-04-29)
+          - [`9bbe379`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/9bbe3797546edd286f91c635095897be6eec7b44) **Update Rbx2Source.cs** — _qfoxb_ (2023-04-29)
+          - [`0ecb635`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/0ecb635c39d805ccc35ff19e5774e10bf489c32c) **Update Rbx2Source.Designer.cs** — _femou_ (2023-04-29)
+          - [`4dae912`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/4dae912687d5be3646e5c965d3adccd0213c8401) **community vs22** — _qfoxb_ (2023-04-29)
+          - [`e9eed1a`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/e9eed1ae8a55ac447143a57c161b24928d9d68af) **Update _config.yml** — _qfoxb_ (2023-04-20)
+          - [`86a738b`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/86a738bb1dbbbb5f077a05b1af228707ef155a8b) **add favicon** — _qfoxb_ (2023-04-20)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commits/experimental/?after=1c2bf320813058cc25a5e0f879aa26e7344e4f12+34)
+          - [`e3d939b`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/e3d939bfde81632b5cdf211c5c97dfe2e1d39095) **Bump Newtonsoft.Json from 13.0.2 to 13.0.3** — _dependabot[bot]_ (2023-04-05)
+          - [`de5d266`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/de5d26646bc58b0727ed01f6ed1626f399512a0f) **Update README.md** — _qfoxb_ (2023-03-21)
+          - [`d425aec`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/d425aec525d195b7fe1da7f98e39a8f7cd2ef784) **Update README.md** — _qfoxb_ (2023-02-28)
+          - [`a30bab1`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/a30bab1e20cc7489d08dadcd7cc0a903c46499d7) **Update README.md** — _qfoxb_ (2023-02-28)
+          - [`928a5ca`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/928a5cafd045b0a47a181fabdea85703fec325a0) **Add contributors to readme** — _qfoxb_ (2023-02-12)
+          - [`82e2beb`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/82e2bebbf69c1872f23173a91ac9631a454a0724) **Remove deprecated functionality** — _qfoxb_ (2022-12-26)
+          - [`3b46cbf`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/3b46cbfeec47cab205e1cad5cb71967ab435d04e) **Add repository size** — _qfoxb_ (2022-12-11)
+          - [`e33c2d1`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/e33c2d103a2ab05483bbd9a9d39689b091ecec30) **Update build.yml** — _qfoxb_ (2022-12-07)
+          - [`cd5b238`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/cd5b238bfaa8851ab0225bf564a3908b89b3fb81) **Update version.txt** — _qfoxb_ (2022-12-07)
+          - [`ddd5433`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/ddd54337b196cdd39ed8b2f39ccd888e115deae6) **Update _config.yml** — _qfoxb_ (2022-12-03)
+        - 📄 [Commits Page 5](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commits/experimental/?after=23770500be41b258d4ed831731ee48391588dabb+34)
+          - [`c979900`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/c9799006c36cd448d2d241094d035fe23b9350a0) **:confetti_ball: Fix #1, add comments** — _qfoxb_ (2022-10-21)
+          - [`396b1be`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/396b1becd705190cb4573b7edd9ebee4ba49c30a) **Wrote the wrong unimplemented function** — _qfoxb_ (2022-10-18)
+          - [`50ec763`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/50ec763521ccdd391a21b1523cd036ac9325c3ce) **Replace deprecated function with supported equivalent** — _qfoxb_ (2022-10-18)
+          - [`22cc90c`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/22cc90ca92555ae2af08ba0c49aa554b5c6b6588) **Forgot it** — _qfoxb_ (2022-10-18)
+          - [`9777e0c`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/9777e0c8d0b8a6a6766ddb745effe3c177c96a4f) **Update build.yml** — _qfoxb_ (2022-10-13)
+          - [`2d18ed4`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/2d18ed443332359b6364341a0657a317ea0eff15) **Update README.md** — _qfoxb_ (2022-10-11)
+          - [`96d7361`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/96d7361ac2d9e0ae06cb77fd5bf1a956335f0b3d) **Update build.yml** — _qfoxb_ (2022-10-11)
+          - [`a09e1fd`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/a09e1fdfcc734b2924c237f72b505fc18cf31fd7) **Bump to version 2.68** — _qfoxb_ (2022-10-11)
+          - [`c536ce4`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/c536ce4e5ab6f5f0bc8f41ceb07c5200f62b8acb) **Fix crash on startup** — _qfoxb_ (2022-10-10)
+          - [`0cac424`](https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/0cac42424dce8231d33802497d27134554363480) **Update build.yml** — _qfoxb_ (2022-10-10)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (8)
+      - [@qfoxb](https://github.com/qfoxb) — 168 commit(s)
+      - [@MaximumADHD](https://github.com/MaximumADHD) — 68 commit(s)
+      - [@aleksa07](https://github.com/aleksa07) — 59 commit(s)
+      - [@timelessnesses](https://github.com/timelessnesses) — 13 commit(s)
+      - [@dependabot[bot]](https://github.com/apps/dependabot) — 9 commit(s)
+      - [@ryan-mcdonald](https://github.com/ryan-mcdonald) — 2 commit(s)
+      - [@gamenew09](https://github.com/gamenew09) — 1 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C#` — 98.2% (335,902 bytes)
+      - `QuakeC` — 1.0% (3,337 bytes)
+      - `Lua` — 0.7% (2,418 bytes)
+      - `Batchfile` — 0.1% (317 bytes)
+
+---
+
+- ## [rdprxy](https://github.com/havaianasdestruido/rdprxy) `🍴 Fork`
+  > A proxy created for serving HTTP requests from Roblox to Discord or Roblox.
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-05-24 | 🔄 Updated: 2026-05-24
+
+  - 🔗 Forked from: [sentanos/rdprxy](https://github.com/sentanos/rdprxy)
+    - ### 🌿 Branches (3)
+      - [`dependabot/npm_and_yarn/follow-redirects-1.15.6`](https://github.com/havaianasdestruido/rdprxy/tree/dependabot/npm_and_yarn/follow-redirects-1.15.6) — HEAD: `6330b6f`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/rdprxy/commits/dependabot/npm_and_yarn/follow-redirects-1.15.6)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/rdprxy/commits/dependabot/npm_and_yarn/follow-redirects-1.15.6)
+          - [`6330b6f`](https://github.com/havaianasdestruido/rdprxy/commit/6330b6fe378a0ef2f2898439737d992eb4d862b8) **Bump follow-redirects from 1.13.0 to 1.15.6** — _dependabot[bot]_ (2024-03-14)
+          - [`a91c129`](https://github.com/havaianasdestruido/rdprxy/commit/a91c1291c5ab1e087b6255bdb71997b4938226cc) **Merge pull request #2 from sentanos/dependabot/npm_and_yarn/http-proxy-1** — _sentanos_ (2020-09-15)
+          - [`29a1779`](https://github.com/havaianasdestruido/rdprxy/commit/29a177996188e4d57fafe0332b7fc4c7eba16bc7) **Bump http-proxy from 1.16.2 to 1.18.1** — _dependabot[bot]_ (2020-09-15)
+          - [`9c8fa63`](https://github.com/havaianasdestruido/rdprxy/commit/9c8fa6307d8b95fd023a12aa42986d98ea90914a) **ProxyHandler** — _Joshua Lanese_ (2018-02-24)
+          - [`639b831`](https://github.com/havaianasdestruido/rdprxy/commit/639b8314486fd068c9b0018f89e1166129128d74) **Better instructions** — _Joshua Lanese_ (2018-02-24)
+          - [`d7d94c4`](https://github.com/havaianasdestruido/rdprxy/commit/d7d94c4bf528baddfb56a5b04fc7debee48348ae) **Specify login** — _Joshua Lanese_ (2018-02-24)
+          - [`257d187`](https://github.com/havaianasdestruido/rdprxy/commit/257d1875c1f8a92e3754eb1559c73f84d4f3bf3a) **Specify done** — _Joshua Lanese_ (2018-02-24)
+          - [`7398339`](https://github.com/havaianasdestruido/rdprxy/commit/7398339c44d98b99d95c427999026343ebc00d85) **List** — _Joshua Lanese_ (2018-02-24)
+          - [`85e103b`](https://github.com/havaianasdestruido/rdprxy/commit/85e103b387edfb35bb69eb2ac0d65c47abf18d8a) **I'm serious** — _Joshua Lanese_ (2018-02-24)
+          - [`b60e0e8`](https://github.com/havaianasdestruido/rdprxy/commit/b60e0e80d000813f8a71b1187145cc8c7d2e3c85) **v1.0.0, MIT license** — _Joshua Lanese_ (2018-02-24)
+      - [`master`](https://github.com/havaianasdestruido/rdprxy/tree/master) _(default)_ — HEAD: `a91c129`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/rdprxy/commits/master)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/rdprxy/commits/master)
+          - [`a91c129`](https://github.com/havaianasdestruido/rdprxy/commit/a91c1291c5ab1e087b6255bdb71997b4938226cc) **Merge pull request #2 from sentanos/dependabot/npm_and_yarn/http-proxy-1** — _sentanos_ (2020-09-15)
+          - [`29a1779`](https://github.com/havaianasdestruido/rdprxy/commit/29a177996188e4d57fafe0332b7fc4c7eba16bc7) **Bump http-proxy from 1.16.2 to 1.18.1** — _dependabot[bot]_ (2020-09-15)
+          - [`9c8fa63`](https://github.com/havaianasdestruido/rdprxy/commit/9c8fa6307d8b95fd023a12aa42986d98ea90914a) **ProxyHandler** — _Joshua Lanese_ (2018-02-24)
+          - [`639b831`](https://github.com/havaianasdestruido/rdprxy/commit/639b8314486fd068c9b0018f89e1166129128d74) **Better instructions** — _Joshua Lanese_ (2018-02-24)
+          - [`d7d94c4`](https://github.com/havaianasdestruido/rdprxy/commit/d7d94c4bf528baddfb56a5b04fc7debee48348ae) **Specify login** — _Joshua Lanese_ (2018-02-24)
+          - [`257d187`](https://github.com/havaianasdestruido/rdprxy/commit/257d1875c1f8a92e3754eb1559c73f84d4f3bf3a) **Specify done** — _Joshua Lanese_ (2018-02-24)
+          - [`7398339`](https://github.com/havaianasdestruido/rdprxy/commit/7398339c44d98b99d95c427999026343ebc00d85) **List** — _Joshua Lanese_ (2018-02-24)
+          - [`85e103b`](https://github.com/havaianasdestruido/rdprxy/commit/85e103b387edfb35bb69eb2ac0d65c47abf18d8a) **I'm serious** — _Joshua Lanese_ (2018-02-24)
+          - [`b60e0e8`](https://github.com/havaianasdestruido/rdprxy/commit/b60e0e80d000813f8a71b1187145cc8c7d2e3c85) **v1.0.0, MIT license** — _Joshua Lanese_ (2018-02-24)
+          - [`074c3f6`](https://github.com/havaianasdestruido/rdprxy/commit/074c3f6185f3451d0275af5fd3f4cae374514ff6) **Initial** — _Joshua Lanese_ (2018-02-24)
+      - [`patch-1`](https://github.com/havaianasdestruido/rdprxy/tree/patch-1) — HEAD: `9510405`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/rdprxy/commits/patch-1)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/rdprxy/commits/patch-1)
+          - [`9510405`](https://github.com/havaianasdestruido/rdprxy/commit/9510405267908b974adec30b63a2fd1dcf9ee0f1) **fix: fixed broken deploy button** — _havaianasdestruido_ (2026-05-24)
+          - [`a91c129`](https://github.com/havaianasdestruido/rdprxy/commit/a91c1291c5ab1e087b6255bdb71997b4938226cc) **Merge pull request #2 from sentanos/dependabot/npm_and_yarn/http-proxy-1** — _sentanos_ (2020-09-15)
+          - [`29a1779`](https://github.com/havaianasdestruido/rdprxy/commit/29a177996188e4d57fafe0332b7fc4c7eba16bc7) **Bump http-proxy from 1.16.2 to 1.18.1** — _dependabot[bot]_ (2020-09-15)
+          - [`9c8fa63`](https://github.com/havaianasdestruido/rdprxy/commit/9c8fa6307d8b95fd023a12aa42986d98ea90914a) **ProxyHandler** — _Joshua Lanese_ (2018-02-24)
+          - [`639b831`](https://github.com/havaianasdestruido/rdprxy/commit/639b8314486fd068c9b0018f89e1166129128d74) **Better instructions** — _Joshua Lanese_ (2018-02-24)
+          - [`d7d94c4`](https://github.com/havaianasdestruido/rdprxy/commit/d7d94c4bf528baddfb56a5b04fc7debee48348ae) **Specify login** — _Joshua Lanese_ (2018-02-24)
+          - [`257d187`](https://github.com/havaianasdestruido/rdprxy/commit/257d1875c1f8a92e3754eb1559c73f84d4f3bf3a) **Specify done** — _Joshua Lanese_ (2018-02-24)
+          - [`7398339`](https://github.com/havaianasdestruido/rdprxy/commit/7398339c44d98b99d95c427999026343ebc00d85) **List** — _Joshua Lanese_ (2018-02-24)
+          - [`85e103b`](https://github.com/havaianasdestruido/rdprxy/commit/85e103b387edfb35bb69eb2ac0d65c47abf18d8a) **I'm serious** — _Joshua Lanese_ (2018-02-24)
+          - [`b60e0e8`](https://github.com/havaianasdestruido/rdprxy/commit/b60e0e80d000813f8a71b1187145cc8c7d2e3c85) **v1.0.0, MIT license** — _Joshua Lanese_ (2018-02-24)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (2)
+      - [@sentanos](https://github.com/sentanos) — 13 commit(s)
+      - [@dependabot[bot]](https://github.com/apps/dependabot) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `JavaScript` — 82.4% (3,953 bytes)
+      - `Lua` — 17.6% (842 bytes)
+
+---
+
+- ## [ROT-1](https://github.com/havaianasdestruido/ROT-1) `🍴 Fork`
+  > Interactive MIDI Corruptor
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 JavaScript | 📅 Created: 2026-08-11 | 🔄 Updated: 2026-08-11
+
+  - 🔗 Forked from: [RandomTypek/ROT-1](https://github.com/RandomTypek/ROT-1)
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/ROT-1/tree/main) _(default)_ — HEAD: `cde7c4a`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/ROT-1/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/ROT-1/commits/main)
+          - [`cde7c4a`](https://github.com/havaianasdestruido/ROT-1/commit/cde7c4abb909da5e3adc8fe685bc54418e60f65c) **Refactor index.html into separate style, core engine, and app files** — _havaianasdestruido_ (2026-08-11)
+          - [`8e13a34`](https://github.com/havaianasdestruido/ROT-1/commit/8e13a342e6464c580b002f551537d3ddd3dad173) **Update index.html** — _Šimon Krajňák_ (2026-06-12)
+          - [`8bd3591`](https://github.com/havaianasdestruido/ROT-1/commit/8bd35915c5686eea706adfc31c4dd99afe6911d9) **Add README** — _Šimon Krajňák_ (2026-06-12)
+          - [`3a75b7c`](https://github.com/havaianasdestruido/ROT-1/commit/3a75b7c606f9b2c8df5d071c704e64c92ff942cc) **ROT-1: format-aware MIDI corruptor** — _Šimon Krajňák_ (2026-06-12)
+          - [`b6d74bd`](https://github.com/havaianasdestruido/ROT-1/commit/b6d74bd6cfffe742f6aae6de289073e25291aed5) **Initial commit** — _Šimon Krajňák_ (2026-06-12)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (2)
+      - [@RandomTypek](https://github.com/RandomTypek) — 4 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `JavaScript` — 71.4% (23,952 bytes)
+      - `CSS` — 19.7% (6,604 bytes)
+      - `HTML` — 8.9% (2,973 bytes)
+
+---
+
+- ## [sand-box2d](https://github.com/havaianasdestruido/sand-box2d)
+  > Box2D physics, but on pop-ups.
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 JavaScript | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-08-03
+
+    - ### 🌿 Branches (4)
+      - [`codex/create-physics-simulation-game-with-popups`](https://github.com/havaianasdestruido/sand-box2d/tree/codex/create-physics-simulation-game-with-popups) — HEAD: `baa53b8`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/sand-box2d/commits/codex/create-physics-simulation-game-with-popups)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/sand-box2d/commits/codex/create-physics-simulation-game-with-popups)
+          - [`baa53b8`](https://github.com/havaianasdestruido/sand-box2d/commit/baa53b8b0c84fabc21d027d67980dd3bd78f6f7d) **Add popup physics browser game** — _havaianasdestruido_ (2026-08-03)
+          - [`405034e`](https://github.com/havaianasdestruido/sand-box2d/commit/405034e3c84890ecf717bef874db78db92916966) **Initialize repository** — _havaianasdestruido_ (2026-08-03)
+      - [`codex/create-physics-simulation-game-with-popups-lpwogg`](https://github.com/havaianasdestruido/sand-box2d/tree/codex/create-physics-simulation-game-with-popups-lpwogg) — HEAD: `9944513`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/sand-box2d/commits/codex/create-physics-simulation-game-with-popups-lpwogg)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/sand-box2d/commits/codex/create-physics-simulation-game-with-popups-lpwogg)
+          - [`9944513`](https://github.com/havaianasdestruido/sand-box2d/commit/9944513f6f8e7f87d3298f223be7adbede513218) **Merge branch 'main' into codex/create-physics-simulation-game-with-popup** — _havaianasdestruido_ (2026-08-03)
+          - [`c88a558`](https://github.com/havaianasdestruido/sand-box2d/commit/c88a558e795d450272d987080211809c45cc153e) **Keep popup physics windows compact** — _havaianasdestruido_ (2026-08-03)
+          - [`579b6a0`](https://github.com/havaianasdestruido/sand-box2d/commit/579b6a06d9fd90c61be5a72dfba6aa50fb1f80fd) **Create static.yml** — _havaianasdestruido_ (2026-08-03)
+          - [`1d8f3e8`](https://github.com/havaianasdestruido/sand-box2d/commit/1d8f3e873a4ee6573697156c44ba09a29e1dfee8) **Merge pull request #1 from havaianasdestruido/codex/create-physics-simul** — _havaianasdestruido_ (2026-08-03)
+          - [`baa53b8`](https://github.com/havaianasdestruido/sand-box2d/commit/baa53b8b0c84fabc21d027d67980dd3bd78f6f7d) **Add popup physics browser game** — _havaianasdestruido_ (2026-08-03)
+          - [`405034e`](https://github.com/havaianasdestruido/sand-box2d/commit/405034e3c84890ecf717bef874db78db92916966) **Initialize repository** — _havaianasdestruido_ (2026-08-03)
+      - [`codex/create-physics-simulation-game-with-popups-so5rrk`](https://github.com/havaianasdestruido/sand-box2d/tree/codex/create-physics-simulation-game-with-popups-so5rrk) — HEAD: `cf36785`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/sand-box2d/commits/codex/create-physics-simulation-game-with-popups-so5rrk)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/sand-box2d/commits/codex/create-physics-simulation-game-with-popups-so5rrk)
+          - [`cf36785`](https://github.com/havaianasdestruido/sand-box2d/commit/cf36785514fe20ff8124c094a4d8d6af104947f1) **Merge branch 'main' into codex/create-physics-simulation-game-with-popup** — _havaianasdestruido_ (2026-08-03)
+          - [`5c605c6`](https://github.com/havaianasdestruido/sand-box2d/commit/5c605c69b5e950404177d9786f983cbe9e53d1a5) **Load compact popup bodies directly** — _havaianasdestruido_ (2026-08-03)
+          - [`8c2ffb6`](https://github.com/havaianasdestruido/sand-box2d/commit/8c2ffb60dbb702a122d4125998abf9d93ce0ba5b) **Merge pull request #2 from havaianasdestruido/codex/create-physics-simul** — _havaianasdestruido_ (2026-08-03)
+          - [`9944513`](https://github.com/havaianasdestruido/sand-box2d/commit/9944513f6f8e7f87d3298f223be7adbede513218) **Merge branch 'main' into codex/create-physics-simulation-game-with-popup** — _havaianasdestruido_ (2026-08-03)
+          - [`c88a558`](https://github.com/havaianasdestruido/sand-box2d/commit/c88a558e795d450272d987080211809c45cc153e) **Keep popup physics windows compact** — _havaianasdestruido_ (2026-08-03)
+          - [`579b6a0`](https://github.com/havaianasdestruido/sand-box2d/commit/579b6a06d9fd90c61be5a72dfba6aa50fb1f80fd) **Create static.yml** — _havaianasdestruido_ (2026-08-03)
+          - [`1d8f3e8`](https://github.com/havaianasdestruido/sand-box2d/commit/1d8f3e873a4ee6573697156c44ba09a29e1dfee8) **Merge pull request #1 from havaianasdestruido/codex/create-physics-simul** — _havaianasdestruido_ (2026-08-03)
+          - [`baa53b8`](https://github.com/havaianasdestruido/sand-box2d/commit/baa53b8b0c84fabc21d027d67980dd3bd78f6f7d) **Add popup physics browser game** — _havaianasdestruido_ (2026-08-03)
+          - [`405034e`](https://github.com/havaianasdestruido/sand-box2d/commit/405034e3c84890ecf717bef874db78db92916966) **Initialize repository** — _havaianasdestruido_ (2026-08-03)
+      - [`main`](https://github.com/havaianasdestruido/sand-box2d/tree/main) _(default)_ — HEAD: `cfa6720`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/sand-box2d/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/sand-box2d/commits/main)
+          - [`cfa6720`](https://github.com/havaianasdestruido/sand-box2d/commit/cfa6720345bde2688f654320ab0e74b3718754d6) **Merge pull request #3 from havaianasdestruido/codex/create-physics-simul** — _havaianasdestruido_ (2026-08-03)
+          - [`cf36785`](https://github.com/havaianasdestruido/sand-box2d/commit/cf36785514fe20ff8124c094a4d8d6af104947f1) **Merge branch 'main' into codex/create-physics-simulation-game-with-popup** — _havaianasdestruido_ (2026-08-03)
+          - [`5c605c6`](https://github.com/havaianasdestruido/sand-box2d/commit/5c605c69b5e950404177d9786f983cbe9e53d1a5) **Load compact popup bodies directly** — _havaianasdestruido_ (2026-08-03)
+          - [`8c2ffb6`](https://github.com/havaianasdestruido/sand-box2d/commit/8c2ffb60dbb702a122d4125998abf9d93ce0ba5b) **Merge pull request #2 from havaianasdestruido/codex/create-physics-simul** — _havaianasdestruido_ (2026-08-03)
+          - [`9944513`](https://github.com/havaianasdestruido/sand-box2d/commit/9944513f6f8e7f87d3298f223be7adbede513218) **Merge branch 'main' into codex/create-physics-simulation-game-with-popup** — _havaianasdestruido_ (2026-08-03)
+          - [`c88a558`](https://github.com/havaianasdestruido/sand-box2d/commit/c88a558e795d450272d987080211809c45cc153e) **Keep popup physics windows compact** — _havaianasdestruido_ (2026-08-03)
+          - [`579b6a0`](https://github.com/havaianasdestruido/sand-box2d/commit/579b6a06d9fd90c61be5a72dfba6aa50fb1f80fd) **Create static.yml** — _havaianasdestruido_ (2026-08-03)
+          - [`1d8f3e8`](https://github.com/havaianasdestruido/sand-box2d/commit/1d8f3e873a4ee6573697156c44ba09a29e1dfee8) **Merge pull request #1 from havaianasdestruido/codex/create-physics-simul** — _havaianasdestruido_ (2026-08-03)
+          - [`baa53b8`](https://github.com/havaianasdestruido/sand-box2d/commit/baa53b8b0c84fabc21d027d67980dd3bd78f6f7d) **Add popup physics browser game** — _havaianasdestruido_ (2026-08-03)
+          - [`405034e`](https://github.com/havaianasdestruido/sand-box2d/commit/405034e3c84890ecf717bef874db78db92916966) **Initialize repository** — _havaianasdestruido_ (2026-08-03)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (3)
+        - ✅ Merged [#3 Add Popup Box2D Playground demo (index.html, styles.css, gam](https://github.com/havaianasdestruido/sand-box2d/pull/3) — _havaianasdestruido_ (2026-08-03) `codex/create-physics-simulation-game-with-popups-so5rrk` → `main`
+          - 📝 2 commit(s) in this PR
+            - [`5c605c6`](https://github.com/havaianasdestruido/sand-box2d/commit/5c605c69b5e950404177d9786f983cbe9e53d1a5) Load compact popup bodies directly
+            - [`cf36785`](https://github.com/havaianasdestruido/sand-box2d/commit/cf36785514fe20ff8124c094a4d8d6af104947f1) Merge branch 'main' into codex/create-physics-simulation-gam
+        - ✅ Merged [#2 Add Popup Box2D Playground demo (popup-window physics)](https://github.com/havaianasdestruido/sand-box2d/pull/2) — _havaianasdestruido_ (2026-08-03) `codex/create-physics-simulation-game-with-popups-lpwogg` → `main`
+          - 📝 2 commit(s) in this PR
+            - [`c88a558`](https://github.com/havaianasdestruido/sand-box2d/commit/c88a558e795d450272d987080211809c45cc153e) Keep popup physics windows compact
+            - [`9944513`](https://github.com/havaianasdestruido/sand-box2d/commit/9944513f6f8e7f87d3298f223be7adbede513218) Merge branch 'main' into codex/create-physics-simulation-gam
+        - ✅ Merged [#1 Add popup physics browser game](https://github.com/havaianasdestruido/sand-box2d/pull/1) — _havaianasdestruido_ (2026-08-03) `codex/create-physics-simulation-game-with-popups` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`baa53b8`](https://github.com/havaianasdestruido/sand-box2d/commit/baa53b8b0c84fabc21d027d67980dd3bd78f6f7d) Add popup physics browser game
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 10 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `JavaScript` — 70.8% (6,721 bytes)
+      - `HTML` — 16.0% (1,523 bytes)
+      - `CSS` — 13.1% (1,247 bytes)
+
+---
+
+- ## [scrobbleviz](https://github.com/havaianasdestruido/scrobbleviz) `🍴 Fork`
+  > View your Last.fm track history
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 JavaScript | 📅 Created: 2026-08-31 | 🔄 Updated: 2026-09-05
+
+  - 🔗 Forked from: [mkurapov/trackviz](https://github.com/mkurapov/trackviz)
+    - ### 🌿 Branches (1)
+      - [`master`](https://github.com/havaianasdestruido/scrobbleviz/tree/master) _(default)_ — HEAD: `ef6509a`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/scrobbleviz/commits/master)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/scrobbleviz/commits/master)
+          - [`ef6509a`](https://github.com/havaianasdestruido/scrobbleviz/commit/ef6509ac4fd50560a52fb9f26ece45cf93004836) **Create static.yml** — _Pato (new acc)_ (2026-09-05)
+          - [`deb9ddf`](https://github.com/havaianasdestruido/scrobbleviz/commit/deb9ddf3931d071d8c899ba60543b1a04a913c9f) **feat: progressive image loading with blur-up effect** — _havaianasdestruido_ (2026-09-05)
+          - [`fc6471d`](https://github.com/havaianasdestruido/scrobbleviz/commit/fc6471d017720a87544c70a8593f10a2cdaa61a8) **feat: keyboard shortcuts for power users** — _havaianasdestruido_ (2026-09-05)
+          - [`e07d1b6`](https://github.com/havaianasdestruido/scrobbleviz/commit/e07d1b69181e7f170342a08a46052aa6ed053c7e) **feat: virtual scrolling for 75k+ images** — _havaianasdestruido_ (2026-09-05)
+          - [`5279e13`](https://github.com/havaianasdestruido/scrobbleviz/commit/5279e13ff8309df120642f841fc7e0492e911dcc) **feat: improved error handling with retry and toasts** — _havaianasdestruido_ (2026-09-05)
+          - [`a4a41e2`](https://github.com/havaianasdestruido/scrobbleviz/commit/a4a41e2e1c87d8a0934721d4efa754ac31d3d000) **feat: service worker for offline support** — _havaianasdestruido_ (2026-09-05)
+          - [`f5d059f`](https://github.com/havaianasdestruido/scrobbleviz/commit/f5d059f5ba4475133832042d42bc149a87771672) **Remove unused Python archive code** — _havaianasdestruido_ (2026-08-31)
+          - [`e315f98`](https://github.com/havaianasdestruido/scrobbleviz/commit/e315f98e74fb776d379aba70b464d697d14ff525) **reset data on new version** — _Max Kurapov_ (2023-12-19)
+          - [`3b1b713`](https://github.com/havaianasdestruido/scrobbleviz/commit/3b1b713c1583deb97089c49397929b9c9f922da4) **split up files, move styling to css** — _Max Kurapov_ (2023-12-18)
+          - [`fcf0f6a`](https://github.com/havaianasdestruido/scrobbleviz/commit/fcf0f6a7eb796b6bf7d54c0a4b144c20e0cbf02b) **start of new one** — _Max Kurapov_ (2023-12-18)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/scrobbleviz/commits/master/?after=b64b44f515e87f463c8a322b9636eb1cbdb97475+34)
+          - [`39f5939`](https://github.com/havaianasdestruido/scrobbleviz/commit/39f5939aa4d4202bc8885949947d07618fecf3eb) **favicon + code** — _Max Kurapov_ (2020-02-27)
+          - [`bfee1b2`](https://github.com/havaianasdestruido/scrobbleviz/commit/bfee1b22a9f435d78015d71c817e02b45d89629c) **syntax err** — _Max Kurapov_ (2020-02-27)
+          - [`d5a7b7f`](https://github.com/havaianasdestruido/scrobbleviz/commit/d5a7b7fab12c8a6945f90529b8d1d470c51908ea) **styling and seo** — _Max Kurapov_ (2020-02-27)
+          - [`2492ac2`](https://github.com/havaianasdestruido/scrobbleviz/commit/2492ac2028e5269c22890f759f4978d347da786a) **storing without full album url** — _Max Kurapov_ (2020-02-27)
+          - [`b710606`](https://github.com/havaianasdestruido/scrobbleviz/commit/b710606e1f6d8528410c219c98c385e536896c82) **sizing** — _Max Kurapov_ (2020-02-26)
+          - [`eb66e68`](https://github.com/havaianasdestruido/scrobbleviz/commit/eb66e68c34d4e970fb2723cbc8de82cde28d0df7) **styling & nav hide** — _Max Kurapov_ (2020-02-26)
+          - [`58b34d4`](https://github.com/havaianasdestruido/scrobbleviz/commit/58b34d4015622aa8dba765b01703051b0e731fa2) **code structuring** — _Max Kurapov_ (2020-02-26)
+          - [`418d2fa`](https://github.com/havaianasdestruido/scrobbleviz/commit/418d2fa46cb8155ec5487f7a2dcc4d604ec666a1) **better status messages** — _Max Kurapov_ (2020-02-26)
+          - [`e11a137`](https://github.com/havaianasdestruido/scrobbleviz/commit/e11a1379c5f07a0b4470dc1d37a97f6ba8d78173) **trying w promise** — _Max Kurapov_ (2020-02-26)
+          - [`1fd5bf4`](https://github.com/havaianasdestruido/scrobbleviz/commit/1fd5bf4c63f36c5fd81770c14ad3a2780bedbea2) **better language** — _Max Kurapov_ (2020-02-26)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (2)
+      - [@mkurapov](https://github.com/mkurapov) — 53 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 7 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `JavaScript` — 74.7% (37,131 bytes)
+      - `HTML` — 25.3% (12,600 bytes)
+
+---
+
+- ## [Servidor-Perfeito](https://github.com/havaianasdestruido/Servidor-Perfeito) `🍴 Fork`
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 HTML | 📅 Created: 2026-08-25 | 🔄 Updated: 2026-08-25
+
+  - 🔗 Forked from: [tamandua2123123123/Servidor-Perfeito](https://github.com/tamandua2123123123/Servidor-Perfeito)
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/Servidor-Perfeito/tree/main) _(default)_ — HEAD: `f01e748`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/Servidor-Perfeito/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/Servidor-Perfeito/commits/main)
+          - [`f01e748`](https://github.com/havaianasdestruido/Servidor-Perfeito/commit/f01e74831dc021736a8005e8ee8d09e5b09c42e4) **Add files via upload** — _Pato (new acc)_ (2026-08-25)
+          - [`546140b`](https://github.com/havaianasdestruido/Servidor-Perfeito/commit/546140b66bb4a665cfa3ce5f04595cd41dec73df) **Update index.html** — _Pato (new acc)_ (2026-08-25)
+          - [`4f6e0e7`](https://github.com/havaianasdestruido/Servidor-Perfeito/commit/4f6e0e75a4dbdcd0f9a30ee47cd8d6884016c140) **Update index.html** — _Pato (new acc)_ (2026-08-25)
+          - [`345571f`](https://github.com/havaianasdestruido/Servidor-Perfeito/commit/345571fa23fc0df3466b881214a910fc4ab9d14d) **Update index.html** — _Pato (new acc)_ (2026-08-25)
+          - [`c3992fa`](https://github.com/havaianasdestruido/Servidor-Perfeito/commit/c3992faeb2d28831b5cced50c6b8f96fa665ae86) **Add files via upload** — _Pato (new acc)_ (2026-08-25)
+          - [`797f891`](https://github.com/havaianasdestruido/Servidor-Perfeito/commit/797f891c5889a03aec95c4e63346095d49560898) **Create static.yml** — _Pato (new acc)_ (2026-08-25)
+          - [`d5714b2`](https://github.com/havaianasdestruido/Servidor-Perfeito/commit/d5714b22946a45cb0fe0460f252731cca819c0ff) **Add files via upload** — _tamandua2123123123_ (2026-03-12)
+          - [`f6b6208`](https://github.com/havaianasdestruido/Servidor-Perfeito/commit/f6b620894093ac5f7ddcb9ff38cda20e96b65be9) **Add files via upload** — _tamandua2123123123_ (2026-03-12)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (2)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 6 commit(s)
+      - [@tamandua2123123123](https://github.com/tamandua2123123123) — 2 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `HTML` — 100.0% (3,844 bytes)
+
+---
+
+- ## [sigma-click](https://github.com/havaianasdestruido/sigma-click)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 HTML | 📅 Created: 2026-08-25 | 🔄 Updated: 2026-08-25
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/sigma-click/tree/main) _(default)_ — HEAD: `67822d2`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/sigma-click/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/sigma-click/commits/main)
+          - [`67822d2`](https://github.com/havaianasdestruido/sigma-click/commit/67822d2d8f92496ccd82d3d25729830901b7e875) **Create static.yml** — _Pato (new acc)_ (2026-08-25)
+          - [`a30f2c5`](https://github.com/havaianasdestruido/sigma-click/commit/a30f2c57fa642bb507bcd13b1e208397cfb1acf3) **asdf** — _Pato (new acc)_ (2026-08-25)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 2 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `HTML` — 100.0% (13,478 bytes)
+
+---
+
+- ## [sitemapping](https://github.com/havaianasdestruido/sitemapping)
+  > workflow to make me get indexed on some stuff. aka SEO stuff
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-13
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `b113a1a`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/sitemapping/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/sitemapping/commits/main)
+          - [`b113a1a`](https://github.com/havaianasdestruido/sitemapping/commit/b113a1a7238707136a74b436700b150607d5a51c) **Create repo-analyzer.yml** — _Pato (new acc)_ (2026-09-13)
+          - [`a6ebe1d`](https://github.com/havaianasdestruido/sitemapping/commit/a6ebe1dd4f364ad874898f2a9a3628718a2b35f0) **Create generate_report.py** — _Pato (new acc)_ (2026-09-13)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 2 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `Python` — 100.0% (22,324 bytes)
+
+---
+
+- ## [slideshow-studio](https://github.com/havaianasdestruido/slideshow-studio)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-08-04
+
+    - ### 🌿 Branches (1)
+      - [`master`](https://github.com/havaianasdestruido/slideshow-studio/tree/master) _(default)_ — HEAD: `9ce3f99`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/slideshow-studio/commits/master)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/slideshow-studio/commits/master)
+          - [`9ce3f99`](https://github.com/havaianasdestruido/slideshow-studio/commit/9ce3f99277380148f4f3ea164b57a1394e760037) **initial commit** — _UltimateQuack_ (2026-08-03)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (0)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C#` — 100.0% (59,465 bytes)
+
+---
+
+- ## [Sonic4](https://github.com/havaianasdestruido/Sonic4) `🍴 Fork`
+  > \[WIP\] Sonic The Hedgehog 4 but with adjustments to compile for modern devices.
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C++ | 📅 Created: 2026-08-12 | 🔄 Updated: 2026-08-12
+
+  - 🔗 Forked from: [ElastedAlorian/Sonic4](https://github.com/ElastedAlorian/Sonic4)
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/Sonic4/tree/main) _(default)_ — HEAD: `dbefba8`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/Sonic4/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/Sonic4/commits/main)
+          - [`dbefba8`](https://github.com/havaianasdestruido/Sonic4/commit/dbefba8c2d1fd9a4513424b3072c6d8bbf04b11e) **chore: gitignore build artifacts and remove tracked CMake output** — _havaianasdestruido_ (2026-08-12)
+          - [`f1fa29c`](https://github.com/havaianasdestruido/Sonic4/commit/f1fa29c8fb836461acc3779553dcf81918c722c8) **Testing - Created cmake-multi-platform.yml** — _SwagSwagMoneyMoney_ (2026-07-01)
+          - [`677dce6`](https://github.com/havaianasdestruido/Sonic4/commit/677dce61747b42537cf6251fc43131f4c5d69d6e) **idk** — _ElastedAlorian_ (2026-06-23)
+          - [`259100e`](https://github.com/havaianasdestruido/Sonic4/commit/259100e1ff0639c234bef2f336588c512a6f80e0) **no clue** — _ElastedAlorian_ (2026-05-29)
+          - [`abe3379`](https://github.com/havaianasdestruido/Sonic4/commit/abe3379cb0d1793a587b05374e884338362abacd) **Initial commit** — _ElastedAlorian_ (2026-05-28)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (2)
+      - [@ElastedAlorian](https://github.com/ElastedAlorian) — 4 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C++` — 79.3% (16,929,575 bytes)
+      - `C` — 18.3% (3,908,820 bytes)
+      - `Pawn` — 1.1% (241,261 bytes)
+      - `Objective-C++` — 0.7% (146,447 bytes)
+      - `Objective-C` — 0.6% (119,638 bytes)
+      - `CMake` — 0.0% (153 bytes)
+
+---
+
+- ## [steamlogger](https://github.com/havaianasdestruido/steamlogger)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 1 open issues | 💻 Rust | 📅 Created: 2026-08-11 | 🔄 Updated: 2026-08-11
+
+    - ### 🌿 Branches (2)
+      - [`codex/investigar-problema-de-log`](https://github.com/havaianasdestruido/steamlogger/tree/codex/investigar-problema-de-log) — HEAD: `da63afc`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/steamlogger/commits/codex/investigar-problema-de-log)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/steamlogger/commits/codex/investigar-problema-de-log)
+          - [`da63afc`](https://github.com/havaianasdestruido/steamlogger/commit/da63afce1905635b901bc16af104022937168df1) **Tolerate brief missing Steam game polls** — _Pato (new acc)_ (2026-08-14)
+          - [`a4e4ac8`](https://github.com/havaianasdestruido/steamlogger/commit/a4e4ac867419af19c733597ae638403b6a773526) **feat: implement session tracking with friends, lobby and map enrichment** — _havaianasdestruido_ (2026-08-10)
+          - [`42a8dbd`](https://github.com/havaianasdestruido/steamlogger/commit/42a8dbd8c7833c1dfebaca6544170e41437a1686) **chore: scaffold steamlogger crate with module contracts** — _havaianasdestruido_ (2026-08-10)
+      - [`main`](https://github.com/havaianasdestruido/steamlogger/tree/main) _(default)_ — HEAD: `a4e4ac8`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/steamlogger/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/steamlogger/commits/main)
+          - [`a4e4ac8`](https://github.com/havaianasdestruido/steamlogger/commit/a4e4ac867419af19c733597ae638403b6a773526) **feat: implement session tracking with friends, lobby and map enrichment** — _havaianasdestruido_ (2026-08-10)
+          - [`42a8dbd`](https://github.com/havaianasdestruido/steamlogger/commit/42a8dbd8c7833c1dfebaca6544170e41437a1686) **chore: scaffold steamlogger crate with module contracts** — _havaianasdestruido_ (2026-08-10)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (1)
+        - 🟢 Open [#1 Tolerate brief missing Steam current-game polls](https://github.com/havaianasdestruido/steamlogger/pull/1) — _havaianasdestruido_ (2026-08-14) `codex/investigar-problema-de-log` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`da63afc`](https://github.com/havaianasdestruido/steamlogger/commit/da63afce1905635b901bc16af104022937168df1) Tolerate brief missing Steam game polls
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 2 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `Rust` — 100.0% (70,496 bytes)
+
+---
+
+- ## [transition-plugin](https://github.com/havaianasdestruido/transition-plugin)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 Rust | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-08-04
+
+    - ### 🌿 Branches (1)
+      - [`master`](https://github.com/havaianasdestruido/transition-plugin/tree/master) _(default)_ — HEAD: `ad34ad1`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/transition-plugin/commits/master)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/transition-plugin/commits/master)
+          - [`ad34ad1`](https://github.com/havaianasdestruido/transition-plugin/commit/ad34ad13d8b5ec97e981a5873566aa89cc38d29d) **initial commit** — _UltimateQuack_ (2026-08-03)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (0)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `Rust` — 76.7% (1,769 bytes)
+      - `C#` — 23.3% (538 bytes)
+
+---
+
+- ## [video-trimmer](https://github.com/havaianasdestruido/video-trimmer)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-08-04
+
+    - ### 🌿 Branches (1)
+      - [`master`](https://github.com/havaianasdestruido/video-trimmer/tree/master) _(default)_ — HEAD: `029aa11`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/video-trimmer/commits/master)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/video-trimmer/commits/master)
+          - [`029aa11`](https://github.com/havaianasdestruido/video-trimmer/commit/029aa1126676f214f66efe9388c213694bfcf584) **initial commit** — _UltimateQuack_ (2026-08-03)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (0)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C#` — 100.0% (19,619 bytes)
+
+---
+
+- ## [VsDave](https://github.com/havaianasdestruido/VsDave) `🍴 Fork`
+  > Vs. Dave and Bambi 2.5c, you are free to use the repo in any way.
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-08-20 | 🔄 Updated: 2026-08-20
+
+  - 🔗 Forked from: [FuseIsHere813/VsDave](https://github.com/FuseIsHere813/VsDave)
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/VsDave/tree/main) _(default)_ — HEAD: `afbed89`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/VsDave/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/VsDave/commits/main)
+          - [`afbed89`](https://github.com/havaianasdestruido/VsDave/commit/afbed891070e98512a60bd9645fcb6fdaa821f1a) **Merge pull request #30 from McJonnycat/patch-10** — _FuseIsHere_ (2022-05-10)
+          - [`f4ac076`](https://github.com/havaianasdestruido/VsDave/commit/f4ac076cbb05855354b90ab569ad295b4291ed5b) **made it more stable** — _jonnycat_ (2022-05-05)
+          - [`3301646`](https://github.com/havaianasdestruido/VsDave/commit/330164649f80db4f5e96321c1f159b9594bb0311) **Merge pull request #29 from McJonnycat/patch-9** — _FuseIsHere_ (2022-05-03)
+          - [`005bffb`](https://github.com/havaianasdestruido/VsDave/commit/005bffb7d028eb9bc8d68516eb5ba1a26e487459) **made it into the right order** — _jonnycat_ (2022-04-29)
+          - [`90c88d5`](https://github.com/havaianasdestruido/VsDave/commit/90c88d5edd94c6a78373840e43975a1a5735c5cb) **Merge pull request #28 from McJonnycat/patch-8** — _FuseIsHere_ (2022-04-23)
+          - [`50d214a`](https://github.com/havaianasdestruido/VsDave/commit/50d214ab669677a71ed6fd2ac12de336c2067608) **effect function for the effect** — _jonnycat_ (2022-04-22)
+          - [`dc38003`](https://github.com/havaianasdestruido/VsDave/commit/dc38003bb5241840c4dc0182b21f28caa1a8ebae) **Merge pull request #27 from McJonnycat/patch-7** — _FuseIsHere_ (2022-04-21)
+          - [`5881e6f`](https://github.com/havaianasdestruido/VsDave/commit/5881e6f24c74a48a318fb429eee40f23883aa38b) **Merge pull request #26 from McJonnycat/patch-6** — _FuseIsHere_ (2022-04-21)
+          - [`4b473ba`](https://github.com/havaianasdestruido/VsDave/commit/4b473ba843db2d37afa763a71e0f67c7c346c99b) **this will help for the debug** — _jonnycat_ (2022-04-20)
+          - [`a2fd516`](https://github.com/havaianasdestruido/VsDave/commit/a2fd5166aa98f15d05acbd1280b6678a9ba813b1) **fixed the mouse being in the intro ** — _jonnycat_ (2022-04-17)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/VsDave/commits/main/?after=bb04bfacee2419d44456e72ec3a32dc8b1b32ef3+34)
+          - [`7a874db`](https://github.com/havaianasdestruido/VsDave/commit/7a874db2a40b6d62b6d356891601a9d57225bb04) **fuckin hotfix** — _CyndaquilDAC_ (2021-11-18)
+          - [`491114a`](https://github.com/havaianasdestruido/VsDave/commit/491114a042c38e84fd06e43a54ab5fb0b4aa2bc9) **fixed old house crash lets release this final update** — _CyndaquilDAC_ (2021-11-18)
+          - [`35d73e8`](https://github.com/havaianasdestruido/VsDave/commit/35d73e8e8a7b3ded52eceab069bfec37238a03fd) **We may rest now.** — _CyndaquilDAC_ (2021-11-17)
+          - [`abffeac`](https://github.com/havaianasdestruido/VsDave/commit/abffeacd2fbd01fa05a08768dbf5fad3081cad6e) **SWAG VERSION** — _CyndaquilDAC_ (2021-11-17)
+          - [`355a4df`](https://github.com/havaianasdestruido/VsDave/commit/355a4dfc03a92da89101addad45296d8ae39ea83) **supernovae flp** — _CyndaquilDAC_ (2021-11-16)
+          - [`7966eb2`](https://github.com/havaianasdestruido/VsDave/commit/7966eb25c29d2d2549ccf4affcdec2000c8f8e01) **FIX UNFAIRNESS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!** — _CyndaquilDAC_ (2021-11-16)
+          - [`cd65096`](https://github.com/havaianasdestruido/VsDave/commit/cd65096b04b73ec793a716aaa924cae1142cb52c) **new dave insanity and splitathon fla** — _CyndaquilDAC_ (2021-11-16)
+          - [`2b259ee`](https://github.com/havaianasdestruido/VsDave/commit/2b259ee47ea04de18d56ecbd0e127873f135f70d) **Merge branch 'MoldyGH:main' into main** — _retest672_ (2021-11-08)
+          - [`c916a73`](https://github.com/havaianasdestruido/VsDave/commit/c916a7305fbc68fe4bb0a90eadbbfe962ad67697) **marcello_dave fla** — _CyndaquilDAC_ (2021-11-07)
+          - [`4145617`](https://github.com/havaianasdestruido/VsDave/commit/4145617a59eb048d594531002cf1580fe898ce9e) **i fixa da bug** — _CyndaquilDAC_ (2021-11-06)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/VsDave/commits/main/?after=c0f55d27a999c6958ddafa30de04328958b44e13+34)
+          - [`9a090a3`](https://github.com/havaianasdestruido/VsDave/commit/9a090a31d63ef28985f9c45ccb8b7ec2f587512b) **failed attempt** — _benjaminpants_ (2021-10-30)
+          - [`68a5e0a`](https://github.com/havaianasdestruido/VsDave/commit/68a5e0af783eeb0599d0bbe5c60183814880eafc) **Merge branch 'main' of https://github.com/MoldyGH/VsDave** — _CyndaquilDAC_ (2021-10-30)
+          - [`8c40133`](https://github.com/havaianasdestruido/VsDave/commit/8c4013341719031108e786d647ee564bc48d5491) **gejgejnjgekkjngtejnktegt** — _CyndaquilDAC_ (2021-10-30)
+          - [`716ba64`](https://github.com/havaianasdestruido/VsDave/commit/716ba64a1a464ab53a0cf30a78c53870e48da3db) **fix** — _benjaminpants_ (2021-10-30)
+          - [`95eb57e`](https://github.com/havaianasdestruido/VsDave/commit/95eb57ed946408536c0c658bacbd2b31241b864c) **unfairness fix** — _benjaminpants_ (2021-10-30)
+          - [`b28a7f6`](https://github.com/havaianasdestruido/VsDave/commit/b28a7f6ef02ff6efdefd116f73aec06f2535a092) **final fixes** — _benjaminpants_ (2021-10-30)
+          - [`de522b6`](https://github.com/havaianasdestruido/VsDave/commit/de522b6f6e1c4224d9ef2e4e239ea831e0f73771) **miss fix** — _benjaminpants_ (2021-10-30)
+          - [`96c9d9c`](https://github.com/havaianasdestruido/VsDave/commit/96c9d9ce49aa403ac78f2db0663df20cc16b0b06) **fixe** — _benjaminpants_ (2021-10-30)
+          - [`4300306`](https://github.com/havaianasdestruido/VsDave/commit/4300306ac387b651c0b73fb67c11a50a9f0220b5) **Merge branch 'main' of https://github.com/MoldyGH/VsDave** — _CyndaquilDAC_ (2021-10-30)
+          - [`f481d74`](https://github.com/havaianasdestruido/VsDave/commit/f481d749c3e8c9e176c9baf8ecfc32438191412c) **portraits fixed** — _CyndaquilDAC_ (2021-10-30)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/VsDave/commits/main/?after=4aa0e53039aced941864434c6110679ec4c7d4a4+34)
+          - [`ab465cd`](https://github.com/havaianasdestruido/VsDave/commit/ab465cdeca9b74053830f86f1bb47c1702e66a0c) **mealie stuff** — _T5mpler_ (2021-10-25)
+          - [`86cdfd8`](https://github.com/havaianasdestruido/VsDave/commit/86cdfd8a8162d94d27931c9cb57c4f9da6155e1b) **Merge branch 'main' of https://github.com/MoldyGH/VsDave** — _T5mpler_ (2021-10-25)
+          - [`4b860cd`](https://github.com/havaianasdestruido/VsDave/commit/4b860cdecb306694c398ee56135ae3b2f41e91fe) **-no more base game shit lol** — _T5mpler_ (2021-10-25)
+          - [`bdbbb3c`](https://github.com/havaianasdestruido/VsDave/commit/bdbbb3c006ef46a7803bd7eb5cd946561d51ddac) **-no more base game shit lol** — _T5mpler_ (2021-10-25)
+          - [`536f616`](https://github.com/havaianasdestruido/VsDave/commit/536f616343b4796af97de7487793ffb6e828ebd1) **fixed errors** — _MoldyGH_ (2021-10-25)
+          - [`26050e8`](https://github.com/havaianasdestruido/VsDave/commit/26050e8cfc9bf5eb93ea3d7152c4b70a68079980) **e** — _MoldyGH_ (2021-10-25)
+          - [`7d9e736`](https://github.com/havaianasdestruido/VsDave/commit/7d9e736ab818b87e2ff0a69f868fd10fae095ce2) **character text update. fade out dialogue music** — _MoldyGH_ (2021-10-25)
+          - [`d7ae87c`](https://github.com/havaianasdestruido/VsDave/commit/d7ae87cf79b4b10c03bb3ebb11c23a6a829fa62d) **Merge branch 'main' of https://github.com/MoldyGH/VsDave** — _catte-cloud_ (2021-10-25)
+          - [`e5c96e9`](https://github.com/havaianasdestruido/VsDave/commit/e5c96e9a4f0ae9fc5cc7c21f6843b4376540e614) **fix bg BS** — _CyndaquilDAC_ (2021-10-25)
+          - [`cc1f8b6`](https://github.com/havaianasdestruido/VsDave/commit/cc1f8b6908730eecd04717fa73bf680383765c82) **suck my dick and balls** — _CyndaquilDAC_ (2021-10-25)
+        - 📄 [Commits Page 5](https://github.com/havaianasdestruido/VsDave/commits/main/?after=6ad1efe209caec626e08ef1604d8b39450748cc8+34)
+          - [`2ebb894`](https://github.com/havaianasdestruido/VsDave/commit/2ebb894b1dc8822cf7eaf7a4b6e641c43d8bec02) **Merge branch 'main' of https://github.com/MoldyGH/VsDave** — _catte-cloud_ (2021-10-23)
+          - [`426e435`](https://github.com/havaianasdestruido/VsDave/commit/426e435deb681041f45df02f9951ad373e8a96d9) **balls** — _catte-cloud_ (2021-10-23)
+          - [`5ee6d0f`](https://github.com/havaianasdestruido/VsDave/commit/5ee6d0f373c263e71674e9be6b549a178c7bfc60) **floating is more noticable** — _CyndaquilDAC_ (2021-10-23)
+          - [`a4de090`](https://github.com/havaianasdestruido/VsDave/commit/a4de0901dc25dd59d29ed31b19ef46d6f2158717) **:+1:** — _MoldyGH_ (2021-10-23)
+          - [`09b3777`](https://github.com/havaianasdestruido/VsDave/commit/09b3777135680a7ab701ed16aec067ca6ec9927b) **what i did today (maze easy chart finished)** — _MoldyGH_ (2021-10-23)
+          - [`6d1436b`](https://github.com/havaianasdestruido/VsDave/commit/6d1436b7bd5408a6bfa6e212f46be56d46ea680f) **stuff for newest beta tester build** — _MoldyGH_ (2021-10-22)
+          - [`66c39cf`](https://github.com/havaianasdestruido/VsDave/commit/66c39cf3c24010f86e441b82d73caf8b7680b32a) **Merge branch 'main' of https://github.com/MoldyGH/VsDave** — _MoldyGH_ (2021-10-22)
+          - [`2c0fd30`](https://github.com/havaianasdestruido/VsDave/commit/2c0fd30bc8088faef1b7d781d22286966c7b211d) **cheeeeeeeeeeeting 3 flp (no samples yet)** — _MoldyGH_ (2021-10-22)
+          - [`e94775a`](https://github.com/havaianasdestruido/VsDave/commit/e94775a2ff5f7c38e9e2fa4431e3b3512f0b6308) **2.5 window text** — _CyndaquilDAC_ (2021-10-22)
+          - [`3711605`](https://github.com/havaianasdestruido/VsDave/commit/37116057ce53b3f9153c49147c5124edfeb75e04) **jfedagkeenkjgaegetagte** — _CyndaquilDAC_ (2021-10-22)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (13)
+      - [@dillonhowland](https://github.com/dillonhowland) — 123 commit(s)
+      - [@Jaduplex](https://github.com/Jaduplex) — 115 commit(s)
+      - [@T5mpler](https://github.com/T5mpler) — 107 commit(s)
+      - [@benjaminpants](https://github.com/benjaminpants) — 103 commit(s)
+      - [@Erizur](https://github.com/Erizur) — 29 commit(s)
+      - [@FuseIsHere813](https://github.com/FuseIsHere813) — 20 commit(s)
+      - [@retest672](https://github.com/retest672) — 11 commit(s)
+      - [@Stats45](https://github.com/Stats45) — 8 commit(s)
+      - [@catte-cloud](https://github.com/catte-cloud) — 4 commit(s)
+      - [@br4dnblehh](https://github.com/br4dnblehh) — 2 commit(s)
+      - [@4EverNoobys](https://github.com/4EverNoobys) — 1 commit(s)
+      - [@BetaBits](https://github.com/BetaBits) — 1 commit(s)
+      - [@TheBuilderXD](https://github.com/TheBuilderXD) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `Haxe` — 100.0% (446,348 bytes)
+      - `Batchfile` — 0.0% (109 bytes)
+
+---
+
+- ## [WindowsMovieMakerDecomp](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp)
+  > Full decompilation of Microsoft Windows Movie Maker, extracted from a 2012 Live 
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C++ | 📅 Created: 2026-07-15 | 🔄 Updated: 2026-08-05
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/main) _(default)_ — HEAD: `af63df7`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/main)
+          - [`af63df7`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/af63df74bc3392b91e07d059b93803b71ecde26f) **feat: real implementations for WLXMediaPublishSubscribe, WLXPipeline, WL** — _UltimateQuack_ (2026-08-05)
+          - [`2e60efc`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/2e60efc6b2b75b3fa99be04cef6e21b5a2223f0c) **feat: implement MetadataSys + WLXFaceRecognition, fix compile errors acr** — _UltimateQuack_ (2026-08-05)
+          - [`887e185`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/887e185e2952963b5e906d5a3fd19f90e15fe9cb) **feat: real implementations for supporting DLLs + add-in ABI + build fixe** — _UltimateQuack_ (2026-08-05)
+          - [`cf53c53`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/cf53c536a9d90275974f95798d389ee0d6665317) **chore: add all new apps as submodules** — _UltimateQuack_ (2026-08-03)
+          - [`93ba32c`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/93ba32cddc7fdc5f3ec7c95b976527b1061ba8f2) **Change Dependabot update interval to daily** — _havaianasdestruido_ (2026-08-03)
+          - [`16ebf55`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/16ebf55f1daa9427535345da4dcc42ac0fb65d65) **refactor: move integration test submodules under tests/** — _UltimateQuack_ (2026-08-03)
+          - [`cdb3136`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/cdb313600bc88512993dabd6fc041a3d220c16f3) **chore: point submodules at GitHub remotes** — _UltimateQuack_ (2026-08-03)
+          - [`b7baaca`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b7baaca3cf47e83c5debaa0755065ca6d1f5800b) **submodules: bump mmr-cli to 0def37a and mmr-python to 0dfddee (full 21-D** — _UltimateQuack_ (2026-08-03)
+          - [`3d63162`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3d6316222f68ce86e7163f39b301ed7b272c2c93) **submodules: bump mmr-gui to 86e9125 (full 21-DLL suite browser, CI, READ** — _UltimateQuack_ (2026-08-03)
+          - [`9a9b90c`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/9a9b90c7b7533eab171d6259eecaccb782ca61e7) **submodules: bump mmr-gui to 2508d97 (UxControlsCreateObject stdcall arit** — _UltimateQuack_ (2026-08-03)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/main/?after=4b66717c013872dd5ceddf4376d21e9bf96dd46f+34)
+          - [`d501108`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d5011083790d04b888110c92348f788e551a892d) **fix: clean full-solution Debug build — 25 binaries compile** — _UltimateQuack_ (2026-07-31)
+          - [`a8bc47b`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a8bc47bcc3701dcda3f28012b44bb2db0371e1d2) **fix: Legacy UI — GDI+ modernized for Win10 SDK (Font/Matrix are non-copy** — _UltimateQuack_ (2026-07-31)
+          - [`fde4194`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/fde4194369b0da90bb2f41166d6e6c1e40c6900f) **fix: SundanceAppDataContext — add connection-point property notification** — _UltimateQuack_ (2026-07-31)
+          - [`15c6919`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/15c691917238f000fd4df04079af10b1d0ae7182) **fix: VideoProc/TextureInterop/SyncVideoSource — format-aware frame pitch** — _UltimateQuack_ (2026-07-31)
+          - [`71c58ac`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/71c58ac34c96dedf22063cf9b4060844233f0a9a) **fix: PreviewDataContext — push property-change notifications on presente** — _UltimateQuack_ (2026-07-31)
+          - [`bf3b68d`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/bf3b68d3ff907784d92bd1b06d9f9b532477f754) **fix: RibbonSites — Shutdown() now resets all site state, CMRUSite guards** — _UltimateQuack_ (2026-07-31)
+          - [`e11dec5`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/e11dec588183d07cf905c1894a8e252370a47caf) **fix: MediaItem — type-safe proxy transcode state machine, magic number r** — _UltimateQuack_ (2026-07-31)
+          - [`185ecf7`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/185ecf7049f6cd09071c9a4aea6fe7c93ac99b45) **fix: AVCapture — added null HWND check in VideoCapture::StartPreview** — _UltimateQuack_ (2026-07-31)
+          - [`0abf7b3`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/0abf7b3e5709ef636fe65e3fd2e9530dd6f2fcbe) **fix: TimelineController — seek overflow guards, zero-duration clamping, ** — _UltimateQuack_ (2026-07-30)
+          - [`875b13a`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/875b13acd52e19d7d93e12f62d91a01e8118dcd2) **fix: PreviewPresenter — stop race, pause render, remove dead callback** — _UltimateQuack_ (2026-07-30)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/main/?after=d5da6b40025df1e0df9c715fca060e832607b1c2+34)
+          - [`5a8fe6d`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5a8fe6de5e0990345a4c4f1a2602283ab101c193) **WLXAlbumDownloadWizard: add test harness** — _UltimateQuack_ (2026-07-28)
+          - [`bc20aa3`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/bc20aa3523e7e9910e917935403fa9064607ad65) **WLFacebookPlugin: add analysis** — _UltimateQuack_ (2026-07-28)
+          - [`4549eb7`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4549eb77de66a3cf34e141df91e28e08731ea663) **wlidux (Shared): add analysis** — _UltimateQuack_ (2026-07-28)
+          - [`f67702b`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/f67702be4f3599fa2aa1360dc81af325a699ec33) **Shared: add test harness** — _UltimateQuack_ (2026-07-28)
+          - [`3154b52`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3154b52dc92d7b108d0f58ca507058cf59721fd4) **WLAVRes (Shared): add analysis** — _UltimateQuack_ (2026-07-28)
+          - [`a0c8c4c`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a0c8c4c34459a33deb1957cfd48458006685c961) **PhotoViewerShimx64: add analysis** — _UltimateQuack_ (2026-07-28)
+          - [`473a2a3`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/473a2a3bd0076c387c5cb820de396cd12db11488) **MovieMakerCore: add raw data dumps** — _UltimateQuack_ (2026-07-28)
+          - [`4868658`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4868658a46edaa3d6db2314200abc20c685f55d2) **MovieMakerExe: update analysis.md** — _UltimateQuack_ (2026-07-28)
+          - [`863d64a`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/863d64a44c8f7cda5d34e80e2f0dcb0ce2838287) **cleanup: remove debug artifact test_minimal.c** — _UltimateQuack_ (2026-07-28)
+          - [`baaa467`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/baaa467748633fc755c3a29b32dd3f65e615b9e6) **test(WLXVideoAcquireWizard.exe): dedicated test harness** — _UltimateQuack_ (2026-07-28)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/main/?after=acac41ba2c3f187c5046a3d9f0823c6b5015d984+34)
+          - [`89a4e86`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/89a4e8691bfb6919eac2af1c868d5f1900172ab9) **analysis(WLXCodecHostPS.dll): COM proxy/stub marshaling, NDR format stri** — _UltimateQuack_ (2026-07-27)
+          - [`2acbb41`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/2acbb411955747df46c50e280f7834fb3d67aef7) **analysis(WLXVAFilt.dll): video/audio filter, DShow filter registration, ** — _UltimateQuack_ (2026-07-27)
+          - [`710d11a`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/710d11a963d026514f4ddb5575888d7cd804d11c) **analysis(wlsoxe.dll): SOXE module exports, RTTI, dynamic probing** — _UltimateQuack_ (2026-07-27)
+          - [`5d44517`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5d44517845a765315a4496eb309ce07285257dea) **analysis(WLXQuickTime*.exe+.dll): QuickTime integration, codec host, she** — _UltimateQuack_ (2026-07-27)
+          - [`0871198`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/0871198fae34e83be44c342f44f12f420528b5e9) **analysis(WLXPhotoGallery.exe): entry point, imports, manifest, RTTI, str** — _UltimateQuack_ (2026-07-27)
+          - [`b469b48`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b469b484de818cc16d7a4a21fdaa496ec6aa2dc4) **analysis(WLXPhotoGalleryRepair.exe): repair logic, file/registry operati** — _UltimateQuack_ (2026-07-27)
+          - [`74c89fa`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/74c89faeb1eeabc983426e1ab94eef7c4e26e0bb) **analysis(WLXPhotoLibraryDuiResources.dll+Localized): DirectUI UIFILE lay** — _UltimateQuack_ (2026-07-27)
+          - [`3e691b2`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3e691b2c8483bcf54ab3f35f3e62b4b047e8113f) **analysis(WLXVideoAcquireWizard.exe+Resources): video acquisition wizard,** — _UltimateQuack_ (2026-07-27)
+          - [`3397120`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3397120488b3943926a1ae5b60fcb7d21bdc3acc) **analysis(RegRes+Imaging+MetadataSys): registry resources, image processi** — _UltimateQuack_ (2026-07-27)
+          - [`993f948`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/993f94879e8792344fa7ea7c58741c1d0e1464db) **analysis(PublishPluginsInterop+SubscribePluginsInterop): .NET interop br** — _UltimateQuack_ (2026-07-27)
+        - 📄 [Commits Page 5](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/main/?after=8bc99dcb99c2a72275d151f8ad7a96e61775cba3+34)
+          - [`537bc9b`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/537bc9b49931657747716c00847ffdb14e94528a) **analysis(SharedMFDlls): RSCMFT rolling shutter algorithm + MPG4DEMUX ato** — _UltimateQuack_ (2026-07-26)
+          - [`423653d`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/423653dd44b4cdc7fc219ddd2652b030d9fe7370) **analysis(MovieMakerCore.dll): 1018 RTTI classes, 763 imports, 34 DLLs - ** — _UltimateQuack_ (2026-07-26)
+          - [`75a24ab`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/75a24ab379321b531055c8515aa51095d5a68ab3) **analysis(WLXMP4Parser.dll): 57+ RTTI classes, FourCC registry, MP4 atom ** — _UltimateQuack_ (2026-07-26)
+          - [`39bd40c`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/39bd40cd4a57583ac11481a2e9a67852f4e54058) **WLXPhotoCinematic: dynamic analysis - real CLSIDs, COM vtable dump** — _UltimateQuack_ (2026-07-25)
+          - [`6afb2ae`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/6afb2ae3b44079fc7e105b270b775e2b156a16ad) **analysis(MovieMakerCore.dll): deep static - 33 DLL imports, 1023 RTTI ty** — _UltimateQuack_ (2026-07-25)
+          - [`fe56c0b`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/fe56c0b246a9be054edd9e26d3f13d720c532934) **analysis(WLXFaceRecognition.dll): MSRA pipeline - 4.5MB static analysis,** — _UltimateQuack_ (2026-07-25)
+          - [`f9dfdac`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/f9dfdacb6b09f8b981df9cf58c20509579774c75) **analysis(WLXSlideshow.dll): COM instantiation + theme analysis - 108 RTT** — _UltimateQuack_ (2026-07-25)
+          - [`400b2ba`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/400b2ba60b4134943e797da7ef8888eaa5eaadea) **analysis(WLXVideoTrim.dll): 5 exports probed, DirectShow graph engine + ** — _UltimateQuack_ (2026-07-25)
+          - [`e78e7bc`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/e78e7bc9b90b3677b8378951f6423110f106bd79) **analysis(WLXTranscode.exe): PE32 CUI subsystem - MF transcode + DXVA2/D3** — _UltimateQuack_ (2026-07-25)
+          - [`d088fa6`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d088fa62aaeb18b52300c012275330b08e0a7037) **analysis(WLXCodecHost.exe): ATL out-of-process COM LocalServer32 codec s** — _UltimateQuack_ (2026-07-25)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C++` — 92.0% (6,258,498 bytes)
+      - `Python` — 4.3% (292,176 bytes)
+      - `C` — 2.6% (174,028 bytes)
+      - `CMake` — 0.7% (45,201 bytes)
+      - `C#` — 0.2% (15,287 bytes)
+      - `Batchfile` — 0.2% (13,954 bytes)
+      - `PowerShell` — 0.1% (3,670 bytes)
+
+---
+
+---
+
+## 👤 Social Graph
+
+### Followers (4)
+
+- [@ishandutta2007](https://github.com/ishandutta2007)
+  - 📦 3046 public repos | 👥 follows 31630 people
+- [@moxie-coder](https://github.com/moxie-coder)
+  - 📦 221 public repos | 👥 follows 1644 people
+- [@cavaleiro-olimpioo](https://github.com/cavaleiro-olimpioo)
+  - 📦 25 public repos | 👥 follows 9 people
+- [@zuzu181192-z13z](https://github.com/zuzu181192-z13z)
+  - 📦 0 public repos | 👥 follows 74 people
+
+### Following (9)
+
+- [@google](https://github.com/google)
+- [@cheat-engine](https://github.com/cheat-engine)
+- [@brave](https://github.com/brave)
+- [@android](https://github.com/android)
+- [@moxie-coder](https://github.com/moxie-coder)
+- [@FunkinDroidTeam](https://github.com/FunkinDroidTeam)
+- [@cavaleiro-olimpioo](https://github.com/cavaleiro-olimpioo)
+- [@MiniMax-AI](https://github.com/MiniMax-AI)
+- [@tamandua2123123123](https://github.com/tamandua2123123123)
+
+### ⭐ Repos Starred by @havaianasdestruido (54)
+
+- [libriscv/godot-jit](https://github.com/libriscv/godot-jit) — _UnsafeGDScript based on Godot Sandbox SafeGDScript is 1.5-10_
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) — _7.4 billion tokens per month. 34 free LLM providers. 635 fre_
+- [google/snappy](https://github.com/google/snappy) — _A fast compressor/decompressor_
+- [wilsonzlin/aero](https://github.com/wilsonzlin/aero) — _Windows 7 in the browser_
+- [EremelMods/Ortalab](https://github.com/EremelMods/Ortalab) — __
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) — _The agent harness performance optimization system. Skills, i_
+- [mattpocock/skills](https://github.com/mattpocock/skills) — _Skills for Real Engineers. Straight from my .agents director_
+- [Omico/CurrentActivity](https://github.com/Omico/CurrentActivity) — _Current Activity is an open-source Android app built with Go_
+- [cheshire137/artists-over-time](https://github.com/cheshire137/artists-over-time) — _View which artists you've listened to each week via your Las_
+- [xiongchiamiov/lastfm-tail](https://github.com/xiongchiamiov/lastfm-tail) — _A small script, inspired by the Unix tail utility, for viewi_
+- [xiongchiamiov/lastfm-top](https://github.com/xiongchiamiov/lastfm-top) — _View frequently-queried information from a Last.fm profile._
+- [Venipa/ytmdesktop2](https://github.com/Venipa/ytmdesktop2) — _Unofficial Youtube Music Desktop App, with Discord RPC & Las_
+- [tamandua2123123123/Servidor-Perfeito](https://github.com/tamandua2123123123/Servidor-Perfeito) — __
+- [AntumDeluge/game-resources](https://github.com/AntumDeluge/game-resources) — _Sprites, tiles, & audio collected, created, &/or edited for _
+- [FunkinCrew/polymod](https://github.com/FunkinCrew/polymod) — _Atomic modding framework for Haxe_
+- [timschneeb/RootlessJamesDSP](https://github.com/timschneeb/RootlessJamesDSP) — _An implementation of the system-wide JamesDSP audio processi_
+- [juce-framework/JUCE](https://github.com/juce-framework/JUCE) — _JUCE is an open-source cross-platform C++ application framew_
+- [JannisX11/blockbench](https://github.com/JannisX11/blockbench) — _Blockbench - A low poly 3D model editor_
+- [AlejandroAkbal/Paste-Image-to-Download](https://github.com/AlejandroAkbal/Paste-Image-to-Download) — _Paste Image to Download (https://paste.photos) is a utility _
+- [nephacks/BloodAndBacon](https://github.com/nephacks/BloodAndBacon) — _Decompile of Blood and Bacon, a gorey XNA game_
+- [Asaduji/BloodAndBaconSaveEditor](https://github.com/Asaduji/BloodAndBaconSaveEditor) — _A save editor for the game Blood and Bacon_
+- [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) — _A self-improving RLM agent for coding workflows and long-run_
+- [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3) — __
+- [Ardour/ardour](https://github.com/Ardour/ardour) — _Mirror of Ardour Source Code_
+- [LMMS/lmms](https://github.com/LMMS/lmms) — _Cross-platform music production software_
+- [NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine](https://github.com/NovaFlare-Engine-Concentration/FNF-NovaFlare-Engine) — _Engine originally used on VS Camellia fanmade.It was later m_
+- [aleksa07/Rbx2Source-enhanced](https://github.com/aleksa07/Rbx2Source-enhanced) — _A utility tool that automatically assembles Roblox assets in_
+- [decolua/9router](https://github.com/decolua/9router) — _Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor_
+- [FoxGalaxy23/GoogleGeminiForUWP](https://github.com/FoxGalaxy23/GoogleGeminiForUWP) — __
+- [kuba2k2/i-use-win7-btw](https://github.com/kuba2k2/i-use-win7-btw) — _Windows 7 survival guide & software compatibility list_
+- [arntsonl/calc_security_poc](https://github.com/arntsonl/calc_security_poc) — _A sample of proof of concept scripts that run Calc.exe with _
+- [Moh4696/100-free-open-source-github-repos](https://github.com/Moh4696/100-free-open-source-github-repos) — _100 free open-source github repos worth knowing — with the h_
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) — _Graphs that teach > graphs that impress. Turn any code into _
+- [moneytoo/AllMy...](https://github.com/moneytoo/AllMy...) — _Xposed Tweaks. Mostly for CyanogenMod/AOSP/TouchWiz._
+- [TheTechnoLegacy/HoloMDNotes](https://github.com/TheTechnoLegacy/HoloMDNotes) — _Holo version of MDNotes_
+- [val00n/MDNotes](https://github.com/val00n/MDNotes) — __
+- [dumbie/ScrobbleMe](https://github.com/dumbie/ScrobbleMe) — _ScrobbleMe is an easy to use modern Windows Last.fm song scr_
+- [jpt/barlow](https://github.com/jpt/barlow) — _Barlow: a straight-sided sans-serif superfamily_
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) — _A light-weight and powerful meta-prompting, context engineer_
+- [sneakyevil/WinAeroDarkCalc](https://github.com/sneakyevil/WinAeroDarkCalc) — _Modified Windows 7 Calculator in Dark Mode for Windows 10_
+- [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) — _Universal Extractor 2 is a tool to extract files from any ty_
+- [Adrikikicp2/DWM](https://github.com/Adrikikicp2/DWM) — _Decompilation of Windows 7's Desktop Window Manager (dwm.exe_
+- [majiayu000/claude-skill-registry](https://github.com/majiayu000/claude-skill-registry) — _The most comprehensive Claude Code skills registry | Web Sea_
+- [Gskartwii/Rbx_CustomFont](https://github.com/Gskartwii/Rbx_CustomFont) — _A custom font management system for Roblox_
+- [rustyspottedcatt/RoLLM](https://github.com/rustyspottedcatt/RoLLM) — __
+- [tp-link-extender/2013](https://github.com/tp-link-extender/2013) — _Refactored and rewritten December 2013-related scripts and t_
+- [KieronQuinn/AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) — _Port of Now Playing from Pixels to other Android devices_
+- [7x11x13/bandcamp-auto-uploader](https://github.com/7x11x13/bandcamp-auto-uploader) — _Upload albums to Bandcamp automatically without a Pro accoun_
+- [7x11x13/hidden-bandcamp-tracks](https://github.com/7x11x13/hidden-bandcamp-tracks) — _Browser extension to show how many hidden tracks an album on_
+- [msx2plus/msx_iti_collection](https://github.com/msx2plus/msx_iti_collection) — _collection of ITI instruments for openMPT + impulse tracker _
+- [michaelwillis/dragonfly-reverb](https://github.com/michaelwillis/dragonfly-reverb) — _A set of free reverb effects_
+- [howmanysmall/eslint-cease-nonsense-rules](https://github.com/howmanysmall/eslint-cease-nonsense-rules) — _People write junk, this intends to stop it._
+- [web-scrobbler/web-scrobbler](https://github.com/web-scrobbler/web-scrobbler) — _Scrobble music all around the web!_
+- [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit) — _iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objec_
+
+---
+_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-13 17:28:52 UTC_
