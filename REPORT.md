@@ -4,7 +4,7 @@
 
 > i lost my old acc so please follow this one instead
 
-**Generated:** 2026-09-14 03:53:28 UTC
+**Generated:** 2026-09-15 03:53:22 UTC
 **Public Repositories:** 55
 
 ---
@@ -90,12 +90,13 @@
 
 - ## [sitemapping](https://github.com/havaianasdestruido/sitemapping)
   > workflow to make me get indexed on some stuff. aka SEO stuff
-  > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-13
+  > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-14
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `8a1dfa5`
+      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `fbc53b5`
         - 📋 [All Commits](https://github.com/havaianasdestruido/sitemapping/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/sitemapping/commits/main)
+          - [`fbc53b5`](https://github.com/havaianasdestruido/sitemapping/commit/fbc53b5c264ad02c50fb01e8a22ada50ea818e4b) **📊 Update repository report \[2026-09-14 03:56:10 UTC\]** — _GitHub Action Bot_ (2026-09-14)
           - [`8a1dfa5`](https://github.com/havaianasdestruido/sitemapping/commit/8a1dfa511cb32299f8904cc067d3a506bb6a3b04) **now it runs daily** — _Pato (new acc)_ (2026-09-13)
           - [`f6fd77b`](https://github.com/havaianasdestruido/sitemapping/commit/f6fd77b275bbe54cb676aa5c340390d1e8ca0b32) **switched form static page serving to jekyll page serving** — _Pato (new acc)_ (2026-09-13)
           - [`40e60b0`](https://github.com/havaianasdestruido/sitemapping/commit/40e60b0e78401f338eb7999711921a136c71be2c) **whoops** — _Pato (new acc)_ (2026-09-13)
@@ -105,7 +106,6 @@
           - [`a042f20`](https://github.com/havaianasdestruido/sitemapping/commit/a042f201a2496fb53c9e2cf09809f837cb81b29a) **Create README.md** — _Pato (new acc)_ (2026-09-13)
           - [`7490501`](https://github.com/havaianasdestruido/sitemapping/commit/74905013cec52ff6f220f129c172f9d7a5a0b006) **📊 Update repository report \[2026-09-13 17:31:21 UTC\]** — _GitHub Action Bot_ (2026-09-13)
           - [`b113a1a`](https://github.com/havaianasdestruido/sitemapping/commit/b113a1a7238707136a74b436700b150607d5a51c) **Create repo-analyzer.yml** — _Pato (new acc)_ (2026-09-13)
-          - [`a6ebe1d`](https://github.com/havaianasdestruido/sitemapping/commit/a6ebe1dd4f364ad874898f2a9a3628718a2b35f0) **Create generate_report.py** — _Pato (new acc)_ (2026-09-13)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -124,7 +124,7 @@
 
     - ### 👥 Contributors (2)
       - [@havaianasdestruido](https://github.com/havaianasdestruido) — 9 commit(s)
-      - [@actions-user](https://github.com/actions-user) — 1 commit(s)
+      - [@actions-user](https://github.com/actions-user) — 2 commit(s)
 
     - ### 🏷️ Releases (0)
 
@@ -135,17 +135,22 @@
 
 - ## [.github](https://github.com/havaianasdestruido/.github)
   > me
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-08-09 | 🔄 Updated: 2026-08-09
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-08-09 | 🔄 Updated: 2026-09-15
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/.github/tree/main) _(default)_ — HEAD: `08c1c31`
+      - [`main`](https://github.com/havaianasdestruido/.github/tree/main) _(default)_ — HEAD: `4d40236`
         - 📋 [All Commits](https://github.com/havaianasdestruido/.github/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/.github/commits/main)
+          - [`4d40236`](https://github.com/havaianasdestruido/.github/commit/4d40236c26c068e4d54517e4cbd05ec856036f5f) **vhlsdkjfhlsdkjf\hasdkfjhsdflkj** — _Pato (new acc)_ (2026-09-15)
+          - [`2e42e81`](https://github.com/havaianasdestruido/.github/commit/2e42e81d31391305ea6491d56b406cffa3160963) **Add files via upload** — _Pato (new acc)_ (2026-09-15)
+          - [`47451fd`](https://github.com/havaianasdestruido/.github/commit/47451fddb7802e4ce18852d7215a09567cd00c97) **lol** — _Pato (new acc)_ (2026-09-15)
+          - [`30f6df2`](https://github.com/havaianasdestruido/.github/commit/30f6df28f9cea66e7ae28afde2e17c9275cf8694) **new badges lol** — _Pato (new acc)_ (2026-09-15)
+          - [`d1eeea6`](https://github.com/havaianasdestruido/.github/commit/d1eeea6179c146153ec72ca2e9c7f77d96c75d7a) **fix?** — _Pato (new acc)_ (2026-09-14)
+          - [`a70028b`](https://github.com/havaianasdestruido/.github/commit/a70028bf62da00de2d9c3cb63ad4be9a8c33c7fd) **badge, yay!** — _Pato (new acc)_ (2026-09-14)
           - [`08c1c31`](https://github.com/havaianasdestruido/.github/commit/08c1c31709b73d9a8e000f25e78021f658e2c899) **Update README.md** — _Pato (new acc)_ (2026-08-09)
           - [`a9a1754`](https://github.com/havaianasdestruido/.github/commit/a9a1754326d594f274bfee559d66526412b38f07) **Create README.md for GitHub profile** — _Pato (new acc)_ (2026-08-09)
           - [`f120f51`](https://github.com/havaianasdestruido/.github/commit/f120f51d3c51716c484d4c68c0eb344f6f9ec4bf) **Clean up README.md by removing header and image** — _Pato (new acc)_ (2026-08-09)
           - [`298816e`](https://github.com/havaianasdestruido/.github/commit/298816edb0d8363f0095041837d15e8c62fc67a6) **Add files via upload** — _Pato (new acc)_ (2026-08-09)
-          - [`3968e20`](https://github.com/havaianasdestruido/.github/commit/3968e20ae78b8963b35a51f75112d8e0e83ee15b) **Initial commit** — _Pato (new acc)_ (2026-08-09)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -162,7 +167,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 5 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 11 commit(s)
 
     - ### 🏷️ Releases (0)
 
@@ -1652,13 +1657,21 @@
 ---
 
 - ## [manimce-claude](https://github.com/havaianasdestruido/manimce-claude)
-  > No description
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-13
+  > Skill do Claude (SKILL.md) com referência da Manim Community Edition (ManimCE): 
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-14
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/manimce-claude/tree/main) _(default)_ — HEAD: `03ceebb`
+      - [`main`](https://github.com/havaianasdestruido/manimce-claude/tree/main) _(default)_ — HEAD: `ba2e29f`
         - 📋 [All Commits](https://github.com/havaianasdestruido/manimce-claude/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/manimce-claude/commits/main)
+          - [`ba2e29f`](https://github.com/havaianasdestruido/manimce-claude/commit/ba2e29ff4efb48c14d76868c00f68735cb0f421a) **Add GitHub labeler configuration for SKILL.md categories** — _Pato (new acc)_ (2026-09-14)
+          - [`293d2c4`](https://github.com/havaianasdestruido/manimce-claude/commit/293d2c4d4a87b77ed925b83998dc9dd73c044378) **Create label.yml** — _Pato (new acc)_ (2026-09-14)
+          - [`f5ea9c7`](https://github.com/havaianasdestruido/manimce-claude/commit/f5ea9c72f5e48b22e27ff463564ba8924455a0b2) **adicionado: exemplo de instalação completada** — _Pato (new acc)_ (2026-09-14)
+          - [`902ace7`](https://github.com/havaianasdestruido/manimce-claude/commit/902ace7c57b62eb72b16c0aeb316934690742678) **test skill fix** — _havaianasdestruido_ (2026-09-14)
+          - [`d839769`](https://github.com/havaianasdestruido/manimce-claude/commit/d839769d7aca68bd8f0963a84c95a848035351aa) **fixes** — _havaianasdestruido_ (2026-09-14)
+          - [`88fc2b1`](https://github.com/havaianasdestruido/manimce-claude/commit/88fc2b102759bffac40b4d3f46557c4f7b51ab20) **Create jekyll-gh-pages.yml** — _Pato (new acc)_ (2026-09-14)
+          - [`3bcbb3f`](https://github.com/havaianasdestruido/manimce-claude/commit/3bcbb3f52b28ad68b1a8cd7058c17a520f4753cd) **moved some stuff** — _havaianasdestruido_ (2026-09-14)
+          - [`841fb6d`](https://github.com/havaianasdestruido/manimce-claude/commit/841fb6d3cf6c65a68ee97baeb9b8271efe7f2013) **Update marketplace.json** — _Pato (new acc)_ (2026-09-14)
           - [`03ceebb`](https://github.com/havaianasdestruido/manimce-claude/commit/03ceebb598c3ddcf7cfca1922e74927404e33f0c) **Adiciona skill manim-community como plugin/marketplace** — _havaianasdestruido_ (2026-09-13)
 
     - ### 🐛 Issues
@@ -1676,9 +1689,10 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 1 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 9 commit(s)
 
-    - ### 🏷️ Releases (0)
+    - ### 🏷️ Releases (1)
+      - [v1.0](https://github.com/havaianasdestruido/manimce-claude/releases/tag/1.0) — 2026-09-14
 
 
 ---
@@ -2020,9 +2034,44 @@
 
 - ## [OdontoAura](https://github.com/havaianasdestruido/OdontoAura)
   > Sistema de gerenciamento, agendamento e manutenção de pacientes, horários, consu
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 TypeScript | 📅 Created: 2026-09-03 | 🔄 Updated: 2026-09-13
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 1 open issues | 💻 TypeScript | 📅 Created: 2026-09-03 | 🔄 Updated: 2026-09-15
 
-    - ### 🌿 Branches (4)
+    - ### 🌿 Branches (5)
+      - [`dependabot/github_actions/actions/dependency-review-action-5`](https://github.com/havaianasdestruido/OdontoAura/tree/dependabot/github_actions/actions/dependency-review-action-5) — HEAD: `ca21f08`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/OdontoAura/commits/dependabot/github_actions/actions/dependency-review-action-5)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/OdontoAura/commits/dependabot/github_actions/actions/dependency-review-action-5)
+          - [`ca21f08`](https://github.com/havaianasdestruido/OdontoAura/commit/ca21f08d3da8603d9ff00218d6b31b9f47e9718e) **chore(deps): bump actions/dependency-review-action from 4 to 5** — _dependabot[bot]_ (2026-09-14)
+          - [`f2b1ee5`](https://github.com/havaianasdestruido/OdontoAura/commit/f2b1ee5112605ff2383bebad7f8e65978c8fc25d) **Create dependency-review.yml** — _Pato (new acc)_ (2026-09-13)
+          - [`ca279e4`](https://github.com/havaianasdestruido/OdontoAura/commit/ca279e4062477a691a7849d654ba55a0bff7d059) **ci: align pnpm runtime with local (11.25.0) and node 22** — _havaianasdestruido_ (2026-09-13)
+          - [`2e7728b`](https://github.com/havaianasdestruido/OdontoAura/commit/2e7728bc45e9679567363dc8a1774e3a6f870b69) **Create labeler configuration for automatic PR labeling** — _Pato (new acc)_ (2026-09-13)
+          - [`20623b8`](https://github.com/havaianasdestruido/OdontoAura/commit/20623b8e046c55783486c247ffbcf2c5e9738b3e) **Create label.yml** — _Pato (new acc)_ (2026-09-13)
+          - [`fe145e4`](https://github.com/havaianasdestruido/OdontoAura/commit/fe145e4eb0913ff01d9b24daf75e199ab47971e0) **docs: add production Vercel URLs to README** — _havaianasdestruido_ (2026-09-12)
+          - [`451d265`](https://github.com/havaianasdestruido/OdontoAura/commit/451d265d8a83a41d974e601f02f88de13fc5c20b) **chore(deps): force picomatch 4.0.7 to close high-severity advisories** — _havaianasdestruido_ (2026-09-12)
+          - [`3cc3089`](https://github.com/havaianasdestruido/OdontoAura/commit/3cc3089608cc2daf1bb99464f8e638b35c94791c) **feat(frontend): migrate dashboard pages to react-query and client valida** — _havaianasdestruido_ (2026-09-12)
+          - [`37ca951`](https://github.com/havaianasdestruido/OdontoAura/commit/37ca951454da10f63152495d2d5e09e4deae31c9) **build: move pnpm overrides to workspace config, bump esbuild** — _havaianasdestruido_ (2026-09-12)
+          - [`68ecae4`](https://github.com/havaianasdestruido/OdontoAura/commit/68ecae45895d4be43e04e87774af98990fb2de29) **chore(deps): bump esbuild in the npm_and_yarn group across 1 directory (** — _dependabot[bot]_ (2026-09-12)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/OdontoAura/commits/dependabot/github_actions/actions/dependency-review-action-5/?after=3e7398af5a052e4ced7e4e2af152d4fe448efc98+34)
+          - [`fa7a28f`](https://github.com/havaianasdestruido/OdontoAura/commit/fa7a28f7c67b398b0b5a51432a4ed50a68f27148) **chore(deps-dev): bump @nestjs/schematics from 10.2.3 to 12.0.0 (#36)** — _dependabot[bot]_ (2026-09-07)
+          - [`ecd7bf8`](https://github.com/havaianasdestruido/OdontoAura/commit/ecd7bf80f6b0879ad2e9d8959b74de146f02b55e) **chore(deps-dev): bump eslint from 8.57.1 to 10.10.0 (#37)** — _dependabot[bot]_ (2026-09-07)
+          - [`ff656c2`](https://github.com/havaianasdestruido/OdontoAura/commit/ff656c28e34a68c08a5467ce499369f364f6e4a5) **chore(deps-dev): bump @testing-library/react from 15.0.7 to 16.3.3 (#38)** — _dependabot[bot]_ (2026-09-07)
+          - [`b2c6590`](https://github.com/havaianasdestruido/OdontoAura/commit/b2c65904fd58dec99278f4a9075e4d3e64b6f50c) **chore(deps): bump @hookform/resolvers from 3.10.0 to 5.9.1 (#43)** — _dependabot[bot]_ (2026-09-07)
+          - [`6058206`](https://github.com/havaianasdestruido/OdontoAura/commit/60582067db7573308713dea5a2c7e56018a5208d) **chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.3 (#33)** — _dependabot[bot]_ (2026-09-07)
+          - [`77e191a`](https://github.com/havaianasdestruido/OdontoAura/commit/77e191a31adadde6e4a54b8e31883a21fd001d59) **chore(deps): bump tailwind-merge from 2.6.1 to 3.6.0 (#42)** — _dependabot[bot]_ (2026-09-07)
+          - [`f7fde91`](https://github.com/havaianasdestruido/OdontoAura/commit/f7fde913b394e15c89518fd8612bb33e7aafb24f) **chore(deps-dev): bump prisma from 5.22.0 to 7.10.0 (#31)** — _dependabot[bot]_ (2026-09-07)
+          - [`3341ee4`](https://github.com/havaianasdestruido/OdontoAura/commit/3341ee4e2ee56f1136f5d91c0397fb068feb8d12) **chore(deps-dev): bump autoprefixer from 10.5.4 to 10.5.5 (#35)** — _dependabot[bot]_ (2026-09-07)
+          - [`fb4973b`](https://github.com/havaianasdestruido/OdontoAura/commit/fb4973ba82ef2c1d17b8297ab3d0833eb155fc3d) **chore(deps): bump lucide-react from 0.400.0 to 1.41.0 (#34)** — _dependabot[bot]_ (2026-09-07)
+          - [`a36b976`](https://github.com/havaianasdestruido/OdontoAura/commit/a36b97641acf563a1dedf4d922b703ebfb97666f) **chore(deps): bump react-dom and @types/react-dom (#32)** — _dependabot[bot]_ (2026-09-07)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/OdontoAura/commits/dependabot/github_actions/actions/dependency-review-action-5/?after=1987f068852baf3e8582cfc445f1aad3dfba8f31+34)
+          - [`89c0c67`](https://github.com/havaianasdestruido/OdontoAura/commit/89c0c6780a738ed730bd9784bde2b5baa11ce7d1) **Merge pull request #10 from havaianasdestruido/dependabot/npm_and_yarn/n** — _Pato (new acc)_ (2026-09-04)
+          - [`21df1cd`](https://github.com/havaianasdestruido/OdontoAura/commit/21df1cdb201ab531dc6672897fbc976498462c11) **Merge branch 'main' into dependabot/npm_and_yarn/nestjs/jwt-12.0.1** — _Pato (new acc)_ (2026-09-04)
+          - [`267bc0b`](https://github.com/havaianasdestruido/OdontoAura/commit/267bc0b1b7cb7a95c5341aa04801665cccc79f7f) **Merge pull request #11 from havaianasdestruido/dependabot/npm_and_yarn/n** — _Pato (new acc)_ (2026-09-04)
+          - [`ae37ff0`](https://github.com/havaianasdestruido/OdontoAura/commit/ae37ff0cbc132367b5d367feb7eca3524ba4c759) **Merge pull request #13 from havaianasdestruido/dependabot/npm_and_yarn/n** — _Pato (new acc)_ (2026-09-04)
+          - [`8c3990f`](https://github.com/havaianasdestruido/OdontoAura/commit/8c3990f5cb79f4e27c856bcedb502e9310ea7944) **chore(deps): bump @nestjs/passport from 10.0.3 to 12.0.0** — _dependabot[bot]_ (2026-09-04)
+          - [`3a14fb0`](https://github.com/havaianasdestruido/OdontoAura/commit/3a14fb0fcefe099740881c26d25ea014e4f0aa52) **chore(deps): bump @nestjs/platform-fastify from 10.4.22 to 12.0.1** — _dependabot[bot]_ (2026-09-04)
+          - [`244f7de`](https://github.com/havaianasdestruido/OdontoAura/commit/244f7de2c3e30fd724180f0f61415bf81d3229de) **chore(deps): bump @nestjs/jwt from 10.2.0 to 12.0.1** — _dependabot[bot]_ (2026-09-04)
+          - [`d0380f3`](https://github.com/havaianasdestruido/OdontoAura/commit/d0380f3fb723d146f57a5578fbf881d4a705de63) **chore(deps): bump @prisma/client from 5.22.0 to 7.10.0** — _dependabot[bot]_ (2026-09-04)
+          - [`e0c0b7f`](https://github.com/havaianasdestruido/OdontoAura/commit/e0c0b7f997fe2904ea44196a055a9ddaf3d5080a) **fix: resolve test and dependency issues** — _havaianasdestruido_ (2026-09-04)
+          - [`664069a`](https://github.com/havaianasdestruido/OdontoAura/commit/664069aa5518c52f3b624157c23848a4b147b3b6) **test: add unit tests for auth, appointments, health check, and home page** — _havaianasdestruido_ (2026-09-04)
       - [`feat/connect-frontend-backend-vercel-2197773701412789504`](https://github.com/havaianasdestruido/OdontoAura/tree/feat/connect-frontend-backend-vercel-2197773701412789504) — HEAD: `b0a3385`
         - 📋 [All Commits](https://github.com/havaianasdestruido/OdontoAura/commits/feat/connect-frontend-backend-vercel-2197773701412789504)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/OdontoAura/commits/feat/connect-frontend-backend-vercel-2197773701412789504)
@@ -2117,49 +2166,106 @@
           - [`0bb7690`](https://github.com/havaianasdestruido/OdontoAura/commit/0bb76907a6ac3f223c3d3e5d41a5353edd48b19c) **Merge pull request #1 from havaianasdestruido/jules-15954618156849110106** — _Pato (new acc)_ (2026-09-03)
           - [`617c663`](https://github.com/havaianasdestruido/OdontoAura/commit/617c663a8b0cd3be84d14867f5c32322196b3f69) **docs: adicionar documentacao da stack tecnologica em docs/stack/ e atual** — _google-labs-jules[bot]_ (2026-09-03)
           - [`9851cc8`](https://github.com/havaianasdestruido/OdontoAura/commit/9851cc889e34929a3969f8afe37f58370df5fe67) **Create README.md** — _Pato (new acc)_ (2026-09-03)
-      - [`main`](https://github.com/havaianasdestruido/OdontoAura/tree/main) _(default)_ — HEAD: `f2b1ee5`
+      - [`main`](https://github.com/havaianasdestruido/OdontoAura/tree/main) _(default)_ — HEAD: `683a2a6`
         - 📋 [All Commits](https://github.com/havaianasdestruido/OdontoAura/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/OdontoAura/commits/main)
-          - [`f2b1ee5`](https://github.com/havaianasdestruido/OdontoAura/commit/f2b1ee5112605ff2383bebad7f8e65978c8fc25d) **Create dependency-review.yml** — _Pato (new acc)_ (2026-09-13)
-          - [`ca279e4`](https://github.com/havaianasdestruido/OdontoAura/commit/ca279e4062477a691a7849d654ba55a0bff7d059) **ci: align pnpm runtime with local (11.25.0) and node 22** — _havaianasdestruido_ (2026-09-13)
-          - [`2e7728b`](https://github.com/havaianasdestruido/OdontoAura/commit/2e7728bc45e9679567363dc8a1774e3a6f870b69) **Create labeler configuration for automatic PR labeling** — _Pato (new acc)_ (2026-09-13)
-          - [`20623b8`](https://github.com/havaianasdestruido/OdontoAura/commit/20623b8e046c55783486c247ffbcf2c5e9738b3e) **Create label.yml** — _Pato (new acc)_ (2026-09-13)
-          - [`fe145e4`](https://github.com/havaianasdestruido/OdontoAura/commit/fe145e4eb0913ff01d9b24daf75e199ab47971e0) **docs: add production Vercel URLs to README** — _havaianasdestruido_ (2026-09-12)
-          - [`451d265`](https://github.com/havaianasdestruido/OdontoAura/commit/451d265d8a83a41d974e601f02f88de13fc5c20b) **chore(deps): force picomatch 4.0.7 to close high-severity advisories** — _havaianasdestruido_ (2026-09-12)
-          - [`3cc3089`](https://github.com/havaianasdestruido/OdontoAura/commit/3cc3089608cc2daf1bb99464f8e638b35c94791c) **feat(frontend): migrate dashboard pages to react-query and client valida** — _havaianasdestruido_ (2026-09-12)
-          - [`37ca951`](https://github.com/havaianasdestruido/OdontoAura/commit/37ca951454da10f63152495d2d5e09e4deae31c9) **build: move pnpm overrides to workspace config, bump esbuild** — _havaianasdestruido_ (2026-09-12)
-          - [`68ecae4`](https://github.com/havaianasdestruido/OdontoAura/commit/68ecae45895d4be43e04e87774af98990fb2de29) **chore(deps): bump esbuild in the npm_and_yarn group across 1 directory (** — _dependabot[bot]_ (2026-09-12)
-          - [`31d886c`](https://github.com/havaianasdestruido/OdontoAura/commit/31d886ce9132cefdee92b291b884235f43de9b9b) **chore(deps): bump esbuild (#47)** — _dependabot[bot]_ (2026-09-12)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/OdontoAura/commits/main/?after=fa7a28f7c67b398b0b5a51432a4ed50a68f27148+34)
-          - [`ecd7bf8`](https://github.com/havaianasdestruido/OdontoAura/commit/ecd7bf80f6b0879ad2e9d8959b74de146f02b55e) **chore(deps-dev): bump eslint from 8.57.1 to 10.10.0 (#37)** — _dependabot[bot]_ (2026-09-07)
-          - [`ff656c2`](https://github.com/havaianasdestruido/OdontoAura/commit/ff656c28e34a68c08a5467ce499369f364f6e4a5) **chore(deps-dev): bump @testing-library/react from 15.0.7 to 16.3.3 (#38)** — _dependabot[bot]_ (2026-09-07)
-          - [`b2c6590`](https://github.com/havaianasdestruido/OdontoAura/commit/b2c65904fd58dec99278f4a9075e4d3e64b6f50c) **chore(deps): bump @hookform/resolvers from 3.10.0 to 5.9.1 (#43)** — _dependabot[bot]_ (2026-09-07)
-          - [`6058206`](https://github.com/havaianasdestruido/OdontoAura/commit/60582067db7573308713dea5a2c7e56018a5208d) **chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.3 (#33)** — _dependabot[bot]_ (2026-09-07)
-          - [`77e191a`](https://github.com/havaianasdestruido/OdontoAura/commit/77e191a31adadde6e4a54b8e31883a21fd001d59) **chore(deps): bump tailwind-merge from 2.6.1 to 3.6.0 (#42)** — _dependabot[bot]_ (2026-09-07)
-          - [`f7fde91`](https://github.com/havaianasdestruido/OdontoAura/commit/f7fde913b394e15c89518fd8612bb33e7aafb24f) **chore(deps-dev): bump prisma from 5.22.0 to 7.10.0 (#31)** — _dependabot[bot]_ (2026-09-07)
-          - [`3341ee4`](https://github.com/havaianasdestruido/OdontoAura/commit/3341ee4e2ee56f1136f5d91c0397fb068feb8d12) **chore(deps-dev): bump autoprefixer from 10.5.4 to 10.5.5 (#35)** — _dependabot[bot]_ (2026-09-07)
-          - [`fb4973b`](https://github.com/havaianasdestruido/OdontoAura/commit/fb4973ba82ef2c1d17b8297ab3d0833eb155fc3d) **chore(deps): bump lucide-react from 0.400.0 to 1.41.0 (#34)** — _dependabot[bot]_ (2026-09-07)
-          - [`a36b976`](https://github.com/havaianasdestruido/OdontoAura/commit/a36b97641acf563a1dedf4d922b703ebfb97666f) **chore(deps): bump react-dom and @types/react-dom (#32)** — _dependabot[bot]_ (2026-09-07)
-          - [`3fd7be5`](https://github.com/havaianasdestruido/OdontoAura/commit/3fd7be59ce0d52eb777f28f2412f6f087b1e810a) **chore(deps-dev): bump jest-environment-jsdom from 29.7.0 to 30.5.1 (#30)** — _dependabot[bot]_ (2026-09-07)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/OdontoAura/commits/main/?after=89c0c6780a738ed730bd9784bde2b5baa11ce7d1+34)
-          - [`21df1cd`](https://github.com/havaianasdestruido/OdontoAura/commit/21df1cdb201ab531dc6672897fbc976498462c11) **Merge branch 'main' into dependabot/npm_and_yarn/nestjs/jwt-12.0.1** — _Pato (new acc)_ (2026-09-04)
-          - [`267bc0b`](https://github.com/havaianasdestruido/OdontoAura/commit/267bc0b1b7cb7a95c5341aa04801665cccc79f7f) **Merge pull request #11 from havaianasdestruido/dependabot/npm_and_yarn/n** — _Pato (new acc)_ (2026-09-04)
-          - [`ae37ff0`](https://github.com/havaianasdestruido/OdontoAura/commit/ae37ff0cbc132367b5d367feb7eca3524ba4c759) **Merge pull request #13 from havaianasdestruido/dependabot/npm_and_yarn/n** — _Pato (new acc)_ (2026-09-04)
-          - [`8c3990f`](https://github.com/havaianasdestruido/OdontoAura/commit/8c3990f5cb79f4e27c856bcedb502e9310ea7944) **chore(deps): bump @nestjs/passport from 10.0.3 to 12.0.0** — _dependabot[bot]_ (2026-09-04)
-          - [`3a14fb0`](https://github.com/havaianasdestruido/OdontoAura/commit/3a14fb0fcefe099740881c26d25ea014e4f0aa52) **chore(deps): bump @nestjs/platform-fastify from 10.4.22 to 12.0.1** — _dependabot[bot]_ (2026-09-04)
-          - [`244f7de`](https://github.com/havaianasdestruido/OdontoAura/commit/244f7de2c3e30fd724180f0f61415bf81d3229de) **chore(deps): bump @nestjs/jwt from 10.2.0 to 12.0.1** — _dependabot[bot]_ (2026-09-04)
-          - [`d0380f3`](https://github.com/havaianasdestruido/OdontoAura/commit/d0380f3fb723d146f57a5578fbf881d4a705de63) **chore(deps): bump @prisma/client from 5.22.0 to 7.10.0** — _dependabot[bot]_ (2026-09-04)
-          - [`e0c0b7f`](https://github.com/havaianasdestruido/OdontoAura/commit/e0c0b7f997fe2904ea44196a055a9ddaf3d5080a) **fix: resolve test and dependency issues** — _havaianasdestruido_ (2026-09-04)
-          - [`664069a`](https://github.com/havaianasdestruido/OdontoAura/commit/664069aa5518c52f3b624157c23848a4b147b3b6) **test: add unit tests for auth, appointments, health check, and home page** — _havaianasdestruido_ (2026-09-04)
-          - [`7df34ba`](https://github.com/havaianasdestruido/OdontoAura/commit/7df34ba4e54114832b1e1a339acfdba2a12cac7b) **docs: update README with architecture, API docs, getting started guide** — _havaianasdestruido_ (2026-09-04)
+          - [`683a2a6`](https://github.com/havaianasdestruido/OdontoAura/commit/683a2a6e6ebc8de17adc5bcfaa163fbce21b0e57) **Delete .github/workflows/deps.yml** — _Pato (new acc)_ (2026-09-15)
+          - [`569711f`](https://github.com/havaianasdestruido/OdontoAura/commit/569711fd311707e0a82a0e7cc758cb5ad53ff1a7) **chore(deps): bump react and @types/react (#63)** — _dependabot[bot]_ (2026-09-14)
+          - [`18d1e41`](https://github.com/havaianasdestruido/OdontoAura/commit/18d1e41eb717b7a7a3efa7043eef25d48fab6eaa) **chore(deps): bump next from 15.5.25 to 16.3.5 (#62)** — _dependabot[bot]_ (2026-09-14)
+          - [`a59824f`](https://github.com/havaianasdestruido/OdontoAura/commit/a59824f75626aab185026d232bf338444d47b8cc) **chore(deps-dev): bump eslint-config-next from 15.5.25 to 16.3.5 (#56)** — _dependabot[bot]_ (2026-09-14)
+          - [`a668883`](https://github.com/havaianasdestruido/OdontoAura/commit/a668883ae35581cbd29964fd9740d9f1a16ec2eb) **chore(deps-dev): bump autoprefixer from 10.5.4 to 10.5.6 (#61)** — _dependabot[bot]_ (2026-09-14)
+          - [`75f57f3`](https://github.com/havaianasdestruido/OdontoAura/commit/75f57f39a81beec2423680cb3685e5fc9295b106) **chore(deps): bump lucide-react from 0.400.0 to 1.45.0 (#64)** — _dependabot[bot]_ (2026-09-14)
+          - [`1440c5d`](https://github.com/havaianasdestruido/OdontoAura/commit/1440c5ddbafffb0a38923b6cceca04d93d29d22e) **chore(deps-dev): bump @types/node from 20.19.43 to 26.5.1 (#58)** — _dependabot[bot]_ (2026-09-14)
+          - [`24328d8`](https://github.com/havaianasdestruido/OdontoAura/commit/24328d80c8b41812bcaf65b74df8f82f4d50ff30) **chore(deps-dev): bump @typescript-eslint/eslint-plugin (#55)** — _dependabot[bot]_ (2026-09-14)
+          - [`6d409c5`](https://github.com/havaianasdestruido/OdontoAura/commit/6d409c5948c585a5ddd65a758f2d83b96a7da0e0) **chore(deps): bump react-dom and @types/react-dom (#60)** — _dependabot[bot]_ (2026-09-14)
+          - [`0dd2099`](https://github.com/havaianasdestruido/OdontoAura/commit/0dd2099ade9fdcffdb954640af51fb977764676f) **chore(deps-dev): bump @types/passport-jwt from 4.0.0 to 4.0.1 (#59)** — _dependabot[bot]_ (2026-09-14)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/OdontoAura/commits/main/?after=427bbcc42e11f7f9e2b351b25c34e2b2bf768a42+34)
+          - [`26be9e5`](https://github.com/havaianasdestruido/OdontoAura/commit/26be9e5ab46f38790eb39cc9d569b70982a9d830) **deploy: configure Supabase and Vercel serverless API** — _aluno_ (2026-09-10)
+          - [`bacbbc2`](https://github.com/havaianasdestruido/OdontoAura/commit/bacbbc2927bada8e9ddf7fa3b9b39b6431a89b18) **chore: document follow-ups with TODO comments** — _havaianasdestruido_ (2026-09-10)
+          - [`d9bd430`](https://github.com/havaianasdestruido/OdontoAura/commit/d9bd4305bdbc7b79d7cdc683c5f56cd95fb2c274) **test: add strict coverage for auth/doctors/medical-records and RQ page** — _havaianasdestruido_ (2026-09-10)
+          - [`d74eda3`](https://github.com/havaianasdestruido/OdontoAura/commit/d74eda357505af28dc1682c5e42d8d6517a26342) **perf: cut DB round-trips and enable response compression** — _havaianasdestruido_ (2026-09-10)
+          - [`943610b`](https://github.com/havaianasdestruido/OdontoAura/commit/943610b8dae04997e5a1490a28cf535a3a8ab5b0) **chore(deps): bump amannn/action-semantic-pull-request from 5 to 6 (#5)** — _dependabot[bot]_ (2026-09-10)
+          - [`611e400`](https://github.com/havaianasdestruido/OdontoAura/commit/611e4009d3f7977c9ee242fd96b041cfc12baddc) **chore(deps): bump actions/setup-node from 4 to 7 (#4)** — _dependabot[bot]_ (2026-09-10)
+          - [`8e897c8`](https://github.com/havaianasdestruido/OdontoAura/commit/8e897c84266d092482c2d38b57739c7465d1e436) **chore(deps): bump pnpm/action-setup from 4 to 6 (#2)** — _dependabot[bot]_ (2026-09-10)
+          - [`3e8a9fa`](https://github.com/havaianasdestruido/OdontoAura/commit/3e8a9fa0e765f651d7aaeaecba707101b97e37e0) **chore(deps): bump actions/checkout from 4 to 7 (#3)** — _dependabot[bot]_ (2026-09-10)
+          - [`ecc18ef`](https://github.com/havaianasdestruido/OdontoAura/commit/ecc18ef091c516034e68cf4269c8662afcdf306f) **docs: list local demo users and credentials in README** — _havaianasdestruido_ (2026-09-10)
+          - [`cc699cd`](https://github.com/havaianasdestruido/OdontoAura/commit/cc699cd34856072eb344be526d595f5e2a92b834) **Merge pull request #44 from havaianasdestruido/integration/fix-build-err** — _Pato (new acc)_ (2026-09-10)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/OdontoAura/commits/main/?after=1e665951035a6aee6a45cd7ae999678bb569f8e9+34)
+          - [`5ee712f`](https://github.com/havaianasdestruido/OdontoAura/commit/5ee712f6a451b8081e1db8401bab1e836a202282) **chore(deps-dev): bump typescript from 5.9.3 to 7.0.2 (#7)** — _dependabot[bot]_ (2026-09-04)
+          - [`1f987d9`](https://github.com/havaianasdestruido/OdontoAura/commit/1f987d974a29def21e7947acacaef0bdcac1dc88) **chore(deps-dev): bump @nestjs/cli from 10.4.9 to 12.0.0 (#20)** — _dependabot[bot]_ (2026-09-04)
+          - [`91421b2`](https://github.com/havaianasdestruido/OdontoAura/commit/91421b2c1dfd2e5c761207957b6e2235b26c862a) **chore(deps-dev): bump eslint-config-next from 14.2.35 to 16.3.4 (#12)** — _dependabot[bot]_ (2026-09-04)
+          - [`bfa16ca`](https://github.com/havaianasdestruido/OdontoAura/commit/bfa16ca823448d08a52b3bf484c4186322896303) **chore(deps): bump bcryptjs and @types/bcryptjs (#6)** — _dependabot[bot]_ (2026-09-04)
+          - [`f100eeb`](https://github.com/havaianasdestruido/OdontoAura/commit/f100eebdbee57d7efaa322ffa9112328ba5fd43c) **chore(deps): bump @nestjs/core from 11.2.3 to 12.0.1 (#15)** — _dependabot[bot]_ (2026-09-04)
+          - [`59d1520`](https://github.com/havaianasdestruido/OdontoAura/commit/59d1520c95677e35bd3c5a86a465ed5419f2e0f1) **chore(deps): bump date-fns from 3.6.0 to 4.4.0 (#17)** — _dependabot[bot]_ (2026-09-04)
+          - [`47ae665`](https://github.com/havaianasdestruido/OdontoAura/commit/47ae66540a9bb1b246720a92404f728abb04adb5) **chore(deps): bump @nestjs/config from 3.3.0 to 12.0.0 (#8)** — _dependabot[bot]_ (2026-09-04)
+          - [`dae80d8`](https://github.com/havaianasdestruido/OdontoAura/commit/dae80d80a62023e4db0d10e10ca25823cbc5b218) **chore(deps-dev): bump @testing-library/jest-dom from 6.10.0 to 7.0.1 (#1** — _dependabot[bot]_ (2026-09-04)
+          - [`95957c0`](https://github.com/havaianasdestruido/OdontoAura/commit/95957c07a2214bf0521433f5e1107acc0616b73d) **chore(deps): bump zod from 3.25.76 to 4.5.4 (#16)** — _dependabot[bot]_ (2026-09-04)
+          - [`ade6b6f`](https://github.com/havaianasdestruido/OdontoAura/commit/ade6b6fd0c5368ee11dcedef9b64d2043ccd2e13) **chore(deps): bump the npm_and_yarn group across 1 directory with 2 updat** — _dependabot[bot]_ (2026-09-04)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/OdontoAura/commits/main/?after=a0ffd24c0f94617542869d492120f6ed0b8b3892+34)
+          - [`ea69511`](https://github.com/havaianasdestruido/OdontoAura/commit/ea695113248d6464409d1feff87737ccf4f2ceda) **feat(backend): add auth module with JWT, guards, RBAC, register/login** — _havaianasdestruido_ (2026-09-04)
+          - [`6e6f332`](https://github.com/havaianasdestruido/OdontoAura/commit/6e6f3329c10bb48dfe5a142848b97acb12f89672) **feat(backend): scaffold NestJS app with Fastify, Swagger, health check** — _havaianasdestruido_ (2026-09-04)
+          - [`642c3be`](https://github.com/havaianasdestruido/OdontoAura/commit/642c3be6cd7920d211a4bfb200983715f4a6bdc3) **feat(shared): add Prisma schema with all domain entities** — _havaianasdestruido_ (2026-09-04)
+          - [`4bdef18`](https://github.com/havaianasdestruido/OdontoAura/commit/4bdef18fa54e4134bb9463d70c8f6d69e63ac7e5) **chore: init monorepo scaffolding with pnpm workspaces, tsconfig base, en** — _havaianasdestruido_ (2026-09-04)
+          - [`4e3fab6`](https://github.com/havaianasdestruido/OdontoAura/commit/4e3fab69c58863bdaf091fcb8deba0b7e23e38cd) **Rename project from OdontoAura to Medcn** — _morelloettore_ (2026-09-04)
+          - [`0bb7690`](https://github.com/havaianasdestruido/OdontoAura/commit/0bb76907a6ac3f223c3d3e5d41a5353edd48b19c) **Merge pull request #1 from havaianasdestruido/jules-15954618156849110106** — _Pato (new acc)_ (2026-09-03)
+          - [`617c663`](https://github.com/havaianasdestruido/OdontoAura/commit/617c663a8b0cd3be84d14867f5c32322196b3f69) **docs: adicionar documentacao da stack tecnologica em docs/stack/ e atual** — _google-labs-jules[bot]_ (2026-09-03)
+          - [`9851cc8`](https://github.com/havaianasdestruido/OdontoAura/commit/9851cc889e34929a3969f8afe37f58370df5fe67) **Create README.md** — _Pato (new acc)_ (2026-09-03)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
       - **Closed Issues** (0)
 
     - ### 🔀 Pull Requests
-      - **Open PRs** (0)
+      - **Open PRs** (1)
+        - 🟢 Open [#51 chore(deps): bump actions/dependency-review-action from 4 to](https://github.com/havaianasdestruido/OdontoAura/pull/51) — _dependabot[bot]_ (2026-09-14) `dependabot/github_actions/actions/dependency-review-action-5` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`ca21f08`](https://github.com/havaianasdestruido/OdontoAura/commit/ca21f08d3da8603d9ff00218d6b31b9f47e9718e) chore(deps): bump actions/dependency-review-action from 4 to
       - **Closed PRs** (20)
+        - ✅ Merged [#64 chore(deps): bump lucide-react from 0.400.0 to 1.45.0](https://github.com/havaianasdestruido/OdontoAura/pull/64) — _dependabot[bot]_ (2026-09-14) `dependabot/npm_and_yarn/lucide-react-1.45.0` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`f46419f`](https://github.com/havaianasdestruido/OdontoAura/commit/f46419fc828ab23cbfad74c56309b4b5c5c12d60) chore(deps): bump lucide-react from 0.400.0 to 1.45.0
+        - ✅ Merged [#63 chore(deps): bump react and @types/react](https://github.com/havaianasdestruido/OdontoAura/pull/63) — _dependabot[bot]_ (2026-09-14) `dependabot/npm_and_yarn/multi-7f19880bf6` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`484591e`](https://github.com/havaianasdestruido/OdontoAura/commit/484591e47f86b194e07a6c8a02a6ab562e12e5cd) chore(deps): bump react and @types/react
+        - ✅ Merged [#62 chore(deps): bump next from 15.5.25 to 16.3.5](https://github.com/havaianasdestruido/OdontoAura/pull/62) — _dependabot[bot]_ (2026-09-14) `dependabot/npm_and_yarn/next-16.3.5` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`be2259b`](https://github.com/havaianasdestruido/OdontoAura/commit/be2259be8a673174420c4f9286411aaee37730b3) chore(deps): bump next from 15.5.25 to 16.3.5
+        - ✅ Merged [#61 chore(deps-dev): bump autoprefixer from 10.5.4 to 10.5.6](https://github.com/havaianasdestruido/OdontoAura/pull/61) — _dependabot[bot]_ (2026-09-14) `dependabot/npm_and_yarn/autoprefixer-10.5.6` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`00b78d9`](https://github.com/havaianasdestruido/OdontoAura/commit/00b78d9c6a810c3df08a3a15f308bfab604686a6) chore(deps-dev): bump autoprefixer from 10.5.4 to 10.5.6
+        - ✅ Merged [#60 chore(deps): bump react-dom and @types/react-dom](https://github.com/havaianasdestruido/OdontoAura/pull/60) — _dependabot[bot]_ (2026-09-14) `dependabot/npm_and_yarn/multi-de36fa8f59` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`7a725b1`](https://github.com/havaianasdestruido/OdontoAura/commit/7a725b117b0b58da4b2bd0f7a7ca76aa422a1040) chore(deps): bump react-dom and @types/react-dom
+        - ✅ Merged [#59 chore(deps-dev): bump @types/passport-jwt from 4.0.0 to 4.0.](https://github.com/havaianasdestruido/OdontoAura/pull/59) — _dependabot[bot]_ (2026-09-14) `dependabot/npm_and_yarn/types/passport-jwt-4.0.1` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`a80bd65`](https://github.com/havaianasdestruido/OdontoAura/commit/a80bd65f84c417c28d1dee1d13381248d001d099) chore(deps-dev): bump @types/passport-jwt from 4.0.0 to 4.0.
+        - ✅ Merged [#58 chore(deps-dev): bump @types/node from 20.19.43 to 26.5.1](https://github.com/havaianasdestruido/OdontoAura/pull/58) — _dependabot[bot]_ (2026-09-14) `dependabot/npm_and_yarn/types/node-26.5.1` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`ac63a95`](https://github.com/havaianasdestruido/OdontoAura/commit/ac63a956dbf02183ee2a0aab9452e827e2abb63a) chore(deps-dev): bump @types/node from 20.19.43 to 26.5.1
+        - ✅ Merged [#57 chore(deps): bump zod from 4.5.4 to 4.6.2](https://github.com/havaianasdestruido/OdontoAura/pull/57) — _dependabot[bot]_ (2026-09-14) `dependabot/npm_and_yarn/zod-4.6.2` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`7bd8a6e`](https://github.com/havaianasdestruido/OdontoAura/commit/7bd8a6ee3e81a1f6a624d5a3ca388170c0c3d280) chore(deps): bump zod from 4.5.4 to 4.6.2
+        - ✅ Merged [#56 chore(deps-dev): bump eslint-config-next from 15.5.25 to 16.](https://github.com/havaianasdestruido/OdontoAura/pull/56) — _dependabot[bot]_ (2026-09-14) `dependabot/npm_and_yarn/eslint-config-next-16.3.5` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`e364ec0`](https://github.com/havaianasdestruido/OdontoAura/commit/e364ec0e792836d377213cbf9ac6833a630d506f) chore(deps-dev): bump eslint-config-next from 15.5.25 to 16.
+        - ✅ Merged [#55 chore(deps-dev): bump @typescript-eslint/eslint-plugin from ](https://github.com/havaianasdestruido/OdontoAura/pull/55) — _dependabot[bot]_ (2026-09-14) `dependabot/npm_and_yarn/typescript-eslint/eslint-plugin-8.70.0` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`e1b5834`](https://github.com/havaianasdestruido/OdontoAura/commit/e1b583493c15c57aee56b59a11cdb0e4881ae9cf) chore(deps-dev): bump @typescript-eslint/eslint-plugin
+        - ✅ Merged [#54 chore(deps-dev): bump @typescript-eslint/parser from 8.69.0 ](https://github.com/havaianasdestruido/OdontoAura/pull/54) — _dependabot[bot]_ (2026-09-14) `dependabot/npm_and_yarn/typescript-eslint/parser-8.70.0` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`5893806`](https://github.com/havaianasdestruido/OdontoAura/commit/58938066ca7c82311205db074a4fbdf8b06359cf) chore(deps-dev): bump @typescript-eslint/parser from 8.69.0 
+        - ✅ Merged [#53 chore(deps-dev): bump @nestjs/schematics from 10.2.3 to 12.0](https://github.com/havaianasdestruido/OdontoAura/pull/53) — _dependabot[bot]_ (2026-09-14) `dependabot/npm_and_yarn/nestjs/schematics-12.0.1` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`37a2f07`](https://github.com/havaianasdestruido/OdontoAura/commit/37a2f07a3b508b710135ca91bf221ccc15f835d4) chore(deps-dev): bump @nestjs/schematics from 10.2.3 to 12.0
+        - ✅ Merged [#52 chore(deps): bump actions/github-script from 6 to 9](https://github.com/havaianasdestruido/OdontoAura/pull/52) — _dependabot[bot]_ (2026-09-14) `dependabot/github_actions/actions/github-script-9` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`d937d12`](https://github.com/havaianasdestruido/OdontoAura/commit/d937d12d845d79f0e3ef6274c919993c440bd606) chore(deps): bump actions/github-script from 6 to 9
+        - ✅ Merged [#50 chore(deps): bump actions/labeler from 4 to 7](https://github.com/havaianasdestruido/OdontoAura/pull/50) — _dependabot[bot]_ (2026-09-14) `dependabot/github_actions/actions/labeler-7` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`d2a93ee`](https://github.com/havaianasdestruido/OdontoAura/commit/d2a93ee250cb39b223528e4a69665e4dc5db31ab) chore(deps): bump actions/labeler from 4 to 7
+        - ✅ Merged [#49 chore(deps): bump actions/checkout from 4 to 7](https://github.com/havaianasdestruido/OdontoAura/pull/49) — _dependabot[bot]_ (2026-09-14) `dependabot/github_actions/actions/checkout-7` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`36171de`](https://github.com/havaianasdestruido/OdontoAura/commit/36171de0ae0e8415386888655c0ec4a8f7494a59) chore(deps): bump actions/checkout from 4 to 7
         - ✅ Merged [#48 chore(deps): bump esbuild from 0.24.2 to 0.28.1 in the npm_a](https://github.com/havaianasdestruido/OdontoAura/pull/48) — _dependabot[bot]_ (2026-09-12) `dependabot/npm_and_yarn/npm_and_yarn-53cbaf2a5b` → `main`
           - 📝 1 commit(s) in this PR
             - [`f2055f7`](https://github.com/havaianasdestruido/OdontoAura/commit/f2055f7ac49b27abbe2a3d48cdeed672b44e8f88) chore(deps): bump esbuild in the npm_and_yarn group across 1
@@ -2175,51 +2281,6 @@
         - ✅ Merged [#44 chore: realign main with validated stack (Prisma/Postgres, R](https://github.com/havaianasdestruido/OdontoAura/pull/44) — _havaianasdestruido_ (2026-09-10) `integration/fix-build-errors` → `main`
           - 📝 1 commit(s) in this PR
             - [`05ada61`](https://github.com/havaianasdestruido/OdontoAura/commit/05ada61013fc0494bf4eb3447ae15c04e9a5f1be) chore: realign main with validated stack (Prisma/Postgres, R
-        - ✅ Merged [#43 chore(deps): bump @hookform/resolvers from 3.10.0 to 5.9.1](https://github.com/havaianasdestruido/OdontoAura/pull/43) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/hookform/resolvers-5.9.1` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`e6dca1a`](https://github.com/havaianasdestruido/OdontoAura/commit/e6dca1a247d5dafac5d870b97b9a230cbe5a3e2b) chore(deps): bump @hookform/resolvers from 3.10.0 to 5.9.1
-        - ✅ Merged [#42 chore(deps): bump tailwind-merge from 2.6.1 to 3.6.0](https://github.com/havaianasdestruido/OdontoAura/pull/42) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/tailwind-merge-3.6.0` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`540506b`](https://github.com/havaianasdestruido/OdontoAura/commit/540506be8d522af494ff314de3607ff4d4e64308) chore(deps): bump tailwind-merge from 2.6.1 to 3.6.0
-        - ✅ Merged [#41 chore(deps): bump next from 15.5.25 to 16.3.4](https://github.com/havaianasdestruido/OdontoAura/pull/41) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/next-16.3.4` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`c10b200`](https://github.com/havaianasdestruido/OdontoAura/commit/c10b200624ac39a9a8f21269547d54e9c81016d8) chore(deps): bump next from 15.5.25 to 16.3.4
-        - ✅ Merged [#40 chore(deps-dev): bump @types/node from 20.19.43 to 26.4.1](https://github.com/havaianasdestruido/OdontoAura/pull/40) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/types/node-26.4.1` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`5696329`](https://github.com/havaianasdestruido/OdontoAura/commit/569632993ee5d5ab49dda6cd0c99ece8dd3e0009) chore(deps-dev): bump @types/node from 20.19.43 to 26.4.1
-        - ✅ Merged [#39 chore(deps): bump react and @types/react](https://github.com/havaianasdestruido/OdontoAura/pull/39) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/multi-9b1536b8cd` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`7cc0855`](https://github.com/havaianasdestruido/OdontoAura/commit/7cc085549bd9330742a0c47ffd80350dcc511ad8) chore(deps): bump react and @types/react
-        - ✅ Merged [#38 chore(deps-dev): bump @testing-library/react from 15.0.7 to ](https://github.com/havaianasdestruido/OdontoAura/pull/38) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/testing-library/react-16.3.3` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`cdffcef`](https://github.com/havaianasdestruido/OdontoAura/commit/cdffcef973522283a27bcd70e07d0f3f2a9ae71c) chore(deps-dev): bump @testing-library/react from 15.0.7 to 
-        - ✅ Merged [#37 chore(deps-dev): bump eslint from 8.57.1 to 10.10.0](https://github.com/havaianasdestruido/OdontoAura/pull/37) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/eslint-10.10.0` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`980ed81`](https://github.com/havaianasdestruido/OdontoAura/commit/980ed81c26fa75f3a39b342b9484966fff2a202a) chore(deps-dev): bump eslint from 8.57.1 to 10.10.0
-        - ✅ Merged [#36 chore(deps-dev): bump @nestjs/schematics from 10.2.3 to 12.0](https://github.com/havaianasdestruido/OdontoAura/pull/36) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/nestjs/schematics-12.0.0` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`938a58f`](https://github.com/havaianasdestruido/OdontoAura/commit/938a58f02f574d8cd7c5ae488a82218f5d7fcf58) chore(deps-dev): bump @nestjs/schematics from 10.2.3 to 12.0
-        - ✅ Merged [#35 chore(deps-dev): bump autoprefixer from 10.5.4 to 10.5.5](https://github.com/havaianasdestruido/OdontoAura/pull/35) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/autoprefixer-10.5.5` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`b82c25f`](https://github.com/havaianasdestruido/OdontoAura/commit/b82c25f792c3f97936a21495900efba154411f6a) chore(deps-dev): bump autoprefixer from 10.5.4 to 10.5.5
-        - ✅ Merged [#34 chore(deps): bump lucide-react from 0.400.0 to 1.41.0](https://github.com/havaianasdestruido/OdontoAura/pull/34) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/lucide-react-1.41.0` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`4b2efa6`](https://github.com/havaianasdestruido/OdontoAura/commit/4b2efa6edf03ab4c278d22ccdff7b4841e8b9566) chore(deps): bump lucide-react from 0.400.0 to 1.41.0
-        - ✅ Merged [#33 chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.3](https://github.com/havaianasdestruido/OdontoAura/pull/33) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/tailwindcss-4.3.3` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`74823c8`](https://github.com/havaianasdestruido/OdontoAura/commit/74823c88753c50f8ac8a6ac23d1e5faa8227646e) chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.3
-        - ✅ Merged [#32 chore(deps): bump react-dom and @types/react-dom](https://github.com/havaianasdestruido/OdontoAura/pull/32) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/multi-2c38914542` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`064d3f0`](https://github.com/havaianasdestruido/OdontoAura/commit/064d3f08cdde3229c757a8b5420e6332e31a3a0f) chore(deps): bump react-dom and @types/react-dom
-        - ✅ Merged [#31 chore(deps-dev): bump prisma from 5.22.0 to 7.10.0](https://github.com/havaianasdestruido/OdontoAura/pull/31) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/prisma-7.10.0` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`b6a86d0`](https://github.com/havaianasdestruido/OdontoAura/commit/b6a86d0de8a64d81d74ad663b461148c0f3652bc) chore(deps-dev): bump prisma from 5.22.0 to 7.10.0
-        - ✅ Merged [#30 chore(deps-dev): bump jest-environment-jsdom from 29.7.0 to ](https://github.com/havaianasdestruido/OdontoAura/pull/30) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/jest-environment-jsdom-30.5.1` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`a5fc76c`](https://github.com/havaianasdestruido/OdontoAura/commit/a5fc76c8ff869f3405b2b7efacfb0ff0e1feed4c) chore(deps-dev): bump jest-environment-jsdom from 29.7.0 to 
-        - ✅ Merged [#29 chore(deps): bump zustand from 4.5.7 to 5.0.15](https://github.com/havaianasdestruido/OdontoAura/pull/29) — _dependabot[bot]_ (2026-09-07) `dependabot/npm_and_yarn/zustand-5.0.15` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`b04e904`](https://github.com/havaianasdestruido/OdontoAura/commit/b04e904c77a5b60b16779d51fc03ac1f32ce01e5) chore(deps): bump zustand from 4.5.7 to 5.0.15
 
     - ### 🍴 Forks (0)
 
@@ -2228,8 +2289,8 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (4)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 53 commit(s)
-      - [@dependabot[bot]](https://github.com/apps/dependabot) — 39 commit(s)
+      - [@dependabot[bot]](https://github.com/apps/dependabot) — 54 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 54 commit(s)
       - [@morelloettore](https://github.com/morelloettore) — 3 commit(s)
       - [@google-labs-jules[bot]](https://github.com/apps/google-labs-jules) — 1 commit(s)
 
@@ -3482,7 +3543,7 @@
 ### Followers (4)
 
 - [@ishandutta2007](https://github.com/ishandutta2007)
-  - 📦 3050 public repos | 👥 follows 32480 people
+  - 📦 3069 public repos | 👥 follows 32200 people
 - [@moxie-coder](https://github.com/moxie-coder)
   - 📦 221 public repos | 👥 follows 1645 people
 - [@cavaleiro-olimpioo](https://github.com/cavaleiro-olimpioo)
@@ -3561,4 +3622,4 @@
 - [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit) — _iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objec_
 
 ---
-_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-14 03:53:28 UTC_
+_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-15 03:53:22 UTC_
