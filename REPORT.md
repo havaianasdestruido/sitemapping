@@ -4,8 +4,8 @@
 
 > i lost my old acc so please follow this one instead
 
-**Generated:** 2026-09-15 03:53:22 UTC
-**Public Repositories:** 55
+**Generated:** 2026-09-16 03:50:03 UTC
+**Public Repositories:** 56
 
 ---
 
@@ -88,14 +88,15 @@
 
 ---
 
-- ## [sitemapping](https://github.com/havaianasdestruido/sitemapping)
+- ## [sitemapping](https://github.com/havaianasdestruido/sitemapping) `🗃️ Template`
   > workflow to make me get indexed on some stuff. aka SEO stuff
-  > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-14
+  > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-15
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `fbc53b5`
+      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `518e02b`
         - 📋 [All Commits](https://github.com/havaianasdestruido/sitemapping/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/sitemapping/commits/main)
+          - [`518e02b`](https://github.com/havaianasdestruido/sitemapping/commit/518e02b945a9029fd85e3cedcbb1353d8b93587b) **📊 Update repository report \[2026-09-15 03:58:06 UTC\]** — _GitHub Action Bot_ (2026-09-15)
           - [`fbc53b5`](https://github.com/havaianasdestruido/sitemapping/commit/fbc53b5c264ad02c50fb01e8a22ada50ea818e4b) **📊 Update repository report \[2026-09-14 03:56:10 UTC\]** — _GitHub Action Bot_ (2026-09-14)
           - [`8a1dfa5`](https://github.com/havaianasdestruido/sitemapping/commit/8a1dfa511cb32299f8904cc067d3a506bb6a3b04) **now it runs daily** — _Pato (new acc)_ (2026-09-13)
           - [`f6fd77b`](https://github.com/havaianasdestruido/sitemapping/commit/f6fd77b275bbe54cb676aa5c340390d1e8ca0b32) **switched form static page serving to jekyll page serving** — _Pato (new acc)_ (2026-09-13)
@@ -105,7 +106,6 @@
           - [`5b9d33e`](https://github.com/havaianasdestruido/sitemapping/commit/5b9d33e8dab6999935cda632f67c1caf515d9458) **fixed readme** — _Pato (new acc)_ (2026-09-13)
           - [`a042f20`](https://github.com/havaianasdestruido/sitemapping/commit/a042f201a2496fb53c9e2cf09809f837cb81b29a) **Create README.md** — _Pato (new acc)_ (2026-09-13)
           - [`7490501`](https://github.com/havaianasdestruido/sitemapping/commit/74905013cec52ff6f220f129c172f9d7a5a0b006) **📊 Update repository report \[2026-09-13 17:31:21 UTC\]** — _GitHub Action Bot_ (2026-09-13)
-          - [`b113a1a`](https://github.com/havaianasdestruido/sitemapping/commit/b113a1a7238707136a74b436700b150607d5a51c) **Create repo-analyzer.yml** — _Pato (new acc)_ (2026-09-13)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -124,9 +124,10 @@
 
     - ### 👥 Contributors (2)
       - [@havaianasdestruido](https://github.com/havaianasdestruido) — 9 commit(s)
-      - [@actions-user](https://github.com/actions-user) — 2 commit(s)
+      - [@actions-user](https://github.com/actions-user) — 3 commit(s)
 
-    - ### 🏷️ Releases (0)
+    - ### 🏷️ Releases (1)
+      - [First release](https://github.com/havaianasdestruido/sitemapping/releases/tag/1.0) — 2026-09-15
 
     - ### 💻 Languages
       - `Python` — 100.0% (22,324 bytes)
@@ -138,9 +139,12 @@
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-08-09 | 🔄 Updated: 2026-09-15
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/.github/tree/main) _(default)_ — HEAD: `4d40236`
+      - [`main`](https://github.com/havaianasdestruido/.github/tree/main) _(default)_ — HEAD: `bb82058`
         - 📋 [All Commits](https://github.com/havaianasdestruido/.github/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/.github/commits/main)
+          - [`bb82058`](https://github.com/havaianasdestruido/.github/commit/bb820581c6ae06dae5dee770a9068b3a11856be7) **Update README.md** — _Pato (new acc)_ (2026-09-15)
+          - [`926f4a9`](https://github.com/havaianasdestruido/.github/commit/926f4a9fee4340297b485260573526382d263a21) **yoooo** — _Pato (new acc)_ (2026-09-15)
+          - [`b0cd6b2`](https://github.com/havaianasdestruido/.github/commit/b0cd6b2d4fb81e470b313e913c0f33c5a0ffde1e) **rip cat** — _Pato (new acc)_ (2026-09-15)
           - [`4d40236`](https://github.com/havaianasdestruido/.github/commit/4d40236c26c068e4d54517e4cbd05ec856036f5f) **vhlsdkjfhlsdkjf\hasdkfjhsdflkj** — _Pato (new acc)_ (2026-09-15)
           - [`2e42e81`](https://github.com/havaianasdestruido/.github/commit/2e42e81d31391305ea6491d56b406cffa3160963) **Add files via upload** — _Pato (new acc)_ (2026-09-15)
           - [`47451fd`](https://github.com/havaianasdestruido/.github/commit/47451fddb7802e4ce18852d7215a09567cd00c97) **lol** — _Pato (new acc)_ (2026-09-15)
@@ -148,9 +152,6 @@
           - [`d1eeea6`](https://github.com/havaianasdestruido/.github/commit/d1eeea6179c146153ec72ca2e9c7f77d96c75d7a) **fix?** — _Pato (new acc)_ (2026-09-14)
           - [`a70028b`](https://github.com/havaianasdestruido/.github/commit/a70028bf62da00de2d9c3cb63ad4be9a8c33c7fd) **badge, yay!** — _Pato (new acc)_ (2026-09-14)
           - [`08c1c31`](https://github.com/havaianasdestruido/.github/commit/08c1c31709b73d9a8e000f25e78021f658e2c899) **Update README.md** — _Pato (new acc)_ (2026-08-09)
-          - [`a9a1754`](https://github.com/havaianasdestruido/.github/commit/a9a1754326d594f274bfee559d66526412b38f07) **Create README.md for GitHub profile** — _Pato (new acc)_ (2026-08-09)
-          - [`f120f51`](https://github.com/havaianasdestruido/.github/commit/f120f51d3c51716c484d4c68c0eb344f6f9ec4bf) **Clean up README.md by removing header and image** — _Pato (new acc)_ (2026-08-09)
-          - [`298816e`](https://github.com/havaianasdestruido/.github/commit/298816edb0d8363f0095041837d15e8c62fc67a6) **Add files via upload** — _Pato (new acc)_ (2026-08-09)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -167,7 +168,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 11 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 14 commit(s)
 
     - ### 🏷️ Releases (0)
 
@@ -438,12 +439,13 @@
 
 - ## [EZInfiniteYTLive](https://github.com/havaianasdestruido/EZInfiniteYTLive)
   > No description
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-13
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-15
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/main) _(default)_ — HEAD: `c0cda30`
+      - [`main`](https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/main) _(default)_ — HEAD: `192d7cf`
         - 📋 [All Commits](https://github.com/havaianasdestruido/EZInfiniteYTLive/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/EZInfiniteYTLive/commits/main)
+          - [`192d7cf`](https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/192d7cf4ff24a7d1e8ca13f7bc7436df31f66398) **Update README.md** — _Pato (new acc)_ (2026-09-15)
           - [`c0cda30`](https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/c0cda30ee01aba6bdfb74bb07aa3ca62ec87cbc1) **fix: form1 dont launching fix** — _havaianasdestruido_ (2026-09-13)
           - [`1c072d8`](https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/1c072d82e84fbf78e58d77ea60f739ddc3cb7158) **small changes on vsproject** — _havaianasdestruido_ (2026-09-13)
           - [`8146f6f`](https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/8146f6fc2fabb2ad1aebfba14a0c98d7f04894a2) **Merge branch 'main' of https://github.com/PatoFlamejanteTV/EZInfiniteYTL** — _UltimateQuack_ (2025-07-23)
@@ -453,7 +455,6 @@
           - [`f128fa5`](https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/f128fa50881a8a404f440b385b33e727e6ba99a0) **Update dotnet.yml** — _UltimateQuack_ (2025-07-20)
           - [`25265e0`](https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/25265e0b8ff7adc7ee488dc3878dc598ce5e9a4b) **Create dotnet.yml** — _UltimateQuack_ (2025-07-20)
           - [`4dbfac4`](https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/4dbfac4ca91f870a49cb56bb4eb950b53ac60e62) **Update README.md** — _UltimateQuack_ (2025-07-20)
-          - [`b516345`](https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/b516345c1e3ae1001cf8b921bfd28906fdd4147e) **added examples** — _UltimateQuack_ (2025-07-20)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -470,7 +471,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 2 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 3 commit(s)
 
     - ### 🏷️ Releases (0)
 
@@ -1021,7 +1022,8 @@
       - [@skedgyedgy](https://github.com/skedgyedgy) — 4 commit(s)
       - [@MAJigsaw77](https://github.com/MAJigsaw77) — 4 commit(s)
 
-    - ### 🏷️ Releases (0)
+    - ### 🏷️ Releases (1)
+      - [First release hell yeah](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/releases/tag/pre-pre-pre-alpha) — 2026-09-15
 
     - ### 💻 Languages
       - `Haxe` — 98.7% (2,041,302 bytes)
@@ -1062,6 +1064,246 @@
 
     - ### 🏷️ Releases (0)
 
+
+---
+
+- ## [freellmapi](https://github.com/havaianasdestruido/freellmapi) `🍴 Fork`
+  > 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. A
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 TypeScript | 📅 Created: 2026-09-15 | 🔄 Updated: 2026-09-15
+
+  - 🔗 Forked from: [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+    - ### 🌿 Branches (3)
+      - [`fix-readme-grammar-18253037270662955219`](https://github.com/havaianasdestruido/freellmapi/tree/fix-readme-grammar-18253037270662955219) — HEAD: `e27d942`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/freellmapi/commits/fix-readme-grammar-18253037270662955219)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/freellmapi/commits/fix-readme-grammar-18253037270662955219)
+          - [`e27d942`](https://github.com/havaianasdestruido/freellmapi/commit/e27d942a5565bfab15708c929477b42ccf45a586) **docs: fix README grammar and spelling** — _google-labs-jules[bot]_ (2026-09-15)
+          - [`b0ea536`](https://github.com/havaianasdestruido/freellmapi/commit/b0ea53613452c9b41d36d0c69661b215981ce85f) **chore(release): prepare v0.10.0 (#1228)** — _Tashfeen_ (2026-09-15)
+          - [`546b1e0`](https://github.com/havaianasdestruido/freellmapi/commit/546b1e0bb44c0d4cd17884799340d09e10704967) **fix(quota): preserve reliable readings and explain forecast coverage (#1** — _Tashfeen_ (2026-09-15)
+          - [`a733a3b`](https://github.com/havaianasdestruido/freellmapi/commit/a733a3b25b1b101cdaa4ef2712a061cb033dfcb9) **feat(quota): show forecasts and warnings in Quota signals (#1223)** — _Tashfeen_ (2026-09-14)
+          - [`bf04e4e`](https://github.com/havaianasdestruido/freellmapi/commit/bf04e4e6435552e86f111bde344e621e53ab7a1b) **feat(providers): add unified provider dashboard and model management (#1** — _Ahmedtahoon2_ (2026-09-14)
+          - [`ea3822b`](https://github.com/havaianasdestruido/freellmapi/commit/ea3822b083de3fc58bda7f303e36158580ef670b) **feat(routing): feed provider-reported 413 size into routing estimate (#5** — _Jasnoor Gill_ (2026-09-14)
+          - [`b21e6b2`](https://github.com/havaianasdestruido/freellmapi/commit/b21e6b281026dc7c0a89183881b097dd70adb88d) **Clear a local override that returns to its catalog value (#1178) (#1188)** — _nicyoong_ (2026-09-14)
+          - [`80dd5fc`](https://github.com/havaianasdestruido/freellmapi/commit/80dd5fca550cd292d9ca3e28788c6c43b8b20305) **fix(desktop): fix Windows and Linux backdrop contrast and remove macOS t** — _xzyj50609_ (2026-09-14)
+          - [`0fed6d0`](https://github.com/havaianasdestruido/freellmapi/commit/0fed6d089d25a799a5e236f004f2c6d6132b9c11) **feat(quota): durable per-key monthly budget caps (#1159)** — _suantea (asuan_suan)_ (2026-09-14)
+          - [`616fdd0`](https://github.com/havaianasdestruido/freellmapi/commit/616fdd0624cfe1c03ed7ba0e97ae335191d7b89b) **fix: keyed Fusion aliases and Responses API parity (#1088)** — _Björn Mage_ (2026-09-14)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/freellmapi/commits/fix-readme-grammar-18253037270662955219/?after=3be0aefeaf324ff3d2581982efd066d4f4fcf4c2+34)
+          - [`7096765`](https://github.com/havaianasdestruido/freellmapi/commit/709676521127db636da2d12c839f26ac78e82f6a) **feat(providers): add ElectronHub and Experiential Labs (#1169)** — _Tashfeen_ (2026-09-06)
+          - [`7331d7a`](https://github.com/havaianasdestruido/freellmapi/commit/7331d7ac773a0ba72d775672037a9e494a25f54c) **docs: second sweep — stale link texts, changelog hashes that never reach** — _Tashfeen_ (2026-09-05)
+          - [`ef1b9ce`](https://github.com/havaianasdestruido/freellmapi/commit/ef1b9ce3b51428199360c16f080c9613864d34a0) **docs(zh-cn): finish the per-language tree — translate the four stubs, fi** — _Tashfeen_ (2026-09-05)
+          - [`b1984db`](https://github.com/havaianasdestruido/freellmapi/commit/b1984dbeb3a47e829b2483fb4c23a6661e669779) **feat(routing): cooldown ceiling + Router pressure "Clear all" (#952, #10** — _Tashfeen_ (2026-09-05)
+          - [`448cf46`](https://github.com/havaianasdestruido/freellmapi/commit/448cf46f3fca8c2ef9db4525e94b6cde4b2c2637) **README: credit qatcod, CooperSheroy and shahidbeig-a11y (#1083, #1085, #** — _Tashfeen_ (2026-09-05)
+          - [`eab992f`](https://github.com/havaianasdestruido/freellmapi/commit/eab992f7535950a254a51c791e289dc5fc6e3449) **docs: per-language layout docs/{en,zh-cn}, Chinese README, redirect stub** — _Davisville_ (2026-09-05)
+          - [`1edb8d5`](https://github.com/havaianasdestruido/freellmapi/commit/1edb8d56f8b9e0361e8c75987591794a3dd028d5) **chore(release): desktop v0.9.7 (#1154)** — _Tashfeen_ (2026-09-04)
+          - [`4430d42`](https://github.com/havaianasdestruido/freellmapi/commit/4430d42b9e4a62676afbdd5f9148906e1a72aae0) **fix(desktop): keep the Dock icon when the popover opens (#1153)** — _Tashfeen_ (2026-09-04)
+          - [`0dab683`](https://github.com/havaianasdestruido/freellmapi/commit/0dab683fc2f5207546a2c55b5b3497c663031cfc) **feat(desktop): show the app in the Dock, with a tray toggle (#1151)** — _Tashfeen_ (2026-09-04)
+          - [`9cfc5b2`](https://github.com/havaianasdestruido/freellmapi/commit/9cfc5b2d3febed4d8ac365c7d044a5d2912b037f) **fix(auth): stop rejecting the desktop account's own email at login (#115** — _Tashfeen_ (2026-09-04)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/freellmapi/commits/fix-readme-grammar-18253037270662955219/?after=01e5af9311e41908f25aa3c1f5d8456cba9a6dc6+34)
+          - [`c268d5b`](https://github.com/havaianasdestruido/freellmapi/commit/c268d5b3bbb91acf8820d0ad041d79ba1b098744) **chore(release): bump desktop to v0.9.3 (#1132)** — _Tashfeen_ (2026-09-02)
+          - [`8c8a690`](https://github.com/havaianasdestruido/freellmapi/commit/8c8a69072cf269f65b46793ead344f7a38567f65) **fix(proxy): always surface usage so agents show context-window counts (#** — _suantea (asuan_suan)_ (2026-09-02)
+          - [`f9096c5`](https://github.com/havaianasdestruido/freellmapi/commit/f9096c5bcfe0c5a416e766798666180b29ef978e) **Release template: Premium price $19/yr -> $29/yr (#1131)** — _Tashfeen_ (2026-09-02)
+          - [`207988c`](https://github.com/havaianasdestruido/freellmapi/commit/207988ca7e2e9fdbdccbd69d706dd9c973d2c8a5) **Premium price copy: $19/yr -> $29/yr, $49 lifetime -> $79 (#1130)** — _Tashfeen_ (2026-09-02)
+          - [`36de660`](https://github.com/havaianasdestruido/freellmapi/commit/36de660fab25083bf8f0fa048d71e8df34e25851) **feat(providers): add Sail Research adapter (#1125)** — _Tashfeen_ (2026-09-01)
+          - [`36850e8`](https://github.com/havaianasdestruido/freellmapi/commit/36850e81f0da44c4b76f963b04e51c0f372924ee) **docs: reorganise docs into per-domain folders with overviews and changel** — _Davisville_ (2026-09-01)
+          - [`94ef82a`](https://github.com/havaianasdestruido/freellmapi/commit/94ef82ae6435f8d253a0926e46bff10e728dcacd) **perf(analytics): covering index for the latency percentile queries (#101** — _suantea (asuan_suan)_ (2026-09-01)
+          - [`4a8f095`](https://github.com/havaianasdestruido/freellmapi/commit/4a8f0950fe5caf64aed1c2bc9cf036d37b80c078) **Prune the quota observation log in 5k-row chunks (#1124)** — _Tashfeen_ (2026-09-01)
+          - [`77e0ecc`](https://github.com/havaianasdestruido/freellmapi/commit/77e0ecc2410faf991519cb06ea1999e14d71c92b) **perf: stop the quota panel from ranking the whole observation log on eve** — _Tashfeen_ (2026-09-01)
+          - [`d8fae97`](https://github.com/havaianasdestruido/freellmapi/commit/d8fae972b9c37e9b9a997375d290923db8f6b074) **feat(desktop): add an rpm target to the Linux desktop build (#981)** — _ksp2000_ (2026-09-01)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/freellmapi/commits/fix-readme-grammar-18253037270662955219/?after=0a0bd24e757ca24a1bbb0d1f6e436be8cfe5b373+34)
+          - [`56eb257`](https://github.com/havaianasdestruido/freellmapi/commit/56eb257c232602a29375f7c0a547455986b82a26) **Add an opt-in Fetch Relay outbound transport (#975)** — _w0fv1_ (2026-08-26)
+          - [`3f05443`](https://github.com/havaianasdestruido/freellmapi/commit/3f054433e2e24a7cfbed76c0c62498655bc27d3a) **Chown the data dir on PaaS runtimes via a root entrypoint (#972)** — _waffledev_ (2026-08-26)
+          - [`e70d130`](https://github.com/havaianasdestruido/freellmapi/commit/e70d1305e112e62b24253728bf07d93e5160ffa4) **Notarize the DMG itself, not just the app inside it (#1036)** — _Tashfeen_ (2026-08-25)
+          - [`9196ed0`](https://github.com/havaianasdestruido/freellmapi/commit/9196ed041cb2eaea8a31a33d0f3ceb99a8f57593) **Mac builds are signed and notarized — closes #373 #943 (#1035)** — _Tashfeen_ (2026-08-25)
+          - [`0ed621d`](https://github.com/havaianasdestruido/freellmapi/commit/0ed621dbaf508fe537257e42b745b26d41f56426) **Notarize the Mac build with an App Store Connect key, not an app passwor** — _Tashfeen_ (2026-08-25)
+          - [`5bad9eb`](https://github.com/havaianasdestruido/freellmapi/commit/5bad9eb1fff19dae7fbcaec5efcd690d759c475f) **Loosen the compression timing caps off CI (#1030)** — _Tashfeen_ (2026-08-25)
+          - [`e852ff1`](https://github.com/havaianasdestruido/freellmapi/commit/e852ff13a7d9e7f5b1484c4858f9c9de00bd5386) **Make a fallback chain mean itself, empty or not (#1023)** — _Tashfeen_ (2026-08-24)
+          - [`e4cad5c`](https://github.com/havaianasdestruido/freellmapi/commit/e4cad5c82b941f2fdc78df5e140492d9f88a1c6a) **Complete the French locale (#1022)** — _Patrick-léon_ (2026-08-24)
+          - [`4774cf0`](https://github.com/havaianasdestruido/freellmapi/commit/4774cf02a4e6c984e17298afbe25e7e61203c3ca) **Bring the desktop boot sequence up to server parity and bump to 0.8.7 (#** — _Tashfeen_ (2026-08-24)
+          - [`fcec1d6`](https://github.com/havaianasdestruido/freellmapi/commit/fcec1d645f81d7e8220ef8beee0beedbfa7cec64) **Paint pages at full width from the first frame (#1016)** — _Tashfeen_ (2026-08-24)
+        - 📄 [Commits Page 5](https://github.com/havaianasdestruido/freellmapi/commits/fix-readme-grammar-18253037270662955219/?after=ff8f9ad94c02190e1a5fc999b4151840a918f85b+34)
+          - [`74df985`](https://github.com/havaianasdestruido/freellmapi/commit/74df9858a2a84a1580a8a608f5f22bde17a9accf) **Server log viewer in the dashboard, under an Analytics nav menu (#993)** — _Tashfeen_ (2026-08-23)
+          - [`ef4519a`](https://github.com/havaianasdestruido/freellmapi/commit/ef4519a3d12cac8768587c8c4da52c18eb118ed7) **feat(providers): add xkiro.com as an OpenAI-compatible provider (#947) (** — _tashdroid_ (2026-08-23)
+          - [`2463c14`](https://github.com/havaianasdestruido/freellmapi/commit/2463c1479bdb930c4787bfe232c63d736922c378) **fix(media): allow registering custom speech-to-text models (#992)** — _tashdroid_ (2026-08-23)
+          - [`b6955f6`](https://github.com/havaianasdestruido/freellmapi/commit/b6955f676f4c87d7cd4fe2f5efb11c0d71e48fb7) **fix(media): serve transcription usage at /api/media/usage + show it on t** — _tashdroid_ (2026-08-23)
+          - [`cf0c216`](https://github.com/havaianasdestruido/freellmapi/commit/cf0c2168b60c7261f230d3920561f160995578d3) **perf(compression): early-exit protected-span check in the per-line hot p** — _tashdroid_ (2026-08-23)
+          - [`f08e17c`](https://github.com/havaianasdestruido/freellmapi/commit/f08e17c44be8d9f6d235fbc2e5ef3ed3d44dd322) **fix(router): context-window safety margin against chars/4 under-counting** — _Icesenator_ (2026-08-23)
+          - [`68ddca4`](https://github.com/havaianasdestruido/freellmapi/commit/68ddca44c08674430151e16a0ab81517246e9fd7) **feat(providers): add UnoRouter (unorouter.com) as an OpenAI-compatible p** — _tashdroid_ (2026-08-23)
+          - [`ee849ed`](https://github.com/havaianasdestruido/freellmapi/commit/ee849ed635704792992336c83125faab2154461f) **feat(custom): keep user-deleted custom models deleted across scheduled s** — _suantea (asuan_suan)_ (2026-08-23)
+          - [`291556d`](https://github.com/havaianasdestruido/freellmapi/commit/291556df049ecd3ce974785d962cc7452b1da6b8) **fix(ui): clarify the capability-tier tooltip (#891) (#966)** — _tashdroid_ (2026-08-22)
+          - [`1196d22`](https://github.com/havaianasdestruido/freellmapi/commit/1196d22dab1b3dc97536ac276f1c4e4a9f6216a9) **fix(ui): surface full provider name when truncated in the model/provider** — _tashdroid_ (2026-08-22)
+      - [`main`](https://github.com/havaianasdestruido/freellmapi/tree/main) _(default)_ — HEAD: `17b4221`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/freellmapi/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/freellmapi/commits/main)
+          - [`17b4221`](https://github.com/havaianasdestruido/freellmapi/commit/17b4221cb7a7d78250c642c36b5e33352715611b) **Merge pull request #1 from havaianasdestruido/fix-readme-grammar-1825303** — _Pato (new acc)_ (2026-09-15)
+          - [`e27d942`](https://github.com/havaianasdestruido/freellmapi/commit/e27d942a5565bfab15708c929477b42ccf45a586) **docs: fix README grammar and spelling** — _google-labs-jules[bot]_ (2026-09-15)
+          - [`b0ea536`](https://github.com/havaianasdestruido/freellmapi/commit/b0ea53613452c9b41d36d0c69661b215981ce85f) **chore(release): prepare v0.10.0 (#1228)** — _Tashfeen_ (2026-09-15)
+          - [`546b1e0`](https://github.com/havaianasdestruido/freellmapi/commit/546b1e0bb44c0d4cd17884799340d09e10704967) **fix(quota): preserve reliable readings and explain forecast coverage (#1** — _Tashfeen_ (2026-09-15)
+          - [`a733a3b`](https://github.com/havaianasdestruido/freellmapi/commit/a733a3b25b1b101cdaa4ef2712a061cb033dfcb9) **feat(quota): show forecasts and warnings in Quota signals (#1223)** — _Tashfeen_ (2026-09-14)
+          - [`bf04e4e`](https://github.com/havaianasdestruido/freellmapi/commit/bf04e4e6435552e86f111bde344e621e53ab7a1b) **feat(providers): add unified provider dashboard and model management (#1** — _Ahmedtahoon2_ (2026-09-14)
+          - [`ea3822b`](https://github.com/havaianasdestruido/freellmapi/commit/ea3822b083de3fc58bda7f303e36158580ef670b) **feat(routing): feed provider-reported 413 size into routing estimate (#5** — _Jasnoor Gill_ (2026-09-14)
+          - [`b21e6b2`](https://github.com/havaianasdestruido/freellmapi/commit/b21e6b281026dc7c0a89183881b097dd70adb88d) **Clear a local override that returns to its catalog value (#1178) (#1188)** — _nicyoong_ (2026-09-14)
+          - [`80dd5fc`](https://github.com/havaianasdestruido/freellmapi/commit/80dd5fca550cd292d9ca3e28788c6c43b8b20305) **fix(desktop): fix Windows and Linux backdrop contrast and remove macOS t** — _xzyj50609_ (2026-09-14)
+          - [`0fed6d0`](https://github.com/havaianasdestruido/freellmapi/commit/0fed6d089d25a799a5e236f004f2c6d6132b9c11) **feat(quota): durable per-key monthly budget caps (#1159)** — _suantea (asuan_suan)_ (2026-09-14)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/freellmapi/commits/main/?after=83562ad360a65d80b6319297fee4cd47dc5a2ff3+34)
+          - [`3be0aef`](https://github.com/havaianasdestruido/freellmapi/commit/3be0aefeaf324ff3d2581982efd066d4f4fcf4c2) **Desktop dashboard never shows a login form; reset copy says the code is ** — _Tashfeen_ (2026-09-07)
+          - [`7096765`](https://github.com/havaianasdestruido/freellmapi/commit/709676521127db636da2d12c839f26ac78e82f6a) **feat(providers): add ElectronHub and Experiential Labs (#1169)** — _Tashfeen_ (2026-09-06)
+          - [`7331d7a`](https://github.com/havaianasdestruido/freellmapi/commit/7331d7ac773a0ba72d775672037a9e494a25f54c) **docs: second sweep — stale link texts, changelog hashes that never reach** — _Tashfeen_ (2026-09-05)
+          - [`ef1b9ce`](https://github.com/havaianasdestruido/freellmapi/commit/ef1b9ce3b51428199360c16f080c9613864d34a0) **docs(zh-cn): finish the per-language tree — translate the four stubs, fi** — _Tashfeen_ (2026-09-05)
+          - [`b1984db`](https://github.com/havaianasdestruido/freellmapi/commit/b1984dbeb3a47e829b2483fb4c23a6661e669779) **feat(routing): cooldown ceiling + Router pressure "Clear all" (#952, #10** — _Tashfeen_ (2026-09-05)
+          - [`448cf46`](https://github.com/havaianasdestruido/freellmapi/commit/448cf46f3fca8c2ef9db4525e94b6cde4b2c2637) **README: credit qatcod, CooperSheroy and shahidbeig-a11y (#1083, #1085, #** — _Tashfeen_ (2026-09-05)
+          - [`eab992f`](https://github.com/havaianasdestruido/freellmapi/commit/eab992f7535950a254a51c791e289dc5fc6e3449) **docs: per-language layout docs/{en,zh-cn}, Chinese README, redirect stub** — _Davisville_ (2026-09-05)
+          - [`1edb8d5`](https://github.com/havaianasdestruido/freellmapi/commit/1edb8d56f8b9e0361e8c75987591794a3dd028d5) **chore(release): desktop v0.9.7 (#1154)** — _Tashfeen_ (2026-09-04)
+          - [`4430d42`](https://github.com/havaianasdestruido/freellmapi/commit/4430d42b9e4a62676afbdd5f9148906e1a72aae0) **fix(desktop): keep the Dock icon when the popover opens (#1153)** — _Tashfeen_ (2026-09-04)
+          - [`0dab683`](https://github.com/havaianasdestruido/freellmapi/commit/0dab683fc2f5207546a2c55b5b3497c663031cfc) **feat(desktop): show the app in the Dock, with a tray toggle (#1151)** — _Tashfeen_ (2026-09-04)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/freellmapi/commits/main/?after=619cae9d075716f73867cd898fd1dcb9b1902f00+34)
+          - [`01e5af9`](https://github.com/havaianasdestruido/freellmapi/commit/01e5af9311e41908f25aa3c1f5d8456cba9a6dc6) **Sync premium copy across README, locales and release template** — _Tashfeen_ (2026-09-02)
+          - [`c268d5b`](https://github.com/havaianasdestruido/freellmapi/commit/c268d5b3bbb91acf8820d0ad041d79ba1b098744) **chore(release): bump desktop to v0.9.3 (#1132)** — _Tashfeen_ (2026-09-02)
+          - [`8c8a690`](https://github.com/havaianasdestruido/freellmapi/commit/8c8a69072cf269f65b46793ead344f7a38567f65) **fix(proxy): always surface usage so agents show context-window counts (#** — _suantea (asuan_suan)_ (2026-09-02)
+          - [`f9096c5`](https://github.com/havaianasdestruido/freellmapi/commit/f9096c5bcfe0c5a416e766798666180b29ef978e) **Release template: Premium price $19/yr -> $29/yr (#1131)** — _Tashfeen_ (2026-09-02)
+          - [`207988c`](https://github.com/havaianasdestruido/freellmapi/commit/207988ca7e2e9fdbdccbd69d706dd9c973d2c8a5) **Premium price copy: $19/yr -> $29/yr, $49 lifetime -> $79 (#1130)** — _Tashfeen_ (2026-09-02)
+          - [`36de660`](https://github.com/havaianasdestruido/freellmapi/commit/36de660fab25083bf8f0fa048d71e8df34e25851) **feat(providers): add Sail Research adapter (#1125)** — _Tashfeen_ (2026-09-01)
+          - [`36850e8`](https://github.com/havaianasdestruido/freellmapi/commit/36850e81f0da44c4b76f963b04e51c0f372924ee) **docs: reorganise docs into per-domain folders with overviews and changel** — _Davisville_ (2026-09-01)
+          - [`94ef82a`](https://github.com/havaianasdestruido/freellmapi/commit/94ef82ae6435f8d253a0926e46bff10e728dcacd) **perf(analytics): covering index for the latency percentile queries (#101** — _suantea (asuan_suan)_ (2026-09-01)
+          - [`4a8f095`](https://github.com/havaianasdestruido/freellmapi/commit/4a8f0950fe5caf64aed1c2bc9cf036d37b80c078) **Prune the quota observation log in 5k-row chunks (#1124)** — _Tashfeen_ (2026-09-01)
+          - [`77e0ecc`](https://github.com/havaianasdestruido/freellmapi/commit/77e0ecc2410faf991519cb06ea1999e14d71c92b) **perf: stop the quota panel from ranking the whole observation log on eve** — _Tashfeen_ (2026-09-01)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/freellmapi/commits/main/?after=86b6e9468e5db99e083dc18790570ae7c027bd92+34)
+          - [`0a0bd24`](https://github.com/havaianasdestruido/freellmapi/commit/0a0bd24e757ca24a1bbb0d1f6e436be8cfe5b373) **Inject an estimated usage frame when a streaming upstream omits usage (#** — _OPPIH.X_ (2026-08-26)
+          - [`56eb257`](https://github.com/havaianasdestruido/freellmapi/commit/56eb257c232602a29375f7c0a547455986b82a26) **Add an opt-in Fetch Relay outbound transport (#975)** — _w0fv1_ (2026-08-26)
+          - [`3f05443`](https://github.com/havaianasdestruido/freellmapi/commit/3f054433e2e24a7cfbed76c0c62498655bc27d3a) **Chown the data dir on PaaS runtimes via a root entrypoint (#972)** — _waffledev_ (2026-08-26)
+          - [`e70d130`](https://github.com/havaianasdestruido/freellmapi/commit/e70d1305e112e62b24253728bf07d93e5160ffa4) **Notarize the DMG itself, not just the app inside it (#1036)** — _Tashfeen_ (2026-08-25)
+          - [`9196ed0`](https://github.com/havaianasdestruido/freellmapi/commit/9196ed041cb2eaea8a31a33d0f3ceb99a8f57593) **Mac builds are signed and notarized — closes #373 #943 (#1035)** — _Tashfeen_ (2026-08-25)
+          - [`0ed621d`](https://github.com/havaianasdestruido/freellmapi/commit/0ed621dbaf508fe537257e42b745b26d41f56426) **Notarize the Mac build with an App Store Connect key, not an app passwor** — _Tashfeen_ (2026-08-25)
+          - [`5bad9eb`](https://github.com/havaianasdestruido/freellmapi/commit/5bad9eb1fff19dae7fbcaec5efcd690d759c475f) **Loosen the compression timing caps off CI (#1030)** — _Tashfeen_ (2026-08-25)
+          - [`e852ff1`](https://github.com/havaianasdestruido/freellmapi/commit/e852ff13a7d9e7f5b1484c4858f9c9de00bd5386) **Make a fallback chain mean itself, empty or not (#1023)** — _Tashfeen_ (2026-08-24)
+          - [`e4cad5c`](https://github.com/havaianasdestruido/freellmapi/commit/e4cad5c82b941f2fdc78df5e140492d9f88a1c6a) **Complete the French locale (#1022)** — _Patrick-léon_ (2026-08-24)
+          - [`4774cf0`](https://github.com/havaianasdestruido/freellmapi/commit/4774cf02a4e6c984e17298afbe25e7e61203c3ca) **Bring the desktop boot sequence up to server parity and bump to 0.8.7 (#** — _Tashfeen_ (2026-08-24)
+        - 📄 [Commits Page 5](https://github.com/havaianasdestruido/freellmapi/commits/main/?after=1a0ce48280d377db6ce20cf52558fac91d1e618a+34)
+          - [`ff8f9ad`](https://github.com/havaianasdestruido/freellmapi/commit/ff8f9ad94c02190e1a5fc999b4151840a918f85b) **Bump desktop to 0.8.6 so the release artifacts match the v0.8.6 tag (#99** — _Tashfeen_ (2026-08-23)
+          - [`74df985`](https://github.com/havaianasdestruido/freellmapi/commit/74df9858a2a84a1580a8a608f5f22bde17a9accf) **Server log viewer in the dashboard, under an Analytics nav menu (#993)** — _Tashfeen_ (2026-08-23)
+          - [`ef4519a`](https://github.com/havaianasdestruido/freellmapi/commit/ef4519a3d12cac8768587c8c4da52c18eb118ed7) **feat(providers): add xkiro.com as an OpenAI-compatible provider (#947) (** — _tashdroid_ (2026-08-23)
+          - [`2463c14`](https://github.com/havaianasdestruido/freellmapi/commit/2463c1479bdb930c4787bfe232c63d736922c378) **fix(media): allow registering custom speech-to-text models (#992)** — _tashdroid_ (2026-08-23)
+          - [`b6955f6`](https://github.com/havaianasdestruido/freellmapi/commit/b6955f676f4c87d7cd4fe2f5efb11c0d71e48fb7) **fix(media): serve transcription usage at /api/media/usage + show it on t** — _tashdroid_ (2026-08-23)
+          - [`cf0c216`](https://github.com/havaianasdestruido/freellmapi/commit/cf0c2168b60c7261f230d3920561f160995578d3) **perf(compression): early-exit protected-span check in the per-line hot p** — _tashdroid_ (2026-08-23)
+          - [`f08e17c`](https://github.com/havaianasdestruido/freellmapi/commit/f08e17c44be8d9f6d235fbc2e5ef3ed3d44dd322) **fix(router): context-window safety margin against chars/4 under-counting** — _Icesenator_ (2026-08-23)
+          - [`68ddca4`](https://github.com/havaianasdestruido/freellmapi/commit/68ddca44c08674430151e16a0ab81517246e9fd7) **feat(providers): add UnoRouter (unorouter.com) as an OpenAI-compatible p** — _tashdroid_ (2026-08-23)
+          - [`ee849ed`](https://github.com/havaianasdestruido/freellmapi/commit/ee849ed635704792992336c83125faab2154461f) **feat(custom): keep user-deleted custom models deleted across scheduled s** — _suantea (asuan_suan)_ (2026-08-23)
+          - [`291556d`](https://github.com/havaianasdestruido/freellmapi/commit/291556df049ecd3ce974785d962cc7452b1da6b8) **fix(ui): clarify the capability-tier tooltip (#891) (#966)** — _tashdroid_ (2026-08-22)
+      - [`revert-1-fix-readme-grammar-18253037270662955219`](https://github.com/havaianasdestruido/freellmapi/tree/revert-1-fix-readme-grammar-18253037270662955219) — HEAD: `d559fec`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/freellmapi/commits/revert-1-fix-readme-grammar-18253037270662955219)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/freellmapi/commits/revert-1-fix-readme-grammar-18253037270662955219)
+          - [`d559fec`](https://github.com/havaianasdestruido/freellmapi/commit/d559fecf756eed257fc0f53324b3087cb3103f08) **Revert "Fix README grammar and spelling"** — _Pato (new acc)_ (2026-09-15)
+          - [`17b4221`](https://github.com/havaianasdestruido/freellmapi/commit/17b4221cb7a7d78250c642c36b5e33352715611b) **Merge pull request #1 from havaianasdestruido/fix-readme-grammar-1825303** — _Pato (new acc)_ (2026-09-15)
+          - [`e27d942`](https://github.com/havaianasdestruido/freellmapi/commit/e27d942a5565bfab15708c929477b42ccf45a586) **docs: fix README grammar and spelling** — _google-labs-jules[bot]_ (2026-09-15)
+          - [`b0ea536`](https://github.com/havaianasdestruido/freellmapi/commit/b0ea53613452c9b41d36d0c69661b215981ce85f) **chore(release): prepare v0.10.0 (#1228)** — _Tashfeen_ (2026-09-15)
+          - [`546b1e0`](https://github.com/havaianasdestruido/freellmapi/commit/546b1e0bb44c0d4cd17884799340d09e10704967) **fix(quota): preserve reliable readings and explain forecast coverage (#1** — _Tashfeen_ (2026-09-15)
+          - [`a733a3b`](https://github.com/havaianasdestruido/freellmapi/commit/a733a3b25b1b101cdaa4ef2712a061cb033dfcb9) **feat(quota): show forecasts and warnings in Quota signals (#1223)** — _Tashfeen_ (2026-09-14)
+          - [`bf04e4e`](https://github.com/havaianasdestruido/freellmapi/commit/bf04e4e6435552e86f111bde344e621e53ab7a1b) **feat(providers): add unified provider dashboard and model management (#1** — _Ahmedtahoon2_ (2026-09-14)
+          - [`ea3822b`](https://github.com/havaianasdestruido/freellmapi/commit/ea3822b083de3fc58bda7f303e36158580ef670b) **feat(routing): feed provider-reported 413 size into routing estimate (#5** — _Jasnoor Gill_ (2026-09-14)
+          - [`b21e6b2`](https://github.com/havaianasdestruido/freellmapi/commit/b21e6b281026dc7c0a89183881b097dd70adb88d) **Clear a local override that returns to its catalog value (#1178) (#1188)** — _nicyoong_ (2026-09-14)
+          - [`80dd5fc`](https://github.com/havaianasdestruido/freellmapi/commit/80dd5fca550cd292d9ca3e28788c6c43b8b20305) **fix(desktop): fix Windows and Linux backdrop contrast and remove macOS t** — _xzyj50609_ (2026-09-14)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/freellmapi/commits/revert-1-fix-readme-grammar-18253037270662955219/?after=194f5891c1e345b1a0e4bad9406b01b8e1b0d418+34)
+          - [`83562ad`](https://github.com/havaianasdestruido/freellmapi/commit/83562ad360a65d80b6319297fee4cd47dc5a2ff3) **Release v0.9.8 (#1172)** — _Tashfeen_ (2026-09-07)
+          - [`3be0aef`](https://github.com/havaianasdestruido/freellmapi/commit/3be0aefeaf324ff3d2581982efd066d4f4fcf4c2) **Desktop dashboard never shows a login form; reset copy says the code is ** — _Tashfeen_ (2026-09-07)
+          - [`7096765`](https://github.com/havaianasdestruido/freellmapi/commit/709676521127db636da2d12c839f26ac78e82f6a) **feat(providers): add ElectronHub and Experiential Labs (#1169)** — _Tashfeen_ (2026-09-06)
+          - [`7331d7a`](https://github.com/havaianasdestruido/freellmapi/commit/7331d7ac773a0ba72d775672037a9e494a25f54c) **docs: second sweep — stale link texts, changelog hashes that never reach** — _Tashfeen_ (2026-09-05)
+          - [`ef1b9ce`](https://github.com/havaianasdestruido/freellmapi/commit/ef1b9ce3b51428199360c16f080c9613864d34a0) **docs(zh-cn): finish the per-language tree — translate the four stubs, fi** — _Tashfeen_ (2026-09-05)
+          - [`b1984db`](https://github.com/havaianasdestruido/freellmapi/commit/b1984dbeb3a47e829b2483fb4c23a6661e669779) **feat(routing): cooldown ceiling + Router pressure "Clear all" (#952, #10** — _Tashfeen_ (2026-09-05)
+          - [`448cf46`](https://github.com/havaianasdestruido/freellmapi/commit/448cf46f3fca8c2ef9db4525e94b6cde4b2c2637) **README: credit qatcod, CooperSheroy and shahidbeig-a11y (#1083, #1085, #** — _Tashfeen_ (2026-09-05)
+          - [`eab992f`](https://github.com/havaianasdestruido/freellmapi/commit/eab992f7535950a254a51c791e289dc5fc6e3449) **docs: per-language layout docs/{en,zh-cn}, Chinese README, redirect stub** — _Davisville_ (2026-09-05)
+          - [`1edb8d5`](https://github.com/havaianasdestruido/freellmapi/commit/1edb8d56f8b9e0361e8c75987591794a3dd028d5) **chore(release): desktop v0.9.7 (#1154)** — _Tashfeen_ (2026-09-04)
+          - [`4430d42`](https://github.com/havaianasdestruido/freellmapi/commit/4430d42b9e4a62676afbdd5f9148906e1a72aae0) **fix(desktop): keep the Dock icon when the popover opens (#1153)** — _Tashfeen_ (2026-09-04)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/freellmapi/commits/revert-1-fix-readme-grammar-18253037270662955219/?after=461c6566f9f47930a72270fb1bd20f28f7f1b6a9+34)
+          - [`619cae9`](https://github.com/havaianasdestruido/freellmapi/commit/619cae9d075716f73867cd898fd1dcb9b1902f00) **chore(release): bump desktop to v0.9.4 (#1134)** — _Tashfeen_ (2026-09-02)
+          - [`01e5af9`](https://github.com/havaianasdestruido/freellmapi/commit/01e5af9311e41908f25aa3c1f5d8456cba9a6dc6) **Sync premium copy across README, locales and release template** — _Tashfeen_ (2026-09-02)
+          - [`c268d5b`](https://github.com/havaianasdestruido/freellmapi/commit/c268d5b3bbb91acf8820d0ad041d79ba1b098744) **chore(release): bump desktop to v0.9.3 (#1132)** — _Tashfeen_ (2026-09-02)
+          - [`8c8a690`](https://github.com/havaianasdestruido/freellmapi/commit/8c8a69072cf269f65b46793ead344f7a38567f65) **fix(proxy): always surface usage so agents show context-window counts (#** — _suantea (asuan_suan)_ (2026-09-02)
+          - [`f9096c5`](https://github.com/havaianasdestruido/freellmapi/commit/f9096c5bcfe0c5a416e766798666180b29ef978e) **Release template: Premium price $19/yr -> $29/yr (#1131)** — _Tashfeen_ (2026-09-02)
+          - [`207988c`](https://github.com/havaianasdestruido/freellmapi/commit/207988ca7e2e9fdbdccbd69d706dd9c973d2c8a5) **Premium price copy: $19/yr -> $29/yr, $49 lifetime -> $79 (#1130)** — _Tashfeen_ (2026-09-02)
+          - [`36de660`](https://github.com/havaianasdestruido/freellmapi/commit/36de660fab25083bf8f0fa048d71e8df34e25851) **feat(providers): add Sail Research adapter (#1125)** — _Tashfeen_ (2026-09-01)
+          - [`36850e8`](https://github.com/havaianasdestruido/freellmapi/commit/36850e81f0da44c4b76f963b04e51c0f372924ee) **docs: reorganise docs into per-domain folders with overviews and changel** — _Davisville_ (2026-09-01)
+          - [`94ef82a`](https://github.com/havaianasdestruido/freellmapi/commit/94ef82ae6435f8d253a0926e46bff10e728dcacd) **perf(analytics): covering index for the latency percentile queries (#101** — _suantea (asuan_suan)_ (2026-09-01)
+          - [`4a8f095`](https://github.com/havaianasdestruido/freellmapi/commit/4a8f0950fe5caf64aed1c2bc9cf036d37b80c078) **Prune the quota observation log in 5k-row chunks (#1124)** — _Tashfeen_ (2026-09-01)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/freellmapi/commits/revert-1-fix-readme-grammar-18253037270662955219/?after=3b6f40e9a3e1691dd7e561d9fa842c28d6218746+34)
+          - [`86b6e94`](https://github.com/havaianasdestruido/freellmapi/commit/86b6e9468e5db99e083dc18790570ae7c027bd92) **Credit hiiamwaffledev, w0fv1 and oppih in the contributors list (#1043)** — _Tashfeen_ (2026-08-26)
+          - [`0a0bd24`](https://github.com/havaianasdestruido/freellmapi/commit/0a0bd24e757ca24a1bbb0d1f6e436be8cfe5b373) **Inject an estimated usage frame when a streaming upstream omits usage (#** — _OPPIH.X_ (2026-08-26)
+          - [`56eb257`](https://github.com/havaianasdestruido/freellmapi/commit/56eb257c232602a29375f7c0a547455986b82a26) **Add an opt-in Fetch Relay outbound transport (#975)** — _w0fv1_ (2026-08-26)
+          - [`3f05443`](https://github.com/havaianasdestruido/freellmapi/commit/3f054433e2e24a7cfbed76c0c62498655bc27d3a) **Chown the data dir on PaaS runtimes via a root entrypoint (#972)** — _waffledev_ (2026-08-26)
+          - [`e70d130`](https://github.com/havaianasdestruido/freellmapi/commit/e70d1305e112e62b24253728bf07d93e5160ffa4) **Notarize the DMG itself, not just the app inside it (#1036)** — _Tashfeen_ (2026-08-25)
+          - [`9196ed0`](https://github.com/havaianasdestruido/freellmapi/commit/9196ed041cb2eaea8a31a33d0f3ceb99a8f57593) **Mac builds are signed and notarized — closes #373 #943 (#1035)** — _Tashfeen_ (2026-08-25)
+          - [`0ed621d`](https://github.com/havaianasdestruido/freellmapi/commit/0ed621dbaf508fe537257e42b745b26d41f56426) **Notarize the Mac build with an App Store Connect key, not an app passwor** — _Tashfeen_ (2026-08-25)
+          - [`5bad9eb`](https://github.com/havaianasdestruido/freellmapi/commit/5bad9eb1fff19dae7fbcaec5efcd690d759c475f) **Loosen the compression timing caps off CI (#1030)** — _Tashfeen_ (2026-08-25)
+          - [`e852ff1`](https://github.com/havaianasdestruido/freellmapi/commit/e852ff13a7d9e7f5b1484c4858f9c9de00bd5386) **Make a fallback chain mean itself, empty or not (#1023)** — _Tashfeen_ (2026-08-24)
+          - [`e4cad5c`](https://github.com/havaianasdestruido/freellmapi/commit/e4cad5c82b941f2fdc78df5e140492d9f88a1c6a) **Complete the French locale (#1022)** — _Patrick-léon_ (2026-08-24)
+        - 📄 [Commits Page 5](https://github.com/havaianasdestruido/freellmapi/commits/revert-1-fix-readme-grammar-18253037270662955219/?after=db0b1b650e531f6b61316d58a8d85eb420b6b69e+34)
+          - [`1a0ce48`](https://github.com/havaianasdestruido/freellmapi/commit/1a0ce48280d377db6ce20cf52558fac91d1e618a) **feat(cli): setup-dsh — configure DeepSeek Harness in one command (#995)** — _Tashfeen_ (2026-08-23)
+          - [`ff8f9ad`](https://github.com/havaianasdestruido/freellmapi/commit/ff8f9ad94c02190e1a5fc999b4151840a918f85b) **Bump desktop to 0.8.6 so the release artifacts match the v0.8.6 tag (#99** — _Tashfeen_ (2026-08-23)
+          - [`74df985`](https://github.com/havaianasdestruido/freellmapi/commit/74df9858a2a84a1580a8a608f5f22bde17a9accf) **Server log viewer in the dashboard, under an Analytics nav menu (#993)** — _Tashfeen_ (2026-08-23)
+          - [`ef4519a`](https://github.com/havaianasdestruido/freellmapi/commit/ef4519a3d12cac8768587c8c4da52c18eb118ed7) **feat(providers): add xkiro.com as an OpenAI-compatible provider (#947) (** — _tashdroid_ (2026-08-23)
+          - [`2463c14`](https://github.com/havaianasdestruido/freellmapi/commit/2463c1479bdb930c4787bfe232c63d736922c378) **fix(media): allow registering custom speech-to-text models (#992)** — _tashdroid_ (2026-08-23)
+          - [`b6955f6`](https://github.com/havaianasdestruido/freellmapi/commit/b6955f676f4c87d7cd4fe2f5efb11c0d71e48fb7) **fix(media): serve transcription usage at /api/media/usage + show it on t** — _tashdroid_ (2026-08-23)
+          - [`cf0c216`](https://github.com/havaianasdestruido/freellmapi/commit/cf0c2168b60c7261f230d3920561f160995578d3) **perf(compression): early-exit protected-span check in the per-line hot p** — _tashdroid_ (2026-08-23)
+          - [`f08e17c`](https://github.com/havaianasdestruido/freellmapi/commit/f08e17c44be8d9f6d235fbc2e5ef3ed3d44dd322) **fix(router): context-window safety margin against chars/4 under-counting** — _Icesenator_ (2026-08-23)
+          - [`68ddca4`](https://github.com/havaianasdestruido/freellmapi/commit/68ddca44c08674430151e16a0ab81517246e9fd7) **feat(providers): add UnoRouter (unorouter.com) as an OpenAI-compatible p** — _tashdroid_ (2026-08-23)
+          - [`ee849ed`](https://github.com/havaianasdestruido/freellmapi/commit/ee849ed635704792992336c83125faab2154461f) **feat(custom): keep user-deleted custom models deleted across scheduled s** — _suantea (asuan_suan)_ (2026-08-23)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (1)
+        - ✅ Merged [#1 Fix README grammar and spelling](https://github.com/havaianasdestruido/freellmapi/pull/1) — _havaianasdestruido_ (2026-09-15) `fix-readme-grammar-18253037270662955219` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`e27d942`](https://github.com/havaianasdestruido/freellmapi/commit/e27d942a5565bfab15708c929477b42ccf45a586) docs: fix README grammar and spelling
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (30)
+      - [@tashfeenahmed](https://github.com/tashfeenahmed) — 491 commit(s)
+      - [@suantea](https://github.com/suantea) — 83 commit(s)
+      - [@OhOkThisIsFine](https://github.com/OhOkThisIsFine) — 18 commit(s)
+      - [@jasnoorgill](https://github.com/jasnoorgill) — 12 commit(s)
+      - [@tashdroid](https://github.com/tashdroid) — 12 commit(s)
+      - [@nordbyte](https://github.com/nordbyte) — 7 commit(s)
+      - [@Tazrif-Raim](https://github.com/Tazrif-Raim) — 6 commit(s)
+      - [@kairwang01](https://github.com/kairwang01) — 6 commit(s)
+      - [@chongjiazhen](https://github.com/chongjiazhen) — 6 commit(s)
+      - [@LoneRifle](https://github.com/LoneRifle) — 5 commit(s)
+      - [@danscMax](https://github.com/danscMax) — 5 commit(s)
+      - [@nicyoong](https://github.com/nicyoong) — 5 commit(s)
+      - [@v0rtex1223](https://github.com/v0rtex1223) — 4 commit(s)
+      - [@NirvanaCh7](https://github.com/NirvanaCh7) — 4 commit(s)
+      - [@phoenixikkifullstack](https://github.com/phoenixikkifullstack) — 3 commit(s)
+      - [@yfdyh000](https://github.com/yfdyh000) — 3 commit(s)
+      - [@Icesenator](https://github.com/Icesenator) — 3 commit(s)
+      - [@gaurang-py](https://github.com/gaurang-py) — 3 commit(s)
+      - [@cagedbird043](https://github.com/cagedbird043) — 3 commit(s)
+      - [@4riful](https://github.com/4riful) — 3 commit(s)
+      - [@ousamabenyounes](https://github.com/ousamabenyounes) — 2 commit(s)
+      - [@claude](https://github.com/claude) — 2 commit(s)
+      - [@quabynahdavis](https://github.com/quabynahdavis) — 2 commit(s)
+      - [@itsfuad](https://github.com/itsfuad) — 2 commit(s)
+      - [@bharvey42](https://github.com/bharvey42) — 1 commit(s)
+      - [@immanuelsavio](https://github.com/immanuelsavio) — 1 commit(s)
+      - [@ZER0-auto](https://github.com/ZER0-auto) — 1 commit(s)
+      - [@yuvrxj-afk](https://github.com/yuvrxj-afk) — 1 commit(s)
+      - [@qinghuanandejiangshi](https://github.com/qinghuanandejiangshi) — 1 commit(s)
+      - [@vjsai](https://github.com/vjsai) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `TypeScript` — 98.9% (6,105,160 bytes)
+      - `JavaScript` — 0.6% (38,135 bytes)
+      - `HTML` — 0.2% (13,564 bytes)
+      - `CSS` — 0.1% (5,991 bytes)
+      - `Shell` — 0.1% (4,332 bytes)
+      - `Dockerfile` — 0.1% (3,698 bytes)
+      - `PowerShell` — 0.0% (2,940 bytes)
 
 ---
 
@@ -2034,44 +2276,55 @@
 
 - ## [OdontoAura](https://github.com/havaianasdestruido/OdontoAura)
   > Sistema de gerenciamento, agendamento e manutenção de pacientes, horários, consu
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 1 open issues | 💻 TypeScript | 📅 Created: 2026-09-03 | 🔄 Updated: 2026-09-15
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 2 open issues | 💻 TypeScript | 📅 Created: 2026-09-03 | 🔄 Updated: 2026-09-15
 
-    - ### 🌿 Branches (5)
-      - [`dependabot/github_actions/actions/dependency-review-action-5`](https://github.com/havaianasdestruido/OdontoAura/tree/dependabot/github_actions/actions/dependency-review-action-5) — HEAD: `ca21f08`
-        - 📋 [All Commits](https://github.com/havaianasdestruido/OdontoAura/commits/dependabot/github_actions/actions/dependency-review-action-5)
-        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/OdontoAura/commits/dependabot/github_actions/actions/dependency-review-action-5)
-          - [`ca21f08`](https://github.com/havaianasdestruido/OdontoAura/commit/ca21f08d3da8603d9ff00218d6b31b9f47e9718e) **chore(deps): bump actions/dependency-review-action from 4 to 5** — _dependabot[bot]_ (2026-09-14)
-          - [`f2b1ee5`](https://github.com/havaianasdestruido/OdontoAura/commit/f2b1ee5112605ff2383bebad7f8e65978c8fc25d) **Create dependency-review.yml** — _Pato (new acc)_ (2026-09-13)
-          - [`ca279e4`](https://github.com/havaianasdestruido/OdontoAura/commit/ca279e4062477a691a7849d654ba55a0bff7d059) **ci: align pnpm runtime with local (11.25.0) and node 22** — _havaianasdestruido_ (2026-09-13)
-          - [`2e7728b`](https://github.com/havaianasdestruido/OdontoAura/commit/2e7728bc45e9679567363dc8a1774e3a6f870b69) **Create labeler configuration for automatic PR labeling** — _Pato (new acc)_ (2026-09-13)
-          - [`20623b8`](https://github.com/havaianasdestruido/OdontoAura/commit/20623b8e046c55783486c247ffbcf2c5e9738b3e) **Create label.yml** — _Pato (new acc)_ (2026-09-13)
-          - [`fe145e4`](https://github.com/havaianasdestruido/OdontoAura/commit/fe145e4eb0913ff01d9b24daf75e199ab47971e0) **docs: add production Vercel URLs to README** — _havaianasdestruido_ (2026-09-12)
-          - [`451d265`](https://github.com/havaianasdestruido/OdontoAura/commit/451d265d8a83a41d974e601f02f88de13fc5c20b) **chore(deps): force picomatch 4.0.7 to close high-severity advisories** — _havaianasdestruido_ (2026-09-12)
-          - [`3cc3089`](https://github.com/havaianasdestruido/OdontoAura/commit/3cc3089608cc2daf1bb99464f8e638b35c94791c) **feat(frontend): migrate dashboard pages to react-query and client valida** — _havaianasdestruido_ (2026-09-12)
-          - [`37ca951`](https://github.com/havaianasdestruido/OdontoAura/commit/37ca951454da10f63152495d2d5e09e4deae31c9) **build: move pnpm overrides to workspace config, bump esbuild** — _havaianasdestruido_ (2026-09-12)
-          - [`68ecae4`](https://github.com/havaianasdestruido/OdontoAura/commit/68ecae45895d4be43e04e87774af98990fb2de29) **chore(deps): bump esbuild in the npm_and_yarn group across 1 directory (** — _dependabot[bot]_ (2026-09-12)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/OdontoAura/commits/dependabot/github_actions/actions/dependency-review-action-5/?after=3e7398af5a052e4ced7e4e2af152d4fe448efc98+34)
-          - [`fa7a28f`](https://github.com/havaianasdestruido/OdontoAura/commit/fa7a28f7c67b398b0b5a51432a4ed50a68f27148) **chore(deps-dev): bump @nestjs/schematics from 10.2.3 to 12.0.0 (#36)** — _dependabot[bot]_ (2026-09-07)
-          - [`ecd7bf8`](https://github.com/havaianasdestruido/OdontoAura/commit/ecd7bf80f6b0879ad2e9d8959b74de146f02b55e) **chore(deps-dev): bump eslint from 8.57.1 to 10.10.0 (#37)** — _dependabot[bot]_ (2026-09-07)
-          - [`ff656c2`](https://github.com/havaianasdestruido/OdontoAura/commit/ff656c28e34a68c08a5467ce499369f364f6e4a5) **chore(deps-dev): bump @testing-library/react from 15.0.7 to 16.3.3 (#38)** — _dependabot[bot]_ (2026-09-07)
-          - [`b2c6590`](https://github.com/havaianasdestruido/OdontoAura/commit/b2c65904fd58dec99278f4a9075e4d3e64b6f50c) **chore(deps): bump @hookform/resolvers from 3.10.0 to 5.9.1 (#43)** — _dependabot[bot]_ (2026-09-07)
-          - [`6058206`](https://github.com/havaianasdestruido/OdontoAura/commit/60582067db7573308713dea5a2c7e56018a5208d) **chore(deps-dev): bump tailwindcss from 3.4.19 to 4.3.3 (#33)** — _dependabot[bot]_ (2026-09-07)
-          - [`77e191a`](https://github.com/havaianasdestruido/OdontoAura/commit/77e191a31adadde6e4a54b8e31883a21fd001d59) **chore(deps): bump tailwind-merge from 2.6.1 to 3.6.0 (#42)** — _dependabot[bot]_ (2026-09-07)
-          - [`f7fde91`](https://github.com/havaianasdestruido/OdontoAura/commit/f7fde913b394e15c89518fd8612bb33e7aafb24f) **chore(deps-dev): bump prisma from 5.22.0 to 7.10.0 (#31)** — _dependabot[bot]_ (2026-09-07)
-          - [`3341ee4`](https://github.com/havaianasdestruido/OdontoAura/commit/3341ee4e2ee56f1136f5d91c0397fb068feb8d12) **chore(deps-dev): bump autoprefixer from 10.5.4 to 10.5.5 (#35)** — _dependabot[bot]_ (2026-09-07)
-          - [`fb4973b`](https://github.com/havaianasdestruido/OdontoAura/commit/fb4973ba82ef2c1d17b8297ab3d0833eb155fc3d) **chore(deps): bump lucide-react from 0.400.0 to 1.41.0 (#34)** — _dependabot[bot]_ (2026-09-07)
-          - [`a36b976`](https://github.com/havaianasdestruido/OdontoAura/commit/a36b97641acf563a1dedf4d922b703ebfb97666f) **chore(deps): bump react-dom and @types/react-dom (#32)** — _dependabot[bot]_ (2026-09-07)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/OdontoAura/commits/dependabot/github_actions/actions/dependency-review-action-5/?after=1987f068852baf3e8582cfc445f1aad3dfba8f31+34)
-          - [`89c0c67`](https://github.com/havaianasdestruido/OdontoAura/commit/89c0c6780a738ed730bd9784bde2b5baa11ce7d1) **Merge pull request #10 from havaianasdestruido/dependabot/npm_and_yarn/n** — _Pato (new acc)_ (2026-09-04)
-          - [`21df1cd`](https://github.com/havaianasdestruido/OdontoAura/commit/21df1cdb201ab531dc6672897fbc976498462c11) **Merge branch 'main' into dependabot/npm_and_yarn/nestjs/jwt-12.0.1** — _Pato (new acc)_ (2026-09-04)
-          - [`267bc0b`](https://github.com/havaianasdestruido/OdontoAura/commit/267bc0b1b7cb7a95c5341aa04801665cccc79f7f) **Merge pull request #11 from havaianasdestruido/dependabot/npm_and_yarn/n** — _Pato (new acc)_ (2026-09-04)
-          - [`ae37ff0`](https://github.com/havaianasdestruido/OdontoAura/commit/ae37ff0cbc132367b5d367feb7eca3524ba4c759) **Merge pull request #13 from havaianasdestruido/dependabot/npm_and_yarn/n** — _Pato (new acc)_ (2026-09-04)
-          - [`8c3990f`](https://github.com/havaianasdestruido/OdontoAura/commit/8c3990f5cb79f4e27c856bcedb502e9310ea7944) **chore(deps): bump @nestjs/passport from 10.0.3 to 12.0.0** — _dependabot[bot]_ (2026-09-04)
-          - [`3a14fb0`](https://github.com/havaianasdestruido/OdontoAura/commit/3a14fb0fcefe099740881c26d25ea014e4f0aa52) **chore(deps): bump @nestjs/platform-fastify from 10.4.22 to 12.0.1** — _dependabot[bot]_ (2026-09-04)
-          - [`244f7de`](https://github.com/havaianasdestruido/OdontoAura/commit/244f7de2c3e30fd724180f0f61415bf81d3229de) **chore(deps): bump @nestjs/jwt from 10.2.0 to 12.0.1** — _dependabot[bot]_ (2026-09-04)
-          - [`d0380f3`](https://github.com/havaianasdestruido/OdontoAura/commit/d0380f3fb723d146f57a5578fbf881d4a705de63) **chore(deps): bump @prisma/client from 5.22.0 to 7.10.0** — _dependabot[bot]_ (2026-09-04)
-          - [`e0c0b7f`](https://github.com/havaianasdestruido/OdontoAura/commit/e0c0b7f997fe2904ea44196a055a9ddaf3d5080a) **fix: resolve test and dependency issues** — _havaianasdestruido_ (2026-09-04)
-          - [`664069a`](https://github.com/havaianasdestruido/OdontoAura/commit/664069aa5518c52f3b624157c23848a4b147b3b6) **test: add unit tests for auth, appointments, health check, and home page** — _havaianasdestruido_ (2026-09-04)
+    - ### 🌿 Branches (9)
+      - [`ci/update-node-22-7424374546274977733`](https://github.com/havaianasdestruido/OdontoAura/tree/ci/update-node-22-7424374546274977733) — HEAD: `8c38a93`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/OdontoAura/commits/ci/update-node-22-7424374546274977733)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/OdontoAura/commits/ci/update-node-22-7424374546274977733)
+          - [`8c38a93`](https://github.com/havaianasdestruido/OdontoAura/commit/8c38a9397f6c8b7b872e8b66a72aabcbe1c77db0) **ci: update Node.js version to 22** — _google-labs-jules[bot]_ (2026-09-15)
+          - [`65a2a75`](https://github.com/havaianasdestruido/OdontoAura/commit/65a2a759b26c100adbea42f3fe6c9f8909bf6249) **ci: update Node.js version to 22** — _google-labs-jules[bot]_ (2026-09-15)
+          - [`efc9479`](https://github.com/havaianasdestruido/OdontoAura/commit/efc9479f56c75a9bfe267c3e123a0b1d496f9329) **Update TODO.md** — _Pato (new acc)_ (2026-09-15)
+          - [`d95aebd`](https://github.com/havaianasdestruido/OdontoAura/commit/d95aebd3c3af7474c68208b567315d79c177ae02) **fix(ci): remove explicit pnpm version from action-setup (#67)** — _Pato (new acc)_ (2026-09-15)
+          - [`945bb1c`](https://github.com/havaianasdestruido/OdontoAura/commit/945bb1c1803fc1595ea2b33608db57ef1d4addab) **Create TODO.md** — _Pato (new acc)_ (2026-09-15)
+          - [`b006fd9`](https://github.com/havaianasdestruido/OdontoAura/commit/b006fd99ca1de972d941d2a63c631bdb3ed1882b) **Delete .github/dependabot.yml** — _Pato (new acc)_ (2026-09-15)
+          - [`a0f474e`](https://github.com/havaianasdestruido/OdontoAura/commit/a0f474e081e066ba7f0c2890ade91ac9a4b91a5b) **chore(deps): bump actions/dependency-review-action from 4 to 5 (#51)** — _dependabot[bot]_ (2026-09-15)
+          - [`49cab6c`](https://github.com/havaianasdestruido/OdontoAura/commit/49cab6c9e3a2f5b21591bce14aab271db6028796) **adicionado prints** — _Pato (new acc)_ (2026-09-15)
+          - [`ae54300`](https://github.com/havaianasdestruido/OdontoAura/commit/ae543008ee4e890b72c6fc8f92a682130f4c2607) **feat(frontend): configure Next.js static export & GitHub Pages workflow ** — _Pato (new acc)_ (2026-09-15)
+          - [`683a2a6`](https://github.com/havaianasdestruido/OdontoAura/commit/683a2a6e6ebc8de17adc5bcfaa163fbce21b0e57) **Delete .github/workflows/deps.yml** — _Pato (new acc)_ (2026-09-15)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/OdontoAura/commits/ci/update-node-22-7424374546274977733/?after=31d886ce9132cefdee92b291b884235f43de9b9b+34)
+          - [`c908cc9`](https://github.com/havaianasdestruido/OdontoAura/commit/c908cc964f26a90e53a71b01de3e6add045b8ff0) **fix: align merge leftovers for build** — _havaianasdestruido_ (2026-09-12)
+          - [`cb8f696`](https://github.com/havaianasdestruido/OdontoAura/commit/cb8f69604f44f9132e686d34dd8a70eb8670c6ac) **chore: ignore .vercel in frontend** — _havaianasdestruido_ (2026-09-12)
+          - [`cdd071b`](https://github.com/havaianasdestruido/OdontoAura/commit/cdd071be801147b2653eaee06135ced683315d35) **feat: improve frontend auth and dashboard UX** — _havaianasdestruido_ (2026-09-12)
+          - [`92f21e2`](https://github.com/havaianasdestruido/OdontoAura/commit/92f21e2ac653def4c5750b6424982bc42dfd00a8) **test: add end-to-end suite against the deployed cloud API** — _havaianasdestruido_ (2026-09-12)
+          - [`605ae23`](https://github.com/havaianasdestruido/OdontoAura/commit/605ae23946b77f19be08a6d29a0ff6569d5cb029) **build: deploy backend and frontend to Vercel** — _havaianasdestruido_ (2026-09-12)
+          - [`ab7b667`](https://github.com/havaianasdestruido/OdontoAura/commit/ab7b66790cf3acbba46fe372f4a56e0936b54393) **feat: harden backend auth, RBAC and domain services** — _havaianasdestruido_ (2026-09-12)
+          - [`1a05224`](https://github.com/havaianasdestruido/OdontoAura/commit/1a052240e43c26b582c9bab4e36e4026757cd2a6) **feat: integrate VLibras accessibility widget for Brazilian Sign Language** — _Pato (new acc)_ (2026-09-11)
+          - [`abdde22`](https://github.com/havaianasdestruido/OdontoAura/commit/abdde22a3088c72c5c8872f04d16b192b068eae2) **fix(backend): add Vercel rewrites and enhance CORS configuration (#46)** — _morelloettore_ (2026-09-10)
+          - [`427bbcc`](https://github.com/havaianasdestruido/OdontoAura/commit/427bbcc42e11f7f9e2b351b25c34e2b2bf768a42) **Connect frontend Vercel app to backend Vercel API (#45)** — _morelloettore_ (2026-09-10)
+          - [`26be9e5`](https://github.com/havaianasdestruido/OdontoAura/commit/26be9e5ab46f38790eb39cc9d569b70982a9d830) **deploy: configure Supabase and Vercel serverless API** — _aluno_ (2026-09-10)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/OdontoAura/commits/ci/update-node-22-7424374546274977733/?after=3fd7be59ce0d52eb777f28f2412f6f087b1e810a+34)
+          - [`7372d1d`](https://github.com/havaianasdestruido/OdontoAura/commit/7372d1d7a92cf2792ba4ef2409e1c5ff8e089ccb) **chore(deps): bump zustand from 4.5.7 to 5.0.15 (#29)** — _dependabot[bot]_ (2026-09-07)
+          - [`521a4db`](https://github.com/havaianasdestruido/OdontoAura/commit/521a4db65219527fcce5066bdf158a807fb19987) **chore(deps): bump class-validator from 0.14.4 to 0.15.1 (#28)** — _dependabot[bot]_ (2026-09-07)
+          - [`ee17d8b`](https://github.com/havaianasdestruido/OdontoAura/commit/ee17d8b1e93e8ce9425d7a82a3c963708d84c8b6) **chore(deps): bump actions/upload-artifact from 4 to 7 (#27)** — _dependabot[bot]_ (2026-09-07)
+          - [`e543d6a`](https://github.com/havaianasdestruido/OdontoAura/commit/e543d6aeec3b963f0b383bd6e85f4c96c9478c6d) **Merge pull request #26 from havaianasdestruido/fix/build-errors** — _Pato (new acc)_ (2026-09-05)
+          - [`7eef85c`](https://github.com/havaianasdestruido/OdontoAura/commit/7eef85c9c143a8be530cea663b39d5421137e3c0) **fix: repair build/lint/typecheck across backend and frontend** — _havaianasdestruido_ (2026-09-05)
+          - [`a8b907a`](https://github.com/havaianasdestruido/OdontoAura/commit/a8b907a756ca8a5aebae50d96aecd6bc94327d45) **Update README.md** — _Pato (new acc)_ (2026-09-05)
+          - [`5642f8d`](https://github.com/havaianasdestruido/OdontoAura/commit/5642f8df5632e9c00569ce588115faf8a10f6e6c) **Create LICENSE** — _Pato (new acc)_ (2026-09-05)
+          - [`1c25e44`](https://github.com/havaianasdestruido/OdontoAura/commit/1c25e445f5761f0198a787c4ebe7e5126ea4dbb4) **renomeado denovo pra OdontoAura, a gente ainda precisa discutir se vai o** — _Pato (new acc)_ (2026-09-05)
+          - [`1e66595`](https://github.com/havaianasdestruido/OdontoAura/commit/1e665951035a6aee6a45cd7ae999678bb569f8e9) **chore(deps-dev): bump jest and @types/jest (#19)** — _dependabot[bot]_ (2026-09-04)
+          - [`5ee712f`](https://github.com/havaianasdestruido/OdontoAura/commit/5ee712f6a451b8081e1db8401bab1e836a202282) **chore(deps-dev): bump typescript from 5.9.3 to 7.0.2 (#7)** — _dependabot[bot]_ (2026-09-04)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/OdontoAura/commits/ci/update-node-22-7424374546274977733/?after=7df34ba4e54114832b1e1a339acfdba2a12cac7b+34)
+          - [`ad1a932`](https://github.com/havaianasdestruido/OdontoAura/commit/ad1a9322d6d41f687410700c535cf05791122d25) **ci: add GitHub Actions workflows, templates, and dependabot** — _havaianasdestruido_ (2026-09-04)
+          - [`447a0f0`](https://github.com/havaianasdestruido/OdontoAura/commit/447a0f0f84275e1797289ebc59b40596182a79af) **feat(frontend): add login and register pages with form validation** — _havaianasdestruido_ (2026-09-04)
+          - [`0b824d6`](https://github.com/havaianasdestruido/OdontoAura/commit/0b824d6a28e9df2daba857ff37a95a2ed3ed10eb) **feat(frontend): add dashboard layout with role-based sidebar navigation** — _havaianasdestruido_ (2026-09-04)
+          - [`2f1a9ce`](https://github.com/havaianasdestruido/OdontoAura/commit/2f1a9ce69747e3291d3025ba50ca7472b0b6c172) **feat(frontend): scaffold Next.js app with Tailwind, Shadcn config, auth ** — _havaianasdestruido_ (2026-09-04)
+          - [`b33c344`](https://github.com/havaianasdestruido/OdontoAura/commit/b33c34405612a9dd8de6c2d4e0d6e360c54196a4) **feat(backend): add health plans module for insurance management** — _havaianasdestruido_ (2026-09-04)
+          - [`9b747d6`](https://github.com/havaianasdestruido/OdontoAura/commit/9b747d613a46b8d5fddff68700de7e4ba118ea78) **feat(backend): add medical records module for electronic health records** — _havaianasdestruido_ (2026-09-04)
+          - [`be18d21`](https://github.com/havaianasdestruido/OdontoAura/commit/be18d2198710288c4a7ba580b9fcc13b1ecd026c) **feat(backend): add appointments module with status lifecycle** — _havaianasdestruido_ (2026-09-04)
+          - [`2a10663`](https://github.com/havaianasdestruido/OdontoAura/commit/2a1066375cfbe21db928ed6cadf3f8de7e62acea) **feat(backend): add doctors and specialties modules** — _havaianasdestruido_ (2026-09-04)
+          - [`a0ffd24`](https://github.com/havaianasdestruido/OdontoAura/commit/a0ffd24c0f94617542869d492120f6ed0b8b3892) **feat(backend): add users module with CRUD and RBAC guards** — _havaianasdestruido_ (2026-09-04)
+          - [`ea69511`](https://github.com/havaianasdestruido/OdontoAura/commit/ea695113248d6464409d1feff87737ccf4f2ceda) **feat(backend): add auth module with JWT, guards, RBAC, register/login** — _havaianasdestruido_ (2026-09-04)
       - [`feat/connect-frontend-backend-vercel-2197773701412789504`](https://github.com/havaianasdestruido/OdontoAura/tree/feat/connect-frontend-backend-vercel-2197773701412789504) — HEAD: `b0a3385`
         - 📋 [All Commits](https://github.com/havaianasdestruido/OdontoAura/commits/feat/connect-frontend-backend-vercel-2197773701412789504)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/OdontoAura/commits/feat/connect-frontend-backend-vercel-2197773701412789504)
@@ -2166,9 +2419,12 @@
           - [`0bb7690`](https://github.com/havaianasdestruido/OdontoAura/commit/0bb76907a6ac3f223c3d3e5d41a5353edd48b19c) **Merge pull request #1 from havaianasdestruido/jules-15954618156849110106** — _Pato (new acc)_ (2026-09-03)
           - [`617c663`](https://github.com/havaianasdestruido/OdontoAura/commit/617c663a8b0cd3be84d14867f5c32322196b3f69) **docs: adicionar documentacao da stack tecnologica em docs/stack/ e atual** — _google-labs-jules[bot]_ (2026-09-03)
           - [`9851cc8`](https://github.com/havaianasdestruido/OdontoAura/commit/9851cc889e34929a3969f8afe37f58370df5fe67) **Create README.md** — _Pato (new acc)_ (2026-09-03)
-      - [`main`](https://github.com/havaianasdestruido/OdontoAura/tree/main) _(default)_ — HEAD: `683a2a6`
-        - 📋 [All Commits](https://github.com/havaianasdestruido/OdontoAura/commits/main)
-        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/OdontoAura/commits/main)
+      - [`fix/pnpm-action-setup-version-mismatch-5954893924324974857`](https://github.com/havaianasdestruido/OdontoAura/tree/fix/pnpm-action-setup-version-mismatch-5954893924324974857) — HEAD: `a492a00`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/OdontoAura/commits/fix/pnpm-action-setup-version-mismatch-5954893924324974857)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/OdontoAura/commits/fix/pnpm-action-setup-version-mismatch-5954893924324974857)
+          - [`a492a00`](https://github.com/havaianasdestruido/OdontoAura/commit/a492a00d9be5909e6d42895bd0196b3f98ba34b6) **fix(ci): update workflow node version and pnpm configuration** — _google-labs-jules[bot]_ (2026-09-15)
+          - [`2b4d530`](https://github.com/havaianasdestruido/OdontoAura/commit/2b4d5301d3ea4cd3c33c24202f2435f5b9cce931) **fix(ci): remove explicit pnpm version from action-setup** — _google-labs-jules[bot]_ (2026-09-15)
+          - [`ae54300`](https://github.com/havaianasdestruido/OdontoAura/commit/ae543008ee4e890b72c6fc8f92a682130f4c2607) **feat(frontend): configure Next.js static export & GitHub Pages workflow ** — _Pato (new acc)_ (2026-09-15)
           - [`683a2a6`](https://github.com/havaianasdestruido/OdontoAura/commit/683a2a6e6ebc8de17adc5bcfaa163fbce21b0e57) **Delete .github/workflows/deps.yml** — _Pato (new acc)_ (2026-09-15)
           - [`569711f`](https://github.com/havaianasdestruido/OdontoAura/commit/569711fd311707e0a82a0e7cc758cb5ad53ff1a7) **chore(deps): bump react and @types/react (#63)** — _dependabot[bot]_ (2026-09-14)
           - [`18d1e41`](https://github.com/havaianasdestruido/OdontoAura/commit/18d1e41eb717b7a7a3efa7043eef25d48fab6eaa) **chore(deps): bump next from 15.5.25 to 16.3.5 (#62)** — _dependabot[bot]_ (2026-09-14)
@@ -2176,10 +2432,10 @@
           - [`a668883`](https://github.com/havaianasdestruido/OdontoAura/commit/a668883ae35581cbd29964fd9740d9f1a16ec2eb) **chore(deps-dev): bump autoprefixer from 10.5.4 to 10.5.6 (#61)** — _dependabot[bot]_ (2026-09-14)
           - [`75f57f3`](https://github.com/havaianasdestruido/OdontoAura/commit/75f57f39a81beec2423680cb3685e5fc9295b106) **chore(deps): bump lucide-react from 0.400.0 to 1.45.0 (#64)** — _dependabot[bot]_ (2026-09-14)
           - [`1440c5d`](https://github.com/havaianasdestruido/OdontoAura/commit/1440c5ddbafffb0a38923b6cceca04d93d29d22e) **chore(deps-dev): bump @types/node from 20.19.43 to 26.5.1 (#58)** — _dependabot[bot]_ (2026-09-14)
-          - [`24328d8`](https://github.com/havaianasdestruido/OdontoAura/commit/24328d80c8b41812bcaf65b74df8f82f4d50ff30) **chore(deps-dev): bump @typescript-eslint/eslint-plugin (#55)** — _dependabot[bot]_ (2026-09-14)
-          - [`6d409c5`](https://github.com/havaianasdestruido/OdontoAura/commit/6d409c5948c585a5ddd65a758f2d83b96a7da0e0) **chore(deps): bump react-dom and @types/react-dom (#60)** — _dependabot[bot]_ (2026-09-14)
-          - [`0dd2099`](https://github.com/havaianasdestruido/OdontoAura/commit/0dd2099ade9fdcffdb954640af51fb977764676f) **chore(deps-dev): bump @types/passport-jwt from 4.0.0 to 4.0.1 (#59)** — _dependabot[bot]_ (2026-09-14)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/OdontoAura/commits/main/?after=427bbcc42e11f7f9e2b351b25c34e2b2bf768a42+34)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/OdontoAura/commits/fix/pnpm-action-setup-version-mismatch-5954893924324974857/?after=ab7b66790cf3acbba46fe372f4a56e0936b54393+34)
+          - [`1a05224`](https://github.com/havaianasdestruido/OdontoAura/commit/1a052240e43c26b582c9bab4e36e4026757cd2a6) **feat: integrate VLibras accessibility widget for Brazilian Sign Language** — _Pato (new acc)_ (2026-09-11)
+          - [`abdde22`](https://github.com/havaianasdestruido/OdontoAura/commit/abdde22a3088c72c5c8872f04d16b192b068eae2) **fix(backend): add Vercel rewrites and enhance CORS configuration (#46)** — _morelloettore_ (2026-09-10)
+          - [`427bbcc`](https://github.com/havaianasdestruido/OdontoAura/commit/427bbcc42e11f7f9e2b351b25c34e2b2bf768a42) **Connect frontend Vercel app to backend Vercel API (#45)** — _morelloettore_ (2026-09-10)
           - [`26be9e5`](https://github.com/havaianasdestruido/OdontoAura/commit/26be9e5ab46f38790eb39cc9d569b70982a9d830) **deploy: configure Supabase and Vercel serverless API** — _aluno_ (2026-09-10)
           - [`bacbbc2`](https://github.com/havaianasdestruido/OdontoAura/commit/bacbbc2927bada8e9ddf7fa3b9b39b6431a89b18) **chore: document follow-ups with TODO comments** — _havaianasdestruido_ (2026-09-10)
           - [`d9bd430`](https://github.com/havaianasdestruido/OdontoAura/commit/d9bd4305bdbc7b79d7cdc683c5f56cd95fb2c274) **test: add strict coverage for auth/doctors/medical-records and RQ page** — _havaianasdestruido_ (2026-09-10)
@@ -2187,10 +2443,10 @@
           - [`943610b`](https://github.com/havaianasdestruido/OdontoAura/commit/943610b8dae04997e5a1490a28cf535a3a8ab5b0) **chore(deps): bump amannn/action-semantic-pull-request from 5 to 6 (#5)** — _dependabot[bot]_ (2026-09-10)
           - [`611e400`](https://github.com/havaianasdestruido/OdontoAura/commit/611e4009d3f7977c9ee242fd96b041cfc12baddc) **chore(deps): bump actions/setup-node from 4 to 7 (#4)** — _dependabot[bot]_ (2026-09-10)
           - [`8e897c8`](https://github.com/havaianasdestruido/OdontoAura/commit/8e897c84266d092482c2d38b57739c7465d1e436) **chore(deps): bump pnpm/action-setup from 4 to 6 (#2)** — _dependabot[bot]_ (2026-09-10)
-          - [`3e8a9fa`](https://github.com/havaianasdestruido/OdontoAura/commit/3e8a9fa0e765f651d7aaeaecba707101b97e37e0) **chore(deps): bump actions/checkout from 4 to 7 (#3)** — _dependabot[bot]_ (2026-09-10)
-          - [`ecc18ef`](https://github.com/havaianasdestruido/OdontoAura/commit/ecc18ef091c516034e68cf4269c8662afcdf306f) **docs: list local demo users and credentials in README** — _havaianasdestruido_ (2026-09-10)
-          - [`cc699cd`](https://github.com/havaianasdestruido/OdontoAura/commit/cc699cd34856072eb344be526d595f5e2a92b834) **Merge pull request #44 from havaianasdestruido/integration/fix-build-err** — _Pato (new acc)_ (2026-09-10)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/OdontoAura/commits/main/?after=1e665951035a6aee6a45cd7ae999678bb569f8e9+34)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/OdontoAura/commits/fix/pnpm-action-setup-version-mismatch-5954893924324974857/?after=a8b907a756ca8a5aebae50d96aecd6bc94327d45+34)
+          - [`5642f8d`](https://github.com/havaianasdestruido/OdontoAura/commit/5642f8df5632e9c00569ce588115faf8a10f6e6c) **Create LICENSE** — _Pato (new acc)_ (2026-09-05)
+          - [`1c25e44`](https://github.com/havaianasdestruido/OdontoAura/commit/1c25e445f5761f0198a787c4ebe7e5126ea4dbb4) **renomeado denovo pra OdontoAura, a gente ainda precisa discutir se vai o** — _Pato (new acc)_ (2026-09-05)
+          - [`1e66595`](https://github.com/havaianasdestruido/OdontoAura/commit/1e665951035a6aee6a45cd7ae999678bb569f8e9) **chore(deps-dev): bump jest and @types/jest (#19)** — _dependabot[bot]_ (2026-09-04)
           - [`5ee712f`](https://github.com/havaianasdestruido/OdontoAura/commit/5ee712f6a451b8081e1db8401bab1e836a202282) **chore(deps-dev): bump typescript from 5.9.3 to 7.0.2 (#7)** — _dependabot[bot]_ (2026-09-04)
           - [`1f987d9`](https://github.com/havaianasdestruido/OdontoAura/commit/1f987d974a29def21e7947acacaef0bdcac1dc88) **chore(deps-dev): bump @nestjs/cli from 10.4.9 to 12.0.0 (#20)** — _dependabot[bot]_ (2026-09-04)
           - [`91421b2`](https://github.com/havaianasdestruido/OdontoAura/commit/91421b2c1dfd2e5c761207957b6e2235b26c862a) **chore(deps-dev): bump eslint-config-next from 14.2.35 to 16.3.4 (#12)** — _dependabot[bot]_ (2026-09-04)
@@ -2198,10 +2454,10 @@
           - [`f100eeb`](https://github.com/havaianasdestruido/OdontoAura/commit/f100eebdbee57d7efaa322ffa9112328ba5fd43c) **chore(deps): bump @nestjs/core from 11.2.3 to 12.0.1 (#15)** — _dependabot[bot]_ (2026-09-04)
           - [`59d1520`](https://github.com/havaianasdestruido/OdontoAura/commit/59d1520c95677e35bd3c5a86a465ed5419f2e0f1) **chore(deps): bump date-fns from 3.6.0 to 4.4.0 (#17)** — _dependabot[bot]_ (2026-09-04)
           - [`47ae665`](https://github.com/havaianasdestruido/OdontoAura/commit/47ae66540a9bb1b246720a92404f728abb04adb5) **chore(deps): bump @nestjs/config from 3.3.0 to 12.0.0 (#8)** — _dependabot[bot]_ (2026-09-04)
-          - [`dae80d8`](https://github.com/havaianasdestruido/OdontoAura/commit/dae80d80a62023e4db0d10e10ca25823cbc5b218) **chore(deps-dev): bump @testing-library/jest-dom from 6.10.0 to 7.0.1 (#1** — _dependabot[bot]_ (2026-09-04)
-          - [`95957c0`](https://github.com/havaianasdestruido/OdontoAura/commit/95957c07a2214bf0521433f5e1107acc0616b73d) **chore(deps): bump zod from 3.25.76 to 4.5.4 (#16)** — _dependabot[bot]_ (2026-09-04)
-          - [`ade6b6f`](https://github.com/havaianasdestruido/OdontoAura/commit/ade6b6fd0c5368ee11dcedef9b64d2043ccd2e13) **chore(deps): bump the npm_and_yarn group across 1 directory with 2 updat** — _dependabot[bot]_ (2026-09-04)
-        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/OdontoAura/commits/main/?after=a0ffd24c0f94617542869d492120f6ed0b8b3892+34)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/OdontoAura/commits/fix/pnpm-action-setup-version-mismatch-5954893924324974857/?after=9b747d613a46b8d5fddff68700de7e4ba118ea78+34)
+          - [`be18d21`](https://github.com/havaianasdestruido/OdontoAura/commit/be18d2198710288c4a7ba580b9fcc13b1ecd026c) **feat(backend): add appointments module with status lifecycle** — _havaianasdestruido_ (2026-09-04)
+          - [`2a10663`](https://github.com/havaianasdestruido/OdontoAura/commit/2a1066375cfbe21db928ed6cadf3f8de7e62acea) **feat(backend): add doctors and specialties modules** — _havaianasdestruido_ (2026-09-04)
+          - [`a0ffd24`](https://github.com/havaianasdestruido/OdontoAura/commit/a0ffd24c0f94617542869d492120f6ed0b8b3892) **feat(backend): add users module with CRUD and RBAC guards** — _havaianasdestruido_ (2026-09-04)
           - [`ea69511`](https://github.com/havaianasdestruido/OdontoAura/commit/ea695113248d6464409d1feff87737ccf4f2ceda) **feat(backend): add auth module with JWT, guards, RBAC, register/login** — _havaianasdestruido_ (2026-09-04)
           - [`6e6f332`](https://github.com/havaianasdestruido/OdontoAura/commit/6e6f3329c10bb48dfe5a142848b97acb12f89672) **feat(backend): scaffold NestJS app with Fastify, Swagger, health check** — _havaianasdestruido_ (2026-09-04)
           - [`642c3be`](https://github.com/havaianasdestruido/OdontoAura/commit/642c3be6cd7920d211a4bfb200983715f4a6bdc3) **feat(shared): add Prisma schema with all domain entities** — _havaianasdestruido_ (2026-09-04)
@@ -2209,18 +2465,38 @@
           - [`4e3fab6`](https://github.com/havaianasdestruido/OdontoAura/commit/4e3fab69c58863bdaf091fcb8deba0b7e23e38cd) **Rename project from OdontoAura to Medcn** — _morelloettore_ (2026-09-04)
           - [`0bb7690`](https://github.com/havaianasdestruido/OdontoAura/commit/0bb76907a6ac3f223c3d3e5d41a5353edd48b19c) **Merge pull request #1 from havaianasdestruido/jules-15954618156849110106** — _Pato (new acc)_ (2026-09-03)
           - [`617c663`](https://github.com/havaianasdestruido/OdontoAura/commit/617c663a8b0cd3be84d14867f5c32322196b3f69) **docs: adicionar documentacao da stack tecnologica em docs/stack/ e atual** — _google-labs-jules[bot]_ (2026-09-03)
-          - [`9851cc8`](https://github.com/havaianasdestruido/OdontoAura/commit/9851cc889e34929a3969f8afe37f58370df5fe67) **Create README.md** — _Pato (new acc)_ (2026-09-03)
+      - _...and 4 more — [View all branches](https://github.com/havaianasdestruido/OdontoAura/branches)_
 
     - ### 🐛 Issues
       - **Open Issues** (0)
       - **Closed Issues** (0)
 
     - ### 🔀 Pull Requests
-      - **Open PRs** (1)
-        - 🟢 Open [#51 chore(deps): bump actions/dependency-review-action from 4 to](https://github.com/havaianasdestruido/OdontoAura/pull/51) — _dependabot[bot]_ (2026-09-14) `dependabot/github_actions/actions/dependency-review-action-5` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`ca21f08`](https://github.com/havaianasdestruido/OdontoAura/commit/ca21f08d3da8603d9ff00218d6b31b9f47e9718e) chore(deps): bump actions/dependency-review-action from 4 to
+      - **Open PRs** (2)
+        - 🟢 Open [#70 Jules 426731085996982659 7bcf478f](https://github.com/havaianasdestruido/OdontoAura/pull/70) — _havaianasdestruido_ (2026-09-15) `jules-426731085996982659-7bcf478f` → `main`
+          - 📝 3 commit(s) in this PR
+            - [`504f861`](https://github.com/havaianasdestruido/OdontoAura/commit/504f8611c19fda7902be3cf4b70a61d55ec937d9) feat(frontend): configure Next.js static export & GitHub Pag
+            - [`f24ea0f`](https://github.com/havaianasdestruido/OdontoAura/commit/f24ea0f13368e509e62c642c7dd91577f0869ec0) fix(ci): update pnpm action version and configure GitHub Pag
+            - [`d0f81e0`](https://github.com/havaianasdestruido/OdontoAura/commit/d0f81e0f8ad022761a38077e31ae985e1d2946dc) Merge branch 'main' into jules-426731085996982659-7bcf478f
+        - 🟢 Open [#65 Host frontend on GitHub Pages](https://github.com/havaianasdestruido/OdontoAura/pull/65) — _havaianasdestruido_ (2026-09-15) `host-frontend-github-pages-7416436364491725714` → `main`
+          - 📝 3 commit(s) in this PR
+            - [`47a83c3`](https://github.com/havaianasdestruido/OdontoAura/commit/47a83c3240b24f115e49eb3eaf5df4ffc5004fe1) Host frontend on GitHub Pages with Next.js static export and
+            - [`c78f62e`](https://github.com/havaianasdestruido/OdontoAura/commit/c78f62eaf5eb36f3ce1762a5bffea51e0c47dddb) Host frontend on GitHub Pages with Next.js static export and
+            - [`59802b8`](https://github.com/havaianasdestruido/OdontoAura/commit/59802b85c195337f55aaa5c68ceee7609b0334d7) Host frontend on GitHub Pages with Next.js static export and
       - **Closed PRs** (20)
+        - ✅ Merged [#69 fix(frontend): update login navigation to redirect cleanly t](https://github.com/havaianasdestruido/OdontoAura/pull/69) — _havaianasdestruido_ (2026-09-15) `fix-login-redirect-flow-1754381547150028108` → `main`
+          - 📝 2 commit(s) in this PR
+            - [`cf7ab84`](https://github.com/havaianasdestruido/OdontoAura/commit/cf7ab842a3feaf21c6f6ceef3d39b7d475244156) I have updated the frontend login flow to cleanly redirect u
+            - [`8e395c8`](https://github.com/havaianasdestruido/OdontoAura/commit/8e395c88961ba949ce9eeeaf7d2456815c4d0b65) fix(frontend): add unit tests for login page and clean up da
+        - ✅ Merged [#68 ci: update Node.js version to 22 across GitHub workflows](https://github.com/havaianasdestruido/OdontoAura/pull/68) — _morelloettore_ (2026-09-15) `ci/update-node-22-7424374546274977733` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`65a2a75`](https://github.com/havaianasdestruido/OdontoAura/commit/65a2a759b26c100adbea42f3fe6c9f8909bf6249) ci: update Node.js version to 22
+        - ✅ Merged [#67 fix(ci): remove explicit pnpm version from action-setup](https://github.com/havaianasdestruido/OdontoAura/pull/67) — _havaianasdestruido_ (2026-09-15) `fix/pnpm-action-setup-version-mismatch-5954893924324974857` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`2b4d530`](https://github.com/havaianasdestruido/OdontoAura/commit/2b4d5301d3ea4cd3c33c24202f2435f5b9cce931) fix(ci): remove explicit pnpm version from action-setup
+        - ✅ Merged [#66 Configure Frontend for GitHub Pages Deployment](https://github.com/havaianasdestruido/OdontoAura/pull/66) — _havaianasdestruido_ (2026-09-15) `jules-426731085996982659-7bcf478f` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`504f861`](https://github.com/havaianasdestruido/OdontoAura/commit/504f8611c19fda7902be3cf4b70a61d55ec937d9) feat(frontend): configure Next.js static export & GitHub Pag
         - ✅ Merged [#64 chore(deps): bump lucide-react from 0.400.0 to 1.45.0](https://github.com/havaianasdestruido/OdontoAura/pull/64) — _dependabot[bot]_ (2026-09-14) `dependabot/npm_and_yarn/lucide-react-1.45.0` → `main`
           - 📝 1 commit(s) in this PR
             - [`f46419f`](https://github.com/havaianasdestruido/OdontoAura/commit/f46419fc828ab23cbfad74c56309b4b5c5c12d60) chore(deps): bump lucide-react from 0.400.0 to 1.45.0
@@ -2260,27 +2536,15 @@
         - ✅ Merged [#52 chore(deps): bump actions/github-script from 6 to 9](https://github.com/havaianasdestruido/OdontoAura/pull/52) — _dependabot[bot]_ (2026-09-14) `dependabot/github_actions/actions/github-script-9` → `main`
           - 📝 1 commit(s) in this PR
             - [`d937d12`](https://github.com/havaianasdestruido/OdontoAura/commit/d937d12d845d79f0e3ef6274c919993c440bd606) chore(deps): bump actions/github-script from 6 to 9
+        - ✅ Merged [#51 chore(deps): bump actions/dependency-review-action from 4 to](https://github.com/havaianasdestruido/OdontoAura/pull/51) — _dependabot[bot]_ (2026-09-14) `dependabot/github_actions/actions/dependency-review-action-5` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`ca21f08`](https://github.com/havaianasdestruido/OdontoAura/commit/ca21f08d3da8603d9ff00218d6b31b9f47e9718e) chore(deps): bump actions/dependency-review-action from 4 to
         - ✅ Merged [#50 chore(deps): bump actions/labeler from 4 to 7](https://github.com/havaianasdestruido/OdontoAura/pull/50) — _dependabot[bot]_ (2026-09-14) `dependabot/github_actions/actions/labeler-7` → `main`
           - 📝 1 commit(s) in this PR
             - [`d2a93ee`](https://github.com/havaianasdestruido/OdontoAura/commit/d2a93ee250cb39b223528e4a69665e4dc5db31ab) chore(deps): bump actions/labeler from 4 to 7
         - ✅ Merged [#49 chore(deps): bump actions/checkout from 4 to 7](https://github.com/havaianasdestruido/OdontoAura/pull/49) — _dependabot[bot]_ (2026-09-14) `dependabot/github_actions/actions/checkout-7` → `main`
           - 📝 1 commit(s) in this PR
             - [`36171de`](https://github.com/havaianasdestruido/OdontoAura/commit/36171de0ae0e8415386888655c0ec4a8f7494a59) chore(deps): bump actions/checkout from 4 to 7
-        - ✅ Merged [#48 chore(deps): bump esbuild from 0.24.2 to 0.28.1 in the npm_a](https://github.com/havaianasdestruido/OdontoAura/pull/48) — _dependabot[bot]_ (2026-09-12) `dependabot/npm_and_yarn/npm_and_yarn-53cbaf2a5b` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`f2055f7`](https://github.com/havaianasdestruido/OdontoAura/commit/f2055f7ac49b27abbe2a3d48cdeed672b44e8f88) chore(deps): bump esbuild in the npm_and_yarn group across 1
-        - ✅ Merged [#47 chore(deps): bump esbuild from 0.24.2 to 0.28.1 in /apps/bac](https://github.com/havaianasdestruido/OdontoAura/pull/47) — _dependabot[bot]_ (2026-09-12) `dependabot/npm_and_yarn/apps/backend/npm_and_yarn-53cbaf2a5b` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`2c4f723`](https://github.com/havaianasdestruido/OdontoAura/commit/2c4f7235d88d0acf0de59b44a684d7e12dc71ab6) chore(deps): bump esbuild
-        - ✅ Merged [#46 fix(backend): add Vercel rewrites and enhance CORS configura](https://github.com/havaianasdestruido/OdontoAura/pull/46) — _morelloettore_ (2026-09-10) `fix/har-cors-vercel-routing-6506941725452652626` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`8da97f6`](https://github.com/havaianasdestruido/OdontoAura/commit/8da97f6cfee2c446217278356f3f789141384c7c) fix(backend): add Vercel rewrites and enhance CORS configura
-        - ✅ Merged [#45 Connect odonto-aura-frontend.vercel.app to odonto-aura-backe](https://github.com/havaianasdestruido/OdontoAura/pull/45) — _morelloettore_ (2026-09-10) `feat/connect-frontend-backend-vercel-2197773701412789504` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`b94816c`](https://github.com/havaianasdestruido/OdontoAura/commit/b94816c657fd627945fd587ba7742f018c606ee9) Connect frontend Vercel app to backend Vercel API
-        - ✅ Merged [#44 chore: realign main with validated stack (Prisma/Postgres, R](https://github.com/havaianasdestruido/OdontoAura/pull/44) — _havaianasdestruido_ (2026-09-10) `integration/fix-build-errors` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`05ada61`](https://github.com/havaianasdestruido/OdontoAura/commit/05ada61013fc0494bf4eb3447ae15c04e9a5f1be) chore: realign main with validated stack (Prisma/Postgres, R
 
     - ### 🍴 Forks (0)
 
@@ -2289,17 +2553,17 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (4)
-      - [@dependabot[bot]](https://github.com/apps/dependabot) — 54 commit(s)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 54 commit(s)
-      - [@morelloettore](https://github.com/morelloettore) — 3 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 61 commit(s)
+      - [@dependabot[bot]](https://github.com/apps/dependabot) — 55 commit(s)
+      - [@morelloettore](https://github.com/morelloettore) — 4 commit(s)
       - [@google-labs-jules[bot]](https://github.com/apps/google-labs-jules) — 1 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `TypeScript` — 97.5% (224,865 bytes)
+      - `TypeScript` — 97.5% (227,138 bytes)
       - `PowerShell` — 1.7% (3,951 bytes)
-      - `JavaScript` — 0.6% (1,476 bytes)
+      - `JavaScript` — 0.7% (1,536 bytes)
       - `CSS` — 0.2% (377 bytes)
 
 ---
@@ -2563,30 +2827,46 @@
 
 - ## [R2K16](https://github.com/havaianasdestruido/R2K16) `🍴 Fork | 🗃️ Template`
   > 2K16 RBLX
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C++ | 📅 Created: 2026-09-06 | 🔄 Updated: 2026-09-13
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 1 open issues | 💻 C++ | 📅 Created: 2026-09-06 | 🔄 Updated: 2026-09-15
 
   - 🔗 Forked from: [Artifaqt/ROBLOX2016](https://github.com/Artifaqt/ROBLOX2016)
-    - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/R2K16/tree/main) _(default)_ — HEAD: `302556a`
-        - 📋 [All Commits](https://github.com/havaianasdestruido/R2K16/commits/main)
-        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/R2K16/commits/main)
+    - ### 🌿 Branches (2)
+      - [`dependabot/npm_and_yarn/RobloxHybrid/docs/jsdoc/npm_and_yarn-b258cd4ece`](https://github.com/havaianasdestruido/R2K16/tree/dependabot/npm_and_yarn/RobloxHybrid/docs/jsdoc/npm_and_yarn-b258cd4ece) — HEAD: `7868b75`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/R2K16/commits/dependabot/npm_and_yarn/RobloxHybrid/docs/jsdoc/npm_and_yarn-b258cd4ece)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/R2K16/commits/dependabot/npm_and_yarn/RobloxHybrid/docs/jsdoc/npm_and_yarn-b258cd4ece)
+          - [`7868b75`](https://github.com/havaianasdestruido/R2K16/commit/7868b756bd7dc1cdcfe5292e0025046d640bdede) **Bump the npm_and_yarn group across 2 directories with 3 updates** — _dependabot[bot]_ (2026-09-15)
+          - [`65d06ee`](https://github.com/havaianasdestruido/R2K16/commit/65d06ee027294a5aa256b813f5fe3377652e2f17) **added manual triggering** — _Pato (new acc)_ (2026-09-15)
+          - [`e74b472`](https://github.com/havaianasdestruido/R2K16/commit/e74b472d869c60d9af74a66d3edccd89c0afdef7) **Create build.yml** — _Pato (new acc)_ (2026-09-15)
+          - [`e706a09`](https://github.com/havaianasdestruido/R2K16/commit/e706a093ddf010145f8317123e0afc0447e71cba) **Update README.md** — _Pato (new acc)_ (2026-09-15)
+          - [`237f066`](https://github.com/havaianasdestruido/R2K16/commit/237f066777dad2095b63ad51382b3596463edfb8) **new TODOs** — _Pato (new acc)_ (2026-09-15)
           - [`302556a`](https://github.com/havaianasdestruido/R2K16/commit/302556a7f7cd232674fcabb2f6c73475c5ad8bbd) **chore: add GitHub labeler configuration for automatic PR labeling** — _Pato (new acc)_ (2026-09-13)
           - [`27cbbb4`](https://github.com/havaianasdestruido/R2K16/commit/27cbbb4e326b3451f6f207cc91ac16ac08d3dbcc) **Create stale.yml** — _Pato (new acc)_ (2026-09-13)
           - [`ec99b16`](https://github.com/havaianasdestruido/R2K16/commit/ec99b167270b50855f4850f4652162f3b9be9865) **Create label.yml** — _Pato (new acc)_ (2026-09-13)
           - [`5f5a3e1`](https://github.com/havaianasdestruido/R2K16/commit/5f5a3e17aed3a1886067ca025174e52fb49a61eb) **my changes and additions to this fork is under Apache 2.0** — _Pato (new acc)_ (2026-09-06)
           - [`a46b938`](https://github.com/havaianasdestruido/R2K16/commit/a46b93873276437d54acfd0d4a0d31d6ed2ae18b) **new stuff on TODO** — _Pato (new acc)_ (2026-09-06)
-          - [`4e95345`](https://github.com/havaianasdestruido/R2K16/commit/4e953450d337a8b1f2bf1157d50c3d401d97a373) **Update README.md** — _Pato (new acc)_ (2026-09-06)
-          - [`e0cfac5`](https://github.com/havaianasdestruido/R2K16/commit/e0cfac59fea3a5b986843e65b0fda286e439f9fc) **Update README.md** — _UltimateQuack_ (2025-01-30)
-          - [`17354ca`](https://github.com/havaianasdestruido/R2K16/commit/17354cab616058176d5f31ba123d741d7f725ca6) **\[ImgBot\] Optimized images** — _UltimateQuack_ (2025-01-30)
-          - [`9a12a88`](https://github.com/havaianasdestruido/R2K16/commit/9a12a88b40047176acfaf5fe04a46bd993433f55) **Update README.md** — _UltimateQuack_ (2025-01-29)
-          - [`332b61a`](https://github.com/havaianasdestruido/R2K16/commit/332b61a14b369472a21643bd54a1e98668169a81) **Delete .github/workflows/jekyll-gh-pages.yml** — _UltimateQuack_ (2024-12-20)
+      - [`main`](https://github.com/havaianasdestruido/R2K16/tree/main) _(default)_ — HEAD: `412ab49`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/R2K16/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/R2K16/commits/main)
+          - [`412ab49`](https://github.com/havaianasdestruido/R2K16/commit/412ab4905bf3e5c8315eabaa03698485535d5973) **Create scorecard.yml** — _Pato (new acc)_ (2026-09-15)
+          - [`bd22abb`](https://github.com/havaianasdestruido/R2K16/commit/bd22abb13f05c8741c5b5a9168d7e5f9d58eb831) **Create trivy.yml** — _Pato (new acc)_ (2026-09-15)
+          - [`46bba0b`](https://github.com/havaianasdestruido/R2K16/commit/46bba0bbad6c4729a397e70a7ead76dfedd75326) **Create semgrep.yml** — _Pato (new acc)_ (2026-09-15)
+          - [`864de3b`](https://github.com/havaianasdestruido/R2K16/commit/864de3b3c6acbc318ca23c1b96ae73232a33a4fb) **Create osv-scanner.yml** — _Pato (new acc)_ (2026-09-15)
+          - [`eadb785`](https://github.com/havaianasdestruido/R2K16/commit/eadb785b1eb98eedcdd7255de3d0f4d602a47289) **Create msvc.yml** — _Pato (new acc)_ (2026-09-15)
+          - [`1248551`](https://github.com/havaianasdestruido/R2K16/commit/12485510185848deae9179973b0df3c9ef5f6cc3) **Delete .github/workflows/build.yml** — _Pato (new acc)_ (2026-09-15)
+          - [`65d06ee`](https://github.com/havaianasdestruido/R2K16/commit/65d06ee027294a5aa256b813f5fe3377652e2f17) **added manual triggering** — _Pato (new acc)_ (2026-09-15)
+          - [`e74b472`](https://github.com/havaianasdestruido/R2K16/commit/e74b472d869c60d9af74a66d3edccd89c0afdef7) **Create build.yml** — _Pato (new acc)_ (2026-09-15)
+          - [`e706a09`](https://github.com/havaianasdestruido/R2K16/commit/e706a093ddf010145f8317123e0afc0447e71cba) **Update README.md** — _Pato (new acc)_ (2026-09-15)
+          - [`237f066`](https://github.com/havaianasdestruido/R2K16/commit/237f066777dad2095b63ad51382b3596463edfb8) **new TODOs** — _Pato (new acc)_ (2026-09-15)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
       - **Closed Issues** (0)
 
     - ### 🔀 Pull Requests
-      - **Open PRs** (0)
+      - **Open PRs** (1)
+        - 🟢 Open [#1 Bump the npm_and_yarn group across 2 directories with 3 upda](https://github.com/havaianasdestruido/R2K16/pull/1) — _dependabot[bot]_ (2026-09-15) `dependabot/npm_and_yarn/RobloxHybrid/docs/jsdoc/npm_and_yarn-b258cd4ece` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`7868b75`](https://github.com/havaianasdestruido/R2K16/commit/7868b756bd7dc1cdcfe5292e0025046d640bdede) Bump the npm_and_yarn group across 2 directories with 3 upda
       - **Closed PRs** (0)
 
     - ### 🍴 Forks (0)
@@ -2596,7 +2876,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 6 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 16 commit(s)
       - [@ImgBotApp](https://github.com/ImgBotApp) — 1 commit(s)
 
     - ### 🏷️ Releases (0)
@@ -3540,12 +3820,14 @@
 
 ## 👤 Social Graph
 
-### Followers (4)
+### Followers (5)
 
 - [@ishandutta2007](https://github.com/ishandutta2007)
-  - 📦 3069 public repos | 👥 follows 32200 people
+  - 📦 3087 public repos | 👥 follows 32330 people
 - [@moxie-coder](https://github.com/moxie-coder)
-  - 📦 221 public repos | 👥 follows 1645 people
+  - 📦 221 public repos | 👥 follows 1644 people
+- [@Okafor-twd](https://github.com/Okafor-twd)
+  - 📦 5 public repos | 👥 follows 3 people
 - [@cavaleiro-olimpioo](https://github.com/cavaleiro-olimpioo)
   - 📦 25 public repos | 👥 follows 9 people
 - [@zuzu181192-z13z](https://github.com/zuzu181192-z13z)
@@ -3563,8 +3845,9 @@
 - [@MiniMax-AI](https://github.com/MiniMax-AI)
 - [@tamandua2123123123](https://github.com/tamandua2123123123)
 
-### ⭐ Repos Starred by @havaianasdestruido (55)
+### ⭐ Repos Starred by @havaianasdestruido (56)
 
+- [dbrizov/NaughtyAttributesGD](https://github.com/dbrizov/NaughtyAttributesGD) — _NaughtyAttributes for Godot_
 - [havaianasdestruido/sitemapping](https://github.com/havaianasdestruido/sitemapping) — _workflow to make me get indexed on some stuff. aka SEO stuff_
 - [libriscv/godot-jit](https://github.com/libriscv/godot-jit) — _UnsafeGDScript based on Godot Sandbox SafeGDScript is 1.5-10_
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) — _7.4 billion tokens per month. 34 free LLM providers. 635 fre_
@@ -3622,4 +3905,4 @@
 - [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit) — _iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objec_
 
 ---
-_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-15 03:53:22 UTC_
+_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-16 03:50:03 UTC_
