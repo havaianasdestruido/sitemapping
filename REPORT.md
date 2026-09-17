@@ -4,8 +4,8 @@
 
 > i lost my old acc so please follow this one instead
 
-**Generated:** 2026-09-16 03:50:03 UTC
-**Public Repositories:** 56
+**Generated:** 2026-09-17 03:55:45 UTC
+**Public Repositories:** 57
 
 ---
 
@@ -90,12 +90,13 @@
 
 - ## [sitemapping](https://github.com/havaianasdestruido/sitemapping) `🗃️ Template`
   > workflow to make me get indexed on some stuff. aka SEO stuff
-  > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-15
+  > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-16
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `518e02b`
+      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `1017217`
         - 📋 [All Commits](https://github.com/havaianasdestruido/sitemapping/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/sitemapping/commits/main)
+          - [`1017217`](https://github.com/havaianasdestruido/sitemapping/commit/1017217c1004225c81bce86fd0c950cc45a407b0) **📊 Update repository report \[2026-09-16 03:52:54 UTC\]** — _GitHub Action Bot_ (2026-09-16)
           - [`518e02b`](https://github.com/havaianasdestruido/sitemapping/commit/518e02b945a9029fd85e3cedcbb1353d8b93587b) **📊 Update repository report \[2026-09-15 03:58:06 UTC\]** — _GitHub Action Bot_ (2026-09-15)
           - [`fbc53b5`](https://github.com/havaianasdestruido/sitemapping/commit/fbc53b5c264ad02c50fb01e8a22ada50ea818e4b) **📊 Update repository report \[2026-09-14 03:56:10 UTC\]** — _GitHub Action Bot_ (2026-09-14)
           - [`8a1dfa5`](https://github.com/havaianasdestruido/sitemapping/commit/8a1dfa511cb32299f8904cc067d3a506bb6a3b04) **now it runs daily** — _Pato (new acc)_ (2026-09-13)
@@ -105,7 +106,6 @@
           - [`fb926d4`](https://github.com/havaianasdestruido/sitemapping/commit/fb926d484c27d6c8ab04286cb761505a70f88b48) **jekyll workflow** — _Pato (new acc)_ (2026-09-13)
           - [`5b9d33e`](https://github.com/havaianasdestruido/sitemapping/commit/5b9d33e8dab6999935cda632f67c1caf515d9458) **fixed readme** — _Pato (new acc)_ (2026-09-13)
           - [`a042f20`](https://github.com/havaianasdestruido/sitemapping/commit/a042f201a2496fb53c9e2cf09809f837cb81b29a) **Create README.md** — _Pato (new acc)_ (2026-09-13)
-          - [`7490501`](https://github.com/havaianasdestruido/sitemapping/commit/74905013cec52ff6f220f129c172f9d7a5a0b006) **📊 Update repository report \[2026-09-13 17:31:21 UTC\]** — _GitHub Action Bot_ (2026-09-13)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -124,7 +124,7 @@
 
     - ### 👥 Contributors (2)
       - [@havaianasdestruido](https://github.com/havaianasdestruido) — 9 commit(s)
-      - [@actions-user](https://github.com/actions-user) — 3 commit(s)
+      - [@actions-user](https://github.com/actions-user) — 4 commit(s)
 
     - ### 🏷️ Releases (1)
       - [First release](https://github.com/havaianasdestruido/sitemapping/releases/tag/1.0) — 2026-09-15
@@ -613,7 +613,7 @@
 
 - ## [FNF-Phoenix-Engine](https://github.com/havaianasdestruido/FNF-Phoenix-Engine) `🍴 Fork | 🗃️ Template`
   > Phoenix Engine is an enhanced fork of JSE, which in turn is a fork of Psych but 
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 1 open issues | 💻 Haxe | 📅 Created: 2026-04-23 | 🔄 Updated: 2026-09-13
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 1 open issues | 💻 Haxe | 📅 Created: 2026-04-23 | 🔄 Updated: 2026-09-16
 
   - 🔗 Forked from: [JordanSantiagoYT/FNF-JS-Engine](https://github.com/JordanSantiagoYT/FNF-JS-Engine)
     - ### 🌿 Branches (10)
@@ -994,8 +994,8 @@
       - [@JordanSantiagoYT](https://github.com/JordanSantiagoYT) — 1227 commit(s)
       - [@moxie-coder](https://github.com/moxie-coder) — 487 commit(s)
       - [@ShadowMario](https://github.com/ShadowMario) — 363 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 126 commit(s)
       - [@TheStinkern](https://github.com/TheStinkern) — 122 commit(s)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 122 commit(s)
       - [@imavie](https://github.com/imavie) — 100 commit(s)
       - [@bbpanzu](https://github.com/bbpanzu) — 84 commit(s)
       - [@HomuHomu833](https://github.com/HomuHomu833) — 46 commit(s)
@@ -1026,7 +1026,7 @@
       - [First release hell yeah](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/releases/tag/pre-pre-pre-alpha) — 2026-09-15
 
     - ### 💻 Languages
-      - `Haxe` — 98.7% (2,041,302 bytes)
+      - `Haxe` — 98.7% (2,041,893 bytes)
       - `Python` — 0.5% (9,854 bytes)
       - `PowerShell` — 0.3% (6,419 bytes)
       - `Batchfile` — 0.2% (4,125 bytes)
@@ -1475,12 +1475,15 @@
 
 - ## [hemorroidabot](https://github.com/havaianasdestruido/hemorroidabot) `🗃️ Template`
   > No description
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 JavaScript | 📅 Created: 2026-09-01 | 🔄 Updated: 2026-09-13
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 JavaScript | 📅 Created: 2026-09-01 | 🔄 Updated: 2026-09-16
 
     - ### 🌿 Branches (1)
-      - [`master`](https://github.com/havaianasdestruido/hemorroidabot/tree/master) _(default)_ — HEAD: `1614e70`
+      - [`master`](https://github.com/havaianasdestruido/hemorroidabot/tree/master) _(default)_ — HEAD: `280e973`
         - 📋 [All Commits](https://github.com/havaianasdestruido/hemorroidabot/commits/master)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/hemorroidabot/commits/master)
+          - [`280e973`](https://github.com/havaianasdestruido/hemorroidabot/commit/280e97349a21d9be5ec12f8f47f34a0a7c1ed593) **feat(tools): toggle para APIs mortas removidas da UI (off por padrao) co** — _havaianasdestruido_ (2026-09-16)
+          - [`7f7d9a2`](https://github.com/havaianasdestruido/hemorroidabot/commit/7f7d9a28b9fe988041f560c7b884c31c7e7f55e1) **test(live): imprime corpo bruto das APIs com --raw para debugar mortas** — _havaianasdestruido_ (2026-09-16)
+          - [`f146601`](https://github.com/havaianasdestruido/hemorroidabot/commit/f146601fd08bdbf0b8653e43426be6484017d32d) **ci(pages): deploy do bot no GitHub Pages com gate de testes** — _havaianasdestruido_ (2026-09-16)
           - [`1614e70`](https://github.com/havaianasdestruido/hemorroidabot/commit/1614e70eaa27729d2fcdbd4b7c9c6cabf5879235) **Add labeler configuration for automatic PR labeling** — _Pato (new acc)_ (2026-09-13)
           - [`6dbc414`](https://github.com/havaianasdestruido/hemorroidabot/commit/6dbc4147909c20e319c5cc0c1eb2bf98b92e56dc) **Create label.yml** — _Pato (new acc)_ (2026-09-13)
           - [`e6e6494`](https://github.com/havaianasdestruido/hemorroidabot/commit/e6e64947d81f102fa4901339670adbfb532b7e92) **feat(tools): adiciona 15 APIs publicas keyless (fishwatch, dogfacts, ani** — _havaianasdestruido_ (2026-09-13)
@@ -1488,9 +1491,6 @@
           - [`57cb706`](https://github.com/havaianasdestruido/hemorroidabot/commit/57cb706046a511357fe9209626a4191061c65286) **feat(tools): add wttr, coingecko, lastfm, qrcode tools** — _havaianasdestruido_ (2026-09-13)
           - [`3ed02fb`](https://github.com/havaianasdestruido/hemorroidabot/commit/3ed02fb241e26d7dbcfe264ea2d54b51ee4e2fe4) **feat(ui): toolchain visual com favicons e chain de chamadas** — _havaianasdestruido_ (2026-09-05)
           - [`3b920bd`](https://github.com/havaianasdestruido/hemorroidabot/commit/3b920bd4c4209cff24c7ad575227d5b2be17d510) **refactor: mover UI/JS do browser para src/** — _havaianasdestruido_ (2026-09-05)
-          - [`0d8953c`](https://github.com/havaianasdestruido/hemorroidabot/commit/0d8953ccb1c6bd8795ce12340eda5abe9347d6da) **feat(ui): render external API tools in grid + live API suite** — _havaianasdestruido_ (2026-09-05)
-          - [`6ff12c0`](https://github.com/havaianasdestruido/hemorroidabot/commit/6ff12c0cf7e9949eb57de0df4c3be1c5d87cf021) **feat(tools): add 14 keyless API tools + central merge** — _havaianasdestruido_ (2026-09-05)
-          - [`3c24029`](https://github.com/havaianasdestruido/hemorroidabot/commit/3c2402943f14ab4166b7f326d229394aee26440c) **fix(engine): read non-stream chat completion result** — _havaianasdestruido_ (2026-09-05)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -1507,13 +1507,13 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 25 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 28 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `JavaScript` — 98.9% (373,126 bytes)
-      - `HTML` — 1.1% (4,186 bytes)
+      - `JavaScript` — 98.8% (376,678 bytes)
+      - `HTML` — 1.2% (4,409 bytes)
 
 ---
 
@@ -2604,6 +2604,38 @@
 
 ---
 
+- ## [PersonaDB](https://github.com/havaianasdestruido/PersonaDB)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-09-16 | 🔄 Updated: 2026-09-16
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/PersonaDB/tree/main) _(default)_ — HEAD: `83eaa36`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/PersonaDB/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/PersonaDB/commits/main)
+          - [`83eaa36`](https://github.com/havaianasdestruido/PersonaDB/commit/83eaa36709a1ef0454d10709686a002ea2b528c9) **init** — _havaianasdestruido_ (2026-09-16)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+
+---
+
 - ## [photoviewer](https://github.com/havaianasdestruido/photoviewer)
   > No description
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-08-04
@@ -2827,23 +2859,10 @@
 
 - ## [R2K16](https://github.com/havaianasdestruido/R2K16) `🍴 Fork | 🗃️ Template`
   > 2K16 RBLX
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 1 open issues | 💻 C++ | 📅 Created: 2026-09-06 | 🔄 Updated: 2026-09-15
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C++ | 📅 Created: 2026-09-06 | 🔄 Updated: 2026-09-15
 
   - 🔗 Forked from: [Artifaqt/ROBLOX2016](https://github.com/Artifaqt/ROBLOX2016)
-    - ### 🌿 Branches (2)
-      - [`dependabot/npm_and_yarn/RobloxHybrid/docs/jsdoc/npm_and_yarn-b258cd4ece`](https://github.com/havaianasdestruido/R2K16/tree/dependabot/npm_and_yarn/RobloxHybrid/docs/jsdoc/npm_and_yarn-b258cd4ece) — HEAD: `7868b75`
-        - 📋 [All Commits](https://github.com/havaianasdestruido/R2K16/commits/dependabot/npm_and_yarn/RobloxHybrid/docs/jsdoc/npm_and_yarn-b258cd4ece)
-        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/R2K16/commits/dependabot/npm_and_yarn/RobloxHybrid/docs/jsdoc/npm_and_yarn-b258cd4ece)
-          - [`7868b75`](https://github.com/havaianasdestruido/R2K16/commit/7868b756bd7dc1cdcfe5292e0025046d640bdede) **Bump the npm_and_yarn group across 2 directories with 3 updates** — _dependabot[bot]_ (2026-09-15)
-          - [`65d06ee`](https://github.com/havaianasdestruido/R2K16/commit/65d06ee027294a5aa256b813f5fe3377652e2f17) **added manual triggering** — _Pato (new acc)_ (2026-09-15)
-          - [`e74b472`](https://github.com/havaianasdestruido/R2K16/commit/e74b472d869c60d9af74a66d3edccd89c0afdef7) **Create build.yml** — _Pato (new acc)_ (2026-09-15)
-          - [`e706a09`](https://github.com/havaianasdestruido/R2K16/commit/e706a093ddf010145f8317123e0afc0447e71cba) **Update README.md** — _Pato (new acc)_ (2026-09-15)
-          - [`237f066`](https://github.com/havaianasdestruido/R2K16/commit/237f066777dad2095b63ad51382b3596463edfb8) **new TODOs** — _Pato (new acc)_ (2026-09-15)
-          - [`302556a`](https://github.com/havaianasdestruido/R2K16/commit/302556a7f7cd232674fcabb2f6c73475c5ad8bbd) **chore: add GitHub labeler configuration for automatic PR labeling** — _Pato (new acc)_ (2026-09-13)
-          - [`27cbbb4`](https://github.com/havaianasdestruido/R2K16/commit/27cbbb4e326b3451f6f207cc91ac16ac08d3dbcc) **Create stale.yml** — _Pato (new acc)_ (2026-09-13)
-          - [`ec99b16`](https://github.com/havaianasdestruido/R2K16/commit/ec99b167270b50855f4850f4652162f3b9be9865) **Create label.yml** — _Pato (new acc)_ (2026-09-13)
-          - [`5f5a3e1`](https://github.com/havaianasdestruido/R2K16/commit/5f5a3e17aed3a1886067ca025174e52fb49a61eb) **my changes and additions to this fork is under Apache 2.0** — _Pato (new acc)_ (2026-09-06)
-          - [`a46b938`](https://github.com/havaianasdestruido/R2K16/commit/a46b93873276437d54acfd0d4a0d31d6ed2ae18b) **new stuff on TODO** — _Pato (new acc)_ (2026-09-06)
+    - ### 🌿 Branches (1)
       - [`main`](https://github.com/havaianasdestruido/R2K16/tree/main) _(default)_ — HEAD: `412ab49`
         - 📋 [All Commits](https://github.com/havaianasdestruido/R2K16/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/R2K16/commits/main)
@@ -2863,11 +2882,11 @@
       - **Closed Issues** (0)
 
     - ### 🔀 Pull Requests
-      - **Open PRs** (1)
-        - 🟢 Open [#1 Bump the npm_and_yarn group across 2 directories with 3 upda](https://github.com/havaianasdestruido/R2K16/pull/1) — _dependabot[bot]_ (2026-09-15) `dependabot/npm_and_yarn/RobloxHybrid/docs/jsdoc/npm_and_yarn-b258cd4ece` → `main`
+      - **Open PRs** (0)
+      - **Closed PRs** (1)
+        - 🔴 Closed [#1 Bump the npm_and_yarn group across 2 directories with 3 upda](https://github.com/havaianasdestruido/R2K16/pull/1) — _dependabot[bot]_ (2026-09-15) `dependabot/npm_and_yarn/RobloxHybrid/docs/jsdoc/npm_and_yarn-b258cd4ece` → `main`
           - 📝 1 commit(s) in this PR
             - [`7868b75`](https://github.com/havaianasdestruido/R2K16/commit/7868b756bd7dc1cdcfe5292e0025046d640bdede) Bump the npm_and_yarn group across 2 directories with 3 upda
-      - **Closed PRs** (0)
 
     - ### 🍴 Forks (0)
 
@@ -3823,9 +3842,9 @@
 ### Followers (5)
 
 - [@ishandutta2007](https://github.com/ishandutta2007)
-  - 📦 3087 public repos | 👥 follows 32330 people
+  - 📦 3118 public repos | 👥 follows 32502 people
 - [@moxie-coder](https://github.com/moxie-coder)
-  - 📦 221 public repos | 👥 follows 1644 people
+  - 📦 221 public repos | 👥 follows 1648 people
 - [@Okafor-twd](https://github.com/Okafor-twd)
   - 📦 5 public repos | 👥 follows 3 people
 - [@cavaleiro-olimpioo](https://github.com/cavaleiro-olimpioo)
@@ -3905,4 +3924,4 @@
 - [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit) — _iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objec_
 
 ---
-_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-16 03:50:03 UTC_
+_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-17 03:55:45 UTC_
