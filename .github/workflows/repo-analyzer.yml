@@ -27,7 +27,7 @@ jobs:
 
       - name: Run analyzer script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_PAT }}
+          GITHUB_TOKEN: ${{ secrets.ACESS_PAT }}
           GITHUB_ACTOR: ${{ github.actor }}
         run: |
           python scripts/generate_report.py
