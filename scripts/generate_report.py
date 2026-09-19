@@ -1,9 +1,11 @@
 import os
 import sys
+import csv
+import json
 import time
 import requests
 from datetime import datetime
-from github import Github, GithubException
+from github import Github
 
 # ─────────────────────────────────────────────
 # CONFIG
@@ -23,10 +25,33 @@ HEADERS = {
 }
 
 BASE_URL = "https://api.github.com"
-MAX_COMMITS_PAGES = 5      # how many commit pages to list per branch
+OUTPUT_DIR = "reports"
+
+MAX_COMMITS_PAGES = 8      # how many commit pages to list per branch
 MAX_ISSUES = 20            # max issues to list per repo
 MAX_PRS = 20               # max PRs to list per repo
 MAX_BRANCHES = 5           # max branches to list per repo
+
+# Acumula os registros de cada categoria em paralelo à geração do Markdown.
+# Cada valor é uma lista de dicts com o MESMO conjunto de chaves (exigência do CSV).
+DATA = {
+    "repos": [],
+    "branches": [],
+    "commits": [],
+    "issues": [],
+    "pull_requests": [],
+    "pull_request_commits": [],
+    "forks": [],
+    "stargazers": [],
+    "watchers": [],
+    "contributors": [],
+    "releases": [],
+    "release_assets": [],
+    "languages": [],
+    "followers": [],
+    "following": [],
+    "starred_by_user": [],
+}
 
 
 # ─────────────────────────────────────────────
@@ -79,21 +104,24 @@ def indent(level):
     return "  " * level
 
 
+def esc(text):
+    """Escape Markdown table/link-breaking characters."""
+    return text.replace("|", "\\|").replace("[", "\\[").replace("]", "\\]")
+
+
 # ─────────────────────────────────────────────
 # SECTION BUILDERS
+# (cada função gera as linhas de Markdown E preenche DATA[...],
+#  num único passe pelas mesmas chamadas de API)
 # ─────────────────────────────────────────────
 
 def build_commits_section(owner, repo_name, branch, level=3):
-    """
-    Lists commit pages (paginated) for a given branch.
-    Each page after the first uses the last SHA of that page as 'after'.
-    """
+    """Lists commit pages (paginated) for a given branch."""
     lines = []
     url = f"{BASE_URL}/repos/{owner}/{repo_name}/commits"
-    
+
     page = 1
     last_sha = None
-    visited_shas = []
 
     while page <= MAX_COMMITS_PAGES:
         params = {"sha": branch, "per_page": 35, "page": page}
@@ -104,18 +132,11 @@ def build_commits_section(owner, repo_name, branch, level=3):
 
         page_url = commit_page_url(owner, repo_name, branch, last_sha)
         prefix = indent(level)
+        lines.append(f"{prefix}- 📄 [Commits Page {page}]({page_url})")
 
-        if page == 1:
-            lines.append(f"{prefix}- 📄 [Commits Page 1]({page_url})")
-        else:
-            lines.append(f"{prefix}- 📄 [Commits Page {page}]({page_url})")
-
-        # Sub-entries: individual commits on this page
         for commit in data[:10]:  # show up to 10 commits per page
             sha = commit["sha"][:7]
-            full_sha = commit["sha"]
-            msg = commit["commit"]["message"].split("\n")[0][:72]
-            msg = msg.replace("|", "\\|").replace("[", "\\[").replace("]", "\\]")
+            msg = esc(commit["commit"]["message"].split("\n")[0][:72])
             author = commit["commit"]["author"]["name"]
             date = commit["commit"]["author"]["date"][:10]
             commit_url = f"https://github.com/{owner}/{repo_name}/commit/{commit['sha']}"
@@ -124,8 +145,18 @@ def build_commits_section(owner, repo_name, branch, level=3):
                 f"**{msg}** — _{author}_ ({date})"
             )
 
+            DATA["commits"].append({
+                "repo": repo_name,
+                "branch": branch,
+                "sha": commit["sha"],
+                "sha_short": sha,
+                "author": author,
+                "date": commit["commit"]["author"]["date"],
+                "message": commit["commit"]["message"].split("\n")[0],
+                "url": commit_url,
+            })
+
         last_sha = data[-1]["sha"]
-        visited_shas.append(last_sha)
 
         if len(data) < 35:
             break
@@ -142,14 +173,13 @@ def build_issues_section(owner, repo_name, level=2):
     for state in ["open", "closed"]:
         url = f"{BASE_URL}/repos/{owner}/{repo_name}/issues"
         issues = safe_request(url, params={"state": state, "per_page": MAX_ISSUES, "page": 1})
-        # Filter out PRs (GitHub returns PRs in issues endpoint too)
         issues = [i for i in issues if "pull_request" not in i] if issues else []
 
         lines.append(f"{indent(level + 1)}- **{state.capitalize()} Issues** ({len(issues)})")
 
         for issue in issues[:MAX_ISSUES]:
             num = issue["number"]
-            title = issue["title"][:60].replace("|", "\\|").replace("[", "\\[").replace("]", "\\]")
+            title = esc(issue["title"][:60])
             issue_url = issue["html_url"]
             user = issue["user"]["login"]
             created = issue["created_at"][:10]
@@ -160,13 +190,24 @@ def build_issues_section(owner, repo_name, level=2):
                 f" — _{user}_ ({created}){label_str}"
             )
 
-            # Comments count as sub-sub-entry
             comments = issue.get("comments", 0)
             if comments > 0:
                 lines.append(
                     f"{indent(level + 3)}- 💬 {comments} comment(s) — "
                     f"[View thread]({issue_url})"
                 )
+
+            DATA["issues"].append({
+                "repo": repo_name,
+                "state": state,
+                "number": num,
+                "title": issue["title"],
+                "user": user,
+                "created_at": issue["created_at"],
+                "labels": labels,
+                "comments": comments,
+                "url": issue_url,
+            })
 
     return lines
 
@@ -186,7 +227,7 @@ def build_prs_section(owner, repo_name, level=2):
 
         for pr in prs[:MAX_PRS]:
             num = pr["number"]
-            title = pr["title"][:60].replace("|", "\\|").replace("[", "\\[").replace("]", "\\]")
+            title = esc(pr["title"][:60])
             pr_url = pr["html_url"]
             user = pr["user"]["login"]
             created = pr["created_at"][:10]
@@ -199,17 +240,38 @@ def build_prs_section(owner, repo_name, level=2):
                 f" — _{user}_ ({created}) `{head_branch}` → `{base_branch}`"
             )
 
-            # Commits in this PR as sub-sub-entry
             pr_commits_url = f"{BASE_URL}/repos/{owner}/{repo_name}/pulls/{num}/commits"
             pr_commits = safe_request(pr_commits_url)
             if pr_commits:
                 lines.append(f"{indent(level + 3)}- 📝 {len(pr_commits)} commit(s) in this PR")
                 for c in pr_commits[:5]:
-                    sha = c["sha"][:7]
-                    msg = c["commit"]["message"].split("\n")[0][:60]
-                    msg = msg.replace("|", "\\|").replace("[", "\\[").replace("]", "\\]")
+                    csha = c["sha"][:7]
+                    cmsg = esc(c["commit"]["message"].split("\n")[0][:60])
                     c_url = f"https://github.com/{owner}/{repo_name}/commit/{c['sha']}"
-                    lines.append(f"{indent(level + 4)}- [`{sha}`]({c_url}) {msg}")
+                    lines.append(f"{indent(level + 4)}- [`{csha}`]({c_url}) {cmsg}")
+
+                    DATA["pull_request_commits"].append({
+                        "repo": repo_name,
+                        "pr_number": num,
+                        "sha": c["sha"],
+                        "sha_short": csha,
+                        "message": c["commit"]["message"].split("\n")[0],
+                        "url": c_url,
+                    })
+
+            DATA["pull_requests"].append({
+                "repo": repo_name,
+                "state": state,
+                "status": "merged" if merged else state,
+                "number": num,
+                "title": pr["title"],
+                "user": user,
+                "created_at": pr["created_at"],
+                "base_branch": base_branch,
+                "head_branch": head_branch,
+                "commit_count": len(pr_commits) if pr_commits else 0,
+                "url": pr_url,
+            })
 
     return lines
 
@@ -232,7 +294,16 @@ def build_forks_section(owner, repo_name, level=2):
             f"{indent(level + 1)}- [{fork_owner}/{fork_name}]({fork_url})"
             f" — forked on {created} ⭐ {stars}"
         )
-        # Fork's own branches
+
+        DATA["forks"].append({
+            "repo": repo_name,
+            "fork_owner": fork_owner,
+            "fork_name": fork_name,
+            "created_at": fork["created_at"],
+            "stars": stars,
+            "url": fork_url,
+        })
+
         fork_branches_url = f"{BASE_URL}/repos/{fork_owner}/{fork_name}/branches"
         fork_branches = safe_request(fork_branches_url)
         if fork_branches:
@@ -246,12 +317,11 @@ def build_stargazers_section(owner, repo_name, level=2):
     """Lists people who starred the repo."""
     lines = []
     url = f"{BASE_URL}/repos/{owner}/{repo_name}/stargazers"
-    # Need special header for starred_at timestamp
     r = requests.get(url, headers={
         **HEADERS,
         "Accept": "application/vnd.github.star+json"
     }, params={"per_page": 100})
-    
+
     stargazers = r.json() if r.status_code == 200 else []
     if not isinstance(stargazers, list):
         stargazers = []
@@ -267,12 +337,19 @@ def build_stargazers_section(owner, repo_name, level=2):
             starred_at = "unknown"
         else:
             continue
-        
+
         login = user["login"]
         profile_url = user["html_url"]
         lines.append(
             f"{indent(level + 1)}- [@{login}]({profile_url}) — starred on {starred_at}"
         )
+
+        DATA["stargazers"].append({
+            "repo": repo_name,
+            "login": login,
+            "starred_at": starred_at,
+            "profile_url": profile_url,
+        })
 
     return lines
 
@@ -289,6 +366,12 @@ def build_watchers_section(owner, repo_name, level=2):
         login = w["login"]
         profile_url = w["html_url"]
         lines.append(f"{indent(level + 1)}- [@{login}]({profile_url})")
+
+        DATA["watchers"].append({
+            "repo": repo_name,
+            "login": login,
+            "profile_url": profile_url,
+        })
 
     return lines
 
@@ -311,6 +394,13 @@ def build_contributors_section(owner, repo_name, level=2):
             f"{indent(level + 1)}- [@{login}]({profile_url}) — {contributions} commit(s)"
         )
 
+        DATA["contributors"].append({
+            "repo": repo_name,
+            "login": login,
+            "contributions": contributions,
+            "profile_url": profile_url,
+        })
+
     return lines
 
 
@@ -325,8 +415,7 @@ def build_releases_section(owner, repo_name, level=2):
     lines.append(f"{indent(level)}- ### 🏷️ Releases ({len(releases)})")
 
     for rel in releases:
-        name = rel.get("name") or rel.get("tag_name", "unnamed")
-        name = name.replace("|", "\\|").replace("[", "\\[").replace("]", "\\]")
+        name = esc(rel.get("name") or rel.get("tag_name", "unnamed"))
         rel_url = rel["html_url"]
         published = rel.get("published_at", "")[:10]
         prerelease = " _(pre-release)_" if rel.get("prerelease") else ""
@@ -335,9 +424,16 @@ def build_releases_section(owner, repo_name, level=2):
             f"{indent(level + 1)}- [{name}]({rel_url}) — {published}{prerelease}{draft}"
         )
 
-        # Assets
-        assets = rel.get("assets", [])
-        for asset in assets:
+        DATA["releases"].append({
+            "repo": repo_name,
+            "name": rel.get("name") or rel.get("tag_name", "unnamed"),
+            "published_at": rel.get("published_at", ""),
+            "prerelease": rel.get("prerelease", False),
+            "draft": rel.get("draft", False),
+            "url": rel_url,
+        })
+
+        for asset in rel.get("assets", []):
             asset_name = asset["name"]
             asset_url = asset["browser_download_url"]
             downloads = asset.get("download_count", 0)
@@ -346,6 +442,15 @@ def build_releases_section(owner, repo_name, level=2):
                 f"{indent(level + 2)}- 📦 [{asset_name}]({asset_url})"
                 f" — {size_mb} MB, {downloads} downloads"
             )
+
+            DATA["release_assets"].append({
+                "repo": repo_name,
+                "release_name": rel.get("name") or rel.get("tag_name", "unnamed"),
+                "asset_name": asset_name,
+                "downloads": downloads,
+                "size_mb": size_mb,
+                "url": asset_url,
+            })
 
     return lines
 
@@ -364,6 +469,13 @@ def build_languages_section(owner, repo_name, level=2):
     for lang, bytes_count in sorted(langs.items(), key=lambda x: x[1], reverse=True):
         pct = round(bytes_count / total * 100, 1)
         lines.append(f"{indent(level + 1)}- `{lang}` — {pct}% ({bytes_count:,} bytes)")
+
+        DATA["languages"].append({
+            "repo": repo_name,
+            "language": lang,
+            "bytes": bytes_count,
+            "percent": pct,
+        })
 
     return lines
 
@@ -385,11 +497,18 @@ def build_branches_and_commits(owner, repo_name, default_branch, level=2):
             f"{indent(level + 1)}- [`{bname}`]({branch_url}){default_tag} — HEAD: `{sha}`"
         )
 
-        # Commit pages for this branch
+        DATA["branches"].append({
+            "repo": repo_name,
+            "name": bname,
+            "head_sha": branch["commit"]["sha"],
+            "head_sha_short": sha,
+            "is_default": bname == default_branch,
+            "url": branch_url,
+        })
+
         commits_url_link = f"https://github.com/{owner}/{repo_name}/commits/{bname}"
         lines.append(f"{indent(level + 2)}- 📋 [All Commits]({commits_url_link})")
 
-        # Individual paginated commit pages
         commit_lines = build_commits_section(owner, repo_name, bname, level=level + 2)
         lines.extend(commit_lines)
 
@@ -416,7 +535,6 @@ def build_social_section(username):
     lines.append("## 👤 Social Graph")
     lines.append("")
 
-    # Followers
     followers = get_all_pages(f"{BASE_URL}/users/{username}/followers", max_pages=5)
     lines.append(f"### Followers ({len(followers)})")
     lines.append("")
@@ -424,16 +542,24 @@ def build_social_section(username):
         login = f["login"]
         url = f["html_url"]
         lines.append(f"- [@{login}]({url})")
-        # Their public repos count
+
         user_data = safe_request(f"{BASE_URL}/users/{login}")
+        public_repos = 0
+        following_count = 0
         if user_data and isinstance(user_data, dict):
-            repos = user_data.get("public_repos", 0)
+            public_repos = user_data.get("public_repos", 0)
             following_count = user_data.get("following", 0)
-            lines.append(f"  - 📦 {repos} public repos | 👥 follows {following_count} people")
+            lines.append(f"  - 📦 {public_repos} public repos | 👥 follows {following_count} people")
+
+        DATA["followers"].append({
+            "login": login,
+            "profile_url": url,
+            "public_repos": public_repos,
+            "following_count": following_count,
+        })
 
     lines.append("")
 
-    # Following
     following = get_all_pages(f"{BASE_URL}/users/{username}/following", max_pages=5)
     lines.append(f"### Following ({len(following)})")
     lines.append("")
@@ -442,9 +568,13 @@ def build_social_section(username):
         url = f["html_url"]
         lines.append(f"- [@{login}]({url})")
 
+        DATA["following"].append({
+            "login": login,
+            "profile_url": url,
+        })
+
     lines.append("")
 
-    # Starred repos by user
     starred = get_all_pages(f"{BASE_URL}/users/{username}/starred", max_pages=3)
     lines.append(f"### ⭐ Repos Starred by @{username} ({len(starred)})")
     lines.append("")
@@ -453,6 +583,12 @@ def build_social_section(username):
         rurl = repo["html_url"]
         desc = (repo.get("description") or "")[:60]
         lines.append(f"- [{rname}]({rurl}) — _{desc}_")
+
+        DATA["starred_by_user"].append({
+            "full_name": rname,
+            "url": rurl,
+            "description": repo.get("description") or "",
+        })
 
     return lines
 
@@ -463,7 +599,6 @@ def build_social_section(username):
 
 def build_report():
     user_data = safe_request(f"{BASE_URL}/users/{USERNAME}")
-    name = user_data.get("name", USERNAME) if isinstance(user_data, dict) else USERNAME
     bio = user_data.get("bio", "") if isinstance(user_data, dict) else ""
     public_repos_count = user_data.get("public_repos", 0) if isinstance(user_data, dict) else 0
     avatar = user_data.get("avatar_url", "") if isinstance(user_data, dict) else ""
@@ -488,11 +623,7 @@ def build_report():
     lines.append("## 📁 Public Repositories")
     lines.append("")
 
-    # Get all public repos
-    repos_data = get_all_pages(
-        f"{BASE_URL}/users/{USERNAME}/repos",
-        max_pages=10
-    )
+    repos_data = get_all_pages(f"{BASE_URL}/users/{USERNAME}/repos", max_pages=10)
     repos_data = [r for r in repos_data if not r.get("private", False)]
     repos_data.sort(key=lambda r: r.get("stargazers_count", 0), reverse=True)
 
@@ -500,8 +631,7 @@ def build_report():
         owner = repo["owner"]["login"]
         repo_name = repo["name"]
         repo_url = repo["html_url"]
-        description = (repo.get("description") or "No description")[:80]
-        description = description.replace("|", "\\|").replace("[", "\\[").replace("]", "\\]")
+        description = esc((repo.get("description") or "No description")[:80])
         stars = repo.get("stargazers_count", 0)
         forks_count = repo.get("forks_count", 0)
         watchers_count = repo.get("watchers_count", 0)
@@ -524,12 +654,8 @@ def build_report():
         tag_str = " | ".join(tags)
         tag_str = f" `{tag_str}`" if tag_str else ""
 
-        lines.append(
-            f"- ## [{repo_name}]({repo_url}){tag_str}"
-        )
-        lines.append(
-            f"  > {description}"
-        )
+        lines.append(f"- ## [{repo_name}]({repo_url}){tag_str}")
+        lines.append(f"  > {description}")
         lines.append(
             f"  > ⭐ {stars} | 🍴 {forks_count} | 👀 {watchers_count} "
             f"| 🐛 {open_issues} open issues | 💻 {language} "
@@ -537,59 +663,57 @@ def build_report():
         )
         lines.append("")
 
-        # If forked, show parent
+        parent_full_name = ""
         if is_fork:
-            parent_url = f"{BASE_URL}/repos/{owner}/{repo_name}"
-            repo_detail = safe_request(parent_url)
+            repo_detail = safe_request(f"{BASE_URL}/repos/{owner}/{repo_name}")
             if repo_detail and isinstance(repo_detail, dict):
                 parent = repo_detail.get("parent", {})
                 if parent:
-                    pname = parent.get("full_name", "")
+                    parent_full_name = parent.get("full_name", "")
                     purl = parent.get("html_url", "")
-                    lines.append(f"  - 🔗 Forked from: [{pname}]({purl})")
+                    lines.append(f"  - 🔗 Forked from: [{parent_full_name}]({purl})")
 
-        # Branches + Commits
+        DATA["repos"].append({
+            "name": repo_name,
+            "owner": owner,
+            "url": repo_url,
+            "description": repo.get("description") or "",
+            "stars": stars,
+            "forks": forks_count,
+            "watchers": watchers_count,
+            "open_issues": open_issues,
+            "language": language,
+            "default_branch": default_branch,
+            "created_at": repo.get("created_at", ""),
+            "updated_at": repo.get("updated_at", ""),
+            "is_fork": is_fork,
+            "is_archived": is_archived,
+            "is_template": is_template,
+            "forked_from": parent_full_name,
+        })
+
         lines.extend(build_branches_and_commits(owner, repo_name, default_branch, level=2))
         lines.append("")
-
-        # Issues
         lines.extend(build_issues_section(owner, repo_name, level=2))
         lines.append("")
-
-        # PRs
         lines.extend(build_prs_section(owner, repo_name, level=2))
         lines.append("")
-
-        # Forks
         lines.extend(build_forks_section(owner, repo_name, level=2))
         lines.append("")
-
-        # Stargazers
         lines.extend(build_stargazers_section(owner, repo_name, level=2))
         lines.append("")
-
-        # Watchers
         lines.extend(build_watchers_section(owner, repo_name, level=2))
         lines.append("")
-
-        # Contributors
         lines.extend(build_contributors_section(owner, repo_name, level=2))
         lines.append("")
-
-        # Releases
         lines.extend(build_releases_section(owner, repo_name, level=2))
         lines.append("")
-
-        # Languages
         lines.extend(build_languages_section(owner, repo_name, level=2))
         lines.append("")
-
         lines.append("---")
         lines.append("")
 
-    # Social section
     lines.extend(build_social_section(USERNAME))
-
     lines.append("")
     lines.append("---")
     lines.append(f"_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on {now}_")
@@ -598,13 +722,51 @@ def build_report():
 
 
 # ─────────────────────────────────────────────
+# EXPORT (CSV / JSON / JSONL)
+# ─────────────────────────────────────────────
+
+def export_csv(records, path):
+    if not records:
+        open(path, "w").close()
+        return
+    fieldnames = list(records[0].keys())
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(records)
+
+
+def export_json(records, path):
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(records, f, ensure_ascii=False, indent=2)
+
+
+def export_jsonl(records, path):
+    with open(path, "w", encoding="utf-8") as f:
+        for record in records:
+            f.write(json.dumps(record, ensure_ascii=False) + "\n")
+
+
+def export_all():
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    for category, records in DATA.items():
+        export_csv(records, os.path.join(OUTPUT_DIR, f"{category}.csv"))
+        export_json(records, os.path.join(OUTPUT_DIR, f"{category}.json"))
+        export_jsonl(records, os.path.join(OUTPUT_DIR, f"{category}.jsonl"))
+        print(f"  {category}: {len(records)} registro(s) exportado(s)")
+
+
+# ─────────────────────────────────────────────
 # ENTRY POINT
 # ─────────────────────────────────────────────
 
 if __name__ == "__main__":
     print(f"Starting report generation for @{USERNAME}...")
-    report = build_report()
-    output_path = "REPORT.md"
-    with open(output_path, "w", encoding="utf-8") as f:
+
+    report = build_report()  # também popula DATA[...] durante a coleta
+    with open("REPORT.md", "w", encoding="utf-8") as f:
         f.write(report)
-    print(f"Report written to {output_path}")
+    print("Report written to REPORT.md")
+
+    export_all()
+    print(f"Exports written to {OUTPUT_DIR}/")
