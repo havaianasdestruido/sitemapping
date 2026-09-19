@@ -1,0 +1,730 @@
+[
+  {
+    "repo": "AudioTaste",
+    "pr_number": 1,
+    "sha": "4e7ad01509542836213e7125ccc4fb067bb78d9b",
+    "sha_short": "4e7ad01",
+    "message": "Install Vercel Speed Insights with framework support",
+    "url": "https://github.com/havaianasdestruido/AudioTaste/commit/4e7ad01509542836213e7125ccc4fb067bb78d9b"
+  },
+  {
+    "repo": "DOOMMAPS",
+    "pr_number": 1,
+    "sha": "ab8922399b973d526e059bff1a9b745e2ecbd085",
+    "sha_short": "ab89223",
+    "message": "DOOMMAPS: playable DOOM-style FPS over real-world geography",
+    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/ab8922399b973d526e059bff1a9b745e2ecbd085"
+  },
+  {
+    "repo": "DOOMMAPS",
+    "pr_number": 1,
+    "sha": "a96f2433edb037218c5d8babc408787b0fe617a7",
+    "sha_short": "a96f243",
+    "message": "Polish: lighting balance, console key, tracer fix, README, art-verified sprites",
+    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/a96f2433edb037218c5d8babc408787b0fe617a7"
+  },
+  {
+    "repo": "DOOMMAPS",
+    "pr_number": 1,
+    "sha": "cb52f9b86d3c7e139851981d6b1838761d70a141",
+    "sha_short": "cb52f9b",
+    "message": "Add exploding barrels w/ chain reactions, rocket tube view, automap caching",
+    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/cb52f9b86d3c7e139851981d6b1838761d70a141"
+  },
+  {
+    "repo": "DOOMMAPS",
+    "pr_number": 1,
+    "sha": "0dd07848a5ee2040fb3670eee0e70a228dfaac27",
+    "sha_short": "0dd0784",
+    "message": "Backpack, partial invisibility sphere, rocket scorch decals, PAR time",
+    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/0dd07848a5ee2040fb3670eee0e70a228dfaac27"
+  },
+  {
+    "repo": "DOOMMAPS",
+    "pr_number": 1,
+    "sha": "f28b750c2ba8aac458d99524f33655eb8b970b11",
+    "sha_short": "f28b750",
+    "message": "3D Tiles availability probe on title screen; README: barrels/backpack/invis/PAR",
+    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/f28b750c2ba8aac458d99524f33655eb8b970b11"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 14,
+    "sha": "7701ed8e5530a6192de386e5244cb8d370332f1d",
+    "sha_short": "7701ed8",
+    "message": "fix: repair broken GitHub Actions workflows",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7701ed8e5530a6192de386e5244cb8d370332f1d"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 14,
+    "sha": "1c73057ab2fb5a625d312d69ed3eb03bed9cbc47",
+    "sha_short": "1c73057",
+    "message": "fix: repair broken GitHub Actions workflows and project haxelib dependencies",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1c73057ab2fb5a625d312d69ed3eb03bed9cbc47"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 14,
+    "sha": "31dd949d22f0cdb30abe0d92249d2cc09044c1ff",
+    "sha_short": "31dd949",
+    "message": "fix: repair broken GitHub Actions workflows and Android compilation issues",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/31dd949d22f0cdb30abe0d92249d2cc09044c1ff"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 14,
+    "sha": "f76f7fea749db8c1434656c779d714e4884d6d5e",
+    "sha_short": "f76f7fe",
+    "message": "fix: repair broken GitHub Actions workflows and Android build compilation issues",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f76f7fea749db8c1434656c779d714e4884d6d5e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 13,
+    "sha": "12717f68da1681f9548e882178e505c47e35a11d",
+    "sha_short": "12717f6",
+    "message": "workflow: default builds to Windows and Android with toggle",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/12717f68da1681f9548e882178e505c47e35a11d"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 13,
+    "sha": "582c98e27bb7cff13c5f6973f9829e97e7b9d1b0",
+    "sha_short": "582c98e",
+    "message": "workflow: default builds to Windows and Android with toggle",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/582c98e27bb7cff13c5f6973f9829e97e7b9d1b0"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 13,
+    "sha": "57adef303a2c3a7539b0d3812f0dfd3bb36939ae",
+    "sha_short": "57adef3",
+    "message": "Merge branch 'main' into jules-15472080900066083561-4f7fe005",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/57adef303a2c3a7539b0d3812f0dfd3bb36939ae"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 12,
+    "sha": "f275f5e55e21feea5d1a6067ab4eae594897faa3",
+    "sha_short": "f275f5e",
+    "message": "Fix UTF-8 BOM in hmm.json and JSON configs",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f275f5e55e21feea5d1a6067ab4eae594897faa3"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 11,
+    "sha": "42ad9bcc91179cb478bb3d0a77b9f5f3e064ebb4",
+    "sha_short": "42ad9bc",
+    "message": "Rename engine executable and package name to FNF-Phoenix-Engine and quack.fnf.phoenix",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/42ad9bcc91179cb478bb3d0a77b9f5f3e064ebb4"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 11,
+    "sha": "9304f53c5621d8d370f89aa0f681b58d6075a461",
+    "sha_short": "9304f53",
+    "message": "Merge branch 'main' into rename-executable-phoenix-engine-9312091600553147924",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9304f53c5621d8d370f89aa0f681b58d6075a461"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 10,
+    "sha": "b049c3172a677cf9b9ee456783a778a55f4d710c",
+    "sha_short": "b049c31",
+    "message": "Add mobile and Android support with touch controls and CI workflows",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b049c3172a677cf9b9ee456783a778a55f4d710c"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 10,
+    "sha": "e18aa9c3d85cf8c350f31bbc5c14665bd8c364e6",
+    "sha_short": "e18aa9c",
+    "message": "Fix HXP certificate reference and update mobile CI workflows",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e18aa9c3d85cf8c350f31bbc5c14665bd8c364e6"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 10,
+    "sha": "adee2fec8cbd7d2f5f817d7fc563565fd413b630",
+    "sha_short": "adee2fe",
+    "message": "Fix Certificate type qualification in project.hxp for HXP build",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/adee2fec8cbd7d2f5f817d7fc563565fd413b630"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 10,
+    "sha": "4e86b3429b20cb3eeddf3828485508a12fe9bf86",
+    "sha_short": "4e86b34",
+    "message": "Fix mobile CI workflow paths, keystore handling, and null safety",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4e86b3429b20cb3eeddf3828485508a12fe9bf86"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 10,
+    "sha": "b88410f0e50681c0d2ebad8cdf10adbfbe1c3b48",
+    "sha_short": "b88410f",
+    "message": "Add mobile (Android) target support and touch controls",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b88410f0e50681c0d2ebad8cdf10adbfbe1c3b48"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 9,
+    "sha": "26d32981f30b4fb5d2fb9e9c375e50d38a3bc11a",
+    "sha_short": "26d3298",
+    "message": "Fix failing workflows and optimize cache system",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/26d32981f30b4fb5d2fb9e9c375e50d38a3bc11a"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 9,
+    "sha": "9e12696349944743295cc02ee2fdcfe10eb96066",
+    "sha_short": "9e12696",
+    "message": "Fix failing workflows, build artifact paths, and cache system",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9e12696349944743295cc02ee2fdcfe10eb96066"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 9,
+    "sha": "1174eb2f22d33147524fbe7fa486422c13aee988",
+    "sha_short": "1174eb2",
+    "message": "Fix failing workflows, build artifact paths, and cache system",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1174eb2f22d33147524fbe7fa486422c13aee988"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 8,
+    "sha": "5efeff7a7f487a6df92ba71fa37f90dc95f02f33",
+    "sha_short": "5efeff7",
+    "message": "Speed up native build workflows",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5efeff7a7f487a6df92ba71fa37f90dc95f02f33"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 7,
+    "sha": "6cee5073a5c575caba7ecf6f185a9de0ab4ecd1e",
+    "sha_short": "6cee507",
+    "message": "fix: ship bf clicker mod in build outputs",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6cee5073a5c575caba7ecf6f185a9de0ab4ecd1e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 6,
+    "sha": "d59a2913ccc205ba8eb906a6cde4b1e2a1f091a9",
+    "sha_short": "d59a291",
+    "message": "fixed readme for the branch",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d59a2913ccc205ba8eb906a6cde4b1e2a1f091a9"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 6,
+    "sha": "20e8d670af6c697566b0e80d108894d3dd1ee85f",
+    "sha_short": "20e8d67",
+    "message": "Merge branch 'JordanSantiagoYT:main' into bottlenecks",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/20e8d670af6c697566b0e80d108894d3dd1ee85f"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 6,
+    "sha": "61a87ee7b1fa3f32fa8b263d4f99ec10d0609fe1",
+    "sha_short": "61a87ee",
+    "message": "Merge branch 'JordanSantiagoYT:main' into bottlenecks",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/61a87ee7b1fa3f32fa8b263d4f99ec10d0609fe1"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 6,
+    "sha": "5870b8ce5725365c1e6422b426b48e9e32c2e147",
+    "sha_short": "5870b8c",
+    "message": "Merge branch 'main' into bottlenecks",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5870b8ce5725365c1e6422b426b48e9e32c2e147"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 6,
+    "sha": "ba3ee2979fa16b1f258aed5a194b1669a349f5d1",
+    "sha_short": "ba3ee29",
+    "message": "Merge Rain FX toggle into global shaders toggle",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/ba3ee2979fa16b1f258aed5a194b1669a349f5d1"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 5,
+    "sha": "87e4d85da9331ac5635444f7b2dd9ab56b41a975",
+    "sha_short": "87e4d85",
+    "message": "feat: add Python script modding via Hython",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/87e4d85da9331ac5635444f7b2dd9ab56b41a975"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 5,
+    "sha": "8e2373509e7c80adf192e53b00926387c4ee3083",
+    "sha_short": "8e23735",
+    "message": "feat: add pure-Python BF Clicker mod",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/8e2373509e7c80adf192e53b00926387c4ee3083"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 5,
+    "sha": "ba654a1c5cef6f98eff84ec64f2ede4cce26cc99",
+    "sha_short": "ba654a1",
+    "message": "fix(build): pin hxcpp to git on Windows MSVC",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/ba654a1c5cef6f98eff84ec64f2ede4cce26cc99"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 5,
+    "sha": "510bf7844707d7f54ea663de9d69bc21935a6793",
+    "sha_short": "510bf78",
+    "message": "Merge branch 'main' into the-fearsome-python-experiment",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/510bf7844707d7f54ea663de9d69bc21935a6793"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 4,
+    "sha": "f31204edb535a90803dab944a9effbe3aae92503",
+    "sha_short": "f31204e",
+    "message": "some mobile stuffs",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f31204edb535a90803dab944a9effbe3aae92503"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 4,
+    "sha": "95118097c8dbafa8e0f38211d610c01f6f40c6fe",
+    "sha_short": "9511809",
+    "message": "they are using homu's lime huh, that makes my life easier",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/95118097c8dbafa8e0f38211d610c01f6f40c6fe"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 4,
+    "sha": "82398cc1986ac75eb799425d0d8a5f16b6387289",
+    "sha_short": "82398cc",
+    "message": "funni",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/82398cc1986ac75eb799425d0d8a5f16b6387289"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 4,
+    "sha": "96a9d971017f460f5b79626491786d4ce88adfdc",
+    "sha_short": "96a9d97",
+    "message": "branch: fucker",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/96a9d971017f460f5b79626491786d4ce88adfdc"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 4,
+    "sha": "1b1fa89749188b003f48ce0c15516d6b9de04870",
+    "sha_short": "1b1fa89",
+    "message": "fuck",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1b1fa89749188b003f48ce0c15516d6b9de04870"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 3,
+    "sha": "7661f3de002bb3d8b6eff52551199005e043955f",
+    "sha_short": "7661f3d",
+    "message": "chore: minified all .OGG & .MP3 files (50% size reduction) + minified all .JSON files (#1580)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7661f3de002bb3d8b6eff52551199005e043955f"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 3,
+    "sha": "002605a10119d98bc826bbe857d40fad74f369a7",
+    "sha_short": "002605a",
+    "message": "Delete compress.ps1",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/002605a10119d98bc826bbe857d40fad74f369a7"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 3,
+    "sha": "e3ba75ced39de86876bad7a2259fdd0cac4aa912",
+    "sha_short": "e3ba75c",
+    "message": "Revert \"chore: minified all .OGG & .MP3 files (50% size reduction) + minified all .JSON files (#1580)\"",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e3ba75ced39de86876bad7a2259fdd0cac4aa912"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 3,
+    "sha": "d81aacf2fa642749c1142036cf14c4bd85d55734",
+    "sha_short": "d81aacf",
+    "message": "Revert \"Delete compress.ps1\"",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d81aacf2fa642749c1142036cf14c4bd85d55734"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 3,
+    "sha": "688d9467da09651190b68a5befbc3bf5a75ccfef",
+    "sha_short": "688d946",
+    "message": "compress the audio files, again",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/688d9467da09651190b68a5befbc3bf5a75ccfef"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 2,
+    "sha": "458ddd35dfb43d2daf0e81abbdd021e5e30dea7a",
+    "sha_short": "458ddd3",
+    "message": "Remove excluded images from assets",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/458ddd35dfb43d2daf0e81abbdd021e5e30dea7a"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 2,
+    "sha": "9133a46fdf112fb82f457dd782bc515d0ee95f01",
+    "sha_short": "9133a46",
+    "message": "chore: minified all .JSON files",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9133a46fdf112fb82f457dd782bc515d0ee95f01"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 1,
+    "sha": "874478a46c751aeb84feea083dffedf61eb6e5ae",
+    "sha_short": "874478a",
+    "message": "based on https://github.com/oprypin/nightly.link/blob/master/.github/workflows/pr-comment.yml",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/874478a46c751aeb84feea083dffedf61eb6e5ae"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 1,
+    "sha": "592f111d6d5c4bbe09362a9eb3a38a6389e783d6",
+    "sha_short": "592f111",
+    "message": "Merge branch 'JordanSantiagoYT:main' into nightly-link",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/592f111d6d5c4bbe09362a9eb3a38a6389e783d6"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 1,
+    "sha": "e020b5f8c716c089d83d14c25d3e8e1f2194cfbc",
+    "sha_short": "e020b5f",
+    "message": "Merge branch 'JordanSantiagoYT:main' into nightly-link",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e020b5f8c716c089d83d14c25d3e8e1f2194cfbc"
+  },
+  {
+    "repo": "freellmapi",
+    "pr_number": 1,
+    "sha": "e27d942a5565bfab15708c929477b42ccf45a586",
+    "sha_short": "e27d942",
+    "message": "docs: fix README grammar and spelling",
+    "url": "https://github.com/havaianasdestruido/freellmapi/commit/e27d942a5565bfab15708c929477b42ccf45a586"
+  },
+  {
+    "repo": "gitgithub",
+    "pr_number": 3,
+    "sha": "b5da76343c699ed5fc1917bcfbcfbc130673b80d",
+    "sha_short": "b5da763",
+    "message": "docs: expand TBA sections in README with Git command examples",
+    "url": "https://github.com/havaianasdestruido/gitgithub/commit/b5da76343c699ed5fc1917bcfbcfbc130673b80d"
+  },
+  {
+    "repo": "gitgithub",
+    "pr_number": 2,
+    "sha": "e2d1aa0b8786d369da48008c09c5c4a8a8ad0870",
+    "sha_short": "e2d1aa0",
+    "message": "fix: correcao de gramatica e ortografia no README.MD",
+    "url": "https://github.com/havaianasdestruido/gitgithub/commit/e2d1aa0b8786d369da48008c09c5c4a8a8ad0870"
+  },
+  {
+    "repo": "gitgithub",
+    "pr_number": 2,
+    "sha": "74f7000ead8f6de310681dbf5279c36914149d55",
+    "sha_short": "74f7000",
+    "message": "Merge branch 'main' into fix-readme-grammar-9987866976443268935",
+    "url": "https://github.com/havaianasdestruido/gitgithub/commit/74f7000ead8f6de310681dbf5279c36914149d55"
+  },
+  {
+    "repo": "gitgithub",
+    "pr_number": 1,
+    "sha": "7b5cb88ce47a6367a08c9edcfa140e6c9022d068",
+    "sha_short": "7b5cb88",
+    "message": "docs: add Git installation tutorials for OS platforms",
+    "url": "https://github.com/havaianasdestruido/gitgithub/commit/7b5cb88ce47a6367a08c9edcfa140e6c9022d068"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 70,
+    "sha": "504f8611c19fda7902be3cf4b70a61d55ec937d9",
+    "sha_short": "504f861",
+    "message": "feat(frontend): configure Next.js static export & GitHub Pages workflow",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/504f8611c19fda7902be3cf4b70a61d55ec937d9"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 70,
+    "sha": "f24ea0f13368e509e62c642c7dd91577f0869ec0",
+    "sha_short": "f24ea0f",
+    "message": "fix(ci): update pnpm action version and configure GitHub Pages static export",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/f24ea0f13368e509e62c642c7dd91577f0869ec0"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 70,
+    "sha": "d0f81e0f8ad022761a38077e31ae985e1d2946dc",
+    "sha_short": "d0f81e0",
+    "message": "Merge branch 'main' into jules-426731085996982659-7bcf478f",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/d0f81e0f8ad022761a38077e31ae985e1d2946dc"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 65,
+    "sha": "47a83c3240b24f115e49eb3eaf5df4ffc5004fe1",
+    "sha_short": "47a83c3",
+    "message": "Host frontend on GitHub Pages with Next.js static export and CI workflow",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/47a83c3240b24f115e49eb3eaf5df4ffc5004fe1"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 65,
+    "sha": "c78f62eaf5eb36f3ce1762a5bffea51e0c47dddb",
+    "sha_short": "c78f62e",
+    "message": "Host frontend on GitHub Pages with Next.js static export and CI workflow",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/c78f62eaf5eb36f3ce1762a5bffea51e0c47dddb"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 65,
+    "sha": "59802b85c195337f55aaa5c68ceee7609b0334d7",
+    "sha_short": "59802b8",
+    "message": "Host frontend on GitHub Pages with Next.js static export and CI workflow",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/59802b85c195337f55aaa5c68ceee7609b0334d7"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 69,
+    "sha": "cf7ab842a3feaf21c6f6ceef3d39b7d475244156",
+    "sha_short": "cf7ab84",
+    "message": "I have updated the frontend login flow to cleanly redirect users to the dashboard upon successful authentication. Specifically, I modified the login action handler in `apps/frontend/src/app/auth/login/page.tsx` to update the window location to `/dashboard`, and I also added a unit test suite to cover the login page.",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/cf7ab842a3feaf21c6f6ceef3d39b7d475244156"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 69,
+    "sha": "8e395c88961ba949ce9eeeaf7d2456815c4d0b65",
+    "sha_short": "8e395c8",
+    "message": "fix(frontend): add unit tests for login page and clean up dashboard effect",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/8e395c88961ba949ce9eeeaf7d2456815c4d0b65"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 68,
+    "sha": "65a2a759b26c100adbea42f3fe6c9f8909bf6249",
+    "sha_short": "65a2a75",
+    "message": "ci: update Node.js version to 22",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/65a2a759b26c100adbea42f3fe6c9f8909bf6249"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 67,
+    "sha": "2b4d5301d3ea4cd3c33c24202f2435f5b9cce931",
+    "sha_short": "2b4d530",
+    "message": "fix(ci): remove explicit pnpm version from action-setup",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/2b4d5301d3ea4cd3c33c24202f2435f5b9cce931"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 66,
+    "sha": "504f8611c19fda7902be3cf4b70a61d55ec937d9",
+    "sha_short": "504f861",
+    "message": "feat(frontend): configure Next.js static export & GitHub Pages workflow",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/504f8611c19fda7902be3cf4b70a61d55ec937d9"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 64,
+    "sha": "f46419fc828ab23cbfad74c56309b4b5c5c12d60",
+    "sha_short": "f46419f",
+    "message": "chore(deps): bump lucide-react from 0.400.0 to 1.45.0",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/f46419fc828ab23cbfad74c56309b4b5c5c12d60"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 63,
+    "sha": "484591e47f86b194e07a6c8a02a6ab562e12e5cd",
+    "sha_short": "484591e",
+    "message": "chore(deps): bump react and @types/react",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/484591e47f86b194e07a6c8a02a6ab562e12e5cd"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 62,
+    "sha": "be2259be8a673174420c4f9286411aaee37730b3",
+    "sha_short": "be2259b",
+    "message": "chore(deps): bump next from 15.5.25 to 16.3.5",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/be2259be8a673174420c4f9286411aaee37730b3"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 61,
+    "sha": "00b78d9c6a810c3df08a3a15f308bfab604686a6",
+    "sha_short": "00b78d9",
+    "message": "chore(deps-dev): bump autoprefixer from 10.5.4 to 10.5.6",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/00b78d9c6a810c3df08a3a15f308bfab604686a6"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 60,
+    "sha": "7a725b117b0b58da4b2bd0f7a7ca76aa422a1040",
+    "sha_short": "7a725b1",
+    "message": "chore(deps): bump react-dom and @types/react-dom",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/7a725b117b0b58da4b2bd0f7a7ca76aa422a1040"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 59,
+    "sha": "a80bd65f84c417c28d1dee1d13381248d001d099",
+    "sha_short": "a80bd65",
+    "message": "chore(deps-dev): bump @types/passport-jwt from 4.0.0 to 4.0.1",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/a80bd65f84c417c28d1dee1d13381248d001d099"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 58,
+    "sha": "ac63a956dbf02183ee2a0aab9452e827e2abb63a",
+    "sha_short": "ac63a95",
+    "message": "chore(deps-dev): bump @types/node from 20.19.43 to 26.5.1",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/ac63a956dbf02183ee2a0aab9452e827e2abb63a"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 57,
+    "sha": "7bd8a6ee3e81a1f6a624d5a3ca388170c0c3d280",
+    "sha_short": "7bd8a6e",
+    "message": "chore(deps): bump zod from 4.5.4 to 4.6.2",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/7bd8a6ee3e81a1f6a624d5a3ca388170c0c3d280"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 56,
+    "sha": "e364ec0e792836d377213cbf9ac6833a630d506f",
+    "sha_short": "e364ec0",
+    "message": "chore(deps-dev): bump eslint-config-next from 15.5.25 to 16.3.5",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/e364ec0e792836d377213cbf9ac6833a630d506f"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 55,
+    "sha": "e1b583493c15c57aee56b59a11cdb0e4881ae9cf",
+    "sha_short": "e1b5834",
+    "message": "chore(deps-dev): bump @typescript-eslint/eslint-plugin",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/e1b583493c15c57aee56b59a11cdb0e4881ae9cf"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 54,
+    "sha": "58938066ca7c82311205db074a4fbdf8b06359cf",
+    "sha_short": "5893806",
+    "message": "chore(deps-dev): bump @typescript-eslint/parser from 8.69.0 to 8.70.0",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/58938066ca7c82311205db074a4fbdf8b06359cf"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 53,
+    "sha": "37a2f07a3b508b710135ca91bf221ccc15f835d4",
+    "sha_short": "37a2f07",
+    "message": "chore(deps-dev): bump @nestjs/schematics from 10.2.3 to 12.0.1",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/37a2f07a3b508b710135ca91bf221ccc15f835d4"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 52,
+    "sha": "d937d12d845d79f0e3ef6274c919993c440bd606",
+    "sha_short": "d937d12",
+    "message": "chore(deps): bump actions/github-script from 6 to 9",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/d937d12d845d79f0e3ef6274c919993c440bd606"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 51,
+    "sha": "ca21f08d3da8603d9ff00218d6b31b9f47e9718e",
+    "sha_short": "ca21f08",
+    "message": "chore(deps): bump actions/dependency-review-action from 4 to 5",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/ca21f08d3da8603d9ff00218d6b31b9f47e9718e"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 50,
+    "sha": "d2a93ee250cb39b223528e4a69665e4dc5db31ab",
+    "sha_short": "d2a93ee",
+    "message": "chore(deps): bump actions/labeler from 4 to 7",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/d2a93ee250cb39b223528e4a69665e4dc5db31ab"
+  },
+  {
+    "repo": "OdontoAura",
+    "pr_number": 49,
+    "sha": "36171de0ae0e8415386888655c0ec4a8f7494a59",
+    "sha_short": "36171de",
+    "message": "chore(deps): bump actions/checkout from 4 to 7",
+    "url": "https://github.com/havaianasdestruido/OdontoAura/commit/36171de0ae0e8415386888655c0ec4a8f7494a59"
+  },
+  {
+    "repo": "pong-pop",
+    "pr_number": 2,
+    "sha": "796d5c1f8434666fa2d70df3093f594ec3d26c03",
+    "sha_short": "796d5c1",
+    "message": "Smooth AI paddle window movement",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/796d5c1f8434666fa2d70df3093f594ec3d26c03"
+  },
+  {
+    "repo": "pong-pop",
+    "pr_number": 1,
+    "sha": "ebce1a99b0c8c9c21ffd5527c3b589af2b134f73",
+    "sha_short": "ebce1a9",
+    "message": "Create popup window Pong game",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/ebce1a99b0c8c9c21ffd5527c3b589af2b134f73"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 1,
+    "sha": "7868b756bd7dc1cdcfe5292e0025046d640bdede",
+    "sha_short": "7868b75",
+    "message": "Bump the npm_and_yarn group across 2 directories with 3 updates",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/7868b756bd7dc1cdcfe5292e0025046d640bdede"
+  },
+  {
+    "repo": "sand-box2d",
+    "pr_number": 3,
+    "sha": "5c605c69b5e950404177d9786f983cbe9e53d1a5",
+    "sha_short": "5c605c6",
+    "message": "Load compact popup bodies directly",
+    "url": "https://github.com/havaianasdestruido/sand-box2d/commit/5c605c69b5e950404177d9786f983cbe9e53d1a5"
+  },
+  {
+    "repo": "sand-box2d",
+    "pr_number": 3,
+    "sha": "cf36785514fe20ff8124c094a4d8d6af104947f1",
+    "sha_short": "cf36785",
+    "message": "Merge branch 'main' into codex/create-physics-simulation-game-with-popups-so5rrk",
+    "url": "https://github.com/havaianasdestruido/sand-box2d/commit/cf36785514fe20ff8124c094a4d8d6af104947f1"
+  },
+  {
+    "repo": "sand-box2d",
+    "pr_number": 2,
+    "sha": "c88a558e795d450272d987080211809c45cc153e",
+    "sha_short": "c88a558",
+    "message": "Keep popup physics windows compact",
+    "url": "https://github.com/havaianasdestruido/sand-box2d/commit/c88a558e795d450272d987080211809c45cc153e"
+  },
+  {
+    "repo": "sand-box2d",
+    "pr_number": 2,
+    "sha": "9944513f6f8e7f87d3298f223be7adbede513218",
+    "sha_short": "9944513",
+    "message": "Merge branch 'main' into codex/create-physics-simulation-game-with-popups-lpwogg",
+    "url": "https://github.com/havaianasdestruido/sand-box2d/commit/9944513f6f8e7f87d3298f223be7adbede513218"
+  },
+  {
+    "repo": "sand-box2d",
+    "pr_number": 1,
+    "sha": "baa53b8b0c84fabc21d027d67980dd3bd78f6f7d",
+    "sha_short": "baa53b8",
+    "message": "Add popup physics browser game",
+    "url": "https://github.com/havaianasdestruido/sand-box2d/commit/baa53b8b0c84fabc21d027d67980dd3bd78f6f7d"
+  },
+  {
+    "repo": "steamlogger",
+    "pr_number": 1,
+    "sha": "da63afce1905635b901bc16af104022937168df1",
+    "sha_short": "da63afc",
+    "message": "Tolerate brief missing Steam game polls",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/da63afce1905635b901bc16af104022937168df1"
+  }
+]
