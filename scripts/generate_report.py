@@ -27,7 +27,7 @@ HEADERS = {
 BASE_URL = "https://api.github.com"
 OUTPUT_DIR = "reports"
 
-MAX_COMMITS_PAGES = 8      # how many commit pages to list per branch
+MAX_COMMITS_PAGES = 5      # how many commit pages to list per branch
 MAX_ISSUES = 20            # max issues to list per repo
 MAX_PRS = 20               # max PRs to list per repo
 MAX_BRANCHES = 5           # max branches to list per repo
@@ -58,6 +58,12 @@ DATA = {
 # HELPERS
 # ─────────────────────────────────────────────
 
+# Registra toda resposta não-200 (exceto 409, que é esperado em repo vazio),
+# para diagnosticar por que uma categoria ficou vazia (rate limit, 403 de
+# escopo, 404 de endpoint, etc.) em vez de deixar isso passar em silêncio.
+API_ERRORS = []
+
+
 def safe_request(url, params=None):
     """GET with retry on rate limit."""
     for attempt in range(5):
@@ -73,7 +79,10 @@ def safe_request(url, params=None):
             return []
         else:
             print(f"  Warning: {r.status_code} on {url}")
+            API_ERRORS.append({"url": url, "status": r.status_code, "body": r.text[:200]})
             return []
+
+    API_ERRORS.append({"url": url, "status": "rate_limit_exhausted", "body": ""})
     return []
 
 
@@ -747,13 +756,51 @@ def export_jsonl(records, path):
             f.write(json.dumps(record, ensure_ascii=False) + "\n")
 
 
+def gh_warning(message):
+    """Emite uma anotação de warning visível na aba Actions/Summary do run."""
+    # Formato de workflow command do GitHub Actions; %0A vira quebra de linha
+    # dentro da mensagem exibida na anotação.
+    safe_message = message.replace("\n", "%0A")
+    print(f"::warning::{safe_message}")
+
+
 def export_all():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+    empty_categories = []
+
     for category, records in DATA.items():
         export_csv(records, os.path.join(OUTPUT_DIR, f"{category}.csv"))
         export_json(records, os.path.join(OUTPUT_DIR, f"{category}.json"))
         export_jsonl(records, os.path.join(OUTPUT_DIR, f"{category}.jsonl"))
         print(f"  {category}: {len(records)} registro(s) exportado(s)")
+
+        if len(records) == 0:
+            empty_categories.append(category)
+
+    if empty_categories:
+        gh_warning(
+            "As seguintes categorias ficaram vazias (0 registros) em "
+            f"CSV/JSON/JSONL: {', '.join(empty_categories)}. "
+            "Verifique se é esperado (ex: nenhum fork/issue mesmo) ou se "
+            "houve erro de API/rate limit — veja os warnings de API abaixo, "
+            "se houver."
+        )
+
+    if API_ERRORS:
+        # Agrupa por endpoint base + status pra não gerar um warning gigante
+        # repetido por repositório.
+        by_status = {}
+        for err in API_ERRORS:
+            key = err["status"]
+            by_status.setdefault(key, []).append(err["url"])
+
+        summary_lines = [f"{len(API_ERRORS)} chamada(s) de API falharam durante a coleta:"]
+        for status, urls in by_status.items():
+            sample = urls[0]
+            summary_lines.append(f"- status {status}: {len(urls)} chamada(s), ex: {sample}")
+
+        gh_warning("\n".join(summary_lines))
 
 
 # ─────────────────────────────────────────────
