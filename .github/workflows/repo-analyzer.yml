@@ -2,8 +2,8 @@ name: GitHub Repository Analyzer
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at 00:00 (Midnight) UTC
-  workflow_dispatch:       # Manual trigger
+    - cron: '0 0 * * *'  # Roda todo dia à meia-noite UTC
+  workflow_dispatch:       # Trigger manual
 
 permissions:
   contents: write
@@ -32,10 +32,10 @@ jobs:
         run: |
           python scripts/generate_report.py
 
-      - name: Commit and push report
+      - name: Commit and push report and exports
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
-          git add REPORT.md
+          git add REPORT.md reports/
           git diff --staged --quiet || git commit -m "📊 Update repository report [$(date -u '+%Y-%m-%d %H:%M:%S UTC')]"
           git push
