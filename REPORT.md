@@ -4,8 +4,8 @@
 
 > i lost my old acc so please follow this one instead
 
-**Generated:** 2026-09-18 03:42:34 UTC
-**Public Repositories:** 58
+**Generated:** 2026-09-19 03:39:25 UTC
+**Public Repositories:** 59
 
 ---
 
@@ -176,9 +176,10 @@
   > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-18
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `d51ffae`
+      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `dc26c40`
         - 📋 [All Commits](https://github.com/havaianasdestruido/sitemapping/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/sitemapping/commits/main)
+          - [`dc26c40`](https://github.com/havaianasdestruido/sitemapping/commit/dc26c40f3c26ac8c6e75a39f788215e58741447a) **📊 Update repository report \[2026-09-18 03:46:42 UTC\]** — _GitHub Action Bot_ (2026-09-18)
           - [`d51ffae`](https://github.com/havaianasdestruido/sitemapping/commit/d51ffae9e72f4b6c25ae0f6ab15bb0c421db3f94) **Create LICENSE** — _Pato (new acc)_ (2026-09-18)
           - [`ee38a4d`](https://github.com/havaianasdestruido/sitemapping/commit/ee38a4da95223bc0d67a72062e40d7e365314f14) **📊 Update repository report \[2026-09-17 03:58:56 UTC\]** — _GitHub Action Bot_ (2026-09-17)
           - [`1017217`](https://github.com/havaianasdestruido/sitemapping/commit/1017217c1004225c81bce86fd0c950cc45a407b0) **📊 Update repository report \[2026-09-16 03:52:54 UTC\]** — _GitHub Action Bot_ (2026-09-16)
@@ -188,7 +189,6 @@
           - [`f6fd77b`](https://github.com/havaianasdestruido/sitemapping/commit/f6fd77b275bbe54cb676aa5c340390d1e8ca0b32) **switched form static page serving to jekyll page serving** — _Pato (new acc)_ (2026-09-13)
           - [`40e60b0`](https://github.com/havaianasdestruido/sitemapping/commit/40e60b0e78401f338eb7999711921a136c71be2c) **whoops** — _Pato (new acc)_ (2026-09-13)
           - [`5d2974a`](https://github.com/havaianasdestruido/sitemapping/commit/5d2974a527ec5d7883ed2f9672c67366ddfa24a6) **live demo URL** — _Pato (new acc)_ (2026-09-13)
-          - [`fb926d4`](https://github.com/havaianasdestruido/sitemapping/commit/fb926d484c27d6c8ab04286cb761505a70f88b48) **jekyll workflow** — _Pato (new acc)_ (2026-09-13)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -207,7 +207,7 @@
 
     - ### 👥 Contributors (2)
       - [@havaianasdestruido](https://github.com/havaianasdestruido) — 10 commit(s)
-      - [@actions-user](https://github.com/actions-user) — 5 commit(s)
+      - [@actions-user](https://github.com/actions-user) — 6 commit(s)
 
     - ### 🏷️ Releases (1)
       - [First release](https://github.com/havaianasdestruido/sitemapping/releases/tag/1.0) — 2026-09-15
@@ -518,6 +518,65 @@
       - `Shell` — 0.3% (4,448 bytes)
       - `TypeScript` — 0.1% (1,509 bytes)
       - `HTML` — 0.1% (1,170 bytes)
+
+---
+
+- ## [DOOMMAPS](https://github.com/havaianasdestruido/DOOMMAPS)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 JavaScript | 📅 Created: 2026-09-18 | 🔄 Updated: 2026-09-18
+
+    - ### 🌿 Branches (2)
+      - [`arena/01a0b487-doommaps`](https://github.com/havaianasdestruido/DOOMMAPS/tree/arena/01a0b487-doommaps) — HEAD: `f28b750`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/DOOMMAPS/commits/arena/01a0b487-doommaps)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/DOOMMAPS/commits/arena/01a0b487-doommaps)
+          - [`f28b750`](https://github.com/havaianasdestruido/DOOMMAPS/commit/f28b750c2ba8aac458d99524f33655eb8b970b11) **3D Tiles availability probe on title screen; README: barrels/backpack/in** — _havaianasdestruido_ (2026-09-18)
+          - [`0dd0784`](https://github.com/havaianasdestruido/DOOMMAPS/commit/0dd07848a5ee2040fb3670eee0e70a228dfaac27) **Backpack, partial invisibility sphere, rocket scorch decals, PAR time** — _havaianasdestruido_ (2026-09-18)
+          - [`cb52f9b`](https://github.com/havaianasdestruido/DOOMMAPS/commit/cb52f9b86d3c7e139851981d6b1838761d70a141) **Add exploding barrels w/ chain reactions, rocket tube view, automap cach** — _havaianasdestruido_ (2026-09-18)
+          - [`a96f243`](https://github.com/havaianasdestruido/DOOMMAPS/commit/a96f2433edb037218c5d8babc408787b0fe617a7) **Polish: lighting balance, console key, tracer fix, README, art-verified ** — _havaianasdestruido_ (2026-09-18)
+          - [`ab89223`](https://github.com/havaianasdestruido/DOOMMAPS/commit/ab8922399b973d526e059bff1a9b745e2ecbd085) **DOOMMAPS: playable DOOM-style FPS over real-world geography** — _havaianasdestruido_ (2026-09-18)
+          - [`c59884f`](https://github.com/havaianasdestruido/DOOMMAPS/commit/c59884f4c2531325a8003183f890653732fa0d7d) **Initial commit** — _arena-ai-coding-agent[bot]_ (2026-09-18)
+      - [`main`](https://github.com/havaianasdestruido/DOOMMAPS/tree/main) _(default)_ — HEAD: `69d07c5`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/DOOMMAPS/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/DOOMMAPS/commits/main)
+          - [`69d07c5`](https://github.com/havaianasdestruido/DOOMMAPS/commit/69d07c55dd76b1f77852ca4c2dbca12fcb9d1703) **Merge pull request #1 from havaianasdestruido/arena/01a0b487-doommaps** — _Pato (new acc)_ (2026-09-18)
+          - [`f28b750`](https://github.com/havaianasdestruido/DOOMMAPS/commit/f28b750c2ba8aac458d99524f33655eb8b970b11) **3D Tiles availability probe on title screen; README: barrels/backpack/in** — _havaianasdestruido_ (2026-09-18)
+          - [`0dd0784`](https://github.com/havaianasdestruido/DOOMMAPS/commit/0dd07848a5ee2040fb3670eee0e70a228dfaac27) **Backpack, partial invisibility sphere, rocket scorch decals, PAR time** — _havaianasdestruido_ (2026-09-18)
+          - [`cb52f9b`](https://github.com/havaianasdestruido/DOOMMAPS/commit/cb52f9b86d3c7e139851981d6b1838761d70a141) **Add exploding barrels w/ chain reactions, rocket tube view, automap cach** — _havaianasdestruido_ (2026-09-18)
+          - [`a96f243`](https://github.com/havaianasdestruido/DOOMMAPS/commit/a96f2433edb037218c5d8babc408787b0fe617a7) **Polish: lighting balance, console key, tracer fix, README, art-verified ** — _havaianasdestruido_ (2026-09-18)
+          - [`ab89223`](https://github.com/havaianasdestruido/DOOMMAPS/commit/ab8922399b973d526e059bff1a9b745e2ecbd085) **DOOMMAPS: playable DOOM-style FPS over real-world geography** — _havaianasdestruido_ (2026-09-18)
+          - [`c59884f`](https://github.com/havaianasdestruido/DOOMMAPS/commit/c59884f4c2531325a8003183f890653732fa0d7d) **Initial commit** — _arena-ai-coding-agent[bot]_ (2026-09-18)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (1)
+        - ✅ Merged [#1 🔥 DOOMMAPS: DOOM-style FPS over real-world geography](https://github.com/havaianasdestruido/DOOMMAPS/pull/1) — _arena-ai-coding-agent[bot]_ (2026-09-18) `arena/01a0b487-doommaps` → `main`
+          - 📝 5 commit(s) in this PR
+            - [`ab89223`](https://github.com/havaianasdestruido/DOOMMAPS/commit/ab8922399b973d526e059bff1a9b745e2ecbd085) DOOMMAPS: playable DOOM-style FPS over real-world geography
+            - [`a96f243`](https://github.com/havaianasdestruido/DOOMMAPS/commit/a96f2433edb037218c5d8babc408787b0fe617a7) Polish: lighting balance, console key, tracer fix, README, a
+            - [`cb52f9b`](https://github.com/havaianasdestruido/DOOMMAPS/commit/cb52f9b86d3c7e139851981d6b1838761d70a141) Add exploding barrels w/ chain reactions, rocket tube view, 
+            - [`0dd0784`](https://github.com/havaianasdestruido/DOOMMAPS/commit/0dd07848a5ee2040fb3670eee0e70a228dfaac27) Backpack, partial invisibility sphere, rocket scorch decals,
+            - [`f28b750`](https://github.com/havaianasdestruido/DOOMMAPS/commit/f28b750c2ba8aac458d99524f33655eb8b970b11) 3D Tiles availability probe on title screen; README: barrels
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (2)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 6 commit(s)
+      - [@arena-ai-coding-agent[bot]](https://github.com/apps/arena-ai-coding-agent) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `JavaScript` — 95.9% (272,671 bytes)
+      - `CSS` — 2.9% (8,220 bytes)
+      - `HTML` — 1.2% (3,329 bytes)
 
 ---
 
@@ -2613,7 +2672,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (4)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 65 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 66 commit(s)
       - [@dependabot[bot]](https://github.com/apps/dependabot) — 55 commit(s)
       - [@morelloettore](https://github.com/morelloettore) — 4 commit(s)
       - [@google-labs-jules[bot]](https://github.com/apps/google-labs-jules) — 1 commit(s)
@@ -2666,12 +2725,13 @@
 
 - ## [PersonaDB](https://github.com/havaianasdestruido/PersonaDB)
   > No description
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-09-16 | 🔄 Updated: 2026-09-18
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-16 | 🔄 Updated: 2026-09-18
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/PersonaDB/tree/main) _(default)_ — HEAD: `6402361`
+      - [`main`](https://github.com/havaianasdestruido/PersonaDB/tree/main) _(default)_ — HEAD: `513a5cc`
         - 📋 [All Commits](https://github.com/havaianasdestruido/PersonaDB/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/PersonaDB/commits/main)
+          - [`513a5cc`](https://github.com/havaianasdestruido/PersonaDB/commit/513a5cc62d582862fdcd26417b3b9a3da878c876) **feat: PersonaDB v1 — esquema, engines, seeds e geradores 00-02** — _havaianasdestruido_ (2026-09-18)
           - [`6402361`](https://github.com/havaianasdestruido/PersonaDB/commit/640236178468a9f7dffe17ae217888e6fd82989e) **Create LICENSE** — _Pato (new acc)_ (2026-09-18)
           - [`83eaa36`](https://github.com/havaianasdestruido/PersonaDB/commit/83eaa36709a1ef0454d10709686a002ea2b528c9) **init** — _havaianasdestruido_ (2026-09-16)
 
@@ -2690,10 +2750,13 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 2 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 3 commit(s)
 
     - ### 🏷️ Releases (0)
 
+    - ### 💻 Languages
+      - `Python` — 84.1% (198,533 bytes)
+      - `PLpgSQL` — 15.9% (37,426 bytes)
 
 ---
 
@@ -3917,10 +3980,10 @@
 
 ## 👤 Social Graph
 
-### Followers (6)
+### Followers (7)
 
 - [@ishandutta2007](https://github.com/ishandutta2007)
-  - 📦 3130 public repos | 👥 follows 32107 people
+  - 📦 3182 public repos | 👥 follows 32271 people
 - [@moxie-coder](https://github.com/moxie-coder)
   - 📦 221 public repos | 👥 follows 1648 people
 - [@Okafor-twd](https://github.com/Okafor-twd)
@@ -3931,6 +3994,8 @@
   - 📦 0 public repos | 👥 follows 74 people
 - [@andrewexec](https://github.com/andrewexec)
   - 📦 5 public repos | 👥 follows 2 people
+- [@ancaferro](https://github.com/ancaferro)
+  - 📦 4 public repos | 👥 follows 15487 people
 
 ### Following (12)
 
@@ -3947,8 +4012,9 @@
 - [@andrewexec](https://github.com/andrewexec)
 - [@tamandua2123123123](https://github.com/tamandua2123123123)
 
-### ⭐ Repos Starred by @havaianasdestruido (73)
+### ⭐ Repos Starred by @havaianasdestruido (74)
 
+- [firebase/agent-skills](https://github.com/firebase/agent-skills) — _Agent Skills for Firebase_
 - [havaianasdestruido/hemorroidabot](https://github.com/havaianasdestruido/hemorroidabot) — __
 - [havaianasdestruido/PrintSpoolerAutoRun](https://github.com/havaianasdestruido/PrintSpoolerAutoRun) — _Simple win32 app that starts the printer spooler service if _
 - [Intelinsidecom/Vine-Decomp](https://github.com/Intelinsidecom/Vine-Decomp) — _Vine Client decompilation project targeted for Ivy Vine proj_
@@ -4024,4 +4090,4 @@
 - [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit) — _iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objec_
 
 ---
-_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-18 03:42:34 UTC_
+_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-19 03:39:25 UTC_
