@@ -27,10 +27,10 @@ HEADERS = {
 BASE_URL = "https://api.github.com"
 OUTPUT_DIR = "reports"
 
-MAX_COMMITS_PAGES = 5      # how many commit pages to list per branch
+MAX_COMMITS_PAGES = 4      # how many commit pages to list per branch
 MAX_ISSUES = 20            # max issues to list per repo
 MAX_PRS = 20               # max PRs to list per repo
-MAX_BRANCHES = 5           # max branches to list per repo
+MAX_BRANCHES = 8           # max branches to list per repo
 
 # Acumula os registros de cada categoria em paralelo à geração do Markdown.
 # Cada valor é uma lista de dicts com o MESMO conjunto de chaves (exigência do CSV).
