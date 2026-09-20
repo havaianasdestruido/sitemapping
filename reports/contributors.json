@@ -26,13 +26,13 @@
   {
     "repo": "sitemapping",
     "login": "havaianasdestruido",
-    "contributions": 11,
+    "contributions": 15,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 7,
+    "contributions": 10,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -199,27 +199,9 @@
   },
   {
     "repo": "calculator",
-    "login": "ebariche",
+    "login": "hassanuz",
     "contributions": 2,
-    "profile_url": "https://github.com/ebariche"
-  },
-  {
-    "repo": "calculator",
-    "login": "jefgen",
-    "contributions": 2,
-    "profile_url": "https://github.com/jefgen"
-  },
-  {
-    "repo": "calculator",
-    "login": "LanceMcCarthy",
-    "contributions": 2,
-    "profile_url": "https://github.com/LanceMcCarthy"
-  },
-  {
-    "repo": "calculator",
-    "login": "microsoftopensource",
-    "contributions": 2,
-    "profile_url": "https://github.com/microsoftopensource"
+    "profile_url": "https://github.com/hassanuz"
   },
   {
     "repo": "calculator",
@@ -229,15 +211,33 @@
   },
   {
     "repo": "calculator",
-    "login": "hassanuz",
+    "login": "microsoftopensource",
     "contributions": 2,
-    "profile_url": "https://github.com/hassanuz"
+    "profile_url": "https://github.com/microsoftopensource"
   },
   {
     "repo": "calculator",
-    "login": "Potapy4",
+    "login": "LanceMcCarthy",
+    "contributions": 2,
+    "profile_url": "https://github.com/LanceMcCarthy"
+  },
+  {
+    "repo": "calculator",
+    "login": "jefgen",
+    "contributions": 2,
+    "profile_url": "https://github.com/jefgen"
+  },
+  {
+    "repo": "calculator",
+    "login": "ebariche",
+    "contributions": 2,
+    "profile_url": "https://github.com/ebariche"
+  },
+  {
+    "repo": "calculator",
+    "login": "barlan",
     "contributions": 1,
-    "profile_url": "https://github.com/Potapy4"
+    "profile_url": "https://github.com/barlan"
   },
   {
     "repo": "calculator",
@@ -246,16 +246,10 @@
     "profile_url": "https://github.com/seyfer"
   },
   {
-    "repo": "DOOMMAPS",
-    "login": "havaianasdestruido",
-    "contributions": 6,
-    "profile_url": "https://github.com/havaianasdestruido"
-  },
-  {
-    "repo": "DOOMMAPS",
-    "login": "arena-ai-coding-agent[bot]",
-    "contributions": 1,
-    "profile_url": "https://github.com/apps/arena-ai-coding-agent"
+    "repo": "EleLab_v2",
+    "login": "Chrismettal",
+    "contributions": 94,
+    "profile_url": "https://github.com/Chrismettal"
   },
   {
     "repo": "EZInfiniteYTLive",
@@ -631,6 +625,12 @@
   },
   {
     "repo": "freellmapi",
+    "login": "havaianasdestruido",
+    "contributions": 2,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "freellmapi",
     "login": "itsfuad",
     "contributions": 2,
     "profile_url": "https://github.com/itsfuad"
@@ -664,12 +664,6 @@
     "login": "qinghuanandejiangshi",
     "contributions": 1,
     "profile_url": "https://github.com/qinghuanandejiangshi"
-  },
-  {
-    "repo": "freellmapi",
-    "login": "vjsai",
-    "contributions": 1,
-    "profile_url": "https://github.com/vjsai"
   },
   {
     "repo": "Giggles-Shit",
@@ -998,8 +992,14 @@
   {
     "repo": "orelha",
     "login": "havaianasdestruido",
-    "contributions": 3,
+    "contributions": 4,
     "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "orelha",
+    "login": "ImgBotApp",
+    "contributions": 1,
+    "profile_url": "https://github.com/ImgBotApp"
   },
   {
     "repo": "PersonaDB",
@@ -1093,15 +1093,21 @@
   },
   {
     "repo": "Rbx2Source-enhanced",
-    "login": "gamenew09",
-    "contributions": 1,
-    "profile_url": "https://github.com/gamenew09"
+    "login": "havaianasdestruido",
+    "contributions": 2,
+    "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "Rbx2Source-enhanced",
-    "login": "havaianasdestruido",
+    "login": "ImgBotApp",
     "contributions": 1,
-    "profile_url": "https://github.com/havaianasdestruido"
+    "profile_url": "https://github.com/ImgBotApp"
+  },
+  {
+    "repo": "Rbx2Source-enhanced",
+    "login": "gamenew09",
+    "contributions": 1,
+    "profile_url": "https://github.com/gamenew09"
   },
   {
     "repo": "rdprxy",
@@ -1184,8 +1190,14 @@
   {
     "repo": "Sonic4",
     "login": "havaianasdestruido",
-    "contributions": 1,
+    "contributions": 2,
     "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "Sonic4",
+    "login": "ImgBotApp",
+    "contributions": 1,
+    "profile_url": "https://github.com/ImgBotApp"
   },
   {
     "repo": "steamlogger",

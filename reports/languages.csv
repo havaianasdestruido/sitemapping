@@ -26,9 +26,6 @@ calculator,PowerShell,6830,0.5
 calculator,Shell,4448,0.3
 calculator,TypeScript,1509,0.1
 calculator,HTML,1170,0.1
-DOOMMAPS,JavaScript,272671,95.9
-DOOMMAPS,CSS,8220,2.9
-DOOMMAPS,HTML,3329,1.2
 EZInfiniteYTLive,C#,7795,100.0
 face-tagger,C#,9145,100.0
 FNF-PeoteView,C,4407895,70.7
@@ -190,9 +187,9 @@ scrobbleviz,HTML,12600,25.3
 Servidor-Perfeito,HTML,3844,100.0
 sigma-click,HTML,13478,100.0
 slideshow-studio,C#,59465,100.0
-Sonic4,C++,16929575,79.3
+Sonic4,C++,16949525,79.4
 Sonic4,C,3908820,18.3
-Sonic4,Pawn,241261,1.1
+Sonic4,Pawn,221311,1.0
 Sonic4,Objective-C++,146447,0.7
 Sonic4,Objective-C,119638,0.6
 Sonic4,CMake,153,0.0

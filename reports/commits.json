@@ -202,6 +202,36 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "5cdd65b34cd7dd38f5a2c04d760fd5073517c7bf",
+    "sha_short": "5cdd65b",
+    "author": "Pato (new acc)",
+    "date": "2026-09-19T15:01:24Z",
+    "message": "Bruh",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/5cdd65b34cd7dd38f5a2c04d760fd5073517c7bf"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
+    "sha": "7af849f89b6d3e9decfb834f5cedcc3d7bee8c37",
+    "sha_short": "7af849f",
+    "author": "Pato (new acc)",
+    "date": "2026-09-19T14:59:14Z",
+    "message": "Change GITHUB_TOKEN to GITHUB_PAT in workflow",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/7af849f89b6d3e9decfb834f5cedcc3d7bee8c37"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
+    "sha": "530cfa225460782736ed8473366fb6434e088b5d",
+    "sha_short": "530cfa2",
+    "author": "GitHub Action Bot",
+    "date": "2026-09-19T14:49:04Z",
+    "message": "📊 Update repository report [2026-09-19 14:49:04 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/530cfa225460782736ed8473366fb6434e088b5d"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "531d02779db6101779fe4b134f5600cbc01283ac",
     "sha_short": "531d027",
     "author": "Pato (new acc)",
@@ -268,36 +298,6 @@
     "date": "2026-09-18T03:46:42Z",
     "message": "📊 Update repository report [2026-09-18 03:46:42 UTC]",
     "url": "https://github.com/havaianasdestruido/sitemapping/commit/dc26c40f3c26ac8c6e75a39f788215e58741447a"
-  },
-  {
-    "repo": "sitemapping",
-    "branch": "main",
-    "sha": "d51ffae9e72f4b6c25ae0f6ab15bb0c421db3f94",
-    "sha_short": "d51ffae",
-    "author": "Pato (new acc)",
-    "date": "2026-09-18T00:33:51Z",
-    "message": "Create LICENSE",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/d51ffae9e72f4b6c25ae0f6ab15bb0c421db3f94"
-  },
-  {
-    "repo": "sitemapping",
-    "branch": "main",
-    "sha": "ee38a4da95223bc0d67a72062e40d7e365314f14",
-    "sha_short": "ee38a4d",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-17T03:58:56Z",
-    "message": "📊 Update repository report [2026-09-17 03:58:56 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/ee38a4da95223bc0d67a72062e40d7e365314f14"
-  },
-  {
-    "repo": "sitemapping",
-    "branch": "main",
-    "sha": "1017217c1004225c81bce86fd0c950cc45a407b0",
-    "sha_short": "1017217",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-16T03:52:54Z",
-    "message": "📊 Update repository report [2026-09-16 03:52:54 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/1017217c1004225c81bce86fd0c950cc45a407b0"
   },
   {
     "repo": ".github",
@@ -702,6 +702,26 @@
   {
     "repo": "calculator",
     "branch": "uno",
+    "sha": "8283b45e91c9415c51f56954807a8bb4d488c0cb",
+    "sha_short": "8283b45",
+    "author": "Pato (new acc)",
+    "date": "2026-09-19T20:04:47Z",
+    "message": "Merge pull request #1 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/calculator/commit/8283b45e91c9415c51f56954807a8bb4d488c0cb"
+  },
+  {
+    "repo": "calculator",
+    "branch": "uno",
+    "sha": "2ec7688d290121f4b17e28dec9da97486e5fef6c",
+    "sha_short": "2ec7688",
+    "author": "ImgBotApp",
+    "date": "2026-09-19T20:02:34Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/calculator/commit/2ec7688d290121f4b17e28dec9da97486e5fef6c"
+  },
+  {
+    "repo": "calculator",
+    "branch": "uno",
     "sha": "c32d9b20ee49a394370afd5e73cd7d2f48507cc8",
     "sha_short": "c32d9b2",
     "author": "Steve Bilogan",
@@ -782,22 +802,22 @@
   {
     "repo": "calculator",
     "branch": "uno",
-    "sha": "6bc1b644c22fe9fa15093408359dd88f8a9eaa86",
-    "sha_short": "6bc1b64",
+    "sha": "caf6b50da347273cff84184f8bee2d7cb059ddf4",
+    "sha_short": "caf6b50",
     "author": "Jérôme Laban",
-    "date": "2025-07-09T13:29:38Z",
-    "message": "chore: Adjust snap and appimage publish",
-    "url": "https://github.com/havaianasdestruido/calculator/commit/6bc1b644c22fe9fa15093408359dd88f8a9eaa86"
+    "date": "2024-10-18T03:11:49Z",
+    "message": "chore: Bump to latest uno",
+    "url": "https://github.com/havaianasdestruido/calculator/commit/caf6b50da347273cff84184f8bee2d7cb059ddf4"
   },
   {
     "repo": "calculator",
     "branch": "uno",
-    "sha": "4febb57478cfe4aefffe3e5713c16b1eb476743b",
-    "sha_short": "4febb57",
+    "sha": "8b5e4c3b80dc3b02520494acfb296306249bb832",
+    "sha_short": "8b5e4c3",
     "author": "Jérôme Laban",
-    "date": "2025-06-20T17:47:52Z",
-    "message": "chore: Run apt update",
-    "url": "https://github.com/havaianasdestruido/calculator/commit/4febb57478cfe4aefffe3e5713c16b1eb476743b"
+    "date": "2024-10-18T02:06:11Z",
+    "message": "chore: Enable jiterpreter",
+    "url": "https://github.com/havaianasdestruido/calculator/commit/8b5e4c3b80dc3b02520494acfb296306249bb832"
   },
   {
     "repo": "calculator",
@@ -882,22 +902,22 @@
   {
     "repo": "calculator",
     "branch": "uno",
-    "sha": "0dee4afc080a069637f900e4e93ac3f34ebafe31",
-    "sha_short": "0dee4af",
-    "author": "Jerome Laban",
-    "date": "2024-09-22T14:44:34Z",
-    "message": "chore: Always enable logging",
-    "url": "https://github.com/havaianasdestruido/calculator/commit/0dee4afc080a069637f900e4e93ac3f34ebafe31"
+    "sha": "6ae7ee3e95cb5b152aac3d338a91d074576e95d2",
+    "sha_short": "6ae7ee3",
+    "author": "Jérôme Laban",
+    "date": "2024-03-15T17:43:29Z",
+    "message": "Merge pull request #613 from unoplatform/dev/jela/canary-adjust",
+    "url": "https://github.com/havaianasdestruido/calculator/commit/6ae7ee3e95cb5b152aac3d338a91d074576e95d2"
   },
   {
     "repo": "calculator",
     "branch": "uno",
-    "sha": "73740ebd28ad3b485eb1615fdca76d1d75af51e0",
-    "sha_short": "73740eb",
+    "sha": "74dfd863bd62909d6699b748bcf1b1df3add4507",
+    "sha_short": "74dfd86",
     "author": "Jerome Laban",
-    "date": "2024-09-21T13:11:03Z",
-    "message": "chore: Adjust minimum catalyst",
-    "url": "https://github.com/havaianasdestruido/calculator/commit/73740ebd28ad3b485eb1615fdca76d1d75af51e0"
+    "date": "2024-03-15T05:13:27Z",
+    "message": "chore: Adjust git install",
+    "url": "https://github.com/havaianasdestruido/calculator/commit/74dfd863bd62909d6699b748bcf1b1df3add4507"
   },
   {
     "repo": "calculator",
@@ -982,22 +1002,22 @@
   {
     "repo": "calculator",
     "branch": "uno",
-    "sha": "16034f0b52f84fd5f0c9c55f93f3e51f6b5cd9a6",
-    "sha_short": "16034f0",
-    "author": "Jerome Laban",
-    "date": "2024-02-14T14:19:42Z",
-    "message": "chore: Adjust macOS 13 agents",
-    "url": "https://github.com/havaianasdestruido/calculator/commit/16034f0b52f84fd5f0c9c55f93f3e51f6b5cd9a6"
+    "sha": "c3192431feca05c1be7edb177f0a7f9057b26bed",
+    "sha_short": "c319243",
+    "author": "Jérôme Laban",
+    "date": "2023-09-10T15:40:09Z",
+    "message": "Merge pull request #603 from unoplatform/dev/jela/snap-network",
+    "url": "https://github.com/havaianasdestruido/calculator/commit/c3192431feca05c1be7edb177f0a7f9057b26bed"
   },
   {
     "repo": "calculator",
     "branch": "uno",
-    "sha": "ed347edc6f172916f88820c7188dea2129e4b9a1",
-    "sha_short": "ed347ed",
+    "sha": "b53dba7b3c60d9f68b73f3142faf6c50da15ef04",
+    "sha_short": "b53dba7",
     "author": "Jerome Laban",
-    "date": "2024-02-14T14:09:53Z",
-    "message": "chore: adjust windows gtk",
-    "url": "https://github.com/havaianasdestruido/calculator/commit/ed347edc6f172916f88820c7188dea2129e4b9a1"
+    "date": "2023-09-10T15:01:31Z",
+    "message": "fix(snap): Adjust network native dependencies",
+    "url": "https://github.com/havaianasdestruido/calculator/commit/b53dba7b3c60d9f68b73f3142faf6c50da15ef04"
   },
   {
     "repo": "calculator",
@@ -1082,22 +1102,22 @@
   {
     "repo": "calculator",
     "branch": "uno",
-    "sha": "06ac2928400530eab35ce048470aafdaf8a2a6eb",
-    "sha_short": "06ac292",
-    "author": "Jay",
-    "date": "2023-09-10T02:16:38Z",
-    "message": "fix: Adjust rates refresh alignment",
-    "url": "https://github.com/havaianasdestruido/calculator/commit/06ac2928400530eab35ce048470aafdaf8a2a6eb"
+    "sha": "2e091256155b269f407b3bc91b80d655892b1e17",
+    "sha_short": "2e09125",
+    "author": "Jerome Laban",
+    "date": "2023-09-06T01:30:04Z",
+    "message": "fix: Include an InfoPlist.strings for all supported languages",
+    "url": "https://github.com/havaianasdestruido/calculator/commit/2e091256155b269f407b3bc91b80d655892b1e17"
   },
   {
     "repo": "calculator",
     "branch": "uno",
-    "sha": "81756c17ac4469448de6579415ed769c7372ea6c",
-    "sha_short": "81756c1",
+    "sha": "1ca277019463a4899d0b27ef5af8148b01dd7325",
+    "sha_short": "1ca2770",
     "author": "Jérôme Laban",
-    "date": "2023-09-09T03:46:52Z",
-    "message": "Merge pull request #598 from unoplatform/dev/jela/mobile-fix",
-    "url": "https://github.com/havaianasdestruido/calculator/commit/81756c17ac4469448de6579415ed769c7372ea6c"
+    "date": "2023-09-05T16:14:56Z",
+    "message": "Merge pull request #592 from unoplatform/dev/jela/catalyst-appname",
+    "url": "https://github.com/havaianasdestruido/calculator/commit/1ca277019463a4899d0b27ef5af8148b01dd7325"
   },
   {
     "repo": "calculator",
@@ -1180,154 +1200,304 @@
     "url": "https://github.com/havaianasdestruido/calculator/commit/4d1ea2d91bf691cb6829b15f7cf2c25fcc1e63b0"
   },
   {
-    "repo": "calculator",
-    "branch": "uno",
-    "sha": "b0a835f5a2bf346ef5141834e45a164f17e850ac",
-    "sha_short": "b0a835f",
-    "author": "Jerome Laban",
-    "date": "2023-09-05T00:27:38Z",
-    "message": "chore: Adjust ApplicationTitle property",
-    "url": "https://github.com/havaianasdestruido/calculator/commit/b0a835f5a2bf346ef5141834e45a164f17e850ac"
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "9306cddca1e8b6b14c4f6a4f572579d2eedd44df",
+    "sha_short": "9306cdd",
+    "author": "Chrismettal",
+    "date": "2022-11-19T17:57:05Z",
+    "message": "Remove Ko-fi from readme",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/9306cddca1e8b6b14c4f6a4f572579d2eedd44df"
   },
   {
-    "repo": "calculator",
-    "branch": "uno",
-    "sha": "998e9017ae1165946f95f08fedf8061c6ce84a91",
-    "sha_short": "998e901",
-    "author": "Jerome Laban",
-    "date": "2023-09-05T00:17:34Z",
-    "message": "ci: Bump to 7.0.400",
-    "url": "https://github.com/havaianasdestruido/calculator/commit/998e9017ae1165946f95f08fedf8061c6ce84a91"
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "c8ebbf955002783917b43ff98383340726c77b1d",
+    "sha_short": "c8ebbf9",
+    "author": "Chrismettal",
+    "date": "2022-04-22T16:49:54Z",
+    "message": "Update Bosch picture",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/c8ebbf955002783917b43ff98383340726c77b1d"
   },
   {
-    "repo": "DOOMMAPS",
-    "branch": "arena/01a0b487-doommaps",
-    "sha": "f28b750c2ba8aac458d99524f33655eb8b970b11",
-    "sha_short": "f28b750",
-    "author": "havaianasdestruido",
-    "date": "2026-09-18T14:11:00Z",
-    "message": "3D Tiles availability probe on title screen; README: barrels/backpack/invis/PAR",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/f28b750c2ba8aac458d99524f33655eb8b970b11"
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "8768745b9ca26fe53477d7be71a2fd569c8115f4",
+    "sha_short": "8768745",
+    "author": "Chrismettal",
+    "date": "2022-01-17T19:03:02Z",
+    "message": "Add picture of mechanical testfit of BoschSupply",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/8768745b9ca26fe53477d7be71a2fd569c8115f4"
   },
   {
-    "repo": "DOOMMAPS",
-    "branch": "arena/01a0b487-doommaps",
-    "sha": "0dd07848a5ee2040fb3670eee0e70a228dfaac27",
-    "sha_short": "0dd0784",
-    "author": "havaianasdestruido",
-    "date": "2026-09-18T14:05:49Z",
-    "message": "Backpack, partial invisibility sphere, rocket scorch decals, PAR time",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/0dd07848a5ee2040fb3670eee0e70a228dfaac27"
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "48feb95554f8c9bcf45922c836afd9e676761265",
+    "sha_short": "48feb95",
+    "author": "Chrismettal",
+    "date": "2022-01-16T11:12:00Z",
+    "message": "Update unfinished SupplyBosch module to not fall over",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/48feb95554f8c9bcf45922c836afd9e676761265"
   },
   {
-    "repo": "DOOMMAPS",
-    "branch": "arena/01a0b487-doommaps",
-    "sha": "cb52f9b86d3c7e139851981d6b1838761d70a141",
-    "sha_short": "cb52f9b",
-    "author": "havaianasdestruido",
-    "date": "2026-09-18T14:04:03Z",
-    "message": "Add exploding barrels w/ chain reactions, rocket tube view, automap caching",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/cb52f9b86d3c7e139851981d6b1838761d70a141"
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "5ab3af761b47165b58151289945c0a042eead60f",
+    "sha_short": "5ab3af7",
+    "author": "Chrismettal",
+    "date": "2022-01-05T18:54:06Z",
+    "message": "Shameless plug",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/5ab3af761b47165b58151289945c0a042eead60f"
   },
   {
-    "repo": "DOOMMAPS",
-    "branch": "arena/01a0b487-doommaps",
-    "sha": "a96f2433edb037218c5d8babc408787b0fe617a7",
-    "sha_short": "a96f243",
-    "author": "havaianasdestruido",
-    "date": "2026-09-18T13:50:05Z",
-    "message": "Polish: lighting balance, console key, tracer fix, README, art-verified sprites",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/a96f2433edb037218c5d8babc408787b0fe617a7"
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "26b2d8cc5858acf4ede7147bf973cdf879cacece",
+    "sha_short": "26b2d8c",
+    "author": "Chrismettal",
+    "date": "2022-01-05T18:52:11Z",
+    "message": "Add documentation of untested Bosch supply module",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/26b2d8cc5858acf4ede7147bf973cdf879cacece"
   },
   {
-    "repo": "DOOMMAPS",
-    "branch": "arena/01a0b487-doommaps",
-    "sha": "ab8922399b973d526e059bff1a9b745e2ecbd085",
-    "sha_short": "ab89223",
-    "author": "havaianasdestruido",
-    "date": "2026-09-18T13:39:02Z",
-    "message": "DOOMMAPS: playable DOOM-style FPS over real-world geography",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/ab8922399b973d526e059bff1a9b745e2ecbd085"
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "3f6ad55539681dc2b741a1bf19a6e791046ef03a",
+    "sha_short": "3f6ad55",
+    "author": "Chrismettal",
+    "date": "2022-01-03T19:20:09Z",
+    "message": "Finish untested SupplyBosch module",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/3f6ad55539681dc2b741a1bf19a6e791046ef03a"
   },
   {
-    "repo": "DOOMMAPS",
-    "branch": "arena/01a0b487-doommaps",
-    "sha": "c59884f4c2531325a8003183f890653732fa0d7d",
-    "sha_short": "c59884f",
-    "author": "arena-ai-coding-agent[bot]",
-    "date": "2026-09-18T12:39:26Z",
-    "message": "Initial commit",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/c59884f4c2531325a8003183f890653732fa0d7d"
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "4d116f1ea552048ee5fc4878550d7957726f36af",
+    "sha_short": "4d116f1",
+    "author": "Chrismettal",
+    "date": "2022-01-01T20:21:53Z",
+    "message": "Start new SupplyBosch module",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/4d116f1ea552048ee5fc4878550d7957726f36af"
   },
   {
-    "repo": "DOOMMAPS",
-    "branch": "main",
-    "sha": "69d07c55dd76b1f77852ca4c2dbca12fcb9d1703",
-    "sha_short": "69d07c5",
-    "author": "Pato (new acc)",
-    "date": "2026-09-18T14:20:08Z",
-    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0b487-doommaps",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/69d07c55dd76b1f77852ca4c2dbca12fcb9d1703"
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "bbe1aa61a55c19531bf734a6683d4fba264e0e30",
+    "sha_short": "bbe1aa6",
+    "author": "Chrismettal",
+    "date": "2021-08-29T12:40:01Z",
+    "message": "Move TOC up",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/bbe1aa61a55c19531bf734a6683d4fba264e0e30"
   },
   {
-    "repo": "DOOMMAPS",
-    "branch": "main",
-    "sha": "f28b750c2ba8aac458d99524f33655eb8b970b11",
-    "sha_short": "f28b750",
-    "author": "havaianasdestruido",
-    "date": "2026-09-18T14:11:00Z",
-    "message": "3D Tiles availability probe on title screen; README: barrels/backpack/invis/PAR",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/f28b750c2ba8aac458d99524f33655eb8b970b11"
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "4985c017ccb11d048ff2c0d68e177c40194f770f",
+    "sha_short": "4985c01",
+    "author": "Chrismettal",
+    "date": "2021-08-29T12:38:10Z",
+    "message": "Add measurements and schematic of RDec",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/4985c017ccb11d048ff2c0d68e177c40194f770f"
   },
   {
-    "repo": "DOOMMAPS",
-    "branch": "main",
-    "sha": "0dd07848a5ee2040fb3670eee0e70a228dfaac27",
-    "sha_short": "0dd0784",
-    "author": "havaianasdestruido",
-    "date": "2026-09-18T14:05:49Z",
-    "message": "Backpack, partial invisibility sphere, rocket scorch decals, PAR time",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/0dd07848a5ee2040fb3670eee0e70a228dfaac27"
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "49e67213ff1e5230ff928b21210a98a9d23da484",
+    "sha_short": "49e6721",
+    "author": "Chrismettal",
+    "date": "2021-06-09T21:55:34Z",
+    "message": "Rename TS100 module",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/49e67213ff1e5230ff928b21210a98a9d23da484"
   },
   {
-    "repo": "DOOMMAPS",
-    "branch": "main",
-    "sha": "cb52f9b86d3c7e139851981d6b1838761d70a141",
-    "sha_short": "cb52f9b",
-    "author": "havaianasdestruido",
-    "date": "2026-09-18T14:04:03Z",
-    "message": "Add exploding barrels w/ chain reactions, rocket tube view, automap caching",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/cb52f9b86d3c7e139851981d6b1838761d70a141"
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "8ac4e373ef53c6a56bf09d276293dbf19911a157",
+    "sha_short": "8ac4e37",
+    "author": "Chrismettal",
+    "date": "2021-06-09T21:51:55Z",
+    "message": "Add Ãlower bucket empty",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/8ac4e373ef53c6a56bf09d276293dbf19911a157"
   },
   {
-    "repo": "DOOMMAPS",
-    "branch": "main",
-    "sha": "a96f2433edb037218c5d8babc408787b0fe617a7",
-    "sha_short": "a96f243",
-    "author": "havaianasdestruido",
-    "date": "2026-09-18T13:50:05Z",
-    "message": "Polish: lighting balance, console key, tracer fix, README, art-verified sprites",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/a96f2433edb037218c5d8babc408787b0fe617a7"
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "16cd6156d1f282c56088a3b7d4b94cc993c11cd9",
+    "sha_short": "16cd615",
+    "author": "Chrismettal",
+    "date": "2021-06-09T21:21:58Z",
+    "message": "Add upper bucket empty",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/16cd6156d1f282c56088a3b7d4b94cc993c11cd9"
   },
   {
-    "repo": "DOOMMAPS",
-    "branch": "main",
-    "sha": "ab8922399b973d526e059bff1a9b745e2ecbd085",
-    "sha_short": "ab89223",
-    "author": "havaianasdestruido",
-    "date": "2026-09-18T13:39:02Z",
-    "message": "DOOMMAPS: playable DOOM-style FPS over real-world geography",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/ab8922399b973d526e059bff1a9b745e2ecbd085"
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "affb1e361a15324743416370e24e3421ce16ac44",
+    "sha_short": "affb1e3",
+    "author": "Chrismettal",
+    "date": "2021-06-09T21:01:57Z",
+    "message": "Add holes for buckets to TS100 module",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/affb1e361a15324743416370e24e3421ce16ac44"
   },
   {
-    "repo": "DOOMMAPS",
-    "branch": "main",
-    "sha": "c59884f4c2531325a8003183f890653732fa0d7d",
-    "sha_short": "c59884f",
-    "author": "arena-ai-coding-agent[bot]",
-    "date": "2026-09-18T12:39:26Z",
-    "message": "Initial commit",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/c59884f4c2531325a8003183f890653732fa0d7d"
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "a30d5a187b817335af5a072eaa60ef979aea7290",
+    "sha_short": "a30d5a1",
+    "author": "Chrismettal",
+    "date": "2021-06-09T20:24:39Z",
+    "message": "Add unfinished initial version of TS100 module",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/a30d5a187b817335af5a072eaa60ef979aea7290"
+  },
+  {
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "90e3314f9bba80d8eef601689a5fc740f51f579c",
+    "sha_short": "90e3314",
+    "author": "Chrismettal",
+    "date": "2021-06-09T18:33:41Z",
+    "message": "Update readme with information about even more new modules",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/90e3314f9bba80d8eef601689a5fc740f51f579c"
+  },
+  {
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "ea027a15936b787c1367b5f4d231d69b98eae0d9",
+    "sha_short": "ea027a1",
+    "author": "Chrismettal",
+    "date": "2021-06-09T18:20:30Z",
+    "message": "Add initial version of audio amplifier module",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/ea027a15936b787c1367b5f4d231d69b98eae0d9"
+  },
+  {
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "373472cc98b7609ae461a62993413e429aedd174",
+    "sha_short": "373472c",
+    "author": "Chrismettal",
+    "date": "2021-06-09T17:36:20Z",
+    "message": "Update display module with HDMI jack",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/373472cc98b7609ae461a62993413e429aedd174"
+  },
+  {
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "0bf1a9a8327be28fa4adc1bf861618ea5db862a0",
+    "sha_short": "0bf1a9a",
+    "author": "Chrismettal",
+    "date": "2021-06-09T17:20:39Z",
+    "message": "I lied",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/0bf1a9a8327be28fa4adc1bf861618ea5db862a0"
+  },
+  {
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "d86c7e2efb6380dea8ded5533bdf593f339dd453",
+    "sha_short": "d86c7e2",
+    "author": "Chrismettal",
+    "date": "2021-06-09T17:15:52Z",
+    "message": "Finish work on RPi module for now, waiting for parts",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/d86c7e2efb6380dea8ded5533bdf593f339dd453"
+  },
+  {
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "1bcd11546a5b4ad88b7aefbe49f84140a3a60380",
+    "sha_short": "1bcd115",
+    "author": "Chrismettal",
+    "date": "2020-03-09T19:12:28Z",
+    "message": "Add parts lists to readme",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/1bcd11546a5b4ad88b7aefbe49f84140a3a60380"
+  },
+  {
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "932acd8f01bc04fa40916d757b7396bb48eb34fe",
+    "sha_short": "932acd8",
+    "author": "Chrismettal",
+    "date": "2020-03-08T15:53:52Z",
+    "message": "Update README for release",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/932acd8f01bc04fa40916d757b7396bb48eb34fe"
+  },
+  {
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "5c0ddb0874b7a0516481aa485b723af689900c51",
+    "sha_short": "5c0ddb0",
+    "author": "Chrismettal",
+    "date": "2020-03-08T15:05:29Z",
+    "message": "Edit README",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/5c0ddb0874b7a0516481aa485b723af689900c51"
+  },
+  {
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "1c642e21cf4026873a3514a5aedcb2b5acf2fe63",
+    "sha_short": "1c642e2",
+    "author": "Chrismettal",
+    "date": "2020-03-08T15:02:31Z",
+    "message": "Rotate moar pictures",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/1c642e21cf4026873a3514a5aedcb2b5acf2fe63"
+  },
+  {
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "440e42cf5a7bb6c795929466420fa4637bf0dc61",
+    "sha_short": "440e42c",
+    "author": "Chrismettal",
+    "date": "2020-03-08T14:57:11Z",
+    "message": "Rotate pictures",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/440e42cf5a7bb6c795929466420fa4637bf0dc61"
+  },
+  {
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "8ad17f0b0c72583a85e72bb500497ae2d278c8c0",
+    "sha_short": "8ad17f0",
+    "author": "Chrismettal",
+    "date": "2020-03-08T14:42:30Z",
+    "message": "Edit README",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/8ad17f0b0c72583a85e72bb500497ae2d278c8c0"
+  },
+  {
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "8f8b1b62a169c92c80e8cf838efb7983672c303c",
+    "sha_short": "8f8b1b6",
+    "author": "Chrismettal",
+    "date": "2020-03-08T14:40:45Z",
+    "message": "Add pictures for documentation",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/8f8b1b62a169c92c80e8cf838efb7983672c303c"
+  },
+  {
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "eb02e6a2ef550d5f805e61ef4a670d887e7959b9",
+    "sha_short": "eb02e6a",
+    "author": "Chrismettal",
+    "date": "2020-03-08T08:50:10Z",
+    "message": "Edit DSO138 - add power switch in lower panel.",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/eb02e6a2ef550d5f805e61ef4a670d887e7959b9"
+  },
+  {
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "7bf2be23d3cf403be2acc9e995437bd08f72cd2f",
+    "sha_short": "7bf2be2",
+    "author": "Chrismettal",
+    "date": "2020-03-07T21:21:22Z",
+    "message": "Edit CompTest - bigger hole for actuating the lever and actually fit the button.",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/7bf2be23d3cf403be2acc9e995437bd08f72cd2f"
+  },
+  {
+    "repo": "EleLab_v2",
+    "branch": "master",
+    "sha": "101734e324352d0b71e034f264901a660de22abd",
+    "sha_short": "101734e",
+    "author": "Chrismettal",
+    "date": "2020-02-12T10:31:11Z",
+    "message": "Update readme",
+    "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/101734e324352d0b71e034f264901a660de22abd"
   },
   {
     "repo": "EZInfiniteYTLive",
@@ -1448,6 +1618,506 @@
     "date": "2026-08-03T16:52:30Z",
     "message": "initial commit",
     "url": "https://github.com/havaianasdestruido/face-tagger/commit/514a70a8ccaafb6cc6feff7061884fecc80fe05d"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "354c48e9e18eafea87696d0ed8be12c2dc95f758",
+    "sha_short": "354c48e",
+    "author": "ImgBotApp",
+    "date": "2026-09-19T20:09:35Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/354c48e9e18eafea87696d0ed8be12c2dc95f758"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "8f4c9857a9b7d209f4f167d1916b686441893b28",
+    "sha_short": "8f4c985",
+    "author": "havaianasdestruido",
+    "date": "2026-08-11T14:43:52Z",
+    "message": "Perf: add timeStretch toggle to performance options",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/8f4c9857a9b7d209f4f167d1916b686441893b28"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "45a818d8450c336665e59194e80eaca80a6c4819",
+    "sha_short": "45a818d",
+    "author": "havaianasdestruido",
+    "date": "2026-08-11T14:43:38Z",
+    "message": "Perf: back Int128 with struct fields and fix toString padding",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/45a818d8450c336665e59194e80eaca80a6c4819"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "d57cde1a87f19e879331a6dda3eb76365aedc012",
+    "sha_short": "d57cde1",
+    "author": "havaianasdestruido",
+    "date": "2026-08-11T14:43:30Z",
+    "message": "Perf: reuse compressed texture artifacts and in-place premultiply",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/d57cde1a87f19e879331a6dda3eb76365aedc012"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "51a351adda244d8253f451c96134aed19f62fc8f",
+    "sha_short": "51a351a",
+    "author": "havaianasdestruido",
+    "date": "2026-08-11T14:43:24Z",
+    "message": "Perf: buffered LZ4 stream writes and scratch buffers",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/51a351adda244d8253f451c96134aed19f62fc8f"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "6fcf40c5dd5babfaff8a59cbdb94dbed2c103a65",
+    "sha_short": "6fcf40c",
+    "author": "havaianasdestruido",
+    "date": "2026-08-11T14:43:15Z",
+    "message": "Perf: dirty-flag noteskin editor sprite updates",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/6fcf40c5dd5babfaff8a59cbdb94dbed2c103a65"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "b4975e2dc2074e5dc059d40ed81a11cba72e1586",
+    "sha_short": "b4975e2",
+    "author": "havaianasdestruido",
+    "date": "2026-08-11T14:43:00Z",
+    "message": "Perf: cache alphabet chars per title and skip unchanged icon changeID",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/b4975e2dc2074e5dc059d40ed81a11cba72e1586"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "5e6183a56f3c267652ce87d255d214feb5d16d6e",
+    "sha_short": "5e6183a",
+    "author": "havaianasdestruido",
+    "date": "2026-08-11T14:42:48Z",
+    "message": "Perf: dirty-gate AnimateActor leaf uploads and unroll corners",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/5e6183a56f3c267652ce87d255d214feb5d16d6e"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "f61691bf3c89af05ed094801db9e32fece909c5b",
+    "sha_short": "f61691b",
+    "author": "havaianasdestruido",
+    "date": "2026-08-11T14:42:34Z",
+    "message": "Perf: cache text relayouts and skip redundant alpha uploads",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/f61691bf3c89af05ed094801db9e32fece909c5b"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "25dfa6f50f7e4be340ca0b9dabecfbab379ce5c2",
+    "sha_short": "25dfa6f",
+    "author": "havaianasdestruido",
+    "date": "2026-08-11T14:42:22Z",
+    "message": "Perf: skip redundant note/sustain clip re-setup in gameplay",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/25dfa6f50f7e4be340ca0b9dabecfbab379ce5c2"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "cb3a1dec28591916ec8fb27adfe0f9636a4191d4",
+    "sha_short": "cb3a1de",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-23T21:49:53Z",
+    "message": "Update project.xml",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/cb3a1dec28591916ec8fb27adfe0f9636a4191d4"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "110550885a07be067a829ef22c67172482abfaf4",
+    "sha_short": "1105508",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-23T21:32:28Z",
+    "message": "Update linux.bash",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/110550885a07be067a829ef22c67172482abfaf4"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "8e77caa8dc838d0f9cf528883b14f558f9f79bda",
+    "sha_short": "8e77caa",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-23T20:57:53Z",
+    "message": "Merge branch 'official' into official",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/8e77caa8dc838d0f9cf528883b14f558f9f79bda"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "3b06bf2cea18afb051e24e2798e9924e50260606",
+    "sha_short": "3b06bf2",
+    "author": "ElastedAlorian",
+    "date": "2026-07-23T20:53:36Z",
+    "message": "Updated reformat.",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/3b06bf2cea18afb051e24e2798e9924e50260606"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "88e347bb2ec06fc910eae8b43ef50a8b786dc699",
+    "sha_short": "88e347b",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-23T18:25:49Z",
+    "message": "v",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/88e347bb2ec06fc910eae8b43ef50a8b786dc699"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "0e78bccd685f1e329ece619108df5342dc3ec390",
+    "sha_short": "0e78bcc",
+    "author": "ElastedAlorian",
+    "date": "2026-07-23T07:21:23Z",
+    "message": "Reorganize Project.xml",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/0e78bccd685f1e329ece619108df5342dc3ec390"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "ba74715870679a503ed57e4f3a2b6622eb8f4326",
+    "sha_short": "ba74715",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-23T01:31:18Z",
+    "message": "Shared  alphaspr & instructions txt for all 3 opts",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/ba74715870679a503ed57e4f3a2b6622eb8f4326"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "186c02ec7311cd7c8fd20664ab4b163ffb0b4620",
+    "sha_short": "186c02e",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-22T22:54:45Z",
+    "message": "Yep, compressed textures can also be supported on",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/186c02ec7311cd7c8fd20664ab4b163ffb0b4620"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "d7feff84ef64c73a256650260de44e011dcf2700",
+    "sha_short": "d7feff8",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-22T22:30:03Z",
+    "message": "Utilize LZ4 as ASTC compressor",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/d7feff84ef64c73a256650260de44e011dcf2700"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "4ffb3b120a4bd1b7e3d7ca886186d18a43ce13ea",
+    "sha_short": "4ffb3b1",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-22T12:34:44Z",
+    "message": "Update ASTCEncoder.hx for Linux",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/4ffb3b120a4bd1b7e3d7ca886186d18a43ce13ea"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "6f59e03177beab0cc1408215669ce16d8015dff9",
+    "sha_short": "6f59e03",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-18T18:22:45Z",
+    "message": "Update ControlsDisplay.hx",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/6f59e03177beab0cc1408215669ce16d8015dff9"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "43efbb9c00c5b0b335011072a1fdc3bf85d304b8",
+    "sha_short": "43efbb9",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-18T18:12:13Z",
+    "message": "Currently stuck at a shader error for custom variables that've already existed for the longest time.",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/43efbb9c00c5b0b335011072a1fdc3bf85d304b8"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "2b9b389770ed11aa78df71c09c75b55dff0eb2a7",
+    "sha_short": "2b9b389",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-18T17:01:58Z",
+    "message": "Ok I just found exiting the noteskin editor won't  lose your notskindata",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/2b9b389770ed11aa78df71c09c75b55dff0eb2a7"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "365829dac8a9d9b081e1eab084f09c14bae8f8fb",
+    "sha_short": "365829d",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-18T16:54:56Z",
+    "message": "oops forgot the exit condition on confirmPopup",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/365829dac8a9d9b081e1eab084f09c14bae8f8fb"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "f9c430ee1a59117d216f22c392c7d02e37d79daa",
+    "sha_short": "f9c430e",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-18T16:54:00Z",
+    "message": "Gotta put up another confirmation in there.",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/f9c430ee1a59117d216f22c392c7d02e37d79daa"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "356d5344bf2611423a427bae056ed73e15d4f5ad",
+    "sha_short": "356d534",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-18T16:48:46Z",
+    "message": "Really finalize noteskin editor and prewarm freeplaymenu addprograms as well",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/356d5344bf2611423a427bae056ed73e15d4f5ad"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "5fbb027728fd541305188b879bc0f0b660e8865d",
+    "sha_short": "5fbb027",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-18T16:08:31Z",
+    "message": "Finalize the noteskin editor (almost)",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/5fbb027728fd541305188b879bc0f0b660e8865d"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "6244f38fe26a22657092806c30f16728a009d51a",
+    "sha_short": "6244f38",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-18T04:23:20Z",
+    "message": "(almost) finalize Noteskin class + optimize Text with Qwen",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/6244f38fe26a22657092806c30f16728a009d51a"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "504b778b9a90287582f22e94698654bb00c3e66c",
+    "sha_short": "504b778",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-18T02:15:06Z",
+    "message": "Update project.xml",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/504b778b9a90287582f22e94698654bb00c3e66c"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "9da1ca86d3d68612e1e402ee86c796289d676d06",
+    "sha_short": "9da1ca8",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-17T23:50:26Z",
+    "message": "Ok now before I implement exiting cache the bufs,progs first",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/9da1ca86d3d68612e1e402ee86c796289d676d06"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "76ecad4ae0ca3146a67b15fef1b8a6f9537e9a0b",
+    "sha_short": "76ecad4",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-15T14:42:24Z",
+    "message": "Refine keybind functionality for continuity",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/76ecad4ae0ca3146a67b15fef1b8a6f9537e9a0b"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "555f2c9d23dcbd4233bb04c5bcfd06b58526d1b4",
+    "sha_short": "555f2c9",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-15T05:34:49Z",
+    "message": "ig thats good enough, fuck it",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/555f2c9d23dcbd4233bb04c5bcfd06b58526d1b4"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "d5115efff4c40d53e14d7972b0ef882cc0157afb",
+    "sha_short": "d5115ef",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-15T05:19:07Z",
+    "message": "Post-finish polish",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/d5115efff4c40d53e14d7972b0ef882cc0157afb"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "b87c79034a22c4757064aa545a1ddea699aaca24",
+    "sha_short": "b87c790",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-15T03:48:44Z",
+    "message": "Huh, it wasn't bad after all huh",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/b87c79034a22c4757064aa545a1ddea699aaca24"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "900f06a1aaf09dc95647127b8ff6ff453f7e32d4",
+    "sha_short": "900f06a",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-14T15:43:47Z",
+    "message": "Recombine noteskin editor and start working on sustain rework",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/900f06a1aaf09dc95647127b8ff6ff453f7e32d4"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "149d292750ff76e9dea61b9fe663bfffe850bfd6",
+    "sha_short": "149d292",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-14T02:26:10Z",
+    "message": "Refined input binds some more",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/149d292750ff76e9dea61b9fe663bfffe850bfd6"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "8b946a4141af06e7d7380af9d68ae7c658261019",
+    "sha_short": "8b946a4",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-14T00:01:02Z",
+    "message": "Prepase sustain part :D",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/8b946a4141af06e7d7380af9d68ae7c658261019"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "8465a031800f50bdd75a40a2360be7165593d306",
+    "sha_short": "8465a03",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-13T22:08:29Z",
+    "message": "Refine noteskin strumline preview display",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/8465a031800f50bdd75a40a2360be7165593d306"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "1443322088adcf5d0b53e5bd1d94b1463fd8b64e",
+    "sha_short": "1443322",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-13T21:14:55Z",
+    "message": "Split NoteskinEditor into eight classes.",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/1443322088adcf5d0b53e5bd1d94b1463fd8b64e"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "e72b351ee62dc0df86310e8832ac6c4903dbba28",
+    "sha_short": "e72b351",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-13T20:16:50Z",
+    "message": "Move instructions text to top right",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/e72b351ee62dc0df86310e8832ac6c4903dbba28"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "4f744f3b79c761a035aba200b5c25a03e78c3080",
+    "sha_short": "4f744f3",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-10T21:24:18Z",
+    "message": "Update NoteVB.hx",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/4f744f3b79c761a035aba200b5c25a03e78c3080"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "ef3e7976e86946bac554b590ff5ab59f4ad1e97d",
+    "sha_short": "ef3e797",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-10T21:16:02Z",
+    "message": "Swap out @::structInit for @:struct",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/ef3e7976e86946bac554b590ff5ab59f4ad1e97d"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "e72a5befef1bb5eb82dda57d331f679dbb519366",
+    "sha_short": "e72a5be",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-10T16:46:57Z",
+    "message": "Thank god.",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/e72a5befef1bb5eb82dda57d331f679dbb519366"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "052dde7fa193d4b58e4c22a5d76d2e292f06018c",
+    "sha_short": "052dde7",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-09T17:15:23Z",
+    "message": "Fix playback rate",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/052dde7fa193d4b58e4c22a5d76d2e292f06018c"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "ed72810e31e96cf01b05c2a71e2ecf664babab06",
+    "sha_short": "ed72810",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-09T16:33:41Z",
+    "message": ".",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/ed72810e31e96cf01b05c2a71e2ecf664babab06"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "07304a9a9e4802cb13413a642b4454cbed4ff07a",
+    "sha_short": "07304a9",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-09T16:33:35Z",
+    "message": "Do up hashlink path for miniaudio",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/07304a9a9e4802cb13413a642b4454cbed4ff07a"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "9163fcf74bb2b960a72c3b25f510774a795ef58f",
+    "sha_short": "9163fcf",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-09T16:27:47Z",
+    "message": "Use more fma",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/9163fcf74bb2b960a72c3b25f510774a795ef58f"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "f539a3a2de6d77369edd70f59a465dc82e22ba92",
+    "sha_short": "f539a3a",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-09T16:13:30Z",
+    "message": "Utilize `fmaf` onto very expensive loop sectors",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/f539a3a2de6d77369edd70f59a465dc82e22ba92"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "c69403363bf998e966304e32353c98e77b5a6d96",
+    "sha_short": "c694033",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-09T03:26:03Z",
+    "message": "d",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/c69403363bf998e966304e32353c98e77b5a6d96"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "branch": "imgbot",
+    "sha": "e43216bc241b0fa18e588a99045262b91a9e7897",
+    "sha_short": "e43216b",
+    "author": "SomeGuyWhoLovesCoding",
+    "date": "2026-07-09T03:15:24Z",
+    "message": ".j",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/e43216bc241b0fa18e588a99045262b91a9e7897"
   },
   {
     "repo": "FNF-PeoteView",
@@ -4972,6 +5642,26 @@
   {
     "repo": "freellmapi",
     "branch": "main",
+    "sha": "d3d3a9338153c3c45a8c08d42ccb044f450e80fd",
+    "sha_short": "d3d3a93",
+    "author": "Pato (new acc)",
+    "date": "2026-09-19T20:07:49Z",
+    "message": "Merge pull request #2 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/freellmapi/commit/d3d3a9338153c3c45a8c08d42ccb044f450e80fd"
+  },
+  {
+    "repo": "freellmapi",
+    "branch": "main",
+    "sha": "3b9aa4cb201af8cb2a35e2236d59d62d7b7181a0",
+    "sha_short": "3b9aa4c",
+    "author": "ImgBotApp",
+    "date": "2026-09-19T20:05:21Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/freellmapi/commit/3b9aa4cb201af8cb2a35e2236d59d62d7b7181a0"
+  },
+  {
+    "repo": "freellmapi",
+    "branch": "main",
     "sha": "17b4221cb7a7d78250c642c36b5e33352715611b",
     "sha_short": "17b4221",
     "author": "Pato (new acc)",
@@ -5052,22 +5742,22 @@
   {
     "repo": "freellmapi",
     "branch": "main",
-    "sha": "80dd5fca550cd292d9ca3e28788c6c43b8b20305",
-    "sha_short": "80dd5fc",
-    "author": "xzyj50609",
-    "date": "2026-09-14T18:17:57Z",
-    "message": "fix(desktop): fix Windows and Linux backdrop contrast and remove macOS traffic-light padding (#1177)",
-    "url": "https://github.com/havaianasdestruido/freellmapi/commit/80dd5fca550cd292d9ca3e28788c6c43b8b20305"
+    "sha": "194f5891c1e345b1a0e4bad9406b01b8e1b0d418",
+    "sha_short": "194f589",
+    "author": "Tashfeen",
+    "date": "2026-09-10T21:33:17Z",
+    "message": "feat(providers): add Router9 and Septor Labs adapters (#1194)",
+    "url": "https://github.com/havaianasdestruido/freellmapi/commit/194f5891c1e345b1a0e4bad9406b01b8e1b0d418"
   },
   {
     "repo": "freellmapi",
     "branch": "main",
-    "sha": "0fed6d089d25a799a5e236f004f2c6d6132b9c11",
-    "sha_short": "0fed6d0",
-    "author": "suantea (asuan_suan)",
-    "date": "2026-09-14T16:08:27Z",
-    "message": "feat(quota): durable per-key monthly budget caps (#1159)",
-    "url": "https://github.com/havaianasdestruido/freellmapi/commit/0fed6d089d25a799a5e236f004f2c6d6132b9c11"
+    "sha": "83562ad360a65d80b6319297fee4cd47dc5a2ff3",
+    "sha_short": "83562ad",
+    "author": "Tashfeen",
+    "date": "2026-09-07T10:13:21Z",
+    "message": "Release v0.9.8 (#1172)",
+    "url": "https://github.com/havaianasdestruido/freellmapi/commit/83562ad360a65d80b6319297fee4cd47dc5a2ff3"
   },
   {
     "repo": "freellmapi",
@@ -5152,22 +5842,22 @@
   {
     "repo": "freellmapi",
     "branch": "main",
-    "sha": "4430d42b9e4a62676afbdd5f9148906e1a72aae0",
-    "sha_short": "4430d42",
-    "author": "Tashfeen",
-    "date": "2026-09-04T23:05:42Z",
-    "message": "fix(desktop): keep the Dock icon when the popover opens (#1153)",
-    "url": "https://github.com/havaianasdestruido/freellmapi/commit/4430d42b9e4a62676afbdd5f9148906e1a72aae0"
+    "sha": "461c6566f9f47930a72270fb1bd20f28f7f1b6a9",
+    "sha_short": "461c656",
+    "author": "suantea (asuan_suan)",
+    "date": "2026-09-03T09:32:07Z",
+    "message": "fix(cli): add missing limit.output to OpenCode generated config (#1020) (#1055)",
+    "url": "https://github.com/havaianasdestruido/freellmapi/commit/461c6566f9f47930a72270fb1bd20f28f7f1b6a9"
   },
   {
     "repo": "freellmapi",
     "branch": "main",
-    "sha": "0dab683fc2f5207546a2c55b5b3497c663031cfc",
-    "sha_short": "0dab683",
+    "sha": "619cae9d075716f73867cd898fd1dcb9b1902f00",
+    "sha_short": "619cae9",
     "author": "Tashfeen",
-    "date": "2026-09-04T22:28:20Z",
-    "message": "feat(desktop): show the app in the Dock, with a tray toggle (#1151)",
-    "url": "https://github.com/havaianasdestruido/freellmapi/commit/0dab683fc2f5207546a2c55b5b3497c663031cfc"
+    "date": "2026-09-02T13:42:16Z",
+    "message": "chore(release): bump desktop to v0.9.4 (#1134)",
+    "url": "https://github.com/havaianasdestruido/freellmapi/commit/619cae9d075716f73867cd898fd1dcb9b1902f00"
   },
   {
     "repo": "freellmapi",
@@ -5252,22 +5942,22 @@
   {
     "repo": "freellmapi",
     "branch": "main",
-    "sha": "4a8f0950fe5caf64aed1c2bc9cf036d37b80c078",
-    "sha_short": "4a8f095",
+    "sha": "3b6f40e9a3e1691dd7e561d9fa842c28d6218746",
+    "sha_short": "3b6f40e",
     "author": "Tashfeen",
-    "date": "2026-09-01T21:08:29Z",
-    "message": "Prune the quota observation log in 5k-row chunks (#1124)",
-    "url": "https://github.com/havaianasdestruido/freellmapi/commit/4a8f0950fe5caf64aed1c2bc9cf036d37b80c078"
+    "date": "2026-08-26T09:06:38Z",
+    "message": "Bump desktop to v0.9.0 (#1044)",
+    "url": "https://github.com/havaianasdestruido/freellmapi/commit/3b6f40e9a3e1691dd7e561d9fa842c28d6218746"
   },
   {
     "repo": "freellmapi",
     "branch": "main",
-    "sha": "77e0ecc2410faf991519cb06ea1999e14d71c92b",
-    "sha_short": "77e0ecc",
+    "sha": "86b6e9468e5db99e083dc18790570ae7c027bd92",
+    "sha_short": "86b6e94",
     "author": "Tashfeen",
-    "date": "2026-09-01T20:57:42Z",
-    "message": "perf: stop the quota panel from ranking the whole observation log on every poll (#1123)",
-    "url": "https://github.com/havaianasdestruido/freellmapi/commit/77e0ecc2410faf991519cb06ea1999e14d71c92b"
+    "date": "2026-08-26T08:54:51Z",
+    "message": "Credit hiiamwaffledev, w0fv1 and oppih in the contributors list (#1043)",
+    "url": "https://github.com/havaianasdestruido/freellmapi/commit/86b6e9468e5db99e083dc18790570ae7c027bd92"
   },
   {
     "repo": "freellmapi",
@@ -5352,22 +6042,22 @@
   {
     "repo": "freellmapi",
     "branch": "main",
-    "sha": "e4cad5c82b941f2fdc78df5e140492d9f88a1c6a",
-    "sha_short": "e4cad5c",
-    "author": "Patrick-léon",
-    "date": "2026-08-24T20:22:56Z",
-    "message": "Complete the French locale (#1022)",
-    "url": "https://github.com/havaianasdestruido/freellmapi/commit/e4cad5c82b941f2fdc78df5e140492d9f88a1c6a"
+    "sha": "db0b1b650e531f6b61316d58a8d85eb420b6b69e",
+    "sha_short": "db0b1b6",
+    "author": "Tashfeen",
+    "date": "2026-08-23T12:31:56Z",
+    "message": "chore(cli): release 0.5.0 (setup-dsh) (#996)",
+    "url": "https://github.com/havaianasdestruido/freellmapi/commit/db0b1b650e531f6b61316d58a8d85eb420b6b69e"
   },
   {
     "repo": "freellmapi",
     "branch": "main",
-    "sha": "4774cf02a4e6c984e17298afbe25e7e61203c3ca",
-    "sha_short": "4774cf0",
+    "sha": "1a0ce48280d377db6ce20cf52558fac91d1e618a",
+    "sha_short": "1a0ce48",
     "author": "Tashfeen",
-    "date": "2026-08-24T10:50:16Z",
-    "message": "Bring the desktop boot sequence up to server parity and bump to 0.8.7 (#1017)",
-    "url": "https://github.com/havaianasdestruido/freellmapi/commit/4774cf02a4e6c984e17298afbe25e7e61203c3ca"
+    "date": "2026-08-23T12:20:11Z",
+    "message": "feat(cli): setup-dsh — configure DeepSeek Harness in one command (#995)",
+    "url": "https://github.com/havaianasdestruido/freellmapi/commit/1a0ce48280d377db6ce20cf52558fac91d1e618a"
   },
   {
     "repo": "freellmapi",
@@ -5448,26 +6138,6 @@
     "date": "2026-08-23T01:39:02Z",
     "message": "feat(providers): add UnoRouter (unorouter.com) as an OpenAI-compatible provider (#875)",
     "url": "https://github.com/havaianasdestruido/freellmapi/commit/68ddca44c08674430151e16a0ab81517246e9fd7"
-  },
-  {
-    "repo": "freellmapi",
-    "branch": "main",
-    "sha": "ee849ed635704792992336c83125faab2154461f",
-    "sha_short": "ee849ed",
-    "author": "suantea (asuan_suan)",
-    "date": "2026-08-23T01:06:36Z",
-    "message": "feat(custom): keep user-deleted custom models deleted across scheduled sync (#926) (#931)",
-    "url": "https://github.com/havaianasdestruido/freellmapi/commit/ee849ed635704792992336c83125faab2154461f"
-  },
-  {
-    "repo": "freellmapi",
-    "branch": "main",
-    "sha": "291556df049ecd3ce974785d962cc7452b1da6b8",
-    "sha_short": "291556d",
-    "author": "tashdroid",
-    "date": "2026-08-22T11:05:59Z",
-    "message": "fix(ui): clarify the capability-tier tooltip (#891) (#966)",
-    "url": "https://github.com/havaianasdestruido/freellmapi/commit/291556df049ecd3ce974785d962cc7452b1da6b8"
   },
   {
     "repo": "freellmapi",
@@ -10192,6 +10862,26 @@
   {
     "repo": "orelha",
     "branch": "main",
+    "sha": "d1acdc376138748798eab511317e19f48dba7863",
+    "sha_short": "d1acdc3",
+    "author": "Pato (new acc)",
+    "date": "2026-09-19T20:04:10Z",
+    "message": "Merge pull request #1 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/orelha/commit/d1acdc376138748798eab511317e19f48dba7863"
+  },
+  {
+    "repo": "orelha",
+    "branch": "main",
+    "sha": "dee20af3633d20f0fcd76b1c06b48805c60ca791",
+    "sha_short": "dee20af",
+    "author": "ImgBotApp",
+    "date": "2026-09-19T20:03:14Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/orelha/commit/dee20af3633d20f0fcd76b1c06b48805c60ca791"
+  },
+  {
+    "repo": "orelha",
+    "branch": "main",
     "sha": "fe8f47a31db6a33e292698b4808aba6d452e7dd9",
     "sha_short": "fe8f47a",
     "author": "Pato (new acc)",
@@ -10762,6 +11452,26 @@
   {
     "repo": "Rbx2Source-enhanced",
     "branch": "experimental",
+    "sha": "59424a8234b5e3f51443c82b3f3242557fbdb30c",
+    "sha_short": "59424a8",
+    "author": "Pato (new acc)",
+    "date": "2026-09-19T20:04:49Z",
+    "message": "Merge pull request #1 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/59424a8234b5e3f51443c82b3f3242557fbdb30c"
+  },
+  {
+    "repo": "Rbx2Source-enhanced",
+    "branch": "experimental",
+    "sha": "66c6a125faa3778f543762e13a1a0afc93e399e6",
+    "sha_short": "66c6a12",
+    "author": "ImgBotApp",
+    "date": "2026-09-19T20:03:03Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/66c6a125faa3778f543762e13a1a0afc93e399e6"
+  },
+  {
+    "repo": "Rbx2Source-enhanced",
+    "branch": "experimental",
     "sha": "0387fd6957074ff5a5029e5c9dccefb46ff11fd3",
     "sha_short": "0387fd6",
     "author": "havaianasdestruido",
@@ -10842,22 +11552,22 @@
   {
     "repo": "Rbx2Source-enhanced",
     "branch": "experimental",
-    "sha": "4abd10cabf18871be4b32994229c13508c2b260e",
-    "sha_short": "4abd10c",
+    "sha": "9614bf70f0d367d9afb95b6baf55a4fd09044b3d",
+    "sha_short": "9614bf7",
     "author": "aleksa07",
-    "date": "2026-08-06T10:36:38Z",
-    "message": "Route R6 animations through DeltaSequence with raw deltas",
-    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/4abd10cabf18871be4b32994229c13508c2b260e"
+    "date": "2026-07-11T19:39:14Z",
+    "message": "v2.9.4 — x64 build, username label, CI fixes",
+    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/9614bf70f0d367d9afb95b6baf55a4fd09044b3d"
   },
   {
     "repo": "Rbx2Source-enhanced",
     "branch": "experimental",
-    "sha": "55cab9c46a5636c229fff6f13ab2cd8bcff03a2e",
-    "sha_short": "55cab9c",
+    "sha": "4150e3d5935360dcad0145091659b9bf10ae74db",
+    "sha_short": "4150e3d",
     "author": "aleksa07",
-    "date": "2026-08-06T10:22:30Z",
-    "message": "Refresh repo-root Rbx2Source.exe with outfit disk cache",
-    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/55cab9c46a5636c229fff6f13ab2cd8bcff03a2e"
+    "date": "2026-07-11T11:51:17Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/4150e3d5935360dcad0145091659b9bf10ae74db"
   },
   {
     "repo": "Rbx2Source-enhanced",
@@ -10942,22 +11652,22 @@
   {
     "repo": "Rbx2Source-enhanced",
     "branch": "experimental",
-    "sha": "4e9d9c5ddaef53e2969eea6ecfefc7a64a5d8c25",
-    "sha_short": "4e9d9c5",
-    "author": "aleksa07",
-    "date": "2026-05-18T21:01:28Z",
-    "message": "Update AGENTS.md with full changelog",
-    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/4e9d9c5ddaef53e2969eea6ecfefc7a64a5d8c25"
+    "sha": "ce94e7eed7938ddf9173b74f6b23c43695a9a4e6",
+    "sha_short": "ce94e7e",
+    "author": "femou",
+    "date": "2023-06-11T21:40:25Z",
+    "message": "Update README.md to change LockpickInteractive to MaximumADHD",
+    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/ce94e7eed7938ddf9173b74f6b23c43695a9a4e6"
   },
   {
     "repo": "Rbx2Source-enhanced",
     "branch": "experimental",
-    "sha": "8160b2a7ce36eec2499212251056a0e0c3cc40d8",
-    "sha_short": "8160b2a",
-    "author": "aleksa07",
-    "date": "2026-05-18T21:00:50Z",
-    "message": "Update AGENTS.md: auto-update branch change",
-    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/8160b2a7ce36eec2499212251056a0e0c3cc40d8"
+    "sha": "1ae6c83e80154fc0cb58d66e73afb3922536001d",
+    "sha_short": "1ae6c83",
+    "author": "femou",
+    "date": "2023-06-11T21:37:26Z",
+    "message": "Merge pull request #1 from MaximumADHD/main",
+    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/1ae6c83e80154fc0cb58d66e73afb3922536001d"
   },
   {
     "repo": "Rbx2Source-enhanced",
@@ -11042,22 +11752,22 @@
   {
     "repo": "Rbx2Source-enhanced",
     "branch": "experimental",
-    "sha": "e9eed1ae8a55ac447143a57c161b24928d9d68af",
-    "sha_short": "e9eed1a",
+    "sha": "18a7cd9d76f427d1ff9197326cc40811a32449bd",
+    "sha_short": "18a7cd9",
     "author": "qfoxb",
-    "date": "2023-04-20T14:41:41Z",
-    "message": "Update _config.yml",
-    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/e9eed1ae8a55ac447143a57c161b24928d9d68af"
+    "date": "2023-04-06T18:34:01Z",
+    "message": "⚠READ THE README PLEASE",
+    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/18a7cd9d76f427d1ff9197326cc40811a32449bd"
   },
   {
     "repo": "Rbx2Source-enhanced",
     "branch": "experimental",
-    "sha": "86a738bb1dbbbb5f077a05b1af228707ef155a8b",
-    "sha_short": "86a738b",
+    "sha": "1c2bf320813058cc25a5e0f879aa26e7344e4f12",
+    "sha_short": "1c2bf32",
     "author": "qfoxb",
-    "date": "2023-04-20T14:38:15Z",
-    "message": "add favicon",
-    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/86a738bb1dbbbb5f077a05b1af228707ef155a8b"
+    "date": "2023-04-05T21:35:18Z",
+    "message": "Merge pull request #19 from LockpickInteractive/dependabot/nuget/Newtonsoft.Json-13.0.3",
+    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/1c2bf320813058cc25a5e0f879aa26e7344e4f12"
   },
   {
     "repo": "Rbx2Source-enhanced",
@@ -11142,22 +11852,22 @@
   {
     "repo": "Rbx2Source-enhanced",
     "branch": "experimental",
-    "sha": "cd5b238bfaa8851ab0225bf564a3908b89b3fb81",
-    "sha_short": "cd5b238",
+    "sha": "9fbe2130a74c60c8bdc930dfcab1aef3b60201cf",
+    "sha_short": "9fbe213",
     "author": "qfoxb",
-    "date": "2022-12-07T15:06:07Z",
-    "message": "Update version.txt",
-    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/cd5b238bfaa8851ab0225bf564a3908b89b3fb81"
+    "date": "2022-10-21T00:23:25Z",
+    "message": "🎊Merge pull request #12 from qfoxb/main",
+    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/9fbe2130a74c60c8bdc930dfcab1aef3b60201cf"
   },
   {
     "repo": "Rbx2Source-enhanced",
     "branch": "experimental",
-    "sha": "ddd54337b196cdd39ed8b2f39ccd888e115deae6",
-    "sha_short": "ddd5433",
+    "sha": "23770500be41b258d4ed831731ee48391588dabb",
+    "sha_short": "2377050",
     "author": "qfoxb",
-    "date": "2022-12-03T08:31:28Z",
-    "message": "Update _config.yml",
-    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/ddd54337b196cdd39ed8b2f39ccd888e115deae6"
+    "date": "2022-10-21T00:14:24Z",
+    "message": "Change build.yml to not crash if vt upload fails",
+    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/23770500be41b258d4ed831731ee48391588dabb"
   },
   {
     "repo": "Rbx2Source-enhanced",
@@ -11238,26 +11948,6 @@
     "date": "2022-10-11T01:07:40Z",
     "message": "Bump to version 2.68",
     "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/a09e1fdfcc734b2924c237f72b505fc18cf31fd7"
-  },
-  {
-    "repo": "Rbx2Source-enhanced",
-    "branch": "experimental",
-    "sha": "c536ce4e5ab6f5f0bc8f41ceb07c5200f62b8acb",
-    "sha_short": "c536ce4",
-    "author": "qfoxb",
-    "date": "2022-10-10T19:32:44Z",
-    "message": "Fix crash on startup",
-    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/c536ce4e5ab6f5f0bc8f41ceb07c5200f62b8acb"
-  },
-  {
-    "repo": "Rbx2Source-enhanced",
-    "branch": "experimental",
-    "sha": "0cac42424dce8231d33802497d27134554363480",
-    "sha_short": "0cac424",
-    "author": "qfoxb",
-    "date": "2022-10-10T19:22:59Z",
-    "message": "Update build.yml",
-    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/0cac42424dce8231d33802497d27134554363480"
   },
   {
     "repo": "rdprxy",
@@ -12408,6 +13098,26 @@
     "date": "2026-08-03T16:52:23Z",
     "message": "initial commit",
     "url": "https://github.com/havaianasdestruido/slideshow-studio/commit/9ce3f99277380148f4f3ea164b57a1394e760037"
+  },
+  {
+    "repo": "Sonic4",
+    "branch": "main",
+    "sha": "7c2ca666a206610d2a0cdfe153136d30e3d8575f",
+    "sha_short": "7c2ca66",
+    "author": "Pato (new acc)",
+    "date": "2026-09-19T20:04:52Z",
+    "message": "Merge pull request #1 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/Sonic4/commit/7c2ca666a206610d2a0cdfe153136d30e3d8575f"
+  },
+  {
+    "repo": "Sonic4",
+    "branch": "main",
+    "sha": "b8761650af88efeb084aa64d23a411cbb9d30987",
+    "sha_short": "b876165",
+    "author": "ImgBotApp",
+    "date": "2026-09-19T20:04:11Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/Sonic4/commit/b8761650af88efeb084aa64d23a411cbb9d30987"
   },
   {
     "repo": "Sonic4",

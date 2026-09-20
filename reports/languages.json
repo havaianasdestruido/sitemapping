@@ -162,24 +162,6 @@
     "percent": 0.1
   },
   {
-    "repo": "DOOMMAPS",
-    "language": "JavaScript",
-    "bytes": 272671,
-    "percent": 95.9
-  },
-  {
-    "repo": "DOOMMAPS",
-    "language": "CSS",
-    "bytes": 8220,
-    "percent": 2.9
-  },
-  {
-    "repo": "DOOMMAPS",
-    "language": "HTML",
-    "bytes": 3329,
-    "percent": 1.2
-  },
-  {
     "repo": "EZInfiniteYTLive",
     "language": "C#",
     "bytes": 7795,
@@ -1148,8 +1130,8 @@
   {
     "repo": "Sonic4",
     "language": "C++",
-    "bytes": 16929575,
-    "percent": 79.3
+    "bytes": 16949525,
+    "percent": 79.4
   },
   {
     "repo": "Sonic4",
@@ -1160,8 +1142,8 @@
   {
     "repo": "Sonic4",
     "language": "Pawn",
-    "bytes": 241261,
-    "percent": 1.1
+    "bytes": 221311,
+    "percent": 1.0
   },
   {
     "repo": "Sonic4",

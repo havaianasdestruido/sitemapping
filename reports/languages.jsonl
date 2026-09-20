@@ -25,9 +25,6 @@
 {"repo": "calculator", "language": "Shell", "bytes": 4448, "percent": 0.3}
 {"repo": "calculator", "language": "TypeScript", "bytes": 1509, "percent": 0.1}
 {"repo": "calculator", "language": "HTML", "bytes": 1170, "percent": 0.1}
-{"repo": "DOOMMAPS", "language": "JavaScript", "bytes": 272671, "percent": 95.9}
-{"repo": "DOOMMAPS", "language": "CSS", "bytes": 8220, "percent": 2.9}
-{"repo": "DOOMMAPS", "language": "HTML", "bytes": 3329, "percent": 1.2}
 {"repo": "EZInfiniteYTLive", "language": "C#", "bytes": 7795, "percent": 100.0}
 {"repo": "face-tagger", "language": "C#", "bytes": 9145, "percent": 100.0}
 {"repo": "FNF-PeoteView", "language": "C", "bytes": 4407895, "percent": 70.7}
@@ -189,9 +186,9 @@
 {"repo": "Servidor-Perfeito", "language": "HTML", "bytes": 3844, "percent": 100.0}
 {"repo": "sigma-click", "language": "HTML", "bytes": 13478, "percent": 100.0}
 {"repo": "slideshow-studio", "language": "C#", "bytes": 59465, "percent": 100.0}
-{"repo": "Sonic4", "language": "C++", "bytes": 16929575, "percent": 79.3}
+{"repo": "Sonic4", "language": "C++", "bytes": 16949525, "percent": 79.4}
 {"repo": "Sonic4", "language": "C", "bytes": 3908820, "percent": 18.3}
-{"repo": "Sonic4", "language": "Pawn", "bytes": 241261, "percent": 1.1}
+{"repo": "Sonic4", "language": "Pawn", "bytes": 221311, "percent": 1.0}
 {"repo": "Sonic4", "language": "Objective-C++", "bytes": 146447, "percent": 0.7}
 {"repo": "Sonic4", "language": "Objective-C", "bytes": 119638, "percent": 0.6}
 {"repo": "Sonic4", "language": "CMake", "bytes": 153, "percent": 0.0}

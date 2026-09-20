@@ -8,44 +8,20 @@
     "url": "https://github.com/havaianasdestruido/AudioTaste/commit/4e7ad01509542836213e7125ccc4fb067bb78d9b"
   },
   {
-    "repo": "DOOMMAPS",
+    "repo": "calculator",
     "pr_number": 1,
-    "sha": "ab8922399b973d526e059bff1a9b745e2ecbd085",
-    "sha_short": "ab89223",
-    "message": "DOOMMAPS: playable DOOM-style FPS over real-world geography",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/ab8922399b973d526e059bff1a9b745e2ecbd085"
+    "sha": "2ec7688d290121f4b17e28dec9da97486e5fef6c",
+    "sha_short": "2ec7688",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/calculator/commit/2ec7688d290121f4b17e28dec9da97486e5fef6c"
   },
   {
-    "repo": "DOOMMAPS",
+    "repo": "FNF-PeoteView",
     "pr_number": 1,
-    "sha": "a96f2433edb037218c5d8babc408787b0fe617a7",
-    "sha_short": "a96f243",
-    "message": "Polish: lighting balance, console key, tracer fix, README, art-verified sprites",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/a96f2433edb037218c5d8babc408787b0fe617a7"
-  },
-  {
-    "repo": "DOOMMAPS",
-    "pr_number": 1,
-    "sha": "cb52f9b86d3c7e139851981d6b1838761d70a141",
-    "sha_short": "cb52f9b",
-    "message": "Add exploding barrels w/ chain reactions, rocket tube view, automap caching",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/cb52f9b86d3c7e139851981d6b1838761d70a141"
-  },
-  {
-    "repo": "DOOMMAPS",
-    "pr_number": 1,
-    "sha": "0dd07848a5ee2040fb3670eee0e70a228dfaac27",
-    "sha_short": "0dd0784",
-    "message": "Backpack, partial invisibility sphere, rocket scorch decals, PAR time",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/0dd07848a5ee2040fb3670eee0e70a228dfaac27"
-  },
-  {
-    "repo": "DOOMMAPS",
-    "pr_number": 1,
-    "sha": "f28b750c2ba8aac458d99524f33655eb8b970b11",
-    "sha_short": "f28b750",
-    "message": "3D Tiles availability probe on title screen; README: barrels/backpack/invis/PAR",
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/commit/f28b750c2ba8aac458d99524f33655eb8b970b11"
+    "sha": "354c48e9e18eafea87696d0ed8be12c2dc95f758",
+    "sha_short": "354c48e",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/commit/354c48e9e18eafea87696d0ed8be12c2dc95f758"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -401,6 +377,14 @@
   },
   {
     "repo": "freellmapi",
+    "pr_number": 2,
+    "sha": "3b9aa4cb201af8cb2a35e2236d59d62d7b7181a0",
+    "sha_short": "3b9aa4c",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/freellmapi/commit/3b9aa4cb201af8cb2a35e2236d59d62d7b7181a0"
+  },
+  {
+    "repo": "freellmapi",
     "pr_number": 1,
     "sha": "e27d942a5565bfab15708c929477b42ccf45a586",
     "sha_short": "e27d942",
@@ -656,6 +640,14 @@
     "url": "https://github.com/havaianasdestruido/OdontoAura/commit/36171de0ae0e8415386888655c0ec4a8f7494a59"
   },
   {
+    "repo": "orelha",
+    "pr_number": 1,
+    "sha": "dee20af3633d20f0fcd76b1c06b48805c60ca791",
+    "sha_short": "dee20af",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/orelha/commit/dee20af3633d20f0fcd76b1c06b48805c60ca791"
+  },
+  {
     "repo": "pong-pop",
     "pr_number": 2,
     "sha": "796d5c1f8434666fa2d70df3093f594ec3d26c03",
@@ -678,6 +670,14 @@
     "sha_short": "7868b75",
     "message": "Bump the npm_and_yarn group across 2 directories with 3 updates",
     "url": "https://github.com/havaianasdestruido/R2K16/commit/7868b756bd7dc1cdcfe5292e0025046d640bdede"
+  },
+  {
+    "repo": "Rbx2Source-enhanced",
+    "pr_number": 1,
+    "sha": "66c6a125faa3778f543762e13a1a0afc93e399e6",
+    "sha_short": "66c6a12",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/66c6a125faa3778f543762e13a1a0afc93e399e6"
   },
   {
     "repo": "sand-box2d",
@@ -718,6 +718,14 @@
     "sha_short": "baa53b8",
     "message": "Add popup physics browser game",
     "url": "https://github.com/havaianasdestruido/sand-box2d/commit/baa53b8b0c84fabc21d027d67980dd3bd78f6f7d"
+  },
+  {
+    "repo": "Sonic4",
+    "pr_number": 1,
+    "sha": "b8761650af88efeb084aa64d23a411cbb9d30987",
+    "sha_short": "b876165",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/Sonic4/commit/b8761650af88efeb084aa64d23a411cbb9d30987"
   },
   {
     "repo": "steamlogger",

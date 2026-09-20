@@ -13,17 +13,30 @@
     "url": "https://github.com/havaianasdestruido/AudioTaste/pull/1"
   },
   {
-    "repo": "DOOMMAPS",
+    "repo": "calculator",
     "state": "closed",
     "status": "merged",
     "number": 1,
-    "title": "🔥 DOOMMAPS: DOOM-style FPS over real-world geography",
-    "user": "arena-ai-coding-agent[bot]",
-    "created_at": "2026-09-18T14:13:30Z",
-    "base_branch": "main",
-    "head_branch": "arena/01a0b487-doommaps",
-    "commit_count": 5,
-    "url": "https://github.com/havaianasdestruido/DOOMMAPS/pull/1"
+    "title": "[ImgBot] Optimize images",
+    "user": "imgbot[bot]",
+    "created_at": "2026-09-19T20:02:44Z",
+    "base_branch": "uno",
+    "head_branch": "imgbot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/calculator/pull/1"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "state": "open",
+    "status": "open",
+    "number": 1,
+    "title": "[ImgBot] Optimize images",
+    "user": "imgbot[bot]",
+    "created_at": "2026-09-19T20:09:44Z",
+    "base_branch": "official",
+    "head_branch": "imgbot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/FNF-PeoteView/pull/1"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -206,6 +219,19 @@
     "head_branch": "nightly-link",
     "commit_count": 3,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/1"
+  },
+  {
+    "repo": "freellmapi",
+    "state": "closed",
+    "status": "merged",
+    "number": 2,
+    "title": "[ImgBot] Optimize images",
+    "user": "imgbot[bot]",
+    "created_at": "2026-09-19T20:05:27Z",
+    "base_branch": "main",
+    "head_branch": "imgbot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/freellmapi/pull/2"
   },
   {
     "repo": "freellmapi",
@@ -546,6 +572,19 @@
     "url": "https://github.com/havaianasdestruido/OdontoAura/pull/49"
   },
   {
+    "repo": "orelha",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "[ImgBot] Optimize images",
+    "user": "imgbot[bot]",
+    "created_at": "2026-09-19T20:03:18Z",
+    "base_branch": "main",
+    "head_branch": "imgbot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/orelha/pull/1"
+  },
+  {
     "repo": "pong-pop",
     "state": "closed",
     "status": "merged",
@@ -585,6 +624,19 @@
     "url": "https://github.com/havaianasdestruido/R2K16/pull/1"
   },
   {
+    "repo": "Rbx2Source-enhanced",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "[ImgBot] Optimize images",
+    "user": "imgbot[bot]",
+    "created_at": "2026-09-19T20:03:08Z",
+    "base_branch": "experimental",
+    "head_branch": "imgbot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/pull/1"
+  },
+  {
     "repo": "sand-box2d",
     "state": "closed",
     "status": "merged",
@@ -622,6 +674,19 @@
     "head_branch": "codex/create-physics-simulation-game-with-popups",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/sand-box2d/pull/1"
+  },
+  {
+    "repo": "Sonic4",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "[ImgBot] Optimize images",
+    "user": "imgbot[bot]",
+    "created_at": "2026-09-19T20:04:23Z",
+    "base_branch": "main",
+    "head_branch": "imgbot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/Sonic4/pull/1"
   },
   {
     "repo": "steamlogger",
