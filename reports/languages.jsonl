@@ -17,6 +17,7 @@
 {"repo": "BloodAndBacon-DnSpyEx", "language": "C#", "bytes": 11557836, "percent": 100.0}
 {"repo": "bloxNES", "language": "Lua", "bytes": 58862, "percent": 99.8}
 {"repo": "bloxNES", "language": "Luau", "bytes": 116, "percent": 0.2}
+{"repo": "BulkStarHistoryAdd", "language": "PowerShell", "bytes": 7191, "percent": 100.0}
 {"repo": "calculator", "language": "C#", "bytes": 859232, "percent": 64.8}
 {"repo": "calculator", "language": "C++", "bytes": 424928, "percent": 32.0}
 {"repo": "calculator", "language": "C", "bytes": 21784, "percent": 1.6}
@@ -192,6 +193,7 @@
 {"repo": "Sonic4", "language": "Objective-C", "bytes": 119638, "percent": 0.6}
 {"repo": "Sonic4", "language": "CMake", "bytes": 153, "percent": 0.0}
 {"repo": "steamlogger", "language": "Rust", "bytes": 70496, "percent": 100.0}
+{"repo": "top100", "language": "Python", "bytes": 9510, "percent": 100.0}
 {"repo": "transition-plugin", "language": "Rust", "bytes": 1769, "percent": 76.7}
 {"repo": "transition-plugin", "language": "C#", "bytes": 538, "percent": 23.3}
 {"repo": "video-trimmer", "language": "C#", "bytes": 19619, "percent": 100.0}

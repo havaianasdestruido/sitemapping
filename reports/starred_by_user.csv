@@ -1,4 +1,10 @@
 full_name,url,description
+librepods-org/librepods,https://github.com/librepods-org/librepods,AirPods liberated from Apple's ecosystem.
+JunkFood02/Seal,https://github.com/JunkFood02/Seal,"🦭 Video/Audio Downloader for Android, based on yt-dlp"
+signalapp/Signal-Android,https://github.com/signalapp/Signal-Android,A private messenger for Android.
+square/leakcanary,https://github.com/square/leakcanary,A memory leak detection library for Android.
+JetBrains/kotlin,https://github.com/JetBrains/kotlin,The Kotlin Programming Language. 
+topjohnwu/Magisk,https://github.com/topjohnwu/Magisk,The Magic Mask for Android
 MSNightmare/ShieldCrash,https://github.com/MSNightmare/ShieldCrash,Windows Defender 0day Vulnerability
 MSNightmare/FalconFlank,https://github.com/MSNightmare/FalconFlank,Crowdstrike Falcon 0day Privilege Escalation Vulnerability
 MSNightmare/BigDiskBuster,https://github.com/MSNightmare/BigDiskBuster,Windows Defender Update Denial of Service Vulnerability

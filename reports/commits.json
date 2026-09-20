@@ -202,6 +202,26 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "cbc3fac2a3e9b844ac3e411adb25802c76abb3f9",
+    "sha_short": "cbc3fac",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:13:36Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/cbc3fac2a3e9b844ac3e411adb25802c76abb3f9"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
+    "sha": "38233970f2489a0afe61f88628f3ec88b4159e97",
+    "sha_short": "3823397",
+    "author": "GitHub Action Bot",
+    "date": "2026-09-20T18:25:43Z",
+    "message": "📊 [2026-09-20 18:25:43 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/38233970f2489a0afe61f88628f3ec88b4159e97"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "262d303edc47d3d607520791398cbe9712394ff8",
     "sha_short": "262d303",
     "author": "GitHub Action Bot",
@@ -278,26 +298,6 @@
     "date": "2026-09-19T14:59:14Z",
     "message": "Change GITHUB_TOKEN to GITHUB_PAT in workflow",
     "url": "https://github.com/havaianasdestruido/sitemapping/commit/7af849f89b6d3e9decfb834f5cedcc3d7bee8c37"
-  },
-  {
-    "repo": "sitemapping",
-    "branch": "main",
-    "sha": "530cfa225460782736ed8473366fb6434e088b5d",
-    "sha_short": "530cfa2",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-19T14:49:04Z",
-    "message": "📊 Update repository report [2026-09-19 14:49:04 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/530cfa225460782736ed8473366fb6434e088b5d"
-  },
-  {
-    "repo": "sitemapping",
-    "branch": "main",
-    "sha": "531d02779db6101779fe4b134f5600cbc01283ac",
-    "sha_short": "531d027",
-    "author": "Pato (new acc)",
-    "date": "2026-09-19T14:43:24Z",
-    "message": "Adjust max commit pages and enhance error handling",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/531d02779db6101779fe4b134f5600cbc01283ac"
   },
   {
     "repo": ".github",
@@ -1518,6 +1518,16 @@
     "date": "2026-07-08T21:02:45Z",
     "message": "hisense: not all TVs are unlockable",
     "url": "https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/commit/4bb8f0603ea1a872ab81f114ce0d2d828bd7e0cc"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "main",
+    "sha": "794212e7575bcf9a3727cfd9443f599030bf03e4",
+    "sha_short": "794212e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:09:11Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/794212e7575bcf9a3727cfd9443f599030bf03e4"
   },
   {
     "repo": "calculator",
@@ -7162,6 +7172,16 @@
   {
     "repo": "Giggles-Shit",
     "branch": "main",
+    "sha": "67804cbf37f5d7b9660161fb2e840e369618871e",
+    "sha_short": "67804cb",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:00Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/67804cbf37f5d7b9660161fb2e840e369618871e"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "main",
     "sha": "8ba6919eb3eed230a4bf95a7fa8d0cea979957f0",
     "sha_short": "8ba6919",
     "author": "Pato (new acc)",
@@ -7248,16 +7268,6 @@
     "date": "2026-08-12T14:44:02Z",
     "message": "Update gas.userscript.js",
     "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/598e1162e001280fcc986ddaba4f8767067c27a8"
-  },
-  {
-    "repo": "Giggles-Shit",
-    "branch": "main",
-    "sha": "f6c63b226d30c70b82acab207034536026800f15",
-    "sha_short": "f6c63b2",
-    "author": "Pato (new acc)",
-    "date": "2026-08-12T14:43:46Z",
-    "message": "use repo emojis",
-    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/f6c63b226d30c70b82acab207034536026800f15"
   },
   {
     "repo": "gitgithub",
@@ -7502,6 +7512,16 @@
   {
     "repo": "gitgithub",
     "branch": "main",
+    "sha": "ac196567d012bf81c345764d3467cad52cc35d53",
+    "sha_short": "ac19656",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:04Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/gitgithub/commit/ac196567d012bf81c345764d3467cad52cc35d53"
+  },
+  {
+    "repo": "gitgithub",
+    "branch": "main",
     "sha": "078986aeddc61d5b12763e7ae7d294a36df666bb",
     "sha_short": "078986a",
     "author": "Pato (new acc)",
@@ -7590,14 +7610,14 @@
     "url": "https://github.com/havaianasdestruido/gitgithub/commit/587446ddf97ab5eca4fa71cb5d913c11a80ac4df"
   },
   {
-    "repo": "gitgithub",
+    "repo": "havaianasdestruido.github.io",
     "branch": "main",
-    "sha": "c3cf07f9a152a99d94705fa3358cf7662651a0fc",
-    "sha_short": "c3cf07f",
-    "author": "Pato (new acc)",
-    "date": "2026-08-14T18:36:44Z",
-    "message": "Add files via upload",
-    "url": "https://github.com/havaianasdestruido/gitgithub/commit/c3cf07f9a152a99d94705fa3358cf7662651a0fc"
+    "sha": "80c46c32083ea3a4a7b7397266fa3300dc9bf390",
+    "sha_short": "80c46c3",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:02Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/80c46c32083ea3a4a7b7397266fa3300dc9bf390"
   },
   {
     "repo": "havaianasdestruido.github.io",
@@ -7658,6 +7678,16 @@
     "date": "2026-08-12T16:02:07Z",
     "message": "Create readme.md",
     "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/7ca7f2290eb2becff3915f0a0e7e77d80c670287"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "main",
+    "sha": "77c9661cd5033af1fd593c19e31ec9550cb9dedc",
+    "sha_short": "77c9661",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:28Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/77c9661cd5033af1fd593c19e31ec9550cb9dedc"
   },
   {
     "repo": "Hiphenatus",
@@ -7748,16 +7778,6 @@
     "date": "2025-04-18T13:49:43Z",
     "message": "Merge branch 'main' of https://github.com/PatoFlamejanteTV/Hiphenatus",
     "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/79225dc377ffdf2862655908b92cb390d6b6bb56"
-  },
-  {
-    "repo": "Hiphenatus",
-    "branch": "main",
-    "sha": "0f03e7c829ab50b8b015d8dbb75d6e264692ef7d",
-    "sha_short": "0f03e7c",
-    "author": "UltimateQuack",
-    "date": "2025-04-18T13:46:54Z",
-    "message": "new thigns again again AGAIN",
-    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/0f03e7c829ab50b8b015d8dbb75d6e264692ef7d"
   },
   {
     "repo": "hscript-improved",
@@ -8582,6 +8602,16 @@
   {
     "repo": "ImgBotAutomerger",
     "branch": "main",
+    "sha": "e63b325222b1ec3157fefea5c9a722aabcec34b4",
+    "sha_short": "e63b325",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:13:40Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/ImgBotAutomerger/commit/e63b325222b1ec3157fefea5c9a722aabcec34b4"
+  },
+  {
+    "repo": "ImgBotAutomerger",
+    "branch": "main",
     "sha": "9b4c8968637430c3a5610467d00afd4eaaf86548",
     "sha_short": "9b4c896",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -9042,6 +9072,16 @@
   {
     "repo": "manimce-claude",
     "branch": "main",
+    "sha": "26d97e8f0c663faf7ed488d1a45a99a40b1d9086",
+    "sha_short": "26d97e8",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:17Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/manimce-claude/commit/26d97e8f0c663faf7ed488d1a45a99a40b1d9086"
+  },
+  {
+    "repo": "manimce-claude",
+    "branch": "main",
     "sha": "2340546db5d45313c4a3d45b41fddcc6266e2278",
     "sha_short": "2340546",
     "author": "Pato (new acc)",
@@ -9128,16 +9168,6 @@
     "date": "2026-09-14T23:20:23Z",
     "message": "Update marketplace.json",
     "url": "https://github.com/havaianasdestruido/manimce-claude/commit/841fb6d3cf6c65a68ee97baeb9b8271efe7f2013"
-  },
-  {
-    "repo": "manimce-claude",
-    "branch": "main",
-    "sha": "03ceebb598c3ddcf7cfca1922e74927404e33f0c",
-    "sha_short": "03ceebb",
-    "author": "havaianasdestruido",
-    "date": "2026-09-13T21:11:54Z",
-    "message": "Adiciona skill manim-community como plugin/marketplace",
-    "url": "https://github.com/havaianasdestruido/manimce-claude/commit/03ceebb598c3ddcf7cfca1922e74927404e33f0c"
   },
   {
     "repo": "MeatyMod",
@@ -9432,6 +9462,16 @@
   {
     "repo": "mmr-gui",
     "branch": "master",
+    "sha": "5be04a23d9cc4839a908076b39deee52957cfbf4",
+    "sha_short": "5be04a2",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:13:50Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/mmr-gui/commit/5be04a23d9cc4839a908076b39deee52957cfbf4"
+  },
+  {
+    "repo": "mmr-gui",
+    "branch": "master",
     "sha": "088a3783e501d10e419f7ea2ad9658609ec90be3",
     "sha_short": "088a378",
     "author": "Pato (new acc)",
@@ -9478,6 +9518,16 @@
     "date": "2026-08-03T00:42:20Z",
     "message": "mmr-gui: WinForms harness exercising WMMR core DLLs (wlidcli, uxctl, WLXVideoTrim, WLXPipetran, MovieMakerCore)",
     "url": "https://github.com/havaianasdestruido/mmr-gui/commit/428c9c56c41433a00104c4066d6e7be808b61e56"
+  },
+  {
+    "repo": "mmr-python",
+    "branch": "master",
+    "sha": "f0183a417b184d82020b3e96042fa888167ad7cd",
+    "sha_short": "f0183a4",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:19Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/mmr-python/commit/f0183a417b184d82020b3e96042fa888167ad7cd"
   },
   {
     "repo": "mmr-python",
@@ -9542,6 +9592,16 @@
   {
     "repo": "moviemaker-launcher",
     "branch": "master",
+    "sha": "269b5a2d66c0809580bf0586ac0e042fa7687dbd",
+    "sha_short": "269b5a2",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:13:53Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/moviemaker-launcher/commit/269b5a2d66c0809580bf0586ac0e042fa7687dbd"
+  },
+  {
+    "repo": "moviemaker-launcher",
+    "branch": "master",
     "sha": "ff9b3f52db356c255517cfc20246f34e59b64613",
     "sha_short": "ff9b3f5",
     "author": "Pato (new acc)",
@@ -9558,6 +9618,16 @@
     "date": "2026-08-03T16:51:47Z",
     "message": "initial commit",
     "url": "https://github.com/havaianasdestruido/moviemaker-launcher/commit/0260b6dcd40990f7f60289a88550d17677671249"
+  },
+  {
+    "repo": "noisy",
+    "branch": "main",
+    "sha": "eb8cde7815ab34ba8b16a40d3e70ab51320929ab",
+    "sha_short": "eb8cde7",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:13:38Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/noisy/commit/eb8cde7815ab34ba8b16a40d3e70ab51320929ab"
   },
   {
     "repo": "noisy",
@@ -9648,16 +9718,6 @@
     "date": "2025-10-15T21:35:32Z",
     "message": "LGTM",
     "url": "https://github.com/havaianasdestruido/noisy/commit/0aeaed6c9de41956d61a86570ab559ff87c0c39d"
-  },
-  {
-    "repo": "noisy",
-    "branch": "main",
-    "sha": "b5f3d781d1bf43c6117e94933aea16ff53459eb8",
-    "sha_short": "b5f3d78",
-    "author": "google-labs-jules[bot]",
-    "date": "2025-10-15T21:34:42Z",
-    "message": "Implement advanced optimization using unsafe code",
-    "url": "https://github.com/havaianasdestruido/noisy/commit/b5f3d781d1bf43c6117e94933aea16ff53459eb8"
   },
   {
     "repo": "OdontoAura",
@@ -12512,6 +12572,16 @@
   {
     "repo": "PersonaDB",
     "branch": "main",
+    "sha": "74509cba255b328b0e3f2c4635dde7144cd9994a",
+    "sha_short": "74509cb",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:13:47Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/74509cba255b328b0e3f2c4635dde7144cd9994a"
+  },
+  {
+    "repo": "PersonaDB",
+    "branch": "main",
     "sha": "513a5cc62d582862fdcd26417b3b9a3da878c876",
     "sha_short": "513a5cc",
     "author": "havaianasdestruido",
@@ -12558,6 +12628,16 @@
     "date": "2026-08-03T16:08:06Z",
     "message": "initial",
     "url": "https://github.com/havaianasdestruido/photoviewer/commit/e476d2cc9a024bdb77167aefc215c2c9848415f2"
+  },
+  {
+    "repo": "pipeline-graph",
+    "branch": "master",
+    "sha": "48fb4b78241dca9ba34279fa88aa0c012190e77b",
+    "sha_short": "48fb4b7",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:13:57Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/pipeline-graph/commit/48fb4b78241dca9ba34279fa88aa0c012190e77b"
   },
   {
     "repo": "pipeline-graph",
@@ -12702,6 +12782,16 @@
   {
     "repo": "pong-pop",
     "branch": "main",
+    "sha": "d1e9e5204aee65c9ede469c2ca52cc9d89dfba71",
+    "sha_short": "d1e9e52",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:30Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/d1e9e5204aee65c9ede469c2ca52cc9d89dfba71"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "main",
     "sha": "59f6e5666f097d11286e8bad464709c6e3838db0",
     "sha_short": "59f6e56",
     "author": "Pato (new acc)",
@@ -12788,16 +12878,6 @@
     "date": "2026-08-03T18:00:31Z",
     "message": "fix: arrumado bug do player não conseguir se mover",
     "url": "https://github.com/havaianasdestruido/pong-pop/commit/ce6ee1abd12acfd63ccb11a3e16776208a2653d9"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "main",
-    "sha": "883bb4b95756725cb3c144d5017ff06e59721274",
-    "sha_short": "883bb4b",
-    "author": "UltimateQuack",
-    "date": "2026-08-03T17:47:55Z",
-    "message": "wip",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/883bb4b95756725cb3c144d5017ff06e59721274"
   },
   {
     "repo": "PWSV",
@@ -13872,6 +13952,16 @@
   {
     "repo": "RoBrowser",
     "branch": "main",
+    "sha": "2d99c8b076035834757f4d7c6e94bce06ac558ae",
+    "sha_short": "2d99c8b",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:15Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/RoBrowser/commit/2d99c8b076035834757f4d7c6e94bce06ac558ae"
+  },
+  {
+    "repo": "RoBrowser",
+    "branch": "main",
     "sha": "51e09381f46824047fb95b302ce4a85d52559afb",
     "sha_short": "51e0938",
     "author": "Pato (new acc)",
@@ -13962,12 +14052,12 @@
   {
     "repo": "RoBrowser",
     "branch": "main",
-    "sha": "f22bd72bb78cbdcd7c640f194e40bb5a5433aff4",
-    "sha_short": "f22bd72",
+    "sha": "19a918dc7af8d306c7892b6350ba0b0c1505ac94",
+    "sha_short": "19a918d",
     "author": "PatoFlamejanteTV",
-    "date": "2026-05-03T15:24:21Z",
-    "message": "fix(01): fix overlapping divs and invalid font enum error",
-    "url": "https://github.com/havaianasdestruido/RoBrowser/commit/f22bd72bb78cbdcd7c640f194e40bb5a5433aff4"
+    "date": "2026-05-02T14:51:28Z",
+    "message": "feat(gui): add navigation bar, link clicking, history, and loading states",
+    "url": "https://github.com/havaianasdestruido/RoBrowser/commit/19a918dc7af8d306c7892b6350ba0b0c1505ac94"
   },
   {
     "repo": "RoBrowser",
@@ -14058,16 +14148,6 @@
     "date": "2026-05-02T13:54:30Z",
     "message": "feat(gui): add browser engine to render HTML via Roblox UI",
     "url": "https://github.com/havaianasdestruido/RoBrowser/commit/39c0317329468d04948741430adfa53ad0b4ca8d"
-  },
-  {
-    "repo": "RoBrowser",
-    "branch": "main",
-    "sha": "6e69e28b4759322bafdcb295391f3d197b538309",
-    "sha_short": "6e69e28",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-05-02T13:48:57Z",
-    "message": "feat(parser): add lightweight HTML parser",
-    "url": "https://github.com/havaianasdestruido/RoBrowser/commit/6e69e28b4759322bafdcb295391f3d197b538309"
   },
   {
     "repo": "ROT-1",
@@ -14552,6 +14632,16 @@
   {
     "repo": "steamlogger",
     "branch": "main",
+    "sha": "9c8a57e96a64ec2d9bd9b70d7d6a823276c4d6fe",
+    "sha_short": "9c8a57e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:06Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/9c8a57e96a64ec2d9bd9b70d7d6a823276c4d6fe"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "main",
     "sha": "c87f09b961df51f76c3d70ef350615b309fa1f6f",
     "sha_short": "c87f09b",
     "author": "Pato (new acc)",
@@ -14578,6 +14668,106 @@
     "date": "2026-08-10T20:40:19Z",
     "message": "chore: scaffold steamlogger crate with module contracts",
     "url": "https://github.com/havaianasdestruido/steamlogger/commit/42a8dbd8c7833c1dfebaca6544170e41437a1686"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "00bd00a84710d2aa9695513d698b3944ab12312a",
+    "sha_short": "00bd00a",
+    "author": "github-actions[bot]",
+    "date": "2026-09-20T20:14:26Z",
+    "message": "data: update top repos data (2026-09-20)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/00bd00a84710d2aa9695513d698b3944ab12312a"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "fb6bdac58be216560f9b7016791eb384e54baac8",
+    "sha_short": "fb6bdac",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:13:33Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/top100/commit/fb6bdac58be216560f9b7016791eb384e54baac8"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "c6fcf35fe3b2c1324471d73bdc3011843eb403ee",
+    "sha_short": "c6fcf35",
+    "author": "github-actions[bot]",
+    "date": "2026-09-20T20:11:13Z",
+    "message": "data: update top repos data (2026-09-20)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/c6fcf35fe3b2c1324471d73bdc3011843eb403ee"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "ede024c3bf8e0e4653f7088c079c907655daa9de",
+    "sha_short": "ede024c",
+    "author": "github-actions[bot]",
+    "date": "2026-09-20T19:57:27Z",
+    "message": "data: update top repos data (2026-09-20)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/ede024c3bf8e0e4653f7088c079c907655daa9de"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "85406284ee1510f62fab3e4df7263f7d7f5e8ce4",
+    "sha_short": "8540628",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:55:55Z",
+    "message": "Fix link case sensitivity in README.md",
+    "url": "https://github.com/havaianasdestruido/top100/commit/85406284ee1510f62fab3e4df7263f7d7f5e8ce4"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "89733e0187ff2f7ebe1a3ea347ff69de3560b9c9",
+    "sha_short": "89733e0",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:55:17Z",
+    "message": "Add push trigger for main branch in workflow",
+    "url": "https://github.com/havaianasdestruido/top100/commit/89733e0187ff2f7ebe1a3ea347ff69de3560b9c9"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "2723f0f56f61ee64dcf59100cf8524c93769b885",
+    "sha_short": "2723f0f",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:54:16Z",
+    "message": "Update cron schedule to run every hour",
+    "url": "https://github.com/havaianasdestruido/top100/commit/2723f0f56f61ee64dcf59100cf8524c93769b885"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "931f06c1bcb03ed092a402330fafe30eb8d5a9a1",
+    "sha_short": "931f06c",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:52:39Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/top100/commit/931f06c1bcb03ed092a402330fafe30eb8d5a9a1"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "533c2d12813a4daf10d195c8a97f5b94f9f15ddc",
+    "sha_short": "533c2d1",
+    "author": "github-actions[bot]",
+    "date": "2026-09-20T19:49:16Z",
+    "message": "data: update top repos data (2026-09-20)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/533c2d12813a4daf10d195c8a97f5b94f9f15ddc"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "effc1ae74aef9001bba6e70f3b09c6387d64d460",
+    "sha_short": "effc1ae",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:46:46Z",
+    "message": "Include LISTS.md in commit results step",
+    "url": "https://github.com/havaianasdestruido/top100/commit/effc1ae74aef9001bba6e70f3b09c6387d64d460"
   },
   {
     "repo": "transition-plugin",
@@ -15022,6 +15212,16 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "branch": "main",
+    "sha": "d57094460078a84b7616959b6c633dae90c07913",
+    "sha_short": "d570944",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:13:41Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d57094460078a84b7616959b6c633dae90c07913"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "main",
     "sha": "fb99b156973ee401023b9fd8d2d76efb02d0196f",
     "sha_short": "fb99b15",
     "author": "Pato (new acc)",
@@ -15112,12 +15312,12 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "branch": "main",
-    "sha": "af63df74bc3392b91e07d059b93803b71ecde26f",
-    "sha_short": "af63df7",
+    "sha": "8a634b2ee09e21921b19ebd744e66f5b01743a33",
+    "sha_short": "8a634b2",
     "author": "UltimateQuack",
-    "date": "2026-08-05T16:23:39Z",
-    "message": "feat: real implementations for WLXMediaPublishSubscribe, WLXPipeline, WLXMP4Parser",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/af63df74bc3392b91e07d059b93803b71ecde26f"
+    "date": "2026-07-31T21:19:22Z",
+    "message": "fix: WLXMediaPublishSubscribe — remove invalid WinInet cleanup",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8a634b2ee09e21921b19ebd744e66f5b01743a33"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -15212,12 +15412,12 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "branch": "main",
-    "sha": "d5011083790d04b888110c92348f788e551a892d",
-    "sha_short": "d501108",
+    "sha": "3cff7529fa5c79cf66f2b29b3d76bc035960a484",
+    "sha_short": "3cff752",
     "author": "UltimateQuack",
-    "date": "2026-07-31T19:40:11Z",
-    "message": "fix: clean full-solution Debug build — 25 binaries compile",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d5011083790d04b888110c92348f788e551a892d"
+    "date": "2026-07-29T17:03:53Z",
+    "message": "Add wlidcli.dll stub (7 ordinal exports for Live ID auth)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3cff7529fa5c79cf66f2b29b3d76bc035960a484"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -15312,12 +15512,12 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "branch": "main",
-    "sha": "5a8fe6de5e0990345a4c4f1a2602283ab101c193",
-    "sha_short": "5a8fe6d",
+    "sha": "8510a6a0c74dfec99bd050a71a083e41f472c747",
+    "sha_short": "8510a6a",
     "author": "UltimateQuack",
-    "date": "2026-07-28T18:40:18Z",
-    "message": "WLXAlbumDownloadWizard: add test harness",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5a8fe6de5e0990345a4c4f1a2602283ab101c193"
+    "date": "2026-07-28T18:06:53Z",
+    "message": "test(WLXPhotoAcq.dll): dedicated test harness",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8510a6a0c74dfec99bd050a71a083e41f472c747"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -15408,15 +15608,5 @@
     "date": "2026-07-27T21:34:32Z",
     "message": "analysis(PhotoViewerShimx64): x64 vs x86 comparison, CLSID verification, architecture",
     "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/acac41ba2c3f187c5046a3d9f0823c6b5015d984"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "branch": "main",
-    "sha": "89a4e8691bfb6919eac2af1c868d5f1900172ab9",
-    "sha_short": "89a4e86",
-    "author": "UltimateQuack",
-    "date": "2026-07-27T18:58:55Z",
-    "message": "analysis(WLXCodecHostPS.dll): COM proxy/stub marshaling, NDR format strings",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/89a4e8691bfb6919eac2af1c868d5f1900172ab9"
   }
 ]

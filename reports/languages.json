@@ -114,6 +114,12 @@
     "percent": 0.2
   },
   {
+    "repo": "BulkStarHistoryAdd",
+    "language": "PowerShell",
+    "bytes": 7191,
+    "percent": 100.0
+  },
+  {
     "repo": "calculator",
     "language": "C#",
     "bytes": 859232,
@@ -1161,6 +1167,12 @@
     "repo": "steamlogger",
     "language": "Rust",
     "bytes": 70496,
+    "percent": 100.0
+  },
+  {
+    "repo": "top100",
+    "language": "Python",
+    "bytes": 9510,
     "percent": 100.0
   },
   {

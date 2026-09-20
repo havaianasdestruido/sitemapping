@@ -4,8 +4,8 @@
 
 > fka. PatoFlamejantetv/UltimateQuack
 
-**Generated:** 2026-09-20 18:22:45 UTC
-**Public Repositories:** 62
+**Generated:** 2026-09-20 20:13:46 UTC
+**Public Repositories:** 64
 
 ---
 
@@ -182,9 +182,11 @@
   > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-20
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `262d303`
+      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `cbc3fac`
         - 📋 [All Commits](https://github.com/havaianasdestruido/sitemapping/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/sitemapping/commits/main)
+          - [`cbc3fac`](https://github.com/havaianasdestruido/sitemapping/commit/cbc3fac2a3e9b844ac3e411adb25802c76abb3f9) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
+          - [`3823397`](https://github.com/havaianasdestruido/sitemapping/commit/38233970f2489a0afe61f88628f3ec88b4159e97) **📊 \[2026-09-20 18:25:43 UTC\]** — _GitHub Action Bot_ (2026-09-20)
           - [`262d303`](https://github.com/havaianasdestruido/sitemapping/commit/262d303edc47d3d607520791398cbe9712394ff8) **📊 \[2026-09-20 15:20:12 UTC\]** — _GitHub Action Bot_ (2026-09-20)
           - [`82796a8`](https://github.com/havaianasdestruido/sitemapping/commit/82796a8c59836726df17349c43dc0bbd49a6e2cc) **Update repo-analyzer.yml** — _Pato (new acc)_ (2026-09-20)
           - [`7966b0d`](https://github.com/havaianasdestruido/sitemapping/commit/7966b0d8d2ba6efa4d1af469a18a9a6ba8817f2c) **Change cron schedule to run every 4 hours** — _Pato (new acc)_ (2026-09-20)
@@ -193,8 +195,6 @@
           - [`d5b7ae0`](https://github.com/havaianasdestruido/sitemapping/commit/d5b7ae092e418cf5de137a3d550df83640cbee71) **📊 Update repository report \[2026-09-20 03:58:53 UTC\]** — _GitHub Action Bot_ (2026-09-20)
           - [`5cdd65b`](https://github.com/havaianasdestruido/sitemapping/commit/5cdd65b34cd7dd38f5a2c04d760fd5073517c7bf) **Bruh** — _Pato (new acc)_ (2026-09-19)
           - [`7af849f`](https://github.com/havaianasdestruido/sitemapping/commit/7af849f89b6d3e9decfb834f5cedcc3d7bee8c37) **Change GITHUB_TOKEN to GITHUB_PAT in workflow** — _Pato (new acc)_ (2026-09-19)
-          - [`530cfa2`](https://github.com/havaianasdestruido/sitemapping/commit/530cfa225460782736ed8473366fb6434e088b5d) **📊 Update repository report \[2026-09-19 14:49:04 UTC\]** — _GitHub Action Bot_ (2026-09-19)
-          - [`531d027`](https://github.com/havaianasdestruido/sitemapping/commit/531d02779db6101779fe4b134f5600cbc01283ac) **Adjust max commit pages and enhance error handling** — _Pato (new acc)_ (2026-09-19)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -212,8 +212,8 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 19 commit(s)
-      - [@actions-user](https://github.com/actions-user) — 12 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 20 commit(s)
+      - [@actions-user](https://github.com/actions-user) — 13 commit(s)
 
     - ### 🏷️ Releases (2)
       - [v1.1](https://github.com/havaianasdestruido/sitemapping/releases/tag/1.1) — 2026-09-20
@@ -590,6 +590,40 @@
 
     - ### 🏷️ Releases (0)
 
+
+---
+
+- ## [BulkStarHistoryAdd](https://github.com/havaianasdestruido/BulkStarHistoryAdd)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 PowerShell | 📅 Created: 2026-09-20 | 🔄 Updated: 2026-09-20
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/BulkStarHistoryAdd/tree/main) _(default)_ — HEAD: `794212e`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/BulkStarHistoryAdd/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/BulkStarHistoryAdd/commits/main)
+          - [`794212e`](https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/794212e7575bcf9a3727cfd9443f599030bf03e4) **Add files via upload** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `PowerShell` — 100.0% (7,191 bytes)
 
 ---
 
@@ -1697,9 +1731,10 @@
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 JavaScript | 📅 Created: 2026-08-12 | 🔄 Updated: 2026-09-18
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/Giggles-Shit/tree/main) _(default)_ — HEAD: `8ba6919`
+      - [`main`](https://github.com/havaianasdestruido/Giggles-Shit/tree/main) _(default)_ — HEAD: `67804cb`
         - 📋 [All Commits](https://github.com/havaianasdestruido/Giggles-Shit/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/Giggles-Shit/commits/main)
+          - [`67804cb`](https://github.com/havaianasdestruido/Giggles-Shit/commit/67804cbf37f5d7b9660161fb2e840e369618871e) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`8ba6919`](https://github.com/havaianasdestruido/Giggles-Shit/commit/8ba6919eb3eed230a4bf95a7fa8d0cea979957f0) **Add MIT License** — _Pato (new acc)_ (2026-09-18)
           - [`9b040e7`](https://github.com/havaianasdestruido/Giggles-Shit/commit/9b040e7432f5a46f604869fd0c2bb45f786e7d20) **Update README.md** — _Pato (new acc)_ (2026-08-12)
           - [`b791a93`](https://github.com/havaianasdestruido/Giggles-Shit/commit/b791a934e7ef085749eedb5782832946d42ce932) **Add files via upload** — _Pato (new acc)_ (2026-08-12)
@@ -1709,7 +1744,6 @@
           - [`612c767`](https://github.com/havaianasdestruido/Giggles-Shit/commit/612c7670b07e25d0a63429930708886a315a78e3) **final ver** — _Pato (new acc)_ (2026-08-12)
           - [`252597e`](https://github.com/havaianasdestruido/Giggles-Shit/commit/252597ee3835a96e2eb24d48431508087f27e256) **working ver** — _Pato (new acc)_ (2026-08-12)
           - [`598e116`](https://github.com/havaianasdestruido/Giggles-Shit/commit/598e1162e001280fcc986ddaba4f8767067c27a8) **Update gas.userscript.js** — _Pato (new acc)_ (2026-08-12)
-          - [`f6c63b2`](https://github.com/havaianasdestruido/Giggles-Shit/commit/f6c63b226d30c70b82acab207034536026800f15) **use repo emojis** — _Pato (new acc)_ (2026-08-12)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -1726,7 +1760,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 18 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 19 commit(s)
 
     - ### 🏷️ Releases (0)
 
@@ -1773,9 +1807,10 @@
           - [`4d60381`](https://github.com/havaianasdestruido/gitgithub/commit/4d603810681bfc52eba7e6ed8bff73f676200d28) **Update README.MD** — _Pato (new acc)_ (2026-08-14)
           - [`59b6ab2`](https://github.com/havaianasdestruido/gitgithub/commit/59b6ab2e95af7c451e34aec8a59832bed4739b03) **Add files via upload** — _Pato (new acc)_ (2026-08-14)
           - [`31a6d06`](https://github.com/havaianasdestruido/gitgithub/commit/31a6d06784ff3ce4b88fa3f98ab394168cb5fe20) **Create readme.txt** — _Pato (new acc)_ (2026-08-14)
-      - [`main`](https://github.com/havaianasdestruido/gitgithub/tree/main) _(default)_ — HEAD: `078986a`
+      - [`main`](https://github.com/havaianasdestruido/gitgithub/tree/main) _(default)_ — HEAD: `ac19656`
         - 📋 [All Commits](https://github.com/havaianasdestruido/gitgithub/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/gitgithub/commits/main)
+          - [`ac19656`](https://github.com/havaianasdestruido/gitgithub/commit/ac196567d012bf81c345764d3467cad52cc35d53) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`078986a`](https://github.com/havaianasdestruido/gitgithub/commit/078986aeddc61d5b12763e7ae7d294a36df666bb) **Add MIT License** — _Pato (new acc)_ (2026-09-18)
           - [`726e1f5`](https://github.com/havaianasdestruido/gitgithub/commit/726e1f5e1080a3ba5e9766bd68edab37212f7402) **Merge pull request #3 from havaianasdestruido/expand-tba-readme-93487836** — _Pato (new acc)_ (2026-08-14)
           - [`b5da763`](https://github.com/havaianasdestruido/gitgithub/commit/b5da76343c699ed5fc1917bcfbcfbc130673b80d) **docs: expand TBA sections in README with Git command examples** — _google-labs-jules[bot]_ (2026-08-14)
@@ -1785,7 +1820,6 @@
           - [`bacb688`](https://github.com/havaianasdestruido/gitgithub/commit/bacb6888fe68e73d40b698da1507080b8773f626) **adicionado seção sobre git** — _Pato (new acc)_ (2026-08-14)
           - [`060700f`](https://github.com/havaianasdestruido/gitgithub/commit/060700fd026a2a24718dd0f0122992d813784d89) **Add files via upload** — _Pato (new acc)_ (2026-08-14)
           - [`587446d`](https://github.com/havaianasdestruido/gitgithub/commit/587446ddf97ab5eca4fa71cb5d913c11a80ac4df) **imagens** — _Pato (new acc)_ (2026-08-14)
-          - [`c3cf07f`](https://github.com/havaianasdestruido/gitgithub/commit/c3cf07f9a152a99d94705fa3358cf7662651a0fc) **Add files via upload** — _Pato (new acc)_ (2026-08-14)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -1812,7 +1846,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 16 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 17 commit(s)
       - [@google-labs-jules[bot]](https://github.com/apps/google-labs-jules) — 3 commit(s)
 
     - ### 🏷️ Releases (0)
@@ -1825,9 +1859,10 @@
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 HTML | 📅 Created: 2026-08-12 | 🔄 Updated: 2026-09-18
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/tree/main) _(default)_ — HEAD: `9f8bb40`
+      - [`main`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/tree/main) _(default)_ — HEAD: `80c46c3`
         - 📋 [All Commits](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commits/main)
+          - [`80c46c3`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/80c46c32083ea3a4a7b7397266fa3300dc9bf390) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`9f8bb40`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/9f8bb4079edf665c62be478941343e0c0efc07bf) **Add MIT License** — _Pato (new acc)_ (2026-09-18)
           - [`5b6c00b`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/5b6c00ba26e7b76fb9be60927e0bd314701f3d4c) **Add files via upload** — _Pato (new acc)_ (2026-08-12)
           - [`e07cb17`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e07cb17dc90152c120daa3785996ccb258bafce2) **full screen car** — _Pato (new acc)_ (2026-08-12)
@@ -1850,7 +1885,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 6 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 7 commit(s)
 
     - ### 🏷️ Releases (0)
 
@@ -1864,9 +1899,10 @@
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-09-07 | 🔄 Updated: 2026-09-07
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/Hiphenatus/tree/main) _(default)_ — HEAD: `1b99902`
+      - [`main`](https://github.com/havaianasdestruido/Hiphenatus/tree/main) _(default)_ — HEAD: `77c9661`
         - 📋 [All Commits](https://github.com/havaianasdestruido/Hiphenatus/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/Hiphenatus/commits/main)
+          - [`77c9661`](https://github.com/havaianasdestruido/Hiphenatus/commit/77c9661cd5033af1fd593c19e31ec9550cb9dedc) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`1b99902`](https://github.com/havaianasdestruido/Hiphenatus/commit/1b99902af481bd3ab3b06dc71593fe822eeeeeab) **downgraded OH too** — _UltimateQuack_ (2025-04-18)
           - [`8bf024e`](https://github.com/havaianasdestruido/Hiphenatus/commit/8bf024e0ee0a43b9567b9eb233bddd29b11ad41d) **moved to .net 4.0 guyssssss** — _UltimateQuack_ (2025-04-18)
           - [`d180d6c`](https://github.com/havaianasdestruido/Hiphenatus/commit/d180d6c4baffab8bfa7d29cdd1024b6212e483af) **final version before migrating to XP suppport** — _UltimateQuack_ (2025-04-18)
@@ -1876,7 +1912,6 @@
           - [`61aaeea`](https://github.com/havaianasdestruido/Hiphenatus/commit/61aaeea3fbebfb7f58637cc27dc52ceae5e072d1) **OMFG** — _UltimateQuack_ (2025-04-18)
           - [`a6a543b`](https://github.com/havaianasdestruido/Hiphenatus/commit/a6a543becf91ac599b99112034a72cf02d0958f4) **corruptions changes + fvck desteuctive or no builds** — _UltimateQuack_ (2025-04-18)
           - [`79225dc`](https://github.com/havaianasdestruido/Hiphenatus/commit/79225dc377ffdf2862655908b92cb390d6b6bb56) **Merge branch 'main' of https://github.com/PatoFlamejanteTV/Hiphenatus** — _UltimateQuack_ (2025-04-18)
-          - [`0f03e7c`](https://github.com/havaianasdestruido/Hiphenatus/commit/0f03e7c829ab50b8b015d8dbb75d6e264692ef7d) **new thigns again again AGAIN** — _UltimateQuack_ (2025-04-18)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -1892,7 +1927,8 @@
 
     - ### 👀 Watchers / Subscribers (0)
 
-    - ### 👥 Contributors (0)
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 1 commit(s)
 
     - ### 🏷️ Releases (0)
 
@@ -2087,9 +2123,9 @@
 
 ---
 
-- ## [ImaturidadePlusPlus](https://github.com/havaianasdestruido/ImaturidadePlusPlus) `🗃️ Template`
+- ## [ImaturidadePlusPlus](https://github.com/havaianasdestruido/ImaturidadePlusPlus) `📦 Archived | 🗃️ Template`
   > old fnf mod
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 Lua | 📅 Created: 2026-08-09 | 🔄 Updated: 2026-08-09
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 Lua | 📅 Created: 2026-08-09 | 🔄 Updated: 2026-09-20
 
     - ### 🌿 Branches (1)
       - [`main`](https://github.com/havaianasdestruido/ImaturidadePlusPlus/tree/main) _(default)_ — HEAD: `a27ddc2`
@@ -2137,9 +2173,10 @@
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 PowerShell | 📅 Created: 2026-09-20 | 🔄 Updated: 2026-09-20
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/ImgBotAutomerger/tree/main) _(default)_ — HEAD: `9b4c896`
+      - [`main`](https://github.com/havaianasdestruido/ImgBotAutomerger/tree/main) _(default)_ — HEAD: `e63b325`
         - 📋 [All Commits](https://github.com/havaianasdestruido/ImgBotAutomerger/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/ImgBotAutomerger/commits/main)
+          - [`e63b325`](https://github.com/havaianasdestruido/ImgBotAutomerger/commit/e63b325222b1ec3157fefea5c9a722aabcec34b4) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`9b4c896`](https://github.com/havaianasdestruido/ImgBotAutomerger/commit/9b4c8968637430c3a5610467d00afd4eaaf86548) **Update README.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`17c27bf`](https://github.com/havaianasdestruido/ImgBotAutomerger/commit/17c27bf30571b397cee374a4aac46f0ee9085c02) **Add files via upload** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`08ed328`](https://github.com/havaianasdestruido/ImgBotAutomerger/commit/08ed3284ccf78bae647b73bc701e7d8f26a067cc) **Update README.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
@@ -2162,7 +2199,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 6 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 7 commit(s)
 
     - ### 🏷️ Releases (0)
 
@@ -2262,9 +2299,10 @@
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-18
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/manimce-claude/tree/main) _(default)_ — HEAD: `2340546`
+      - [`main`](https://github.com/havaianasdestruido/manimce-claude/tree/main) _(default)_ — HEAD: `26d97e8`
         - 📋 [All Commits](https://github.com/havaianasdestruido/manimce-claude/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/manimce-claude/commits/main)
+          - [`26d97e8`](https://github.com/havaianasdestruido/manimce-claude/commit/26d97e8f0c663faf7ed488d1a45a99a40b1d9086) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`2340546`](https://github.com/havaianasdestruido/manimce-claude/commit/2340546db5d45313c4a3d45b41fddcc6266e2278) **Add MIT License** — _Pato (new acc)_ (2026-09-18)
           - [`ba2e29f`](https://github.com/havaianasdestruido/manimce-claude/commit/ba2e29ff4efb48c14d76868c00f68735cb0f421a) **Add GitHub labeler configuration for SKILL.md categories** — _Pato (new acc)_ (2026-09-14)
           - [`293d2c4`](https://github.com/havaianasdestruido/manimce-claude/commit/293d2c4d4a87b77ed925b83998dc9dd73c044378) **Create label.yml** — _Pato (new acc)_ (2026-09-14)
@@ -2274,7 +2312,6 @@
           - [`88fc2b1`](https://github.com/havaianasdestruido/manimce-claude/commit/88fc2b102759bffac40b4d3f46557c4f7b51ab20) **Create jekyll-gh-pages.yml** — _Pato (new acc)_ (2026-09-14)
           - [`3bcbb3f`](https://github.com/havaianasdestruido/manimce-claude/commit/3bcbb3f52b28ad68b1a8cd7058c17a520f4753cd) **moved some stuff** — _havaianasdestruido_ (2026-09-14)
           - [`841fb6d`](https://github.com/havaianasdestruido/manimce-claude/commit/841fb6d3cf6c65a68ee97baeb9b8271efe7f2013) **Update marketplace.json** — _Pato (new acc)_ (2026-09-14)
-          - [`03ceebb`](https://github.com/havaianasdestruido/manimce-claude/commit/03ceebb598c3ddcf7cfca1922e74927404e33f0c) **Adiciona skill manim-community como plugin/marketplace** — _havaianasdestruido_ (2026-09-13)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -2291,7 +2328,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 10 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 11 commit(s)
 
     - ### 🏷️ Releases (1)
       - [v1.0](https://github.com/havaianasdestruido/manimce-claude/releases/tag/1.0) — 2026-09-14
@@ -2501,9 +2538,10 @@
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-09-18
 
     - ### 🌿 Branches (1)
-      - [`master`](https://github.com/havaianasdestruido/mmr-gui/tree/master) _(default)_ — HEAD: `088a378`
+      - [`master`](https://github.com/havaianasdestruido/mmr-gui/tree/master) _(default)_ — HEAD: `5be04a2`
         - 📋 [All Commits](https://github.com/havaianasdestruido/mmr-gui/commits/master)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/mmr-gui/commits/master)
+          - [`5be04a2`](https://github.com/havaianasdestruido/mmr-gui/commit/5be04a23d9cc4839a908076b39deee52957cfbf4) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`088a378`](https://github.com/havaianasdestruido/mmr-gui/commit/088a3783e501d10e419f7ea2ad9658609ec90be3) **Add MIT License** — _Pato (new acc)_ (2026-09-18)
           - [`86e9125`](https://github.com/havaianasdestruido/mmr-gui/commit/86e9125d95fb2c8141d37c07c5747b5d084fc790) **docs: mmr-gui README - usage, workflows, baseline selftest record, CI** — _UltimateQuack_ (2026-08-03)
           - [`3deeaa6`](https://github.com/havaianasdestruido/mmr-gui/commit/3deeaa6ed0514c57a579d806d33b701d04fc1410) **feat: full 21-DLL GUI suite browser - 128 checks, deep workflows, JUnit/** — _UltimateQuack_ (2026-08-03)
@@ -2525,7 +2563,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 1 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 2 commit(s)
 
     - ### 🏷️ Releases (0)
 
@@ -2539,9 +2577,10 @@
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-09-18
 
     - ### 🌿 Branches (1)
-      - [`master`](https://github.com/havaianasdestruido/mmr-python/tree/master) _(default)_ — HEAD: `ccb70d4`
+      - [`master`](https://github.com/havaianasdestruido/mmr-python/tree/master) _(default)_ — HEAD: `f0183a4`
         - 📋 [All Commits](https://github.com/havaianasdestruido/mmr-python/commits/master)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/mmr-python/commits/master)
+          - [`f0183a4`](https://github.com/havaianasdestruido/mmr-python/commit/f0183a417b184d82020b3e96042fa888167ad7cd) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`ccb70d4`](https://github.com/havaianasdestruido/mmr-python/commit/ccb70d42ef3f86dc69b4647c43a8aabab70ccaf9) **Create LICENSE** — _Pato (new acc)_ (2026-09-18)
           - [`937f240`](https://github.com/havaianasdestruido/mmr-python/commit/937f240226f770551f7ed2f9dd67e786982641fb) **feat: pin contracts to real WLX factory/pipeline/MP4 behavior** — _havaianasdestruido_ (2026-09-17)
           - [`0dfddee`](https://github.com/havaianasdestruido/mmr-python/commit/0dfddee44a0e4cbb939f938e3301652e8fd0c717) **feat: full 21-DLL ctypes framework - coverage, workflows, JUnit/JSON/TAP** — _UltimateQuack_ (2026-08-03)
@@ -2562,7 +2601,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 2 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 3 commit(s)
 
     - ### 🏷️ Releases (0)
 
@@ -2611,9 +2650,10 @@
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-09-18
 
     - ### 🌿 Branches (1)
-      - [`master`](https://github.com/havaianasdestruido/moviemaker-launcher/tree/master) _(default)_ — HEAD: `ff9b3f5`
+      - [`master`](https://github.com/havaianasdestruido/moviemaker-launcher/tree/master) _(default)_ — HEAD: `269b5a2`
         - 📋 [All Commits](https://github.com/havaianasdestruido/moviemaker-launcher/commits/master)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/moviemaker-launcher/commits/master)
+          - [`269b5a2`](https://github.com/havaianasdestruido/moviemaker-launcher/commit/269b5a2d66c0809580bf0586ac0e042fa7687dbd) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`ff9b3f5`](https://github.com/havaianasdestruido/moviemaker-launcher/commit/ff9b3f52db356c255517cfc20246f34e59b64613) **Add MIT License** — _Pato (new acc)_ (2026-09-18)
           - [`0260b6d`](https://github.com/havaianasdestruido/moviemaker-launcher/commit/0260b6dcd40990f7f60289a88550d17677671249) **initial commit** — _UltimateQuack_ (2026-08-03)
 
@@ -2632,7 +2672,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 1 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 2 commit(s)
 
     - ### 🏷️ Releases (0)
 
@@ -2646,9 +2686,10 @@
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-09-07 | 🔄 Updated: 2026-09-20
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/noisy/tree/main) _(default)_ — HEAD: `46d376b`
+      - [`main`](https://github.com/havaianasdestruido/noisy/tree/main) _(default)_ — HEAD: `eb8cde7`
         - 📋 [All Commits](https://github.com/havaianasdestruido/noisy/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/noisy/commits/main)
+          - [`eb8cde7`](https://github.com/havaianasdestruido/noisy/commit/eb8cde7815ab34ba8b16a40d3e70ab51320929ab) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`46d376b`](https://github.com/havaianasdestruido/noisy/commit/46d376bdf570c86b1b96426b371f5ec254c80eec) **Update README.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`41a3ff1`](https://github.com/havaianasdestruido/noisy/commit/41a3ff1b31d31105c3d257641e947379c216d080) **Add files via upload** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`2ecddb7`](https://github.com/havaianasdestruido/noisy/commit/2ecddb7922ae5241b37acd07499353d9c211d0a3) **.** — _UltimateQuack_ (2025-10-15)
@@ -2658,7 +2699,6 @@
           - [`f518933`](https://github.com/havaianasdestruido/noisy/commit/f51893390b3927de459614039c971955bcb0957d) **Merge pull request #2 from PatoFlamejanteTV/feature/increase-performance** — _UltimateQuack_ (2025-10-15)
           - [`10e40dd`](https://github.com/havaianasdestruido/noisy/commit/10e40ddfce8597cd1b035a5e5e7a154fd3a9f00a) **Merge branch 'main' into feature/increase-performance** — _UltimateQuack_ (2025-10-15)
           - [`0aeaed6`](https://github.com/havaianasdestruido/noisy/commit/0aeaed6c9de41956d61a86570ab559ff87c0c39d) **LGTM** — _UltimateQuack_ (2025-10-15)
-          - [`b5f3d78`](https://github.com/havaianasdestruido/noisy/commit/b5f3d781d1bf43c6117e94933aea16ff53459eb8) **Implement advanced optimization using unsafe code** — _google-labs-jules[bot]_ (2025-10-15)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -2675,7 +2715,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 2 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 3 commit(s)
       - [@google-labs-jules[bot]](https://github.com/apps/google-labs-jules) — 2 commit(s)
 
     - ### 🏷️ Releases (0)
@@ -3102,7 +3142,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (4)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 66 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 67 commit(s)
       - [@dependabot[bot]](https://github.com/apps/dependabot) — 55 commit(s)
       - [@morelloettore](https://github.com/morelloettore) — 4 commit(s)
       - [@google-labs-jules[bot]](https://github.com/apps/google-labs-jules) — 1 commit(s)
@@ -3164,9 +3204,10 @@
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-16 | 🔄 Updated: 2026-09-18
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/PersonaDB/tree/main) _(default)_ — HEAD: `513a5cc`
+      - [`main`](https://github.com/havaianasdestruido/PersonaDB/tree/main) _(default)_ — HEAD: `74509cb`
         - 📋 [All Commits](https://github.com/havaianasdestruido/PersonaDB/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/PersonaDB/commits/main)
+          - [`74509cb`](https://github.com/havaianasdestruido/PersonaDB/commit/74509cba255b328b0e3f2c4635dde7144cd9994a) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`513a5cc`](https://github.com/havaianasdestruido/PersonaDB/commit/513a5cc62d582862fdcd26417b3b9a3da878c876) **feat: PersonaDB v1 — esquema, engines, seeds e geradores 00-02** — _havaianasdestruido_ (2026-09-18)
           - [`6402361`](https://github.com/havaianasdestruido/PersonaDB/commit/640236178468a9f7dffe17ae217888e6fd82989e) **Create LICENSE** — _Pato (new acc)_ (2026-09-18)
           - [`83eaa36`](https://github.com/havaianasdestruido/PersonaDB/commit/83eaa36709a1ef0454d10709686a002ea2b528c9) **init** — _havaianasdestruido_ (2026-09-16)
@@ -3186,7 +3227,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 3 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 4 commit(s)
 
     - ### 🏷️ Releases (0)
 
@@ -3236,9 +3277,10 @@
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-08-03 | 🔄 Updated: 2026-09-18
 
     - ### 🌿 Branches (1)
-      - [`master`](https://github.com/havaianasdestruido/pipeline-graph/tree/master) _(default)_ — HEAD: `12fa127`
+      - [`master`](https://github.com/havaianasdestruido/pipeline-graph/tree/master) _(default)_ — HEAD: `48fb4b7`
         - 📋 [All Commits](https://github.com/havaianasdestruido/pipeline-graph/commits/master)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/pipeline-graph/commits/master)
+          - [`48fb4b7`](https://github.com/havaianasdestruido/pipeline-graph/commit/48fb4b78241dca9ba34279fa88aa0c012190e77b) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`12fa127`](https://github.com/havaianasdestruido/pipeline-graph/commit/12fa1278f265b5a08a8fa462aad43168d0e3600b) **Add MIT License** — _Pato (new acc)_ (2026-09-18)
           - [`182146c`](https://github.com/havaianasdestruido/pipeline-graph/commit/182146c6e713788f36de7fe6f6c3f1f88e99f61f) **initial commit** — _UltimateQuack_ (2026-08-03)
 
@@ -3257,7 +3299,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 1 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 2 commit(s)
 
     - ### 🏷️ Releases (0)
 
@@ -3289,9 +3331,10 @@
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/pong-pop/commits/codex/create-pong-game-with-popup-windows)
           - [`ebce1a9`](https://github.com/havaianasdestruido/pong-pop/commit/ebce1a99b0c8c9c21ffd5527c3b589af2b134f73) **Create popup window Pong game** — _havaianasdestruido_ (2026-07-28)
           - [`239b6a0`](https://github.com/havaianasdestruido/pong-pop/commit/239b6a04199b5326491b52276b93ff0901465f67) **Initialize repository** — _havaianasdestruido_ (2026-07-28)
-      - [`main`](https://github.com/havaianasdestruido/pong-pop/tree/main) _(default)_ — HEAD: `59f6e56`
+      - [`main`](https://github.com/havaianasdestruido/pong-pop/tree/main) _(default)_ — HEAD: `d1e9e52`
         - 📋 [All Commits](https://github.com/havaianasdestruido/pong-pop/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/pong-pop/commits/main)
+          - [`d1e9e52`](https://github.com/havaianasdestruido/pong-pop/commit/d1e9e5204aee65c9ede469c2ca52cc9d89dfba71) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`59f6e56`](https://github.com/havaianasdestruido/pong-pop/commit/59f6e5666f097d11286e8bad464709c6e3838db0) **Merge pull request #2 from havaianasdestruido/codex/corrigir-janela-da-i** — _Pato (new acc)_ (2026-08-13)
           - [`796d5c1`](https://github.com/havaianasdestruido/pong-pop/commit/796d5c1f8434666fa2d70df3093f594ec3d26c03) **Smooth AI paddle window movement** — _Pato (new acc)_ (2026-08-13)
           - [`7a62afa`](https://github.com/havaianasdestruido/pong-pop/commit/7a62afa75b0022b33e71739f59f1a2f875c139d0) **fix: weird 'lagging' ai window issue** — _havaianasdestruido_ (2026-08-13)
@@ -3301,7 +3344,6 @@
           - [`18647ec`](https://github.com/havaianasdestruido/pong-pop/commit/18647ec3a6dfec1cdc98e10a9f27fe505cc96d9e) **Add files via upload** — _havaianasdestruido_ (2026-08-03)
           - [`ad974c2`](https://github.com/havaianasdestruido/pong-pop/commit/ad974c298c2aa2fb9fc197992e0f2b04d8627aa2) **Create readme.md** — _havaianasdestruido_ (2026-08-03)
           - [`ce6ee1a`](https://github.com/havaianasdestruido/pong-pop/commit/ce6ee1abd12acfd63ccb11a3e16776208a2653d9) **fix: arrumado bug do player não conseguir se mover** — _UltimateQuack_ (2026-08-03)
-          - [`883bb4b`](https://github.com/havaianasdestruido/pong-pop/commit/883bb4b95756725cb3c144d5017ff06e59721274) **wip** — _UltimateQuack_ (2026-08-03)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -3324,7 +3366,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 13 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 14 commit(s)
 
     - ### 🏷️ Releases (0)
 
@@ -3727,9 +3769,10 @@
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 Luau | 📅 Created: 2026-05-03 | 🔄 Updated: 2026-09-18
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/RoBrowser/tree/main) _(default)_ — HEAD: `51e0938`
+      - [`main`](https://github.com/havaianasdestruido/RoBrowser/tree/main) _(default)_ — HEAD: `2d99c8b`
         - 📋 [All Commits](https://github.com/havaianasdestruido/RoBrowser/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/RoBrowser/commits/main)
+          - [`2d99c8b`](https://github.com/havaianasdestruido/RoBrowser/commit/2d99c8b076035834757f4d7c6e94bce06ac558ae) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`51e0938`](https://github.com/havaianasdestruido/RoBrowser/commit/51e09381f46824047fb95b302ce4a85d52559afb) **Add MIT License** — _Pato (new acc)_ (2026-09-18)
           - [`a7346b4`](https://github.com/havaianasdestruido/RoBrowser/commit/a7346b48bd7e2ea2ffe3409b8d39803a0142483a) **feat: add GitHub labeler configuration for automated PR labeling** — _Pato (new acc)_ (2026-09-13)
           - [`782a4fb`](https://github.com/havaianasdestruido/RoBrowser/commit/782a4fb96e354a84e2017026ac8ec2ae63422c70) **Create label.yml** — _Pato (new acc)_ (2026-09-13)
@@ -3739,8 +3782,8 @@
           - [`04ae569`](https://github.com/havaianasdestruido/RoBrowser/commit/04ae569c750c06110ca301a47c4414945157a6ec) **fix: add placeholder test files and enable nyquist compliance** — _havaianasdestruido_ (2026-05-04)
           - [`ae0521f`](https://github.com/havaianasdestruido/RoBrowser/commit/ae0521f68588c25161f3500a05feed34762a75ff) **Change default URL to frogfind.com** — _havaianasdestruido_ (2026-05-04)
           - [`dea5393`](https://github.com/havaianasdestruido/RoBrowser/commit/dea5393cb6910d316ae6510d2bc74c82c330a326) **Add FrogFind! bookmark to bookmarks list** — _havaianasdestruido_ (2026-05-04)
-          - [`f22bd72`](https://github.com/havaianasdestruido/RoBrowser/commit/f22bd72bb78cbdcd7c640f194e40bb5a5433aff4) **fix(01): fix overlapping divs and invalid font enum error** — _PatoFlamejanteTV_ (2026-05-03)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/RoBrowser/commits/main/?after=19a918dc7af8d306c7892b6350ba0b0c1505ac94+34)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/RoBrowser/commits/main/?after=5c31b1e1afdbe6ab26741b6890a75c9ecbf519ba+34)
+          - [`19a918d`](https://github.com/havaianasdestruido/RoBrowser/commit/19a918dc7af8d306c7892b6350ba0b0c1505ac94) **feat(gui): add navigation bar, link clicking, history, and loading state** — _PatoFlamejanteTV_ (2026-05-02)
           - [`13e0bc6`](https://github.com/havaianasdestruido/RoBrowser/commit/13e0bc69e232864c457f4f4185a5df5cb740061e) **feat(scripts): add --!native directive to all Luau files** — _PatoFlamejanteTV_ (2026-05-02)
           - [`2b6a2d3`](https://github.com/havaianasdestruido/RoBrowser/commit/2b6a2d3af86ebc3ff4bb1341247af659a15e35b8) **fix(parser+client+server): correct escape sequences, require paths, and ** — _PatoFlamejanteTV_ (2026-05-02)
           - [`703ff61`](https://github.com/havaianasdestruido/RoBrowser/commit/703ff6120eaf6b2ce6dab4a8b30c35cea65081dc) **feat(gui): use server RemoteFunction to fetch HTML for Wikipedia homepag** — _PatoFlamejanteTV_ (2026-05-02)
@@ -3750,7 +3793,6 @@
           - [`a98e390`](https://github.com/havaianasdestruido/RoBrowser/commit/a98e39007dcf4f928c142ed1decd0e1acd27b46a) **feat(gui): add support for full HTML tag set from utils/html_tags.txt** — _PatoFlamejanteTV_ (2026-05-02)
           - [`a591683`](https://github.com/havaianasdestruido/RoBrowser/commit/a591683e75f523dda47d607ece48af073a76da98) **feat(parser+gui): enable strict mode, expand tag support, add style hand** — _PatoFlamejanteTV_ (2026-05-02)
           - [`39c0317`](https://github.com/havaianasdestruido/RoBrowser/commit/39c0317329468d04948741430adfa53ad0b4ca8d) **feat(gui): add browser engine to render HTML via Roblox UI** — _PatoFlamejanteTV_ (2026-05-02)
-          - [`6e69e28`](https://github.com/havaianasdestruido/RoBrowser/commit/6e69e28b4759322bafdcb295391f3d197b538309) **feat(parser): add lightweight HTML parser** — _PatoFlamejanteTV_ (2026-05-02)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -3767,7 +3809,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 9 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 10 commit(s)
 
     - ### 🏷️ Releases (0)
 
@@ -4052,9 +4094,10 @@
           - [`da63afc`](https://github.com/havaianasdestruido/steamlogger/commit/da63afce1905635b901bc16af104022937168df1) **Tolerate brief missing Steam game polls** — _Pato (new acc)_ (2026-08-14)
           - [`a4e4ac8`](https://github.com/havaianasdestruido/steamlogger/commit/a4e4ac867419af19c733597ae638403b6a773526) **feat: implement session tracking with friends, lobby and map enrichment** — _havaianasdestruido_ (2026-08-10)
           - [`42a8dbd`](https://github.com/havaianasdestruido/steamlogger/commit/42a8dbd8c7833c1dfebaca6544170e41437a1686) **chore: scaffold steamlogger crate with module contracts** — _havaianasdestruido_ (2026-08-10)
-      - [`main`](https://github.com/havaianasdestruido/steamlogger/tree/main) _(default)_ — HEAD: `c87f09b`
+      - [`main`](https://github.com/havaianasdestruido/steamlogger/tree/main) _(default)_ — HEAD: `9c8a57e`
         - 📋 [All Commits](https://github.com/havaianasdestruido/steamlogger/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/steamlogger/commits/main)
+          - [`9c8a57e`](https://github.com/havaianasdestruido/steamlogger/commit/9c8a57e96a64ec2d9bd9b70d7d6a823276c4d6fe) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`c87f09b`](https://github.com/havaianasdestruido/steamlogger/commit/c87f09b961df51f76c3d70ef350615b309fa1f6f) **Add MIT License** — _Pato (new acc)_ (2026-09-18)
           - [`a4e4ac8`](https://github.com/havaianasdestruido/steamlogger/commit/a4e4ac867419af19c733597ae638403b6a773526) **feat: implement session tracking with friends, lobby and map enrichment** — _havaianasdestruido_ (2026-08-10)
           - [`42a8dbd`](https://github.com/havaianasdestruido/steamlogger/commit/42a8dbd8c7833c1dfebaca6544170e41437a1686) **chore: scaffold steamlogger crate with module contracts** — _havaianasdestruido_ (2026-08-10)
@@ -4077,12 +4120,55 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 3 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 4 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
       - `Rust` — 100.0% (70,496 bytes)
+
+---
+
+- ## [top100](https://github.com/havaianasdestruido/top100)
+  > TOP 100 GitHub repositories for each major programming language, listed by stars
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-20 | 🔄 Updated: 2026-09-20
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/top100/tree/main) _(default)_ — HEAD: `00bd00a`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/top100/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/top100/commits/main)
+          - [`00bd00a`](https://github.com/havaianasdestruido/top100/commit/00bd00a84710d2aa9695513d698b3944ab12312a) **data: update top repos data (2026-09-20)** — _github-actions[bot]_ (2026-09-20)
+          - [`fb6bdac`](https://github.com/havaianasdestruido/top100/commit/fb6bdac58be216560f9b7016791eb384e54baac8) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
+          - [`c6fcf35`](https://github.com/havaianasdestruido/top100/commit/c6fcf35fe3b2c1324471d73bdc3011843eb403ee) **data: update top repos data (2026-09-20)** — _github-actions[bot]_ (2026-09-20)
+          - [`ede024c`](https://github.com/havaianasdestruido/top100/commit/ede024c3bf8e0e4653f7088c079c907655daa9de) **data: update top repos data (2026-09-20)** — _github-actions[bot]_ (2026-09-20)
+          - [`8540628`](https://github.com/havaianasdestruido/top100/commit/85406284ee1510f62fab3e4df7263f7d7f5e8ce4) **Fix link case sensitivity in README.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
+          - [`89733e0`](https://github.com/havaianasdestruido/top100/commit/89733e0187ff2f7ebe1a3ea347ff69de3560b9c9) **Add push trigger for main branch in workflow** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
+          - [`2723f0f`](https://github.com/havaianasdestruido/top100/commit/2723f0f56f61ee64dcf59100cf8524c93769b885) **Update cron schedule to run every hour** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
+          - [`931f06c`](https://github.com/havaianasdestruido/top100/commit/931f06c1bcb03ed092a402330fafe30eb8d5a9a1) **Update README.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
+          - [`533c2d1`](https://github.com/havaianasdestruido/top100/commit/533c2d12813a4daf10d195c8a97f5b94f9f15ddc) **data: update top repos data (2026-09-20)** — _github-actions[bot]_ (2026-09-20)
+          - [`effc1ae`](https://github.com/havaianasdestruido/top100/commit/effc1ae74aef9001bba6e70f3b09c6387d64d460) **Include LISTS.md in commit results step** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 2 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `Python` — 100.0% (9,510 bytes)
 
 ---
 
@@ -4252,9 +4338,10 @@
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C++ | 📅 Created: 2026-07-15 | 🔄 Updated: 2026-09-20
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/main) _(default)_ — HEAD: `fb99b15`
+      - [`main`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/main) _(default)_ — HEAD: `d570944`
         - 📋 [All Commits](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/main)
+          - [`d570944`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d57094460078a84b7616959b6c633dae90c07913) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`fb99b15`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/fb99b156973ee401023b9fd8d2d76efb02d0196f) **Create sync.yml** — _Pato (new acc)_ (2026-09-20)
           - [`60d0425`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/60d0425bb8edbdc09cf17c69ae37ebb00ea6ce38) **Create LICENSE** — _Pato (new acc)_ (2026-09-18)
           - [`7afcd87`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/7afcd87f0f18ed9195664e37e7193b124a2995d9) **docs: add canonical AGENTS.md agent instructions plus CLAUDE.md/AI.md po** — _havaianasdestruido_ (2026-09-17)
@@ -4264,8 +4351,8 @@
           - [`1e8baa6`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/1e8baa6e3283444e5d3e2951ae91cdd500f97580) **Delete .github/workflows/native-cmake-ci.yml** — _Pato (new acc)_ (2026-09-13)
           - [`62351dc`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/62351dc50d5fbb5857bf520dad23d128ddf65b47) **Create README.md** — _Pato (new acc)_ (2026-09-13)
           - [`5fa9f56`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5fa9f564cbfbe902bb9bd17f7b371ceeb0a63e1d) **feat: implement UXCore resource/layout/element stubs, export 4 DLL API s** — _havaianasdestruido_ (2026-09-13)
-          - [`af63df7`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/af63df74bc3392b91e07d059b93803b71ecde26f) **feat: real implementations for WLXMediaPublishSubscribe, WLXPipeline, WL** — _UltimateQuack_ (2026-08-05)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/main/?after=8a634b2ee09e21921b19ebd744e66f5b01743a33+34)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/main/?after=393567714da9f0c5d05ea0dca24535e178645e29+34)
+          - [`8a634b2`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8a634b2ee09e21921b19ebd744e66f5b01743a33) **fix: WLXMediaPublishSubscribe — remove invalid WinInet cleanup** — _UltimateQuack_ (2026-07-31)
           - [`15d65d1`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/15d65d18fd84a0f5e0bb8aa186863f9f2969893c) **fix: WLXMP4Parser — proper box size handling and null check** — _UltimateQuack_ (2026-07-31)
           - [`be0ddbf`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/be0ddbf853811bd1c1578248619f456dc17bd2df) **fix: WLXFaceRecognition — initialize GdiplusStartupInput, guard histogra** — _UltimateQuack_ (2026-07-31)
           - [`2838048`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/283804800f570ed8ffa589256d4c3362b2d41ffa) **fix: WLXCodecHost — added exit-event failure handling and cleanup label** — _UltimateQuack_ (2026-07-31)
@@ -4275,8 +4362,8 @@
           - [`0f5dccc`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/0f5dccc479a8f73256e0ad9db18d6bfae55b552f) **fix: DmxBici — clear resources on EndExperience** — _UltimateQuack_ (2026-07-31)
           - [`299cbbc`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/299cbbc6d8e1daeb8737a7ff145e47f30bf2493a) **fix: WLXPhotoBase — eliminate Exception allocation leak in Throw** — _UltimateQuack_ (2026-07-31)
           - [`4b66717`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4b66717c013872dd5ceddf4376d21e9bf96dd46f) **fix: WLXCodecHost - free argv in all paths, use nothrow new for bitmap** — _UltimateQuack_ (2026-07-31)
-          - [`d501108`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d5011083790d04b888110c92348f788e551a892d) **fix: clean full-solution Debug build — 25 binaries compile** — _UltimateQuack_ (2026-07-31)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/main/?after=3cff7529fa5c79cf66f2b29b3d76bc035960a484+34)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/main/?after=e24afc23991f2f6f810350d347bd84f8458b1d81+34)
+          - [`3cff752`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3cff7529fa5c79cf66f2b29b3d76bc035960a484) **Add wlidcli.dll stub (7 ordinal exports for Live ID auth)** — _UltimateQuack_ (2026-07-29)
           - [`6bf32c8`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/6bf32c8c63edcbc6619139c9b8730e4a12a77646) **Add uxctl.dll stub (Windows Live UI Controls factory)** — _UltimateQuack_ (2026-07-29)
           - [`7a6edee`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/7a6edee567a39ea34eb95ea2ea0ff72749168632) **Add UXCore.dll stub (DirectUI framework init/class factory)** — _UltimateQuack_ (2026-07-29)
           - [`f923813`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/f9238135b10eac26d292a5ed3f3e9f0e53adb6eb) **Add MetadataSys.dll stub (WLXPSGetItemPropertyHandler + COM)** — _UltimateQuack_ (2026-07-29)
@@ -4286,8 +4373,8 @@
           - [`9f19df1`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/9f19df165a6ae1eb177de8da076906694980fb3f) **wlsoxe: add test harness** — _UltimateQuack_ (2026-07-28)
           - [`7a4e55b`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/7a4e55bf28fe1039ef78adf3ecb6f2ee04d2e85b) **WLXPhotoBase: add test harness** — _UltimateQuack_ (2026-07-28)
           - [`d5da6b4`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d5da6b40025df1e0df9c715fca060e832607b1c2) **WLXDSPA: add test harness** — _UltimateQuack_ (2026-07-28)
-          - [`5a8fe6d`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5a8fe6de5e0990345a4c4f1a2602283ab101c193) **WLXAlbumDownloadWizard: add test harness** — _UltimateQuack_ (2026-07-28)
-        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/main/?after=8510a6a0c74dfec99bd050a71a083e41f472c747+34)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/main/?after=986b4ee87de6b92e6ba083688ff4e990041019f1+34)
+          - [`8510a6a`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8510a6a0c74dfec99bd050a71a083e41f472c747) **test(WLXPhotoAcq.dll): dedicated test harness** — _UltimateQuack_ (2026-07-28)
           - [`3e360c9`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3e360c9be3e74d75d21eb587889a9a23aa8c0d4b) **test(WLXPhotoSqm.dll): dedicated harness testing all 44 SQM exports** — _UltimateQuack_ (2026-07-28)
           - [`4cbc521`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4cbc521ee1151cb90735b3ff74177fd57bb60484) **test(WLXPhotoClassic.dll): dedicated test harness with build.bat** — _UltimateQuack_ (2026-07-28)
           - [`46e3503`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/46e35032cfcf94b71111874f0d370b0f75dfa2d1) **analysis(AlbumDownloadProtocolHandler.dll): protocol handler, wlalbumdow** — _UltimateQuack_ (2026-07-28)
@@ -4297,7 +4384,6 @@
           - [`cd4c3e3`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/cd4c3e3c28bd3564560080b0f5020b3f1f839b8a) **analysis(Shared UI): uxcore DirectUI framework + uxctl/uxcontacts/uxcale** — _UltimateQuack_ (2026-07-27)
           - [`b6933fe`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b6933fead68e95b735200dccf248310bb55d4959) **analysis(BinaryDiff): original vs reconstructed comparison - MovieMaker.** — _UltimateQuack_ (2026-07-27)
           - [`acac41b`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/acac41ba2c3f187c5046a3d9f0823c6b5015d984) **analysis(PhotoViewerShimx64): x64 vs x86 comparison, CLSID verification,** — _UltimateQuack_ (2026-07-27)
-          - [`89a4e86`](https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/89a4e8691bfb6919eac2af1c868d5f1900172ab9) **analysis(WLXCodecHostPS.dll): COM proxy/stub marshaling, NDR format stri** — _UltimateQuack_ (2026-07-27)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -4314,7 +4400,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 10 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 11 commit(s)
 
     - ### 🏷️ Releases (0)
 
@@ -4336,7 +4422,7 @@
 ### Followers (7)
 
 - [@ishandutta2007](https://github.com/ishandutta2007)
-  - 📦 3227 public repos | 👥 follows 32419 people
+  - 📦 3227 public repos | 👥 follows 32591 people
 - [@moxie-coder](https://github.com/moxie-coder)
   - 📦 221 public repos | 👥 follows 1647 people
 - [@Okafor-twd](https://github.com/Okafor-twd)
@@ -4348,26 +4434,34 @@
 - [@andrewexec](https://github.com/andrewexec)
   - 📦 5 public repos | 👥 follows 2 people
 - [@ancaferro](https://github.com/ancaferro)
-  - 📦 4 public repos | 👥 follows 15676 people
+  - 📦 4 public repos | 👥 follows 15675 people
 
-### Following (13)
+### Following (15)
 
 - [@metabrainz](https://github.com/metabrainz)
 - [@google](https://github.com/google)
 - [@cheat-engine](https://github.com/cheat-engine)
 - [@brave](https://github.com/brave)
 - [@android](https://github.com/android)
+- [@zdaxie](https://github.com/zdaxie)
 - [@zenfyrdev](https://github.com/zenfyrdev)
 - [@moxie-coder](https://github.com/moxie-coder)
 - [@Intelinsidecom](https://github.com/Intelinsidecom)
+- [@deepseek-ai](https://github.com/deepseek-ai)
 - [@FunkinDroidTeam](https://github.com/FunkinDroidTeam)
 - [@cavaleiro-olimpioo](https://github.com/cavaleiro-olimpioo)
 - [@MiniMax-AI](https://github.com/MiniMax-AI)
 - [@andrewexec](https://github.com/andrewexec)
 - [@tamandua2123123123](https://github.com/tamandua2123123123)
 
-### ⭐ Repos Starred by @havaianasdestruido (110)
+### ⭐ Repos Starred by @havaianasdestruido (116)
 
+- [librepods-org/librepods](https://github.com/librepods-org/librepods) — _AirPods liberated from Apple's ecosystem._
+- [JunkFood02/Seal](https://github.com/JunkFood02/Seal) — _🦭 Video/Audio Downloader for Android, based on yt-dlp_
+- [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) — _A private messenger for Android._
+- [square/leakcanary](https://github.com/square/leakcanary) — _A memory leak detection library for Android._
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) — _The Kotlin Programming Language. _
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) — _The Magic Mask for Android_
 - [MSNightmare/ShieldCrash](https://github.com/MSNightmare/ShieldCrash) — _Windows Defender 0day Vulnerability_
 - [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank) — _Crowdstrike Falcon 0day Privilege Escalation Vulnerability_
 - [MSNightmare/BigDiskBuster](https://github.com/MSNightmare/BigDiskBuster) — _Windows Defender Update Denial of Service Vulnerability_
@@ -4480,4 +4574,4 @@
 - [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit) — _iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objec_
 
 ---
-_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-20 18:22:45 UTC_
+_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-20 20:13:46 UTC_
