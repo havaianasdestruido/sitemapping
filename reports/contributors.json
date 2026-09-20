@@ -32,7 +32,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 11,
+    "contributions": 12,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -145,15 +145,15 @@
   },
   {
     "repo": "bootloader-unlock-wall-of-shame",
-    "login": "Shocked-Cat",
-    "contributions": 4,
-    "profile_url": "https://github.com/Shocked-Cat"
-  },
-  {
-    "repo": "bootloader-unlock-wall-of-shame",
     "login": "yonggamer",
     "contributions": 4,
     "profile_url": "https://github.com/yonggamer"
+  },
+  {
+    "repo": "bootloader-unlock-wall-of-shame",
+    "login": "Shocked-Cat",
+    "contributions": 4,
+    "profile_url": "https://github.com/Shocked-Cat"
   },
   {
     "repo": "bootloader-unlock-wall-of-shame",
@@ -199,6 +199,12 @@
   },
   {
     "repo": "bootloader-unlock-wall-of-shame",
+    "login": "havaianasdestruido",
+    "contributions": 2,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "bootloader-unlock-wall-of-shame",
     "login": "DancingEmptier667",
     "contributions": 2,
     "profile_url": "https://github.com/DancingEmptier667"
@@ -214,12 +220,6 @@
     "login": "CrimsonFork",
     "contributions": 2,
     "profile_url": "https://github.com/CrimsonFork"
-  },
-  {
-    "repo": "bootloader-unlock-wall-of-shame",
-    "login": "havaianasdestruido",
-    "contributions": 1,
-    "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "bootloader-unlock-wall-of-shame",
@@ -458,7 +458,7 @@
   {
     "repo": "FNF-PeoteView",
     "login": "havaianasdestruido",
-    "contributions": 10,
+    "contributions": 11,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -484,6 +484,12 @@
     "login": "qwen-intl",
     "contributions": 2,
     "profile_url": "https://github.com/qwen-intl"
+  },
+  {
+    "repo": "FNF-PeoteView",
+    "login": "ImgBotApp",
+    "contributions": 1,
+    "profile_url": "https://github.com/ImgBotApp"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -1062,6 +1068,12 @@
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
+    "repo": "ImgBotAutomerger",
+    "login": "havaianasdestruido",
+    "contributions": 6,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
     "repo": "lastfm-to-csv-unicode",
     "login": "benfoxall",
     "contributions": 31,
@@ -1153,6 +1165,12 @@
   },
   {
     "repo": "noisy",
+    "login": "havaianasdestruido",
+    "contributions": 2,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "noisy",
     "login": "google-labs-jules[bot]",
     "contributions": 2,
     "profile_url": "https://github.com/apps/google-labs-jules"
@@ -1226,7 +1244,7 @@
   {
     "repo": "Quack3DMM",
     "login": "havaianasdestruido",
-    "contributions": 3,
+    "contributions": 4,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -1236,9 +1254,15 @@
     "profile_url": "https://github.com/shanselman"
   },
   {
+    "repo": "Quack3DMM",
+    "login": "ImgBotApp",
+    "contributions": 1,
+    "profile_url": "https://github.com/ImgBotApp"
+  },
+  {
     "repo": "R2K16",
     "login": "havaianasdestruido",
-    "contributions": 17,
+    "contributions": 24,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -1329,12 +1353,6 @@
     "repo": "ROT-1",
     "login": "havaianasdestruido",
     "contributions": 1,
-    "profile_url": "https://github.com/havaianasdestruido"
-  },
-  {
-    "repo": "sand-box2d",
-    "login": "havaianasdestruido",
-    "contributions": 11,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -1490,7 +1508,7 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "login": "havaianasdestruido",
-    "contributions": 9,
+    "contributions": 10,
     "profile_url": "https://github.com/havaianasdestruido"
   }
 ]

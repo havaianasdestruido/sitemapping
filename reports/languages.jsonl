@@ -66,6 +66,7 @@
 {"repo": "ImaturidadePlusPlus", "language": "Shell", "bytes": 189, "percent": 0.1}
 {"repo": "ImaturidadePlusPlus", "language": "VBScript", "bytes": 26, "percent": 0.0}
 {"repo": "ImaturidadePlusPlus", "language": "Rich Text Format", "bytes": 14, "percent": 0.0}
+{"repo": "ImgBotAutomerger", "language": "PowerShell", "bytes": 893, "percent": 100.0}
 {"repo": "lastfm-to-csv-unicode", "language": "JavaScript", "bytes": 359011, "percent": 95.2}
 {"repo": "lastfm-to-csv-unicode", "language": "HTML", "bytes": 9604, "percent": 2.5}
 {"repo": "lastfm-to-csv-unicode", "language": "CSS", "bytes": 4395, "percent": 1.2}
@@ -179,9 +180,6 @@
 {"repo": "ROT-1", "language": "JavaScript", "bytes": 23952, "percent": 71.4}
 {"repo": "ROT-1", "language": "CSS", "bytes": 6604, "percent": 19.7}
 {"repo": "ROT-1", "language": "HTML", "bytes": 2973, "percent": 8.9}
-{"repo": "sand-box2d", "language": "JavaScript", "bytes": 6721, "percent": 70.8}
-{"repo": "sand-box2d", "language": "HTML", "bytes": 1523, "percent": 16.0}
-{"repo": "sand-box2d", "language": "CSS", "bytes": 1247, "percent": 13.1}
 {"repo": "scrobbleviz", "language": "JavaScript", "bytes": 37131, "percent": 74.7}
 {"repo": "scrobbleviz", "language": "HTML", "bytes": 12600, "percent": 25.3}
 {"repo": "Servidor-Perfeito", "language": "HTML", "bytes": 3844, "percent": 100.0}
