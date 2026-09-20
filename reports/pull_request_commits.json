@@ -8,6 +8,14 @@
     "url": "https://github.com/havaianasdestruido/AudioTaste/commit/4e7ad01509542836213e7125ccc4fb067bb78d9b"
   },
   {
+    "repo": "bootloader-unlock-wall-of-shame",
+    "pr_number": 1,
+    "sha": "100ad86e7cb044600a62531c9d5998558e4968e5",
+    "sha_short": "100ad86",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/commit/100ad86e7cb044600a62531c9d5998558e4968e5"
+  },
+  {
     "repo": "calculator",
     "pr_number": 1,
     "sha": "2ec7688d290121f4b17e28dec9da97486e5fef6c",

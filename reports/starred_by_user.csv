@@ -1,4 +1,27 @@
 full_name,url,description
+intergrav/devins-badges,https://github.com/intergrav/devins-badges,Open library of nicely designed badges for various apps and services
+zhuofan-16/Spectrum_UnlockBL_Tool,https://github.com/zhuofan-16/Spectrum_UnlockBL_Tool,
+TomKing062/CVE-2022-38691_38692,https://github.com/TomKing062/CVE-2022-38691_38692,Let's control Secure Boot Chain ourselves.
+kasnria001/unisoc_secure_boot_bypass,https://github.com/kasnria001/unisoc_secure_boot_bypass,A poc about bypassing unisoc's secure boot permanently and gaining EL3 code execution.
+YC-nw/bsp_sign_fxxker,https://github.com/YC-nw/bsp_sign_fxxker,A tool that can bypass bsp verify on all the sprd devices（已修复
+TomKing062/unisoc_chipram_signcheck_exploit,https://github.com/TomKing062/unisoc_chipram_signcheck_exploit,a persistent sign check bypass in chipram and early postrom
+TomKing062/exec_addr_v2,https://github.com/TomKing062/exec_addr_v2,
+TomKing062/CVE-2022-38694_unlock_bootloader,https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader,"This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692"
+bkerler/mtkclient,https://github.com/bkerler/mtkclient,Mediatek Flash and Repair Utility
+R0rt1z2/mtkclient,https://github.com/R0rt1z2/mtkclient,MTK reverse engineering and flash tool
+shomykohai/penumbra,https://github.com/shomykohai/penumbra,🌘 MTK flash tool written in rust
+firebase/firebase-js-sdk,https://github.com/firebase/firebase-js-sdk,Firebase Javascript SDK
+firebase/quickstart-js,https://github.com/firebase/quickstart-js,Firebase Quickstart Samples for Web
+firebase/flutterfire,https://github.com/firebase/flutterfire,🔥 A collection of Firebase plugins for Flutter apps.
+firebase/quickstart-android,https://github.com/firebase/quickstart-android,Firebase Quickstart Samples for Android
+firebase/functions-samples,https://github.com/firebase/functions-samples,Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
+firebase/FirebaseUI-Android,https://github.com/firebase/FirebaseUI-Android,Optimized UI components for Firebase
+zenorocha/browser-diet,https://github.com/zenorocha/browser-diet,:fries: The definitive front-end performance guide
+zenorocha/browser-calories,https://github.com/zenorocha/browser-calories,:cake: The easiest way to measure your performance budget
+zenorocha/select,https://github.com/zenorocha/select,Programmatically select the text of a HTML element
+zenorocha/jquery-github,https://github.com/zenorocha/jquery-github,A jQuery plugin to display your Github Repositories
+zenorocha/codecopy,https://github.com/zenorocha/codecopy,A browser extension that adds copy to clipboard buttons on every code block
+zenorocha/voice-elements,https://github.com/zenorocha/voice-elements,":speaker: Web Component wrapper to the Web Speech API, that allows you to do voice recognition and speech synthesis using Polymer"
 zenorocha/clipboard.js,https://github.com/zenorocha/clipboard.js,:scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 jetspiking/WindowsPhone_WebWhatsApp,https://github.com/jetspiking/WindowsPhone_WebWhatsApp,Get WebWhatsapp on your Windows 10 (Mobile) device.
 firebase/agent-skills,https://github.com/firebase/agent-skills,Agent Skills for Firebase

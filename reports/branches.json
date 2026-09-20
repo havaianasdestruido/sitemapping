@@ -34,8 +34,8 @@
   {
     "repo": "sitemapping",
     "name": "main",
-    "head_sha": "5cdd65b34cd7dd38f5a2c04d760fd5073517c7bf",
-    "head_sha_short": "5cdd65b",
+    "head_sha": "82796a8c59836726df17349c43dc0bbd49a6e2cc",
+    "head_sha_short": "82796a8",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/sitemapping/tree/main"
   },
@@ -46,6 +46,14 @@
     "head_sha_short": "1e74a82",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/.github/tree/main"
+  },
+  {
+    "repo": "apkdecomp-skill",
+    "name": "main",
+    "head_sha": "6b931ee1193571235f1c15219eabb4f20f42af3a",
+    "head_sha_short": "6b931ee",
+    "is_default": true,
+    "url": "https://github.com/havaianasdestruido/apkdecomp-skill/tree/main"
   },
   {
     "repo": "AudioTaste",
@@ -78,6 +86,14 @@
     "head_sha_short": "280d223",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/bloxNES/tree/main"
+  },
+  {
+    "repo": "bootloader-unlock-wall-of-shame",
+    "name": "main",
+    "head_sha": "30532a434cda3501b942fa989a7701a00d3536bf",
+    "head_sha_short": "30532a4",
+    "is_default": true,
+    "url": "https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/tree/main"
   },
   {
     "repo": "calculator",
@@ -166,6 +182,30 @@
     "head_sha_short": "192918f",
     "is_default": false,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/fix-workflows-hython"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "name": "git-clone-warning",
+    "head_sha": "e82534b865d26d45164e86ccdb7d3fc90908ff51",
+    "head_sha_short": "e82534b",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/git-clone-warning"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "name": "main",
+    "head_sha": "1117fa6ae4d2c521ee4893d1263b86ddcfc21d77",
+    "head_sha_short": "1117fa6",
+    "is_default": true,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/main"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "name": "minify-json",
+    "head_sha": "006f204d2e08bb2aa24e529ed964b3bdabdecc48",
+    "head_sha_short": "006f204",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/minify-json"
   },
   {
     "repo": "FNF-Phoenix-Engine-fork",
@@ -328,6 +368,14 @@
     "url": "https://github.com/havaianasdestruido/metadata-editor/tree/master"
   },
   {
+    "repo": "midi-skill",
+    "name": "main",
+    "head_sha": "1c3d3953326acf593d1c3a31057b2f54f681edd0",
+    "head_sha_short": "1c3d395",
+    "is_default": true,
+    "url": "https://github.com/havaianasdestruido/midi-skill/tree/main"
+  },
+  {
     "repo": "mmr-cli",
     "name": "master",
     "head_sha": "ebfc86f7a2610c6cf09517d85652ceb2f68845a7",
@@ -414,6 +462,30 @@
     "head_sha_short": "a492a00",
     "is_default": false,
     "url": "https://github.com/havaianasdestruido/OdontoAura/tree/fix/pnpm-action-setup-version-mismatch-5954893924324974857"
+  },
+  {
+    "repo": "OdontoAura",
+    "name": "fix-login-redirect-flow-1754381547150028108",
+    "head_sha": "8e395c88961ba949ce9eeeaf7d2456815c4d0b65",
+    "head_sha_short": "8e395c8",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/OdontoAura/tree/fix-login-redirect-flow-1754381547150028108"
+  },
+  {
+    "repo": "OdontoAura",
+    "name": "host-frontend-github-pages-7416436364491725714",
+    "head_sha": "59802b85c195337f55aaa5c68ceee7609b0334d7",
+    "head_sha_short": "59802b8",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/OdontoAura/tree/host-frontend-github-pages-7416436364491725714"
+  },
+  {
+    "repo": "OdontoAura",
+    "name": "jules-426731085996982659-7bcf478f",
+    "head_sha": "d0f81e0f8ad022761a38077e31ae985e1d2946dc",
+    "head_sha_short": "d0f81e0",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/OdontoAura/tree/jules-426731085996982659-7bcf478f"
   },
   {
     "repo": "orelha",

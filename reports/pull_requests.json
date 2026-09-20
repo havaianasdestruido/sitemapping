@@ -13,6 +13,19 @@
     "url": "https://github.com/havaianasdestruido/AudioTaste/pull/1"
   },
   {
+    "repo": "bootloader-unlock-wall-of-shame",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "[ImgBot] Optimize images",
+    "user": "imgbot[bot]",
+    "created_at": "2026-09-20T15:00:12Z",
+    "base_branch": "main",
+    "head_branch": "imgbot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/pull/1"
+  },
+  {
     "repo": "calculator",
     "state": "closed",
     "status": "merged",

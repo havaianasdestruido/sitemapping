@@ -1,5 +1,120 @@
 [
   {
+    "full_name": "intergrav/devins-badges",
+    "url": "https://github.com/intergrav/devins-badges",
+    "description": "Open library of nicely designed badges for various apps and services"
+  },
+  {
+    "full_name": "zhuofan-16/Spectrum_UnlockBL_Tool",
+    "url": "https://github.com/zhuofan-16/Spectrum_UnlockBL_Tool",
+    "description": ""
+  },
+  {
+    "full_name": "TomKing062/CVE-2022-38691_38692",
+    "url": "https://github.com/TomKing062/CVE-2022-38691_38692",
+    "description": "Let's control Secure Boot Chain ourselves."
+  },
+  {
+    "full_name": "kasnria001/unisoc_secure_boot_bypass",
+    "url": "https://github.com/kasnria001/unisoc_secure_boot_bypass",
+    "description": "A poc about bypassing unisoc's secure boot permanently and gaining EL3 code execution."
+  },
+  {
+    "full_name": "YC-nw/bsp_sign_fxxker",
+    "url": "https://github.com/YC-nw/bsp_sign_fxxker",
+    "description": "A tool that can bypass bsp verify on all the sprd devices（已修复"
+  },
+  {
+    "full_name": "TomKing062/unisoc_chipram_signcheck_exploit",
+    "url": "https://github.com/TomKing062/unisoc_chipram_signcheck_exploit",
+    "description": "a persistent sign check bypass in chipram and early postrom"
+  },
+  {
+    "full_name": "TomKing062/exec_addr_v2",
+    "url": "https://github.com/TomKing062/exec_addr_v2",
+    "description": ""
+  },
+  {
+    "full_name": "TomKing062/CVE-2022-38694_unlock_bootloader",
+    "url": "https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader",
+    "description": "This is a one-time signature verification bypass. For persistent signature verification bypass, check https://github.com/TomKing062/CVE-2022-38691_38692"
+  },
+  {
+    "full_name": "bkerler/mtkclient",
+    "url": "https://github.com/bkerler/mtkclient",
+    "description": "Mediatek Flash and Repair Utility"
+  },
+  {
+    "full_name": "R0rt1z2/mtkclient",
+    "url": "https://github.com/R0rt1z2/mtkclient",
+    "description": "MTK reverse engineering and flash tool"
+  },
+  {
+    "full_name": "shomykohai/penumbra",
+    "url": "https://github.com/shomykohai/penumbra",
+    "description": "🌘 MTK flash tool written in rust"
+  },
+  {
+    "full_name": "firebase/firebase-js-sdk",
+    "url": "https://github.com/firebase/firebase-js-sdk",
+    "description": "Firebase Javascript SDK"
+  },
+  {
+    "full_name": "firebase/quickstart-js",
+    "url": "https://github.com/firebase/quickstart-js",
+    "description": "Firebase Quickstart Samples for Web"
+  },
+  {
+    "full_name": "firebase/flutterfire",
+    "url": "https://github.com/firebase/flutterfire",
+    "description": "🔥 A collection of Firebase plugins for Flutter apps."
+  },
+  {
+    "full_name": "firebase/quickstart-android",
+    "url": "https://github.com/firebase/quickstart-android",
+    "description": "Firebase Quickstart Samples for Android"
+  },
+  {
+    "full_name": "firebase/functions-samples",
+    "url": "https://github.com/firebase/functions-samples",
+    "description": "Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase"
+  },
+  {
+    "full_name": "firebase/FirebaseUI-Android",
+    "url": "https://github.com/firebase/FirebaseUI-Android",
+    "description": "Optimized UI components for Firebase"
+  },
+  {
+    "full_name": "zenorocha/browser-diet",
+    "url": "https://github.com/zenorocha/browser-diet",
+    "description": ":fries: The definitive front-end performance guide"
+  },
+  {
+    "full_name": "zenorocha/browser-calories",
+    "url": "https://github.com/zenorocha/browser-calories",
+    "description": ":cake: The easiest way to measure your performance budget"
+  },
+  {
+    "full_name": "zenorocha/select",
+    "url": "https://github.com/zenorocha/select",
+    "description": "Programmatically select the text of a HTML element"
+  },
+  {
+    "full_name": "zenorocha/jquery-github",
+    "url": "https://github.com/zenorocha/jquery-github",
+    "description": "A jQuery plugin to display your Github Repositories"
+  },
+  {
+    "full_name": "zenorocha/codecopy",
+    "url": "https://github.com/zenorocha/codecopy",
+    "description": "A browser extension that adds copy to clipboard buttons on every code block"
+  },
+  {
+    "full_name": "zenorocha/voice-elements",
+    "url": "https://github.com/zenorocha/voice-elements",
+    "description": ":speaker: Web Component wrapper to the Web Speech API, that allows you to do voice recognition and speech synthesis using Polymer"
+  },
+  {
     "full_name": "zenorocha/clipboard.js",
     "url": "https://github.com/zenorocha/clipboard.js",
     "description": ":scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:"

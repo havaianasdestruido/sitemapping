@@ -75,6 +75,7 @@
 {"repo": "MeatyMod", "language": "PowerShell", "bytes": 8410, "percent": 3.5}
 {"repo": "mediapublisher", "language": "C#", "bytes": 50369, "percent": 100.0}
 {"repo": "metadata-editor", "language": "C#", "bytes": 8775, "percent": 100.0}
+{"repo": "midi-skill", "language": "Python", "bytes": 20365, "percent": 100.0}
 {"repo": "mmr-cli", "language": "C#", "bytes": 91679, "percent": 100.0}
 {"repo": "mmr-gui", "language": "C#", "bytes": 80550, "percent": 100.0}
 {"repo": "mmr-python", "language": "Python", "bytes": 67380, "percent": 100.0}

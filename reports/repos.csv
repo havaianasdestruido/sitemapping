@@ -3,11 +3,13 @@ blaster,havaianasdestruido,https://github.com/havaianasdestruido/blaster,MIRROR 
 hemorroidabot,havaianasdestruido,https://github.com/havaianasdestruido/hemorroidabot,,1,0,1,0,JavaScript,master,2026-09-01T20:45:25Z,2026-09-18T00:33:50Z,False,False,True,
 PatoCraft,havaianasdestruido,https://github.com/havaianasdestruido/PatoCraft,OldSchool MCPE revival with QoL changes,1,0,1,0,Smali,main,2026-09-05T18:08:59Z,2026-09-18T00:47:08Z,False,False,False,
 PrintSpoolerAutoRun,havaianasdestruido,https://github.com/havaianasdestruido/PrintSpoolerAutoRun,Simple win32 app that starts the printer spooler service if its not running.,1,0,1,0,C++,main,2026-09-18T00:27:16Z,2026-09-18T00:33:48Z,False,False,False,
-sitemapping,havaianasdestruido,https://github.com/havaianasdestruido/sitemapping,workflow to make me get indexed on some stuff. aka SEO stuff,1,0,1,0,Python,main,2026-09-13T17:26:42Z,2026-09-19T15:01:27Z,False,False,True,
+sitemapping,havaianasdestruido,https://github.com/havaianasdestruido/sitemapping,workflow to make me get indexed on some stuff. aka SEO stuff,1,0,1,0,Python,main,2026-09-13T17:26:42Z,2026-09-20T15:17:12Z,False,False,True,
 .github,havaianasdestruido,https://github.com/havaianasdestruido/.github,me,0,0,0,0,unknown,main,2026-08-09T19:49:51Z,2026-09-17T13:48:17Z,False,False,False,
+apkdecomp-skill,havaianasdestruido,https://github.com/havaianasdestruido/apkdecomp-skill,,0,0,0,0,unknown,main,2026-09-20T13:44:19Z,2026-09-20T14:42:23Z,False,False,False,
 AudioTaste,havaianasdestruido,https://github.com/havaianasdestruido/AudioTaste,,0,0,0,0,JavaScript,main,2026-08-07T17:55:19Z,2026-09-18T00:47:54Z,False,False,False,
 BloodAndBacon-DnSpyEx,havaianasdestruido,https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx,Decompile of Blood & Bacon made using DnSpyEx.,0,0,0,0,C#,main,2026-08-12T23:51:04Z,2026-09-18T00:47:43Z,False,False,False,
 bloxNES,havaianasdestruido,https://github.com/havaianasdestruido/bloxNES,,0,0,0,0,Lua,main,2026-05-03T16:17:42Z,2026-09-18T00:47:03Z,False,False,True,
+bootloader-unlock-wall-of-shame,havaianasdestruido,https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame,"Keeping track of companies that ""care about your data 🥺""",0,0,0,0,unknown,main,2026-09-20T14:59:18Z,2026-09-20T15:03:25Z,True,False,False,zenfyrdev/bootloader-unlock-wall-of-shame
 calculator,havaianasdestruido,https://github.com/havaianasdestruido/calculator,Uno Calculator: A simple yet powerful iOS/Android/WebAssembly/Linux C# port of the calculator that ships with Windows,0,0,0,0,C#,uno,2026-07-26T21:11:05Z,2026-09-19T20:04:59Z,True,False,False,unoplatform/calculator
 EleLab_v2,havaianasdestruido,https://github.com/havaianasdestruido/EleLab_v2,Cheap DIY lab system for hobbyists and the tinkering folk,0,0,0,0,unknown,master,2026-09-19T19:59:57Z,2026-09-19T19:59:57Z,True,False,False,Chrismettal/EleLab_v2
 EZInfiniteYTLive,havaianasdestruido,https://github.com/havaianasdestruido/EZInfiniteYTLive,,0,0,0,0,C#,main,2026-09-13T18:08:46Z,2026-09-15T18:41:08Z,False,False,False,
@@ -28,6 +30,7 @@ manimce-claude,havaianasdestruido,https://github.com/havaianasdestruido/manimce-
 MeatyMod,havaianasdestruido,https://github.com/havaianasdestruido/MeatyMod,"C# .NET mod suite for Blood & Bacon. Injects .NET mod DLLs into the game executable via Mono.Cecil IL patching, parses the game's XNB/TXT/RAW asset formats, and verifies/restores installs.",0,0,0,0,C#,main,2026-08-06T00:56:24Z,2026-08-13T00:43:06Z,False,True,False,
 mediapublisher,havaianasdestruido,https://github.com/havaianasdestruido/mediapublisher,,0,0,0,0,C#,master,2026-08-03T16:50:04Z,2026-09-18T00:48:24Z,False,False,False,
 metadata-editor,havaianasdestruido,https://github.com/havaianasdestruido/metadata-editor,,0,0,0,0,C#,master,2026-08-03T16:50:31Z,2026-09-18T00:48:16Z,False,False,False,
+midi-skill,havaianasdestruido,https://github.com/havaianasdestruido/midi-skill,,0,0,0,0,Python,main,2026-09-20T13:38:32Z,2026-09-20T14:42:26Z,False,False,False,
 mmr-cli,havaianasdestruido,https://github.com/havaianasdestruido/mmr-cli,,0,0,0,0,C#,master,2026-08-03T14:13:06Z,2026-09-18T00:48:42Z,False,False,False,
 mmr-gui,havaianasdestruido,https://github.com/havaianasdestruido/mmr-gui,,0,0,0,0,C#,master,2026-08-03T14:13:04Z,2026-09-18T00:48:38Z,False,False,False,
 mmr-python,havaianasdestruido,https://github.com/havaianasdestruido/mmr-python,,0,0,0,0,Python,master,2026-08-03T14:13:00Z,2026-09-18T00:33:53Z,False,False,False,

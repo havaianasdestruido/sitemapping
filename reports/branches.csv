@@ -3,12 +3,14 @@ blaster,main,4e58af34b5f546ffadf47fb4c436dc70548fd5d1,4e58af3,True,https://githu
 hemorroidabot,master,28d159df5022b5ed42fd9eb1b33350a338acce45,28d159d,True,https://github.com/havaianasdestruido/hemorroidabot/tree/master
 PatoCraft,main,8f8769c3c2d2a2b8cf45587bca752b4cbfa1dfe3,8f8769c,True,https://github.com/havaianasdestruido/PatoCraft/tree/main
 PrintSpoolerAutoRun,main,341989a60562e697ff6586399aafdeebf27d26c4,341989a,True,https://github.com/havaianasdestruido/PrintSpoolerAutoRun/tree/main
-sitemapping,main,5cdd65b34cd7dd38f5a2c04d760fd5073517c7bf,5cdd65b,True,https://github.com/havaianasdestruido/sitemapping/tree/main
+sitemapping,main,82796a8c59836726df17349c43dc0bbd49a6e2cc,82796a8,True,https://github.com/havaianasdestruido/sitemapping/tree/main
 .github,main,1e74a8240fbc60328c21901381216c764eb1f705,1e74a82,True,https://github.com/havaianasdestruido/.github/tree/main
+apkdecomp-skill,main,6b931ee1193571235f1c15219eabb4f20f42af3a,6b931ee,True,https://github.com/havaianasdestruido/apkdecomp-skill/tree/main
 AudioTaste,main,f8cb721f5f3f66ec15be1fa6e1858a42e1a4bd35,f8cb721,True,https://github.com/havaianasdestruido/AudioTaste/tree/main
 AudioTaste,vercel/install-vercel-speed-insights-ftzuun,4e7ad01509542836213e7125ccc4fb067bb78d9b,4e7ad01,False,https://github.com/havaianasdestruido/AudioTaste/tree/vercel/install-vercel-speed-insights-ftzuun
 BloodAndBacon-DnSpyEx,main,a3d6e8e0b015893a8a080e50cd6f5dc3353d48ec,a3d6e8e,True,https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/tree/main
 bloxNES,main,280d223c28330574ef1745da4c8eaad5fa253746,280d223,True,https://github.com/havaianasdestruido/bloxNES/tree/main
+bootloader-unlock-wall-of-shame,main,30532a434cda3501b942fa989a7701a00d3536bf,30532a4,True,https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/tree/main
 calculator,uno,8283b45e91c9415c51f56954807a8bb4d488c0cb,8283b45,True,https://github.com/havaianasdestruido/calculator/tree/uno
 EleLab_v2,master,9306cddca1e8b6b14c4f6a4f572579d2eedd44df,9306cdd,True,https://github.com/havaianasdestruido/EleLab_v2/tree/master
 EZInfiniteYTLive,main,192d7cf4ff24a7d1e8ca13f7bc7436df31f66398,192d7cf,True,https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/main
@@ -20,6 +22,9 @@ FNF-Phoenix-Engine,fix/mobile-workflow-haxelib,fb15bb73c52efdc034ba49d15befb6ac9
 FNF-Phoenix-Engine,fix/workflows/mobile-setup,144c806d38bb64c81d6a06b38f26fb4db428eab3,144c806,False,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/fix/workflows/mobile-setup
 FNF-Phoenix-Engine,fix-broken-workflows-451876394576674102,f76f7fea749db8c1434656c779d714e4884d6d5e,f76f7fe,False,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/fix-broken-workflows-451876394576674102
 FNF-Phoenix-Engine,fix-workflows-hython,192918f4a8a6ef278f165358d85cb69fdcdce7b9,192918f,False,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/fix-workflows-hython
+FNF-Phoenix-Engine,git-clone-warning,e82534b865d26d45164e86ccdb7d3fc90908ff51,e82534b,False,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/git-clone-warning
+FNF-Phoenix-Engine,main,1117fa6ae4d2c521ee4893d1263b86ddcfc21d77,1117fa6,True,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/main
+FNF-Phoenix-Engine,minify-json,006f204d2e08bb2aa24e529ed964b3bdabdecc48,006f204,False,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/minify-json
 FNF-Phoenix-Engine-fork,main,a9326bc98900134fff95bbef6d5f7ae964202d72,a9326bc,True,https://github.com/havaianasdestruido/FNF-Phoenix-Engine-fork/tree/main
 freellmapi,fix-readme-grammar-18253037270662955219,e27d942a5565bfab15708c929477b42ccf45a586,e27d942,False,https://github.com/havaianasdestruido/freellmapi/tree/fix-readme-grammar-18253037270662955219
 freellmapi,main,d3d3a9338153c3c45a8c08d42ccb044f450e80fd,d3d3a93,True,https://github.com/havaianasdestruido/freellmapi/tree/main
@@ -40,6 +45,7 @@ manimce-claude,main,2340546db5d45313c4a3d45b41fddcc6266e2278,2340546,True,https:
 MeatyMod,main,8213f37801827a8495c3b218d318ebd22cfd42a5,8213f37,True,https://github.com/havaianasdestruido/MeatyMod/tree/main
 mediapublisher,master,c3ede1ca970c4cfce446e58f91c4f0167796aef0,c3ede1c,True,https://github.com/havaianasdestruido/mediapublisher/tree/master
 metadata-editor,master,e765a5e213199dd5ef6dd03269e64e32dec51dcc,e765a5e,True,https://github.com/havaianasdestruido/metadata-editor/tree/master
+midi-skill,main,1c3d3953326acf593d1c3a31057b2f54f681edd0,1c3d395,True,https://github.com/havaianasdestruido/midi-skill/tree/main
 mmr-cli,master,ebfc86f7a2610c6cf09517d85652ceb2f68845a7,ebfc86f,True,https://github.com/havaianasdestruido/mmr-cli/tree/master
 mmr-gui,master,088a3783e501d10e419f7ea2ad9658609ec90be3,088a378,True,https://github.com/havaianasdestruido/mmr-gui/tree/master
 mmr-python,master,ccb70d42ef3f86dc69b4647c43a8aabab70ccaf9,ccb70d4,True,https://github.com/havaianasdestruido/mmr-python/tree/master
@@ -51,6 +57,9 @@ OdontoAura,feat/connect-frontend-backend-vercel-2197773701412789504,b0a3385c89e4
 OdontoAura,fix/build-errors,7a5033e8fac36a8e9acbd5bc983f2b49e28d3ac8,7a5033e,False,https://github.com/havaianasdestruido/OdontoAura/tree/fix/build-errors
 OdontoAura,fix/har-cors-vercel-routing-6506941725452652626,8da97f6cfee2c446217278356f3f789141384c7c,8da97f6,False,https://github.com/havaianasdestruido/OdontoAura/tree/fix/har-cors-vercel-routing-6506941725452652626
 OdontoAura,fix/pnpm-action-setup-version-mismatch-5954893924324974857,a492a00d9be5909e6d42895bd0196b3f98ba34b6,a492a00,False,https://github.com/havaianasdestruido/OdontoAura/tree/fix/pnpm-action-setup-version-mismatch-5954893924324974857
+OdontoAura,fix-login-redirect-flow-1754381547150028108,8e395c88961ba949ce9eeeaf7d2456815c4d0b65,8e395c8,False,https://github.com/havaianasdestruido/OdontoAura/tree/fix-login-redirect-flow-1754381547150028108
+OdontoAura,host-frontend-github-pages-7416436364491725714,59802b85c195337f55aaa5c68ceee7609b0334d7,59802b8,False,https://github.com/havaianasdestruido/OdontoAura/tree/host-frontend-github-pages-7416436364491725714
+OdontoAura,jules-426731085996982659-7bcf478f,d0f81e0f8ad022761a38077e31ae985e1d2946dc,d0f81e0,False,https://github.com/havaianasdestruido/OdontoAura/tree/jules-426731085996982659-7bcf478f
 orelha,main,d1acdc376138748798eab511317e19f48dba7863,d1acdc3,True,https://github.com/havaianasdestruido/orelha/tree/main
 PersonaDB,main,513a5cc62d582862fdcd26417b3b9a3da878c876,513a5cc,True,https://github.com/havaianasdestruido/PersonaDB/tree/main
 photoviewer,master,a4e83d59fd7fdef4e8db30bec4ef31722eb83335,a4e83d5,True,https://github.com/havaianasdestruido/photoviewer/tree/master

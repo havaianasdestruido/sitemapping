@@ -1,5 +1,6 @@
 repo,state,status,number,title,user,created_at,base_branch,head_branch,commit_count,url
 AudioTaste,closed,merged,1,Install Vercel Speed Insights with framework support,vercel[bot],2026-08-07T19:12:59Z,main,vercel/install-vercel-speed-insights-ftzuun,1,https://github.com/havaianasdestruido/AudioTaste/pull/1
+bootloader-unlock-wall-of-shame,closed,merged,1,[ImgBot] Optimize images,imgbot[bot],2026-09-20T15:00:12Z,main,imgbot,1,https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/pull/1
 calculator,closed,merged,1,[ImgBot] Optimize images,imgbot[bot],2026-09-19T20:02:44Z,uno,imgbot,1,https://github.com/havaianasdestruido/calculator/pull/1
 FNF-PeoteView,open,open,1,[ImgBot] Optimize images,imgbot[bot],2026-09-19T20:09:44Z,official,imgbot,1,https://github.com/havaianasdestruido/FNF-PeoteView/pull/1
 FNF-Phoenix-Engine,open,open,14,fix: repair broken GitHub Actions workflows,havaianasdestruido,2026-08-31T13:42:45Z,main,fix-broken-workflows-451876394576674102,4,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/14

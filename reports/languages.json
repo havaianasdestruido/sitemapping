@@ -462,6 +462,12 @@
     "percent": 100.0
   },
   {
+    "repo": "midi-skill",
+    "language": "Python",
+    "bytes": 20365,
+    "percent": 100.0
+  },
+  {
     "repo": "mmr-cli",
     "language": "C#",
     "bytes": 91679,

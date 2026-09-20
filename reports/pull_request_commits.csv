@@ -1,5 +1,6 @@
 repo,pr_number,sha,sha_short,message,url
 AudioTaste,1,4e7ad01509542836213e7125ccc4fb067bb78d9b,4e7ad01,Install Vercel Speed Insights with framework support,https://github.com/havaianasdestruido/AudioTaste/commit/4e7ad01509542836213e7125ccc4fb067bb78d9b
+bootloader-unlock-wall-of-shame,1,100ad86e7cb044600a62531c9d5998558e4968e5,100ad86,[ImgBot] Optimize images,https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/commit/100ad86e7cb044600a62531c9d5998558e4968e5
 calculator,1,2ec7688d290121f4b17e28dec9da97486e5fef6c,2ec7688,[ImgBot] Optimize images,https://github.com/havaianasdestruido/calculator/commit/2ec7688d290121f4b17e28dec9da97486e5fef6c
 FNF-PeoteView,1,354c48e9e18eafea87696d0ed8be12c2dc95f758,354c48e,[ImgBot] Optimize images,https://github.com/havaianasdestruido/FNF-PeoteView/commit/354c48e9e18eafea87696d0ed8be12c2dc95f758
 FNF-Phoenix-Engine,14,7701ed8e5530a6192de386e5244cb8d370332f1d,7701ed8,fix: repair broken GitHub Actions workflows,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7701ed8e5530a6192de386e5244cb8d370332f1d
