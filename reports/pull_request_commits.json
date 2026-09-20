@@ -1,5 +1,29 @@
 [
   {
+    "repo": "pong-pop",
+    "pr_number": 3,
+    "sha": "0b452305acfc9acbde3097a56f397fe7e0de921f",
+    "sha_short": "0b45230",
+    "message": "Show score on play button during games",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/0b452305acfc9acbde3097a56f397fe7e0de921f"
+  },
+  {
+    "repo": "pong-pop",
+    "pr_number": 2,
+    "sha": "796d5c1f8434666fa2d70df3093f594ec3d26c03",
+    "sha_short": "796d5c1",
+    "message": "Smooth AI paddle window movement",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/796d5c1f8434666fa2d70df3093f594ec3d26c03"
+  },
+  {
+    "repo": "pong-pop",
+    "pr_number": 1,
+    "sha": "ebce1a99b0c8c9c21ffd5527c3b589af2b134f73",
+    "sha_short": "ebce1a9",
+    "message": "Create popup window Pong game",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/ebce1a99b0c8c9c21ffd5527c3b589af2b134f73"
+  },
+  {
     "repo": "AudioTaste",
     "pr_number": 1,
     "sha": "4e7ad01509542836213e7125ccc4fb067bb78d9b",
@@ -22,6 +46,14 @@
     "sha_short": "100ad86",
     "message": "[ImgBot] Optimize images",
     "url": "https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/commit/100ad86e7cb044600a62531c9d5998558e4968e5"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "pr_number": 1,
+    "sha": "29edf8b2805084d82d25509f941dbaa9a2dd7e7e",
+    "sha_short": "29edf8b",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/29edf8b2805084d82d25509f941dbaa9a2dd7e7e"
   },
   {
     "repo": "calculator",
@@ -662,22 +694,6 @@
     "sha_short": "dee20af",
     "message": "[ImgBot] Optimize images",
     "url": "https://github.com/havaianasdestruido/orelha/commit/dee20af3633d20f0fcd76b1c06b48805c60ca791"
-  },
-  {
-    "repo": "pong-pop",
-    "pr_number": 2,
-    "sha": "796d5c1f8434666fa2d70df3093f594ec3d26c03",
-    "sha_short": "796d5c1",
-    "message": "Smooth AI paddle window movement",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/796d5c1f8434666fa2d70df3093f594ec3d26c03"
-  },
-  {
-    "repo": "pong-pop",
-    "pr_number": 1,
-    "sha": "ebce1a99b0c8c9c21ffd5527c3b589af2b134f73",
-    "sha_short": "ebce1a9",
-    "message": "Create popup window Pong game",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/ebce1a99b0c8c9c21ffd5527c3b589af2b134f73"
   },
   {
     "repo": "Quack3DMM",

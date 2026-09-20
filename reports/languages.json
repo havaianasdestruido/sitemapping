@@ -60,6 +60,24 @@
     "percent": 0.0
   },
   {
+    "repo": "pong-pop",
+    "language": "JavaScript",
+    "bytes": 7570,
+    "percent": 78.3
+  },
+  {
+    "repo": "pong-pop",
+    "language": "HTML",
+    "bytes": 1413,
+    "percent": 14.6
+  },
+  {
+    "repo": "pong-pop",
+    "language": "CSS",
+    "bytes": 687,
+    "percent": 7.1
+  },
+  {
     "repo": "PrintSpoolerAutoRun",
     "language": "C++",
     "bytes": 3652,
@@ -75,6 +93,12 @@
     "repo": "sitemapping",
     "language": "Python",
     "bytes": 29474,
+    "percent": 100.0
+  },
+  {
+    "repo": "top100",
+    "language": "Python",
+    "bytes": 9510,
     "percent": 100.0
   },
   {
@@ -568,24 +592,6 @@
     "language": "C#",
     "bytes": 46926,
     "percent": 100.0
-  },
-  {
-    "repo": "pong-pop",
-    "language": "JavaScript",
-    "bytes": 7451,
-    "percent": 78.0
-  },
-  {
-    "repo": "pong-pop",
-    "language": "HTML",
-    "bytes": 1413,
-    "percent": 14.8
-  },
-  {
-    "repo": "pong-pop",
-    "language": "CSS",
-    "bytes": 687,
-    "percent": 7.2
   },
   {
     "repo": "PWSV",
@@ -1167,12 +1173,6 @@
     "repo": "steamlogger",
     "language": "Rust",
     "bytes": 70496,
-    "percent": 100.0
-  },
-  {
-    "repo": "top100",
-    "language": "Python",
-    "bytes": 9510,
     "percent": 100.0
   },
   {

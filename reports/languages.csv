@@ -9,9 +9,13 @@ PatoCraft,C,27116,0.1
 PatoCraft,JavaScript,23356,0.1
 PatoCraft,Python,4869,0.0
 PatoCraft,Batchfile,867,0.0
+pong-pop,JavaScript,7570,78.3
+pong-pop,HTML,1413,14.6
+pong-pop,CSS,687,7.1
 PrintSpoolerAutoRun,C++,3652,95.2
 PrintSpoolerAutoRun,Batchfile,184,4.8
 sitemapping,Python,29474,100.0
+top100,Python,9510,100.0
 AudioTaste,JavaScript,88551,79.3
 AudioTaste,CSS,15248,13.6
 AudioTaste,HTML,7933,7.1
@@ -94,9 +98,6 @@ PersonaDB,Python,198533,84.1
 PersonaDB,PLpgSQL,37426,15.9
 photoviewer,C#,54122,100.0
 pipeline-graph,C#,46926,100.0
-pong-pop,JavaScript,7451,78.0
-pong-pop,HTML,1413,14.8
-pong-pop,CSS,687,7.2
 PWSV,C++,36560,82.3
 PWSV,Batchfile,4421,10.0
 PWSV,CMake,3429,7.7
@@ -194,7 +195,6 @@ Sonic4,Objective-C++,146447,0.7
 Sonic4,Objective-C,119638,0.6
 Sonic4,CMake,153,0.0
 steamlogger,Rust,70496,100.0
-top100,Python,9510,100.0
 transition-plugin,Rust,1769,76.7
 transition-plugin,C#,538,23.3
 video-trimmer,C#,19619,100.0

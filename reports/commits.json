@@ -2,6 +2,16 @@
   {
     "repo": "blaster",
     "branch": "main",
+    "sha": "cf870b98d839ff754f855ca751e4ac9b97903a2f",
+    "sha_short": "cf870b9",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:09Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/blaster/commit/cf870b98d839ff754f855ca751e4ac9b97903a2f"
+  },
+  {
+    "repo": "blaster",
+    "branch": "main",
     "sha": "4e58af34b5f546ffadf47fb4c436dc70548fd5d1",
     "sha_short": "4e58af3",
     "author": "Pato (new acc)",
@@ -28,6 +38,16 @@
     "date": "2026-09-10T00:24:36Z",
     "message": "Create blaster.c",
     "url": "https://github.com/havaianasdestruido/blaster/commit/20c4a98579abfac65fabb199b09869820a5582c2"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "master",
+    "sha": "9a0fd54c6724560c6d812f0f7ba73955bc99a9d0",
+    "sha_short": "9a0fd54",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:21Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/9a0fd54c6724560c6d812f0f7ba73955bc99a9d0"
   },
   {
     "repo": "hemorroidabot",
@@ -120,14 +140,14 @@
     "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/e6e64947d81f102fa4901339670adbfb532b7e92"
   },
   {
-    "repo": "hemorroidabot",
-    "branch": "master",
-    "sha": "f38da33730ab4083aa5ccb95cf0dfee27d6903cf",
-    "sha_short": "f38da33",
-    "author": "havaianasdestruido",
-    "date": "2026-09-13T18:25:30Z",
-    "message": "feat(tools): add 13 keyless API tools (advice, trivia, kanye, poetry, dictionary, datamuse, anime, starwars, rickandmorty, recipe, github, randomuser, news)",
-    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/f38da33730ab4083aa5ccb95cf0dfee27d6903cf"
+    "repo": "PatoCraft",
+    "branch": "main",
+    "sha": "943b1581c27a51e1d97224fb6f3d476217989b6d",
+    "sha_short": "943b158",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:11Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/PatoCraft/commit/943b1581c27a51e1d97224fb6f3d476217989b6d"
   },
   {
     "repo": "PatoCraft",
@@ -180,6 +200,336 @@
     "url": "https://github.com/havaianasdestruido/PatoCraft/commit/dc92b4c932fe85cb2c57ea7b35d4235614b0e5f1"
   },
   {
+    "repo": "pong-pop",
+    "branch": "codex/atualizar-texto-do-botao-ao-iniciar-o-jogo",
+    "sha": "0b452305acfc9acbde3097a56f397fe7e0de921f",
+    "sha_short": "0b45230",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:42:44Z",
+    "message": "Show score on play button during games",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/0b452305acfc9acbde3097a56f397fe7e0de921f"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/atualizar-texto-do-botao-ao-iniciar-o-jogo",
+    "sha": "1575a1748d2621f37ac496cb9649b5dbc02c2b5a",
+    "sha_short": "1575a17",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:37:00Z",
+    "message": "Update LICENSE",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/1575a1748d2621f37ac496cb9649b5dbc02c2b5a"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/atualizar-texto-do-botao-ao-iniciar-o-jogo",
+    "sha": "d1e9e5204aee65c9ede469c2ca52cc9d89dfba71",
+    "sha_short": "d1e9e52",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:30Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/d1e9e5204aee65c9ede469c2ca52cc9d89dfba71"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/atualizar-texto-do-botao-ao-iniciar-o-jogo",
+    "sha": "59f6e5666f097d11286e8bad464709c6e3838db0",
+    "sha_short": "59f6e56",
+    "author": "Pato (new acc)",
+    "date": "2026-08-13T01:05:25Z",
+    "message": "Merge pull request #2 from havaianasdestruido/codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/59f6e5666f097d11286e8bad464709c6e3838db0"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/atualizar-texto-do-botao-ao-iniciar-o-jogo",
+    "sha": "796d5c1f8434666fa2d70df3093f594ec3d26c03",
+    "sha_short": "796d5c1",
+    "author": "Pato (new acc)",
+    "date": "2026-08-13T01:05:13Z",
+    "message": "Smooth AI paddle window movement",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/796d5c1f8434666fa2d70df3093f594ec3d26c03"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/atualizar-texto-do-botao-ao-iniciar-o-jogo",
+    "sha": "7a62afa75b0022b33e71739f59f1a2f875c139d0",
+    "sha_short": "7a62afa",
+    "author": "havaianasdestruido",
+    "date": "2026-08-13T00:49:47Z",
+    "message": "fix: weird 'lagging' ai window issue",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/7a62afa75b0022b33e71739f59f1a2f875c139d0"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/atualizar-texto-do-botao-ao-iniciar-o-jogo",
+    "sha": "990d492e233c0b00ad467460bb21260815c17f48",
+    "sha_short": "990d492",
+    "author": "havaianasdestruido",
+    "date": "2026-08-03T18:22:19Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/990d492e233c0b00ad467460bb21260815c17f48"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/atualizar-texto-do-botao-ao-iniciar-o-jogo",
+    "sha": "52764429d096a1c04b2756346b232d9146af866b",
+    "sha_short": "5276442",
+    "author": "havaianasdestruido",
+    "date": "2026-08-03T18:19:52Z",
+    "message": "Add GNU General Public License v3",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/52764429d096a1c04b2756346b232d9146af866b"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/atualizar-texto-do-botao-ao-iniciar-o-jogo",
+    "sha": "68c3b1a93b8e431be5f9d1e7b8ab4732b1b6ae11",
+    "sha_short": "68c3b1a",
+    "author": "havaianasdestruido",
+    "date": "2026-08-03T18:17:41Z",
+    "message": "Add demo gif to README",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/68c3b1a93b8e431be5f9d1e7b8ab4732b1b6ae11"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/atualizar-texto-do-botao-ao-iniciar-o-jogo",
+    "sha": "18647ec3a6dfec1cdc98e10a9f27fe505cc96d9e",
+    "sha_short": "18647ec",
+    "author": "havaianasdestruido",
+    "date": "2026-08-03T18:16:57Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/18647ec3a6dfec1cdc98e10a9f27fe505cc96d9e"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
+    "sha": "796d5c1f8434666fa2d70df3093f594ec3d26c03",
+    "sha_short": "796d5c1",
+    "author": "Pato (new acc)",
+    "date": "2026-08-13T01:05:13Z",
+    "message": "Smooth AI paddle window movement",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/796d5c1f8434666fa2d70df3093f594ec3d26c03"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
+    "sha": "7a62afa75b0022b33e71739f59f1a2f875c139d0",
+    "sha_short": "7a62afa",
+    "author": "havaianasdestruido",
+    "date": "2026-08-13T00:49:47Z",
+    "message": "fix: weird 'lagging' ai window issue",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/7a62afa75b0022b33e71739f59f1a2f875c139d0"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
+    "sha": "990d492e233c0b00ad467460bb21260815c17f48",
+    "sha_short": "990d492",
+    "author": "havaianasdestruido",
+    "date": "2026-08-03T18:22:19Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/990d492e233c0b00ad467460bb21260815c17f48"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
+    "sha": "52764429d096a1c04b2756346b232d9146af866b",
+    "sha_short": "5276442",
+    "author": "havaianasdestruido",
+    "date": "2026-08-03T18:19:52Z",
+    "message": "Add GNU General Public License v3",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/52764429d096a1c04b2756346b232d9146af866b"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
+    "sha": "68c3b1a93b8e431be5f9d1e7b8ab4732b1b6ae11",
+    "sha_short": "68c3b1a",
+    "author": "havaianasdestruido",
+    "date": "2026-08-03T18:17:41Z",
+    "message": "Add demo gif to README",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/68c3b1a93b8e431be5f9d1e7b8ab4732b1b6ae11"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
+    "sha": "18647ec3a6dfec1cdc98e10a9f27fe505cc96d9e",
+    "sha_short": "18647ec",
+    "author": "havaianasdestruido",
+    "date": "2026-08-03T18:16:57Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/18647ec3a6dfec1cdc98e10a9f27fe505cc96d9e"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
+    "sha": "ad974c298c2aa2fb9fc197992e0f2b04d8627aa2",
+    "sha_short": "ad974c2",
+    "author": "havaianasdestruido",
+    "date": "2026-08-03T18:16:41Z",
+    "message": "Create readme.md",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/ad974c298c2aa2fb9fc197992e0f2b04d8627aa2"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
+    "sha": "ce6ee1abd12acfd63ccb11a3e16776208a2653d9",
+    "sha_short": "ce6ee1a",
+    "author": "UltimateQuack",
+    "date": "2026-08-03T18:00:31Z",
+    "message": "fix: arrumado bug do player não conseguir se mover",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/ce6ee1abd12acfd63ccb11a3e16776208a2653d9"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
+    "sha": "883bb4b95756725cb3c144d5017ff06e59721274",
+    "sha_short": "883bb4b",
+    "author": "UltimateQuack",
+    "date": "2026-08-03T17:47:55Z",
+    "message": "wip",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/883bb4b95756725cb3c144d5017ff06e59721274"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
+    "sha": "a5011d88b66607de5dc9c1690c012c6949b26150",
+    "sha_short": "a5011d8",
+    "author": "havaianasdestruido",
+    "date": "2026-08-03T17:27:08Z",
+    "message": "Create README.md",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/a5011d88b66607de5dc9c1690c012c6949b26150"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/create-pong-game-with-popup-windows",
+    "sha": "ebce1a99b0c8c9c21ffd5527c3b589af2b134f73",
+    "sha_short": "ebce1a9",
+    "author": "havaianasdestruido",
+    "date": "2026-07-28T19:12:21Z",
+    "message": "Create popup window Pong game",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/ebce1a99b0c8c9c21ffd5527c3b589af2b134f73"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "codex/create-pong-game-with-popup-windows",
+    "sha": "239b6a04199b5326491b52276b93ff0901465f67",
+    "sha_short": "239b6a0",
+    "author": "havaianasdestruido",
+    "date": "2026-07-28T19:07:37Z",
+    "message": "Initialize repository",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/239b6a04199b5326491b52276b93ff0901465f67"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "main",
+    "sha": "615099cabc45eeb2d18e6a2b0ecaa7d91f53a38b",
+    "sha_short": "615099c",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:42:57Z",
+    "message": "Merge pull request #3 from havaianasdestruido/codex/atualizar-texto-do-botao-ao-iniciar-o-jogo",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/615099cabc45eeb2d18e6a2b0ecaa7d91f53a38b"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "main",
+    "sha": "0b452305acfc9acbde3097a56f397fe7e0de921f",
+    "sha_short": "0b45230",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:42:44Z",
+    "message": "Show score on play button during games",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/0b452305acfc9acbde3097a56f397fe7e0de921f"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "main",
+    "sha": "1575a1748d2621f37ac496cb9649b5dbc02c2b5a",
+    "sha_short": "1575a17",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:37:00Z",
+    "message": "Update LICENSE",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/1575a1748d2621f37ac496cb9649b5dbc02c2b5a"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "main",
+    "sha": "d1e9e5204aee65c9ede469c2ca52cc9d89dfba71",
+    "sha_short": "d1e9e52",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:30Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/d1e9e5204aee65c9ede469c2ca52cc9d89dfba71"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "main",
+    "sha": "59f6e5666f097d11286e8bad464709c6e3838db0",
+    "sha_short": "59f6e56",
+    "author": "Pato (new acc)",
+    "date": "2026-08-13T01:05:25Z",
+    "message": "Merge pull request #2 from havaianasdestruido/codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/59f6e5666f097d11286e8bad464709c6e3838db0"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "main",
+    "sha": "796d5c1f8434666fa2d70df3093f594ec3d26c03",
+    "sha_short": "796d5c1",
+    "author": "Pato (new acc)",
+    "date": "2026-08-13T01:05:13Z",
+    "message": "Smooth AI paddle window movement",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/796d5c1f8434666fa2d70df3093f594ec3d26c03"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "main",
+    "sha": "7a62afa75b0022b33e71739f59f1a2f875c139d0",
+    "sha_short": "7a62afa",
+    "author": "havaianasdestruido",
+    "date": "2026-08-13T00:49:47Z",
+    "message": "fix: weird 'lagging' ai window issue",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/7a62afa75b0022b33e71739f59f1a2f875c139d0"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "main",
+    "sha": "990d492e233c0b00ad467460bb21260815c17f48",
+    "sha_short": "990d492",
+    "author": "havaianasdestruido",
+    "date": "2026-08-03T18:22:19Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/990d492e233c0b00ad467460bb21260815c17f48"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "main",
+    "sha": "52764429d096a1c04b2756346b232d9146af866b",
+    "sha_short": "5276442",
+    "author": "havaianasdestruido",
+    "date": "2026-08-03T18:19:52Z",
+    "message": "Add GNU General Public License v3",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/52764429d096a1c04b2756346b232d9146af866b"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "main",
+    "sha": "68c3b1a93b8e431be5f9d1e7b8ab4732b1b6ae11",
+    "sha_short": "68c3b1a",
+    "author": "havaianasdestruido",
+    "date": "2026-08-03T18:17:41Z",
+    "message": "Add demo gif to README",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/68c3b1a93b8e431be5f9d1e7b8ab4732b1b6ae11"
+  },
+  {
+    "repo": "PrintSpoolerAutoRun",
+    "branch": "main",
+    "sha": "497fd87cad9ba7e20a15f8c0f4d9fc634b66ca36",
+    "sha_short": "497fd87",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:22Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/PrintSpoolerAutoRun/commit/497fd87cad9ba7e20a15f8c0f4d9fc634b66ca36"
+  },
+  {
     "repo": "PrintSpoolerAutoRun",
     "branch": "main",
     "sha": "341989a60562e697ff6586399aafdeebf27d26c4",
@@ -198,6 +548,16 @@
     "date": "2026-09-18T00:26:56Z",
     "message": "initial ver",
     "url": "https://github.com/havaianasdestruido/PrintSpoolerAutoRun/commit/12da550ad341d229cba9418715f21ae780b22bd2"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
+    "sha": "317107fd6dbb0a8373147e97b36ebf7ac9af45f5",
+    "sha_short": "317107f",
+    "author": "GitHub Action Bot",
+    "date": "2026-09-20T20:16:46Z",
+    "message": "📊 [2026-09-20 20:16:46 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/317107fd6dbb0a8373147e97b36ebf7ac9af45f5"
   },
   {
     "repo": "sitemapping",
@@ -290,14 +650,124 @@
     "url": "https://github.com/havaianasdestruido/sitemapping/commit/5cdd65b34cd7dd38f5a2c04d760fd5073517c7bf"
   },
   {
-    "repo": "sitemapping",
+    "repo": "top100",
     "branch": "main",
-    "sha": "7af849f89b6d3e9decfb834f5cedcc3d7bee8c37",
-    "sha_short": "7af849f",
-    "author": "Pato (new acc)",
-    "date": "2026-09-19T14:59:14Z",
-    "message": "Change GITHUB_TOKEN to GITHUB_PAT in workflow",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/7af849f89b6d3e9decfb834f5cedcc3d7bee8c37"
+    "sha": "10bf3c202df7250171f79545ebd0d423e1b42b8f",
+    "sha_short": "10bf3c2",
+    "author": "github-actions[bot]",
+    "date": "2026-09-20T20:22:51Z",
+    "message": "data: update top repos data (2026-09-20)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/10bf3c202df7250171f79545ebd0d423e1b42b8f"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "3238f03c96924197524b9faad42f8dc0952f9a1f",
+    "sha_short": "3238f03",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:21:58Z",
+    "message": "Create jekyll-gh-pages.yml",
+    "url": "https://github.com/havaianasdestruido/top100/commit/3238f03c96924197524b9faad42f8dc0952f9a1f"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "00bd00a84710d2aa9695513d698b3944ab12312a",
+    "sha_short": "00bd00a",
+    "author": "github-actions[bot]",
+    "date": "2026-09-20T20:14:26Z",
+    "message": "data: update top repos data (2026-09-20)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/00bd00a84710d2aa9695513d698b3944ab12312a"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "fb6bdac58be216560f9b7016791eb384e54baac8",
+    "sha_short": "fb6bdac",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:13:33Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/top100/commit/fb6bdac58be216560f9b7016791eb384e54baac8"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "c6fcf35fe3b2c1324471d73bdc3011843eb403ee",
+    "sha_short": "c6fcf35",
+    "author": "github-actions[bot]",
+    "date": "2026-09-20T20:11:13Z",
+    "message": "data: update top repos data (2026-09-20)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/c6fcf35fe3b2c1324471d73bdc3011843eb403ee"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "ede024c3bf8e0e4653f7088c079c907655daa9de",
+    "sha_short": "ede024c",
+    "author": "github-actions[bot]",
+    "date": "2026-09-20T19:57:27Z",
+    "message": "data: update top repos data (2026-09-20)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/ede024c3bf8e0e4653f7088c079c907655daa9de"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "85406284ee1510f62fab3e4df7263f7d7f5e8ce4",
+    "sha_short": "8540628",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:55:55Z",
+    "message": "Fix link case sensitivity in README.md",
+    "url": "https://github.com/havaianasdestruido/top100/commit/85406284ee1510f62fab3e4df7263f7d7f5e8ce4"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "89733e0187ff2f7ebe1a3ea347ff69de3560b9c9",
+    "sha_short": "89733e0",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:55:17Z",
+    "message": "Add push trigger for main branch in workflow",
+    "url": "https://github.com/havaianasdestruido/top100/commit/89733e0187ff2f7ebe1a3ea347ff69de3560b9c9"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "2723f0f56f61ee64dcf59100cf8524c93769b885",
+    "sha_short": "2723f0f",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:54:16Z",
+    "message": "Update cron schedule to run every hour",
+    "url": "https://github.com/havaianasdestruido/top100/commit/2723f0f56f61ee64dcf59100cf8524c93769b885"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "931f06c1bcb03ed092a402330fafe30eb8d5a9a1",
+    "sha_short": "931f06c",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:52:39Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/top100/commit/931f06c1bcb03ed092a402330fafe30eb8d5a9a1"
+  },
+  {
+    "repo": ".github",
+    "branch": "main",
+    "sha": "17aaf6998c71fcbe4e0c854e8245815d1382d20d",
+    "sha_short": "17aaf69",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:24:15Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/.github/commit/17aaf6998c71fcbe4e0c854e8245815d1382d20d"
+  },
+  {
+    "repo": ".github",
+    "branch": "main",
+    "sha": "e0c8b780d75183795244977ce6a86657fd0e4242",
+    "sha_short": "e0c8b78",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:24Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/.github/commit/e0c8b780d75183795244977ce6a86657fd0e4242"
   },
   {
     "repo": ".github",
@@ -378,26 +848,6 @@
     "date": "2026-09-15T00:06:15Z",
     "message": "lol",
     "url": "https://github.com/havaianasdestruido/.github/commit/47451fddb7802e4ce18852d7215a09567cd00c97"
-  },
-  {
-    "repo": ".github",
-    "branch": "main",
-    "sha": "30f6df28f9cea66e7ae28afde2e17c9275cf8694",
-    "sha_short": "30f6df2",
-    "author": "Pato (new acc)",
-    "date": "2026-09-15T00:05:32Z",
-    "message": "new badges lol",
-    "url": "https://github.com/havaianasdestruido/.github/commit/30f6df28f9cea66e7ae28afde2e17c9275cf8694"
-  },
-  {
-    "repo": ".github",
-    "branch": "main",
-    "sha": "d1eeea6179c146153ec72ca2e9c7f77d96c75d7a",
-    "sha_short": "d1eeea6",
-    "author": "Pato (new acc)",
-    "date": "2026-09-14T23:59:28Z",
-    "message": "fix?",
-    "url": "https://github.com/havaianasdestruido/.github/commit/d1eeea6179c146153ec72ca2e9c7f77d96c75d7a"
   },
   {
     "repo": "apkdecomp-skill",
@@ -622,6 +1072,16 @@
   {
     "repo": "bloxNES",
     "branch": "main",
+    "sha": "b509b232c877b57175df1524a0d37fa36d571bd6",
+    "sha_short": "b509b23",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:13Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/bloxNES/commit/b509b232c877b57175df1524a0d37fa36d571bd6"
+  },
+  {
+    "repo": "bloxNES",
+    "branch": "main",
     "sha": "280d223c28330574ef1745da4c8eaad5fa253746",
     "sha_short": "280d223",
     "author": "Pato (new acc)",
@@ -708,16 +1168,6 @@
     "date": "2026-05-03T16:04:49Z",
     "message": "feat(01-01): create CPU module with registers and NES reset behavior",
     "url": "https://github.com/havaianasdestruido/bloxNES/commit/2314f7d0587084213613c635f9eb06cab58059bb"
-  },
-  {
-    "repo": "bloxNES",
-    "branch": "main",
-    "sha": "b50f94aaa7a72910b5b6d99bcb930e379f318702",
-    "sha_short": "b50f94a",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-05-03T16:04:20Z",
-    "message": "feat(01-01): create memory bus with 64KB buffer and address mirroring",
-    "url": "https://github.com/havaianasdestruido/bloxNES/commit/b50f94aaa7a72910b5b6d99bcb930e379f318702"
   },
   {
     "repo": "bootloader-unlock-wall-of-shame",
@@ -1521,6 +1971,186 @@
   },
   {
     "repo": "BulkStarHistoryAdd",
+    "branch": "imgbot",
+    "sha": "29edf8b2805084d82d25509f941dbaa9a2dd7e7e",
+    "sha_short": "29edf8b",
+    "author": "ImgBotApp",
+    "date": "2026-09-20T20:19:33Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/29edf8b2805084d82d25509f941dbaa9a2dd7e7e"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "imgbot",
+    "sha": "0cfff54d6480b1812de4a9c010df4a3e8fd76d2a",
+    "sha_short": "0cfff54",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:19:12Z",
+    "message": "Rename image (6).png to 5.png",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/0cfff54d6480b1812de4a9c010df4a3e8fd76d2a"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "imgbot",
+    "sha": "a2410b882a99eabbe68a5a1e06be44fe0e00b78c",
+    "sha_short": "a2410b8",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:18:59Z",
+    "message": "Rename image (5).png to 4.png",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/a2410b882a99eabbe68a5a1e06be44fe0e00b78c"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "imgbot",
+    "sha": "38819115317aca0284edfdeaa7c9da45602d5e98",
+    "sha_short": "3881911",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:18:48Z",
+    "message": "Rename image (4).png to 3.png",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/38819115317aca0284edfdeaa7c9da45602d5e98"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "imgbot",
+    "sha": "68526bd6eaac713c3e51908eebe8237a4a0c2a07",
+    "sha_short": "68526bd",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:18:36Z",
+    "message": "Rename image (3).png to 2.png",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/68526bd6eaac713c3e51908eebe8237a4a0c2a07"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "imgbot",
+    "sha": "3723f8943b67bb4d8d98b7e6112d1dfe5e651ba1",
+    "sha_short": "3723f89",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:18:22Z",
+    "message": "Rename image (2).png to 1.png",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/3723f8943b67bb4d8d98b7e6112d1dfe5e651ba1"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "imgbot",
+    "sha": "ba79f5dcd3e68bbd66122a90ff147f244accf2ac",
+    "sha_short": "ba79f5d",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:16:46Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/ba79f5dcd3e68bbd66122a90ff147f244accf2ac"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "imgbot",
+    "sha": "e41852012fcd4cbf357c49b90f591778de813a58",
+    "sha_short": "e418520",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:16:27Z",
+    "message": "Create readme.txt",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/e41852012fcd4cbf357c49b90f591778de813a58"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "imgbot",
+    "sha": "794212e7575bcf9a3727cfd9443f599030bf03e4",
+    "sha_short": "794212e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:09:11Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/794212e7575bcf9a3727cfd9443f599030bf03e4"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "main",
+    "sha": "942bec6ec85b2aefdcc048da3f8960f5db1e6fd3",
+    "sha_short": "942bec6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:20:39Z",
+    "message": "Create README.md",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/942bec6ec85b2aefdcc048da3f8960f5db1e6fd3"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "main",
+    "sha": "bdcf739d6c126407b71bb3c579f5abc97c10697d",
+    "sha_short": "bdcf739",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:20:29Z",
+    "message": "Delete img/3.png",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/bdcf739d6c126407b71bb3c579f5abc97c10697d"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "main",
+    "sha": "0cfff54d6480b1812de4a9c010df4a3e8fd76d2a",
+    "sha_short": "0cfff54",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:19:12Z",
+    "message": "Rename image (6).png to 5.png",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/0cfff54d6480b1812de4a9c010df4a3e8fd76d2a"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "main",
+    "sha": "a2410b882a99eabbe68a5a1e06be44fe0e00b78c",
+    "sha_short": "a2410b8",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:18:59Z",
+    "message": "Rename image (5).png to 4.png",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/a2410b882a99eabbe68a5a1e06be44fe0e00b78c"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "main",
+    "sha": "38819115317aca0284edfdeaa7c9da45602d5e98",
+    "sha_short": "3881911",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:18:48Z",
+    "message": "Rename image (4).png to 3.png",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/38819115317aca0284edfdeaa7c9da45602d5e98"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "main",
+    "sha": "68526bd6eaac713c3e51908eebe8237a4a0c2a07",
+    "sha_short": "68526bd",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:18:36Z",
+    "message": "Rename image (3).png to 2.png",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/68526bd6eaac713c3e51908eebe8237a4a0c2a07"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "main",
+    "sha": "3723f8943b67bb4d8d98b7e6112d1dfe5e651ba1",
+    "sha_short": "3723f89",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:18:22Z",
+    "message": "Rename image (2).png to 1.png",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/3723f8943b67bb4d8d98b7e6112d1dfe5e651ba1"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "main",
+    "sha": "ba79f5dcd3e68bbd66122a90ff147f244accf2ac",
+    "sha_short": "ba79f5d",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:16:46Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/ba79f5dcd3e68bbd66122a90ff147f244accf2ac"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "main",
+    "sha": "e41852012fcd4cbf357c49b90f591778de813a58",
+    "sha_short": "e418520",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:16:27Z",
+    "message": "Create readme.txt",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/e41852012fcd4cbf357c49b90f591778de813a58"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
     "branch": "main",
     "sha": "794212e7575bcf9a3727cfd9443f599030bf03e4",
     "sha_short": "794212e",
@@ -2232,6 +2862,16 @@
   {
     "repo": "EZInfiniteYTLive",
     "branch": "main",
+    "sha": "3d049a9ae6cbfe27719d4dfee62df185b5a2e621",
+    "sha_short": "3d049a9",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:26Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/3d049a9ae6cbfe27719d4dfee62df185b5a2e621"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "branch": "main",
     "sha": "192d7cf4ff24a7d1e8ca13f7bc7436df31f66398",
     "sha_short": "192d7cf",
     "author": "Pato (new acc)",
@@ -2318,16 +2958,6 @@
     "date": "2025-07-20T21:46:55Z",
     "message": "Create dotnet.yml",
     "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/25265e0b8ff7adc7ee488dc3878dc598ce5e9a4b"
-  },
-  {
-    "repo": "EZInfiniteYTLive",
-    "branch": "main",
-    "sha": "4dbfac4ca91f870a49cb56bb4eb950b53ac60e62",
-    "sha_short": "4dbfac4",
-    "author": "UltimateQuack",
-    "date": "2025-07-20T19:14:26Z",
-    "message": "Update README.md",
-    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/4dbfac4ca91f870a49cb56bb4eb950b53ac60e62"
   },
   {
     "repo": "face-tagger",
@@ -12660,226 +13290,6 @@
     "url": "https://github.com/havaianasdestruido/pipeline-graph/commit/182146c6e713788f36de7fe6f6c3f1f88e99f61f"
   },
   {
-    "repo": "pong-pop",
-    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
-    "sha": "796d5c1f8434666fa2d70df3093f594ec3d26c03",
-    "sha_short": "796d5c1",
-    "author": "Pato (new acc)",
-    "date": "2026-08-13T01:05:13Z",
-    "message": "Smooth AI paddle window movement",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/796d5c1f8434666fa2d70df3093f594ec3d26c03"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
-    "sha": "7a62afa75b0022b33e71739f59f1a2f875c139d0",
-    "sha_short": "7a62afa",
-    "author": "havaianasdestruido",
-    "date": "2026-08-13T00:49:47Z",
-    "message": "fix: weird 'lagging' ai window issue",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/7a62afa75b0022b33e71739f59f1a2f875c139d0"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
-    "sha": "990d492e233c0b00ad467460bb21260815c17f48",
-    "sha_short": "990d492",
-    "author": "havaianasdestruido",
-    "date": "2026-08-03T18:22:19Z",
-    "message": "Update README.md",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/990d492e233c0b00ad467460bb21260815c17f48"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
-    "sha": "52764429d096a1c04b2756346b232d9146af866b",
-    "sha_short": "5276442",
-    "author": "havaianasdestruido",
-    "date": "2026-08-03T18:19:52Z",
-    "message": "Add GNU General Public License v3",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/52764429d096a1c04b2756346b232d9146af866b"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
-    "sha": "68c3b1a93b8e431be5f9d1e7b8ab4732b1b6ae11",
-    "sha_short": "68c3b1a",
-    "author": "havaianasdestruido",
-    "date": "2026-08-03T18:17:41Z",
-    "message": "Add demo gif to README",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/68c3b1a93b8e431be5f9d1e7b8ab4732b1b6ae11"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
-    "sha": "18647ec3a6dfec1cdc98e10a9f27fe505cc96d9e",
-    "sha_short": "18647ec",
-    "author": "havaianasdestruido",
-    "date": "2026-08-03T18:16:57Z",
-    "message": "Add files via upload",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/18647ec3a6dfec1cdc98e10a9f27fe505cc96d9e"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
-    "sha": "ad974c298c2aa2fb9fc197992e0f2b04d8627aa2",
-    "sha_short": "ad974c2",
-    "author": "havaianasdestruido",
-    "date": "2026-08-03T18:16:41Z",
-    "message": "Create readme.md",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/ad974c298c2aa2fb9fc197992e0f2b04d8627aa2"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
-    "sha": "ce6ee1abd12acfd63ccb11a3e16776208a2653d9",
-    "sha_short": "ce6ee1a",
-    "author": "UltimateQuack",
-    "date": "2026-08-03T18:00:31Z",
-    "message": "fix: arrumado bug do player não conseguir se mover",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/ce6ee1abd12acfd63ccb11a3e16776208a2653d9"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
-    "sha": "883bb4b95756725cb3c144d5017ff06e59721274",
-    "sha_short": "883bb4b",
-    "author": "UltimateQuack",
-    "date": "2026-08-03T17:47:55Z",
-    "message": "wip",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/883bb4b95756725cb3c144d5017ff06e59721274"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
-    "sha": "a5011d88b66607de5dc9c1690c012c6949b26150",
-    "sha_short": "a5011d8",
-    "author": "havaianasdestruido",
-    "date": "2026-08-03T17:27:08Z",
-    "message": "Create README.md",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/a5011d88b66607de5dc9c1690c012c6949b26150"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "codex/create-pong-game-with-popup-windows",
-    "sha": "ebce1a99b0c8c9c21ffd5527c3b589af2b134f73",
-    "sha_short": "ebce1a9",
-    "author": "havaianasdestruido",
-    "date": "2026-07-28T19:12:21Z",
-    "message": "Create popup window Pong game",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/ebce1a99b0c8c9c21ffd5527c3b589af2b134f73"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "codex/create-pong-game-with-popup-windows",
-    "sha": "239b6a04199b5326491b52276b93ff0901465f67",
-    "sha_short": "239b6a0",
-    "author": "havaianasdestruido",
-    "date": "2026-07-28T19:07:37Z",
-    "message": "Initialize repository",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/239b6a04199b5326491b52276b93ff0901465f67"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "main",
-    "sha": "d1e9e5204aee65c9ede469c2ca52cc9d89dfba71",
-    "sha_short": "d1e9e52",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T20:14:30Z",
-    "message": "docs: add star history chart",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/d1e9e5204aee65c9ede469c2ca52cc9d89dfba71"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "main",
-    "sha": "59f6e5666f097d11286e8bad464709c6e3838db0",
-    "sha_short": "59f6e56",
-    "author": "Pato (new acc)",
-    "date": "2026-08-13T01:05:25Z",
-    "message": "Merge pull request #2 from havaianasdestruido/codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/59f6e5666f097d11286e8bad464709c6e3838db0"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "main",
-    "sha": "796d5c1f8434666fa2d70df3093f594ec3d26c03",
-    "sha_short": "796d5c1",
-    "author": "Pato (new acc)",
-    "date": "2026-08-13T01:05:13Z",
-    "message": "Smooth AI paddle window movement",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/796d5c1f8434666fa2d70df3093f594ec3d26c03"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "main",
-    "sha": "7a62afa75b0022b33e71739f59f1a2f875c139d0",
-    "sha_short": "7a62afa",
-    "author": "havaianasdestruido",
-    "date": "2026-08-13T00:49:47Z",
-    "message": "fix: weird 'lagging' ai window issue",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/7a62afa75b0022b33e71739f59f1a2f875c139d0"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "main",
-    "sha": "990d492e233c0b00ad467460bb21260815c17f48",
-    "sha_short": "990d492",
-    "author": "havaianasdestruido",
-    "date": "2026-08-03T18:22:19Z",
-    "message": "Update README.md",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/990d492e233c0b00ad467460bb21260815c17f48"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "main",
-    "sha": "52764429d096a1c04b2756346b232d9146af866b",
-    "sha_short": "5276442",
-    "author": "havaianasdestruido",
-    "date": "2026-08-03T18:19:52Z",
-    "message": "Add GNU General Public License v3",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/52764429d096a1c04b2756346b232d9146af866b"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "main",
-    "sha": "68c3b1a93b8e431be5f9d1e7b8ab4732b1b6ae11",
-    "sha_short": "68c3b1a",
-    "author": "havaianasdestruido",
-    "date": "2026-08-03T18:17:41Z",
-    "message": "Add demo gif to README",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/68c3b1a93b8e431be5f9d1e7b8ab4732b1b6ae11"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "main",
-    "sha": "18647ec3a6dfec1cdc98e10a9f27fe505cc96d9e",
-    "sha_short": "18647ec",
-    "author": "havaianasdestruido",
-    "date": "2026-08-03T18:16:57Z",
-    "message": "Add files via upload",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/18647ec3a6dfec1cdc98e10a9f27fe505cc96d9e"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "main",
-    "sha": "ad974c298c2aa2fb9fc197992e0f2b04d8627aa2",
-    "sha_short": "ad974c2",
-    "author": "havaianasdestruido",
-    "date": "2026-08-03T18:16:41Z",
-    "message": "Create readme.md",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/ad974c298c2aa2fb9fc197992e0f2b04d8627aa2"
-  },
-  {
-    "repo": "pong-pop",
-    "branch": "main",
-    "sha": "ce6ee1abd12acfd63ccb11a3e16776208a2653d9",
-    "sha_short": "ce6ee1a",
-    "author": "UltimateQuack",
-    "date": "2026-08-03T18:00:31Z",
-    "message": "fix: arrumado bug do player não conseguir se mover",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/ce6ee1abd12acfd63ccb11a3e16776208a2653d9"
-  },
-  {
     "repo": "PWSV",
     "branch": "main",
     "sha": "650fd073651e6988528c33e56144315d285fcd2e",
@@ -14668,106 +15078,6 @@
     "date": "2026-08-10T20:40:19Z",
     "message": "chore: scaffold steamlogger crate with module contracts",
     "url": "https://github.com/havaianasdestruido/steamlogger/commit/42a8dbd8c7833c1dfebaca6544170e41437a1686"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "00bd00a84710d2aa9695513d698b3944ab12312a",
-    "sha_short": "00bd00a",
-    "author": "github-actions[bot]",
-    "date": "2026-09-20T20:14:26Z",
-    "message": "data: update top repos data (2026-09-20)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/00bd00a84710d2aa9695513d698b3944ab12312a"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "fb6bdac58be216560f9b7016791eb384e54baac8",
-    "sha_short": "fb6bdac",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T20:13:33Z",
-    "message": "docs: add star history chart",
-    "url": "https://github.com/havaianasdestruido/top100/commit/fb6bdac58be216560f9b7016791eb384e54baac8"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "c6fcf35fe3b2c1324471d73bdc3011843eb403ee",
-    "sha_short": "c6fcf35",
-    "author": "github-actions[bot]",
-    "date": "2026-09-20T20:11:13Z",
-    "message": "data: update top repos data (2026-09-20)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/c6fcf35fe3b2c1324471d73bdc3011843eb403ee"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "ede024c3bf8e0e4653f7088c079c907655daa9de",
-    "sha_short": "ede024c",
-    "author": "github-actions[bot]",
-    "date": "2026-09-20T19:57:27Z",
-    "message": "data: update top repos data (2026-09-20)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/ede024c3bf8e0e4653f7088c079c907655daa9de"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "85406284ee1510f62fab3e4df7263f7d7f5e8ce4",
-    "sha_short": "8540628",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:55:55Z",
-    "message": "Fix link case sensitivity in README.md",
-    "url": "https://github.com/havaianasdestruido/top100/commit/85406284ee1510f62fab3e4df7263f7d7f5e8ce4"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "89733e0187ff2f7ebe1a3ea347ff69de3560b9c9",
-    "sha_short": "89733e0",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:55:17Z",
-    "message": "Add push trigger for main branch in workflow",
-    "url": "https://github.com/havaianasdestruido/top100/commit/89733e0187ff2f7ebe1a3ea347ff69de3560b9c9"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "2723f0f56f61ee64dcf59100cf8524c93769b885",
-    "sha_short": "2723f0f",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:54:16Z",
-    "message": "Update cron schedule to run every hour",
-    "url": "https://github.com/havaianasdestruido/top100/commit/2723f0f56f61ee64dcf59100cf8524c93769b885"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "931f06c1bcb03ed092a402330fafe30eb8d5a9a1",
-    "sha_short": "931f06c",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:52:39Z",
-    "message": "Update README.md",
-    "url": "https://github.com/havaianasdestruido/top100/commit/931f06c1bcb03ed092a402330fafe30eb8d5a9a1"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "533c2d12813a4daf10d195c8a97f5b94f9f15ddc",
-    "sha_short": "533c2d1",
-    "author": "github-actions[bot]",
-    "date": "2026-09-20T19:49:16Z",
-    "message": "data: update top repos data (2026-09-20)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/533c2d12813a4daf10d195c8a97f5b94f9f15ddc"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "effc1ae74aef9001bba6e70f3b09c6387d64d460",
-    "sha_short": "effc1ae",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:46:46Z",
-    "message": "Include LISTS.md in commit results step",
-    "url": "https://github.com/havaianasdestruido/top100/commit/effc1ae74aef9001bba6e70f3b09c6387d64d460"
   },
   {
     "repo": "transition-plugin",

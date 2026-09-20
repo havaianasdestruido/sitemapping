@@ -1,5 +1,44 @@
 [
   {
+    "repo": "pong-pop",
+    "state": "closed",
+    "status": "merged",
+    "number": 3,
+    "title": "Show the live score on the play button",
+    "user": "havaianasdestruido",
+    "created_at": "2026-09-20T20:42:46Z",
+    "base_branch": "main",
+    "head_branch": "codex/atualizar-texto-do-botao-ao-iniciar-o-jogo",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/pong-pop/pull/3"
+  },
+  {
+    "repo": "pong-pop",
+    "state": "closed",
+    "status": "merged",
+    "number": 2,
+    "title": "Smooth AI paddle movement and reduce popup shaking",
+    "user": "havaianasdestruido",
+    "created_at": "2026-08-13T01:05:14Z",
+    "base_branch": "main",
+    "head_branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/pong-pop/pull/2"
+  },
+  {
+    "repo": "pong-pop",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Add popup-window Pong game with Play launcher and performance-focused controller",
+    "user": "havaianasdestruido",
+    "created_at": "2026-07-28T19:12:22Z",
+    "base_branch": "main",
+    "head_branch": "codex/create-pong-game-with-popup-windows",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/pong-pop/pull/1"
+  },
+  {
     "repo": "AudioTaste",
     "state": "closed",
     "status": "merged",
@@ -37,6 +76,19 @@
     "head_branch": "imgbot",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/pull/1"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "state": "open",
+    "status": "open",
+    "number": 1,
+    "title": "[ImgBot] Optimize images",
+    "user": "imgbot[bot]",
+    "created_at": "2026-09-20T20:20:36Z",
+    "base_branch": "main",
+    "head_branch": "imgbot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/pull/1"
   },
   {
     "repo": "calculator",
@@ -609,32 +661,6 @@
     "head_branch": "imgbot",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/orelha/pull/1"
-  },
-  {
-    "repo": "pong-pop",
-    "state": "closed",
-    "status": "merged",
-    "number": 2,
-    "title": "Smooth AI paddle movement and reduce popup shaking",
-    "user": "havaianasdestruido",
-    "created_at": "2026-08-13T01:05:14Z",
-    "base_branch": "main",
-    "head_branch": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
-    "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/pong-pop/pull/2"
-  },
-  {
-    "repo": "pong-pop",
-    "state": "closed",
-    "status": "merged",
-    "number": 1,
-    "title": "Add popup-window Pong game with Play launcher and performance-focused controller",
-    "user": "havaianasdestruido",
-    "created_at": "2026-07-28T19:12:22Z",
-    "base_branch": "main",
-    "head_branch": "codex/create-pong-game-with-popup-windows",
-    "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/pong-pop/pull/1"
   },
   {
     "repo": "Quack3DMM",

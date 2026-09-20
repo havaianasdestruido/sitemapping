@@ -2,48 +2,88 @@
   {
     "repo": "blaster",
     "name": "main",
-    "head_sha": "4e58af34b5f546ffadf47fb4c436dc70548fd5d1",
-    "head_sha_short": "4e58af3",
+    "head_sha": "cf870b98d839ff754f855ca751e4ac9b97903a2f",
+    "head_sha_short": "cf870b9",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/blaster/tree/main"
   },
   {
     "repo": "hemorroidabot",
     "name": "master",
-    "head_sha": "28d159df5022b5ed42fd9eb1b33350a338acce45",
-    "head_sha_short": "28d159d",
+    "head_sha": "9a0fd54c6724560c6d812f0f7ba73955bc99a9d0",
+    "head_sha_short": "9a0fd54",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/hemorroidabot/tree/master"
   },
   {
     "repo": "PatoCraft",
     "name": "main",
-    "head_sha": "8f8769c3c2d2a2b8cf45587bca752b4cbfa1dfe3",
-    "head_sha_short": "8f8769c",
+    "head_sha": "943b1581c27a51e1d97224fb6f3d476217989b6d",
+    "head_sha_short": "943b158",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/PatoCraft/tree/main"
   },
   {
+    "repo": "pong-pop",
+    "name": "codex/atualizar-texto-do-botao-ao-iniciar-o-jogo",
+    "head_sha": "0b452305acfc9acbde3097a56f397fe7e0de921f",
+    "head_sha_short": "0b45230",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/pong-pop/tree/codex/atualizar-texto-do-botao-ao-iniciar-o-jogo"
+  },
+  {
+    "repo": "pong-pop",
+    "name": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
+    "head_sha": "796d5c1f8434666fa2d70df3093f594ec3d26c03",
+    "head_sha_short": "796d5c1",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/pong-pop/tree/codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola"
+  },
+  {
+    "repo": "pong-pop",
+    "name": "codex/create-pong-game-with-popup-windows",
+    "head_sha": "ebce1a99b0c8c9c21ffd5527c3b589af2b134f73",
+    "head_sha_short": "ebce1a9",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/pong-pop/tree/codex/create-pong-game-with-popup-windows"
+  },
+  {
+    "repo": "pong-pop",
+    "name": "main",
+    "head_sha": "615099cabc45eeb2d18e6a2b0ecaa7d91f53a38b",
+    "head_sha_short": "615099c",
+    "is_default": true,
+    "url": "https://github.com/havaianasdestruido/pong-pop/tree/main"
+  },
+  {
     "repo": "PrintSpoolerAutoRun",
     "name": "main",
-    "head_sha": "341989a60562e697ff6586399aafdeebf27d26c4",
-    "head_sha_short": "341989a",
+    "head_sha": "497fd87cad9ba7e20a15f8c0f4d9fc634b66ca36",
+    "head_sha_short": "497fd87",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/PrintSpoolerAutoRun/tree/main"
   },
   {
     "repo": "sitemapping",
     "name": "main",
-    "head_sha": "cbc3fac2a3e9b844ac3e411adb25802c76abb3f9",
-    "head_sha_short": "cbc3fac",
+    "head_sha": "317107fd6dbb0a8373147e97b36ebf7ac9af45f5",
+    "head_sha_short": "317107f",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/sitemapping/tree/main"
   },
   {
+    "repo": "top100",
+    "name": "main",
+    "head_sha": "10bf3c202df7250171f79545ebd0d423e1b42b8f",
+    "head_sha_short": "10bf3c2",
+    "is_default": true,
+    "url": "https://github.com/havaianasdestruido/top100/tree/main"
+  },
+  {
     "repo": ".github",
     "name": "main",
-    "head_sha": "1e74a8240fbc60328c21901381216c764eb1f705",
-    "head_sha_short": "1e74a82",
+    "head_sha": "17aaf6998c71fcbe4e0c854e8245815d1382d20d",
+    "head_sha_short": "17aaf69",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/.github/tree/main"
   },
@@ -82,8 +122,8 @@
   {
     "repo": "bloxNES",
     "name": "main",
-    "head_sha": "280d223c28330574ef1745da4c8eaad5fa253746",
-    "head_sha_short": "280d223",
+    "head_sha": "b509b232c877b57175df1524a0d37fa36d571bd6",
+    "head_sha_short": "b509b23",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/bloxNES/tree/main"
   },
@@ -105,9 +145,17 @@
   },
   {
     "repo": "BulkStarHistoryAdd",
+    "name": "imgbot",
+    "head_sha": "29edf8b2805084d82d25509f941dbaa9a2dd7e7e",
+    "head_sha_short": "29edf8b",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/tree/imgbot"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
     "name": "main",
-    "head_sha": "794212e7575bcf9a3727cfd9443f599030bf03e4",
-    "head_sha_short": "794212e",
+    "head_sha": "942bec6ec85b2aefdcc048da3f8960f5db1e6fd3",
+    "head_sha_short": "942bec6",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/tree/main"
   },
@@ -130,8 +178,8 @@
   {
     "repo": "EZInfiniteYTLive",
     "name": "main",
-    "head_sha": "192d7cf4ff24a7d1e8ca13f7bc7436df31f66398",
-    "head_sha_short": "192d7cf",
+    "head_sha": "3d049a9ae6cbfe27719d4dfee62df185b5a2e621",
+    "head_sha_short": "3d049a9",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/main"
   },
@@ -536,30 +584,6 @@
     "url": "https://github.com/havaianasdestruido/pipeline-graph/tree/master"
   },
   {
-    "repo": "pong-pop",
-    "name": "codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola",
-    "head_sha": "796d5c1f8434666fa2d70df3093f594ec3d26c03",
-    "head_sha_short": "796d5c1",
-    "is_default": false,
-    "url": "https://github.com/havaianasdestruido/pong-pop/tree/codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola"
-  },
-  {
-    "repo": "pong-pop",
-    "name": "codex/create-pong-game-with-popup-windows",
-    "head_sha": "ebce1a99b0c8c9c21ffd5527c3b589af2b134f73",
-    "head_sha_short": "ebce1a9",
-    "is_default": false,
-    "url": "https://github.com/havaianasdestruido/pong-pop/tree/codex/create-pong-game-with-popup-windows"
-  },
-  {
-    "repo": "pong-pop",
-    "name": "main",
-    "head_sha": "d1e9e5204aee65c9ede469c2ca52cc9d89dfba71",
-    "head_sha_short": "d1e9e52",
-    "is_default": true,
-    "url": "https://github.com/havaianasdestruido/pong-pop/tree/main"
-  },
-  {
     "repo": "PWSV",
     "name": "main",
     "head_sha": "650fd073651e6988528c33e56144315d285fcd2e",
@@ -694,14 +718,6 @@
     "head_sha_short": "9c8a57e",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/steamlogger/tree/main"
-  },
-  {
-    "repo": "top100",
-    "name": "main",
-    "head_sha": "00bd00a84710d2aa9695513d698b3944ab12312a",
-    "head_sha_short": "00bd00a",
-    "is_default": true,
-    "url": "https://github.com/havaianasdestruido/top100/tree/main"
   },
   {
     "repo": "transition-plugin",

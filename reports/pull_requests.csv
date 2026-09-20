@@ -1,7 +1,11 @@
 repo,state,status,number,title,user,created_at,base_branch,head_branch,commit_count,url
+pong-pop,closed,merged,3,Show the live score on the play button,havaianasdestruido,2026-09-20T20:42:46Z,main,codex/atualizar-texto-do-botao-ao-iniciar-o-jogo,1,https://github.com/havaianasdestruido/pong-pop/pull/3
+pong-pop,closed,merged,2,Smooth AI paddle movement and reduce popup shaking,havaianasdestruido,2026-08-13T01:05:14Z,main,codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola,1,https://github.com/havaianasdestruido/pong-pop/pull/2
+pong-pop,closed,merged,1,Add popup-window Pong game with Play launcher and performance-focused controller,havaianasdestruido,2026-07-28T19:12:22Z,main,codex/create-pong-game-with-popup-windows,1,https://github.com/havaianasdestruido/pong-pop/pull/1
 AudioTaste,closed,merged,1,Install Vercel Speed Insights with framework support,vercel[bot],2026-08-07T19:12:59Z,main,vercel/install-vercel-speed-insights-ftzuun,1,https://github.com/havaianasdestruido/AudioTaste/pull/1
 bootloader-unlock-wall-of-shame,closed,merged,2,Fix grammar and spelling across Markdown files,havaianasdestruido,2026-09-20T15:28:32Z,main,jules-6300918527596495494-157f5121,1,https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/pull/2
 bootloader-unlock-wall-of-shame,closed,merged,1,[ImgBot] Optimize images,imgbot[bot],2026-09-20T15:00:12Z,main,imgbot,1,https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/pull/1
+BulkStarHistoryAdd,open,open,1,[ImgBot] Optimize images,imgbot[bot],2026-09-20T20:20:36Z,main,imgbot,1,https://github.com/havaianasdestruido/BulkStarHistoryAdd/pull/1
 calculator,closed,merged,1,[ImgBot] Optimize images,imgbot[bot],2026-09-19T20:02:44Z,uno,imgbot,1,https://github.com/havaianasdestruido/calculator/pull/1
 FNF-PeoteView,closed,merged,1,[ImgBot] Optimize images,imgbot[bot],2026-09-19T20:09:44Z,official,imgbot,1,https://github.com/havaianasdestruido/FNF-PeoteView/pull/1
 FNF-Phoenix-Engine,open,open,14,fix: repair broken GitHub Actions workflows,havaianasdestruido,2026-08-31T13:42:45Z,main,fix-broken-workflows-451876394576674102,4,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/14
@@ -46,8 +50,6 @@ OdontoAura,closed,merged,51,chore(deps): bump actions/dependency-review-action f
 OdontoAura,closed,merged,50,chore(deps): bump actions/labeler from 4 to 7,dependabot[bot],2026-09-14T18:36:50Z,main,dependabot/github_actions/actions/labeler-7,1,https://github.com/havaianasdestruido/OdontoAura/pull/50
 OdontoAura,closed,merged,49,chore(deps): bump actions/checkout from 4 to 7,dependabot[bot],2026-09-14T18:36:45Z,main,dependabot/github_actions/actions/checkout-7,1,https://github.com/havaianasdestruido/OdontoAura/pull/49
 orelha,closed,merged,1,[ImgBot] Optimize images,imgbot[bot],2026-09-19T20:03:18Z,main,imgbot,1,https://github.com/havaianasdestruido/orelha/pull/1
-pong-pop,closed,merged,2,Smooth AI paddle movement and reduce popup shaking,havaianasdestruido,2026-08-13T01:05:14Z,main,codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola,1,https://github.com/havaianasdestruido/pong-pop/pull/2
-pong-pop,closed,merged,1,Add popup-window Pong game with Play launcher and performance-focused controller,havaianasdestruido,2026-07-28T19:12:22Z,main,codex/create-pong-game-with-popup-windows,1,https://github.com/havaianasdestruido/pong-pop/pull/1
 Quack3DMM,closed,merged,1,[ImgBot] Optimize images,imgbot[bot],2026-09-20T16:42:49Z,main,imgbot,1,https://github.com/havaianasdestruido/Quack3DMM/pull/1
 R2K16,open,open,2,Bump the npm_and_yarn group across 2 directories with 3 updates,dependabot[bot],2026-09-20T15:33:33Z,main,dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece,1,https://github.com/havaianasdestruido/R2K16/pull/2
 R2K16,closed,closed,1,Bump the npm_and_yarn group across 2 directories with 3 updates,dependabot[bot],2026-09-15T18:16:56Z,main,dependabot/npm_and_yarn/RobloxHybrid/docs/jsdoc/npm_and_yarn-b258cd4ece,1,https://github.com/havaianasdestruido/R2K16/pull/1
