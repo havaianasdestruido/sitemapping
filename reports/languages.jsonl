@@ -72,6 +72,7 @@
 {"repo": "ImaturidadePlusPlus", "language": "VBScript", "bytes": 26, "percent": 0.0}
 {"repo": "ImaturidadePlusPlus", "language": "Rich Text Format", "bytes": 14, "percent": 0.0}
 {"repo": "ImgBotAutomerger", "language": "PowerShell", "bytes": 893, "percent": 100.0}
+{"repo": "ImgBotTools", "language": "Shell", "bytes": 7209, "percent": 100.0}
 {"repo": "lastfm-to-csv-unicode", "language": "JavaScript", "bytes": 359011, "percent": 95.2}
 {"repo": "lastfm-to-csv-unicode", "language": "HTML", "bytes": 9604, "percent": 2.5}
 {"repo": "lastfm-to-csv-unicode", "language": "CSS", "bytes": 4395, "percent": 1.2}
