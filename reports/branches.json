@@ -18,16 +18,16 @@
   {
     "repo": "hemorroidabot",
     "name": "master",
-    "head_sha": "f20a3a3d5c8a27d6de96b330220f6f2cf915bb6f",
-    "head_sha_short": "f20a3a3",
+    "head_sha": "3e1ca17c7c253eb867249a6c0c014b46e5285c4d",
+    "head_sha_short": "3e1ca17",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/hemorroidabot/tree/master"
   },
   {
     "repo": "PatoCraft",
     "name": "main",
-    "head_sha": "91e155dfb613f10743812788186476577a8909d1",
-    "head_sha_short": "91e155d",
+    "head_sha": "5cdf8d03e8766933831eb8835b115057569d64d8",
+    "head_sha_short": "5cdf8d0",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/PatoCraft/tree/main"
   },
@@ -58,56 +58,56 @@
   {
     "repo": "pong-pop",
     "name": "main",
-    "head_sha": "15b0bc82855272620c362f45e0c8c2ca3b751be0",
-    "head_sha_short": "15b0bc8",
+    "head_sha": "b990a2b0aa98f321f656e80add22ea572c0d39e6",
+    "head_sha_short": "b990a2b",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/pong-pop/tree/main"
   },
   {
     "repo": "PrintSpoolerAutoRun",
     "name": "main",
-    "head_sha": "03f34237bb23d6c5315c110109aff4ee035db0ca",
-    "head_sha_short": "03f3423",
+    "head_sha": "2c118e7fe1cbbbc466ae66b77302e6c53458554b",
+    "head_sha_short": "2c118e7",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/PrintSpoolerAutoRun/tree/main"
   },
   {
     "repo": "sitemapping",
     "name": "main",
-    "head_sha": "7a2bb03300ce1cf52c3b40bae66716bbea6de0d5",
-    "head_sha_short": "7a2bb03",
+    "head_sha": "8113d8276f6f47b1930675e94df54e8a1d9be39b",
+    "head_sha_short": "8113d82",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/sitemapping/tree/main"
   },
   {
     "repo": "top100",
     "name": "main",
-    "head_sha": "563def76948e61ad0ed93a4c198648e96a91f0ed",
-    "head_sha_short": "563def7",
+    "head_sha": "623f15dea9611cd851b9c4733174367b4502b4fc",
+    "head_sha_short": "623f15d",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/top100/tree/main"
   },
   {
     "repo": ".github",
     "name": "main",
-    "head_sha": "afbd0669d5da1b8a0a6e73e5e791b3b7e4f3359f",
-    "head_sha_short": "afbd066",
+    "head_sha": "e8c9c80799cfec766f23e5e71f02875697cd3b97",
+    "head_sha_short": "e8c9c80",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/.github/tree/main"
   },
   {
     "repo": "apkdecomp-skill",
     "name": "main",
-    "head_sha": "ccee1438c47b4e79d4c806abe4cc42121ccfb4f7",
-    "head_sha_short": "ccee143",
+    "head_sha": "0a834f5913fcfa5a5eca3ca02979632f73db8397",
+    "head_sha_short": "0a834f5",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/apkdecomp-skill/tree/main"
   },
   {
     "repo": "AudioTaste",
     "name": "main",
-    "head_sha": "33ac105ff064305973c1bc513c417d6f6d11e9ae",
-    "head_sha_short": "33ac105",
+    "head_sha": "b52d27baf1daefb394d5f525ff4812bd19d53bf9",
+    "head_sha_short": "b52d27b",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/AudioTaste/tree/main"
   },
@@ -122,16 +122,16 @@
   {
     "repo": "BloodAndBacon-DnSpyEx",
     "name": "main",
-    "head_sha": "58e3cd9c16e0283b3c653a852d175c0e38f5fc7b",
-    "head_sha_short": "58e3cd9",
+    "head_sha": "5ec8ccea7b86163a2fafe6e6be0c90955b1f345c",
+    "head_sha_short": "5ec8cce",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/tree/main"
   },
   {
     "repo": "bloxNES",
     "name": "main",
-    "head_sha": "bcd6b17b80e386b22961c91207b84b7f15d0d3ba",
-    "head_sha_short": "bcd6b17",
+    "head_sha": "3c4d11638a486a2e91d66ae85095ce2a93cbb3da",
+    "head_sha_short": "3c4d116",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/bloxNES/tree/main"
   },
@@ -162,8 +162,8 @@
   {
     "repo": "BulkStarHistoryAdd",
     "name": "main",
-    "head_sha": "318c6de861f0dad84f37ddf7c5a487f666d5df50",
-    "head_sha_short": "318c6de",
+    "head_sha": "2c24aec3fb09c2d9f950b99a10ecb93a5140a85a",
+    "head_sha_short": "2c24aec",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/tree/main"
   },
@@ -186,16 +186,16 @@
   {
     "repo": "EZInfiniteYTLive",
     "name": "main",
-    "head_sha": "838f8d6b64ec64fded849ccd1b679e485318ee35",
-    "head_sha_short": "838f8d6",
+    "head_sha": "e8d30cf92eff1298dcc2c148e74a06a8e05177e6",
+    "head_sha_short": "e8d30cf",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/main"
   },
   {
     "repo": "face-tagger",
     "name": "master",
-    "head_sha": "c658a53e1b1ebf5c26a877a9ae372558d0d72b81",
-    "head_sha_short": "c658a53",
+    "head_sha": "1c3524a90fce408829099935620740164c1dae65",
+    "head_sha_short": "1c3524a",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/face-tagger/tree/master"
   },
@@ -274,8 +274,8 @@
   {
     "repo": "FNF-Phoenix-Engine-fork",
     "name": "main",
-    "head_sha": "d056ef6ccf6f702edac755591814daaa07b61b8c",
-    "head_sha_short": "d056ef6",
+    "head_sha": "95f86f675e6c786e26732fa722b7e9c1f44f9ff6",
+    "head_sha_short": "95f86f6",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine-fork/tree/main"
   },
@@ -314,8 +314,8 @@
   {
     "repo": "Giggles-Shit",
     "name": "main",
-    "head_sha": "155ffba9519df85c6c9f179ac01dab2d385385a9",
-    "head_sha_short": "155ffba",
+    "head_sha": "06a2e97f987847aca1edd465452d2142863bc0dd",
+    "head_sha_short": "06a2e97",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/Giggles-Shit/tree/main"
   },
@@ -346,24 +346,24 @@
   {
     "repo": "gitgithub",
     "name": "main",
-    "head_sha": "fe7df0a0ede408a8bb82040033d22aa8418cea14",
-    "head_sha_short": "fe7df0a",
+    "head_sha": "5433f0f8b4e31e31341e86f905da14d03fbb6d63",
+    "head_sha_short": "5433f0f",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/gitgithub/tree/main"
   },
   {
     "repo": "havaianasdestruido.github.io",
     "name": "main",
-    "head_sha": "31f2dac9f6ba11570e7051a5e42ae98e1bc2c709",
-    "head_sha_short": "31f2dac",
+    "head_sha": "6a45a683bc8603282f3340c423088438c9ecf3ff",
+    "head_sha_short": "6a45a68",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/tree/main"
   },
   {
     "repo": "Hiphenatus",
     "name": "main",
-    "head_sha": "feb4a18757b3cf8c341038163db0beb2f4da4bcb",
-    "head_sha_short": "feb4a18",
+    "head_sha": "6d8f27b2c2e0e66d21e0109d0f8f97b815f104f2",
+    "head_sha_short": "6d8f27b",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/Hiphenatus/tree/main"
   },
@@ -394,8 +394,8 @@
   {
     "repo": "ImgBotAutomerger",
     "name": "main",
-    "head_sha": "3cf28ad14505386cdd2c65c9192d92f8bd4da32d",
-    "head_sha_short": "3cf28ad",
+    "head_sha": "32d004f5b014c24713202b581dc10392d283ec1e",
+    "head_sha_short": "32d004f",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/ImgBotAutomerger/tree/main"
   },
@@ -418,8 +418,8 @@
   {
     "repo": "manimce-claude",
     "name": "main",
-    "head_sha": "22fdfff83cd102857c44bc088c4dbd74bf92e024",
-    "head_sha_short": "22fdfff",
+    "head_sha": "a2acf4488dda41177d6bbd7dfed96d3e2da9231d",
+    "head_sha_short": "a2acf44",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/manimce-claude/tree/main"
   },
@@ -434,72 +434,72 @@
   {
     "repo": "mediapublisher",
     "name": "master",
-    "head_sha": "8cb6aa6899257dbc0396c36b98c8192409e529a0",
-    "head_sha_short": "8cb6aa6",
+    "head_sha": "d1047f7e77deaa862969a34fe6c5d3841796dd42",
+    "head_sha_short": "d1047f7",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/mediapublisher/tree/master"
   },
   {
     "repo": "metadata-editor",
     "name": "master",
-    "head_sha": "7708f42bb017e9400ff5153e7b652b962103b8b5",
-    "head_sha_short": "7708f42",
+    "head_sha": "0d0f7147e91d6d2f1b0962b39a212b5b311cc6a5",
+    "head_sha_short": "0d0f714",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/metadata-editor/tree/master"
   },
   {
     "repo": "midi-skill",
     "name": "main",
-    "head_sha": "3f34a9f26ae0bdfb85a53ab79df0442427633048",
-    "head_sha_short": "3f34a9f",
+    "head_sha": "3cd81cbde612d598d75b1530310972faa3037dba",
+    "head_sha_short": "3cd81cb",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/midi-skill/tree/main"
   },
   {
     "repo": "mmr-cli",
     "name": "master",
-    "head_sha": "b2c9c710494c54f9810bba82005279a537b38b64",
-    "head_sha_short": "b2c9c71",
+    "head_sha": "c5385fddb56f09cb6dc913798e06a0b022f1d5f7",
+    "head_sha_short": "c5385fd",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/mmr-cli/tree/master"
   },
   {
     "repo": "mmr-gui",
     "name": "master",
-    "head_sha": "1a874e702ec2322e0c3bd88fdb2e689bbf45b27c",
-    "head_sha_short": "1a874e7",
+    "head_sha": "5acb4ac9b1b975fb5ed6847b6467b3dca0742ccb",
+    "head_sha_short": "5acb4ac",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/mmr-gui/tree/master"
   },
   {
     "repo": "mmr-python",
     "name": "master",
-    "head_sha": "9afb7669df1fcf8ba05b9049156f24e9e22e6af1",
-    "head_sha_short": "9afb766",
+    "head_sha": "29f2a9939a35509ae37ad8146b017e4980e791ed",
+    "head_sha_short": "29f2a99",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/mmr-python/tree/master"
   },
   {
     "repo": "movielibrary",
     "name": "master",
-    "head_sha": "573c6ff95c387ff8e7243b7d08c07068f9dc6d09",
-    "head_sha_short": "573c6ff",
+    "head_sha": "cbaab1cca717d141cb04da26591af2561a6e227e",
+    "head_sha_short": "cbaab1c",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/movielibrary/tree/master"
   },
   {
     "repo": "moviemaker-launcher",
     "name": "master",
-    "head_sha": "99fcd71b719743f6e6a5d00b3f5f3f4a17b5a61e",
-    "head_sha_short": "99fcd71",
+    "head_sha": "da0bf3c4b1549c33d1600d26a60ba60299f29f60",
+    "head_sha_short": "da0bf3c",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/moviemaker-launcher/tree/master"
   },
   {
     "repo": "noisy",
     "name": "main",
-    "head_sha": "0bc8cdf9c61a07ba3ee0901c89a1ed0a5b64a3c9",
-    "head_sha_short": "0bc8cdf",
+    "head_sha": "47fb3b2e177a3257532c058dda9dd4db60857b36",
+    "head_sha_short": "47fb3b2",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/noisy/tree/main"
   },
@@ -570,40 +570,40 @@
   {
     "repo": "orelha",
     "name": "main",
-    "head_sha": "58112f45193a6b904e29579b84c3f58da82eaa13",
-    "head_sha_short": "58112f4",
+    "head_sha": "397825f341ced84dd08e530ab3be864eaf5c2f54",
+    "head_sha_short": "397825f",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/orelha/tree/main"
   },
   {
     "repo": "PersonaDB",
     "name": "main",
-    "head_sha": "cb53c24e403668ec5dcc9eb81ced2178936dd037",
-    "head_sha_short": "cb53c24",
+    "head_sha": "83ecbe73cdc1d91729a1ed981e44f23f4dcb69db",
+    "head_sha_short": "83ecbe7",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/PersonaDB/tree/main"
   },
   {
     "repo": "photoviewer",
     "name": "master",
-    "head_sha": "a0ec944d5face86513cfdee179b7ad203c261812",
-    "head_sha_short": "a0ec944",
+    "head_sha": "39a9e505a8b2970538814046cbd8de8cb538bf81",
+    "head_sha_short": "39a9e50",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/photoviewer/tree/master"
   },
   {
     "repo": "pipeline-graph",
     "name": "master",
-    "head_sha": "4ba017d1330c69254521d7fc0876fc12b53c8b37",
-    "head_sha_short": "4ba017d",
+    "head_sha": "33298cb808e80ce361979ede101ebd104eee73fe",
+    "head_sha_short": "33298cb",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/pipeline-graph/tree/master"
   },
   {
     "repo": "PWSV",
     "name": "main",
-    "head_sha": "3e51df0be1d2088bb763e60755561079859ad688",
-    "head_sha_short": "3e51df0",
+    "head_sha": "1b2937c9cf0e0f6984b94eb1722fd26fb426199f",
+    "head_sha_short": "1b2937c",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/PWSV/tree/main"
   },
@@ -666,8 +666,8 @@
   {
     "repo": "RoBrowser",
     "name": "main",
-    "head_sha": "3ffe8a3be18bbfcfaa688b314f4f66c9a2d4776f",
-    "head_sha_short": "3ffe8a3",
+    "head_sha": "63ad22bfaec49d61e93e0322fdacffd20abd50f2",
+    "head_sha_short": "63ad22b",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/RoBrowser/tree/main"
   },
@@ -698,16 +698,16 @@
   {
     "repo": "sigma-click",
     "name": "main",
-    "head_sha": "3f5236de295166a81133f4b68b2346fcdb74d7b8",
-    "head_sha_short": "3f5236d",
+    "head_sha": "a2b75438a9d404d9b3fde10733decfbafb5b665a",
+    "head_sha_short": "a2b7543",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/sigma-click/tree/main"
   },
   {
     "repo": "slideshow-studio",
     "name": "master",
-    "head_sha": "8260c0c339e083241642277f307dd890c6ada7e0",
-    "head_sha_short": "8260c0c",
+    "head_sha": "5ba93f9aa5c1a09f9759fdbca4550e23bd579fb1",
+    "head_sha_short": "5ba93f9",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/slideshow-studio/tree/master"
   },
@@ -730,24 +730,24 @@
   {
     "repo": "steamlogger",
     "name": "main",
-    "head_sha": "691928a661d6007cfed2a4e4e4ba95579315dbf3",
-    "head_sha_short": "691928a",
+    "head_sha": "2060c881b6becea30e93f7829a0c710d593e5a4b",
+    "head_sha_short": "2060c88",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/steamlogger/tree/main"
   },
   {
     "repo": "transition-plugin",
     "name": "master",
-    "head_sha": "900e06eb53597a67a777f7db4fc0f15f7bb6b90d",
-    "head_sha_short": "900e06e",
+    "head_sha": "7908d64951212a1f084f54de29632f9147de1974",
+    "head_sha_short": "7908d64",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/transition-plugin/tree/master"
   },
   {
     "repo": "video-trimmer",
     "name": "master",
-    "head_sha": "941370eaa8704cd44b852d854ef9d54c3305b2f1",
-    "head_sha_short": "941370e",
+    "head_sha": "57cffd9d444104afec046b73bb5e893433902d8b",
+    "head_sha_short": "57cffd9",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/video-trimmer/tree/master"
   },
@@ -762,8 +762,8 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "name": "main",
-    "head_sha": "18892fc883f2e3d411384532a3baf6e95c2c06fd",
-    "head_sha_short": "18892fc",
+    "head_sha": "6ade6bf4e75edb026978b4779b11e6bfe622e087",
+    "head_sha_short": "6ade6bf",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/main"
   }
