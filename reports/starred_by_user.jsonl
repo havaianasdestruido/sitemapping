@@ -1,3 +1,4 @@
+{"full_name": "imgbot/Imgbot", "url": "https://github.com/imgbot/Imgbot", "description": "An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once it's done, ImgBot will open a pull request for you to review and merge. help@imgbot.net"}
 {"full_name": "havaianasdestruido/pong-pop", "url": "https://github.com/havaianasdestruido/pong-pop", "description": "Jogo simples onde você joga ping pong, mas com pop ups."}
 {"full_name": "kanaka/mal", "url": "https://github.com/kanaka/mal", "description": "mal - Make a Lisp"}
 {"full_name": "chrislgarry/Apollo-11", "url": "https://github.com/chrislgarry/Apollo-11", "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."}

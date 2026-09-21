@@ -1,5 +1,13 @@
 [
   {
+    "repo": "hemorroidabot",
+    "pr_number": 1,
+    "sha": "01192ecb6b21eab290172910a228fdfde0c1321a",
+    "sha_short": "01192ec",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/01192ecb6b21eab290172910a228fdfde0c1321a"
+  },
+  {
     "repo": "pong-pop",
     "pr_number": 3,
     "sha": "0b452305acfc9acbde3097a56f397fe7e0de921f",
@@ -50,10 +58,10 @@
   {
     "repo": "BulkStarHistoryAdd",
     "pr_number": 1,
-    "sha": "29edf8b2805084d82d25509f941dbaa9a2dd7e7e",
-    "sha_short": "29edf8b",
+    "sha": "0cdc36dad5cb32be088ac6afa40f2c6e8cb4ae01",
+    "sha_short": "0cdc36d",
     "message": "[ImgBot] Optimize images",
-    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/29edf8b2805084d82d25509f941dbaa9a2dd7e7e"
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/0cdc36dad5cb32be088ac6afa40f2c6e8cb4ae01"
   },
   {
     "repo": "calculator",
@@ -438,6 +446,14 @@
     "sha_short": "e27d942",
     "message": "docs: fix README grammar and spelling",
     "url": "https://github.com/havaianasdestruido/freellmapi/commit/e27d942a5565bfab15708c929477b42ccf45a586"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "pr_number": 1,
+    "sha": "021ad06817d7142043b7ce2bc4eafe25e2439f49",
+    "sha_short": "021ad06",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/021ad06817d7142043b7ce2bc4eafe25e2439f49"
   },
   {
     "repo": "gitgithub",

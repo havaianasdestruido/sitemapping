@@ -1,11 +1,12 @@
 repo,pr_number,sha,sha_short,message,url
+hemorroidabot,1,01192ecb6b21eab290172910a228fdfde0c1321a,01192ec,[ImgBot] Optimize images,https://github.com/havaianasdestruido/hemorroidabot/commit/01192ecb6b21eab290172910a228fdfde0c1321a
 pong-pop,3,0b452305acfc9acbde3097a56f397fe7e0de921f,0b45230,Show score on play button during games,https://github.com/havaianasdestruido/pong-pop/commit/0b452305acfc9acbde3097a56f397fe7e0de921f
 pong-pop,2,796d5c1f8434666fa2d70df3093f594ec3d26c03,796d5c1,Smooth AI paddle window movement,https://github.com/havaianasdestruido/pong-pop/commit/796d5c1f8434666fa2d70df3093f594ec3d26c03
 pong-pop,1,ebce1a99b0c8c9c21ffd5527c3b589af2b134f73,ebce1a9,Create popup window Pong game,https://github.com/havaianasdestruido/pong-pop/commit/ebce1a99b0c8c9c21ffd5527c3b589af2b134f73
 AudioTaste,1,4e7ad01509542836213e7125ccc4fb067bb78d9b,4e7ad01,Install Vercel Speed Insights with framework support,https://github.com/havaianasdestruido/AudioTaste/commit/4e7ad01509542836213e7125ccc4fb067bb78d9b
 bootloader-unlock-wall-of-shame,2,56a64ea58aa8febe86b41c77418ecac11e63f4d2,56a64ea,fix grammar and spelling across markdown files,https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/commit/56a64ea58aa8febe86b41c77418ecac11e63f4d2
 bootloader-unlock-wall-of-shame,1,100ad86e7cb044600a62531c9d5998558e4968e5,100ad86,[ImgBot] Optimize images,https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/commit/100ad86e7cb044600a62531c9d5998558e4968e5
-BulkStarHistoryAdd,1,29edf8b2805084d82d25509f941dbaa9a2dd7e7e,29edf8b,[ImgBot] Optimize images,https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/29edf8b2805084d82d25509f941dbaa9a2dd7e7e
+BulkStarHistoryAdd,1,0cdc36dad5cb32be088ac6afa40f2c6e8cb4ae01,0cdc36d,[ImgBot] Optimize images,https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/0cdc36dad5cb32be088ac6afa40f2c6e8cb4ae01
 calculator,1,2ec7688d290121f4b17e28dec9da97486e5fef6c,2ec7688,[ImgBot] Optimize images,https://github.com/havaianasdestruido/calculator/commit/2ec7688d290121f4b17e28dec9da97486e5fef6c
 FNF-PeoteView,1,354c48e9e18eafea87696d0ed8be12c2dc95f758,354c48e,[ImgBot] Optimize images,https://github.com/havaianasdestruido/FNF-PeoteView/commit/354c48e9e18eafea87696d0ed8be12c2dc95f758
 FNF-Phoenix-Engine,14,7701ed8e5530a6192de386e5244cb8d370332f1d,7701ed8,fix: repair broken GitHub Actions workflows,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7701ed8e5530a6192de386e5244cb8d370332f1d
@@ -54,6 +55,7 @@ FNF-Phoenix-Engine,1,592f111d6d5c4bbe09362a9eb3a38a6389e783d6,592f111,Merge bran
 FNF-Phoenix-Engine,1,e020b5f8c716c089d83d14c25d3e8e1f2194cfbc,e020b5f,Merge branch 'JordanSantiagoYT:main' into nightly-link,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e020b5f8c716c089d83d14c25d3e8e1f2194cfbc
 freellmapi,2,3b9aa4cb201af8cb2a35e2236d59d62d7b7181a0,3b9aa4c,[ImgBot] Optimize images,https://github.com/havaianasdestruido/freellmapi/commit/3b9aa4cb201af8cb2a35e2236d59d62d7b7181a0
 freellmapi,1,e27d942a5565bfab15708c929477b42ccf45a586,e27d942,docs: fix README grammar and spelling,https://github.com/havaianasdestruido/freellmapi/commit/e27d942a5565bfab15708c929477b42ccf45a586
+Giggles-Shit,1,021ad06817d7142043b7ce2bc4eafe25e2439f49,021ad06,[ImgBot] Optimize images,https://github.com/havaianasdestruido/Giggles-Shit/commit/021ad06817d7142043b7ce2bc4eafe25e2439f49
 gitgithub,3,b5da76343c699ed5fc1917bcfbcfbc130673b80d,b5da763,docs: expand TBA sections in README with Git command examples,https://github.com/havaianasdestruido/gitgithub/commit/b5da76343c699ed5fc1917bcfbcfbc130673b80d
 gitgithub,2,e2d1aa0b8786d369da48008c09c5c4a8a8ad0870,e2d1aa0,fix: correcao de gramatica e ortografia no README.MD,https://github.com/havaianasdestruido/gitgithub/commit/e2d1aa0b8786d369da48008c09c5c4a8a8ad0870
 gitgithub,2,74f7000ead8f6de310681dbf5279c36914149d55,74f7000,Merge branch 'main' into fix-readme-grammar-9987866976443268935,https://github.com/havaianasdestruido/gitgithub/commit/74f7000ead8f6de310681dbf5279c36914149d55

@@ -1,4 +1,5 @@
 full_name,url,description
+imgbot/Imgbot,https://github.com/imgbot/Imgbot,"An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once it's done, ImgBot will open a pull request for you to review and merge. help@imgbot.net"
 havaianasdestruido/pong-pop,https://github.com/havaianasdestruido/pong-pop,"Jogo simples onde você joga ping pong, mas com pop ups."
 kanaka/mal,https://github.com/kanaka/mal,mal - Make a Lisp
 chrislgarry/Apollo-11,https://github.com/chrislgarry/Apollo-11,Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.

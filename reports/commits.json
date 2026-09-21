@@ -2,6 +2,16 @@
   {
     "repo": "blaster",
     "branch": "main",
+    "sha": "a96ae2b9cbf96db754bae4785694516694a03b0d",
+    "sha_short": "a96ae2b",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:09Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/blaster/commit/a96ae2b9cbf96db754bae4785694516694a03b0d"
+  },
+  {
+    "repo": "blaster",
+    "branch": "main",
     "sha": "cf870b98d839ff754f855ca751e4ac9b97903a2f",
     "sha_short": "cf870b9",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -38,6 +48,116 @@
     "date": "2026-09-10T00:24:36Z",
     "message": "Create blaster.c",
     "url": "https://github.com/havaianasdestruido/blaster/commit/20c4a98579abfac65fabb199b09869820a5582c2"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "imgbot",
+    "sha": "01192ecb6b21eab290172910a228fdfde0c1321a",
+    "sha_short": "01192ec",
+    "author": "ImgBotApp",
+    "date": "2026-09-21T00:38:28Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/01192ecb6b21eab290172910a228fdfde0c1321a"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "imgbot",
+    "sha": "f20a3a3d5c8a27d6de96b330220f6f2cf915bb6f",
+    "sha_short": "f20a3a3",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:07Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/f20a3a3d5c8a27d6de96b330220f6f2cf915bb6f"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "imgbot",
+    "sha": "9a0fd54c6724560c6d812f0f7ba73955bc99a9d0",
+    "sha_short": "9a0fd54",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:21Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/9a0fd54c6724560c6d812f0f7ba73955bc99a9d0"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "imgbot",
+    "sha": "28d159df5022b5ed42fd9eb1b33350a338acce45",
+    "sha_short": "28d159d",
+    "author": "Pato (new acc)",
+    "date": "2026-09-18T00:33:47Z",
+    "message": "Create LICENSE",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/28d159df5022b5ed42fd9eb1b33350a338acce45"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "imgbot",
+    "sha": "4931d3f19a587d139383c21f986707dd4cc8187d",
+    "sha_short": "4931d3f",
+    "author": "havaianasdestruido",
+    "date": "2026-09-18T00:19:05Z",
+    "message": "docs(agents): adiciona AGENTS.md canonico (fonte unica) + ponteiros CLAUDE.md/AI.md",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/4931d3f19a587d139383c21f986707dd4cc8187d"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "imgbot",
+    "sha": "5bf45313b8a2216e6d1a8108ea16ccd120474aac",
+    "sha_short": "5bf4531",
+    "author": "havaianasdestruido",
+    "date": "2026-09-17T13:45:35Z",
+    "message": "docs(readme): marca com :white_check_mark: as 24 APIs e ferramentas locais já implementadas e remove a lista 'Já implementadas (keyless)'",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/5bf45313b8a2216e6d1a8108ea16ccd120474aac"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "imgbot",
+    "sha": "280e97349a21d9be5ec12f8f47f34a0a7c1ed593",
+    "sha_short": "280e973",
+    "author": "havaianasdestruido",
+    "date": "2026-09-16T12:20:21Z",
+    "message": "feat(tools): toggle para APIs mortas removidas da UI (off por padrao) com persistencia e exposicao via APIs",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/280e97349a21d9be5ec12f8f47f34a0a7c1ed593"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "imgbot",
+    "sha": "7f7d9a28b9fe988041f560c7b884c31c7e7f55e1",
+    "sha_short": "7f7d9a2",
+    "author": "havaianasdestruido",
+    "date": "2026-09-16T11:52:33Z",
+    "message": "test(live): imprime corpo bruto das APIs com --raw para debugar mortas",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/7f7d9a28b9fe988041f560c7b884c31c7e7f55e1"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "imgbot",
+    "sha": "f146601fd08bdbf0b8653e43426be6484017d32d",
+    "sha_short": "f146601",
+    "author": "havaianasdestruido",
+    "date": "2026-09-16T11:52:33Z",
+    "message": "ci(pages): deploy do bot no GitHub Pages com gate de testes",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/f146601fd08bdbf0b8653e43426be6484017d32d"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "imgbot",
+    "sha": "1614e70eaa27729d2fcdbd4b7c9c6cabf5879235",
+    "sha_short": "1614e70",
+    "author": "Pato (new acc)",
+    "date": "2026-09-13T20:39:35Z",
+    "message": "Add labeler configuration for automatic PR labeling",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/1614e70eaa27729d2fcdbd4b7c9c6cabf5879235"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "master",
+    "sha": "f20a3a3d5c8a27d6de96b330220f6f2cf915bb6f",
+    "sha_short": "f20a3a3",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:07Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/f20a3a3d5c8a27d6de96b330220f6f2cf915bb6f"
   },
   {
     "repo": "hemorroidabot",
@@ -130,14 +250,14 @@
     "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/6dbc4147909c20e319c5cc0c1eb2bf98b92e56dc"
   },
   {
-    "repo": "hemorroidabot",
-    "branch": "master",
-    "sha": "e6e64947d81f102fa4901339670adbfb532b7e92",
-    "sha_short": "e6e6494",
-    "author": "havaianasdestruido",
-    "date": "2026-09-13T19:56:28Z",
-    "message": "feat(tools): adiciona 15 APIs publicas keyless (fishwatch, dogfacts, animefacts, bible, quran, jsonplaceholder, countapi, fox, emoji, fruityvice, deckofcards, tronalddump, urban, shibe, httppets)",
-    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/e6e64947d81f102fa4901339670adbfb532b7e92"
+    "repo": "PatoCraft",
+    "branch": "main",
+    "sha": "91e155dfb613f10743812788186476577a8909d1",
+    "sha_short": "91e155d",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:09Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/PatoCraft/commit/91e155dfb613f10743812788186476577a8909d1"
   },
   {
     "repo": "PatoCraft",
@@ -422,6 +542,16 @@
   {
     "repo": "pong-pop",
     "branch": "main",
+    "sha": "15b0bc82855272620c362f45e0c8c2ca3b751be0",
+    "sha_short": "15b0bc8",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:06Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/pong-pop/commit/15b0bc82855272620c362f45e0c8c2ca3b751be0"
+  },
+  {
+    "repo": "pong-pop",
+    "branch": "main",
     "sha": "615099cabc45eeb2d18e6a2b0ecaa7d91f53a38b",
     "sha_short": "615099c",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -510,14 +640,14 @@
     "url": "https://github.com/havaianasdestruido/pong-pop/commit/52764429d096a1c04b2756346b232d9146af866b"
   },
   {
-    "repo": "pong-pop",
+    "repo": "PrintSpoolerAutoRun",
     "branch": "main",
-    "sha": "68c3b1a93b8e431be5f9d1e7b8ab4732b1b6ae11",
-    "sha_short": "68c3b1a",
-    "author": "havaianasdestruido",
-    "date": "2026-08-03T18:17:41Z",
-    "message": "Add demo gif to README",
-    "url": "https://github.com/havaianasdestruido/pong-pop/commit/68c3b1a93b8e431be5f9d1e7b8ab4732b1b6ae11"
+    "sha": "03f34237bb23d6c5315c110109aff4ee035db0ca",
+    "sha_short": "03f3423",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:07Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/PrintSpoolerAutoRun/commit/03f34237bb23d6c5315c110109aff4ee035db0ca"
   },
   {
     "repo": "PrintSpoolerAutoRun",
@@ -548,6 +678,26 @@
     "date": "2026-09-18T00:26:56Z",
     "message": "initial ver",
     "url": "https://github.com/havaianasdestruido/PrintSpoolerAutoRun/commit/12da550ad341d229cba9418715f21ae780b22bd2"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
+    "sha": "7a2bb03300ce1cf52c3b40bae66716bbea6de0d5",
+    "sha_short": "7a2bb03",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:05Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/7a2bb03300ce1cf52c3b40bae66716bbea6de0d5"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
+    "sha": "812929d457b9540199fdf30f4f0a5244922ec40f",
+    "sha_short": "812929d",
+    "author": "GitHub Action Bot",
+    "date": "2026-09-20T22:06:43Z",
+    "message": "📊 [2026-09-20 22:06:43 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/812929d457b9540199fdf30f4f0a5244922ec40f"
   },
   {
     "repo": "sitemapping",
@@ -632,22 +782,52 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "b66d1152a90174daab03f6b132534edaf84d3ff0",
-    "sha_short": "b66d115",
+    "sha": "b113a1a7238707136a74b436700b150607d5a51c",
+    "sha_short": "b113a1a",
     "author": "Pato (new acc)",
-    "date": "2026-09-20T14:58:46Z",
-    "message": "Simplify commit message format in workflow",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/b66d1152a90174daab03f6b132534edaf84d3ff0"
+    "date": "2026-09-13T17:28:25Z",
+    "message": "Create repo-analyzer.yml",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/b113a1a7238707136a74b436700b150607d5a51c"
   },
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "d5b7ae092e418cf5de137a3d550df83640cbee71",
-    "sha_short": "d5b7ae0",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-20T03:58:53Z",
-    "message": "📊 Update repository report [2026-09-20 03:58:53 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/d5b7ae092e418cf5de137a3d550df83640cbee71"
+    "sha": "a6ebe1dd4f364ad874898f2a9a3628718a2b35f0",
+    "sha_short": "a6ebe1d",
+    "author": "Pato (new acc)",
+    "date": "2026-09-13T17:27:15Z",
+    "message": "Create generate_report.py",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/a6ebe1dd4f364ad874898f2a9a3628718a2b35f0"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "563def76948e61ad0ed93a4c198648e96a91f0ed",
+    "sha_short": "563def7",
+    "author": "github-actions[bot]",
+    "date": "2026-09-21T00:38:57Z",
+    "message": "data: update top repos data (2026-09-21)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/563def76948e61ad0ed93a4c198648e96a91f0ed"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "748db272fa3dde12a41ce8c58e9404b70c2f7418",
+    "sha_short": "748db27",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:05Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/top100/commit/748db272fa3dde12a41ce8c58e9404b70c2f7418"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "e27e32c6300ac9d0b8681874904a6ef9b307be09",
+    "sha_short": "e27e32c",
+    "author": "github-actions[bot]",
+    "date": "2026-09-20T23:49:11Z",
+    "message": "data: update top repos data (2026-09-20)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/e27e32c6300ac9d0b8681874904a6ef9b307be09"
   },
   {
     "repo": "top100",
@@ -720,34 +900,14 @@
     "url": "https://github.com/havaianasdestruido/top100/commit/ede024c3bf8e0e4653f7088c079c907655daa9de"
   },
   {
-    "repo": "top100",
+    "repo": ".github",
     "branch": "main",
-    "sha": "85406284ee1510f62fab3e4df7263f7d7f5e8ce4",
-    "sha_short": "8540628",
+    "sha": "afbd0669d5da1b8a0a6e73e5e791b3b7e4f3359f",
+    "sha_short": "afbd066",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:55:55Z",
-    "message": "Fix link case sensitivity in README.md",
-    "url": "https://github.com/havaianasdestruido/top100/commit/85406284ee1510f62fab3e4df7263f7d7f5e8ce4"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "89733e0187ff2f7ebe1a3ea347ff69de3560b9c9",
-    "sha_short": "89733e0",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:55:17Z",
-    "message": "Add push trigger for main branch in workflow",
-    "url": "https://github.com/havaianasdestruido/top100/commit/89733e0187ff2f7ebe1a3ea347ff69de3560b9c9"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "2723f0f56f61ee64dcf59100cf8524c93769b885",
-    "sha_short": "2723f0f",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:54:16Z",
-    "message": "Update cron schedule to run every hour",
-    "url": "https://github.com/havaianasdestruido/top100/commit/2723f0f56f61ee64dcf59100cf8524c93769b885"
+    "date": "2026-09-21T00:38:05Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/.github/commit/afbd0669d5da1b8a0a6e73e5e791b3b7e4f3359f"
   },
   {
     "repo": ".github",
@@ -840,14 +1000,14 @@
     "url": "https://github.com/havaianasdestruido/.github/commit/2e42e81d31391305ea6491d56b406cffa3160963"
   },
   {
-    "repo": ".github",
+    "repo": "apkdecomp-skill",
     "branch": "main",
-    "sha": "47451fddb7802e4ce18852d7215a09567cd00c97",
-    "sha_short": "47451fd",
-    "author": "Pato (new acc)",
-    "date": "2026-09-15T00:06:15Z",
-    "message": "lol",
-    "url": "https://github.com/havaianasdestruido/.github/commit/47451fddb7802e4ce18852d7215a09567cd00c97"
+    "sha": "ccee1438c47b4e79d4c806abe4cc42121ccfb4f7",
+    "sha_short": "ccee143",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:13Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/apkdecomp-skill/commit/ccee1438c47b4e79d4c806abe4cc42121ccfb4f7"
   },
   {
     "repo": "apkdecomp-skill",
@@ -868,6 +1028,16 @@
     "date": "2026-09-20T13:44:52Z",
     "message": "init",
     "url": "https://github.com/havaianasdestruido/apkdecomp-skill/commit/fa5c615d7e7b1c7c69c8559b0c883c96a1b34eab"
+  },
+  {
+    "repo": "AudioTaste",
+    "branch": "main",
+    "sha": "33ac105ff064305973c1bc513c417d6f6d11e9ae",
+    "sha_short": "33ac105",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:19Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/AudioTaste/commit/33ac105ff064305973c1bc513c417d6f6d11e9ae"
   },
   {
     "repo": "AudioTaste",
@@ -961,16 +1131,6 @@
   },
   {
     "repo": "AudioTaste",
-    "branch": "main",
-    "sha": "420a1b6e68e9d23982272708d8a21e2d8c221f56",
-    "sha_short": "420a1b6",
-    "author": "UltimateQuack",
-    "date": "2026-08-08T14:41:43Z",
-    "message": "fix(covers): add timeouts, rate-limit retries, atomic cache writes (pipeline audit)",
-    "url": "https://github.com/havaianasdestruido/AudioTaste/commit/420a1b6e68e9d23982272708d8a21e2d8c221f56"
-  },
-  {
-    "repo": "AudioTaste",
     "branch": "vercel/install-vercel-speed-insights-ftzuun",
     "sha": "4e7ad01509542836213e7125ccc4fb067bb78d9b",
     "sha_short": "4e7ad01",
@@ -1052,6 +1212,16 @@
   {
     "repo": "BloodAndBacon-DnSpyEx",
     "branch": "main",
+    "sha": "58e3cd9c16e0283b3c653a852d175c0e38f5fc7b",
+    "sha_short": "58e3cd9",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:19Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/58e3cd9c16e0283b3c653a852d175c0e38f5fc7b"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "branch": "main",
     "sha": "a3d6e8e0b015893a8a080e50cd6f5dc3353d48ec",
     "sha_short": "a3d6e8e",
     "author": "Pato (new acc)",
@@ -1068,6 +1238,16 @@
     "date": "2026-08-12T23:51:45Z",
     "message": "init",
     "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/0813bc7bffd7af5680e338235220396ab306964f"
+  },
+  {
+    "repo": "bloxNES",
+    "branch": "main",
+    "sha": "bcd6b17b80e386b22961c91207b84b7f15d0d3ba",
+    "sha_short": "bcd6b17",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:09Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/bloxNES/commit/bcd6b17b80e386b22961c91207b84b7f15d0d3ba"
   },
   {
     "repo": "bloxNES",
@@ -1158,16 +1338,6 @@
     "date": "2026-05-03T16:09:27Z",
     "message": "feat(01-02): implement 56 official 6502 opcodes with function table dispatch",
     "url": "https://github.com/havaianasdestruido/bloxNES/commit/05accfc2df2c6bf2f6405e93cba1711c8da96c9e"
-  },
-  {
-    "repo": "bloxNES",
-    "branch": "main",
-    "sha": "2314f7d0587084213613c635f9eb06cab58059bb",
-    "sha_short": "2314f7d",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-05-03T16:04:49Z",
-    "message": "feat(01-01): create CPU module with registers and NES reset behavior",
-    "url": "https://github.com/havaianasdestruido/bloxNES/commit/2314f7d0587084213613c635f9eb06cab58059bb"
   },
   {
     "repo": "bootloader-unlock-wall-of-shame",
@@ -1972,12 +2142,42 @@
   {
     "repo": "BulkStarHistoryAdd",
     "branch": "imgbot",
-    "sha": "29edf8b2805084d82d25509f941dbaa9a2dd7e7e",
-    "sha_short": "29edf8b",
+    "sha": "0cdc36dad5cb32be088ac6afa40f2c6e8cb4ae01",
+    "sha_short": "0cdc36d",
     "author": "ImgBotApp",
-    "date": "2026-09-20T20:19:33Z",
+    "date": "2026-09-21T00:38:37Z",
     "message": "[ImgBot] Optimize images",
-    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/29edf8b2805084d82d25509f941dbaa9a2dd7e7e"
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/0cdc36dad5cb32be088ac6afa40f2c6e8cb4ae01"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "imgbot",
+    "sha": "318c6de861f0dad84f37ddf7c5a487f666d5df50",
+    "sha_short": "318c6de",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:05Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/318c6de861f0dad84f37ddf7c5a487f666d5df50"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "imgbot",
+    "sha": "942bec6ec85b2aefdcc048da3f8960f5db1e6fd3",
+    "sha_short": "942bec6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:20:39Z",
+    "message": "Create README.md",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/942bec6ec85b2aefdcc048da3f8960f5db1e6fd3"
+  },
+  {
+    "repo": "BulkStarHistoryAdd",
+    "branch": "imgbot",
+    "sha": "bdcf739d6c126407b71bb3c579f5abc97c10697d",
+    "sha_short": "bdcf739",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:20:29Z",
+    "message": "Delete img/3.png",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/bdcf739d6c126407b71bb3c579f5abc97c10697d"
   },
   {
     "repo": "BulkStarHistoryAdd",
@@ -2041,23 +2241,13 @@
   },
   {
     "repo": "BulkStarHistoryAdd",
-    "branch": "imgbot",
-    "sha": "e41852012fcd4cbf357c49b90f591778de813a58",
-    "sha_short": "e418520",
+    "branch": "main",
+    "sha": "318c6de861f0dad84f37ddf7c5a487f666d5df50",
+    "sha_short": "318c6de",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T20:16:27Z",
-    "message": "Create readme.txt",
-    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/e41852012fcd4cbf357c49b90f591778de813a58"
-  },
-  {
-    "repo": "BulkStarHistoryAdd",
-    "branch": "imgbot",
-    "sha": "794212e7575bcf9a3727cfd9443f599030bf03e4",
-    "sha_short": "794212e",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T20:09:11Z",
-    "message": "Add files via upload",
-    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/794212e7575bcf9a3727cfd9443f599030bf03e4"
+    "date": "2026-09-21T00:38:05Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/318c6de861f0dad84f37ddf7c5a487f666d5df50"
   },
   {
     "repo": "BulkStarHistoryAdd",
@@ -2148,16 +2338,6 @@
     "date": "2026-09-20T20:16:27Z",
     "message": "Create readme.txt",
     "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/e41852012fcd4cbf357c49b90f591778de813a58"
-  },
-  {
-    "repo": "BulkStarHistoryAdd",
-    "branch": "main",
-    "sha": "794212e7575bcf9a3727cfd9443f599030bf03e4",
-    "sha_short": "794212e",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T20:09:11Z",
-    "message": "Add files via upload",
-    "url": "https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/794212e7575bcf9a3727cfd9443f599030bf03e4"
   },
   {
     "repo": "calculator",
@@ -2862,6 +3042,16 @@
   {
     "repo": "EZInfiniteYTLive",
     "branch": "main",
+    "sha": "838f8d6b64ec64fded849ccd1b679e485318ee35",
+    "sha_short": "838f8d6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:07Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/838f8d6b64ec64fded849ccd1b679e485318ee35"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "branch": "main",
     "sha": "3d049a9ae6cbfe27719d4dfee62df185b5a2e621",
     "sha_short": "3d049a9",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -2950,14 +3140,14 @@
     "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/f128fa50881a8a404f440b385b33e727e6ba99a0"
   },
   {
-    "repo": "EZInfiniteYTLive",
-    "branch": "main",
-    "sha": "25265e0b8ff7adc7ee488dc3878dc598ce5e9a4b",
-    "sha_short": "25265e0",
-    "author": "UltimateQuack",
-    "date": "2025-07-20T21:46:55Z",
-    "message": "Create dotnet.yml",
-    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/25265e0b8ff7adc7ee488dc3878dc598ce5e9a4b"
+    "repo": "face-tagger",
+    "branch": "master",
+    "sha": "c658a53e1b1ebf5c26a877a9ae372558d0d72b81",
+    "sha_short": "c658a53",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:18Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/face-tagger/commit/c658a53e1b1ebf5c26a877a9ae372558d0d72b81"
   },
   {
     "repo": "face-tagger",
@@ -6582,6 +6772,16 @@
   {
     "repo": "FNF-Phoenix-Engine-fork",
     "branch": "main",
+    "sha": "d056ef6ccf6f702edac755591814daaa07b61b8c",
+    "sha_short": "d056ef6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:20Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine-fork/commit/d056ef6ccf6f702edac755591814daaa07b61b8c"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine-fork",
+    "branch": "main",
     "sha": "a9326bc98900134fff95bbef6d5f7ae964202d72",
     "sha_short": "a9326bc",
     "author": "Pato (new acc)",
@@ -7801,6 +8001,116 @@
   },
   {
     "repo": "Giggles-Shit",
+    "branch": "imgbot",
+    "sha": "021ad06817d7142043b7ce2bc4eafe25e2439f49",
+    "sha_short": "021ad06",
+    "author": "ImgBotApp",
+    "date": "2026-09-21T00:39:07Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/021ad06817d7142043b7ce2bc4eafe25e2439f49"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "imgbot",
+    "sha": "155ffba9519df85c6c9f179ac01dab2d385385a9",
+    "sha_short": "155ffba",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:12Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/155ffba9519df85c6c9f179ac01dab2d385385a9"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "imgbot",
+    "sha": "67804cbf37f5d7b9660161fb2e840e369618871e",
+    "sha_short": "67804cb",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:00Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/67804cbf37f5d7b9660161fb2e840e369618871e"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "imgbot",
+    "sha": "8ba6919eb3eed230a4bf95a7fa8d0cea979957f0",
+    "sha_short": "8ba6919",
+    "author": "Pato (new acc)",
+    "date": "2026-09-18T00:47:46Z",
+    "message": "Add MIT License",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/8ba6919eb3eed230a4bf95a7fa8d0cea979957f0"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "imgbot",
+    "sha": "9b040e7432f5a46f604869fd0c2bb45f786e7d20",
+    "sha_short": "9b040e7",
+    "author": "Pato (new acc)",
+    "date": "2026-08-12T15:18:53Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/9b040e7432f5a46f604869fd0c2bb45f786e7d20"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "imgbot",
+    "sha": "b791a934e7ef085749eedb5782832946d42ce932",
+    "sha_short": "b791a93",
+    "author": "Pato (new acc)",
+    "date": "2026-08-12T15:18:18Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/b791a934e7ef085749eedb5782832946d42ce932"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "imgbot",
+    "sha": "1118cbb8e2846016c5094e4847e9b8e2baee2139",
+    "sha_short": "1118cbb",
+    "author": "Pato (new acc)",
+    "date": "2026-08-12T15:18:09Z",
+    "message": "Create readme.txt",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/1118cbb8e2846016c5094e4847e9b8e2baee2139"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "imgbot",
+    "sha": "22c07e7756543f8b77809011371f9e310c68df45",
+    "sha_short": "22c07e7",
+    "author": "Pato (new acc)",
+    "date": "2026-08-12T15:09:04Z",
+    "message": "added gifs",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/22c07e7756543f8b77809011371f9e310c68df45"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "imgbot",
+    "sha": "fe0187b1c9bdd271ff3ef4097a9a80f4f3f4ff38",
+    "sha_short": "fe0187b",
+    "author": "Pato (new acc)",
+    "date": "2026-08-12T15:07:06Z",
+    "message": "Create readme.txt",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/fe0187b1c9bdd271ff3ef4097a9a80f4f3f4ff38"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "imgbot",
+    "sha": "612c7670b07e25d0a63429930708886a315a78e3",
+    "sha_short": "612c767",
+    "author": "Pato (new acc)",
+    "date": "2026-08-12T15:03:15Z",
+    "message": "final ver",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/612c7670b07e25d0a63429930708886a315a78e3"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "main",
+    "sha": "155ffba9519df85c6c9f179ac01dab2d385385a9",
+    "sha_short": "155ffba",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:12Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/155ffba9519df85c6c9f179ac01dab2d385385a9"
+  },
+  {
+    "repo": "Giggles-Shit",
     "branch": "main",
     "sha": "67804cbf37f5d7b9660161fb2e840e369618871e",
     "sha_short": "67804cb",
@@ -7888,16 +8198,6 @@
     "date": "2026-08-12T14:54:50Z",
     "message": "working ver",
     "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/252597ee3835a96e2eb24d48431508087f27e256"
-  },
-  {
-    "repo": "Giggles-Shit",
-    "branch": "main",
-    "sha": "598e1162e001280fcc986ddaba4f8767067c27a8",
-    "sha_short": "598e116",
-    "author": "Pato (new acc)",
-    "date": "2026-08-12T14:44:02Z",
-    "message": "Update gas.userscript.js",
-    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/598e1162e001280fcc986ddaba4f8767067c27a8"
   },
   {
     "repo": "gitgithub",
@@ -8142,6 +8442,16 @@
   {
     "repo": "gitgithub",
     "branch": "main",
+    "sha": "fe7df0a0ede408a8bb82040033d22aa8418cea14",
+    "sha_short": "fe7df0a",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:09Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/gitgithub/commit/fe7df0a0ede408a8bb82040033d22aa8418cea14"
+  },
+  {
+    "repo": "gitgithub",
+    "branch": "main",
     "sha": "ac196567d012bf81c345764d3467cad52cc35d53",
     "sha_short": "ac19656",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -8230,14 +8540,14 @@
     "url": "https://github.com/havaianasdestruido/gitgithub/commit/060700fd026a2a24718dd0f0122992d813784d89"
   },
   {
-    "repo": "gitgithub",
+    "repo": "havaianasdestruido.github.io",
     "branch": "main",
-    "sha": "587446ddf97ab5eca4fa71cb5d913c11a80ac4df",
-    "sha_short": "587446d",
-    "author": "Pato (new acc)",
-    "date": "2026-08-14T18:37:20Z",
-    "message": "imagens",
-    "url": "https://github.com/havaianasdestruido/gitgithub/commit/587446ddf97ab5eca4fa71cb5d913c11a80ac4df"
+    "sha": "31f2dac9f6ba11570e7051a5e42ae98e1bc2c709",
+    "sha_short": "31f2dac",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:09Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/31f2dac9f6ba11570e7051a5e42ae98e1bc2c709"
   },
   {
     "repo": "havaianasdestruido.github.io",
@@ -8308,6 +8618,16 @@
     "date": "2026-08-12T16:02:07Z",
     "message": "Create readme.md",
     "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/7ca7f2290eb2becff3915f0a0e7e77d80c670287"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "main",
+    "sha": "feb4a18757b3cf8c341038163db0beb2f4da4bcb",
+    "sha_short": "feb4a18",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:05Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/feb4a18757b3cf8c341038163db0beb2f4da4bcb"
   },
   {
     "repo": "Hiphenatus",
@@ -8398,16 +8718,6 @@
     "date": "2025-04-18T14:02:43Z",
     "message": "corruptions changes + fvck desteuctive or no builds",
     "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/a6a543becf91ac599b99112034a72cf02d0958f4"
-  },
-  {
-    "repo": "Hiphenatus",
-    "branch": "main",
-    "sha": "79225dc377ffdf2862655908b92cb390d6b6bb56",
-    "sha_short": "79225dc",
-    "author": "UltimateQuack",
-    "date": "2025-04-18T13:49:43Z",
-    "message": "Merge branch 'main' of https://github.com/PatoFlamejanteTV/Hiphenatus",
-    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/79225dc377ffdf2862655908b92cb390d6b6bb56"
   },
   {
     "repo": "hscript-improved",
@@ -9232,6 +9542,16 @@
   {
     "repo": "ImgBotAutomerger",
     "branch": "main",
+    "sha": "3cf28ad14505386cdd2c65c9192d92f8bd4da32d",
+    "sha_short": "3cf28ad",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:13Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/ImgBotAutomerger/commit/3cf28ad14505386cdd2c65c9192d92f8bd4da32d"
+  },
+  {
+    "repo": "ImgBotAutomerger",
+    "branch": "main",
     "sha": "e63b325222b1ec3157fefea5c9a722aabcec34b4",
     "sha_short": "e63b325",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -9702,6 +10022,16 @@
   {
     "repo": "manimce-claude",
     "branch": "main",
+    "sha": "22fdfff83cd102857c44bc088c4dbd74bf92e024",
+    "sha_short": "22fdfff",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:07Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/manimce-claude/commit/22fdfff83cd102857c44bc088c4dbd74bf92e024"
+  },
+  {
+    "repo": "manimce-claude",
+    "branch": "main",
     "sha": "26d97e8f0c663faf7ed488d1a45a99a40b1d9086",
     "sha_short": "26d97e8",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -9788,16 +10118,6 @@
     "date": "2026-09-14T23:23:28Z",
     "message": "moved some stuff",
     "url": "https://github.com/havaianasdestruido/manimce-claude/commit/3bcbb3f52b28ad68b1a8cd7058c17a520f4753cd"
-  },
-  {
-    "repo": "manimce-claude",
-    "branch": "main",
-    "sha": "841fb6d3cf6c65a68ee97baeb9b8271efe7f2013",
-    "sha_short": "841fb6d",
-    "author": "Pato (new acc)",
-    "date": "2026-09-14T23:20:23Z",
-    "message": "Update marketplace.json",
-    "url": "https://github.com/havaianasdestruido/manimce-claude/commit/841fb6d3cf6c65a68ee97baeb9b8271efe7f2013"
   },
   {
     "repo": "MeatyMod",
@@ -10002,6 +10322,16 @@
   {
     "repo": "mediapublisher",
     "branch": "master",
+    "sha": "8cb6aa6899257dbc0396c36b98c8192409e529a0",
+    "sha_short": "8cb6aa6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:17Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/mediapublisher/commit/8cb6aa6899257dbc0396c36b98c8192409e529a0"
+  },
+  {
+    "repo": "mediapublisher",
+    "branch": "master",
     "sha": "c3ede1ca970c4cfce446e58f91c4f0167796aef0",
     "sha_short": "c3ede1c",
     "author": "Pato (new acc)",
@@ -10018,6 +10348,16 @@
     "date": "2026-08-03T16:51:56Z",
     "message": "initial commit",
     "url": "https://github.com/havaianasdestruido/mediapublisher/commit/190b00b9a4a78ec6b02ad403c42c8c158641c57b"
+  },
+  {
+    "repo": "metadata-editor",
+    "branch": "master",
+    "sha": "7708f42bb017e9400ff5153e7b652b962103b8b5",
+    "sha_short": "7708f42",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:17Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/metadata-editor/commit/7708f42bb017e9400ff5153e7b652b962103b8b5"
   },
   {
     "repo": "metadata-editor",
@@ -10042,6 +10382,16 @@
   {
     "repo": "midi-skill",
     "branch": "main",
+    "sha": "3f34a9f26ae0bdfb85a53ab79df0442427633048",
+    "sha_short": "3f34a9f",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:13Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/midi-skill/commit/3f34a9f26ae0bdfb85a53ab79df0442427633048"
+  },
+  {
+    "repo": "midi-skill",
+    "branch": "main",
     "sha": "1c3d3953326acf593d1c3a31057b2f54f681edd0",
     "sha_short": "1c3d395",
     "author": "Pato (new acc)",
@@ -10058,6 +10408,16 @@
     "date": "2026-09-20T13:41:39Z",
     "message": "init",
     "url": "https://github.com/havaianasdestruido/midi-skill/commit/a69c3d804b8976b9bff1bf5cb9de9c224c35187c"
+  },
+  {
+    "repo": "mmr-cli",
+    "branch": "master",
+    "sha": "b2c9c710494c54f9810bba82005279a537b38b64",
+    "sha_short": "b2c9c71",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:16Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/mmr-cli/commit/b2c9c710494c54f9810bba82005279a537b38b64"
   },
   {
     "repo": "mmr-cli",
@@ -10088,6 +10448,16 @@
     "date": "2026-08-03T00:38:59Z",
     "message": "mmr-cli: P/Invoke usage tests for WMMR core DLLs (wlidcli, uxctl, WLXVideoTrim, WLXPipetran, MovieMakerCore)",
     "url": "https://github.com/havaianasdestruido/mmr-cli/commit/bfcdcf79820659bb3d6d0b944183a381858e631a"
+  },
+  {
+    "repo": "mmr-gui",
+    "branch": "master",
+    "sha": "1a874e702ec2322e0c3bd88fdb2e689bbf45b27c",
+    "sha_short": "1a874e7",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:11Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/mmr-gui/commit/1a874e702ec2322e0c3bd88fdb2e689bbf45b27c"
   },
   {
     "repo": "mmr-gui",
@@ -10152,6 +10522,16 @@
   {
     "repo": "mmr-python",
     "branch": "master",
+    "sha": "9afb7669df1fcf8ba05b9049156f24e9e22e6af1",
+    "sha_short": "9afb766",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:07Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/mmr-python/commit/9afb7669df1fcf8ba05b9049156f24e9e22e6af1"
+  },
+  {
+    "repo": "mmr-python",
+    "branch": "master",
     "sha": "f0183a417b184d82020b3e96042fa888167ad7cd",
     "sha_short": "f0183a4",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -10202,6 +10582,16 @@
   {
     "repo": "movielibrary",
     "branch": "master",
+    "sha": "573c6ff95c387ff8e7243b7d08c07068f9dc6d09",
+    "sha_short": "573c6ff",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:18Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/movielibrary/commit/573c6ff95c387ff8e7243b7d08c07068f9dc6d09"
+  },
+  {
+    "repo": "movielibrary",
+    "branch": "master",
     "sha": "6156b52ec9269cb9b92ca530b2d4425d280e2668",
     "sha_short": "6156b52",
     "author": "Pato (new acc)",
@@ -10218,6 +10608,16 @@
     "date": "2026-08-03T16:52:38Z",
     "message": "initial commit",
     "url": "https://github.com/havaianasdestruido/movielibrary/commit/9a74cbd4263644d3c8d77ff5705c78b075a0990c"
+  },
+  {
+    "repo": "moviemaker-launcher",
+    "branch": "master",
+    "sha": "99fcd71b719743f6e6a5d00b3f5f3f4a17b5a61e",
+    "sha_short": "99fcd71",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:11Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/moviemaker-launcher/commit/99fcd71b719743f6e6a5d00b3f5f3f4a17b5a61e"
   },
   {
     "repo": "moviemaker-launcher",
@@ -10248,6 +10648,16 @@
     "date": "2026-08-03T16:51:47Z",
     "message": "initial commit",
     "url": "https://github.com/havaianasdestruido/moviemaker-launcher/commit/0260b6dcd40990f7f60289a88550d17677671249"
+  },
+  {
+    "repo": "noisy",
+    "branch": "main",
+    "sha": "0bc8cdf9c61a07ba3ee0901c89a1ed0a5b64a3c9",
+    "sha_short": "0bc8cdf",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:13Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/noisy/commit/0bc8cdf9c61a07ba3ee0901c89a1ed0a5b64a3c9"
   },
   {
     "repo": "noisy",
@@ -10338,16 +10748,6 @@
     "date": "2025-10-15T21:36:37Z",
     "message": "Merge branch 'main' into feature/increase-performance",
     "url": "https://github.com/havaianasdestruido/noisy/commit/10e40ddfce8597cd1b035a5e5e7a154fd3a9f00a"
-  },
-  {
-    "repo": "noisy",
-    "branch": "main",
-    "sha": "0aeaed6c9de41956d61a86570ab559ff87c0c39d",
-    "sha_short": "0aeaed6",
-    "author": "UltimateQuack",
-    "date": "2025-10-15T21:35:32Z",
-    "message": "LGTM",
-    "url": "https://github.com/havaianasdestruido/noisy/commit/0aeaed6c9de41956d61a86570ab559ff87c0c39d"
   },
   {
     "repo": "OdontoAura",
@@ -13152,6 +13552,16 @@
   {
     "repo": "orelha",
     "branch": "main",
+    "sha": "58112f45193a6b904e29579b84c3f58da82eaa13",
+    "sha_short": "58112f4",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:14Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/orelha/commit/58112f45193a6b904e29579b84c3f58da82eaa13"
+  },
+  {
+    "repo": "orelha",
+    "branch": "main",
     "sha": "d1acdc376138748798eab511317e19f48dba7863",
     "sha_short": "d1acdc3",
     "author": "Pato (new acc)",
@@ -13202,6 +13612,16 @@
   {
     "repo": "PersonaDB",
     "branch": "main",
+    "sha": "cb53c24e403668ec5dcc9eb81ced2178936dd037",
+    "sha_short": "cb53c24",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:11Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/cb53c24e403668ec5dcc9eb81ced2178936dd037"
+  },
+  {
+    "repo": "PersonaDB",
+    "branch": "main",
     "sha": "74509cba255b328b0e3f2c4635dde7144cd9994a",
     "sha_short": "74509cb",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -13242,6 +13662,16 @@
   {
     "repo": "photoviewer",
     "branch": "master",
+    "sha": "a0ec944d5face86513cfdee179b7ad203c261812",
+    "sha_short": "a0ec944",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:16Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/photoviewer/commit/a0ec944d5face86513cfdee179b7ad203c261812"
+  },
+  {
+    "repo": "photoviewer",
+    "branch": "master",
     "sha": "a4e83d59fd7fdef4e8db30bec4ef31722eb83335",
     "sha_short": "a4e83d5",
     "author": "Pato (new acc)",
@@ -13258,6 +13688,16 @@
     "date": "2026-08-03T16:08:06Z",
     "message": "initial",
     "url": "https://github.com/havaianasdestruido/photoviewer/commit/e476d2cc9a024bdb77167aefc215c2c9848415f2"
+  },
+  {
+    "repo": "pipeline-graph",
+    "branch": "master",
+    "sha": "4ba017d1330c69254521d7fc0876fc12b53c8b37",
+    "sha_short": "4ba017d",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:11Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/pipeline-graph/commit/4ba017d1330c69254521d7fc0876fc12b53c8b37"
   },
   {
     "repo": "pipeline-graph",
@@ -13288,6 +13728,16 @@
     "date": "2026-08-03T16:52:45Z",
     "message": "initial commit",
     "url": "https://github.com/havaianasdestruido/pipeline-graph/commit/182146c6e713788f36de7fe6f6c3f1f88e99f61f"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "main",
+    "sha": "3e51df0be1d2088bb763e60755561079859ad688",
+    "sha_short": "3e51df0",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:21Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/3e51df0be1d2088bb763e60755561079859ad688"
   },
   {
     "repo": "PWSV",
@@ -13378,16 +13828,6 @@
     "date": "2026-07-26T00:46:36Z",
     "message": "fix: WSAEWOULDBLOCK disconnect bug + installer + monitor (Source/WebSocketServer.cpp, monitor.html, installer/)",
     "url": "https://github.com/havaianasdestruido/PWSV/commit/8e61eebd9c85bd81207cd365341a3c5457124f2a"
-  },
-  {
-    "repo": "PWSV",
-    "branch": "main",
-    "sha": "b19fadb296859a279dc28cc6ba11099a471f5a35",
-    "sha_short": "b19fadb",
-    "author": "UltimateQuack",
-    "date": "2026-07-25T23:55:28Z",
-    "message": "fix: compilation errors for JUCE 8 compatibility (CMakeLists.txt, Source/*.cpp, Source/*.h)",
-    "url": "https://github.com/havaianasdestruido/PWSV/commit/b19fadb296859a279dc28cc6ba11099a471f5a35"
   },
   {
     "repo": "Quack3DMM",
@@ -14362,6 +14802,16 @@
   {
     "repo": "RoBrowser",
     "branch": "main",
+    "sha": "3ffe8a3be18bbfcfaa688b314f4f66c9a2d4776f",
+    "sha_short": "3ffe8a3",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:07Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/RoBrowser/commit/3ffe8a3be18bbfcfaa688b314f4f66c9a2d4776f"
+  },
+  {
+    "repo": "RoBrowser",
+    "branch": "main",
     "sha": "2d99c8b076035834757f4d7c6e94bce06ac558ae",
     "sha_short": "2d99c8b",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -14452,12 +14902,12 @@
   {
     "repo": "RoBrowser",
     "branch": "main",
-    "sha": "dea5393cb6910d316ae6510d2bc74c82c330a326",
-    "sha_short": "dea5393",
-    "author": "havaianasdestruido",
-    "date": "2026-05-04T00:38:46Z",
-    "message": "Add FrogFind! bookmark to bookmarks list",
-    "url": "https://github.com/havaianasdestruido/RoBrowser/commit/dea5393cb6910d316ae6510d2bc74c82c330a326"
+    "sha": "5c31b1e1afdbe6ab26741b6890a75c9ecbf519ba",
+    "sha_short": "5c31b1e",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-05-02T14:52:21Z",
+    "message": "feat(parser): improve HTML parsing with comments, doctype, and better attribute handling",
+    "url": "https://github.com/havaianasdestruido/RoBrowser/commit/5c31b1e1afdbe6ab26741b6890a75c9ecbf519ba"
   },
   {
     "repo": "RoBrowser",
@@ -14548,16 +14998,6 @@
     "date": "2026-05-02T13:57:13Z",
     "message": "feat(parser+gui): enable strict mode, expand tag support, add style handling,--no-verify",
     "url": "https://github.com/havaianasdestruido/RoBrowser/commit/a591683e75f523dda47d607ece48af073a76da98"
-  },
-  {
-    "repo": "RoBrowser",
-    "branch": "main",
-    "sha": "39c0317329468d04948741430adfa53ad0b4ca8d",
-    "sha_short": "39c0317",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-05-02T13:54:30Z",
-    "message": "feat(gui): add browser engine to render HTML via Roblox UI",
-    "url": "https://github.com/havaianasdestruido/RoBrowser/commit/39c0317329468d04948741430adfa53ad0b4ca8d"
   },
   {
     "repo": "ROT-1",
@@ -14892,6 +15332,16 @@
   {
     "repo": "sigma-click",
     "branch": "main",
+    "sha": "3f5236de295166a81133f4b68b2346fcdb74d7b8",
+    "sha_short": "3f5236d",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:20Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/sigma-click/commit/3f5236de295166a81133f4b68b2346fcdb74d7b8"
+  },
+  {
+    "repo": "sigma-click",
+    "branch": "main",
     "sha": "6e7371632f4e71144d4dc76b07aebcc48cc9e144",
     "sha_short": "6e73716",
     "author": "Pato (new acc)",
@@ -14918,6 +15368,16 @@
     "date": "2026-08-25T18:14:54Z",
     "message": "asdf",
     "url": "https://github.com/havaianasdestruido/sigma-click/commit/a30f2c57fa642bb507bcd13b1e208397cfb1acf3"
+  },
+  {
+    "repo": "slideshow-studio",
+    "branch": "master",
+    "sha": "8260c0c339e083241642277f307dd890c6ada7e0",
+    "sha_short": "8260c0c",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:18Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/slideshow-studio/commit/8260c0c339e083241642277f307dd890c6ada7e0"
   },
   {
     "repo": "slideshow-studio",
@@ -15042,6 +15502,16 @@
   {
     "repo": "steamlogger",
     "branch": "main",
+    "sha": "691928a661d6007cfed2a4e4e4ba95579315dbf3",
+    "sha_short": "691928a",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:09Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/691928a661d6007cfed2a4e4e4ba95579315dbf3"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "main",
     "sha": "9c8a57e96a64ec2d9bd9b70d7d6a823276c4d6fe",
     "sha_short": "9c8a57e",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -15082,6 +15552,16 @@
   {
     "repo": "transition-plugin",
     "branch": "master",
+    "sha": "900e06eb53597a67a777f7db4fc0f15f7bb6b90d",
+    "sha_short": "900e06e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:17Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/transition-plugin/commit/900e06eb53597a67a777f7db4fc0f15f7bb6b90d"
+  },
+  {
+    "repo": "transition-plugin",
+    "branch": "master",
     "sha": "c3c9eb9e2fb76aae2f41f9c25bbc327bd454b866",
     "sha_short": "c3c9eb9",
     "author": "Pato (new acc)",
@@ -15098,6 +15578,16 @@
     "date": "2026-08-03T16:51:38Z",
     "message": "initial commit",
     "url": "https://github.com/havaianasdestruido/transition-plugin/commit/ad34ad13d8b5ec97e981a5873566aa89cc38d29d"
+  },
+  {
+    "repo": "video-trimmer",
+    "branch": "master",
+    "sha": "941370eaa8704cd44b852d854ef9d54c3305b2f1",
+    "sha_short": "941370e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:17Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/video-trimmer/commit/941370eaa8704cd44b852d854ef9d54c3305b2f1"
   },
   {
     "repo": "video-trimmer",
@@ -15522,6 +16012,16 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "branch": "main",
+    "sha": "18892fc883f2e3d411384532a3baf6e95c2c06fd",
+    "sha_short": "18892fc",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:13Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/18892fc883f2e3d411384532a3baf6e95c2c06fd"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "main",
     "sha": "d57094460078a84b7616959b6c633dae90c07913",
     "sha_short": "d570944",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -15612,12 +16112,12 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "branch": "main",
-    "sha": "5fa9f564cbfbe902bb9bd17f7b371ceeb0a63e1d",
-    "sha_short": "5fa9f56",
-    "author": "havaianasdestruido",
-    "date": "2026-09-13T19:00:07Z",
-    "message": "feat: implement UXCore resource/layout/element stubs, export 4 DLL API surfaces, harden threading/DLL-loading/clipboard",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5fa9f564cbfbe902bb9bd17f7b371ceeb0a63e1d"
+    "sha": "393567714da9f0c5d05ea0dca24535e178645e29",
+    "sha_short": "3935677",
+    "author": "UltimateQuack",
+    "date": "2026-07-31T21:21:03Z",
+    "message": "fix: WLXMovieLibrary — invalidate thumbnail releases bitmap",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/393567714da9f0c5d05ea0dca24535e178645e29"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -15712,12 +16212,12 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "branch": "main",
-    "sha": "4b66717c013872dd5ceddf4376d21e9bf96dd46f",
-    "sha_short": "4b66717",
+    "sha": "e24afc23991f2f6f810350d347bd84f8458b1d81",
+    "sha_short": "e24afc2",
     "author": "UltimateQuack",
-    "date": "2026-07-31T19:44:48Z",
-    "message": "fix: WLXCodecHost - free argv in all paths, use nothrow new for bitmap",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4b66717c013872dd5ceddf4376d21e9bf96dd46f"
+    "date": "2026-07-29T17:03:53Z",
+    "message": "Add WLXPhotoSqm.dll stub (44 SQM telemetry exports)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/e24afc23991f2f6f810350d347bd84f8458b1d81"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -15812,12 +16312,12 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "branch": "main",
-    "sha": "d5da6b40025df1e0df9c715fca060e832607b1c2",
-    "sha_short": "d5da6b4",
+    "sha": "986b4ee87de6b92e6ba083688ff4e990041019f1",
+    "sha_short": "986b4ee",
     "author": "UltimateQuack",
-    "date": "2026-07-28T18:40:18Z",
-    "message": "WLXDSPA: add test harness",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d5da6b40025df1e0df9c715fca060e832607b1c2"
+    "date": "2026-07-28T18:07:06Z",
+    "message": "test(WLXGrinderScheduler.dll): dedicated test harness",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/986b4ee87de6b92e6ba083688ff4e990041019f1"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -15908,15 +16408,5 @@
     "date": "2026-07-27T21:35:43Z",
     "message": "analysis(BinaryDiff): original vs reconstructed comparison - MovieMaker.exe + MovieMakerCore.dll",
     "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b6933fead68e95b735200dccf248310bb55d4959"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "branch": "main",
-    "sha": "acac41ba2c3f187c5046a3d9f0823c6b5015d984",
-    "sha_short": "acac41b",
-    "author": "UltimateQuack",
-    "date": "2026-07-27T21:34:32Z",
-    "message": "analysis(PhotoViewerShimx64): x64 vs x86 comparison, CLSID verification, architecture",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/acac41ba2c3f187c5046a3d9f0823c6b5015d984"
   }
 ]

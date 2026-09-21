@@ -24,6 +24,10 @@
     "profile_url": "https://github.com/zdaxie"
   },
   {
+    "login": "dependabot-bot",
+    "profile_url": "https://github.com/dependabot-bot"
+  },
+  {
     "login": "actions",
     "profile_url": "https://github.com/actions"
   },
