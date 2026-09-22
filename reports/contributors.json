@@ -38,7 +38,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 22,
+    "contributions": 23,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -49,15 +49,15 @@
   },
   {
     "repo": "top100",
-    "login": "havaianasdestruido",
-    "contributions": 17,
-    "profile_url": "https://github.com/havaianasdestruido"
+    "login": "github-actions[bot]",
+    "contributions": 18,
+    "profile_url": "https://github.com/apps/github-actions"
   },
   {
     "repo": "top100",
-    "login": "github-actions[bot]",
+    "login": "havaianasdestruido",
     "contributions": 17,
-    "profile_url": "https://github.com/apps/github-actions"
+    "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": ".github",

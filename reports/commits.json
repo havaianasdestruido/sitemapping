@@ -742,6 +742,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "dd65ed4d9bf4b0aaac4f90c027096570b117ad2b",
+    "sha_short": "dd65ed4",
+    "author": "GitHub Action Bot",
+    "date": "2026-09-22T02:31:36Z",
+    "message": "📊 [2026-09-22 02:31:36 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/dd65ed4d9bf4b0aaac4f90c027096570b117ad2b"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "96fc96c90edae66820c49908317c1a02c28b23f9",
     "sha_short": "96fc96c",
     "author": "GitHub Action Bot",
@@ -832,12 +842,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "ecdd6b7a1a940356aea4019a438490d4e44adcdf",
-    "sha_short": "ecdd6b7",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-20T20:46:50Z",
-    "message": "📊 [2026-09-20 20:46:50 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/ecdd6b7a1a940356aea4019a438490d4e44adcdf"
+    "sha": "8a1dfa511cb32299f8904cc067d3a506bb6a3b04",
+    "sha_short": "8a1dfa5",
+    "author": "Pato (new acc)",
+    "date": "2026-09-13T20:22:56Z",
+    "message": "now it runs daily",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/8a1dfa511cb32299f8904cc067d3a506bb6a3b04"
   },
   {
     "repo": "sitemapping",
@@ -932,6 +942,16 @@
   {
     "repo": "top100",
     "branch": "main",
+    "sha": "3ca829feb765922fa4ae810524dce908c0c22a53",
+    "sha_short": "3ca829f",
+    "author": "github-actions[bot]",
+    "date": "2026-09-22T06:56:07Z",
+    "message": "data: update top repos data (2026-09-22)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/3ca829feb765922fa4ae810524dce908c0c22a53"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
     "sha": "5e7570af4cb9fbf7a0c76d1da9550f6823370888",
     "sha_short": "5e7570a",
     "author": "github-actions[bot]",
@@ -1018,16 +1038,6 @@
     "date": "2026-09-21T00:38:57Z",
     "message": "data: update top repos data (2026-09-21)",
     "url": "https://github.com/havaianasdestruido/top100/commit/563def76948e61ad0ed93a4c198648e96a91f0ed"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "748db272fa3dde12a41ce8c58e9404b70c2f7418",
-    "sha_short": "748db27",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-21T00:38:05Z",
-    "message": "Add .imgbotconfig for aggressive image compression",
-    "url": "https://github.com/havaianasdestruido/top100/commit/748db272fa3dde12a41ce8c58e9404b70c2f7418"
   },
   {
     "repo": ".github",
