@@ -1,7 +1,7 @@
 repo,language,bytes,percent
 blaster,C,46157,100.0
-hemorroidabot,JavaScript,376678,98.8
-hemorroidabot,HTML,4409,1.2
+hemorroidabot,JavaScript,380161,98.5
+hemorroidabot,HTML,5596,1.5
 PatoCraft,Smali,34777369,77.9
 PatoCraft,Java,9614791,21.5
 PatoCraft,HLSL,207948,0.5
@@ -39,7 +39,7 @@ FNF-PeoteView,C++,866270,13.9
 FNF-PeoteView,Shell,3497,0.1
 FNF-PeoteView,Lua,1306,0.0
 FNF-PeoteView,Batchfile,758,0.0
-FNF-Phoenix-Engine,Haxe,2041302,98.7
+FNF-Phoenix-Engine,Haxe,2042701,98.7
 FNF-Phoenix-Engine,Python,9854,0.5
 FNF-Phoenix-Engine,PowerShell,6419,0.3
 FNF-Phoenix-Engine,Batchfile,4125,0.2
@@ -99,6 +99,14 @@ PersonaDB,Python,198533,84.1
 PersonaDB,PLpgSQL,37426,15.9
 photoviewer,C#,54122,100.0
 pipeline-graph,C#,46926,100.0
+pm-claude-skills-opencode,HTML,2291667,52.8
+pm-claude-skills-opencode,JavaScript,1321748,30.5
+pm-claude-skills-opencode,Python,572086,13.2
+pm-claude-skills-opencode,Shell,93394,2.2
+pm-claude-skills-opencode,CSS,53304,1.2
+pm-claude-skills-opencode,Rust,4589,0.1
+pm-claude-skills-opencode,TypeScript,1377,0.0
+pm-claude-skills-opencode,Dockerfile,468,0.0
 PWSV,C++,36560,82.3
 PWSV,Batchfile,4421,10.0
 PWSV,CMake,3429,7.7
@@ -201,8 +209,8 @@ transition-plugin,C#,538,23.3
 video-trimmer,C#,19619,100.0
 VsDave,Haxe,446348,100.0
 VsDave,Batchfile,109,0.0
-WindowsMovieMakerDecomp,C++,6271950,92.0
-WindowsMovieMakerDecomp,Python,292176,4.3
+WindowsMovieMakerDecomp,C++,6273216,92.0
+WindowsMovieMakerDecomp,Python,294430,4.3
 WindowsMovieMakerDecomp,C,174028,2.6
 WindowsMovieMakerDecomp,CMake,45592,0.7
 WindowsMovieMakerDecomp,C#,15287,0.2

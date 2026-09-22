@@ -1,6 +1,14 @@
 [
   {
     "repo": "hemorroidabot",
+    "pr_number": 2,
+    "sha": "9611bd3a2e82b786aaaac0fa3435b1d1556fb5a3",
+    "sha_short": "9611bd3",
+    "message": "Add pt-BR and en-US i18n support",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/9611bd3a2e82b786aaaac0fa3435b1d1556fb5a3"
+  },
+  {
+    "repo": "hemorroidabot",
     "pr_number": 1,
     "sha": "01192ecb6b21eab290172910a228fdfde0c1321a",
     "sha_short": "01192ec",
@@ -81,6 +89,22 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
+    "pr_number": 18,
+    "sha": "c603b0035227e6dfc0f18910b2623bbc63ac6fb1",
+    "sha_short": "c603b00",
+    "message": "fix(ci): disable hxcpp LTO for Android",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c603b0035227e6dfc0f18910b2623bbc63ac6fb1"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 17,
+    "sha": "af09202348924912353fa6aaa9970e140436a925",
+    "sha_short": "af09202",
+    "message": "docs: document function interfaces",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/af09202348924912353fa6aaa9970e140436a925"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
     "pr_number": 14,
     "sha": "7701ed8e5530a6192de386e5244cb8d370332f1d",
     "sha_short": "7701ed8",
@@ -110,6 +134,30 @@
     "sha_short": "f76f7fe",
     "message": "fix: repair broken GitHub Actions workflows and Android build compilation issues",
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f76f7fea749db8c1434656c779d714e4884d6d5e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 16,
+    "sha": "d7b4de828255471fa72726c7f24d58ff58a477ba",
+    "sha_short": "d7b4de8",
+    "message": "fix(ci): limit Windows C++ build parallelism",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d7b4de828255471fa72726c7f24d58ff58a477ba"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 16,
+    "sha": "9bd823dad2063c1288cae53a3186dd36c4d4215f",
+    "sha_short": "9bd823d",
+    "message": "fix: avoid TankmenBG reset signature conflict",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9bd823dad2063c1288cae53a3186dd36c4d4215f"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 15,
+    "sha": "00139b4a6962e49172a2115b3fdf616187fed9dd",
+    "sha_short": "00139b4",
+    "message": "refactor: rename inappropriate identifiers",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/00139b4a6962e49172a2115b3fdf616187fed9dd"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -758,5 +806,29 @@
     "sha_short": "da63afc",
     "message": "Tolerate brief missing Steam game polls",
     "url": "https://github.com/havaianasdestruido/steamlogger/commit/da63afce1905635b901bc16af104022937168df1"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 2,
+    "sha": "a129e04a21227883e148e93ac852cf47054e71ae",
+    "sha_short": "a129e04",
+    "message": "ci: build each CMake project",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a129e04a21227883e148e93ac852cf47054e71ae"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 2,
+    "sha": "8b29433062320266ed913539ec6848fd1f2690b8",
+    "sha_short": "8b29433",
+    "message": "ci: pin Visual Studio 2022 runner",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8b29433062320266ed913539ec6848fd1f2690b8"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 1,
+    "sha": "0587ed0e3fa7c578dfba5e54ec0f5f2dfcacc186",
+    "sha_short": "0587ed0",
+    "message": "Add reconstruction TODO audit annotations",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/0587ed0e3fa7c578dfba5e54ec0f5f2dfcacc186"
   }
 ]

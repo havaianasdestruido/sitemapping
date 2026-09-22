@@ -1,4 +1,5 @@
 repo,pr_number,sha,sha_short,message,url
+hemorroidabot,2,9611bd3a2e82b786aaaac0fa3435b1d1556fb5a3,9611bd3,Add pt-BR and en-US i18n support,https://github.com/havaianasdestruido/hemorroidabot/commit/9611bd3a2e82b786aaaac0fa3435b1d1556fb5a3
 hemorroidabot,1,01192ecb6b21eab290172910a228fdfde0c1321a,01192ec,[ImgBot] Optimize images,https://github.com/havaianasdestruido/hemorroidabot/commit/01192ecb6b21eab290172910a228fdfde0c1321a
 pong-pop,3,0b452305acfc9acbde3097a56f397fe7e0de921f,0b45230,Show score on play button during games,https://github.com/havaianasdestruido/pong-pop/commit/0b452305acfc9acbde3097a56f397fe7e0de921f
 pong-pop,2,796d5c1f8434666fa2d70df3093f594ec3d26c03,796d5c1,Smooth AI paddle window movement,https://github.com/havaianasdestruido/pong-pop/commit/796d5c1f8434666fa2d70df3093f594ec3d26c03
@@ -9,10 +10,15 @@ bootloader-unlock-wall-of-shame,1,100ad86e7cb044600a62531c9d5998558e4968e5,100ad
 BulkStarHistoryAdd,1,0cdc36dad5cb32be088ac6afa40f2c6e8cb4ae01,0cdc36d,[ImgBot] Optimize images,https://github.com/havaianasdestruido/BulkStarHistoryAdd/commit/0cdc36dad5cb32be088ac6afa40f2c6e8cb4ae01
 calculator,1,2ec7688d290121f4b17e28dec9da97486e5fef6c,2ec7688,[ImgBot] Optimize images,https://github.com/havaianasdestruido/calculator/commit/2ec7688d290121f4b17e28dec9da97486e5fef6c
 FNF-PeoteView,1,354c48e9e18eafea87696d0ed8be12c2dc95f758,354c48e,[ImgBot] Optimize images,https://github.com/havaianasdestruido/FNF-PeoteView/commit/354c48e9e18eafea87696d0ed8be12c2dc95f758
+FNF-Phoenix-Engine,18,c603b0035227e6dfc0f18910b2623bbc63ac6fb1,c603b00,fix(ci): disable hxcpp LTO for Android,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c603b0035227e6dfc0f18910b2623bbc63ac6fb1
+FNF-Phoenix-Engine,17,af09202348924912353fa6aaa9970e140436a925,af09202,docs: document function interfaces,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/af09202348924912353fa6aaa9970e140436a925
 FNF-Phoenix-Engine,14,7701ed8e5530a6192de386e5244cb8d370332f1d,7701ed8,fix: repair broken GitHub Actions workflows,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7701ed8e5530a6192de386e5244cb8d370332f1d
 FNF-Phoenix-Engine,14,1c73057ab2fb5a625d312d69ed3eb03bed9cbc47,1c73057,fix: repair broken GitHub Actions workflows and project haxelib dependencies,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1c73057ab2fb5a625d312d69ed3eb03bed9cbc47
 FNF-Phoenix-Engine,14,31dd949d22f0cdb30abe0d92249d2cc09044c1ff,31dd949,fix: repair broken GitHub Actions workflows and Android compilation issues,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/31dd949d22f0cdb30abe0d92249d2cc09044c1ff
 FNF-Phoenix-Engine,14,f76f7fea749db8c1434656c779d714e4884d6d5e,f76f7fe,fix: repair broken GitHub Actions workflows and Android build compilation issues,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f76f7fea749db8c1434656c779d714e4884d6d5e
+FNF-Phoenix-Engine,16,d7b4de828255471fa72726c7f24d58ff58a477ba,d7b4de8,fix(ci): limit Windows C++ build parallelism,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d7b4de828255471fa72726c7f24d58ff58a477ba
+FNF-Phoenix-Engine,16,9bd823dad2063c1288cae53a3186dd36c4d4215f,9bd823d,fix: avoid TankmenBG reset signature conflict,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9bd823dad2063c1288cae53a3186dd36c4d4215f
+FNF-Phoenix-Engine,15,00139b4a6962e49172a2115b3fdf616187fed9dd,00139b4,refactor: rename inappropriate identifiers,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/00139b4a6962e49172a2115b3fdf616187fed9dd
 FNF-Phoenix-Engine,13,12717f68da1681f9548e882178e505c47e35a11d,12717f6,workflow: default builds to Windows and Android with toggle,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/12717f68da1681f9548e882178e505c47e35a11d
 FNF-Phoenix-Engine,13,582c98e27bb7cff13c5f6973f9829e97e7b9d1b0,582c98e,workflow: default builds to Windows and Android with toggle,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/582c98e27bb7cff13c5f6973f9829e97e7b9d1b0
 FNF-Phoenix-Engine,13,57adef303a2c3a7539b0d3812f0dfd3bb36939ae,57adef3,Merge branch 'main' into jules-15472080900066083561-4f7fe005,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/57adef303a2c3a7539b0d3812f0dfd3bb36939ae
@@ -94,3 +100,6 @@ R2K16,1,7868b756bd7dc1cdcfe5292e0025046d640bdede,7868b75,Bump the npm_and_yarn g
 Rbx2Source-enhanced,1,66c6a125faa3778f543762e13a1a0afc93e399e6,66c6a12,[ImgBot] Optimize images,https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/66c6a125faa3778f543762e13a1a0afc93e399e6
 Sonic4,1,b8761650af88efeb084aa64d23a411cbb9d30987,b876165,[ImgBot] Optimize images,https://github.com/havaianasdestruido/Sonic4/commit/b8761650af88efeb084aa64d23a411cbb9d30987
 steamlogger,1,da63afce1905635b901bc16af104022937168df1,da63afc,Tolerate brief missing Steam game polls,https://github.com/havaianasdestruido/steamlogger/commit/da63afce1905635b901bc16af104022937168df1
+WindowsMovieMakerDecomp,2,a129e04a21227883e148e93ac852cf47054e71ae,a129e04,ci: build each CMake project,https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a129e04a21227883e148e93ac852cf47054e71ae
+WindowsMovieMakerDecomp,2,8b29433062320266ed913539ec6848fd1f2690b8,8b29433,ci: pin Visual Studio 2022 runner,https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8b29433062320266ed913539ec6848fd1f2690b8
+WindowsMovieMakerDecomp,1,0587ed0e3fa7c578dfba5e54ec0f5f2dfcacc186,0587ed0,Add reconstruction TODO audit annotations,https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/0587ed0e3fa7c578dfba5e54ec0f5f2dfcacc186

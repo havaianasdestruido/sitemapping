@@ -9,17 +9,17 @@
   },
   {
     "repo": "hemorroidabot",
-    "name": "imgbot",
-    "head_sha": "01192ecb6b21eab290172910a228fdfde0c1321a",
-    "head_sha_short": "01192ec",
+    "name": "codex/add-i18n.js-with-pt-br-and-en-support",
+    "head_sha": "9611bd3a2e82b786aaaac0fa3435b1d1556fb5a3",
+    "head_sha_short": "9611bd3",
     "is_default": false,
-    "url": "https://github.com/havaianasdestruido/hemorroidabot/tree/imgbot"
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/tree/codex/add-i18n.js-with-pt-br-and-en-support"
   },
   {
     "repo": "hemorroidabot",
     "name": "master",
-    "head_sha": "3e1ca17c7c253eb867249a6c0c014b46e5285c4d",
-    "head_sha_short": "3e1ca17",
+    "head_sha": "cc139c32d908286b91eb90aaead2b97357439d2e",
+    "head_sha_short": "cc139c3",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/hemorroidabot/tree/master"
   },
@@ -74,16 +74,16 @@
   {
     "repo": "sitemapping",
     "name": "main",
-    "head_sha": "0dd76621ed7678be15d93e1d4c94bbfb59c72a1b",
-    "head_sha_short": "0dd7662",
+    "head_sha": "96fc96c90edae66820c49908317c1a02c28b23f9",
+    "head_sha_short": "96fc96c",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/sitemapping/tree/main"
   },
   {
     "repo": "top100",
     "name": "main",
-    "head_sha": "a9228121eb110957474bf70ca9002aa5c7e49db7",
-    "head_sha_short": "a922812",
+    "head_sha": "5e7570af4cb9fbf7a0c76d1da9550f6823370888",
+    "head_sha_short": "5e7570a",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/top100/tree/main"
   },
@@ -209,6 +209,38 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
+    "name": "codex/add-javadoc/jsdoc-tags-to-functions",
+    "head_sha": "af09202348924912353fa6aaa9970e140436a925",
+    "head_sha_short": "af09202",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/codex/add-javadoc/jsdoc-tags-to-functions"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "name": "codex/fix-undefined-symbol-linker-error",
+    "head_sha": "c603b0035227e6dfc0f18910b2623bbc63ac6fb1",
+    "head_sha_short": "c603b00",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/codex/fix-undefined-symbol-linker-error"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "name": "codex/fix-windows-builds-failing-in-steps",
+    "head_sha": "9bd823dad2063c1288cae53a3186dd36c4d4215f",
+    "head_sha_short": "9bd823d",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/codex/fix-windows-builds-failing-in-steps"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "name": "codex/remove-obscene-words-from-code",
+    "head_sha": "00139b4a6962e49172a2115b3fdf616187fed9dd",
+    "head_sha_short": "00139b4",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/codex/remove-obscene-words-from-code"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
     "name": "fix/ci-matrix-if",
     "head_sha": "e546cecd718e88715f0730f55fc32bf63367327a",
     "head_sha_short": "e546cec",
@@ -238,38 +270,6 @@
     "head_sha_short": "f76f7fe",
     "is_default": false,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/fix-broken-workflows-451876394576674102"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "name": "fix-workflows-hython",
-    "head_sha": "192918f4a8a6ef278f165358d85cb69fdcdce7b9",
-    "head_sha_short": "192918f",
-    "is_default": false,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/fix-workflows-hython"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "name": "git-clone-warning",
-    "head_sha": "e82534b865d26d45164e86ccdb7d3fc90908ff51",
-    "head_sha_short": "e82534b",
-    "is_default": false,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/git-clone-warning"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "name": "main",
-    "head_sha": "1117fa6ae4d2c521ee4893d1263b86ddcfc21d77",
-    "head_sha_short": "1117fa6",
-    "is_default": true,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/main"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "name": "minify-json",
-    "head_sha": "006f204d2e08bb2aa24e529ed964b3bdabdecc48",
-    "head_sha_short": "006f204",
-    "is_default": false,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/minify-json"
   },
   {
     "repo": "FNF-Phoenix-Engine-fork",
@@ -608,6 +608,70 @@
     "url": "https://github.com/havaianasdestruido/pipeline-graph/tree/master"
   },
   {
+    "repo": "pm-claude-skills-opencode",
+    "name": "Advanced-Skills",
+    "head_sha": "4accc3407c70690fa8ec186eb94c9ba8a7706463",
+    "head_sha_short": "4accc34",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/pm-claude-skills-opencode/tree/Advanced-Skills"
+  },
+  {
+    "repo": "pm-claude-skills-opencode",
+    "name": "add-skill-playground-web-ui",
+    "head_sha": "5721cd3a49aeb1e62742a660f1682c03df2a5c54",
+    "head_sha_short": "5721cd3",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/pm-claude-skills-opencode/tree/add-skill-playground-web-ui"
+  },
+  {
+    "repo": "pm-claude-skills-opencode",
+    "name": "bot/self-improve",
+    "head_sha": "7636cff7ac6d3540f6893786d6269cd82b191337",
+    "head_sha_short": "7636cff",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/pm-claude-skills-opencode/tree/bot/self-improve"
+  },
+  {
+    "repo": "pm-claude-skills-opencode",
+    "name": "claude/add-engineering-skills-IfBhz",
+    "head_sha": "01c10eb625640f12b8de44eefb8b8d65c1a7dd15",
+    "head_sha_short": "01c10eb",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/pm-claude-skills-opencode/tree/claude/add-engineering-skills-IfBhz"
+  },
+  {
+    "repo": "pm-claude-skills-opencode",
+    "name": "claude/admiring-cori-murZN",
+    "head_sha": "7f9331f5b44e3a9d661ebcc2440c1a3fa7dfd4fd",
+    "head_sha_short": "7f9331f",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/pm-claude-skills-opencode/tree/claude/admiring-cori-murZN"
+  },
+  {
+    "repo": "pm-claude-skills-opencode",
+    "name": "claude/artifact-studio",
+    "head_sha": "04516e6e906961d10cf8949f4da48a0c12b3cdfa",
+    "head_sha_short": "04516e6",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/pm-claude-skills-opencode/tree/claude/artifact-studio"
+  },
+  {
+    "repo": "pm-claude-skills-opencode",
+    "name": "claude/beyond-document",
+    "head_sha": "a569a4bd5fb1e8138b844c80d9a3c47488f06dd4",
+    "head_sha_short": "a569a4b",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/pm-claude-skills-opencode/tree/claude/beyond-document"
+  },
+  {
+    "repo": "pm-claude-skills-opencode",
+    "name": "claude/brainstorm-skills-features",
+    "head_sha": "685a2f8febc2f7d08617c82447277ee102b54bed",
+    "head_sha_short": "685a2f8",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/pm-claude-skills-opencode/tree/claude/brainstorm-skills-features"
+  },
+  {
     "repo": "PWSV",
     "name": "main",
     "head_sha": "1b2937c9cf0e0f6984b94eb1722fd26fb426199f",
@@ -769,9 +833,25 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
+    "name": "codex/add-todos-to-unfinished-code",
+    "head_sha": "0587ed0e3fa7c578dfba5e54ec0f5f2dfcacc186",
+    "head_sha_short": "0587ed0",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/codex/add-todos-to-unfinished-code"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "name": "codex/add-workflows-for-project-builds",
+    "head_sha": "8b29433062320266ed913539ec6848fd1f2690b8",
+    "head_sha_short": "8b29433",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/codex/add-workflows-for-project-builds"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
     "name": "main",
-    "head_sha": "6ade6bf4e75edb026978b4779b11e6bfe622e087",
-    "head_sha_short": "6ade6bf",
+    "head_sha": "a39854215baf5cff17271aeaffeff3617c931100",
+    "head_sha_short": "a398542",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/main"
   }

@@ -8,8 +8,14 @@
   {
     "repo": "hemorroidabot",
     "login": "havaianasdestruido",
-    "contributions": 34,
+    "contributions": 37,
     "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "hemorroidabot",
+    "login": "ImgBotApp",
+    "contributions": 1,
+    "profile_url": "https://github.com/ImgBotApp"
   },
   {
     "repo": "PatoCraft",
@@ -31,15 +37,15 @@
   },
   {
     "repo": "sitemapping",
-    "login": "havaianasdestruido",
+    "login": "actions-user",
     "contributions": 22,
-    "profile_url": "https://github.com/havaianasdestruido"
+    "profile_url": "https://github.com/actions-user"
   },
   {
     "repo": "sitemapping",
-    "login": "actions-user",
-    "contributions": 21,
-    "profile_url": "https://github.com/actions-user"
+    "login": "havaianasdestruido",
+    "contributions": 22,
+    "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "top100",
@@ -50,7 +56,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 16,
+    "contributions": 17,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -536,7 +542,7 @@
   {
     "repo": "FNF-Phoenix-Engine",
     "login": "havaianasdestruido",
-    "contributions": 129,
+    "contributions": 134,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -1266,6 +1272,60 @@
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
+    "repo": "pm-claude-skills-opencode",
+    "login": "mohitagw15856",
+    "contributions": 802,
+    "profile_url": "https://github.com/mohitagw15856"
+  },
+  {
+    "repo": "pm-claude-skills-opencode",
+    "login": "github-actions[bot]",
+    "contributions": 26,
+    "profile_url": "https://github.com/apps/github-actions"
+  },
+  {
+    "repo": "pm-claude-skills-opencode",
+    "login": "claude",
+    "contributions": 21,
+    "profile_url": "https://github.com/claude"
+  },
+  {
+    "repo": "pm-claude-skills-opencode",
+    "login": "thejesh23",
+    "contributions": 14,
+    "profile_url": "https://github.com/thejesh23"
+  },
+  {
+    "repo": "pm-claude-skills-opencode",
+    "login": "actions-user",
+    "contributions": 2,
+    "profile_url": "https://github.com/actions-user"
+  },
+  {
+    "repo": "pm-claude-skills-opencode",
+    "login": "InsightFactoryAPP",
+    "contributions": 1,
+    "profile_url": "https://github.com/InsightFactoryAPP"
+  },
+  {
+    "repo": "pm-claude-skills-opencode",
+    "login": "LucideLarp",
+    "contributions": 1,
+    "profile_url": "https://github.com/LucideLarp"
+  },
+  {
+    "repo": "pm-claude-skills-opencode",
+    "login": "mblode",
+    "contributions": 1,
+    "profile_url": "https://github.com/mblode"
+  },
+  {
+    "repo": "pm-claude-skills-opencode",
+    "login": "roian6",
+    "contributions": 1,
+    "profile_url": "https://github.com/roian6"
+  },
+  {
     "repo": "PWSV",
     "login": "havaianasdestruido",
     "contributions": 5,
@@ -1538,7 +1598,7 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "login": "havaianasdestruido",
-    "contributions": 13,
+    "contributions": 18,
     "profile_url": "https://github.com/havaianasdestruido"
   }
 ]

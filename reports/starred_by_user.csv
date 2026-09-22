@@ -1,4 +1,9 @@
 full_name,url,description
+browser-use/jev-ultrafast,https://github.com/browser-use/jev-ultrafast,Fastest and cheapest web agent
+DoidoTeam/FNF-Doido-Engine,https://github.com/DoidoTeam/FNF-Doido-Engine,Friday Night Funkin' Rewritten
+hughsk/flat,https://github.com/hughsk/flat,:steam_locomotive: Flatten/unflatten nested Javascript objects
+fnando/i18n,https://github.com/fnando/i18n,A small library to provide the I18n translations on the JavaScript.
+asgeirtj/system_prompts_leaks,https://github.com/asgeirtj/system_prompts_leaks,"Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly."
 public-apis/public-apis,https://github.com/public-apis/public-apis,A collective list of free APIs
 imgbot/Imgbot,https://github.com/imgbot/Imgbot,"An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once it's done, ImgBot will open a pull request for you to review and merge. help@imgbot.net"
 havaianasdestruido/pong-pop,https://github.com/havaianasdestruido/pong-pop,"Jogo simples onde você joga ping pong, mas com pop ups."

@@ -1,5 +1,30 @@
 [
   {
+    "full_name": "browser-use/jev-ultrafast",
+    "url": "https://github.com/browser-use/jev-ultrafast",
+    "description": "Fastest and cheapest web agent"
+  },
+  {
+    "full_name": "DoidoTeam/FNF-Doido-Engine",
+    "url": "https://github.com/DoidoTeam/FNF-Doido-Engine",
+    "description": "Friday Night Funkin' Rewritten"
+  },
+  {
+    "full_name": "hughsk/flat",
+    "url": "https://github.com/hughsk/flat",
+    "description": ":steam_locomotive: Flatten/unflatten nested Javascript objects"
+  },
+  {
+    "full_name": "fnando/i18n",
+    "url": "https://github.com/fnando/i18n",
+    "description": "A small library to provide the I18n translations on the JavaScript."
+  },
+  {
+    "full_name": "asgeirtj/system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly."
+  },
+  {
     "full_name": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs"
