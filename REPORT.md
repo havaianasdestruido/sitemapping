@@ -4,7 +4,7 @@
 
 > fka. PatoFlamejantetv/UltimateQuack
 
-**Generated:** 2026-09-22 08:53:56 UTC
+**Generated:** 2026-09-22 15:57:07 UTC
 **Public Repositories:** 66
 
 ---
@@ -301,9 +301,10 @@
   > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-22
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `dd65ed4`
+      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `52a4d11`
         - 📋 [All Commits](https://github.com/havaianasdestruido/sitemapping/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/sitemapping/commits/main)
+          - [`52a4d11`](https://github.com/havaianasdestruido/sitemapping/commit/52a4d116f0e35663e24145163fb1464d9e6f34c2) **📊 \[2026-09-22 08:59:46 UTC\]** — _GitHub Action Bot_ (2026-09-22)
           - [`dd65ed4`](https://github.com/havaianasdestruido/sitemapping/commit/dd65ed4d9bf4b0aaac4f90c027096570b117ad2b) **📊 \[2026-09-22 02:31:36 UTC\]** — _GitHub Action Bot_ (2026-09-22)
           - [`96fc96c`](https://github.com/havaianasdestruido/sitemapping/commit/96fc96c90edae66820c49908317c1a02c28b23f9) **📊 \[2026-09-21 22:59:31 UTC\]** — _GitHub Action Bot_ (2026-09-21)
           - [`0dd7662`](https://github.com/havaianasdestruido/sitemapping/commit/0dd76621ed7678be15d93e1d4c94bbfb59c72a1b) **📊 \[2026-09-21 17:30:15 UTC\]** — _GitHub Action Bot_ (2026-09-21)
@@ -313,8 +314,8 @@
           - [`8113d82`](https://github.com/havaianasdestruido/sitemapping/commit/8113d8276f6f47b1930675e94df54e8a1d9be39b) **Set imgbot schedule to weekly** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-21)
           - [`01fed62`](https://github.com/havaianasdestruido/sitemapping/commit/01fed62471bfa6aafca67bb77381f9ff2455e15e) **📊 \[2026-09-21 00:41:43 UTC\]** — _GitHub Action Bot_ (2026-09-21)
           - [`7a2bb03`](https://github.com/havaianasdestruido/sitemapping/commit/7a2bb03300ce1cf52c3b40bae66716bbea6de0d5) **Add .imgbotconfig for aggressive image compression** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-21)
-          - [`812929d`](https://github.com/havaianasdestruido/sitemapping/commit/812929d457b9540199fdf30f4f0a5244922ec40f) **📊 \[2026-09-20 22:06:43 UTC\]** — _GitHub Action Bot_ (2026-09-20)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=fbc53b5c264ad02c50fb01e8a22ada50ea818e4b+34)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=518e02b945a9029fd85e3cedcbb1353d8b93587b+34)
+          - [`fbc53b5`](https://github.com/havaianasdestruido/sitemapping/commit/fbc53b5c264ad02c50fb01e8a22ada50ea818e4b) **📊 Update repository report \[2026-09-14 03:56:10 UTC\]** — _GitHub Action Bot_ (2026-09-14)
           - [`8a1dfa5`](https://github.com/havaianasdestruido/sitemapping/commit/8a1dfa511cb32299f8904cc067d3a506bb6a3b04) **now it runs daily** — _Pato (new acc)_ (2026-09-13)
           - [`f6fd77b`](https://github.com/havaianasdestruido/sitemapping/commit/f6fd77b275bbe54cb676aa5c340390d1e8ca0b32) **switched form static page serving to jekyll page serving** — _Pato (new acc)_ (2026-09-13)
           - [`40e60b0`](https://github.com/havaianasdestruido/sitemapping/commit/40e60b0e78401f338eb7999711921a136c71be2c) **whoops** — _Pato (new acc)_ (2026-09-13)
@@ -324,7 +325,6 @@
           - [`a042f20`](https://github.com/havaianasdestruido/sitemapping/commit/a042f201a2496fb53c9e2cf09809f837cb81b29a) **Create README.md** — _Pato (new acc)_ (2026-09-13)
           - [`7490501`](https://github.com/havaianasdestruido/sitemapping/commit/74905013cec52ff6f220f129c172f9d7a5a0b006) **📊 Update repository report \[2026-09-13 17:31:21 UTC\]** — _GitHub Action Bot_ (2026-09-13)
           - [`b113a1a`](https://github.com/havaianasdestruido/sitemapping/commit/b113a1a7238707136a74b436700b150607d5a51c) **Create repo-analyzer.yml** — _Pato (new acc)_ (2026-09-13)
-          - [`a6ebe1d`](https://github.com/havaianasdestruido/sitemapping/commit/a6ebe1dd4f364ad874898f2a9a3628718a2b35f0) **Create generate_report.py** — _Pato (new acc)_ (2026-09-13)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -342,7 +342,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@actions-user](https://github.com/actions-user) — 23 commit(s)
+      - [@actions-user](https://github.com/actions-user) — 24 commit(s)
       - [@havaianasdestruido](https://github.com/havaianasdestruido) — 22 commit(s)
 
     - ### 🏷️ Releases (2)
@@ -359,9 +359,10 @@
   > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-20 | 🔄 Updated: 2026-09-22
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/top100/tree/main) _(default)_ — HEAD: `3ca829f`
+      - [`main`](https://github.com/havaianasdestruido/top100/tree/main) _(default)_ — HEAD: `abab9a1`
         - 📋 [All Commits](https://github.com/havaianasdestruido/top100/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/top100/commits/main)
+          - [`abab9a1`](https://github.com/havaianasdestruido/top100/commit/abab9a1bc47088eeacf4349201eb40bfc710b76f) **data: update top repos data (2026-09-22)** — _github-actions[bot]_ (2026-09-22)
           - [`3ca829f`](https://github.com/havaianasdestruido/top100/commit/3ca829feb765922fa4ae810524dce908c0c22a53) **data: update top repos data (2026-09-22)** — _github-actions[bot]_ (2026-09-22)
           - [`5e7570a`](https://github.com/havaianasdestruido/top100/commit/5e7570af4cb9fbf7a0c76d1da9550f6823370888) **data: update top repos data (2026-09-22)** — _github-actions[bot]_ (2026-09-22)
           - [`a922812`](https://github.com/havaianasdestruido/top100/commit/a9228121eb110957474bf70ca9002aa5c7e49db7) **data: update top repos data (2026-09-21)** — _github-actions[bot]_ (2026-09-21)
@@ -371,7 +372,8 @@
           - [`62cdd4d`](https://github.com/havaianasdestruido/top100/commit/62cdd4dfedc004ef723890a3eb97adda10907611) **data: update top repos data (2026-09-21)** — _github-actions[bot]_ (2026-09-21)
           - [`1fab4ce`](https://github.com/havaianasdestruido/top100/commit/1fab4ce39708cefca5ea71c432108406cdcde873) **data: update top repos data (2026-09-21)** — _github-actions[bot]_ (2026-09-21)
           - [`623f15d`](https://github.com/havaianasdestruido/top100/commit/623f15dea9611cd851b9c4733174367b4502b4fc) **Set imgbot schedule to weekly** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-21)
-          - [`563def7`](https://github.com/havaianasdestruido/top100/commit/563def76948e61ad0ed93a4c198648e96a91f0ed) **data: update top repos data (2026-09-21)** — _github-actions[bot]_ (2026-09-21)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/top100/commits/main/?after=b380d9a5fc7d141fdbc6c963b875b53d99195d55+34)
+          - [`c189c2a`](https://github.com/havaianasdestruido/top100/commit/c189c2a73d0e2b4b620d11ff5639cba73f056ee4) **Create fetch_top_repos.py** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -389,7 +391,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@github-actions[bot]](https://github.com/apps/github-actions) — 18 commit(s)
+      - [@github-actions[bot]](https://github.com/apps/github-actions) — 19 commit(s)
       - [@havaianasdestruido](https://github.com/havaianasdestruido) — 17 commit(s)
 
     - ### 🏷️ Releases (0)
@@ -761,10 +763,10 @@
       - [@DancingEmptier667](https://github.com/DancingEmptier667) — 2 commit(s)
       - [@BotchedRPR](https://github.com/BotchedRPR) — 2 commit(s)
       - [@CrimsonFork](https://github.com/CrimsonFork) — 2 commit(s)
+      - [@Oreeeee](https://github.com/Oreeeee) — 1 commit(s)
       - [@RoninByte](https://github.com/RoninByte) — 1 commit(s)
       - [@shomykohai](https://github.com/shomykohai) — 1 commit(s)
       - [@SoaresPT](https://github.com/SoaresPT) — 1 commit(s)
-      - [@spywarehunter](https://github.com/spywarehunter) — 1 commit(s)
       - [@ysfchn](https://github.com/ysfchn) — 1 commit(s)
 
     - ### 🏷️ Releases (0)
@@ -924,13 +926,13 @@
       - [@kazo0](https://github.com/kazo0) — 3 commit(s)
       - [@MakanWG](https://github.com/MakanWG) — 3 commit(s)
       - [@jsoref](https://github.com/jsoref) — 3 commit(s)
-      - [@hassanuz](https://github.com/hassanuz) — 2 commit(s)
       - [@NicolasChampagne](https://github.com/NicolasChampagne) — 2 commit(s)
+      - [@hassanuz](https://github.com/hassanuz) — 2 commit(s)
       - [@microsoftopensource](https://github.com/microsoftopensource) — 2 commit(s)
-      - [@LanceMcCarthy](https://github.com/LanceMcCarthy) — 2 commit(s)
-      - [@jefgen](https://github.com/jefgen) — 2 commit(s)
       - [@ebariche](https://github.com/ebariche) — 2 commit(s)
-      - [@barlan](https://github.com/barlan) — 1 commit(s)
+      - [@jefgen](https://github.com/jefgen) — 2 commit(s)
+      - [@LanceMcCarthy](https://github.com/LanceMcCarthy) — 2 commit(s)
+      - [@Potapy4](https://github.com/Potapy4) — 1 commit(s)
       - [@seyfer](https://github.com/seyfer) — 1 commit(s)
 
     - ### 🏷️ Releases (0)
@@ -1188,52 +1190,52 @@
 
   - 🔗 Forked from: [JordanSantiagoYT/FNF-JS-Engine](https://github.com/JordanSantiagoYT/FNF-JS-Engine)
     - ### 🌿 Branches (14)
-      - [`codex/add-javadoc/jsdoc-tags-to-functions`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/codex/add-javadoc/jsdoc-tags-to-functions) — HEAD: `af09202`
+      - [`codex/add-javadoc/jsdoc-tags-to-functions`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/codex/add-javadoc/jsdoc-tags-to-functions) — HEAD: `b03cf22`
         - 📋 [All Commits](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/codex/add-javadoc/jsdoc-tags-to-functions)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/codex/add-javadoc/jsdoc-tags-to-functions)
+          - [`b03cf22`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b03cf22250bd457423560ee614e80895ada78b16) **Merge branch 'main' into codex/add-javadoc/jsdoc-tags-to-functions** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-22)
+          - [`98baf4e`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/98baf4edc004b7cc1b0693cd62462ef39c927493) **Merge pull request #16 from havaianasdestruido/codex/fix-windows-builds-** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-22)
           - [`af09202`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/af09202348924912353fa6aaa9970e140436a925) **docs: document function interfaces** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-22)
+          - [`9bd823d`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9bd823dad2063c1288cae53a3186dd36c4d4215f) **fix: avoid TankmenBG reset signature conflict** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-22)
+          - [`d7b4de8`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d7b4de828255471fa72726c7f24d58ff58a477ba) **fix(ci): limit Windows C++ build parallelism** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-22)
           - [`105cc16`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/105cc16be8801bbaaef68310f5f09efc2e6ebd3e) **Merge pull request #15 from havaianasdestruido/codex/remove-obscene-word** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-22)
           - [`00139b4`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/00139b4a6962e49172a2115b3fdf616187fed9dd) **refactor: rename inappropriate identifiers** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-22)
           - [`1117fa6`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1117fa6ae4d2c521ee4893d1263b86ddcfc21d77) **docs: add canonical agent instructions (AGENTS.md) + pointers (CLAUDE/AI** — _havaianasdestruido_ (2026-09-18)
           - [`b797836`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b797836d31598b700eb535c2fd53c48d0b68d9f7) **revert: dynamic android thread count -> hardcoded 4 (restores normal com** — _havaianasdestruido_ (2026-09-17)
           - [`3596687`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/35966870599873f38ff716388535247fdf5b12c8) **ci(mobile): ndk package build-number 27.0.12077973 + real NDK_ROOT (sdkm** — _havaianasdestruido_ (2026-09-17)
-          - [`4f5653d`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4f5653d75980c7a88f3fb10bbf8274fc45d8c213) **ci(mobile): setup-android@v4 packages-style (accept licenses; drop 'tool** — _havaianasdestruido_ (2026-09-16)
-          - [`e5d87f9`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e5d87f91833f78d906bc90d5e01d4a795d0417c7) **ci: pin setup-android@v4 (real tag; v4.1.0 never existed)** — _havaianasdestruido_ (2026-09-16)
-          - [`0efa457`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0efa4573802918d2e5b6794599a6a403cf16f231) **ci: bump setup-android v3 to v4.1.0 (cmdline-tools 16 dropped 'tools' pa** — _havaianasdestruido_ (2026-09-16)
-          - [`5b297eb`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5b297eb330f76ebef84a303fd6dd667127979ba2) **feat: dynamic android thread count (CoolUtil.getCPUThreadsCount, no hard** — _havaianasdestruido_ (2026-09-16)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/codex/add-javadoc/jsdoc-tags-to-functions/?after=682639c362a719cec04ec5341f9b305de1676436+34)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/codex/add-javadoc/jsdoc-tags-to-functions/?after=181b9dd1792ba4850818e5df29902aa8f335a572+34)
+          - [`31f39ab`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/31f39abd9c3997556de871d92b2a1dd48918e1ce) **Update nightly.yml** — _Pato (new acc)_ (2026-08-31)
+          - [`9aad3c7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9aad3c7467837dd9e1a4e6a3eca159257e5fcf25) **Update mobile.yml** — _Pato (new acc)_ (2026-08-31)
+          - [`c9555e9`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c9555e9167cd25382e7c787a08adb3e46b593614) **Update mobile-release.yml** — _Pato (new acc)_ (2026-08-31)
+          - [`682639c`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/682639c362a719cec04ec5341f9b305de1676436) **Update main.yml** — _Pato (new acc)_ (2026-08-31)
           - [`a2180eb`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a2180ebddf5d39f7ad6663acf011f9b30eb3ed84) **wtf** — _Pato (new acc)_ (2026-08-31)
           - [`6aa0104`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6aa01043a37ecc99dd16811ad10bac782b9b45c3) **asdagfd** — _Pato (new acc)_ (2026-08-31)
           - [`2056490`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/20564903272cca331b0b1ee150634428943442ae) **now the default "build only win + android" thing should work** — _Pato (new acc)_ (2026-08-31)
           - [`6cdad81`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6cdad81f7878a8243ee690b8b65dc0134bbc22cd) **test fix with that matrix thing** — _Pato (new acc)_ (2026-08-31)
           - [`e546cec`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e546cecd718e88715f0730f55fc32bf63367327a) **Merge pull request #13 from havaianasdestruido/jules-1547208090006608356** — _Pato (new acc)_ (2026-08-31)
           - [`57adef3`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/57adef303a2c3a7539b0d3812f0dfd3bb36939ae) **Merge branch 'main' into jules-15472080900066083561-4f7fe005** — _Pato (new acc)_ (2026-08-31)
-          - [`582c98e`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/582c98e27bb7cff13c5f6973f9829e97e7b9d1b0) **workflow: default builds to Windows and Android with toggle** — _google-labs-jules[bot]_ (2026-08-30)
-          - [`e237edf`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e237edf1e418ec9ebecda84f7d7af8f3ff480dce) **Update mobile.yml** — _Pato (new acc)_ (2026-08-30)
-          - [`fb15bb7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/fb15bb73c52efdc034ba49d15befb6ac99d4f017) **Le fix (2/2)** — _Pato (new acc)_ (2026-08-30)
-          - [`0a17cc3`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0a17cc3deb708b440cfad207a114d062d5dea213) **Le fix (1/2)** — _Pato (new acc)_ (2026-08-30)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/codex/add-javadoc/jsdoc-tags-to-functions/?after=aabd946f1b4a7898e90083e88a7620e46c550cab+34)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/codex/add-javadoc/jsdoc-tags-to-functions/?after=e18aa9c3d85cf8c350f31bbc5c14665bd8c364e6+34)
+          - [`b049c31`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b049c3172a677cf9b9ee456783a778a55f4d710c) **Add mobile and Android support with touch controls and CI workflows** — _google-labs-jules[bot]_ (2026-08-29)
+          - [`b32e766`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b32e766873be17daf10731dba3e231e303ab26d4) **New readme and stuff** — _Pato (new acc)_ (2026-08-29)
+          - [`1b0e64c`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1b0e64c64e41558b541380b05b1292782049f211) **ci: clear whole hxcpp cache to avoid stale PCH link errors** — _havaianasdestruido_ (2026-08-29)
+          - [`aabd946`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/aabd946f1b4a7898e90083e88a7620e46c550cab) **refactor: add headers package to categorize helper groups** — _havaianasdestruido_ (2026-08-28)
           - [`85ff843`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/85ff8436e3cb28d72d56de320d50fa900b94a3d7) **refactor: extract remaining monoliths into helper classes** — _havaianasdestruido_ (2026-08-28)
           - [`4181d10`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4181d109d534da7874bc24beee64e44f2c30c43b) **yay: new readme** — _Pato (new acc)_ (2026-08-28)
           - [`387269d`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/387269d3c9879f53645b4c475e00d8dd6bb9935c) **ci: drop stale precompiled headers from hxcpp cache** — _havaianasdestruido_ (2026-08-28)
           - [`24be099`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/24be09902c3f78b95642048f88b5e3d741f65f2e) **fix: gate window coloring to Windows-only** — _havaianasdestruido_ (2026-08-28)
           - [`33e3acb`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/33e3acb8f3a7dd7fc1f031efd8605d1aa73c4cf5) **fix: restore compilation after source tree refactor** — _havaianasdestruido_ (2026-08-28)
           - [`e02f6c2`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e02f6c2b1d1d08c8712829a446b773506bcb26c0) **refactor: reorganize source tree into packages (WIP)** — _havaianasdestruido_ (2026-08-25)
-          - [`6572cb3`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6572cb3d2c4541cfdd348f51c7b37dee56be0b2c) **fix(python): normalize CRLF to LF before parsing** — _havaianasdestruido_ (2026-08-23)
-          - [`7165583`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/71655834822ec21bb4db243d6b90ffdba28bd6b4) **feat: proper Linux GameMode support** — _havaianasdestruido_ (2026-08-23)
-          - [`c62bc7a`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c62bc7aa4b83d582448e782dcab07ced14e97afe) **build: pin hscript-improved to working commit** — _havaianasdestruido_ (2026-08-23)
-          - [`5bfc2dd`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5bfc2ddcb01462eae38f315d4c4aca398f877092) **fix: strip UTF-8 BOM from JSON reads** — _havaianasdestruido_ (2026-08-23)
-        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/codex/add-javadoc/jsdoc-tags-to-functions/?after=70ca1602409bafbfc2a12b1adb22a8b30dbab270+34)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/codex/add-javadoc/jsdoc-tags-to-functions/?after=2cb6640324ccf8faeb54259ef461623d318c8924+34)
+          - [`838e4ab`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/838e4ab02f035699067bcbc2a88578ff1b037bca) **Merge branch 'main' into bottlenecks** — _Flynn Waiver_ (2026-08-12)
+          - [`72c85bb`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/72c85bba0897e3406d2b348c3197c9712c47ff21) **feat(vscode): add ULTRA build task variants for native and HTML5** — _havaianasdestruido_ (2026-08-12)
+          - [`98c0e6f`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/98c0e6fc984db847480980c1cfe2f263f8a50235) **chore: remove applied BOTTLENECK note in ChartingState.hx** — _havaianasdestruido_ (2026-08-12)
+          - [`70ca160`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/70ca1602409bafbfc2a12b1adb22a8b30dbab270) **chore: remove applied BOTTLENECK note in ChartingState.hx** — _havaianasdestruido_ (2026-08-12)
           - [`0b4f308`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0b4f3081b4c4952a81d98bfce2989bf0ce5a2f5b) **chore: remove applied BOTTLENECK note in ChartingState.hx** — _havaianasdestruido_ (2026-08-12)
           - [`7e76f51`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7e76f51b086196785493c45740a79eb1afeecc33) **chore: remove applied BOTTLENECK note in ChartingState.hx** — _havaianasdestruido_ (2026-08-12)
           - [`d29e26f`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d29e26f98bf29ff1aa6252022e5dfd9e3f29ca5d) **chore: remove applied BOTTLENECK note in ChartingState.hx** — _havaianasdestruido_ (2026-08-12)
           - [`9126f7c`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9126f7cd7b9ebb6b82d9b01558311aeb5ce521b6) **chore: remove applied BOTTLENECK note in ChartingState.hx** — _havaianasdestruido_ (2026-08-12)
           - [`4a791b7`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4a791b7e735489ea2c76273c3c87e740ad62cd8e) **chore: remove applied BOTTLENECK note in ChartingState.hx** — _havaianasdestruido_ (2026-08-12)
           - [`81e7fbc`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/81e7fbc747c68b7795fa32acf2ac79c26bb5c56d) **chore: remove applied BOTTLENECK note in ChartingState.hx** — _havaianasdestruido_ (2026-08-12)
-          - [`7874aff`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7874aff382736ecba8fc26d53c4bb7ade1f579ad) **chore: remove applied BOTTLENECK note in ChartingState.hx** — _havaianasdestruido_ (2026-08-12)
-          - [`08ea214`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/08ea214d0ca00f080646ea97c481dd0bb3ac4351) **chore: remove applied BOTTLENECK note in PhillyStreets.hx** — _havaianasdestruido_ (2026-08-12)
-          - [`87a699c`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/87a699cb3a766a6ff1cfbf017b8cdd8668acf846) **chore: remove applied BOTTLENECK note in BaseOptionsMenu.hx** — _havaianasdestruido_ (2026-08-12)
-          - [`390c2d5`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/390c2d51f33d3520e8e7a153144aff17f851e7c8) **chore: remove applied BOTTLENECK note in HScript.hx** — _havaianasdestruido_ (2026-08-12)
       - [`codex/fix-undefined-symbol-linker-error`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/codex/fix-undefined-symbol-linker-error) — HEAD: `c603b00`
         - 📋 [All Commits](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/codex/fix-undefined-symbol-linker-error)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/codex/fix-undefined-symbol-linker-error)
@@ -1568,8 +1570,9 @@
           - 📝 1 commit(s) in this PR
             - [`c603b00`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c603b0035227e6dfc0f18910b2623bbc63ac6fb1) fix(ci): disable hxcpp LTO for Android
         - 🟢 Open [#17 docs: add Javadoc/JSDoc-style tags to functions across codeb](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/17) — _havaianasdestruido_ (2026-09-22) `codex/add-javadoc/jsdoc-tags-to-functions` → `main`
-          - 📝 1 commit(s) in this PR
+          - 📝 2 commit(s) in this PR
             - [`af09202`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/af09202348924912353fa6aaa9970e140436a925) docs: document function interfaces
+            - [`b03cf22`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b03cf22250bd457423560ee614e80895ada78b16) Merge branch 'main' into codex/add-javadoc/jsdoc-tags-to-fun
         - 🟢 Open [#14 fix: repair broken GitHub Actions workflows](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/14) — _havaianasdestruido_ (2026-08-31) `fix-broken-workflows-451876394576674102` → `main`
           - 📝 4 commit(s) in this PR
             - [`7701ed8`](https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7701ed8e5530a6192de386e5244cb8d370332f1d) fix: repair broken GitHub Actions workflows
@@ -5093,7 +5096,7 @@
 ### Followers (7)
 
 - [@ishandutta2007](https://github.com/ishandutta2007)
-  - 📦 3234 public repos | 👥 follows 33111 people
+  - 📦 3244 public repos | 👥 follows 33108 people
 - [@moxie-coder](https://github.com/moxie-coder)
   - 📦 221 public repos | 👥 follows 1648 people
 - [@Okafor-twd](https://github.com/Okafor-twd)
@@ -5105,7 +5108,7 @@
 - [@andrewexec](https://github.com/andrewexec)
   - 📦 5 public repos | 👥 follows 2 people
 - [@ancaferro](https://github.com/ancaferro)
-  - 📦 4 public repos | 👥 follows 15666 people
+  - 📦 4 public repos | 👥 follows 15665 people
 
 ### Following (19)
 
@@ -5267,4 +5270,4 @@
 - [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit) — _iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objec_
 
 ---
-_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-22 08:53:56 UTC_
+_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-22 15:57:07 UTC_

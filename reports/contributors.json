@@ -38,7 +38,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 23,
+    "contributions": 24,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -50,7 +50,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 18,
+    "contributions": 19,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -247,6 +247,12 @@
   },
   {
     "repo": "bootloader-unlock-wall-of-shame",
+    "login": "Oreeeee",
+    "contributions": 1,
+    "profile_url": "https://github.com/Oreeeee"
+  },
+  {
+    "repo": "bootloader-unlock-wall-of-shame",
     "login": "RoninByte",
     "contributions": 1,
     "profile_url": "https://github.com/RoninByte"
@@ -262,12 +268,6 @@
     "login": "SoaresPT",
     "contributions": 1,
     "profile_url": "https://github.com/SoaresPT"
-  },
-  {
-    "repo": "bootloader-unlock-wall-of-shame",
-    "login": "spywarehunter",
-    "contributions": 1,
-    "profile_url": "https://github.com/spywarehunter"
   },
   {
     "repo": "bootloader-unlock-wall-of-shame",
@@ -415,15 +415,15 @@
   },
   {
     "repo": "calculator",
-    "login": "hassanuz",
-    "contributions": 2,
-    "profile_url": "https://github.com/hassanuz"
-  },
-  {
-    "repo": "calculator",
     "login": "NicolasChampagne",
     "contributions": 2,
     "profile_url": "https://github.com/NicolasChampagne"
+  },
+  {
+    "repo": "calculator",
+    "login": "hassanuz",
+    "contributions": 2,
+    "profile_url": "https://github.com/hassanuz"
   },
   {
     "repo": "calculator",
@@ -433,9 +433,9 @@
   },
   {
     "repo": "calculator",
-    "login": "LanceMcCarthy",
+    "login": "ebariche",
     "contributions": 2,
-    "profile_url": "https://github.com/LanceMcCarthy"
+    "profile_url": "https://github.com/ebariche"
   },
   {
     "repo": "calculator",
@@ -445,15 +445,15 @@
   },
   {
     "repo": "calculator",
-    "login": "ebariche",
+    "login": "LanceMcCarthy",
     "contributions": 2,
-    "profile_url": "https://github.com/ebariche"
+    "profile_url": "https://github.com/LanceMcCarthy"
   },
   {
     "repo": "calculator",
-    "login": "barlan",
+    "login": "Potapy4",
     "contributions": 1,
-    "profile_url": "https://github.com/barlan"
+    "profile_url": "https://github.com/Potapy4"
   },
   {
     "repo": "calculator",
