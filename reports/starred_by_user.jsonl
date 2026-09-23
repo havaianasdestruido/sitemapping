@@ -22,17 +22,6 @@
 {"full_name": "square/leakcanary", "url": "https://github.com/square/leakcanary", "description": "A memory leak detection library for Android."}
 {"full_name": "JetBrains/kotlin", "url": "https://github.com/JetBrains/kotlin", "description": "The Kotlin Programming Language. "}
 {"full_name": "topjohnwu/Magisk", "url": "https://github.com/topjohnwu/Magisk", "description": "The Magic Mask for Android"}
-{"full_name": "MSNightmare/ShieldCrash", "url": "https://github.com/MSNightmare/ShieldCrash", "description": "Windows Defender 0day Vulnerability"}
-{"full_name": "MSNightmare/FalconFlank", "url": "https://github.com/MSNightmare/FalconFlank", "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability"}
-{"full_name": "MSNightmare/BigDiskBuster", "url": "https://github.com/MSNightmare/BigDiskBuster", "description": "Windows Defender Update Denial of Service Vulnerability"}
-{"full_name": "MSNightmare/PrettyPrague", "url": "https://github.com/MSNightmare/PrettyPrague", "description": "GenDigital Avast Antivirus ZeroDay Elevation of Privileges Vulnerability"}
-{"full_name": "MSNightmare/GreenSection", "url": "https://github.com/MSNightmare/GreenSection", "description": "Nvidia GreenSection Memory Corruption 0day vulnerability"}
-{"full_name": "MSNightmare/HardBreacher", "url": "https://github.com/MSNightmare/HardBreacher", "description": "Kaspersky Antivirus For Endpoint ZeroDay Elevation of Privileges Vulnerability"}
-{"full_name": "MSNightmare/ShieldBreak", "url": "https://github.com/MSNightmare/ShieldBreak", "description": "Windows Defender 0day vulnerability"}
-{"full_name": "MSNightmare/BrokenArrow", "url": "https://github.com/MSNightmare/BrokenArrow", "description": ""}
-{"full_name": "MSNightmare/LegacyHive", "url": "https://github.com/MSNightmare/LegacyHive", "description": "Windows ProfSvc 0day"}
-{"full_name": "MSNightmare/GreatXML", "url": "https://github.com/MSNightmare/GreatXML", "description": "GreatXML bitlocker bypass vulnerability"}
-{"full_name": "MSNightmare/RoguePlanet", "url": "https://github.com/MSNightmare/RoguePlanet", "description": "RoguePlanet Windows Defender Vulnerability"}
 {"full_name": "intergrav/devins-badges", "url": "https://github.com/intergrav/devins-badges", "description": "Open library of nicely designed badges for various apps and services"}
 {"full_name": "zhuofan-16/Spectrum_UnlockBL_Tool", "url": "https://github.com/zhuofan-16/Spectrum_UnlockBL_Tool", "description": ""}
 {"full_name": "TomKing062/CVE-2022-38691_38692", "url": "https://github.com/TomKing062/CVE-2022-38691_38692", "description": "Let's control Secure Boot Chain ourselves."}

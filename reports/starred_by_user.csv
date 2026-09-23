@@ -23,17 +23,6 @@ signalapp/Signal-Android,https://github.com/signalapp/Signal-Android,A private m
 square/leakcanary,https://github.com/square/leakcanary,A memory leak detection library for Android.
 JetBrains/kotlin,https://github.com/JetBrains/kotlin,The Kotlin Programming Language. 
 topjohnwu/Magisk,https://github.com/topjohnwu/Magisk,The Magic Mask for Android
-MSNightmare/ShieldCrash,https://github.com/MSNightmare/ShieldCrash,Windows Defender 0day Vulnerability
-MSNightmare/FalconFlank,https://github.com/MSNightmare/FalconFlank,Crowdstrike Falcon 0day Privilege Escalation Vulnerability
-MSNightmare/BigDiskBuster,https://github.com/MSNightmare/BigDiskBuster,Windows Defender Update Denial of Service Vulnerability
-MSNightmare/PrettyPrague,https://github.com/MSNightmare/PrettyPrague,GenDigital Avast Antivirus ZeroDay Elevation of Privileges Vulnerability
-MSNightmare/GreenSection,https://github.com/MSNightmare/GreenSection,Nvidia GreenSection Memory Corruption 0day vulnerability
-MSNightmare/HardBreacher,https://github.com/MSNightmare/HardBreacher,Kaspersky Antivirus For Endpoint ZeroDay Elevation of Privileges Vulnerability
-MSNightmare/ShieldBreak,https://github.com/MSNightmare/ShieldBreak,Windows Defender 0day vulnerability
-MSNightmare/BrokenArrow,https://github.com/MSNightmare/BrokenArrow,
-MSNightmare/LegacyHive,https://github.com/MSNightmare/LegacyHive,Windows ProfSvc 0day
-MSNightmare/GreatXML,https://github.com/MSNightmare/GreatXML,GreatXML bitlocker bypass vulnerability
-MSNightmare/RoguePlanet,https://github.com/MSNightmare/RoguePlanet,RoguePlanet Windows Defender Vulnerability
 intergrav/devins-badges,https://github.com/intergrav/devins-badges,Open library of nicely designed badges for various apps and services
 zhuofan-16/Spectrum_UnlockBL_Tool,https://github.com/zhuofan-16/Spectrum_UnlockBL_Tool,
 TomKing062/CVE-2022-38691_38692,https://github.com/TomKing062/CVE-2022-38691_38692,Let's control Secure Boot Chain ourselves.
