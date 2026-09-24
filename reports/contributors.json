@@ -26,7 +26,7 @@
   {
     "repo": "FNF-Phoenix-Engine",
     "login": "havaianasdestruido",
-    "contributions": 134,
+    "contributions": 136,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -204,6 +204,12 @@
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
+    "repo": "PersonaDB",
+    "login": "havaianasdestruido",
+    "contributions": 6,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
     "repo": "pong-pop",
     "login": "havaianasdestruido",
     "contributions": 19,
@@ -218,7 +224,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 33,
+    "contributions": 34,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -230,7 +236,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 29,
+    "contributions": 31,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -250,6 +256,36 @@
     "login": "havaianasdestruido",
     "contributions": 4,
     "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "art_radar",
+    "login": "github-actions[bot]",
+    "contributions": 388,
+    "profile_url": "https://github.com/apps/github-actions"
+  },
+  {
+    "repo": "art_radar",
+    "login": "duanyytop",
+    "contributions": 84,
+    "profile_url": "https://github.com/duanyytop"
+  },
+  {
+    "repo": "art_radar",
+    "login": "litang9",
+    "contributions": 11,
+    "profile_url": "https://github.com/litang9"
+  },
+  {
+    "repo": "art_radar",
+    "login": "havaianasdestruido",
+    "contributions": 3,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "art_radar",
+    "login": "taqtiqa-mark",
+    "contributions": 1,
+    "profile_url": "https://github.com/taqtiqa-mark"
   },
   {
     "repo": "AudioTaste",
@@ -908,7 +944,7 @@
   {
     "repo": "havaianasdestruido.github.io",
     "login": "havaianasdestruido",
-    "contributions": 9,
+    "contributions": 12,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -1252,12 +1288,6 @@
     "login": "ImgBotApp",
     "contributions": 1,
     "profile_url": "https://github.com/ImgBotApp"
-  },
-  {
-    "repo": "PersonaDB",
-    "login": "havaianasdestruido",
-    "contributions": 6,
-    "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "photoviewer",

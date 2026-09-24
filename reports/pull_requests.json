@@ -3,19 +3,6 @@
     "repo": "FNF-Phoenix-Engine",
     "state": "open",
     "status": "open",
-    "number": 18,
-    "title": "fix(ci): disable hxcpp LTO for Android",
-    "user": "havaianasdestruido",
-    "created_at": "2026-09-22T01:00:36Z",
-    "base_branch": "main",
-    "head_branch": "codex/fix-undefined-symbol-linker-error",
-    "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/18"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "open",
-    "status": "open",
     "number": 17,
     "title": "docs: add Javadoc/JSDoc-style tags to functions across codebase",
     "user": "havaianasdestruido",
@@ -37,6 +24,19 @@
     "head_branch": "fix-broken-workflows-451876394576674102",
     "commit_count": 4,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/14"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "closed",
+    "status": "merged",
+    "number": 18,
+    "title": "fix(ci): disable hxcpp LTO for Android",
+    "user": "havaianasdestruido",
+    "created_at": "2026-09-22T01:00:36Z",
+    "base_branch": "main",
+    "head_branch": "codex/fix-undefined-symbol-linker-error",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/18"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -260,6 +260,19 @@
     "url": "https://github.com/havaianasdestruido/hemorroidabot/pull/1"
   },
   {
+    "repo": "PersonaDB",
+    "state": "open",
+    "status": "open",
+    "number": 1,
+    "title": "Add deterministic generation pipeline, validators, CI, and docs",
+    "user": "havaianasdestruido",
+    "created_at": "2026-09-24T12:44:59Z",
+    "base_branch": "main",
+    "head_branch": "codex/finalize-remaining-work-to-100%",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/PersonaDB/pull/1"
+  },
+  {
     "repo": "pong-pop",
     "state": "closed",
     "status": "merged",
@@ -297,6 +310,19 @@
     "head_branch": "codex/create-pong-game-with-popup-windows",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/pong-pop/pull/1"
+  },
+  {
+    "repo": "art_radar",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Rewrite the radar for creative coding & generative art (en/pt/zh)",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-24T12:21:08Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0d34e-art-radar",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/art_radar/pull/1"
   },
   {
     "repo": "AudioTaste",

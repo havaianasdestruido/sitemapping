@@ -96,6 +96,22 @@
     "url": "https://github.com/havaianasdestruido/PatoCraft/tree/main"
   },
   {
+    "repo": "PersonaDB",
+    "name": "codex/finalize-remaining-work-to-100%",
+    "head_sha": "4ec345a922409f39ba7b19c272e31f86955b9ef5",
+    "head_sha_short": "4ec345a",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/PersonaDB/tree/codex/finalize-remaining-work-to-100%"
+  },
+  {
+    "repo": "PersonaDB",
+    "name": "main",
+    "head_sha": "83ecbe73cdc1d91729a1ed981e44f23f4dcb69db",
+    "head_sha_short": "83ecbe7",
+    "is_default": true,
+    "url": "https://github.com/havaianasdestruido/PersonaDB/tree/main"
+  },
+  {
     "repo": "pong-pop",
     "name": "codex/atualizar-texto-do-botao-ao-iniciar-o-jogo",
     "head_sha": "0b452305acfc9acbde3097a56f397fe7e0de921f",
@@ -138,16 +154,16 @@
   {
     "repo": "sitemapping",
     "name": "main",
-    "head_sha": "a8e4529d4fa9649884d9541e5ab69f406f2cc34b",
-    "head_sha_short": "a8e4529",
+    "head_sha": "c29dfaa4905a7cdc016d9ca02ea0829491321e44",
+    "head_sha_short": "c29dfaa",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/sitemapping/tree/main"
   },
   {
     "repo": "top100",
     "name": "main",
-    "head_sha": "6e55d3e3a65c00aaf8449fb77a0283983e8762bc",
-    "head_sha_short": "6e55d3e",
+    "head_sha": "4d68ad077ca28680ef1b0d362d2f8451718833ea",
+    "head_sha_short": "4d68ad0",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/top100/tree/main"
   },
@@ -166,6 +182,22 @@
     "head_sha_short": "0a834f5",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/apkdecomp-skill/tree/main"
+  },
+  {
+    "repo": "art_radar",
+    "name": "arena/01a0d34e-art-radar",
+    "head_sha": "0214345b46c0a282083f5fdf571dbedbef86126d",
+    "head_sha_short": "0214345",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/art_radar/tree/arena/01a0d34e-art-radar"
+  },
+  {
+    "repo": "art_radar",
+    "name": "main",
+    "head_sha": "a50bfe3d11c6a0ae6af25a1223fc71be73b01d36",
+    "head_sha_short": "a50bfe3",
+    "is_default": true,
+    "url": "https://github.com/havaianasdestruido/art_radar/tree/main"
   },
   {
     "repo": "AudioTaste",
@@ -354,8 +386,8 @@
   {
     "repo": "havaianasdestruido.github.io",
     "name": "main",
-    "head_sha": "6a45a683bc8603282f3340c423088438c9ecf3ff",
-    "head_sha_short": "6a45a68",
+    "head_sha": "358146ac4c24d565ed893dc77cf69fbcd6fc7c2e",
+    "head_sha_short": "358146a",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/tree/main"
   },
@@ -582,14 +614,6 @@
     "head_sha_short": "397825f",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/orelha/tree/main"
-  },
-  {
-    "repo": "PersonaDB",
-    "name": "main",
-    "head_sha": "83ecbe73cdc1d91729a1ed981e44f23f4dcb69db",
-    "head_sha_short": "83ecbe7",
-    "is_default": true,
-    "url": "https://github.com/havaianasdestruido/PersonaDB/tree/main"
   },
   {
     "repo": "photoviewer",

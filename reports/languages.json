@@ -96,6 +96,18 @@
     "percent": 0.0
   },
   {
+    "repo": "PersonaDB",
+    "language": "Python",
+    "bytes": 198533,
+    "percent": 84.1
+  },
+  {
+    "repo": "PersonaDB",
+    "language": "PLpgSQL",
+    "bytes": 37426,
+    "percent": 15.9
+  },
+  {
     "repo": "pong-pop",
     "language": "JavaScript",
     "bytes": 7570,
@@ -136,6 +148,24 @@
     "language": "Python",
     "bytes": 9510,
     "percent": 100.0
+  },
+  {
+    "repo": "art_radar",
+    "language": "TypeScript",
+    "bytes": 223521,
+    "percent": 89.0
+  },
+  {
+    "repo": "art_radar",
+    "language": "HTML",
+    "bytes": 26809,
+    "percent": 10.7
+  },
+  {
+    "repo": "art_radar",
+    "language": "JavaScript",
+    "bytes": 835,
+    "percent": 0.3
   },
   {
     "repo": "AudioTaste",
@@ -326,7 +356,7 @@
   {
     "repo": "havaianasdestruido.github.io",
     "language": "HTML",
-    "bytes": 372,
+    "bytes": 4053,
     "percent": 100.0
   },
   {
@@ -574,18 +604,6 @@
     "language": "HTML",
     "bytes": 35529,
     "percent": 100.0
-  },
-  {
-    "repo": "PersonaDB",
-    "language": "Python",
-    "bytes": 198533,
-    "percent": 84.1
-  },
-  {
-    "repo": "PersonaDB",
-    "language": "PLpgSQL",
-    "bytes": 37426,
-    "percent": 15.9
   },
   {
     "repo": "photoviewer",

@@ -1,14 +1,6 @@
 [
   {
     "repo": "FNF-Phoenix-Engine",
-    "pr_number": 18,
-    "sha": "c603b0035227e6dfc0f18910b2623bbc63ac6fb1",
-    "sha_short": "c603b00",
-    "message": "fix(ci): disable hxcpp LTO for Android",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c603b0035227e6dfc0f18910b2623bbc63ac6fb1"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
     "pr_number": 17,
     "sha": "af09202348924912353fa6aaa9970e140436a925",
     "sha_short": "af09202",
@@ -54,6 +46,14 @@
     "sha_short": "f76f7fe",
     "message": "fix: repair broken GitHub Actions workflows and Android build compilation issues",
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f76f7fea749db8c1434656c779d714e4884d6d5e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 18,
+    "sha": "c603b0035227e6dfc0f18910b2623bbc63ac6fb1",
+    "sha_short": "c603b00",
+    "message": "fix(ci): disable hxcpp LTO for Android",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c603b0035227e6dfc0f18910b2623bbc63ac6fb1"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -416,6 +416,22 @@
     "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/01192ecb6b21eab290172910a228fdfde0c1321a"
   },
   {
+    "repo": "PersonaDB",
+    "pr_number": 1,
+    "sha": "425af85dc6162210ee0902889f905ab89c9591a1",
+    "sha_short": "425af85",
+    "message": "Add deterministic generation pipeline tooling",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/425af85dc6162210ee0902889f905ab89c9591a1"
+  },
+  {
+    "repo": "PersonaDB",
+    "pr_number": 1,
+    "sha": "4ec345a922409f39ba7b19c272e31f86955b9ef5",
+    "sha_short": "4ec345a",
+    "message": "Add docstrings for dataset generation, benchmarking, and validation",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/4ec345a922409f39ba7b19c272e31f86955b9ef5"
+  },
+  {
     "repo": "pong-pop",
     "pr_number": 3,
     "sha": "0b452305acfc9acbde3097a56f397fe7e0de921f",
@@ -438,6 +454,22 @@
     "sha_short": "ebce1a9",
     "message": "Create popup window Pong game",
     "url": "https://github.com/havaianasdestruido/pong-pop/commit/ebce1a99b0c8c9c21ffd5527c3b589af2b134f73"
+  },
+  {
+    "repo": "art_radar",
+    "pr_number": 1,
+    "sha": "56e35f40c0385e5afb0522cdc1676fcd78dd7272",
+    "sha_short": "56e35f4",
+    "message": "Rewrite the radar for creative coding & generative art (en/pt/zh)",
+    "url": "https://github.com/havaianasdestruido/art_radar/commit/56e35f40c0385e5afb0522cdc1676fcd78dd7272"
+  },
+  {
+    "repo": "art_radar",
+    "pr_number": 1,
+    "sha": "0214345b46c0a282083f5fdf571dbedbef86126d",
+    "sha_short": "0214345",
+    "message": "Format with the lockfile-pinned prettier 3.8.1",
+    "url": "https://github.com/havaianasdestruido/art_radar/commit/0214345b46c0a282083f5fdf571dbedbef86126d"
   },
   {
     "repo": "AudioTaste",
