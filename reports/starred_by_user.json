@@ -1,5 +1,20 @@
 [
   {
+    "full_name": "aboualavong/rush-brainrot",
+    "url": "https://github.com/aboualavong/rush-brainrot",
+    "description": ""
+  },
+  {
+    "full_name": "words/profanities",
+    "url": "https://github.com/words/profanities",
+    "description": "🤬 List of (possible) profane words"
+  },
+  {
+    "full_name": "DanielNorstrom/TwitchChatModerationHelper",
+    "url": "https://github.com/DanielNorstrom/TwitchChatModerationHelper",
+    "description": ""
+  },
+  {
     "full_name": "browser-use/jev-ultrafast",
     "url": "https://github.com/browser-use/jev-ultrafast",
     "description": "Fastest and cheapest web agent"
