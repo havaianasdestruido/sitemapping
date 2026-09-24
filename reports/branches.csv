@@ -18,8 +18,8 @@ pong-pop,codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola,796d5c1f8434666fa
 pong-pop,codex/create-pong-game-with-popup-windows,ebce1a99b0c8c9c21ffd5527c3b589af2b134f73,ebce1a9,False,https://github.com/havaianasdestruido/pong-pop/tree/codex/create-pong-game-with-popup-windows
 pong-pop,main,b990a2b0aa98f321f656e80add22ea572c0d39e6,b990a2b,True,https://github.com/havaianasdestruido/pong-pop/tree/main
 PrintSpoolerAutoRun,main,2c118e7fe1cbbbc466ae66b77302e6c53458554b,2c118e7,True,https://github.com/havaianasdestruido/PrintSpoolerAutoRun/tree/main
-sitemapping,main,c29dfaa4905a7cdc016d9ca02ea0829491321e44,c29dfaa,True,https://github.com/havaianasdestruido/sitemapping/tree/main
-top100,main,4d68ad077ca28680ef1b0d362d2f8451718833ea,4d68ad0,True,https://github.com/havaianasdestruido/top100/tree/main
+sitemapping,main,69cf6e39772ab77d1bba35bbda5c600b243bd532,69cf6e3,True,https://github.com/havaianasdestruido/sitemapping/tree/main
+top100,main,c7fdf180ccd7181ec2bbc2e6c82d75ddf7bbe90e,c7fdf18,True,https://github.com/havaianasdestruido/top100/tree/main
 .github,main,98067372e2165ae5a53865c55789585284f27096,9806737,True,https://github.com/havaianasdestruido/.github/tree/main
 apkdecomp-skill,main,0a834f5913fcfa5a5eca3ca02979632f73db8397,0a834f5,True,https://github.com/havaianasdestruido/apkdecomp-skill/tree/main
 art_radar,arena/01a0d34e-art-radar,0214345b46c0a282083f5fdf571dbedbef86126d,0214345,False,https://github.com/havaianasdestruido/art_radar/tree/arena/01a0d34e-art-radar
@@ -54,6 +54,8 @@ hxluau,main,4a1c4a0d1e5944c7e09f096dc173e86c75572d27,4a1c4a0,True,https://github
 ImaturidadePlusPlus,main,a27ddc2275be7d91ee0d81f82b6a2d35aaa9ce18,a27ddc2,True,https://github.com/havaianasdestruido/ImaturidadePlusPlus/tree/main
 ImgBotAutomerger,main,32d004f5b014c24713202b581dc10392d283ec1e,32d004f,True,https://github.com/havaianasdestruido/ImgBotAutomerger/tree/main
 ImgBotTools,main,89b07a1803d54d370008e555ede355e3618fe54d,89b07a1,True,https://github.com/havaianasdestruido/ImgBotTools/tree/main
+KaukaMed,arena/01a0d464-kaukamed,4d79b63a9f743fe2f9136d0c95bde82eaa84ba94,4d79b63,False,https://github.com/havaianasdestruido/KaukaMed/tree/arena/01a0d464-kaukamed
+KaukaMed,main,25d92698b20351025e2e42e8ab2b26cb1e0c84bf,25d9269,True,https://github.com/havaianasdestruido/KaukaMed/tree/main
 lastfm-to-csv-unicode,fix/csv-utf8-bom-and-escaping,08efd3faa5a5ed23ffaf6699cf19250ff868c064,08efd3f,False,https://github.com/havaianasdestruido/lastfm-to-csv-unicode/tree/fix/csv-utf8-bom-and-escaping
 lastfm-to-csv-unicode,main,0d3c3827b38a34ae8ffb7860f134c8a481b08299,0d3c382,True,https://github.com/havaianasdestruido/lastfm-to-csv-unicode/tree/main
 manimce-claude,main,a2acf4488dda41177d6bbd7dfed96d3e2da9231d,a2acf44,True,https://github.com/havaianasdestruido/manimce-claude/tree/main

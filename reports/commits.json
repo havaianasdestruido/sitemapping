@@ -4082,6 +4082,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "69cf6e39772ab77d1bba35bbda5c600b243bd532",
+    "sha_short": "69cf6e3",
+    "author": "GitHub Action Bot",
+    "date": "2026-09-24T16:13:47Z",
+    "message": "📊 [2026-09-24 16:13:47 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/69cf6e39772ab77d1bba35bbda5c600b243bd532"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "c29dfaa4905a7cdc016d9ca02ea0829491321e44",
     "sha_short": "c29dfaa",
     "author": "GitHub Action Bot",
@@ -4172,12 +4182,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "3cb0548354a1737c223002715994438a4a991cd0",
-    "sha_short": "3cb0548",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-22T16:01:58Z",
-    "message": "📊 [2026-09-22 16:01:58 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/3cb0548354a1737c223002715994438a4a991cd0"
+    "sha": "531d02779db6101779fe4b134f5600cbc01283ac",
+    "sha_short": "531d027",
+    "author": "Pato (new acc)",
+    "date": "2026-09-19T14:43:24Z",
+    "message": "Adjust max commit pages and enhance error handling",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/531d02779db6101779fe4b134f5600cbc01283ac"
   },
   {
     "repo": "sitemapping",
@@ -4270,14 +4280,24 @@
     "url": "https://github.com/havaianasdestruido/sitemapping/commit/1017217c1004225c81bce86fd0c950cc45a407b0"
   },
   {
-    "repo": "sitemapping",
+    "repo": "top100",
     "branch": "main",
-    "sha": "518e02b945a9029fd85e3cedcbb1353d8b93587b",
-    "sha_short": "518e02b",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-15T03:58:06Z",
-    "message": "📊 Update repository report [2026-09-15 03:58:06 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/518e02b945a9029fd85e3cedcbb1353d8b93587b"
+    "sha": "c7fdf180ccd7181ec2bbc2e6c82d75ddf7bbe90e",
+    "sha_short": "c7fdf18",
+    "author": "github-actions[bot]",
+    "date": "2026-09-24T22:46:18Z",
+    "message": "data: update top repos data (2026-09-24)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/c7fdf180ccd7181ec2bbc2e6c82d75ddf7bbe90e"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "c77c725e036073ecc4b785a94f9a9a791731f561",
+    "sha_short": "c77c725",
+    "author": "github-actions[bot]",
+    "date": "2026-09-24T19:33:27Z",
+    "message": "data: update top repos data (2026-09-24)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/c77c725e036073ecc4b785a94f9a9a791731f561"
   },
   {
     "repo": "top100",
@@ -4362,22 +4382,22 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "fbe62e6ed1eb5fecc4397c5402c5c26e6e635888",
-    "sha_short": "fbe62e6",
-    "author": "github-actions[bot]",
-    "date": "2026-09-23T02:00:52Z",
-    "message": "data: update top repos data (2026-09-23)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/fbe62e6ed1eb5fecc4397c5402c5c26e6e635888"
+    "sha": "89733e0187ff2f7ebe1a3ea347ff69de3560b9c9",
+    "sha_short": "89733e0",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:55:17Z",
+    "message": "Add push trigger for main branch in workflow",
+    "url": "https://github.com/havaianasdestruido/top100/commit/89733e0187ff2f7ebe1a3ea347ff69de3560b9c9"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "a00f89773edcb92b1c5609042b68dc1e18fd48aa",
-    "sha_short": "a00f897",
-    "author": "github-actions[bot]",
-    "date": "2026-09-22T23:20:22Z",
-    "message": "data: update top repos data (2026-09-22)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/a00f89773edcb92b1c5609042b68dc1e18fd48aa"
+    "sha": "2723f0f56f61ee64dcf59100cf8524c93769b885",
+    "sha_short": "2723f0f",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:54:16Z",
+    "message": "Update cron schedule to run every hour",
+    "url": "https://github.com/havaianasdestruido/top100/commit/2723f0f56f61ee64dcf59100cf8524c93769b885"
   },
   {
     "repo": "top100",
@@ -4458,26 +4478,6 @@
     "date": "2026-09-20T19:30:38Z",
     "message": "Update README.md",
     "url": "https://github.com/havaianasdestruido/top100/commit/561c435d2d0d47b21f215793638b764fe71d2ef7"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "0207851c9a298ca56a09326f975248ed5d0f867a",
-    "sha_short": "0207851",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:29:46Z",
-    "message": "Create README.md",
-    "url": "https://github.com/havaianasdestruido/top100/commit/0207851c9a298ca56a09326f975248ed5d0f867a"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "84283a8fd730a005d486bd2ea20ee6980b965ed7",
-    "sha_short": "84283a8",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:28:02Z",
-    "message": "Rename fetch_top_repos.py to fetch_top_repos.py",
-    "url": "https://github.com/havaianasdestruido/top100/commit/84283a8fd730a005d486bd2ea20ee6980b965ed7"
   },
   {
     "repo": ".github",
@@ -10918,6 +10918,206 @@
     "date": "2026-09-21T01:12:10Z",
     "message": "Initial commit",
     "url": "https://github.com/havaianasdestruido/ImgBotTools/commit/8a5f1cb0d8a03d82a3d3e8cdf505b4b28ab452db"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0d464-kaukamed",
+    "sha": "4d79b63a9f743fe2f9136d0c95bde82eaa84ba94",
+    "sha_short": "4d79b63",
+    "author": "morelloettore",
+    "date": "2026-09-24T17:22:21Z",
+    "message": "fix(api): corrige injeção de dependência e execução do ESLint por pacote",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/4d79b63a9f743fe2f9136d0c95bde82eaa84ba94"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0d464-kaukamed",
+    "sha": "6deac5505f7a5a2b55d2131b2036a86d3f3f21b4",
+    "sha_short": "6deac55",
+    "author": "morelloettore",
+    "date": "2026-09-24T17:19:42Z",
+    "message": "docs: marca a Phase 0 como concluída e atualiza o status do projeto",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/6deac5505f7a5a2b55d2131b2036a86d3f3f21b4"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0d464-kaukamed",
+    "sha": "7d306155d5da9b37dab4b57f476cd8deee096807",
+    "sha_short": "7d30615",
+    "author": "morelloettore",
+    "date": "2026-09-24T17:19:06Z",
+    "message": "chore(docker): adiciona Docker Compose com PostgreSQL e Redis para dev local",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/7d306155d5da9b37dab4b57f476cd8deee096807"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0d464-kaukamed",
+    "sha": "52d1c76139eab0a989925c774ed33817ccc67967",
+    "sha_short": "52d1c76",
+    "author": "morelloettore",
+    "date": "2026-09-24T17:17:50Z",
+    "message": "chore(env): configura variáveis de ambiente por ambiente",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/52d1c76139eab0a989925c774ed33817ccc67967"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0d464-kaukamed",
+    "sha": "10f76d7392206fabef104b2a471ed7bc5ee975fa",
+    "sha_short": "10f76d7",
+    "author": "morelloettore",
+    "date": "2026-09-24T17:16:27Z",
+    "message": "chore(qualidade): configura ESLint, Prettier, Husky e lint-staged",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/10f76d7392206fabef104b2a471ed7bc5ee975fa"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0d464-kaukamed",
+    "sha": "5dc29f9c82e94057eba5ecebcf059a6a17ad592c",
+    "sha_short": "5dc29f9",
+    "author": "morelloettore",
+    "date": "2026-09-24T17:14:38Z",
+    "message": "feat(shared): adiciona pacote de tipos compartilhados entre web e api",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/5dc29f9c82e94057eba5ecebcf059a6a17ad592c"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0d464-kaukamed",
+    "sha": "02ed2186405a5f5e5d56f01e8fd06e1504bc17d2",
+    "sha_short": "02ed218",
+    "author": "morelloettore",
+    "date": "2026-09-24T17:13:42Z",
+    "message": "chore(setup): inicializa monorepo com npm workspaces e apps api/web",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/02ed2186405a5f5e5d56f01e8fd06e1504bc17d2"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0d464-kaukamed",
+    "sha": "98e0ffccd655da69c2d62c1ecc1a9e8685d501c5",
+    "sha_short": "98e0ffc",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-24T17:04:41Z",
+    "message": "tarefas quebradas",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/98e0ffccd655da69c2d62c1ecc1a9e8685d501c5"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0d464-kaukamed",
+    "sha": "6633d88ad98e0bc6f2019896883adad7d0d97892",
+    "sha_short": "6633d88",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-24T17:01:50Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/6633d88ad98e0bc6f2019896883adad7d0d97892"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0d464-kaukamed",
+    "sha": "b089cd2bdc526123e496708bab972bcc13d51891",
+    "sha_short": "b089cd2",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-24T17:01:39Z",
+    "message": "Create readme.txt",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/b089cd2bdc526123e496708bab972bcc13d51891"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "main",
+    "sha": "25d92698b20351025e2e42e8ab2b26cb1e0c84bf",
+    "sha_short": "25d9269",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-24T17:41:02Z",
+    "message": "fix with markdown",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/25d92698b20351025e2e42e8ab2b26cb1e0c84bf"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "main",
+    "sha": "11b2cfac48230759b2f2fb3e38c357159dbd4b76",
+    "sha_short": "11b2cfa",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-24T17:40:12Z",
+    "message": "Revise TODO.md with updated project plan and phases",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/11b2cfac48230759b2f2fb3e38c357159dbd4b76"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "main",
+    "sha": "ca965453727c2c815e700d2c11d2c0eb752687fb",
+    "sha_short": "ca96545",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-24T17:34:26Z",
+    "message": "Create TASKS.md",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/ca965453727c2c815e700d2c11d2c0eb752687fb"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "main",
+    "sha": "7445db9f0f378cf7539af067e25a42af01a8d1e4",
+    "sha_short": "7445db9",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-24T17:26:34Z",
+    "message": "Merge pull request #1: Phase 0 — setup do projeto",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/7445db9f0f378cf7539af067e25a42af01a8d1e4"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "main",
+    "sha": "4d79b63a9f743fe2f9136d0c95bde82eaa84ba94",
+    "sha_short": "4d79b63",
+    "author": "morelloettore",
+    "date": "2026-09-24T17:22:21Z",
+    "message": "fix(api): corrige injeção de dependência e execução do ESLint por pacote",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/4d79b63a9f743fe2f9136d0c95bde82eaa84ba94"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "main",
+    "sha": "6deac5505f7a5a2b55d2131b2036a86d3f3f21b4",
+    "sha_short": "6deac55",
+    "author": "morelloettore",
+    "date": "2026-09-24T17:19:42Z",
+    "message": "docs: marca a Phase 0 como concluída e atualiza o status do projeto",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/6deac5505f7a5a2b55d2131b2036a86d3f3f21b4"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "main",
+    "sha": "7d306155d5da9b37dab4b57f476cd8deee096807",
+    "sha_short": "7d30615",
+    "author": "morelloettore",
+    "date": "2026-09-24T17:19:06Z",
+    "message": "chore(docker): adiciona Docker Compose com PostgreSQL e Redis para dev local",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/7d306155d5da9b37dab4b57f476cd8deee096807"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "main",
+    "sha": "52d1c76139eab0a989925c774ed33817ccc67967",
+    "sha_short": "52d1c76",
+    "author": "morelloettore",
+    "date": "2026-09-24T17:17:50Z",
+    "message": "chore(env): configura variáveis de ambiente por ambiente",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/52d1c76139eab0a989925c774ed33817ccc67967"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "main",
+    "sha": "10f76d7392206fabef104b2a471ed7bc5ee975fa",
+    "sha_short": "10f76d7",
+    "author": "morelloettore",
+    "date": "2026-09-24T17:16:27Z",
+    "message": "chore(qualidade): configura ESLint, Prettier, Husky e lint-staged",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/10f76d7392206fabef104b2a471ed7bc5ee975fa"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "main",
+    "sha": "5dc29f9c82e94057eba5ecebcf059a6a17ad592c",
+    "sha_short": "5dc29f9",
+    "author": "morelloettore",
+    "date": "2026-09-24T17:14:38Z",
+    "message": "feat(shared): adiciona pacote de tipos compartilhados entre web e api",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/5dc29f9c82e94057eba5ecebcf059a6a17ad592c"
   },
   {
     "repo": "lastfm-to-csv-unicode",

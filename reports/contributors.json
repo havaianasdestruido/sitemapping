@@ -224,7 +224,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 34,
+    "contributions": 35,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -236,7 +236,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 31,
+    "contributions": 33,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -1150,6 +1150,24 @@
     "login": "havaianasdestruido",
     "contributions": 5,
     "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "KaukaMed",
+    "login": "havaianasdestruido",
+    "contributions": 8,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "KaukaMed",
+    "login": "morelloettore",
+    "contributions": 7,
+    "profile_url": "https://github.com/morelloettore"
+  },
+  {
+    "repo": "KaukaMed",
+    "login": "arena-ai-coding-agent[bot]",
+    "contributions": 1,
+    "profile_url": "https://github.com/apps/arena-ai-coding-agent"
   },
   {
     "repo": "lastfm-to-csv-unicode",

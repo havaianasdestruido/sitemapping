@@ -480,6 +480,30 @@
     "percent": 100.0
   },
   {
+    "repo": "KaukaMed",
+    "language": "PLpgSQL",
+    "bytes": 21380,
+    "percent": 46.7
+  },
+  {
+    "repo": "KaukaMed",
+    "language": "TypeScript",
+    "bytes": 15891,
+    "percent": 34.7
+  },
+  {
+    "repo": "KaukaMed",
+    "language": "JavaScript",
+    "bytes": 6363,
+    "percent": 13.9
+  },
+  {
+    "repo": "KaukaMed",
+    "language": "CSS",
+    "bytes": 2174,
+    "percent": 4.7
+  },
+  {
     "repo": "lastfm-to-csv-unicode",
     "language": "JavaScript",
     "bytes": 359011,

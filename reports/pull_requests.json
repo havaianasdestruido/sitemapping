@@ -481,6 +481,19 @@
     "url": "https://github.com/havaianasdestruido/gitgithub/pull/1"
   },
   {
+    "repo": "KaukaMed",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Phase 0 — setup do monorepo, tipos compartilhados, qualidade e infraestrutura local",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-24T17:24:48Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0d464-kaukamed",
+    "commit_count": 7,
+    "url": "https://github.com/havaianasdestruido/KaukaMed/pull/1"
+  },
+  {
     "repo": "OdontoAura",
     "state": "open",
     "status": "open",

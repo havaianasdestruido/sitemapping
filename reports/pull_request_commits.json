@@ -576,6 +576,46 @@
     "url": "https://github.com/havaianasdestruido/gitgithub/commit/7b5cb88ce47a6367a08c9edcfa140e6c9022d068"
   },
   {
+    "repo": "KaukaMed",
+    "pr_number": 1,
+    "sha": "02ed2186405a5f5e5d56f01e8fd06e1504bc17d2",
+    "sha_short": "02ed218",
+    "message": "chore(setup): inicializa monorepo com npm workspaces e apps api/web",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/02ed2186405a5f5e5d56f01e8fd06e1504bc17d2"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 1,
+    "sha": "5dc29f9c82e94057eba5ecebcf059a6a17ad592c",
+    "sha_short": "5dc29f9",
+    "message": "feat(shared): adiciona pacote de tipos compartilhados entre web e api",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/5dc29f9c82e94057eba5ecebcf059a6a17ad592c"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 1,
+    "sha": "10f76d7392206fabef104b2a471ed7bc5ee975fa",
+    "sha_short": "10f76d7",
+    "message": "chore(qualidade): configura ESLint, Prettier, Husky e lint-staged",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/10f76d7392206fabef104b2a471ed7bc5ee975fa"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 1,
+    "sha": "52d1c76139eab0a989925c774ed33817ccc67967",
+    "sha_short": "52d1c76",
+    "message": "chore(env): configura variáveis de ambiente por ambiente",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/52d1c76139eab0a989925c774ed33817ccc67967"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 1,
+    "sha": "7d306155d5da9b37dab4b57f476cd8deee096807",
+    "sha_short": "7d30615",
+    "message": "chore(docker): adiciona Docker Compose com PostgreSQL e Redis para dev local",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/7d306155d5da9b37dab4b57f476cd8deee096807"
+  },
+  {
     "repo": "OdontoAura",
     "pr_number": 70,
     "sha": "504f8611c19fda7902be3cf4b70a61d55ec937d9",
