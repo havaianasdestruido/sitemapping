@@ -98,14 +98,20 @@
   {
     "repo": "PersonaDB",
     "language": "Python",
-    "bytes": 198533,
-    "percent": 84.1
+    "bytes": 208165,
+    "percent": 84.4
   },
   {
     "repo": "PersonaDB",
     "language": "PLpgSQL",
     "bytes": 37426,
-    "percent": 15.9
+    "percent": 15.2
+  },
+  {
+    "repo": "PersonaDB",
+    "language": "Makefile",
+    "bytes": 1029,
+    "percent": 0.4
   },
   {
     "repo": "pong-pop",
@@ -477,6 +483,12 @@
     "repo": "ImgBotTools",
     "language": "Shell",
     "bytes": 7209,
+    "percent": 100.0
+  },
+  {
+    "repo": "imgrep",
+    "language": "HTML",
+    "bytes": 4133,
     "percent": 100.0
   },
   {

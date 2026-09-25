@@ -3,6 +3,19 @@
     "repo": "FNF-Phoenix-Engine",
     "state": "open",
     "status": "open",
+    "number": 19,
+    "title": "fix: point Android artifact uploads at the debug APK flavor",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-25T16:56:17Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0d978-fnf-phoenix-engine",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/19"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "open",
+    "status": "open",
     "number": 17,
     "title": "docs: add Javadoc/JSDoc-style tags to functions across codebase",
     "user": "havaianasdestruido",
@@ -261,8 +274,8 @@
   },
   {
     "repo": "PersonaDB",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 1,
     "title": "Add deterministic generation pipeline, validators, CI, and docs",
     "user": "havaianasdestruido",
@@ -479,6 +492,19 @@
     "head_branch": "add-git-installation-tutorials-17541894421943877497",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/gitgithub/pull/1"
+  },
+  {
+    "repo": "KaukaMed",
+    "state": "open",
+    "status": "open",
+    "number": 2,
+    "title": "feat(web): front-end OdontoAura (Vite + React) ligado ao Supabase",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-25T16:33:19Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0d488-kaukamed",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/KaukaMed/pull/2"
   },
   {
     "repo": "KaukaMed",

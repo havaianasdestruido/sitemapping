@@ -1,4 +1,5 @@
 repo,pr_number,sha,sha_short,message,url
+FNF-Phoenix-Engine,19,b86002c7a1ca0b9ec8c7607ef16ffc3715637ffa,b86002c,fix: point Android artifact uploads at the debug APK flavor,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b86002c7a1ca0b9ec8c7607ef16ffc3715637ffa
 FNF-Phoenix-Engine,17,af09202348924912353fa6aaa9970e140436a925,af09202,docs: document function interfaces,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/af09202348924912353fa6aaa9970e140436a925
 FNF-Phoenix-Engine,17,b03cf22250bd457423560ee614e80895ada78b16,b03cf22,Merge branch 'main' into codex/add-javadoc/jsdoc-tags-to-functions,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b03cf22250bd457423560ee614e80895ada78b16
 FNF-Phoenix-Engine,14,7701ed8e5530a6192de386e5244cb8d370332f1d,7701ed8,fix: repair broken GitHub Actions workflows,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7701ed8e5530a6192de386e5244cb8d370332f1d
@@ -71,6 +72,8 @@ gitgithub,3,b5da76343c699ed5fc1917bcfbcfbc130673b80d,b5da763,docs: expand TBA se
 gitgithub,2,e2d1aa0b8786d369da48008c09c5c4a8a8ad0870,e2d1aa0,fix: correcao de gramatica e ortografia no README.MD,https://github.com/havaianasdestruido/gitgithub/commit/e2d1aa0b8786d369da48008c09c5c4a8a8ad0870
 gitgithub,2,74f7000ead8f6de310681dbf5279c36914149d55,74f7000,Merge branch 'main' into fix-readme-grammar-9987866976443268935,https://github.com/havaianasdestruido/gitgithub/commit/74f7000ead8f6de310681dbf5279c36914149d55
 gitgithub,1,7b5cb88ce47a6367a08c9edcfa140e6c9022d068,7b5cb88,docs: add Git installation tutorials for OS platforms,https://github.com/havaianasdestruido/gitgithub/commit/7b5cb88ce47a6367a08c9edcfa140e6c9022d068
+KaukaMed,2,aaa20a96d1582ff11508d38f6f2ccc14670e01a7,aaa20a9,feat(web): substitui esqueleto Next.js pelo front-end OdontoAura (Vite + React) ligado ao Supabase,https://github.com/havaianasdestruido/KaukaMed/commit/aaa20a96d1582ff11508d38f6f2ccc14670e01a7
+KaukaMed,2,0d7603161b8e5104d1d6779f7a3145e10bb10b29,0d76031,Fix CodeRabbit issues in PR #2,https://github.com/havaianasdestruido/KaukaMed/commit/0d7603161b8e5104d1d6779f7a3145e10bb10b29
 KaukaMed,1,02ed2186405a5f5e5d56f01e8fd06e1504bc17d2,02ed218,chore(setup): inicializa monorepo com npm workspaces e apps api/web,https://github.com/havaianasdestruido/KaukaMed/commit/02ed2186405a5f5e5d56f01e8fd06e1504bc17d2
 KaukaMed,1,5dc29f9c82e94057eba5ecebcf059a6a17ad592c,5dc29f9,feat(shared): adiciona pacote de tipos compartilhados entre web e api,https://github.com/havaianasdestruido/KaukaMed/commit/5dc29f9c82e94057eba5ecebcf059a6a17ad592c
 KaukaMed,1,10f76d7392206fabef104b2a471ed7bc5ee975fa,10f76d7,"chore(qualidade): configura ESLint, Prettier, Husky e lint-staged",https://github.com/havaianasdestruido/KaukaMed/commit/10f76d7392206fabef104b2a471ed7bc5ee975fa

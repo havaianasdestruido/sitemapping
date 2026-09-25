@@ -14,8 +14,9 @@
 {"repo": "PatoCraft", "language": "JavaScript", "bytes": 23356, "percent": 0.1}
 {"repo": "PatoCraft", "language": "Python", "bytes": 4869, "percent": 0.0}
 {"repo": "PatoCraft", "language": "Batchfile", "bytes": 867, "percent": 0.0}
-{"repo": "PersonaDB", "language": "Python", "bytes": 198533, "percent": 84.1}
-{"repo": "PersonaDB", "language": "PLpgSQL", "bytes": 37426, "percent": 15.9}
+{"repo": "PersonaDB", "language": "Python", "bytes": 208165, "percent": 84.4}
+{"repo": "PersonaDB", "language": "PLpgSQL", "bytes": 37426, "percent": 15.2}
+{"repo": "PersonaDB", "language": "Makefile", "bytes": 1029, "percent": 0.4}
 {"repo": "pong-pop", "language": "JavaScript", "bytes": 7570, "percent": 78.3}
 {"repo": "pong-pop", "language": "HTML", "bytes": 1413, "percent": 14.6}
 {"repo": "pong-pop", "language": "CSS", "bytes": 687, "percent": 7.1}
@@ -78,6 +79,7 @@
 {"repo": "ImaturidadePlusPlus", "language": "Rich Text Format", "bytes": 14, "percent": 0.0}
 {"repo": "ImgBotAutomerger", "language": "PowerShell", "bytes": 893, "percent": 100.0}
 {"repo": "ImgBotTools", "language": "Shell", "bytes": 7209, "percent": 100.0}
+{"repo": "imgrep", "language": "HTML", "bytes": 4133, "percent": 100.0}
 {"repo": "KaukaMed", "language": "PLpgSQL", "bytes": 21380, "percent": 46.7}
 {"repo": "KaukaMed", "language": "TypeScript", "bytes": 15891, "percent": 34.7}
 {"repo": "KaukaMed", "language": "JavaScript", "bytes": 6363, "percent": 13.9}

@@ -206,8 +206,14 @@
   {
     "repo": "PersonaDB",
     "login": "havaianasdestruido",
-    "contributions": 6,
+    "contributions": 8,
     "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "PersonaDB",
+    "login": "coderabbitai[bot]",
+    "contributions": 1,
+    "profile_url": "https://github.com/apps/coderabbitai"
   },
   {
     "repo": "pong-pop",
@@ -224,7 +230,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 38,
+    "contributions": 39,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -236,7 +242,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 37,
+    "contributions": 39,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -1152,6 +1158,12 @@
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
+    "repo": "imgrep",
+    "login": "havaianasdestruido",
+    "contributions": 5,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
     "repo": "KaukaMed",
     "login": "havaianasdestruido",
     "contributions": 8,
@@ -1160,7 +1172,7 @@
   {
     "repo": "KaukaMed",
     "login": "morelloettore",
-    "contributions": 7,
+    "contributions": 8,
     "profile_url": "https://github.com/morelloettore"
   },
   {

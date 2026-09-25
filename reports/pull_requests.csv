@@ -1,4 +1,5 @@
 repo,state,status,number,title,user,created_at,base_branch,head_branch,commit_count,url
+FNF-Phoenix-Engine,open,open,19,fix: point Android artifact uploads at the debug APK flavor,arena-ai-coding-agent[bot],2026-09-25T16:56:17Z,main,arena/01a0d978-fnf-phoenix-engine,1,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/19
 FNF-Phoenix-Engine,open,open,17,docs: add Javadoc/JSDoc-style tags to functions across codebase,havaianasdestruido,2026-09-22T00:55:45Z,main,codex/add-javadoc/jsdoc-tags-to-functions,2,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/17
 FNF-Phoenix-Engine,open,open,14,fix: repair broken GitHub Actions workflows,havaianasdestruido,2026-08-31T13:42:45Z,main,fix-broken-workflows-451876394576674102,4,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/14
 FNF-Phoenix-Engine,closed,merged,18,fix(ci): disable hxcpp LTO for Android,havaianasdestruido,2026-09-22T01:00:36Z,main,codex/fix-undefined-symbol-linker-error,1,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/18
@@ -19,7 +20,7 @@ FNF-Phoenix-Engine,closed,merged,2,Minify json,havaianasdestruido,2026-08-10T17:
 FNF-Phoenix-Engine,closed,merged,1,Nightly link,havaianasdestruido,2026-08-10T17:24:48Z,main,nightly-link,3,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/1
 hemorroidabot,closed,merged,2,Add i18n support (pt-BR / en-US),havaianasdestruido,2026-09-22T00:06:47Z,master,codex/add-i18n.js-with-pt-br-and-en-support,1,https://github.com/havaianasdestruido/hemorroidabot/pull/2
 hemorroidabot,closed,merged,1,[ImgBot] Optimize images,imgbot[bot],2026-09-21T00:38:44Z,master,imgbot,1,https://github.com/havaianasdestruido/hemorroidabot/pull/1
-PersonaDB,open,open,1,"Add deterministic generation pipeline, validators, CI, and docs",havaianasdestruido,2026-09-24T12:44:59Z,main,codex/finalize-remaining-work-to-100%,2,https://github.com/havaianasdestruido/PersonaDB/pull/1
+PersonaDB,closed,merged,1,"Add deterministic generation pipeline, validators, CI, and docs",havaianasdestruido,2026-09-24T12:44:59Z,main,codex/finalize-remaining-work-to-100%,2,https://github.com/havaianasdestruido/PersonaDB/pull/1
 pong-pop,closed,merged,3,Show the live score on the play button,havaianasdestruido,2026-09-20T20:42:46Z,main,codex/atualizar-texto-do-botao-ao-iniciar-o-jogo,1,https://github.com/havaianasdestruido/pong-pop/pull/3
 pong-pop,closed,merged,2,Smooth AI paddle movement and reduce popup shaking,havaianasdestruido,2026-08-13T01:05:14Z,main,codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola,1,https://github.com/havaianasdestruido/pong-pop/pull/2
 pong-pop,closed,merged,1,Add popup-window Pong game with Play launcher and performance-focused controller,havaianasdestruido,2026-07-28T19:12:22Z,main,codex/create-pong-game-with-popup-windows,1,https://github.com/havaianasdestruido/pong-pop/pull/1
@@ -36,6 +37,7 @@ Giggles-Shit,open,open,1,[ImgBot] Optimize images,imgbot[bot],2026-09-21T00:39:2
 gitgithub,closed,merged,3,Expand TBA sections in README.MD with Git code examples,havaianasdestruido,2026-08-14T18:50:55Z,main,expand-tba-readme-934878366318225114,1,https://github.com/havaianasdestruido/gitgithub/pull/3
 gitgithub,closed,merged,2,Corrigir gramática e ortografia no README.MD,havaianasdestruido,2026-08-14T18:44:39Z,main,fix-readme-grammar-9987866976443268935,2,https://github.com/havaianasdestruido/gitgithub/pull/2
 gitgithub,closed,merged,1,Add Git installation tutorials to README,havaianasdestruido,2026-08-14T17:14:46Z,main,add-git-installation-tutorials-17541894421943877497,1,https://github.com/havaianasdestruido/gitgithub/pull/1
+KaukaMed,open,open,2,feat(web): front-end OdontoAura (Vite + React) ligado ao Supabase,arena-ai-coding-agent[bot],2026-09-25T16:33:19Z,main,arena/01a0d488-kaukamed,2,https://github.com/havaianasdestruido/KaukaMed/pull/2
 KaukaMed,closed,merged,1,"Phase 0 — setup do monorepo, tipos compartilhados, qualidade e infraestrutura local",arena-ai-coding-agent[bot],2026-09-24T17:24:48Z,main,arena/01a0d464-kaukamed,7,https://github.com/havaianasdestruido/KaukaMed/pull/1
 OdontoAura,open,open,70,Jules 426731085996982659 7bcf478f,havaianasdestruido,2026-09-15T17:51:09Z,main,jules-426731085996982659-7bcf478f,3,https://github.com/havaianasdestruido/OdontoAura/pull/70
 OdontoAura,open,open,65,Host frontend on GitHub Pages,havaianasdestruido,2026-09-15T16:42:35Z,main,host-frontend-github-pages-7416436364491725714,3,https://github.com/havaianasdestruido/OdontoAura/pull/65
