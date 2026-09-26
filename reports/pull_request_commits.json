@@ -1,6 +1,22 @@
 [
   {
     "repo": "FNF-Phoenix-Engine",
+    "pr_number": 21,
+    "sha": "681188aac132445ec406dfa620b9c4ec6c9646e8",
+    "sha_short": "681188a",
+    "message": "Fix mobile buttons not appearing + font copy failures on install",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/681188aac132445ec406dfa620b9c4ec6c9646e8"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 21,
+    "sha": "7ad5eaf4791a0c7111d41425f09911b24323b5e3",
+    "sha_short": "7ad5eaf",
+    "message": "Address review: skip packaged fonts in CopyState, pad visibility around modals",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7ad5eaf4791a0c7111d41425f09911b24323b5e3"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
     "pr_number": 17,
     "sha": "af09202348924912353fa6aaa9970e140436a925",
     "sha_short": "af09202",
@@ -46,6 +62,30 @@
     "sha_short": "f76f7fe",
     "message": "fix: repair broken GitHub Actions workflows and Android build compilation issues",
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f76f7fea749db8c1434656c779d714e4884d6d5e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 20,
+    "sha": "9bc31254e29934dfaaa8ad0f0bd4e5ac86bf2bf2",
+    "sha_short": "9bc3125",
+    "message": "fix(android): ship libc++_shared.so inside the APK",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9bc31254e29934dfaaa8ad0f0bd4e5ac86bf2bf2"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 20,
+    "sha": "0e2a2578a3da083bffaf57ba303670938af49c43",
+    "sha_short": "0e2a257",
+    "message": "fix(android): Sys.systemName is a function in Haxe 4.3",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0e2a2578a3da083bffaf57ba303670938af49c43"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 20,
+    "sha": "ead5ce2ae19c7c0cec487142e7a3aa5f8bbea3d1",
+    "sha_short": "ead5ce2",
+    "message": "fix(android): satisfy @:nullSafety when reading ANDROID_NDK_ROOT",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/ead5ce2ae19c7c0cec487142e7a3aa5f8bbea3d1"
   },
   {
     "repo": "FNF-Phoenix-Engine",

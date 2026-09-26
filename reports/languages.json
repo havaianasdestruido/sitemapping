@@ -9,7 +9,7 @@
     "repo": "FNF-Phoenix-Engine",
     "language": "Haxe",
     "bytes": 2042701,
-    "percent": 98.7
+    "percent": 98.3
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -19,26 +19,26 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
+    "language": "Batchfile",
+    "bytes": 8043,
+    "percent": 0.4
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "language": "Shell",
+    "bytes": 7626,
+    "percent": 0.4
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
     "language": "PowerShell",
     "bytes": 6419,
     "percent": 0.3
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "language": "Batchfile",
-    "bytes": 4125,
-    "percent": 0.2
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
     "language": "C",
     "bytes": 3044,
-    "percent": 0.1
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "language": "Shell",
-    "bytes": 2841,
     "percent": 0.1
   },
   {

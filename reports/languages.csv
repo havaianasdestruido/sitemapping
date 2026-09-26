@@ -1,11 +1,11 @@
 repo,language,bytes,percent
 blaster,C,46157,100.0
-FNF-Phoenix-Engine,Haxe,2042701,98.7
+FNF-Phoenix-Engine,Haxe,2042701,98.3
 FNF-Phoenix-Engine,Python,9854,0.5
+FNF-Phoenix-Engine,Batchfile,8043,0.4
+FNF-Phoenix-Engine,Shell,7626,0.4
 FNF-Phoenix-Engine,PowerShell,6419,0.3
-FNF-Phoenix-Engine,Batchfile,4125,0.2
 FNF-Phoenix-Engine,C,3044,0.1
-FNF-Phoenix-Engine,Shell,2841,0.1
 hemorroidabot,JavaScript,380161,98.5
 hemorroidabot,HTML,5596,1.5
 PatoCraft,Smali,34777369,77.9
