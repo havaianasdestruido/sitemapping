@@ -1,7 +1,9 @@
 repo,state,status,number,title,user,created_at,base_branch,head_branch,commit_count,url
-FNF-Phoenix-Engine,open,open,21,Fix mobile buttons not appearing + font copy failures on install,arena-ai-coding-agent[bot],2026-09-26T14:45:50Z,main,arena/01a0de17-fnf-phoenix-engine,2,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/21
 FNF-Phoenix-Engine,open,open,17,docs: add Javadoc/JSDoc-style tags to functions across codebase,havaianasdestruido,2026-09-22T00:55:45Z,main,codex/add-javadoc/jsdoc-tags-to-functions,2,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/17
 FNF-Phoenix-Engine,open,open,14,fix: repair broken GitHub Actions workflows,havaianasdestruido,2026-08-31T13:42:45Z,main,fix-broken-workflows-451876394576674102,4,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/14
+FNF-Phoenix-Engine,closed,merged,23,docs: document how the source-haxelib-patches work,arena-ai-coding-agent[bot],2026-09-26T16:58:49Z,main,arena/01a0de65-fnf-phoenix-engine,1,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/23
+FNF-Phoenix-Engine,closed,merged,22,Bug Fix: mobile hitboxes/buttons followed the gameplay camera (unplayable on mobile),arena-ai-coding-agent[bot],2026-09-26T16:58:41Z,main,arena/01a0de64-fnf-phoenix-engine,2,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/22
+FNF-Phoenix-Engine,closed,merged,21,Fix mobile buttons not appearing + font copy failures on install,arena-ai-coding-agent[bot],2026-09-26T14:45:50Z,main,arena/01a0de17-fnf-phoenix-engine,2,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/21
 FNF-Phoenix-Engine,closed,merged,20,Bug Fix: Android APK missing libc++_shared.so (dlopen failure at launch),arena-ai-coding-agent[bot],2026-09-26T11:52:46Z,main,arena/01a0db65-fnf-phoenix-engine,3,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/20
 FNF-Phoenix-Engine,closed,merged,19,fix: point Android artifact uploads at the debug APK flavor,arena-ai-coding-agent[bot],2026-09-25T16:56:17Z,main,arena/01a0d978-fnf-phoenix-engine,1,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/19
 FNF-Phoenix-Engine,closed,merged,18,fix(ci): disable hxcpp LTO for Android,havaianasdestruido,2026-09-22T01:00:36Z,main,codex/fix-undefined-symbol-linker-error,1,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/18
@@ -19,7 +21,6 @@ FNF-Phoenix-Engine,closed,merged,5,The fearsome python experiment is now fully c
 FNF-Phoenix-Engine,closed,closed,4,merge some stuff made by ArkoseLabsOfficial and Moxie,havaianasdestruido,2026-08-14T16:54:18Z,mobile-test,main,30,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/4
 FNF-Phoenix-Engine,closed,merged,3,upd,havaianasdestruido,2026-08-10T20:02:40Z,main,main,13,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/3
 FNF-Phoenix-Engine,closed,merged,2,Minify json,havaianasdestruido,2026-08-10T17:54:53Z,main,minify-json,2,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/2
-FNF-Phoenix-Engine,closed,merged,1,Nightly link,havaianasdestruido,2026-08-10T17:24:48Z,main,nightly-link,3,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/1
 hemorroidabot,closed,merged,2,Add i18n support (pt-BR / en-US),havaianasdestruido,2026-09-22T00:06:47Z,master,codex/add-i18n.js-with-pt-br-and-en-support,1,https://github.com/havaianasdestruido/hemorroidabot/pull/2
 hemorroidabot,closed,merged,1,[ImgBot] Optimize images,imgbot[bot],2026-09-21T00:38:44Z,master,imgbot,1,https://github.com/havaianasdestruido/hemorroidabot/pull/1
 PersonaDB,closed,merged,1,"Add deterministic generation pipeline, validators, CI, and docs",havaianasdestruido,2026-09-24T12:44:59Z,main,codex/finalize-remaining-work-to-100%,2,https://github.com/havaianasdestruido/PersonaDB/pull/1

@@ -1,22 +1,6 @@
 [
   {
     "repo": "FNF-Phoenix-Engine",
-    "pr_number": 21,
-    "sha": "681188aac132445ec406dfa620b9c4ec6c9646e8",
-    "sha_short": "681188a",
-    "message": "Fix mobile buttons not appearing + font copy failures on install",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/681188aac132445ec406dfa620b9c4ec6c9646e8"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 21,
-    "sha": "7ad5eaf4791a0c7111d41425f09911b24323b5e3",
-    "sha_short": "7ad5eaf",
-    "message": "Address review: skip packaged fonts in CopyState, pad visibility around modals",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7ad5eaf4791a0c7111d41425f09911b24323b5e3"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
     "pr_number": 17,
     "sha": "af09202348924912353fa6aaa9970e140436a925",
     "sha_short": "af09202",
@@ -62,6 +46,46 @@
     "sha_short": "f76f7fe",
     "message": "fix: repair broken GitHub Actions workflows and Android build compilation issues",
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f76f7fea749db8c1434656c779d714e4884d6d5e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 23,
+    "sha": "bd0d04e5afcc79283929fcf7fe37692f81086b41",
+    "sha_short": "bd0d04e",
+    "message": "docs: explain how the source-haxelib-patches work, why they exist and what they fix",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/bd0d04e5afcc79283929fcf7fe37692f81086b41"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 22,
+    "sha": "a4022759366be6059979facf3e0d5d622d0d5dc3",
+    "sha_short": "a402275",
+    "message": "Fix mobile hitboxes/buttons following the gameplay camera",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a4022759366be6059979facf3e0d5d622d0d5dc3"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 22,
+    "sha": "01de5f147fe378f1272621cb36974af02467bdd4",
+    "sha_short": "01de5f1",
+    "message": "Merge branch 'main' into arena/01a0de64-fnf-phoenix-engine",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/01de5f147fe378f1272621cb36974af02467bdd4"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 21,
+    "sha": "681188aac132445ec406dfa620b9c4ec6c9646e8",
+    "sha_short": "681188a",
+    "message": "Fix mobile buttons not appearing + font copy failures on install",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/681188aac132445ec406dfa620b9c4ec6c9646e8"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 21,
+    "sha": "7ad5eaf4791a0c7111d41425f09911b24323b5e3",
+    "sha_short": "7ad5eaf",
+    "message": "Address review: skip packaged fonts in CopyState, pad visibility around modals",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7ad5eaf4791a0c7111d41425f09911b24323b5e3"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -422,30 +446,6 @@
     "sha_short": "9133a46",
     "message": "chore: minified all .JSON files",
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9133a46fdf112fb82f457dd782bc515d0ee95f01"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 1,
-    "sha": "874478a46c751aeb84feea083dffedf61eb6e5ae",
-    "sha_short": "874478a",
-    "message": "based on https://github.com/oprypin/nightly.link/blob/master/.github/workflows/pr-comment.yml",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/874478a46c751aeb84feea083dffedf61eb6e5ae"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 1,
-    "sha": "592f111d6d5c4bbe09362a9eb3a38a6389e783d6",
-    "sha_short": "592f111",
-    "message": "Merge branch 'JordanSantiagoYT:main' into nightly-link",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/592f111d6d5c4bbe09362a9eb3a38a6389e783d6"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 1,
-    "sha": "e020b5f8c716c089d83d14c25d3e8e1f2194cfbc",
-    "sha_short": "e020b5f",
-    "message": "Merge branch 'JordanSantiagoYT:main' into nightly-link",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e020b5f8c716c089d83d14c25d3e8e1f2194cfbc"
   },
   {
     "repo": "hemorroidabot",
