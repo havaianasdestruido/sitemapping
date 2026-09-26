@@ -3,19 +3,6 @@
     "repo": "FNF-Phoenix-Engine",
     "state": "open",
     "status": "open",
-    "number": 19,
-    "title": "fix: point Android artifact uploads at the debug APK flavor",
-    "user": "arena-ai-coding-agent[bot]",
-    "created_at": "2026-09-25T16:56:17Z",
-    "base_branch": "main",
-    "head_branch": "arena/01a0d978-fnf-phoenix-engine",
-    "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/19"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "open",
-    "status": "open",
     "number": 17,
     "title": "docs: add Javadoc/JSDoc-style tags to functions across codebase",
     "user": "havaianasdestruido",
@@ -37,6 +24,19 @@
     "head_branch": "fix-broken-workflows-451876394576674102",
     "commit_count": 4,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/14"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "closed",
+    "status": "merged",
+    "number": 19,
+    "title": "fix: point Android artifact uploads at the debug APK flavor",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-25T16:56:17Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0d978-fnf-phoenix-engine",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/19"
   },
   {
     "repo": "FNF-Phoenix-Engine",

@@ -1,7 +1,7 @@
 repo,state,status,number,title,user,created_at,base_branch,head_branch,commit_count,url
-FNF-Phoenix-Engine,open,open,19,fix: point Android artifact uploads at the debug APK flavor,arena-ai-coding-agent[bot],2026-09-25T16:56:17Z,main,arena/01a0d978-fnf-phoenix-engine,1,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/19
 FNF-Phoenix-Engine,open,open,17,docs: add Javadoc/JSDoc-style tags to functions across codebase,havaianasdestruido,2026-09-22T00:55:45Z,main,codex/add-javadoc/jsdoc-tags-to-functions,2,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/17
 FNF-Phoenix-Engine,open,open,14,fix: repair broken GitHub Actions workflows,havaianasdestruido,2026-08-31T13:42:45Z,main,fix-broken-workflows-451876394576674102,4,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/14
+FNF-Phoenix-Engine,closed,merged,19,fix: point Android artifact uploads at the debug APK flavor,arena-ai-coding-agent[bot],2026-09-25T16:56:17Z,main,arena/01a0d978-fnf-phoenix-engine,1,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/19
 FNF-Phoenix-Engine,closed,merged,18,fix(ci): disable hxcpp LTO for Android,havaianasdestruido,2026-09-22T01:00:36Z,main,codex/fix-undefined-symbol-linker-error,1,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/18
 FNF-Phoenix-Engine,closed,merged,16,fix(ci): stabilize Windows builds,havaianasdestruido,2026-09-22T00:29:28Z,main,codex/fix-windows-builds-failing-in-steps,2,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/16
 FNF-Phoenix-Engine,closed,merged,15,refactor: rename inappropriate identifiers,havaianasdestruido,2026-09-22T00:08:17Z,main,codex/remove-obscene-words-from-code,1,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/15

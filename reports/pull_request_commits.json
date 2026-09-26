@@ -1,14 +1,6 @@
 [
   {
     "repo": "FNF-Phoenix-Engine",
-    "pr_number": 19,
-    "sha": "b86002c7a1ca0b9ec8c7607ef16ffc3715637ffa",
-    "sha_short": "b86002c",
-    "message": "fix: point Android artifact uploads at the debug APK flavor",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b86002c7a1ca0b9ec8c7607ef16ffc3715637ffa"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
     "pr_number": 17,
     "sha": "af09202348924912353fa6aaa9970e140436a925",
     "sha_short": "af09202",
@@ -54,6 +46,14 @@
     "sha_short": "f76f7fe",
     "message": "fix: repair broken GitHub Actions workflows and Android build compilation issues",
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f76f7fea749db8c1434656c779d714e4884d6d5e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 19,
+    "sha": "b86002c7a1ca0b9ec8c7607ef16ffc3715637ffa",
+    "sha_short": "b86002c",
+    "message": "fix: point Android artifact uploads at the debug APK flavor",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b86002c7a1ca0b9ec8c7607ef16ffc3715637ffa"
   },
   {
     "repo": "FNF-Phoenix-Engine",
