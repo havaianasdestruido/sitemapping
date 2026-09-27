@@ -29,6 +29,45 @@
     "repo": "FNF-Phoenix-Engine",
     "state": "closed",
     "status": "merged",
+    "number": 30,
+    "title": "Compress all images (~19% smaller) + image compression scripts in tools/",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-27T18:02:45Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0e3cc-fnf-phoenix-engine",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/30"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "closed",
+    "status": "merged",
+    "number": 29,
+    "title": "build: add NO_BUILTIN_CONTENT content-stripped (copyright-safe) build flag",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-27T17:12:05Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0e3c1-fnf-phoenix-engine",
+    "commit_count": 3,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/29"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "closed",
+    "status": "merged",
+    "number": 28,
+    "title": "tools: fix audio compressor root default and the File.Replace() failure",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-27T16:15:31Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "commit_count": 3,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/28"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "closed",
+    "status": "merged",
     "number": 27,
     "title": "Add MP3 and OGG compression tools",
     "user": "arena-ai-coding-agent[bot]",
@@ -247,45 +286,6 @@
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/9"
   },
   {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "status": "merged",
-    "number": 8,
-    "title": "Speed up native build workflows and port parallel build flags to local scripts",
-    "user": "havaianasdestruido",
-    "created_at": "2026-08-21T19:26:44Z",
-    "base_branch": "main",
-    "head_branch": "codex/optimize-workflow-compilation-time",
-    "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/8"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "status": "merged",
-    "number": 7,
-    "title": "Ship bf-clicker mod in build outputs",
-    "user": "havaianasdestruido",
-    "created_at": "2026-08-21T19:18:31Z",
-    "base_branch": "main",
-    "head_branch": "codex/include-bf-clicker-mod-in-output-zip",
-    "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/7"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "status": "merged",
-    "number": 6,
-    "title": "Bottlenecks",
-    "user": "havaianasdestruido",
-    "created_at": "2026-08-21T15:29:24Z",
-    "base_branch": "main",
-    "head_branch": "bottlenecks",
-    "commit_count": 30,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/6"
-  },
-  {
     "repo": "hemorroidabot",
     "state": "closed",
     "status": "merged",
@@ -440,6 +440,19 @@
     "head_branch": "imgbot",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/calculator/pull/1"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Cube textures: random Phoenix Engine icons, switched by icon group",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-27T19:30:23Z",
+    "base_branch": "master",
+    "head_branch": "arena/01a0e431-fnf-cubes-live-wallpaper",
+    "commit_count": 5,
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/pull/1"
   },
   {
     "repo": "FNF-PeoteView",
@@ -856,6 +869,19 @@
     "head_branch": "imgbot",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/orelha/pull/1"
+  },
+  {
+    "repo": "PhoenixLiveWallpaper",
+    "state": "closed",
+    "status": "merged",
+    "number": 8,
+    "title": "Phoenix Live Wallpaper: FNF menu backgrounds as a Haxe Android live wallpaper",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-27T19:08:14Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0e3c6-phoenixlivewallpaper",
+    "commit_count": 15,
+    "url": "https://github.com/havaianasdestruido/PhoenixLiveWallpaper/pull/8"
   },
   {
     "repo": "Quack3DMM",

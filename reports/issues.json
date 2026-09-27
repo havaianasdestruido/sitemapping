@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "repo": "PhoenixLiveWallpaper",
+    "state": "closed",
+    "number": 7,
+    "title": "CI failure: run 36342288130",
+    "user": "github-actions[bot]",
+    "created_at": "2026-09-27T18:54:19Z",
+    "labels": "",
+    "comments": 0,
+    "url": "https://github.com/havaianasdestruido/PhoenixLiveWallpaper/issues/7"
+  },
+  {
+    "repo": "PhoenixLiveWallpaper",
+    "state": "closed",
+    "number": 6,
+    "title": "CI failure: run 36342135961",
+    "user": "github-actions[bot]",
+    "created_at": "2026-09-27T18:51:41Z",
+    "labels": "",
+    "comments": 0,
+    "url": "https://github.com/havaianasdestruido/PhoenixLiveWallpaper/issues/6"
+  },
+  {
+    "repo": "PhoenixLiveWallpaper",
+    "state": "closed",
+    "number": 5,
+    "title": "CI failure: run 36342000845",
+    "user": "github-actions[bot]",
+    "created_at": "2026-09-27T18:49:34Z",
+    "labels": "",
+    "comments": 0,
+    "url": "https://github.com/havaianasdestruido/PhoenixLiveWallpaper/issues/5"
+  },
+  {
+    "repo": "PhoenixLiveWallpaper",
+    "state": "closed",
+    "number": 4,
+    "title": "CI failure: run 36341879133",
+    "user": "github-actions[bot]",
+    "created_at": "2026-09-27T18:47:17Z",
+    "labels": "",
+    "comments": 0,
+    "url": "https://github.com/havaianasdestruido/PhoenixLiveWallpaper/issues/4"
+  },
+  {
+    "repo": "PhoenixLiveWallpaper",
+    "state": "closed",
+    "number": 3,
+    "title": "CI failure: run 36341775519",
+    "user": "github-actions[bot]",
+    "created_at": "2026-09-27T18:45:15Z",
+    "labels": "",
+    "comments": 0,
+    "url": "https://github.com/havaianasdestruido/PhoenixLiveWallpaper/issues/3"
+  },
+  {
+    "repo": "PhoenixLiveWallpaper",
+    "state": "closed",
+    "number": 2,
+    "title": "CI failure: run 36341598545",
+    "user": "github-actions[bot]",
+    "created_at": "2026-09-27T18:42:22Z",
+    "labels": "",
+    "comments": 0,
+    "url": "https://github.com/havaianasdestruido/PhoenixLiveWallpaper/issues/2"
+  },
+  {
+    "repo": "PhoenixLiveWallpaper",
+    "state": "closed",
+    "number": 1,
+    "title": "CI failure: run 36341485765",
+    "user": "github-actions[bot]",
+    "created_at": "2026-09-27T18:40:22Z",
+    "labels": "",
+    "comments": 0,
+    "url": "https://github.com/havaianasdestruido/PhoenixLiveWallpaper/issues/1"
+  }
+]

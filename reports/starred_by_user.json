@@ -1,5 +1,25 @@
 [
   {
+    "full_name": "Purfview/whisper-standalone-win",
+    "url": "https://github.com/Purfview/whisper-standalone-win",
+    "description": "Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python. "
+  },
+  {
+    "full_name": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "description": "Robust Speech Recognition via Large-Scale Weak Supervision"
+  },
+  {
+    "full_name": "H21lab/Cubes-Live-Wallpaper",
+    "url": "https://github.com/H21lab/Cubes-Live-Wallpaper",
+    "description": "Android Live Wallpaper. The application renders 3D cubes with android texture by using OpenGL ES 2.0 and simulate realistic physics according to gravity and accelerometer sensor."
+  },
+  {
+    "full_name": "maitag/peote-view",
+    "url": "https://github.com/maitag/peote-view",
+    "description": "crossplatform 2D Render Library (haxe/lime/opengl)"
+  },
+  {
     "full_name": "guisende/SOURCE-CODE-TUTORIALS",
     "url": "https://github.com/guisende/SOURCE-CODE-TUTORIALS",
     "description": "CODES FROM MY TUTORIALS ON MY CHANNEL GO WATCH ////// CODIGOS DOS MEUS TUTORIAIS NO MEU CANAL VA ASSISTIR"
