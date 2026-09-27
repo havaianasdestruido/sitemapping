@@ -2401,67 +2401,107 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "b03cf22250bd457423560ee614e80895ada78b16",
-    "sha_short": "b03cf22",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-22T11:45:48Z",
-    "message": "Merge branch 'main' into codex/add-javadoc/jsdoc-tags-to-functions",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b03cf22250bd457423560ee614e80895ada78b16"
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "3be0e21f3f87f7cc245e7bf1422dedb54007c049",
+    "sha_short": "3be0e21",
+    "author": "havaianasdestruido",
+    "date": "2026-09-27T15:17:34Z",
+    "message": "fix: make audio compression replacement safer",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/3be0e21f3f87f7cc245e7bf1422dedb54007c049"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "98baf4edc004b7cc1b0693cd62462ef39c927493",
-    "sha_short": "98baf4e",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-22T00:58:06Z",
-    "message": "Merge pull request #16 from havaianasdestruido/codex/fix-windows-builds-failing-in-steps",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/98baf4edc004b7cc1b0693cd62462ef39c927493"
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "312d1126afd9275ff329e53e55c742a5acd58804",
+    "sha_short": "312d112",
+    "author": "havaianasdestruido",
+    "date": "2026-09-27T15:03:32Z",
+    "message": "tools: add audio compression scripts",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/312d1126afd9275ff329e53e55c742a5acd58804"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "af09202348924912353fa6aaa9970e140436a925",
-    "sha_short": "af09202",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-22T00:55:44Z",
-    "message": "docs: document function interfaces",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/af09202348924912353fa6aaa9970e140436a925"
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "7381cfac52c776bf3b8a2310dd06d009d7fd3c85",
+    "sha_short": "7381cfa",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-27T14:54:51Z",
+    "message": "feat: add Phoenix URI deep links for Android, iOS and Windows (#25)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7381cfac52c776bf3b8a2310dd06d009d7fd3c85"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "9bd823dad2063c1288cae53a3186dd36c4d4215f",
-    "sha_short": "9bd823d",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-22T00:35:28Z",
-    "message": "fix: avoid TankmenBG reset signature conflict",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9bd823dad2063c1288cae53a3186dd36c4d4215f"
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "8496c7afe450c48a62f772269d614eb848c39cbd",
+    "sha_short": "8496c7a",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-27T14:52:46Z",
+    "message": "docs: expand every TBD section in CODESTYLE.md (#26)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/8496c7afe450c48a62f772269d614eb848c39cbd"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "d7b4de828255471fa72726c7f24d58ff58a477ba",
-    "sha_short": "d7b4de8",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "55a15905f33b972390da39603148a5c0b1060e3a",
+    "sha_short": "55a1590",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-22T00:29:27Z",
-    "message": "fix(ci): limit Windows C++ build parallelism",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d7b4de828255471fa72726c7f24d58ff58a477ba"
+    "date": "2026-09-27T14:52:20Z",
+    "message": "Update TODO.md",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/55a15905f33b972390da39603148a5c0b1060e3a"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "105cc16be8801bbaaef68310f5f09efc2e6ebd3e",
-    "sha_short": "105cc16",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "40cadefa7d0d84abed2471eb08ecbbc12f42a372",
+    "sha_short": "40cadef",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-22T00:14:03Z",
-    "message": "Merge pull request #15 from havaianasdestruido/codex/remove-obscene-words-from-code",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/105cc16be8801bbaaef68310f5f09efc2e6ebd3e"
+    "date": "2026-09-27T14:42:17Z",
+    "message": "Update TODO.md with new tasks for 4th wall features",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/40cadefa7d0d84abed2471eb08ecbbc12f42a372"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "f85ba4378a0a9ebe2d28d6bdc0e147c940888a3c",
+    "sha_short": "f85ba43",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-27T12:55:53Z",
+    "message": "Android platform layer + mobile editor support (TODO.md mobile P1/P2 tasks) (#24)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f85ba4378a0a9ebe2d28d6bdc0e147c940888a3c"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "60b961efc27acf5efe5f0bacf12808975a6ba78d",
+    "sha_short": "60b961e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T02:02:20Z",
+    "message": "Atualizar o CODESTYLE.md",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/60b961efc27acf5efe5f0bacf12808975a6ba78d"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "965fe980886c3648704263955fbee2e49b041f83",
+    "sha_short": "965fe98",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T01:55:35Z",
+    "message": "CODESTYLE.md: TBD in new programming languages",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/965fe980886c3648704263955fbee2e49b041f83"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "46c410aca350e381bb6994cddfe6589464850be4",
+    "sha_short": "46c410a",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-26T17:20:17Z",
+    "message": "Create jekyll-gh-pages.yml",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/46c410aca350e381bb6994cddfe6589464850be4"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "00139b4a6962e49172a2115b3fdf616187fed9dd",
     "sha_short": "00139b4",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -2471,7 +2511,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "1117fa6ae4d2c521ee4893d1263b86ddcfc21d77",
     "sha_short": "1117fa6",
     "author": "havaianasdestruido",
@@ -2481,7 +2521,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "b797836d31598b700eb535c2fd53c48d0b68d9f7",
     "sha_short": "b797836",
     "author": "havaianasdestruido",
@@ -2491,7 +2531,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "35966870599873f38ff716388535247fdf5b12c8",
     "sha_short": "3596687",
     "author": "havaianasdestruido",
@@ -2501,67 +2541,67 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "31f39abd9c3997556de871d92b2a1dd48918e1ce",
-    "sha_short": "31f39ab",
-    "author": "Pato (new acc)",
-    "date": "2026-08-31T13:02:11Z",
-    "message": "Update nightly.yml",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/31f39abd9c3997556de871d92b2a1dd48918e1ce"
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "4f5653d75980c7a88f3fb10bbf8274fc45d8c213",
+    "sha_short": "4f5653d",
+    "author": "havaianasdestruido",
+    "date": "2026-09-16T13:13:06Z",
+    "message": "ci(mobile): setup-android@v4 packages-style (accept licenses; drop 'tools' dropped in cmdline-tools 16)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4f5653d75980c7a88f3fb10bbf8274fc45d8c213"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "9aad3c7467837dd9e1a4e6a3eca159257e5fcf25",
-    "sha_short": "9aad3c7",
-    "author": "Pato (new acc)",
-    "date": "2026-08-31T13:01:53Z",
-    "message": "Update mobile.yml",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9aad3c7467837dd9e1a4e6a3eca159257e5fcf25"
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "e5d87f91833f78d906bc90d5e01d4a795d0417c7",
+    "sha_short": "e5d87f9",
+    "author": "havaianasdestruido",
+    "date": "2026-09-16T12:34:09Z",
+    "message": "ci: pin setup-android@v4 (real tag; v4.1.0 never existed)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e5d87f91833f78d906bc90d5e01d4a795d0417c7"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "c9555e9167cd25382e7c787a08adb3e46b593614",
-    "sha_short": "c9555e9",
-    "author": "Pato (new acc)",
-    "date": "2026-08-31T13:01:15Z",
-    "message": "Update mobile-release.yml",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c9555e9167cd25382e7c787a08adb3e46b593614"
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "0efa4573802918d2e5b6794599a6a403cf16f231",
+    "sha_short": "0efa457",
+    "author": "havaianasdestruido",
+    "date": "2026-09-16T12:26:34Z",
+    "message": "ci: bump setup-android v3 to v4.1.0 (cmdline-tools 16 dropped 'tools' package)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0efa4573802918d2e5b6794599a6a403cf16f231"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "682639c362a719cec04ec5341f9b305de1676436",
-    "sha_short": "682639c",
-    "author": "Pato (new acc)",
-    "date": "2026-08-31T13:01:00Z",
-    "message": "Update main.yml",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/682639c362a719cec04ec5341f9b305de1676436"
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "5b297eb330f76ebef84a303fd6dd667127979ba2",
+    "sha_short": "5b297eb",
+    "author": "havaianasdestruido",
+    "date": "2026-09-16T11:49:16Z",
+    "message": "feat: dynamic android thread count (CoolUtil.getCPUThreadsCount, no hardcode)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5b297eb330f76ebef84a303fd6dd667127979ba2"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "a2180ebddf5d39f7ad6663acf011f9b30eb3ed84",
-    "sha_short": "a2180eb",
-    "author": "Pato (new acc)",
-    "date": "2026-08-31T12:54:31Z",
-    "message": "wtf",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a2180ebddf5d39f7ad6663acf011f9b30eb3ed84"
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "b40554cab91150dc049c5b4db8c277c8a80b517a",
+    "sha_short": "b40554c",
+    "author": "havaianasdestruido",
+    "date": "2026-09-13T20:44:44Z",
+    "message": "fix: android parity + docs",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b40554cab91150dc049c5b4db8c277c8a80b517a"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "6aa01043a37ecc99dd16811ad10bac782b9b45c3",
-    "sha_short": "6aa0104",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "e157fd25bfc10b3c6bf4f33f7a59ad3d36929ee2",
+    "sha_short": "e157fd2",
     "author": "Pato (new acc)",
-    "date": "2026-08-31T12:51:15Z",
-    "message": "asdagfd",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6aa01043a37ecc99dd16811ad10bac782b9b45c3"
+    "date": "2026-09-13T18:13:52Z",
+    "message": "branding idk",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e157fd25bfc10b3c6bf4f33f7a59ad3d36929ee2"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "20564903272cca331b0b1ee150634428943442ae",
     "sha_short": "2056490",
     "author": "Pato (new acc)",
@@ -2571,7 +2611,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "6cdad81f7878a8243ee690b8b65dc0134bbc22cd",
     "sha_short": "6cdad81",
     "author": "Pato (new acc)",
@@ -2581,7 +2621,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "e546cecd718e88715f0730f55fc32bf63367327a",
     "sha_short": "e546cec",
     "author": "Pato (new acc)",
@@ -2591,7 +2631,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "57adef303a2c3a7539b0d3812f0dfd3bb36939ae",
     "sha_short": "57adef3",
     "author": "Pato (new acc)",
@@ -2601,227 +2641,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "b049c3172a677cf9b9ee456783a778a55f4d710c",
-    "sha_short": "b049c31",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-08-29T23:56:36Z",
-    "message": "Add mobile and Android support with touch controls and CI workflows",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b049c3172a677cf9b9ee456783a778a55f4d710c"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "b32e766873be17daf10731dba3e231e303ab26d4",
-    "sha_short": "b32e766",
-    "author": "Pato (new acc)",
-    "date": "2026-08-29T22:33:54Z",
-    "message": "New readme and stuff",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b32e766873be17daf10731dba3e231e303ab26d4"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "1b0e64c64e41558b541380b05b1292782049f211",
-    "sha_short": "1b0e64c",
-    "author": "havaianasdestruido",
-    "date": "2026-08-29T00:59:07Z",
-    "message": "ci: clear whole hxcpp cache to avoid stale PCH link errors",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1b0e64c64e41558b541380b05b1292782049f211"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "aabd946f1b4a7898e90083e88a7620e46c550cab",
-    "sha_short": "aabd946",
-    "author": "havaianasdestruido",
-    "date": "2026-08-28T23:55:13Z",
-    "message": "refactor: add headers package to categorize helper groups",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/aabd946f1b4a7898e90083e88a7620e46c550cab"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "85ff8436e3cb28d72d56de320d50fa900b94a3d7",
-    "sha_short": "85ff843",
-    "author": "havaianasdestruido",
-    "date": "2026-08-28T23:24:01Z",
-    "message": "refactor: extract remaining monoliths into helper classes",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/85ff8436e3cb28d72d56de320d50fa900b94a3d7"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "4181d109d534da7874bc24beee64e44f2c30c43b",
-    "sha_short": "4181d10",
-    "author": "Pato (new acc)",
-    "date": "2026-08-28T18:26:37Z",
-    "message": "yay: new readme",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4181d109d534da7874bc24beee64e44f2c30c43b"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "387269d3c9879f53645b4c475e00d8dd6bb9935c",
-    "sha_short": "387269d",
-    "author": "havaianasdestruido",
-    "date": "2026-08-28T18:18:00Z",
-    "message": "ci: drop stale precompiled headers from hxcpp cache",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/387269d3c9879f53645b4c475e00d8dd6bb9935c"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "24be09902c3f78b95642048f88b5e3d741f65f2e",
-    "sha_short": "24be099",
-    "author": "havaianasdestruido",
-    "date": "2026-08-28T18:10:16Z",
-    "message": "fix: gate window coloring to Windows-only",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/24be09902c3f78b95642048f88b5e3d741f65f2e"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "33e3acb8f3a7dd7fc1f031efd8605d1aa73c4cf5",
-    "sha_short": "33e3acb",
-    "author": "havaianasdestruido",
-    "date": "2026-08-28T18:02:39Z",
-    "message": "fix: restore compilation after source tree refactor",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/33e3acb8f3a7dd7fc1f031efd8605d1aa73c4cf5"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "e02f6c2b1d1d08c8712829a446b773506bcb26c0",
-    "sha_short": "e02f6c2",
-    "author": "havaianasdestruido",
-    "date": "2026-08-25T01:25:29Z",
-    "message": "refactor: reorganize source tree into packages (WIP)",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e02f6c2b1d1d08c8712829a446b773506bcb26c0"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "838e4ab02f035699067bcbc2a88578ff1b037bca",
-    "sha_short": "838e4ab",
-    "author": "Flynn Waiver",
-    "date": "2026-08-12T22:55:53Z",
-    "message": "Merge branch 'main' into bottlenecks",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/838e4ab02f035699067bcbc2a88578ff1b037bca"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "72c85bba0897e3406d2b348c3197c9712c47ff21",
-    "sha_short": "72c85bb",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T14:00:48Z",
-    "message": "feat(vscode): add ULTRA build task variants for native and HTML5",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/72c85bba0897e3406d2b348c3197c9712c47ff21"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "98c0e6fc984db847480980c1cfe2f263f8a50235",
-    "sha_short": "98c0e6f",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:41:05Z",
-    "message": "chore: remove applied BOTTLENECK note in ChartingState.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/98c0e6fc984db847480980c1cfe2f263f8a50235"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "70ca1602409bafbfc2a12b1adb22a8b30dbab270",
-    "sha_short": "70ca160",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:40:55Z",
-    "message": "chore: remove applied BOTTLENECK note in ChartingState.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/70ca1602409bafbfc2a12b1adb22a8b30dbab270"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "0b4f3081b4c4952a81d98bfce2989bf0ce5a2f5b",
-    "sha_short": "0b4f308",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:40:44Z",
-    "message": "chore: remove applied BOTTLENECK note in ChartingState.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0b4f3081b4c4952a81d98bfce2989bf0ce5a2f5b"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "7e76f51b086196785493c45740a79eb1afeecc33",
-    "sha_short": "7e76f51",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:40:34Z",
-    "message": "chore: remove applied BOTTLENECK note in ChartingState.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7e76f51b086196785493c45740a79eb1afeecc33"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "d29e26f98bf29ff1aa6252022e5dfd9e3f29ca5d",
-    "sha_short": "d29e26f",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:40:24Z",
-    "message": "chore: remove applied BOTTLENECK note in ChartingState.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d29e26f98bf29ff1aa6252022e5dfd9e3f29ca5d"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "9126f7cd7b9ebb6b82d9b01558311aeb5ce521b6",
-    "sha_short": "9126f7c",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:40:12Z",
-    "message": "chore: remove applied BOTTLENECK note in ChartingState.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9126f7cd7b9ebb6b82d9b01558311aeb5ce521b6"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "4a791b7e735489ea2c76273c3c87e740ad62cd8e",
-    "sha_short": "4a791b7",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:40:02Z",
-    "message": "chore: remove applied BOTTLENECK note in ChartingState.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4a791b7e735489ea2c76273c3c87e740ad62cd8e"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
-    "sha": "81e7fbc747c68b7795fa32acf2ac79c26bb5c56d",
-    "sha_short": "81e7fbc",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:39:51Z",
-    "message": "chore: remove applied BOTTLENECK note in ChartingState.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/81e7fbc747c68b7795fa32acf2ac79c26bb5c56d"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "e546cecd718e88715f0730f55fc32bf63367327a",
-    "sha_short": "e546cec",
-    "author": "Pato (new acc)",
-    "date": "2026-08-31T12:24:30Z",
-    "message": "Merge pull request #13 from havaianasdestruido/jules-15472080900066083561-4f7fe005",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e546cecd718e88715f0730f55fc32bf63367327a"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "57adef303a2c3a7539b0d3812f0dfd3bb36939ae",
-    "sha_short": "57adef3",
-    "author": "Pato (new acc)",
-    "date": "2026-08-31T12:24:17Z",
-    "message": "Merge branch 'main' into jules-15472080900066083561-4f7fe005",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/57adef303a2c3a7539b0d3812f0dfd3bb36939ae"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "582c98e27bb7cff13c5f6973f9829e97e7b9d1b0",
     "sha_short": "582c98e",
     "author": "google-labs-jules[bot]",
@@ -2831,7 +2651,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "e237edf1e418ec9ebecda84f7d7af8f3ff480dce",
     "sha_short": "e237edf",
     "author": "Pato (new acc)",
@@ -2841,7 +2661,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "fb15bb73c52efdc034ba49d15befb6ac99d4f017",
     "sha_short": "fb15bb7",
     "author": "Pato (new acc)",
@@ -2851,7 +2671,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "0a17cc3deb708b440cfad207a114d062d5dea213",
     "sha_short": "0a17cc3",
     "author": "Pato (new acc)",
@@ -2861,7 +2681,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "12717f68da1681f9548e882178e505c47e35a11d",
     "sha_short": "12717f6",
     "author": "google-labs-jules[bot]",
@@ -2871,7 +2691,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "144c806d38bb64c81d6a06b38f26fb4db428eab3",
     "sha_short": "144c806",
     "author": "Pato (new acc)",
@@ -2881,27 +2701,27 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "380b3caaffa201794dac0c6bb562ff4f04794b5b",
-    "sha_short": "380b3ca",
-    "author": "Pato (new acc)",
-    "date": "2026-08-30T19:54:45Z",
-    "message": "Merge pull request #12 from havaianasdestruido/fix-hmm-json-bom-12799565648666142956",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/380b3caaffa201794dac0c6bb562ff4f04794b5b"
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "387269d3c9879f53645b4c475e00d8dd6bb9935c",
+    "sha_short": "387269d",
+    "author": "havaianasdestruido",
+    "date": "2026-08-28T18:18:00Z",
+    "message": "ci: drop stale precompiled headers from hxcpp cache",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/387269d3c9879f53645b4c475e00d8dd6bb9935c"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "f275f5e55e21feea5d1a6067ab4eae594897faa3",
-    "sha_short": "f275f5e",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-08-30T19:49:10Z",
-    "message": "Fix UTF-8 BOM in hmm.json and JSON configs",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f275f5e55e21feea5d1a6067ab4eae594897faa3"
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
+    "sha": "24be09902c3f78b95642048f88b5e3d741f65f2e",
+    "sha_short": "24be099",
+    "author": "havaianasdestruido",
+    "date": "2026-08-28T18:10:16Z",
+    "message": "fix: gate window coloring to Windows-only",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/24be09902c3f78b95642048f88b5e3d741f65f2e"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "33e3acb8f3a7dd7fc1f031efd8605d1aa73c4cf5",
     "sha_short": "33e3acb",
     "author": "havaianasdestruido",
@@ -2911,7 +2731,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "e02f6c2b1d1d08c8712829a446b773506bcb26c0",
     "sha_short": "e02f6c2",
     "author": "havaianasdestruido",
@@ -2921,7 +2741,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "6572cb3d2c4541cfdd348f51c7b37dee56be0b2c",
     "sha_short": "6572cb3",
     "author": "havaianasdestruido",
@@ -2931,7 +2751,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "71655834822ec21bb4db243d6b90ffdba28bd6b4",
     "sha_short": "7165583",
     "author": "havaianasdestruido",
@@ -2941,7 +2761,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "c62bc7aa4b83d582448e782dcab07ced14e97afe",
     "sha_short": "c62bc7a",
     "author": "havaianasdestruido",
@@ -2951,7 +2771,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "5bfc2ddcb01462eae38f315d4c4aca398f877092",
     "sha_short": "5bfc2dd",
     "author": "havaianasdestruido",
@@ -2961,7 +2781,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "8e2e39cf1aa831fa8b896a1a04a0bad05a2ac4f8",
     "sha_short": "8e2e39c",
     "author": "Pato (new acc)",
@@ -2971,7 +2791,7 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
+    "branch": "arena/01a0e35f-fnf-phoenix-engine",
     "sha": "acac2d413c2edda9e982cfd2f89a4cacf8d5c76e",
     "sha_short": "acac2d4",
     "author": "Pato (new acc)",
@@ -2981,223 +2801,403 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "da4472b7756cd54b8526b3ea5b33189051f8df14",
-    "sha_short": "da4472b",
-    "author": "Pato (new acc)",
-    "date": "2026-08-23T17:14:42Z",
-    "message": "Merge pull request #9 from havaianasdestruido/fix/workflows-and-cache-optimization-14471544405070009642",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/da4472b7756cd54b8526b3ea5b33189051f8df14"
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "76747e2e9e0b9a52854cad739ecd8bd8816ef364",
+    "sha_short": "76747e2",
+    "author": "havaianasdestruido",
+    "date": "2026-09-27T15:54:05Z",
+    "message": "tools: default audio compressor root to the repository root",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/76747e2e9e0b9a52854cad739ecd8bd8816ef364"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "1174eb2f22d33147524fbe7fa486422c13aee988",
-    "sha_short": "1174eb2",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "04c399f7185482b5a469a999d6c6b315de5a55c0",
+    "sha_short": "04c399f",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-27T15:28:04Z",
+    "message": "Add MP3 and OGG compression tools (#27)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/04c399f7185482b5a469a999d6c6b315de5a55c0"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "e139c900a24da4a2f1321105f1b9cf3eaa56cb77",
+    "sha_short": "e139c90",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T15:00:42Z",
+    "message": "Create dependabot.yml",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e139c900a24da4a2f1321105f1b9cf3eaa56cb77"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "5503461e306d503d381d34dfcbdd9bcd29eb52b6",
+    "sha_short": "5503461",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T14:58:44Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5503461e306d503d381d34dfcbdd9bcd29eb52b6"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "7381cfac52c776bf3b8a2310dd06d009d7fd3c85",
+    "sha_short": "7381cfa",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-27T14:54:51Z",
+    "message": "feat: add Phoenix URI deep links for Android, iOS and Windows (#25)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7381cfac52c776bf3b8a2310dd06d009d7fd3c85"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "8496c7afe450c48a62f772269d614eb848c39cbd",
+    "sha_short": "8496c7a",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-27T14:52:46Z",
+    "message": "docs: expand every TBD section in CODESTYLE.md (#26)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/8496c7afe450c48a62f772269d614eb848c39cbd"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "55a15905f33b972390da39603148a5c0b1060e3a",
+    "sha_short": "55a1590",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T14:52:20Z",
+    "message": "Update TODO.md",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/55a15905f33b972390da39603148a5c0b1060e3a"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "40cadefa7d0d84abed2471eb08ecbbc12f42a372",
+    "sha_short": "40cadef",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T14:42:17Z",
+    "message": "Update TODO.md with new tasks for 4th wall features",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/40cadefa7d0d84abed2471eb08ecbbc12f42a372"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "f85ba4378a0a9ebe2d28d6bdc0e147c940888a3c",
+    "sha_short": "f85ba43",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-27T12:55:53Z",
+    "message": "Android platform layer + mobile editor support (TODO.md mobile P1/P2 tasks) (#24)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f85ba4378a0a9ebe2d28d6bdc0e147c940888a3c"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "60b961efc27acf5efe5f0bacf12808975a6ba78d",
+    "sha_short": "60b961e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T02:02:20Z",
+    "message": "Atualizar o CODESTYLE.md",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/60b961efc27acf5efe5f0bacf12808975a6ba78d"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "d7b4de828255471fa72726c7f24d58ff58a477ba",
+    "sha_short": "d7b4de8",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:29:27Z",
+    "message": "fix(ci): limit Windows C++ build parallelism",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d7b4de828255471fa72726c7f24d58ff58a477ba"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "105cc16be8801bbaaef68310f5f09efc2e6ebd3e",
+    "sha_short": "105cc16",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:14:03Z",
+    "message": "Merge pull request #15 from havaianasdestruido/codex/remove-obscene-words-from-code",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/105cc16be8801bbaaef68310f5f09efc2e6ebd3e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "00139b4a6962e49172a2115b3fdf616187fed9dd",
+    "sha_short": "00139b4",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:08:15Z",
+    "message": "refactor: rename inappropriate identifiers",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/00139b4a6962e49172a2115b3fdf616187fed9dd"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "1117fa6ae4d2c521ee4893d1263b86ddcfc21d77",
+    "sha_short": "1117fa6",
+    "author": "havaianasdestruido",
+    "date": "2026-09-18T00:18:51Z",
+    "message": "docs: add canonical agent instructions (AGENTS.md) + pointers (CLAUDE/AI.md)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1117fa6ae4d2c521ee4893d1263b86ddcfc21d77"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "b797836d31598b700eb535c2fd53c48d0b68d9f7",
+    "sha_short": "b797836",
+    "author": "havaianasdestruido",
+    "date": "2026-09-17T13:41:34Z",
+    "message": "revert: dynamic android thread count -> hardcoded 4 (restores normal compile; __cpp__ broke Haxe cpp)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b797836d31598b700eb535c2fd53c48d0b68d9f7"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "35966870599873f38ff716388535247fdf5b12c8",
+    "sha_short": "3596687",
+    "author": "havaianasdestruido",
+    "date": "2026-09-17T12:52:34Z",
+    "message": "ci(mobile): ndk package build-number 27.0.12077973 + real NDK_ROOT (sdkmanager path)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/35966870599873f38ff716388535247fdf5b12c8"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "4f5653d75980c7a88f3fb10bbf8274fc45d8c213",
+    "sha_short": "4f5653d",
+    "author": "havaianasdestruido",
+    "date": "2026-09-16T13:13:06Z",
+    "message": "ci(mobile): setup-android@v4 packages-style (accept licenses; drop 'tools' dropped in cmdline-tools 16)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4f5653d75980c7a88f3fb10bbf8274fc45d8c213"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "e5d87f91833f78d906bc90d5e01d4a795d0417c7",
+    "sha_short": "e5d87f9",
+    "author": "havaianasdestruido",
+    "date": "2026-09-16T12:34:09Z",
+    "message": "ci: pin setup-android@v4 (real tag; v4.1.0 never existed)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e5d87f91833f78d906bc90d5e01d4a795d0417c7"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "0efa4573802918d2e5b6794599a6a403cf16f231",
+    "sha_short": "0efa457",
+    "author": "havaianasdestruido",
+    "date": "2026-09-16T12:26:34Z",
+    "message": "ci: bump setup-android v3 to v4.1.0 (cmdline-tools 16 dropped 'tools' package)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0efa4573802918d2e5b6794599a6a403cf16f231"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "5b297eb330f76ebef84a303fd6dd667127979ba2",
+    "sha_short": "5b297eb",
+    "author": "havaianasdestruido",
+    "date": "2026-09-16T11:49:16Z",
+    "message": "feat: dynamic android thread count (CoolUtil.getCPUThreadsCount, no hardcode)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5b297eb330f76ebef84a303fd6dd667127979ba2"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "a2180ebddf5d39f7ad6663acf011f9b30eb3ed84",
+    "sha_short": "a2180eb",
+    "author": "Pato (new acc)",
+    "date": "2026-08-31T12:54:31Z",
+    "message": "wtf",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a2180ebddf5d39f7ad6663acf011f9b30eb3ed84"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "6aa01043a37ecc99dd16811ad10bac782b9b45c3",
+    "sha_short": "6aa0104",
+    "author": "Pato (new acc)",
+    "date": "2026-08-31T12:51:15Z",
+    "message": "asdagfd",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6aa01043a37ecc99dd16811ad10bac782b9b45c3"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "20564903272cca331b0b1ee150634428943442ae",
+    "sha_short": "2056490",
+    "author": "Pato (new acc)",
+    "date": "2026-08-31T12:49:19Z",
+    "message": "now the default \"build only win + android\" thing should work",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/20564903272cca331b0b1ee150634428943442ae"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "6cdad81f7878a8243ee690b8b65dc0134bbc22cd",
+    "sha_short": "6cdad81",
+    "author": "Pato (new acc)",
+    "date": "2026-08-31T12:38:58Z",
+    "message": "test fix with that matrix thing",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6cdad81f7878a8243ee690b8b65dc0134bbc22cd"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "e546cecd718e88715f0730f55fc32bf63367327a",
+    "sha_short": "e546cec",
+    "author": "Pato (new acc)",
+    "date": "2026-08-31T12:24:30Z",
+    "message": "Merge pull request #13 from havaianasdestruido/jules-15472080900066083561-4f7fe005",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e546cecd718e88715f0730f55fc32bf63367327a"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "57adef303a2c3a7539b0d3812f0dfd3bb36939ae",
+    "sha_short": "57adef3",
+    "author": "Pato (new acc)",
+    "date": "2026-08-31T12:24:17Z",
+    "message": "Merge branch 'main' into jules-15472080900066083561-4f7fe005",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/57adef303a2c3a7539b0d3812f0dfd3bb36939ae"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "582c98e27bb7cff13c5f6973f9829e97e7b9d1b0",
+    "sha_short": "582c98e",
     "author": "google-labs-jules[bot]",
-    "date": "2026-08-23T13:18:40Z",
-    "message": "Fix failing workflows, build artifact paths, and cache system",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1174eb2f22d33147524fbe7fa486422c13aee988"
+    "date": "2026-08-30T20:51:48Z",
+    "message": "workflow: default builds to Windows and Android with toggle",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/582c98e27bb7cff13c5f6973f9829e97e7b9d1b0"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "4a791b7e735489ea2c76273c3c87e740ad62cd8e",
-    "sha_short": "4a791b7",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:40:02Z",
-    "message": "chore: remove applied BOTTLENECK note in ChartingState.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4a791b7e735489ea2c76273c3c87e740ad62cd8e"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "81e7fbc747c68b7795fa32acf2ac79c26bb5c56d",
-    "sha_short": "81e7fbc",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:39:51Z",
-    "message": "chore: remove applied BOTTLENECK note in ChartingState.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/81e7fbc747c68b7795fa32acf2ac79c26bb5c56d"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "7874aff382736ecba8fc26d53c4bb7ade1f579ad",
-    "sha_short": "7874aff",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:39:41Z",
-    "message": "chore: remove applied BOTTLENECK note in ChartingState.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7874aff382736ecba8fc26d53c4bb7ade1f579ad"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "08ea214d0ca00f080646ea97c481dd0bb3ac4351",
-    "sha_short": "08ea214",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:39:28Z",
-    "message": "chore: remove applied BOTTLENECK note in PhillyStreets.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/08ea214d0ca00f080646ea97c481dd0bb3ac4351"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "87a699cb3a766a6ff1cfbf017b8cdd8668acf846",
-    "sha_short": "87a699c",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:39:17Z",
-    "message": "chore: remove applied BOTTLENECK note in BaseOptionsMenu.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/87a699cb3a766a6ff1cfbf017b8cdd8668acf846"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "390c2d51f33d3520e8e7a153144aff17f851e7c8",
-    "sha_short": "390c2d5",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:39:08Z",
-    "message": "chore: remove applied BOTTLENECK note in HScript.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/390c2d51f33d3520e8e7a153144aff17f851e7c8"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "1743142c15108db3048cf19cb2a4bc0a705fa430",
-    "sha_short": "1743142",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:38:58Z",
-    "message": "chore: remove applied BOTTLENECK note in Convert.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1743142c15108db3048cf19cb2a4bc0a705fa430"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "70b48e9eed3801d4c0fea1193ef762ee0066f7d7",
-    "sha_short": "70b48e9",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:38:48Z",
-    "message": "chore: remove applied BOTTLENECK note in FunkinLua.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/70b48e9eed3801d4c0fea1193ef762ee0066f7d7"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "020e892015a9a1f46f154f7175784d2dad9e39bf",
-    "sha_short": "020e892",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:38:39Z",
-    "message": "chore: remove applied BOTTLENECK note in FunkinLua.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/020e892015a9a1f46f154f7175784d2dad9e39bf"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "c95b195c26834fd8abc0d6e2e71c70a72a5b0f90",
-    "sha_short": "c95b195",
-    "author": "havaianasdestruido",
-    "date": "2026-08-12T13:38:29Z",
-    "message": "chore: remove applied BOTTLENECK note in PlayState.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c95b195c26834fd8abc0d6e2e71c70a72a5b0f90"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "7aa0a32245bcf0b54d496dfb4a99fdb596048423",
-    "sha_short": "7aa0a32",
-    "author": "Flynn Waiver",
-    "date": "2026-08-10T23:16:36Z",
-    "message": "Move assets/exclude to art/exclude",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7aa0a32245bcf0b54d496dfb4a99fdb596048423"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "807a36648d24834427d967ad4f230a112ff7a64c",
-    "sha_short": "807a366",
-    "author": "Flynn Waiver",
-    "date": "2026-08-10T23:13:32Z",
-    "message": "Organize art scripts; remove excluded audio files",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/807a36648d24834427d967ad4f230a112ff7a64c"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "688d9467da09651190b68a5befbc3bf5a75ccfef",
-    "sha_short": "688d946",
-    "author": "Flynn Waiver",
-    "date": "2026-08-10T20:56:03Z",
-    "message": "compress the audio files, again",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/688d9467da09651190b68a5befbc3bf5a75ccfef"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "d81aacf2fa642749c1142036cf14c4bd85d55734",
-    "sha_short": "d81aacf",
-    "author": "Flynn Waiver",
-    "date": "2026-08-10T20:37:23Z",
-    "message": "Revert \"Delete compress.ps1\"",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d81aacf2fa642749c1142036cf14c4bd85d55734"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "e3ba75ced39de86876bad7a2259fdd0cac4aa912",
-    "sha_short": "e3ba75c",
-    "author": "Flynn Waiver",
-    "date": "2026-08-10T20:27:05Z",
-    "message": "Revert \"chore: minified all .OGG & .MP3 files (50% size reduction) + minified all .JSON files (#1580)\"",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e3ba75ced39de86876bad7a2259fdd0cac4aa912"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "5870b8ce5725365c1e6422b426b48e9e32c2e147",
-    "sha_short": "5870b8c",
-    "author": "Flynn Waiver",
-    "date": "2026-08-10T20:08:14Z",
-    "message": "Merge branch 'main' into bottlenecks",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5870b8ce5725365c1e6422b426b48e9e32c2e147"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "002605a10119d98bc826bbe857d40fad74f369a7",
-    "sha_short": "002605a",
-    "author": "Flynn Waiver",
-    "date": "2026-08-10T19:42:07Z",
-    "message": "Delete compress.ps1",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/002605a10119d98bc826bbe857d40fad74f369a7"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "7661f3de002bb3d8b6eff52551199005e043955f",
-    "sha_short": "7661f3d",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "e237edf1e418ec9ebecda84f7d7af8f3ff480dce",
+    "sha_short": "e237edf",
     "author": "Pato (new acc)",
-    "date": "2026-08-10T19:37:16Z",
-    "message": "chore: minified all .OGG & .MP3 files (50% size reduction) + minified all .JSON files (#1580)",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7661f3de002bb3d8b6eff52551199005e043955f"
+    "date": "2026-08-30T20:39:32Z",
+    "message": "Update mobile.yml",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e237edf1e418ec9ebecda84f7d7af8f3ff480dce"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "d5bcf64e5fddab06ffa06cbb82406c178fd3a780",
-    "sha_short": "d5bcf64",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "fb15bb73c52efdc034ba49d15befb6ac99d4f017",
+    "sha_short": "fb15bb7",
     "author": "Pato (new acc)",
-    "date": "2026-08-10T17:55:02Z",
-    "message": "Merge pull request #2 from havaianasdestruido/minify-json",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d5bcf64e5fddab06ffa06cbb82406c178fd3a780"
+    "date": "2026-08-30T20:23:59Z",
+    "message": "Le fix (2/2)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/fb15bb73c52efdc034ba49d15befb6ac99d4f017"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "branch": "fix/ci-matrix-if",
-    "sha": "9133a46fdf112fb82f457dd782bc515d0ee95f01",
-    "sha_short": "9133a46",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "0a17cc3deb708b440cfad207a114d062d5dea213",
+    "sha_short": "0a17cc3",
+    "author": "Pato (new acc)",
+    "date": "2026-08-30T20:23:28Z",
+    "message": "Le fix (1/2)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0a17cc3deb708b440cfad207a114d062d5dea213"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "85ff8436e3cb28d72d56de320d50fa900b94a3d7",
+    "sha_short": "85ff843",
     "author": "havaianasdestruido",
-    "date": "2026-08-10T17:53:33Z",
-    "message": "chore: minified all .JSON files",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9133a46fdf112fb82f457dd782bc515d0ee95f01"
+    "date": "2026-08-28T23:24:01Z",
+    "message": "refactor: extract remaining monoliths into helper classes",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/85ff8436e3cb28d72d56de320d50fa900b94a3d7"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "4181d109d534da7874bc24beee64e44f2c30c43b",
+    "sha_short": "4181d10",
+    "author": "Pato (new acc)",
+    "date": "2026-08-28T18:26:37Z",
+    "message": "yay: new readme",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4181d109d534da7874bc24beee64e44f2c30c43b"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "387269d3c9879f53645b4c475e00d8dd6bb9935c",
+    "sha_short": "387269d",
+    "author": "havaianasdestruido",
+    "date": "2026-08-28T18:18:00Z",
+    "message": "ci: drop stale precompiled headers from hxcpp cache",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/387269d3c9879f53645b4c475e00d8dd6bb9935c"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "24be09902c3f78b95642048f88b5e3d741f65f2e",
+    "sha_short": "24be099",
+    "author": "havaianasdestruido",
+    "date": "2026-08-28T18:10:16Z",
+    "message": "fix: gate window coloring to Windows-only",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/24be09902c3f78b95642048f88b5e3d741f65f2e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "33e3acb8f3a7dd7fc1f031efd8605d1aa73c4cf5",
+    "sha_short": "33e3acb",
+    "author": "havaianasdestruido",
+    "date": "2026-08-28T18:02:39Z",
+    "message": "fix: restore compilation after source tree refactor",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/33e3acb8f3a7dd7fc1f031efd8605d1aa73c4cf5"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "e02f6c2b1d1d08c8712829a446b773506bcb26c0",
+    "sha_short": "e02f6c2",
+    "author": "havaianasdestruido",
+    "date": "2026-08-25T01:25:29Z",
+    "message": "refactor: reorganize source tree into packages (WIP)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e02f6c2b1d1d08c8712829a446b773506bcb26c0"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "6572cb3d2c4541cfdd348f51c7b37dee56be0b2c",
+    "sha_short": "6572cb3",
+    "author": "havaianasdestruido",
+    "date": "2026-08-23T19:15:47Z",
+    "message": "fix(python): normalize CRLF to LF before parsing",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6572cb3d2c4541cfdd348f51c7b37dee56be0b2c"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "71655834822ec21bb4db243d6b90ffdba28bd6b4",
+    "sha_short": "7165583",
+    "author": "havaianasdestruido",
+    "date": "2026-08-23T18:54:34Z",
+    "message": "feat: proper Linux GameMode support",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/71655834822ec21bb4db243d6b90ffdba28bd6b4"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "c62bc7aa4b83d582448e782dcab07ced14e97afe",
+    "sha_short": "c62bc7a",
+    "author": "havaianasdestruido",
+    "date": "2026-08-23T18:40:02Z",
+    "message": "build: pin hscript-improved to working commit",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c62bc7aa4b83d582448e782dcab07ced14e97afe"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0e38c-fnf-phoenix-engine",
+    "sha": "5bfc2ddcb01462eae38f315d4c4aca398f877092",
+    "sha_short": "5bfc2dd",
+    "author": "havaianasdestruido",
+    "date": "2026-08-23T18:27:16Z",
+    "message": "fix: strip UTF-8 BOM from JSON reads",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5bfc2ddcb01462eae38f315d4c4aca398f877092"
   },
   {
     "repo": "blaster",
@@ -4202,6 +4202,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "3bd85f1c5ce5ad5384f3c6941636e2eabd2c20cc",
+    "sha_short": "3bd85f1",
+    "author": "GitHub Action Bot",
+    "date": "2026-09-27T09:42:42Z",
+    "message": "📊 [2026-09-27 09:42:42 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/3bd85f1c5ce5ad5384f3c6941636e2eabd2c20cc"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "4652927517292e24f3e68a33018df8a383f18f2b",
     "sha_short": "4652927",
     "author": "GitHub Action Bot",
@@ -4292,12 +4302,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "cc16745125e692db6671d90fd9388171dcffa0aa",
-    "sha_short": "cc16745",
+    "sha": "317107fd6dbb0a8373147e97b36ebf7ac9af45f5",
+    "sha_short": "317107f",
     "author": "GitHub Action Bot",
-    "date": "2026-09-25T02:35:41Z",
-    "message": "📊 [2026-09-25 02:35:41 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/cc16745125e692db6671d90fd9388171dcffa0aa"
+    "date": "2026-09-20T20:16:46Z",
+    "message": "📊 [2026-09-20 20:16:46 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/317107fd6dbb0a8373147e97b36ebf7ac9af45f5"
   },
   {
     "repo": "sitemapping",
@@ -4390,14 +4400,14 @@
     "url": "https://github.com/havaianasdestruido/sitemapping/commit/5cdd65b34cd7dd38f5a2c04d760fd5073517c7bf"
   },
   {
-    "repo": "sitemapping",
+    "repo": "top100",
     "branch": "main",
-    "sha": "7af849f89b6d3e9decfb834f5cedcc3d7bee8c37",
-    "sha_short": "7af849f",
-    "author": "Pato (new acc)",
-    "date": "2026-09-19T14:59:14Z",
-    "message": "Change GITHUB_TOKEN to GITHUB_PAT in workflow",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/7af849f89b6d3e9decfb834f5cedcc3d7bee8c37"
+    "sha": "3f60b27613749013bf809b0872e80b7a0927f60e",
+    "sha_short": "3f60b27",
+    "author": "github-actions[bot]",
+    "date": "2026-09-27T14:52:19Z",
+    "message": "data: update top repos data (2026-09-27)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/3f60b27613749013bf809b0872e80b7a0927f60e"
   },
   {
     "repo": "top100",
@@ -4492,12 +4502,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "e7a9059028bb3b774db87f6353df6cef6252ab3a",
-    "sha_short": "e7a9059",
+    "sha": "c7665d0011c1f43d921afb8af22aad1664c51ddd",
+    "sha_short": "c7665d0",
     "author": "github-actions[bot]",
-    "date": "2026-09-25T22:53:17Z",
-    "message": "data: update top repos data (2026-09-25)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/e7a9059028bb3b774db87f6353df6cef6252ab3a"
+    "date": "2026-09-21T14:36:56Z",
+    "message": "data: update top repos data (2026-09-21)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/c7665d0011c1f43d921afb8af22aad1664c51ddd"
   },
   {
     "repo": "top100",
@@ -4588,16 +4598,6 @@
     "date": "2026-09-20T20:22:51Z",
     "message": "data: update top repos data (2026-09-20)",
     "url": "https://github.com/havaianasdestruido/top100/commit/10bf3c202df7250171f79545ebd0d423e1b42b8f"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "3238f03c96924197524b9faad42f8dc0952f9a1f",
-    "sha_short": "3238f03",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T20:21:58Z",
-    "message": "Create jekyll-gh-pages.yml",
-    "url": "https://github.com/havaianasdestruido/top100/commit/3238f03c96924197524b9faad42f8dc0952f9a1f"
   },
   {
     "repo": ".github",

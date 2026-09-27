@@ -1,5 +1,15 @@
 [
   {
+    "full_name": "guisende/SOURCE-CODE-TUTORIALS",
+    "url": "https://github.com/guisende/SOURCE-CODE-TUTORIALS",
+    "description": "CODES FROM MY TUTORIALS ON MY CHANNEL GO WATCH ////// CODIGOS DOS MEUS TUTORIAIS NO MEU CANAL VA ASSISTIR"
+  },
+  {
+    "full_name": "blue112/android-externs-haxe",
+    "url": "https://github.com/blue112/android-externs-haxe",
+    "description": "Android SDK externs for Haxe"
+  },
+  {
     "full_name": "guardianproject/android-support-library",
     "url": "https://github.com/guardianproject/android-support-library",
     "description": "A github clone of https://android.googlesource.com/platform/frameworks/support/"
