@@ -1,5 +1,10 @@
 [
   {
+    "full_name": "guardianproject/android-support-library",
+    "url": "https://github.com/guardianproject/android-support-library",
+    "description": "A github clone of https://android.googlesource.com/platform/frameworks/support/"
+  },
+  {
     "full_name": "havaianasdestruido/FNF-Phoenix-Engine",
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine",
     "description": "Phoenix Engine is an enhanced fork of JSE, which in turn is a fork of Psych but with performance-related additions."
