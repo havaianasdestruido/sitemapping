@@ -4202,6 +4202,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "29923c344685eb2d61146b7feed8db215dd8ee14",
+    "sha_short": "29923c3",
+    "author": "GitHub Action Bot",
+    "date": "2026-09-28T02:39:07Z",
+    "message": "📊 [2026-09-28 02:39:07 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/29923c344685eb2d61146b7feed8db215dd8ee14"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "65e5416144a4a97ce3703053cb6114d8a010c997",
     "sha_short": "65e5416",
     "author": "GitHub Action Bot",
@@ -4292,12 +4302,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "c6a3debff984dfb0cf21c87adf7b2e6621adcdbd",
-    "sha_short": "c6a3deb",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-25T23:02:41Z",
-    "message": "📊 [2026-09-25 23:02:41 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/c6a3debff984dfb0cf21c87adf7b2e6621adcdbd"
+    "sha": "7a2bb03300ce1cf52c3b40bae66716bbea6de0d5",
+    "sha_short": "7a2bb03",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:05Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/7a2bb03300ce1cf52c3b40bae66716bbea6de0d5"
   },
   {
     "repo": "sitemapping",
@@ -4392,12 +4402,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "b66d1152a90174daab03f6b132534edaf84d3ff0",
-    "sha_short": "b66d115",
+    "sha": "b113a1a7238707136a74b436700b150607d5a51c",
+    "sha_short": "b113a1a",
     "author": "Pato (new acc)",
-    "date": "2026-09-20T14:58:46Z",
-    "message": "Simplify commit message format in workflow",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/b66d1152a90174daab03f6b132534edaf84d3ff0"
+    "date": "2026-09-13T17:28:25Z",
+    "message": "Create repo-analyzer.yml",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/b113a1a7238707136a74b436700b150607d5a51c"
   },
   {
     "repo": "sitemapping",
@@ -4408,6 +4418,16 @@
     "date": "2026-09-13T17:27:15Z",
     "message": "Create generate_report.py",
     "url": "https://github.com/havaianasdestruido/sitemapping/commit/a6ebe1dd4f364ad874898f2a9a3628718a2b35f0"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "44bf32921ebd141af43523db7a7a210028cb998a",
+    "sha_short": "44bf329",
+    "author": "github-actions[bot]",
+    "date": "2026-09-28T06:01:56Z",
+    "message": "data: update top repos data (2026-09-28)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/44bf32921ebd141af43523db7a7a210028cb998a"
   },
   {
     "repo": "top100",
@@ -4502,12 +4522,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "e47d900d743469bdcae5c140007157d5954b56c5",
-    "sha_short": "e47d900",
+    "sha": "3ca829feb765922fa4ae810524dce908c0c22a53",
+    "sha_short": "3ca829f",
     "author": "github-actions[bot]",
-    "date": "2026-09-26T14:47:44Z",
-    "message": "data: update top repos data (2026-09-26)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/e47d900d743469bdcae5c140007157d5954b56c5"
+    "date": "2026-09-22T06:56:07Z",
+    "message": "data: update top repos data (2026-09-22)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/3ca829feb765922fa4ae810524dce908c0c22a53"
   },
   {
     "repo": "top100",
@@ -4598,16 +4618,6 @@
     "date": "2026-09-21T00:38:57Z",
     "message": "data: update top repos data (2026-09-21)",
     "url": "https://github.com/havaianasdestruido/top100/commit/563def76948e61ad0ed93a4c198648e96a91f0ed"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "748db272fa3dde12a41ce8c58e9404b70c2f7418",
-    "sha_short": "748db27",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-21T00:38:05Z",
-    "message": "Add .imgbotconfig for aggressive image compression",
-    "url": "https://github.com/havaianasdestruido/top100/commit/748db272fa3dde12a41ce8c58e9404b70c2f7418"
   },
   {
     "repo": ".github",
