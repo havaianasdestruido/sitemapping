@@ -364,6 +364,19 @@
     "url": "https://github.com/havaianasdestruido/pong-pop/pull/1"
   },
   {
+    "repo": "top100",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Publish the dataset as a real content site (AI/search visibility)",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-28T12:39:16Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0e7f2-top100",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/top100/pull/1"
+  },
+  {
     "repo": "art_radar",
     "state": "closed",
     "status": "merged",
@@ -416,6 +429,19 @@
     "url": "https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/pull/1"
   },
   {
+    "repo": "brasilapidumped",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Add ordered resumable BrasilAPI scraper",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-28T14:57:08Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0e7fe-brasilapidumped",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/brasilapidumped/pull/1"
+  },
+  {
     "repo": "BulkStarHistoryAdd",
     "state": "open",
     "status": "open",
@@ -440,6 +466,32 @@
     "head_branch": "imgbot",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/calculator/pull/1"
+  },
+  {
+    "repo": "dadosabertos",
+    "state": "open",
+    "status": "open",
+    "number": 1,
+    "title": "indexclone: mirror + de-duplicate the six public document listings",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-28T14:57:05Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0e80c-dadosabertos",
+    "commit_count": 6,
+    "url": "https://github.com/havaianasdestruido/dadosabertos/pull/1"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "state": "closed",
+    "status": "closed",
+    "number": 3,
+    "title": "Add IBGE Censo 2022 name datasets (top 10k nomes e sobrenomes) + scraper",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-28T14:37:03Z",
+    "base_branch": "master",
+    "head_branch": "arena/01a0e5b4-fnf-cubes-live-wallpaper",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/pull/3"
   },
   {
     "repo": "FNF-Cubes-Live-Wallpaper",
@@ -505,6 +557,19 @@
     "head_branch": "fix-readme-grammar-18253037270662955219",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/freellmapi/pull/1"
+  },
+  {
+    "repo": "g1",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Add G1 RSS scraper and deduplicated JSONL snapshot",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-28T14:56:09Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0e805-g1",
+    "commit_count": 4,
+    "url": "https://github.com/havaianasdestruido/g1/pull/1"
   },
   {
     "repo": "Giggles-Shit",

@@ -24,7 +24,9 @@
 {"repo": "PrintSpoolerAutoRun", "language": "C++", "bytes": 3652, "percent": 95.2}
 {"repo": "PrintSpoolerAutoRun", "language": "Batchfile", "bytes": 184, "percent": 4.8}
 {"repo": "sitemapping", "language": "Python", "bytes": 29474, "percent": 100.0}
-{"repo": "top100", "language": "Python", "bytes": 9510, "percent": 100.0}
+{"repo": "top100", "language": "HTML", "bytes": 1862211, "percent": 93.9}
+{"repo": "top100", "language": "Python", "bytes": 115745, "percent": 5.8}
+{"repo": "top100", "language": "CSS", "bytes": 4402, "percent": 0.2}
 {"repo": "art_radar", "language": "TypeScript", "bytes": 223521, "percent": 89.0}
 {"repo": "art_radar", "language": "HTML", "bytes": 26809, "percent": 10.7}
 {"repo": "art_radar", "language": "JavaScript", "bytes": 835, "percent": 0.3}
@@ -34,6 +36,7 @@
 {"repo": "BloodAndBacon-DnSpyEx", "language": "C#", "bytes": 11557836, "percent": 100.0}
 {"repo": "bloxNES", "language": "Lua", "bytes": 58862, "percent": 99.8}
 {"repo": "bloxNES", "language": "Luau", "bytes": 116, "percent": 0.2}
+{"repo": "brasilapidumped", "language": "Python", "bytes": 45827, "percent": 100.0}
 {"repo": "BulkStarHistoryAdd", "language": "PowerShell", "bytes": 7191, "percent": 100.0}
 {"repo": "calculator", "language": "C#", "bytes": 859232, "percent": 64.8}
 {"repo": "calculator", "language": "C++", "bytes": 424928, "percent": 32.0}
@@ -60,6 +63,7 @@
 {"repo": "freellmapi", "language": "Shell", "bytes": 4332, "percent": 0.1}
 {"repo": "freellmapi", "language": "Dockerfile", "bytes": 3698, "percent": 0.1}
 {"repo": "freellmapi", "language": "PowerShell", "bytes": 2940, "percent": 0.0}
+{"repo": "g1", "language": "Python", "bytes": 12964, "percent": 100.0}
 {"repo": "Giggles-Shit", "language": "JavaScript", "bytes": 40546, "percent": 100.0}
 {"repo": "havaianasdestruido.github.io", "language": "HTML", "bytes": 4053, "percent": 100.0}
 {"repo": "Hiphenatus", "language": "C#", "bytes": 100558, "percent": 93.3}

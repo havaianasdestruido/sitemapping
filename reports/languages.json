@@ -157,9 +157,21 @@
   },
   {
     "repo": "top100",
+    "language": "HTML",
+    "bytes": 1862211,
+    "percent": 93.9
+  },
+  {
+    "repo": "top100",
     "language": "Python",
-    "bytes": 9510,
-    "percent": 100.0
+    "bytes": 115745,
+    "percent": 5.8
+  },
+  {
+    "repo": "top100",
+    "language": "CSS",
+    "bytes": 4402,
+    "percent": 0.2
   },
   {
     "repo": "art_radar",
@@ -214,6 +226,12 @@
     "language": "Luau",
     "bytes": 116,
     "percent": 0.2
+  },
+  {
+    "repo": "brasilapidumped",
+    "language": "Python",
+    "bytes": 45827,
+    "percent": 100.0
   },
   {
     "repo": "BulkStarHistoryAdd",
@@ -370,6 +388,12 @@
     "language": "PowerShell",
     "bytes": 2940,
     "percent": 0.0
+  },
+  {
+    "repo": "g1",
+    "language": "Python",
+    "bytes": 12964,
+    "percent": 100.0
   },
   {
     "repo": "Giggles-Shit",

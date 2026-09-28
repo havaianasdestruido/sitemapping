@@ -25,7 +25,9 @@ pong-pop,CSS,687,7.1
 PrintSpoolerAutoRun,C++,3652,95.2
 PrintSpoolerAutoRun,Batchfile,184,4.8
 sitemapping,Python,29474,100.0
-top100,Python,9510,100.0
+top100,HTML,1862211,93.9
+top100,Python,115745,5.8
+top100,CSS,4402,0.2
 art_radar,TypeScript,223521,89.0
 art_radar,HTML,26809,10.7
 art_radar,JavaScript,835,0.3
@@ -35,6 +37,7 @@ AudioTaste,HTML,7933,7.1
 BloodAndBacon-DnSpyEx,C#,11557836,100.0
 bloxNES,Lua,58862,99.8
 bloxNES,Luau,116,0.2
+brasilapidumped,Python,45827,100.0
 BulkStarHistoryAdd,PowerShell,7191,100.0
 calculator,C#,859232,64.8
 calculator,C++,424928,32.0
@@ -61,6 +64,7 @@ freellmapi,CSS,5991,0.1
 freellmapi,Shell,4332,0.1
 freellmapi,Dockerfile,3698,0.1
 freellmapi,PowerShell,2940,0.0
+g1,Python,12964,100.0
 Giggles-Shit,JavaScript,40546,100.0
 havaianasdestruido.github.io,HTML,4053,100.0
 Hiphenatus,C#,100558,93.3

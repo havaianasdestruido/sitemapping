@@ -230,7 +230,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 50,
+    "contributions": 51,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -242,13 +242,13 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 53,
+    "contributions": 55,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
     "repo": "top100",
     "login": "havaianasdestruido",
-    "contributions": 17,
+    "contributions": 20,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -266,7 +266,7 @@
   {
     "repo": "art_radar",
     "login": "github-actions[bot]",
-    "contributions": 388,
+    "contributions": 389,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -498,6 +498,18 @@
     "profile_url": "https://github.com/ysfchn"
   },
   {
+    "repo": "brasilapidumped",
+    "login": "havaianasdestruido",
+    "contributions": 2,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "brasilapidumped",
+    "login": "arena-ai-coding-agent[bot]",
+    "contributions": 1,
+    "profile_url": "https://github.com/apps/arena-ai-coding-agent"
+  },
+  {
     "repo": "BulkStarHistoryAdd",
     "login": "havaianasdestruido",
     "contributions": 12,
@@ -682,6 +694,12 @@
     "login": "seyfer",
     "contributions": 1,
     "profile_url": "https://github.com/seyfer"
+  },
+  {
+    "repo": "dadosabertos",
+    "login": "arena-ai-coding-agent[bot]",
+    "contributions": 1,
+    "profile_url": "https://github.com/apps/arena-ai-coding-agent"
   },
   {
     "repo": "EleLab_v2",
@@ -946,6 +964,24 @@
     "login": "qinghuanandejiangshi",
     "contributions": 1,
     "profile_url": "https://github.com/qinghuanandejiangshi"
+  },
+  {
+    "repo": "g1",
+    "login": "havaianasdestruido",
+    "contributions": 4,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "g1",
+    "login": "arena-ai-coding-agent[bot]",
+    "contributions": 1,
+    "profile_url": "https://github.com/apps/arena-ai-coding-agent"
+  },
+  {
+    "repo": "g1",
+    "login": "github-actions[bot]",
+    "contributions": 1,
+    "profile_url": "https://github.com/apps/github-actions"
   },
   {
     "repo": "GH7zMAGNET",
@@ -1312,6 +1348,12 @@
     "login": "google-labs-jules[bot]",
     "contributions": 2,
     "profile_url": "https://github.com/apps/google-labs-jules"
+  },
+  {
+    "repo": "nomescenso2022",
+    "login": "arena-ai-coding-agent[bot]",
+    "contributions": 1,
+    "profile_url": "https://github.com/apps/arena-ai-coding-agent"
   },
   {
     "repo": "OdontoAura",

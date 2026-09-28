@@ -464,6 +464,22 @@
     "url": "https://github.com/havaianasdestruido/pong-pop/commit/ebce1a99b0c8c9c21ffd5527c3b589af2b134f73"
   },
   {
+    "repo": "top100",
+    "pr_number": 1,
+    "sha": "e3147393b4141b1d00ec9087e94d922160b0f150",
+    "sha_short": "e314739",
+    "message": "site: turn the 117-word page into a real content site for AI and search visibility",
+    "url": "https://github.com/havaianasdestruido/top100/commit/e3147393b4141b1d00ec9087e94d922160b0f150"
+  },
+  {
+    "repo": "top100",
+    "pr_number": 1,
+    "sha": "57aabb98925d9200f16f805c295fc63fc9f1a816",
+    "sha_short": "57aabb9",
+    "message": "review: fix 17 verified issues found in the first pass",
+    "url": "https://github.com/havaianasdestruido/top100/commit/57aabb98925d9200f16f805c295fc63fc9f1a816"
+  },
+  {
     "repo": "art_radar",
     "pr_number": 1,
     "sha": "56e35f40c0385e5afb0522cdc1676fcd78dd7272",
@@ -504,6 +520,14 @@
     "url": "https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/commit/100ad86e7cb044600a62531c9d5998558e4968e5"
   },
   {
+    "repo": "brasilapidumped",
+    "pr_number": 1,
+    "sha": "1d9201b24c43ff44f40b0fe8d1f3bfce70fea193",
+    "sha_short": "1d9201b",
+    "message": "feat: add ordered resumable BrasilAPI scraper and live run report",
+    "url": "https://github.com/havaianasdestruido/brasilapidumped/commit/1d9201b24c43ff44f40b0fe8d1f3bfce70fea193"
+  },
+  {
     "repo": "BulkStarHistoryAdd",
     "pr_number": 1,
     "sha": "0cdc36dad5cb32be088ac6afa40f2c6e8cb4ae01",
@@ -518,6 +542,54 @@
     "sha_short": "2ec7688",
     "message": "[ImgBot] Optimize images",
     "url": "https://github.com/havaianasdestruido/calculator/commit/2ec7688d290121f4b17e28dec9da97486e5fef6c"
+  },
+  {
+    "repo": "dadosabertos",
+    "pr_number": 1,
+    "sha": "36566647e1b5ae5f2f61c4d71c0eca0560321a1e",
+    "sha_short": "3656664",
+    "message": "indexclone: mirror + de-duplicate six public document listings",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/36566647e1b5ae5f2f61c4d71c0eca0560321a1e"
+  },
+  {
+    "repo": "dadosabertos",
+    "pr_number": 1,
+    "sha": "8ba0ce4fb5edc7f8e54f92135db90e9441e5d25d",
+    "sha_short": "8ba0ce4",
+    "message": "filters, stale-size handling, README and regenerated example outputs",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/8ba0ce4fb5edc7f8e54f92135db90e9441e5d25d"
+  },
+  {
+    "repo": "dadosabertos",
+    "pr_number": 1,
+    "sha": "1705d08eb525f9ae723485c3f77bbe84a7f8eec2",
+    "sha_short": "1705d08",
+    "message": "snapshots: add Macau March 2013 and the CVM DFP archive listings",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/1705d08eb525f9ae723485c3f77bbe84a7f8eec2"
+  },
+  {
+    "repo": "dadosabertos",
+    "pr_number": 1,
+    "sha": "00f816b3788b57ac348a7759aae52ece7aaa919e",
+    "sha_short": "00f816b",
+    "message": "README: keep the real run out of the committed example folder",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/00f816b3788b57ac348a7759aae52ece7aaa919e"
+  },
+  {
+    "repo": "dadosabertos",
+    "pr_number": 1,
+    "sha": "c686ccee266ca87958addf7d35d6c5cf16ac9f11",
+    "sha_short": "c686cce",
+    "message": "review fixes: budget double-charge, index-page containment, config defaults",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/c686ccee266ca87958addf7d35d6c5cf16ac9f11"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "pr_number": 3,
+    "sha": "94b2b4ec1d5fa75a25b43b95b0c3137160113422",
+    "sha_short": "94b2b4e",
+    "message": "Add IBGE Censo 2022 name datasets and scraper",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/94b2b4ec1d5fa75a25b43b95b0c3137160113422"
   },
   {
     "repo": "FNF-Cubes-Live-Wallpaper",
@@ -598,6 +670,38 @@
     "sha_short": "e27d942",
     "message": "docs: fix README grammar and spelling",
     "url": "https://github.com/havaianasdestruido/freellmapi/commit/e27d942a5565bfab15708c929477b42ccf45a586"
+  },
+  {
+    "repo": "g1",
+    "pr_number": 1,
+    "sha": "5577785a62a7a582edf801e4c6b9e75aadafda2e",
+    "sha_short": "5577785",
+    "message": "Add G1 RSS merger with deduplication and tests",
+    "url": "https://github.com/havaianasdestruido/g1/commit/5577785a62a7a582edf801e4c6b9e75aadafda2e"
+  },
+  {
+    "repo": "g1",
+    "pr_number": 1,
+    "sha": "75eaf3498df4f50018da7195a52ed2445b7a20cd",
+    "sha_short": "75eaf34",
+    "message": "Commit live RSS snapshot from Actions runner",
+    "url": "https://github.com/havaianasdestruido/g1/commit/75eaf3498df4f50018da7195a52ed2445b7a20cd"
+  },
+  {
+    "repo": "g1",
+    "pr_number": 1,
+    "sha": "9c406074f0f7248d98419b264d7a5749eb9136f4",
+    "sha_short": "9c40607",
+    "message": "Update G1 RSS JSONL snapshot",
+    "url": "https://github.com/havaianasdestruido/g1/commit/9c406074f0f7248d98419b264d7a5749eb9136f4"
+  },
+  {
+    "repo": "g1",
+    "pr_number": 1,
+    "sha": "32dafde694e374755166647d12f8882665b8b2cc",
+    "sha_short": "32dafde",
+    "message": "Guard RSS snapshot job to its branch [skip ci]",
+    "url": "https://github.com/havaianasdestruido/g1/commit/32dafde694e374755166647d12f8882665b8b2cc"
   },
   {
     "repo": "Giggles-Shit",

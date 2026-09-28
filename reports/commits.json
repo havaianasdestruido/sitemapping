@@ -4202,6 +4202,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "b148e3dc14c26c724320306ef442854f5806542b",
+    "sha_short": "b148e3d",
+    "author": "GitHub Action Bot",
+    "date": "2026-09-28T10:23:32Z",
+    "message": "📊 [2026-09-28 10:23:32 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/b148e3dc14c26c724320306ef442854f5806542b"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "29923c344685eb2d61146b7feed8db215dd8ee14",
     "sha_short": "29923c3",
     "author": "GitHub Action Bot",
@@ -4292,12 +4302,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "ec34df8fef675d178a2a9d55063e1fa836ebbef6",
-    "sha_short": "ec34df8",
+    "sha": "01fed62471bfa6aafca67bb77381f9ff2455e15e",
+    "sha_short": "01fed62",
     "author": "GitHub Action Bot",
-    "date": "2026-09-26T02:38:37Z",
-    "message": "📊 [2026-09-26 02:38:37 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/ec34df8fef675d178a2a9d55063e1fa836ebbef6"
+    "date": "2026-09-21T00:41:43Z",
+    "message": "📊 [2026-09-21 00:41:43 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/01fed62471bfa6aafca67bb77381f9ff2455e15e"
   },
   {
     "repo": "sitemapping",
@@ -4392,12 +4402,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "c1eb7982f0d7b253bc9aed6c3e44c9cdd6a50fd1",
-    "sha_short": "c1eb798",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:07:17Z",
-    "message": "Adjust maximum limits for commits and branches",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/c1eb7982f0d7b253bc9aed6c3e44c9cdd6a50fd1"
+    "sha": "74905013cec52ff6f220f129c172f9d7a5a0b006",
+    "sha_short": "7490501",
+    "author": "GitHub Action Bot",
+    "date": "2026-09-13T17:31:21Z",
+    "message": "📊 Update repository report [2026-09-13 17:31:21 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/74905013cec52ff6f220f129c172f9d7a5a0b006"
   },
   {
     "repo": "sitemapping",
@@ -4418,6 +4428,276 @@
     "date": "2026-09-13T17:27:15Z",
     "message": "Create generate_report.py",
     "url": "https://github.com/havaianasdestruido/sitemapping/commit/a6ebe1dd4f364ad874898f2a9a3628718a2b35f0"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "57aabb98925d9200f16f805c295fc63fc9f1a816",
+    "sha_short": "57aabb9",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T13:04:56Z",
+    "message": "review: fix 17 verified issues found in the first pass",
+    "url": "https://github.com/havaianasdestruido/top100/commit/57aabb98925d9200f16f805c295fc63fc9f1a816"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "e3147393b4141b1d00ec9087e94d922160b0f150",
+    "sha_short": "e314739",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T12:38:52Z",
+    "message": "site: turn the 117-word page into a real content site for AI and search visibility",
+    "url": "https://github.com/havaianasdestruido/top100/commit/e3147393b4141b1d00ec9087e94d922160b0f150"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "44bf32921ebd141af43523db7a7a210028cb998a",
+    "sha_short": "44bf329",
+    "author": "github-actions[bot]",
+    "date": "2026-09-28T06:01:56Z",
+    "message": "data: update top repos data (2026-09-28)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/44bf32921ebd141af43523db7a7a210028cb998a"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "b6a20d96e54e48f1b818450fe739699414d71970",
+    "sha_short": "b6a20d9",
+    "author": "github-actions[bot]",
+    "date": "2026-09-28T00:04:07Z",
+    "message": "data: update top repos data (2026-09-28)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/b6a20d96e54e48f1b818450fe739699414d71970"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "2ce913f2e097ce2ac8374ff4ff8481a02bbecc32",
+    "sha_short": "2ce913f",
+    "author": "github-actions[bot]",
+    "date": "2026-09-27T21:42:26Z",
+    "message": "data: update top repos data (2026-09-27)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/2ce913f2e097ce2ac8374ff4ff8481a02bbecc32"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "cfca86e1be4b2c0590634a4e101afa77db4a4175",
+    "sha_short": "cfca86e",
+    "author": "github-actions[bot]",
+    "date": "2026-09-27T18:43:12Z",
+    "message": "data: update top repos data (2026-09-27)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/cfca86e1be4b2c0590634a4e101afa77db4a4175"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "3f60b27613749013bf809b0872e80b7a0927f60e",
+    "sha_short": "3f60b27",
+    "author": "github-actions[bot]",
+    "date": "2026-09-27T14:52:19Z",
+    "message": "data: update top repos data (2026-09-27)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/3f60b27613749013bf809b0872e80b7a0927f60e"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "f2ee0ebd527190d53aa1f67c93bb0997590ce769",
+    "sha_short": "f2ee0eb",
+    "author": "github-actions[bot]",
+    "date": "2026-09-27T09:35:07Z",
+    "message": "data: update top repos data (2026-09-27)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/f2ee0ebd527190d53aa1f67c93bb0997590ce769"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "1d2ee2cdd5f0995906682913d339daf51c110005",
+    "sha_short": "1d2ee2c",
+    "author": "github-actions[bot]",
+    "date": "2026-09-27T03:08:53Z",
+    "message": "data: update top repos data (2026-09-27)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/1d2ee2cdd5f0995906682913d339daf51c110005"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "ff24016d9f46338d475a69f6652e536d72116a3b",
+    "sha_short": "ff24016",
+    "author": "github-actions[bot]",
+    "date": "2026-09-26T23:58:20Z",
+    "message": "data: update top repos data (2026-09-26)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/ff24016d9f46338d475a69f6652e536d72116a3b"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "7a5c02e5a1c84b9bbac7f7220b6c41637c11a8c8",
+    "sha_short": "7a5c02e",
+    "author": "github-actions[bot]",
+    "date": "2026-09-22T17:24:24Z",
+    "message": "data: update top repos data (2026-09-22)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/7a5c02e5a1c84b9bbac7f7220b6c41637c11a8c8"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "abab9a1bc47088eeacf4349201eb40bfc710b76f",
+    "sha_short": "abab9a1",
+    "author": "github-actions[bot]",
+    "date": "2026-09-22T12:11:23Z",
+    "message": "data: update top repos data (2026-09-22)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/abab9a1bc47088eeacf4349201eb40bfc710b76f"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "3ca829feb765922fa4ae810524dce908c0c22a53",
+    "sha_short": "3ca829f",
+    "author": "github-actions[bot]",
+    "date": "2026-09-22T06:56:07Z",
+    "message": "data: update top repos data (2026-09-22)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/3ca829feb765922fa4ae810524dce908c0c22a53"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "5e7570af4cb9fbf7a0c76d1da9550f6823370888",
+    "sha_short": "5e7570a",
+    "author": "github-actions[bot]",
+    "date": "2026-09-22T01:20:11Z",
+    "message": "data: update top repos data (2026-09-22)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/5e7570af4cb9fbf7a0c76d1da9550f6823370888"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "a9228121eb110957474bf70ca9002aa5c7e49db7",
+    "sha_short": "a922812",
+    "author": "github-actions[bot]",
+    "date": "2026-09-21T22:53:49Z",
+    "message": "data: update top repos data (2026-09-21)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/a9228121eb110957474bf70ca9002aa5c7e49db7"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "b2f273be75fec726e72aa59fa1b5fb65c45ed4d8",
+    "sha_short": "b2f273b",
+    "author": "github-actions[bot]",
+    "date": "2026-09-21T19:47:58Z",
+    "message": "data: update top repos data (2026-09-21)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/b2f273be75fec726e72aa59fa1b5fb65c45ed4d8"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "c7665d0011c1f43d921afb8af22aad1664c51ddd",
+    "sha_short": "c7665d0",
+    "author": "github-actions[bot]",
+    "date": "2026-09-21T14:36:56Z",
+    "message": "data: update top repos data (2026-09-21)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/c7665d0011c1f43d921afb8af22aad1664c51ddd"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "a48b212d6b3b79b9ec2f24b956dee679b22545da",
+    "sha_short": "a48b212",
+    "author": "github-actions[bot]",
+    "date": "2026-09-21T07:20:17Z",
+    "message": "data: update top repos data (2026-09-21)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/a48b212d6b3b79b9ec2f24b956dee679b22545da"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "62cdd4dfedc004ef723890a3eb97adda10907611",
+    "sha_short": "62cdd4d",
+    "author": "github-actions[bot]",
+    "date": "2026-09-21T01:55:12Z",
+    "message": "data: update top repos data (2026-09-21)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/62cdd4dfedc004ef723890a3eb97adda10907611"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "1fab4ce39708cefca5ea71c432108406cdcde873",
+    "sha_short": "1fab4ce",
+    "author": "github-actions[bot]",
+    "date": "2026-09-21T01:10:58Z",
+    "message": "data: update top repos data (2026-09-21)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/1fab4ce39708cefca5ea71c432108406cdcde873"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "b380d9a5fc7d141fdbc6c963b875b53d99195d55",
+    "sha_short": "b380d9a",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:23:45Z",
+    "message": "Create run.yml",
+    "url": "https://github.com/havaianasdestruido/top100/commit/b380d9a5fc7d141fdbc6c963b875b53d99195d55"
+  },
+  {
+    "repo": "top100",
+    "branch": "arena/01a0e7f2-top100",
+    "sha": "c189c2a73d0e2b4b620d11ff5639cba73f056ee4",
+    "sha_short": "c189c2a",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:23:07Z",
+    "message": "Create fetch_top_repos.py",
+    "url": "https://github.com/havaianasdestruido/top100/commit/c189c2a73d0e2b4b620d11ff5639cba73f056ee4"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "c0912e9195ef3f1dcde41c58e91f550014b7f9e1",
+    "sha_short": "c0912e9",
+    "author": "github-actions[bot]",
+    "date": "2026-09-28T18:00:12Z",
+    "message": "data: update top repos data (2026-09-28 18:00 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/c0912e9195ef3f1dcde41c58e91f550014b7f9e1"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "7621860dee31fb445b9a73b05797dea9ce9c5476",
+    "sha_short": "7621860",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T17:57:47Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0e7f2-top100",
+    "url": "https://github.com/havaianasdestruido/top100/commit/7621860dee31fb445b9a73b05797dea9ce9c5476"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "b258bcc566c3d3c11cf1cc1810342be4e1b21718",
+    "sha_short": "b258bcc",
+    "author": "github-actions[bot]",
+    "date": "2026-09-28T14:37:52Z",
+    "message": "data: update top repos data (2026-09-28)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/b258bcc566c3d3c11cf1cc1810342be4e1b21718"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "57aabb98925d9200f16f805c295fc63fc9f1a816",
+    "sha_short": "57aabb9",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T13:04:56Z",
+    "message": "review: fix 17 verified issues found in the first pass",
+    "url": "https://github.com/havaianasdestruido/top100/commit/57aabb98925d9200f16f805c295fc63fc9f1a816"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "e3147393b4141b1d00ec9087e94d922160b0f150",
+    "sha_short": "e314739",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T12:38:52Z",
+    "message": "site: turn the 117-word page into a real content site for AI and search visibility",
+    "url": "https://github.com/havaianasdestruido/top100/commit/e3147393b4141b1d00ec9087e94d922160b0f150"
   },
   {
     "repo": "top100",
@@ -4472,52 +4752,52 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "f2ee0ebd527190d53aa1f67c93bb0997590ce769",
-    "sha_short": "f2ee0eb",
+    "sha": "fbe62e6ed1eb5fecc4397c5402c5c26e6e635888",
+    "sha_short": "fbe62e6",
     "author": "github-actions[bot]",
-    "date": "2026-09-27T09:35:07Z",
-    "message": "data: update top repos data (2026-09-27)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/f2ee0ebd527190d53aa1f67c93bb0997590ce769"
+    "date": "2026-09-23T02:00:52Z",
+    "message": "data: update top repos data (2026-09-23)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/fbe62e6ed1eb5fecc4397c5402c5c26e6e635888"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "1d2ee2cdd5f0995906682913d339daf51c110005",
-    "sha_short": "1d2ee2c",
+    "sha": "a00f89773edcb92b1c5609042b68dc1e18fd48aa",
+    "sha_short": "a00f897",
     "author": "github-actions[bot]",
-    "date": "2026-09-27T03:08:53Z",
-    "message": "data: update top repos data (2026-09-27)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/1d2ee2cdd5f0995906682913d339daf51c110005"
+    "date": "2026-09-22T23:20:22Z",
+    "message": "data: update top repos data (2026-09-22)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/a00f89773edcb92b1c5609042b68dc1e18fd48aa"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "ff24016d9f46338d475a69f6652e536d72116a3b",
-    "sha_short": "ff24016",
+    "sha": "8e2356494b3ac900ddda11232eef7a60192a406a",
+    "sha_short": "8e23564",
     "author": "github-actions[bot]",
-    "date": "2026-09-26T23:58:20Z",
-    "message": "data: update top repos data (2026-09-26)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/ff24016d9f46338d475a69f6652e536d72116a3b"
+    "date": "2026-09-22T20:33:41Z",
+    "message": "data: update top repos data (2026-09-22)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/8e2356494b3ac900ddda11232eef7a60192a406a"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "e946c7f4652fde3688fc7e2316835b68254fa032",
-    "sha_short": "e946c7f",
+    "sha": "7a5c02e5a1c84b9bbac7f7220b6c41637c11a8c8",
+    "sha_short": "7a5c02e",
     "author": "github-actions[bot]",
-    "date": "2026-09-26T21:40:05Z",
-    "message": "data: update top repos data (2026-09-26)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/e946c7f4652fde3688fc7e2316835b68254fa032"
+    "date": "2026-09-22T17:24:24Z",
+    "message": "data: update top repos data (2026-09-22)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/7a5c02e5a1c84b9bbac7f7220b6c41637c11a8c8"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "9c7cbef9ea46d4eed3b9fc73b08bed950c3eba14",
-    "sha_short": "9c7cbef",
+    "sha": "abab9a1bc47088eeacf4349201eb40bfc710b76f",
+    "sha_short": "abab9a1",
     "author": "github-actions[bot]",
-    "date": "2026-09-26T18:08:15Z",
-    "message": "data: update top repos data (2026-09-26)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/9c7cbef9ea46d4eed3b9fc73b08bed950c3eba14"
+    "date": "2026-09-22T12:11:23Z",
+    "message": "data: update top repos data (2026-09-22)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/abab9a1bc47088eeacf4349201eb40bfc710b76f"
   },
   {
     "repo": "top100",
@@ -4572,52 +4852,52 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "a48b212d6b3b79b9ec2f24b956dee679b22545da",
-    "sha_short": "a48b212",
-    "author": "github-actions[bot]",
-    "date": "2026-09-21T07:20:17Z",
-    "message": "data: update top repos data (2026-09-21)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/a48b212d6b3b79b9ec2f24b956dee679b22545da"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "62cdd4dfedc004ef723890a3eb97adda10907611",
-    "sha_short": "62cdd4d",
-    "author": "github-actions[bot]",
-    "date": "2026-09-21T01:55:12Z",
-    "message": "data: update top repos data (2026-09-21)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/62cdd4dfedc004ef723890a3eb97adda10907611"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "1fab4ce39708cefca5ea71c432108406cdcde873",
-    "sha_short": "1fab4ce",
-    "author": "github-actions[bot]",
-    "date": "2026-09-21T01:10:58Z",
-    "message": "data: update top repos data (2026-09-21)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/1fab4ce39708cefca5ea71c432108406cdcde873"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "623f15dea9611cd851b9c4733174367b4502b4fc",
-    "sha_short": "623f15d",
+    "sha": "0207851c9a298ca56a09326f975248ed5d0f867a",
+    "sha_short": "0207851",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-21T01:10:09Z",
-    "message": "Set imgbot schedule to weekly",
-    "url": "https://github.com/havaianasdestruido/top100/commit/623f15dea9611cd851b9c4733174367b4502b4fc"
+    "date": "2026-09-20T19:29:46Z",
+    "message": "Create README.md",
+    "url": "https://github.com/havaianasdestruido/top100/commit/0207851c9a298ca56a09326f975248ed5d0f867a"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "563def76948e61ad0ed93a4c198648e96a91f0ed",
-    "sha_short": "563def7",
-    "author": "github-actions[bot]",
-    "date": "2026-09-21T00:38:57Z",
-    "message": "data: update top repos data (2026-09-21)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/563def76948e61ad0ed93a4c198648e96a91f0ed"
+    "sha": "84283a8fd730a005d486bd2ea20ee6980b965ed7",
+    "sha_short": "84283a8",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:28:02Z",
+    "message": "Rename fetch_top_repos.py to fetch_top_repos.py",
+    "url": "https://github.com/havaianasdestruido/top100/commit/84283a8fd730a005d486bd2ea20ee6980b965ed7"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "6935cafd0583ab45571057fdfeb40999f73e88e3",
+    "sha_short": "6935caf",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:27:48Z",
+    "message": "Update run.yml",
+    "url": "https://github.com/havaianasdestruido/top100/commit/6935cafd0583ab45571057fdfeb40999f73e88e3"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "b380d9a5fc7d141fdbc6c963b875b53d99195d55",
+    "sha_short": "b380d9a",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:23:45Z",
+    "message": "Create run.yml",
+    "url": "https://github.com/havaianasdestruido/top100/commit/b380d9a5fc7d141fdbc6c963b875b53d99195d55"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "c189c2a73d0e2b4b620d11ff5639cba73f056ee4",
+    "sha_short": "c189c2a",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:23:07Z",
+    "message": "Create fetch_top_repos.py",
+    "url": "https://github.com/havaianasdestruido/top100/commit/c189c2a73d0e2b4b620d11ff5639cba73f056ee4"
   },
   {
     "repo": ".github",
@@ -5162,6 +5442,16 @@
   {
     "repo": "art_radar",
     "branch": "main",
+    "sha": "6c4e365a33c96e983bd3a01f09c6e84292b3652a",
+    "sha_short": "6c4e365",
+    "author": "github-actions[bot]",
+    "date": "2026-09-28T18:31:47Z",
+    "message": "chore: update manifest.json",
+    "url": "https://github.com/havaianasdestruido/art_radar/commit/6c4e365a33c96e983bd3a01f09c6e84292b3652a"
+  },
+  {
+    "repo": "art_radar",
+    "branch": "main",
     "sha": "a50bfe3d11c6a0ae6af25a1223fc71be73b01d36",
     "sha_short": "a50bfe3",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -5252,12 +5542,12 @@
   {
     "repo": "art_radar",
     "branch": "main",
-    "sha": "fceb7137b600ba3f89fa9a8319d756192038fd9b",
-    "sha_short": "fceb713",
+    "sha": "e276d9c7c92eb61fc2aca79f0fbb10219f3cbe38",
+    "sha_short": "e276d9c",
     "author": "github-actions[bot]",
-    "date": "2026-09-20T22:28:07Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/fceb7137b600ba3f89fa9a8319d756192038fd9b"
+    "date": "2026-08-18T20:43:36Z",
+    "message": "digest: 2026-08-18 daily digest",
+    "url": "https://github.com/havaianasdestruido/art_radar/commit/e276d9c7c92eb61fc2aca79f0fbb10219f3cbe38"
   },
   {
     "repo": "art_radar",
@@ -5352,12 +5642,12 @@
   {
     "repo": "art_radar",
     "branch": "main",
-    "sha": "44291aa2e193728ea73aea5eba52626637508a21",
-    "sha_short": "44291aa",
+    "sha": "5bad29ea477f5695e01282ce7d967f2ed751224f",
+    "sha_short": "5bad29e",
     "author": "github-actions[bot]",
-    "date": "2026-08-13T21:05:37Z",
-    "message": "digest: 2026-08-13 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/44291aa2e193728ea73aea5eba52626637508a21"
+    "date": "2026-07-30T21:28:09Z",
+    "message": "chore: update manifest.json",
+    "url": "https://github.com/havaianasdestruido/art_radar/commit/5bad29ea477f5695e01282ce7d967f2ed751224f"
   },
   {
     "repo": "art_radar",
@@ -5452,12 +5742,12 @@
   {
     "repo": "art_radar",
     "branch": "main",
-    "sha": "d5807461cff6a96813cec827c7f864b62096860c",
-    "sha_short": "d580746",
-    "author": "github-actions[bot]",
-    "date": "2026-07-25T21:12:45Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/d5807461cff6a96813cec827c7f864b62096860c"
+    "sha": "adf1ebe64a5a0a6ef7443cddce51fd5a479f183a",
+    "sha_short": "adf1ebe",
+    "author": "litang9",
+    "date": "2026-07-15T13:22:44Z",
+    "message": "ci: schedule daily digest at 21:13 UTC (05:13 CST) to dodge z.ai daytime overload",
+    "url": "https://github.com/havaianasdestruido/art_radar/commit/adf1ebe64a5a0a6ef7443cddce51fd5a479f183a"
   },
   {
     "repo": "art_radar",
@@ -5548,16 +5838,6 @@
     "date": "2026-07-11T03:51:55Z",
     "message": "chore: update manifest.json",
     "url": "https://github.com/havaianasdestruido/art_radar/commit/14bc15ba3ff3f4ed97e3a6ad66db30d1faaf6d80"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "17428101714470e6b8c4ea2e53eecc0fd567126c",
-    "sha_short": "1742810",
-    "author": "github-actions[bot]",
-    "date": "2026-07-11T03:51:53Z",
-    "message": "digest: 2026-07-11 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/17428101714470e6b8c4ea2e53eecc0fd567126c"
   },
   {
     "repo": "AudioTaste",
@@ -6680,6 +6960,56 @@
     "url": "https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/commit/4bb8f0603ea1a872ab81f114ce0d2d828bd7e0cc"
   },
   {
+    "repo": "brasilapidumped",
+    "branch": "arena/01a0e7fe-brasilapidumped",
+    "sha": "1d9201b24c43ff44f40b0fe8d1f3bfce70fea193",
+    "sha_short": "1d9201b",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T14:56:57Z",
+    "message": "feat: add ordered resumable BrasilAPI scraper and live run report",
+    "url": "https://github.com/havaianasdestruido/brasilapidumped/commit/1d9201b24c43ff44f40b0fe8d1f3bfce70fea193"
+  },
+  {
+    "repo": "brasilapidumped",
+    "branch": "arena/01a0e7fe-brasilapidumped",
+    "sha": "9c91a3fd3da1191322901d20b5896ee890b01522",
+    "sha_short": "9c91a3f",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-28T12:29:54Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/brasilapidumped/commit/9c91a3fd3da1191322901d20b5896ee890b01522"
+  },
+  {
+    "repo": "brasilapidumped",
+    "branch": "main",
+    "sha": "0fcf9ce622818a938642f7f6ae8c4222e85e239b",
+    "sha_short": "0fcf9ce",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T17:32:39Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0e7fe-brasilapidumped",
+    "url": "https://github.com/havaianasdestruido/brasilapidumped/commit/0fcf9ce622818a938642f7f6ae8c4222e85e239b"
+  },
+  {
+    "repo": "brasilapidumped",
+    "branch": "main",
+    "sha": "1d9201b24c43ff44f40b0fe8d1f3bfce70fea193",
+    "sha_short": "1d9201b",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T14:56:57Z",
+    "message": "feat: add ordered resumable BrasilAPI scraper and live run report",
+    "url": "https://github.com/havaianasdestruido/brasilapidumped/commit/1d9201b24c43ff44f40b0fe8d1f3bfce70fea193"
+  },
+  {
+    "repo": "brasilapidumped",
+    "branch": "main",
+    "sha": "9c91a3fd3da1191322901d20b5896ee890b01522",
+    "sha_short": "9c91a3f",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-28T12:29:54Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/brasilapidumped/commit/9c91a3fd3da1191322901d20b5896ee890b01522"
+  },
+  {
     "repo": "BulkStarHistoryAdd",
     "branch": "imgbot",
     "sha": "0cdc36dad5cb32be088ac6afa40f2c6e8cb4ae01",
@@ -7280,6 +7610,86 @@
     "url": "https://github.com/havaianasdestruido/calculator/commit/1c3d6acfd87c95e3afaffb2402003cadf242cd83"
   },
   {
+    "repo": "dadosabertos",
+    "branch": "arena/01a0e80c-dadosabertos",
+    "sha": "8635c04cf229c6396879860c510f7696630cd261",
+    "sha_short": "8635c04",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T18:05:23Z",
+    "message": "budget: charge streamed bytes beyond the amount actually reserved",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/8635c04cf229c6396879860c510f7696630cd261"
+  },
+  {
+    "repo": "dadosabertos",
+    "branch": "arena/01a0e80c-dadosabertos",
+    "sha": "c686ccee266ca87958addf7d35d6c5cf16ac9f11",
+    "sha_short": "c686cce",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T17:33:31Z",
+    "message": "review fixes: budget double-charge, index-page containment, config defaults",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/c686ccee266ca87958addf7d35d6c5cf16ac9f11"
+  },
+  {
+    "repo": "dadosabertos",
+    "branch": "arena/01a0e80c-dadosabertos",
+    "sha": "00f816b3788b57ac348a7759aae52ece7aaa919e",
+    "sha_short": "00f816b",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T13:08:08Z",
+    "message": "README: keep the real run out of the committed example folder",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/00f816b3788b57ac348a7759aae52ece7aaa919e"
+  },
+  {
+    "repo": "dadosabertos",
+    "branch": "arena/01a0e80c-dadosabertos",
+    "sha": "1705d08eb525f9ae723485c3f77bbe84a7f8eec2",
+    "sha_short": "1705d08",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T13:07:56Z",
+    "message": "snapshots: add Macau March 2013 and the CVM DFP archive listings",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/1705d08eb525f9ae723485c3f77bbe84a7f8eec2"
+  },
+  {
+    "repo": "dadosabertos",
+    "branch": "arena/01a0e80c-dadosabertos",
+    "sha": "8ba0ce4fb5edc7f8e54f92135db90e9441e5d25d",
+    "sha_short": "8ba0ce4",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T13:07:24Z",
+    "message": "filters, stale-size handling, README and regenerated example outputs",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/8ba0ce4fb5edc7f8e54f92135db90e9441e5d25d"
+  },
+  {
+    "repo": "dadosabertos",
+    "branch": "arena/01a0e80c-dadosabertos",
+    "sha": "36566647e1b5ae5f2f61c4d71c0eca0560321a1e",
+    "sha_short": "3656664",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T13:06:24Z",
+    "message": "indexclone: mirror + de-duplicate six public document listings",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/36566647e1b5ae5f2f61c4d71c0eca0560321a1e"
+  },
+  {
+    "repo": "dadosabertos",
+    "branch": "arena/01a0e80c-dadosabertos",
+    "sha": "a13e30a25df85f893b8d38a00d60780463e30d27",
+    "sha_short": "a13e30a",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-28T12:44:59Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/a13e30a25df85f893b8d38a00d60780463e30d27"
+  },
+  {
+    "repo": "dadosabertos",
+    "branch": "main",
+    "sha": "a13e30a25df85f893b8d38a00d60780463e30d27",
+    "sha_short": "a13e30a",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-28T12:44:59Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/a13e30a25df85f893b8d38a00d60780463e30d27"
+  },
+  {
     "repo": "EleLab_v2",
     "branch": "master",
     "sha": "9306cddca1e8b6b14c4f6a4f572579d2eedd44df",
@@ -7718,6 +8128,86 @@
     "date": "2026-08-03T16:52:30Z",
     "message": "initial commit",
     "url": "https://github.com/havaianasdestruido/face-tagger/commit/514a70a8ccaafb6cc6feff7061884fecc80fe05d"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "arena/01a0e5b4-fnf-cubes-live-wallpaper",
+    "sha": "94b2b4ec1d5fa75a25b43b95b0c3137160113422",
+    "sha_short": "94b2b4e",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T14:36:44Z",
+    "message": "Add IBGE Censo 2022 name datasets and scraper",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/94b2b4ec1d5fa75a25b43b95b0c3137160113422"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "arena/01a0e5b4-fnf-cubes-live-wallpaper",
+    "sha": "7932c3da69e39bb80c90f390894f6f44368ed034",
+    "sha_short": "7932c3d",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T20:29:18Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0e431-fnf-cubes-live-wallpaper",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/7932c3da69e39bb80c90f390894f6f44368ed034"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "arena/01a0e5b4-fnf-cubes-live-wallpaper",
+    "sha": "6b8c7f0828b678394dfb6aec7a65edd0824be3e7",
+    "sha_short": "6b8c7f0",
+    "author": "arena-agent",
+    "date": "2026-09-27T20:25:06Z",
+    "message": "Check the fetched icons against IconGroups.java and back up replaced ones",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/6b8c7f0828b678394dfb6aec7a65edd0824be3e7"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "arena/01a0e5b4-fnf-cubes-live-wallpaper",
+    "sha": "2ff4d00e48f7bf799a01069cfb93ff3bd96f6b6c",
+    "sha_short": "2ff4d00",
+    "author": "arena-agent",
+    "date": "2026-09-27T19:51:07Z",
+    "message": "Harden the icon publishing in tools/fetch_icons.py",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/2ff4d00e48f7bf799a01069cfb93ff3bd96f6b6c"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "arena/01a0e5b4-fnf-cubes-live-wallpaper",
+    "sha": "8d2b97416c77aad2ec3f01f6330e0b0c3cbf7f2b",
+    "sha_short": "8d2b974",
+    "author": "arena-agent",
+    "date": "2026-09-27T19:40:25Z",
+    "message": "Address the review comments on the icon group branch",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/8d2b97416c77aad2ec3f01f6330e0b0c3cbf7f2b"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "arena/01a0e5b4-fnf-cubes-live-wallpaper",
+    "sha": "79c2cea8287f726e713eef0c602b1879599ae92d",
+    "sha_short": "79c2cea",
+    "author": "arena-agent",
+    "date": "2026-09-27T19:11:15Z",
+    "message": "Use the normal health icon frame only, crop the sprite strips",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/79c2cea8287f726e713eef0c602b1879599ae92d"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "arena/01a0e5b4-fnf-cubes-live-wallpaper",
+    "sha": "fae76cc39b76be7f4d362bd18744b0853b4a055d",
+    "sha_short": "fae76cc",
+    "author": "arena-agent",
+    "date": "2026-09-27T19:00:55Z",
+    "message": "Texture the cubes with random Phoenix Engine icons, switched by group",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/fae76cc39b76be7f4d362bd18744b0853b4a055d"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "arena/01a0e5b4-fnf-cubes-live-wallpaper",
+    "sha": "301b21f142bf3b390b23c13fdd4de51ff0664258",
+    "sha_short": "301b21f",
+    "author": "H21lab",
+    "date": "2017-09-14T10:07:33Z",
+    "message": "first commit",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/301b21f142bf3b390b23c13fdd4de51ff0664258"
   },
   {
     "repo": "FNF-Cubes-Live-Wallpaper",
@@ -9608,6 +10098,116 @@
     "date": "2026-08-24T20:22:56Z",
     "message": "Complete the French locale (#1022)",
     "url": "https://github.com/havaianasdestruido/freellmapi/commit/e4cad5c82b941f2fdc78df5e140492d9f88a1c6a"
+  },
+  {
+    "repo": "g1",
+    "branch": "arena/01a0e805-g1",
+    "sha": "32dafde694e374755166647d12f8882665b8b2cc",
+    "sha_short": "32dafde",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T17:32:28Z",
+    "message": "Guard RSS snapshot job to its branch [skip ci]",
+    "url": "https://github.com/havaianasdestruido/g1/commit/32dafde694e374755166647d12f8882665b8b2cc"
+  },
+  {
+    "repo": "g1",
+    "branch": "arena/01a0e805-g1",
+    "sha": "9c406074f0f7248d98419b264d7a5749eb9136f4",
+    "sha_short": "9c40607",
+    "author": "github-actions[bot]",
+    "date": "2026-09-28T12:43:08Z",
+    "message": "Update G1 RSS JSONL snapshot",
+    "url": "https://github.com/havaianasdestruido/g1/commit/9c406074f0f7248d98419b264d7a5749eb9136f4"
+  },
+  {
+    "repo": "g1",
+    "branch": "arena/01a0e805-g1",
+    "sha": "75eaf3498df4f50018da7195a52ed2445b7a20cd",
+    "sha_short": "75eaf34",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T12:42:28Z",
+    "message": "Commit live RSS snapshot from Actions runner",
+    "url": "https://github.com/havaianasdestruido/g1/commit/75eaf3498df4f50018da7195a52ed2445b7a20cd"
+  },
+  {
+    "repo": "g1",
+    "branch": "arena/01a0e805-g1",
+    "sha": "5577785a62a7a582edf801e4c6b9e75aadafda2e",
+    "sha_short": "5577785",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T12:41:06Z",
+    "message": "Add G1 RSS merger with deduplication and tests",
+    "url": "https://github.com/havaianasdestruido/g1/commit/5577785a62a7a582edf801e4c6b9e75aadafda2e"
+  },
+  {
+    "repo": "g1",
+    "branch": "arena/01a0e805-g1",
+    "sha": "d2938dc4d75240ba54ddc153b13fae6183e1dbc9",
+    "sha_short": "d2938dc",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-28T12:37:32Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/g1/commit/d2938dc4d75240ba54ddc153b13fae6183e1dbc9"
+  },
+  {
+    "repo": "g1",
+    "branch": "main",
+    "sha": "2ac2a514966f7b9d337fc88454a03df003429d8b",
+    "sha_short": "2ac2a51",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T17:35:04Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0e805-g1",
+    "url": "https://github.com/havaianasdestruido/g1/commit/2ac2a514966f7b9d337fc88454a03df003429d8b"
+  },
+  {
+    "repo": "g1",
+    "branch": "main",
+    "sha": "32dafde694e374755166647d12f8882665b8b2cc",
+    "sha_short": "32dafde",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T17:32:28Z",
+    "message": "Guard RSS snapshot job to its branch [skip ci]",
+    "url": "https://github.com/havaianasdestruido/g1/commit/32dafde694e374755166647d12f8882665b8b2cc"
+  },
+  {
+    "repo": "g1",
+    "branch": "main",
+    "sha": "9c406074f0f7248d98419b264d7a5749eb9136f4",
+    "sha_short": "9c40607",
+    "author": "github-actions[bot]",
+    "date": "2026-09-28T12:43:08Z",
+    "message": "Update G1 RSS JSONL snapshot",
+    "url": "https://github.com/havaianasdestruido/g1/commit/9c406074f0f7248d98419b264d7a5749eb9136f4"
+  },
+  {
+    "repo": "g1",
+    "branch": "main",
+    "sha": "75eaf3498df4f50018da7195a52ed2445b7a20cd",
+    "sha_short": "75eaf34",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T12:42:28Z",
+    "message": "Commit live RSS snapshot from Actions runner",
+    "url": "https://github.com/havaianasdestruido/g1/commit/75eaf3498df4f50018da7195a52ed2445b7a20cd"
+  },
+  {
+    "repo": "g1",
+    "branch": "main",
+    "sha": "5577785a62a7a582edf801e4c6b9e75aadafda2e",
+    "sha_short": "5577785",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T12:41:06Z",
+    "message": "Add G1 RSS merger with deduplication and tests",
+    "url": "https://github.com/havaianasdestruido/g1/commit/5577785a62a7a582edf801e4c6b9e75aadafda2e"
+  },
+  {
+    "repo": "g1",
+    "branch": "main",
+    "sha": "d2938dc4d75240ba54ddc153b13fae6183e1dbc9",
+    "sha_short": "d2938dc",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-28T12:37:32Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/g1/commit/d2938dc4d75240ba54ddc153b13fae6183e1dbc9"
   },
   {
     "repo": "GH7zMAGNET",
@@ -12928,6 +13528,66 @@
     "date": "2025-10-15T21:40:50Z",
     "message": "testing",
     "url": "https://github.com/havaianasdestruido/noisy/commit/15424843c099f986e5e54ee012480dc70d638c07"
+  },
+  {
+    "repo": "nomescenso2022",
+    "branch": "arena/01a0e919-nomescenso2022",
+    "sha": "e1ab3323d97623b568de27c7fac85198d44731c2",
+    "sha_short": "e1ab332",
+    "author": "arena-agent",
+    "date": "2026-09-28T17:52:35Z",
+    "message": "Full IBGE Censo 2022 name rankings (128,458 nomes / 201,601 sobrenomes) + stdlib scraper (live/cache/sqlite modes)",
+    "url": "https://github.com/havaianasdestruido/nomescenso2022/commit/e1ab3323d97623b568de27c7fac85198d44731c2"
+  },
+  {
+    "repo": "nomescenso2022",
+    "branch": "arena/01a0e919-nomescenso2022",
+    "sha": "1cfda0f0df9391f30f60b7c70464e0db3abaeced",
+    "sha_short": "1cfda0f",
+    "author": "arena-agent",
+    "date": "2026-09-28T17:46:30Z",
+    "message": "CI: self-diagnosing scrape workflow (commits ci_status.txt always)",
+    "url": "https://github.com/havaianasdestruido/nomescenso2022/commit/1cfda0f0df9391f30f60b7c70464e0db3abaeced"
+  },
+  {
+    "repo": "nomescenso2022",
+    "branch": "arena/01a0e919-nomescenso2022",
+    "sha": "8aa4da925af1ca49db7ffb4de9efb05c908bf448",
+    "sha_short": "8aa4da9",
+    "author": "arena-agent",
+    "date": "2026-09-28T17:45:14Z",
+    "message": "CI: run scraper on GitHub runners and commit JSONL results",
+    "url": "https://github.com/havaianasdestruido/nomescenso2022/commit/8aa4da925af1ca49db7ffb4de9efb05c908bf448"
+  },
+  {
+    "repo": "nomescenso2022",
+    "branch": "arena/01a0e919-nomescenso2022",
+    "sha": "8f5ccaa14cc40f38f2f2a46805509f85b9be4d8e",
+    "sha_short": "8f5ccaa",
+    "author": "arena-agent",
+    "date": "2026-09-28T17:44:37Z",
+    "message": "Add IBGE Censo 2022 nomes scraper (live + offline-cache modes)",
+    "url": "https://github.com/havaianasdestruido/nomescenso2022/commit/8f5ccaa14cc40f38f2f2a46805509f85b9be4d8e"
+  },
+  {
+    "repo": "nomescenso2022",
+    "branch": "arena/01a0e919-nomescenso2022",
+    "sha": "475dce34ba4fc39e7b9b7cd3d3a6dc3313591fa2",
+    "sha_short": "475dce3",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-28T17:39:00Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/nomescenso2022/commit/475dce34ba4fc39e7b9b7cd3d3a6dc3313591fa2"
+  },
+  {
+    "repo": "nomescenso2022",
+    "branch": "main",
+    "sha": "475dce34ba4fc39e7b9b7cd3d3a6dc3313591fa2",
+    "sha_short": "475dce3",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-28T17:39:00Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/nomescenso2022/commit/475dce34ba4fc39e7b9b7cd3d3a6dc3313591fa2"
   },
   {
     "repo": "OdontoAura",
