@@ -521,6 +521,22 @@
   },
   {
     "repo": "FNF-Cubes-Live-Wallpaper",
+    "pr_number": 2,
+    "sha": "eb679631e91f8676e5bfc6436980bd0906bb28c4",
+    "sha_short": "eb67963",
+    "message": "Add Android APK build and artifact CI",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/eb679631e91f8676e5bfc6436980bd0906bb28c4"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "pr_number": 2,
+    "sha": "fde547ed5c1757e2de1596be79248126078420bd",
+    "sha_short": "fde547e",
+    "message": "Avoid obsolete Android SDK tools package in CI",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/fde547ed5c1757e2de1596be79248126078420bd"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
     "pr_number": 1,
     "sha": "fae76cc39b76be7f4d362bd18744b0853b4a055d",
     "sha_short": "fae76cc",

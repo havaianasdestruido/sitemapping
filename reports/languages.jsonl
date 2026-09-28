@@ -45,7 +45,7 @@
 {"repo": "calculator", "language": "HTML", "bytes": 1170, "percent": 0.1}
 {"repo": "EZInfiniteYTLive", "language": "C#", "bytes": 7795, "percent": 100.0}
 {"repo": "face-tagger", "language": "C#", "bytes": 9145, "percent": 100.0}
-{"repo": "FNF-Cubes-Live-Wallpaper", "language": "Java", "bytes": 155639, "percent": 90.9}
+{"repo": "FNF-Cubes-Live-Wallpaper", "language": "Java", "bytes": 155602, "percent": 90.9}
 {"repo": "FNF-Cubes-Live-Wallpaper", "language": "Python", "bytes": 15650, "percent": 9.1}
 {"repo": "FNF-PeoteView", "language": "C", "bytes": 4407895, "percent": 70.7}
 {"repo": "FNF-PeoteView", "language": "Haxe", "bytes": 956314, "percent": 15.3}

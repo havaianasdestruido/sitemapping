@@ -230,7 +230,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 48,
+    "contributions": 49,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -242,7 +242,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 51,
+    "contributions": 52,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -709,15 +709,15 @@
   },
   {
     "repo": "FNF-Cubes-Live-Wallpaper",
-    "login": "H21lab",
-    "contributions": 1,
-    "profile_url": "https://github.com/H21lab"
+    "login": "havaianasdestruido",
+    "contributions": 4,
+    "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "FNF-Cubes-Live-Wallpaper",
-    "login": "havaianasdestruido",
+    "login": "H21lab",
     "contributions": 1,
-    "profile_url": "https://github.com/havaianasdestruido"
+    "profile_url": "https://github.com/H21lab"
   },
   {
     "repo": "FNF-PeoteView",

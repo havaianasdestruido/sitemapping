@@ -4202,6 +4202,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "65e5416144a4a97ce3703053cb6114d8a010c997",
+    "sha_short": "65e5416",
+    "author": "GitHub Action Bot",
+    "date": "2026-09-27T22:46:52Z",
+    "message": "📊 [2026-09-27 22:46:52 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/65e5416144a4a97ce3703053cb6114d8a010c997"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "7c8b61b6b22d501a3adaebf44c1217a443b036b9",
     "sha_short": "7c8b61b",
     "author": "GitHub Action Bot",
@@ -4292,12 +4302,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "d009ff83ac3f52c629a6593ede5037c7b42dea68",
-    "sha_short": "d009ff8",
+    "sha": "812929d457b9540199fdf30f4f0a5244922ec40f",
+    "sha_short": "812929d",
     "author": "GitHub Action Bot",
-    "date": "2026-09-25T16:14:25Z",
-    "message": "📊 [2026-09-25 16:14:25 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/d009ff83ac3f52c629a6593ede5037c7b42dea68"
+    "date": "2026-09-20T22:06:43Z",
+    "message": "📊 [2026-09-20 22:06:43 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/812929d457b9540199fdf30f4f0a5244922ec40f"
   },
   {
     "repo": "sitemapping",
@@ -4392,12 +4402,22 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "d5b7ae092e418cf5de137a3d550df83640cbee71",
-    "sha_short": "d5b7ae0",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-20T03:58:53Z",
-    "message": "📊 Update repository report [2026-09-20 03:58:53 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/d5b7ae092e418cf5de137a3d550df83640cbee71"
+    "sha": "a6ebe1dd4f364ad874898f2a9a3628718a2b35f0",
+    "sha_short": "a6ebe1d",
+    "author": "Pato (new acc)",
+    "date": "2026-09-13T17:27:15Z",
+    "message": "Create generate_report.py",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/a6ebe1dd4f364ad874898f2a9a3628718a2b35f0"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "b6a20d96e54e48f1b818450fe739699414d71970",
+    "sha_short": "b6a20d9",
+    "author": "github-actions[bot]",
+    "date": "2026-09-28T00:04:07Z",
+    "message": "data: update top repos data (2026-09-28)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/b6a20d96e54e48f1b818450fe739699414d71970"
   },
   {
     "repo": "top100",
@@ -4492,12 +4512,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "49c8d0c6701b03e26ba58deb865cedc440ea919a",
-    "sha_short": "49c8d0c",
+    "sha": "5e7570af4cb9fbf7a0c76d1da9550f6823370888",
+    "sha_short": "5e7570a",
     "author": "github-actions[bot]",
-    "date": "2026-09-26T10:23:53Z",
-    "message": "data: update top repos data (2026-09-26)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/49c8d0c6701b03e26ba58deb865cedc440ea919a"
+    "date": "2026-09-22T01:20:11Z",
+    "message": "data: update top repos data (2026-09-22)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/5e7570af4cb9fbf7a0c76d1da9550f6823370888"
   },
   {
     "repo": "top100",
@@ -4588,16 +4608,6 @@
     "date": "2026-09-21T00:38:05Z",
     "message": "Add .imgbotconfig for aggressive image compression",
     "url": "https://github.com/havaianasdestruido/top100/commit/748db272fa3dde12a41ce8c58e9404b70c2f7418"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "e27e32c6300ac9d0b8681874904a6ef9b307be09",
-    "sha_short": "e27e32c",
-    "author": "github-actions[bot]",
-    "date": "2026-09-20T23:49:11Z",
-    "message": "data: update top repos data (2026-09-20)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/e27e32c6300ac9d0b8681874904a6ef9b307be09"
   },
   {
     "repo": ".github",
@@ -7701,6 +7711,96 @@
   },
   {
     "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "arena/01a0e58e-fnf-cubes-live-wallpaper",
+    "sha": "fde547ed5c1757e2de1596be79248126078420bd",
+    "sha_short": "fde547e",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T01:36:46Z",
+    "message": "Avoid obsolete Android SDK tools package in CI",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/fde547ed5c1757e2de1596be79248126078420bd"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "arena/01a0e58e-fnf-cubes-live-wallpaper",
+    "sha": "eb679631e91f8676e5bfc6436980bd0906bb28c4",
+    "sha_short": "eb67963",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T01:30:53Z",
+    "message": "Add Android APK build and artifact CI",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/eb679631e91f8676e5bfc6436980bd0906bb28c4"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "arena/01a0e58e-fnf-cubes-live-wallpaper",
+    "sha": "7932c3da69e39bb80c90f390894f6f44368ed034",
+    "sha_short": "7932c3d",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T20:29:18Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0e431-fnf-cubes-live-wallpaper",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/7932c3da69e39bb80c90f390894f6f44368ed034"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "arena/01a0e58e-fnf-cubes-live-wallpaper",
+    "sha": "6b8c7f0828b678394dfb6aec7a65edd0824be3e7",
+    "sha_short": "6b8c7f0",
+    "author": "arena-agent",
+    "date": "2026-09-27T20:25:06Z",
+    "message": "Check the fetched icons against IconGroups.java and back up replaced ones",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/6b8c7f0828b678394dfb6aec7a65edd0824be3e7"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "arena/01a0e58e-fnf-cubes-live-wallpaper",
+    "sha": "2ff4d00e48f7bf799a01069cfb93ff3bd96f6b6c",
+    "sha_short": "2ff4d00",
+    "author": "arena-agent",
+    "date": "2026-09-27T19:51:07Z",
+    "message": "Harden the icon publishing in tools/fetch_icons.py",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/2ff4d00e48f7bf799a01069cfb93ff3bd96f6b6c"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "arena/01a0e58e-fnf-cubes-live-wallpaper",
+    "sha": "8d2b97416c77aad2ec3f01f6330e0b0c3cbf7f2b",
+    "sha_short": "8d2b974",
+    "author": "arena-agent",
+    "date": "2026-09-27T19:40:25Z",
+    "message": "Address the review comments on the icon group branch",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/8d2b97416c77aad2ec3f01f6330e0b0c3cbf7f2b"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "arena/01a0e58e-fnf-cubes-live-wallpaper",
+    "sha": "79c2cea8287f726e713eef0c602b1879599ae92d",
+    "sha_short": "79c2cea",
+    "author": "arena-agent",
+    "date": "2026-09-27T19:11:15Z",
+    "message": "Use the normal health icon frame only, crop the sprite strips",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/79c2cea8287f726e713eef0c602b1879599ae92d"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "arena/01a0e58e-fnf-cubes-live-wallpaper",
+    "sha": "fae76cc39b76be7f4d362bd18744b0853b4a055d",
+    "sha_short": "fae76cc",
+    "author": "arena-agent",
+    "date": "2026-09-27T19:00:55Z",
+    "message": "Texture the cubes with random Phoenix Engine icons, switched by group",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/fae76cc39b76be7f4d362bd18744b0853b4a055d"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "arena/01a0e58e-fnf-cubes-live-wallpaper",
+    "sha": "301b21f142bf3b390b23c13fdd4de51ff0664258",
+    "sha_short": "301b21f",
+    "author": "H21lab",
+    "date": "2017-09-14T10:07:33Z",
+    "message": "first commit",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/301b21f142bf3b390b23c13fdd4de51ff0664258"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
     "branch": "arena/01a0e431-fnf-cubes-live-wallpaper",
     "sha": "6b8c7f0828b678394dfb6aec7a65edd0824be3e7",
     "sha_short": "6b8c7f0",
@@ -7758,6 +7858,36 @@
     "date": "2017-09-14T10:07:33Z",
     "message": "first commit",
     "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/301b21f142bf3b390b23c13fdd4de51ff0664258"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "master",
+    "sha": "db3ad438665cfc6c738a2a3c6707d5919bebf142",
+    "sha_short": "db3ad43",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T01:51:06Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/01a0e58e-fnf-cubes-live-wallpaper",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/db3ad438665cfc6c738a2a3c6707d5919bebf142"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "master",
+    "sha": "fde547ed5c1757e2de1596be79248126078420bd",
+    "sha_short": "fde547e",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T01:36:46Z",
+    "message": "Avoid obsolete Android SDK tools package in CI",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/fde547ed5c1757e2de1596be79248126078420bd"
+  },
+  {
+    "repo": "FNF-Cubes-Live-Wallpaper",
+    "branch": "master",
+    "sha": "eb679631e91f8676e5bfc6436980bd0906bb28c4",
+    "sha_short": "eb67963",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T01:30:53Z",
+    "message": "Add Android APK build and artifact CI",
+    "url": "https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/commit/eb679631e91f8676e5bfc6436980bd0906bb28c4"
   },
   {
     "repo": "FNF-Cubes-Live-Wallpaper",
