@@ -88,12 +88,20 @@
     "url": "https://github.com/havaianasdestruido/hemorroidabot/tree/master"
   },
   {
-    "repo": "PatoCraft",
-    "name": "main",
-    "head_sha": "5cdf8d03e8766933831eb8835b115057569d64d8",
-    "head_sha_short": "5cdf8d0",
-    "is_default": true,
-    "url": "https://github.com/havaianasdestruido/PatoCraft/tree/main"
+    "repo": "PersonaDB",
+    "name": "arena/01a0ee4c-personadb",
+    "head_sha": "16a3ec6dc66c93c2e108b88e631e671e1d33b8e6",
+    "head_sha_short": "16a3ec6",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/PersonaDB/tree/arena/01a0ee4c-personadb"
+  },
+  {
+    "repo": "PersonaDB",
+    "name": "arena/01a0ee73-personadb",
+    "head_sha": "93bf14e62d3baaf84470d8204a1c648a34621b6b",
+    "head_sha_short": "93bf14e",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/PersonaDB/tree/arena/01a0ee73-personadb"
   },
   {
     "repo": "PersonaDB",
@@ -114,8 +122,8 @@
   {
     "repo": "PersonaDB",
     "name": "main",
-    "head_sha": "9b630776680db0ef4bcdd0493413ebbc61b467f3",
-    "head_sha_short": "9b63077",
+    "head_sha": "571ae0c8005dfc3080fefde875644f73b3fa6844",
+    "head_sha_short": "571ae0c",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/PersonaDB/tree/main"
   },
@@ -162,32 +170,24 @@
   {
     "repo": "sitemapping",
     "name": "main",
-    "head_sha": "026ac8cc975a2e24a2885633842142d1ee516c05",
-    "head_sha_short": "026ac8c",
+    "head_sha": "ed85bf197e83f53b1c3247c1b67b63151c85a491",
+    "head_sha_short": "ed85bf1",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/sitemapping/tree/main"
   },
   {
     "repo": "top100",
-    "name": "arena/01a0e7f2-top100",
-    "head_sha": "57aabb98925d9200f16f805c295fc63fc9f1a816",
-    "head_sha_short": "57aabb9",
-    "is_default": false,
-    "url": "https://github.com/havaianasdestruido/top100/tree/arena/01a0e7f2-top100"
-  },
-  {
-    "repo": "top100",
     "name": "main",
-    "head_sha": "e8a61250ba2748e4fc0013879aa633edb84c0720",
-    "head_sha_short": "e8a6125",
+    "head_sha": "282951719c38f0ff53fe9723abe7e214f1f49ecc",
+    "head_sha_short": "2829517",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/top100/tree/main"
   },
   {
     "repo": ".github",
     "name": "main",
-    "head_sha": "98067372e2165ae5a53865c55789585284f27096",
-    "head_sha_short": "9806737",
+    "head_sha": "cb5a4a05ee2f896ee7336719122283a229d3bfba",
+    "head_sha_short": "cb5a4a0",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/.github/tree/main"
   },
@@ -294,6 +294,22 @@
     "head_sha_short": "8283b45",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/calculator/tree/uno"
+  },
+  {
+    "repo": "ClassHub",
+    "name": "arena/01a0ee5f-classhub",
+    "head_sha": "94470ef444bc38677700f6a4681d334f398323a9",
+    "head_sha_short": "94470ef",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/ClassHub/tree/arena/01a0ee5f-classhub"
+  },
+  {
+    "repo": "ClassHub",
+    "name": "main",
+    "head_sha": "80de9fbbfe85320c5ad7221fac5967c8c50b4414",
+    "head_sha_short": "80de9fb",
+    "is_default": true,
+    "url": "https://github.com/havaianasdestruido/ClassHub/tree/main"
   },
   {
     "repo": "dadosabertos",
@@ -553,14 +569,6 @@
   },
   {
     "repo": "KaukaMed",
-    "name": "arena/01a0d464-kaukamed",
-    "head_sha": "4d79b63a9f743fe2f9136d0c95bde82eaa84ba94",
-    "head_sha_short": "4d79b63",
-    "is_default": false,
-    "url": "https://github.com/havaianasdestruido/KaukaMed/tree/arena/01a0d464-kaukamed"
-  },
-  {
-    "repo": "KaukaMed",
     "name": "arena/01a0d488-kaukamed",
     "head_sha": "0d7603161b8e5104d1d6779f7a3145e10bb10b29",
     "head_sha_short": "0d76031",
@@ -570,26 +578,10 @@
   {
     "repo": "KaukaMed",
     "name": "main",
-    "head_sha": "d8a45078c4de66223daaedf7256c92c487ef6bd5",
-    "head_sha_short": "d8a4507",
+    "head_sha": "01dc0c53879891b6be124de8c184672615127f62",
+    "head_sha_short": "01dc0c5",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/KaukaMed/tree/main"
-  },
-  {
-    "repo": "lastfm-to-csv-unicode",
-    "name": "fix/csv-utf8-bom-and-escaping",
-    "head_sha": "08efd3faa5a5ed23ffaf6699cf19250ff868c064",
-    "head_sha_short": "08efd3f",
-    "is_default": false,
-    "url": "https://github.com/havaianasdestruido/lastfm-to-csv-unicode/tree/fix/csv-utf8-bom-and-escaping"
-  },
-  {
-    "repo": "lastfm-to-csv-unicode",
-    "name": "main",
-    "head_sha": "0d3c3827b38a34ae8ffb7860f134c8a481b08299",
-    "head_sha_short": "0d3c382",
-    "is_default": true,
-    "url": "https://github.com/havaianasdestruido/lastfm-to-csv-unicode/tree/main"
   },
   {
     "repo": "manimce-claude",
@@ -698,16 +690,16 @@
   {
     "repo": "nomescenso2022",
     "name": "arena/01a0e919-nomescenso2022",
-    "head_sha": "e1ab3323d97623b568de27c7fac85198d44731c2",
-    "head_sha_short": "e1ab332",
+    "head_sha": "0a151329f85837a00d83a47e850a05ceb4dc2022",
+    "head_sha_short": "0a15132",
     "is_default": false,
     "url": "https://github.com/havaianasdestruido/nomescenso2022/tree/arena/01a0e919-nomescenso2022"
   },
   {
     "repo": "nomescenso2022",
     "name": "main",
-    "head_sha": "475dce34ba4fc39e7b9b7cd3d3a6dc3313591fa2",
-    "head_sha_short": "475dce3",
+    "head_sha": "0ac6a4763f851ee6f1ae90c6b8b26b0ba8edac42",
+    "head_sha_short": "0ac6a47",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/nomescenso2022/tree/main"
   },
@@ -936,44 +928,12 @@
     "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/tree/experimental"
   },
   {
-    "repo": "rdprxy",
-    "name": "dependabot/npm_and_yarn/follow-redirects-1.15.6",
-    "head_sha": "6330b6fe378a0ef2f2898439737d992eb4d862b8",
-    "head_sha_short": "6330b6f",
-    "is_default": false,
-    "url": "https://github.com/havaianasdestruido/rdprxy/tree/dependabot/npm_and_yarn/follow-redirects-1.15.6"
-  },
-  {
-    "repo": "rdprxy",
-    "name": "master",
-    "head_sha": "a91c1291c5ab1e087b6255bdb71997b4938226cc",
-    "head_sha_short": "a91c129",
-    "is_default": true,
-    "url": "https://github.com/havaianasdestruido/rdprxy/tree/master"
-  },
-  {
-    "repo": "rdprxy",
-    "name": "patch-1",
-    "head_sha": "9510405267908b974adec30b63a2fd1dcf9ee0f1",
-    "head_sha_short": "9510405",
-    "is_default": false,
-    "url": "https://github.com/havaianasdestruido/rdprxy/tree/patch-1"
-  },
-  {
     "repo": "RoBrowser",
     "name": "main",
     "head_sha": "63ad22bfaec49d61e93e0322fdacffd20abd50f2",
     "head_sha_short": "63ad22b",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/RoBrowser/tree/main"
-  },
-  {
-    "repo": "ROT-1",
-    "name": "main",
-    "head_sha": "cde7c4abb909da5e3adc8fe685bc54418e60f65c",
-    "head_sha_short": "cde7c4a",
-    "is_default": true,
-    "url": "https://github.com/havaianasdestruido/ROT-1/tree/main"
   },
   {
     "repo": "scrobbleviz",

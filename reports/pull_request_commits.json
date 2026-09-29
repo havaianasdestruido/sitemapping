@@ -425,6 +425,38 @@
   },
   {
     "repo": "PersonaDB",
+    "pr_number": 3,
+    "sha": "93bf14e62d3baaf84470d8204a1c648a34621b6b",
+    "sha_short": "93bf14e",
+    "message": "docs: add hypothetical performance optimization analysis in rewrite.MD",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/93bf14e62d3baaf84470d8204a1c648a34621b6b"
+  },
+  {
+    "repo": "PersonaDB",
+    "pr_number": 2,
+    "sha": "67921f8f8af5e8ff7c52077400e33dd7ae7d7926",
+    "sha_short": "67921f8",
+    "message": "Add dataset loading and export utilities",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/67921f8f8af5e8ff7c52077400e33dd7ae7d7926"
+  },
+  {
+    "repo": "PersonaDB",
+    "pr_number": 2,
+    "sha": "6144e24cbdb31257067696ee148be9993d997fdd",
+    "sha_short": "6144e24",
+    "message": "Address review feedback for data utilities",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/6144e24cbdb31257067696ee148be9993d997fdd"
+  },
+  {
+    "repo": "PersonaDB",
+    "pr_number": 2,
+    "sha": "16a3ec6dc66c93c2e108b88e631e671e1d33b8e6",
+    "sha_short": "16a3ec6",
+    "message": "Fix project Ruff lint findings",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/16a3ec6dc66c93c2e108b88e631e671e1d33b8e6"
+  },
+  {
+    "repo": "PersonaDB",
     "pr_number": 1,
     "sha": "425af85dc6162210ee0902889f905ab89c9591a1",
     "sha_short": "425af85",
@@ -526,6 +558,14 @@
     "sha_short": "2ec7688",
     "message": "[ImgBot] Optimize images",
     "url": "https://github.com/havaianasdestruido/calculator/commit/2ec7688d290121f4b17e28dec9da97486e5fef6c"
+  },
+  {
+    "repo": "ClassHub",
+    "pr_number": 1,
+    "sha": "94470ef444bc38677700f6a4681d334f398323a9",
+    "sha_short": "94470ef",
+    "message": "docs: adicionar Javadoc/JSDoc em pt-BR em todo o backend e frontend",
+    "url": "https://github.com/havaianasdestruido/ClassHub/commit/94470ef444bc38677700f6a4681d334f398323a9"
   },
   {
     "repo": "dadosabertos",
@@ -745,6 +785,14 @@
   },
   {
     "repo": "KaukaMed",
+    "pr_number": 3,
+    "sha": "c8320cd3161acd133800fd3602d532d2e20e859a",
+    "sha_short": "c8320cd",
+    "message": "Entrega 4: quebra da SPEC em tarefas de programação (docs/tasks/*.md)",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/c8320cd3161acd133800fd3602d532d2e20e859a"
+  },
+  {
+    "repo": "KaukaMed",
     "pr_number": 1,
     "sha": "02ed2186405a5f5e5d56f01e8fd06e1504bc17d2",
     "sha_short": "02ed218",
@@ -822,6 +870,14 @@
     "sha_short": "e1ab332",
     "message": "Full IBGE Censo 2022 name rankings (128,458 nomes / 201,601 sobrenomes) + stdlib scraper (live/cache/sqlite modes)",
     "url": "https://github.com/havaianasdestruido/nomescenso2022/commit/e1ab3323d97623b568de27c7fac85198d44731c2"
+  },
+  {
+    "repo": "nomescenso2022",
+    "pr_number": 1,
+    "sha": "0a151329f85837a00d83a47e850a05ceb4dc2022",
+    "sha_short": "0a15132",
+    "message": "Address review: cache completeness validation, live-mode resume, identity-tagged cache files, bounded batching with fast-fail, selection-aware default output name",
+    "url": "https://github.com/havaianasdestruido/nomescenso2022/commit/0a151329f85837a00d83a47e850a05ceb4dc2022"
   },
   {
     "repo": "OdontoAura",
