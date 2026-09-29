@@ -4,7 +4,7 @@
 
 > fka. PatoFlamejantetv/UltimateQuack
 
-**Generated:** 2026-09-29 00:03:30 UTC
+**Generated:** 2026-09-29 10:14:31 UTC
 **Public Repositories:** 80
 
 ---
@@ -905,12 +905,13 @@
 
 - ## [sitemapping](https://github.com/havaianasdestruido/sitemapping) `🗃️ Template`
   > workflow to make me get indexed on some stuff. aka SEO stuff
-  > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-28
+  > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-29
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `1cafda7`
+      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `5503f13`
         - 📋 [All Commits](https://github.com/havaianasdestruido/sitemapping/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/sitemapping/commits/main)
+          - [`5503f13`](https://github.com/havaianasdestruido/sitemapping/commit/5503f13b1bbe70157abbde3b764ccad913d09f99) **📊 \[2026-09-29 00:10:46 UTC\]** — _GitHub Action Bot_ (2026-09-29)
           - [`1cafda7`](https://github.com/havaianasdestruido/sitemapping/commit/1cafda728e4c10d10556283d3878e091f8421420) **📊 \[2026-09-28 19:04:43 UTC\]** — _GitHub Action Bot_ (2026-09-28)
           - [`b148e3d`](https://github.com/havaianasdestruido/sitemapping/commit/b148e3dc14c26c724320306ef442854f5806542b) **📊 \[2026-09-28 10:23:32 UTC\]** — _GitHub Action Bot_ (2026-09-28)
           - [`29923c3`](https://github.com/havaianasdestruido/sitemapping/commit/29923c344685eb2d61146b7feed8db215dd8ee14) **📊 \[2026-09-28 02:39:07 UTC\]** — _GitHub Action Bot_ (2026-09-28)
@@ -920,8 +921,8 @@
           - [`4652927`](https://github.com/havaianasdestruido/sitemapping/commit/4652927517292e24f3e68a33018df8a383f18f2b) **📊 \[2026-09-27 02:36:47 UTC\]** — _GitHub Action Bot_ (2026-09-27)
           - [`644506f`](https://github.com/havaianasdestruido/sitemapping/commit/644506f518735e6e45a081648bdf1078f7cba406) **📊 \[2026-09-26 22:20:35 UTC\]** — _GitHub Action Bot_ (2026-09-26)
           - [`bec9c37`](https://github.com/havaianasdestruido/sitemapping/commit/bec9c378a9c1fb1527d8b2280acf0eda212d0d44) **📊 \[2026-09-26 18:54:27 UTC\]** — _GitHub Action Bot_ (2026-09-26)
-          - [`5e7903a`](https://github.com/havaianasdestruido/sitemapping/commit/5e7903a8934889cb6bc3648ff69543e7afc119f6) **📊 \[2026-09-26 15:28:31 UTC\]** — _GitHub Action Bot_ (2026-09-26)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=64412d1f798c4c039d5d32f94c9cc007d320084f+34)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=3c9b26a5127b7fe5160892d07673f12665f8dc0b+34)
+          - [`64412d1`](https://github.com/havaianasdestruido/sitemapping/commit/64412d1f798c4c039d5d32f94c9cc007d320084f) **📊 \[2026-09-21 01:14:25 UTC\]** — _GitHub Action Bot_ (2026-09-21)
           - [`8113d82`](https://github.com/havaianasdestruido/sitemapping/commit/8113d8276f6f47b1930675e94df54e8a1d9be39b) **Set imgbot schedule to weekly** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-21)
           - [`01fed62`](https://github.com/havaianasdestruido/sitemapping/commit/01fed62471bfa6aafca67bb77381f9ff2455e15e) **📊 \[2026-09-21 00:41:43 UTC\]** — _GitHub Action Bot_ (2026-09-21)
           - [`7a2bb03`](https://github.com/havaianasdestruido/sitemapping/commit/7a2bb03300ce1cf52c3b40bae66716bbea6de0d5) **Add .imgbotconfig for aggressive image compression** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-21)
@@ -931,8 +932,8 @@
           - [`cbc3fac`](https://github.com/havaianasdestruido/sitemapping/commit/cbc3fac2a3e9b844ac3e411adb25802c76abb3f9) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`3823397`](https://github.com/havaianasdestruido/sitemapping/commit/38233970f2489a0afe61f88628f3ec88b4159e97) **📊 \[2026-09-20 18:25:43 UTC\]** — _GitHub Action Bot_ (2026-09-20)
           - [`262d303`](https://github.com/havaianasdestruido/sitemapping/commit/262d303edc47d3d607520791398cbe9712394ff8) **📊 \[2026-09-20 15:20:12 UTC\]** — _GitHub Action Bot_ (2026-09-20)
-          - [`82796a8`](https://github.com/havaianasdestruido/sitemapping/commit/82796a8c59836726df17349c43dc0bbd49a6e2cc) **Update repo-analyzer.yml** — _Pato (new acc)_ (2026-09-20)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=5b9d33e8dab6999935cda632f67c1caf515d9458+34)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=fb926d484c27d6c8ab04286cb761505a70f88b48+34)
+          - [`5b9d33e`](https://github.com/havaianasdestruido/sitemapping/commit/5b9d33e8dab6999935cda632f67c1caf515d9458) **fixed readme** — _Pato (new acc)_ (2026-09-13)
           - [`a042f20`](https://github.com/havaianasdestruido/sitemapping/commit/a042f201a2496fb53c9e2cf09809f837cb81b29a) **Create README.md** — _Pato (new acc)_ (2026-09-13)
           - [`7490501`](https://github.com/havaianasdestruido/sitemapping/commit/74905013cec52ff6f220f129c172f9d7a5a0b006) **📊 Update repository report \[2026-09-13 17:31:21 UTC\]** — _GitHub Action Bot_ (2026-09-13)
           - [`b113a1a`](https://github.com/havaianasdestruido/sitemapping/commit/b113a1a7238707136a74b436700b150607d5a51c) **Create repo-analyzer.yml** — _Pato (new acc)_ (2026-09-13)
@@ -954,7 +955,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@actions-user](https://github.com/actions-user) — 52 commit(s)
+      - [@actions-user](https://github.com/actions-user) — 53 commit(s)
       - [@havaianasdestruido](https://github.com/havaianasdestruido) — 22 commit(s)
 
     - ### 🏷️ Releases (2)
@@ -968,7 +969,7 @@
 
 - ## [top100](https://github.com/havaianasdestruido/top100)
   > TOP 100 GitHub repositories for each major programming language, listed by stars
-  > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 HTML | 📅 Created: 2026-09-20 | 🔄 Updated: 2026-09-28
+  > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 HTML | 📅 Created: 2026-09-20 | 🔄 Updated: 2026-09-29
 
     - ### 🌿 Branches (2)
       - [`arena/01a0e7f2-top100`](https://github.com/havaianasdestruido/top100/tree/arena/01a0e7f2-top100) — HEAD: `57aabb9`
@@ -998,9 +999,11 @@
         - 📄 [Commits Page 3](https://github.com/havaianasdestruido/top100/commits/arena/01a0e7f2-top100/?after=6935cafd0583ab45571057fdfeb40999f73e88e3+34)
           - [`b380d9a`](https://github.com/havaianasdestruido/top100/commit/b380d9a5fc7d141fdbc6c963b875b53d99195d55) **Create run.yml** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`c189c2a`](https://github.com/havaianasdestruido/top100/commit/c189c2a73d0e2b4b620d11ff5639cba73f056ee4) **Create fetch_top_repos.py** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
-      - [`main`](https://github.com/havaianasdestruido/top100/tree/main) _(default)_ — HEAD: `9969f2e`
+      - [`main`](https://github.com/havaianasdestruido/top100/tree/main) _(default)_ — HEAD: `8edffb2`
         - 📋 [All Commits](https://github.com/havaianasdestruido/top100/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/top100/commits/main)
+          - [`8edffb2`](https://github.com/havaianasdestruido/top100/commit/8edffb2d47664185f9afd6b6cfb231577d7b36a0) **data: update top repos data (2026-09-29 06:21 UTC)** — _github-actions[bot]_ (2026-09-29)
+          - [`00f9a62`](https://github.com/havaianasdestruido/top100/commit/00f9a620821449899bddd92cbe85a1dba55484da) **data: update top repos data (2026-09-29 00:42 UTC)** — _github-actions[bot]_ (2026-09-29)
           - [`9969f2e`](https://github.com/havaianasdestruido/top100/commit/9969f2ec229fef808d87d1e413cf90273e4f791a) **data: update top repos data (2026-09-28 20:55 UTC)** — _github-actions[bot]_ (2026-09-28)
           - [`c0912e9`](https://github.com/havaianasdestruido/top100/commit/c0912e9195ef3f1dcde41c58e91f550014b7f9e1) **data: update top repos data (2026-09-28 18:00 UTC)** — _github-actions[bot]_ (2026-09-28)
           - [`7621860`](https://github.com/havaianasdestruido/top100/commit/7621860dee31fb445b9a73b05797dea9ce9c5476) **Merge pull request #1 from havaianasdestruido/arena/01a0e7f2-top100** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
@@ -1009,9 +1012,9 @@
           - [`e314739`](https://github.com/havaianasdestruido/top100/commit/e3147393b4141b1d00ec9087e94d922160b0f150) **site: turn the 117-word page into a real content site for AI and search ** — _havaianasdestruido_ (2026-09-28)
           - [`44bf329`](https://github.com/havaianasdestruido/top100/commit/44bf32921ebd141af43523db7a7a210028cb998a) **data: update top repos data (2026-09-28)** — _github-actions[bot]_ (2026-09-28)
           - [`b6a20d9`](https://github.com/havaianasdestruido/top100/commit/b6a20d96e54e48f1b818450fe739699414d71970) **data: update top repos data (2026-09-28)** — _github-actions[bot]_ (2026-09-28)
-          - [`2ce913f`](https://github.com/havaianasdestruido/top100/commit/2ce913f2e097ce2ac8374ff4ff8481a02bbecc32) **data: update top repos data (2026-09-27)** — _github-actions[bot]_ (2026-09-27)
-          - [`cfca86e`](https://github.com/havaianasdestruido/top100/commit/cfca86e1be4b2c0590634a4e101afa77db4a4175) **data: update top repos data (2026-09-27)** — _github-actions[bot]_ (2026-09-27)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/top100/commits/main/?after=c478c55618a176dbd734850d7708860a7cc6f849+34)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/top100/commits/main/?after=266f1e4fe210532c43fa72f6cb36cc9b4f6010fe+34)
+          - [`f5a60f2`](https://github.com/havaianasdestruido/top100/commit/f5a60f2497fc9cbf249ac7ce931de811df8391ec) **data: update top repos data (2026-09-23)** — _github-actions[bot]_ (2026-09-23)
+          - [`c478c55`](https://github.com/havaianasdestruido/top100/commit/c478c55618a176dbd734850d7708860a7cc6f849) **data: update top repos data (2026-09-23)** — _github-actions[bot]_ (2026-09-23)
           - [`713b472`](https://github.com/havaianasdestruido/top100/commit/713b472869a9e13765b7806a3f4caff9cd270f28) **data: update top repos data (2026-09-23)** — _github-actions[bot]_ (2026-09-23)
           - [`fbe62e6`](https://github.com/havaianasdestruido/top100/commit/fbe62e6ed1eb5fecc4397c5402c5c26e6e635888) **data: update top repos data (2026-09-23)** — _github-actions[bot]_ (2026-09-23)
           - [`a00f897`](https://github.com/havaianasdestruido/top100/commit/a00f89773edcb92b1c5609042b68dc1e18fd48aa) **data: update top repos data (2026-09-22)** — _github-actions[bot]_ (2026-09-22)
@@ -1020,9 +1023,9 @@
           - [`abab9a1`](https://github.com/havaianasdestruido/top100/commit/abab9a1bc47088eeacf4349201eb40bfc710b76f) **data: update top repos data (2026-09-22)** — _github-actions[bot]_ (2026-09-22)
           - [`3ca829f`](https://github.com/havaianasdestruido/top100/commit/3ca829feb765922fa4ae810524dce908c0c22a53) **data: update top repos data (2026-09-22)** — _github-actions[bot]_ (2026-09-22)
           - [`5e7570a`](https://github.com/havaianasdestruido/top100/commit/5e7570af4cb9fbf7a0c76d1da9550f6823370888) **data: update top repos data (2026-09-22)** — _github-actions[bot]_ (2026-09-22)
-          - [`a922812`](https://github.com/havaianasdestruido/top100/commit/a9228121eb110957474bf70ca9002aa5c7e49db7) **data: update top repos data (2026-09-21)** — _github-actions[bot]_ (2026-09-21)
-          - [`b2f273b`](https://github.com/havaianasdestruido/top100/commit/b2f273be75fec726e72aa59fa1b5fb65c45ed4d8) **data: update top repos data (2026-09-21)** — _github-actions[bot]_ (2026-09-21)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/top100/commits/main/?after=4d0cd0e2cdca56c52d96dcf20081954cf4700a8a+34)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/top100/commits/main/?after=941015ea6dd0be571c10ae5073d9dc005639dc6b+34)
+          - [`f8805a7`](https://github.com/havaianasdestruido/top100/commit/f8805a786049c290c1c8204736377300579dcc16) **data: update top repos data (2026-09-20)** — _github-actions[bot]_ (2026-09-20)
+          - [`4d0cd0e`](https://github.com/havaianasdestruido/top100/commit/4d0cd0e2cdca56c52d96dcf20081954cf4700a8a) **Add git pull step before setting up Python** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`561c435`](https://github.com/havaianasdestruido/top100/commit/561c435d2d0d47b21f215793638b764fe71d2ef7) **Update README.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`0207851`](https://github.com/havaianasdestruido/top100/commit/0207851c9a298ca56a09326f975248ed5d0f867a) **Create README.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`84283a8`](https://github.com/havaianasdestruido/top100/commit/84283a8fd730a005d486bd2ea20ee6980b965ed7) **Rename fetch_top_repos.py to fetch_top_repos.py** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
@@ -1050,13 +1053,13 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@github-actions[bot]](https://github.com/apps/github-actions) — 56 commit(s)
+      - [@github-actions[bot]](https://github.com/apps/github-actions) — 58 commit(s)
       - [@havaianasdestruido](https://github.com/havaianasdestruido) — 20 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `HTML` — 93.9% (1,862,213 bytes)
+      - `HTML` — 93.9% (1,862,195 bytes)
       - `Python` — 5.8% (115,745 bytes)
       - `CSS` — 0.2% (4,402 bytes)
 
@@ -5989,7 +5992,7 @@
 ### Followers (7)
 
 - [@ishandutta2007](https://github.com/ishandutta2007)
-  - 📦 3482 public repos | 👥 follows 36857 people
+  - 📦 3551 public repos | 👥 follows 36484 people
 - [@moxie-coder](https://github.com/moxie-coder)
   - 📦 221 public repos | 👥 follows 1651 people
 - [@Okafor-twd](https://github.com/Okafor-twd)
@@ -5999,7 +6002,7 @@
 - [@zuzu181192-z13z](https://github.com/zuzu181192-z13z)
   - 📦 0 public repos | 👥 follows 74 people
 - [@andrewexec](https://github.com/andrewexec)
-  - 📦 2 public repos | 👥 follows 2 people
+  - 📦 1 public repos | 👥 follows 2 people
 - [@ancaferro](https://github.com/ancaferro)
   - 📦 4 public repos | 👥 follows 15647 people
 
@@ -6171,4 +6174,4 @@
 - [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit) — _iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objec_
 
 ---
-_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-29 00:03:30 UTC_
+_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-29 10:14:31 UTC_

@@ -162,8 +162,8 @@
   {
     "repo": "sitemapping",
     "name": "main",
-    "head_sha": "1cafda728e4c10d10556283d3878e091f8421420",
-    "head_sha_short": "1cafda7",
+    "head_sha": "5503f13b1bbe70157abbde3b764ccad913d09f99",
+    "head_sha_short": "5503f13",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/sitemapping/tree/main"
   },
@@ -178,8 +178,8 @@
   {
     "repo": "top100",
     "name": "main",
-    "head_sha": "9969f2ec229fef808d87d1e413cf90273e4f791a",
-    "head_sha_short": "9969f2e",
+    "head_sha": "8edffb2d47664185f9afd6b6cfb231577d7b36a0",
+    "head_sha_short": "8edffb2",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/top100/tree/main"
   },
