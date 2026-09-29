@@ -25,12 +25,12 @@ pong-pop,CSS,687,7.1
 PrintSpoolerAutoRun,C++,3652,95.2
 PrintSpoolerAutoRun,Batchfile,184,4.8
 sitemapping,Python,29474,100.0
-top100,HTML,1862211,93.9
+top100,HTML,1862213,93.9
 top100,Python,115745,5.8
 top100,CSS,4402,0.2
-art_radar,TypeScript,223521,89.0
-art_radar,HTML,26809,10.7
-art_radar,JavaScript,835,0.3
+aisearchhelpers,TypeScript,150428,99.0
+aisearchhelpers,CSS,1397,0.9
+aisearchhelpers,JavaScript,94,0.1
 AudioTaste,JavaScript,88551,79.3
 AudioTaste,CSS,15248,13.6
 AudioTaste,HTML,7933,7.1
@@ -47,6 +47,8 @@ calculator,PowerShell,6830,0.5
 calculator,Shell,4448,0.3
 calculator,TypeScript,1509,0.1
 calculator,HTML,1170,0.1
+dadosabertos,Python,179496,73.8
+dadosabertos,HTML,63794,26.2
 EZInfiniteYTLive,C#,7795,100.0
 face-tagger,C#,9145,100.0
 FNF-Cubes-Live-Wallpaper,Java,155602,90.9
@@ -107,6 +109,9 @@ mmr-gui,C#,80550,100.0
 mmr-python,Python,67380,100.0
 movielibrary,C#,7846,100.0
 moviemaker-launcher,C#,27368,100.0
+Neo-Order-project,HTML,234986,69.2
+Neo-Order-project,JavaScript,97296,28.6
+Neo-Order-project,CSS,7505,2.2
 noisy,C#,47934,100.0
 OdontoAura,TypeScript,227224,97.3
 OdontoAura,PowerShell,3951,1.7
@@ -214,6 +219,7 @@ ROT-1,CSS,6604,19.7
 ROT-1,HTML,2973,8.9
 scrobbleviz,JavaScript,37131,74.7
 scrobbleviz,HTML,12600,25.3
+seohelper,JavaScript,12857,100.0
 Servidor-Perfeito,HTML,3844,100.0
 sigma-click,HTML,13478,100.0
 slideshow-studio,C#,59465,100.0

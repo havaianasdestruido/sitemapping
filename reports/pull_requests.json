@@ -377,19 +377,6 @@
     "url": "https://github.com/havaianasdestruido/top100/pull/1"
   },
   {
-    "repo": "art_radar",
-    "state": "closed",
-    "status": "merged",
-    "number": 1,
-    "title": "Rewrite the radar for creative coding & generative art (en/pt/zh)",
-    "user": "arena-ai-coding-agent[bot]",
-    "created_at": "2026-09-24T12:21:08Z",
-    "base_branch": "main",
-    "head_branch": "arena/01a0d34e-art-radar",
-    "commit_count": 2,
-    "url": "https://github.com/havaianasdestruido/art_radar/pull/1"
-  },
-  {
     "repo": "AudioTaste",
     "state": "closed",
     "status": "merged",
@@ -469,8 +456,8 @@
   },
   {
     "repo": "dadosabertos",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 1,
     "title": "indexclone: mirror + de-duplicate the six public document listings",
     "user": "arena-ai-coding-agent[bot]",
@@ -648,6 +635,32 @@
     "head_branch": "arena/01a0d464-kaukamed",
     "commit_count": 7,
     "url": "https://github.com/havaianasdestruido/KaukaMed/pull/1"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Eitcha! Sistema renomeado pra Neokirk + strings com resenha, 67, la ele, bora bill e tche tcheee no código inteiro",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-28T20:25:23Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0e9a0-neo-order-project",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/pull/1"
+  },
+  {
+    "repo": "nomescenso2022",
+    "state": "open",
+    "status": "open",
+    "number": 1,
+    "title": "Add IBGE Censo 2022 name scraper + complete rankings (128k nomes / 201k sobrenomes) in JSONL",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-28T20:13:07Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0e919-nomescenso2022",
+    "commit_count": 4,
+    "url": "https://github.com/havaianasdestruido/nomescenso2022/pull/1"
   },
   {
     "repo": "OdontoAura",
@@ -1012,6 +1025,32 @@
     "head_branch": "imgbot",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/pull/1"
+  },
+  {
+    "repo": "seohelper",
+    "state": "closed",
+    "status": "merged",
+    "number": 2,
+    "title": "Package the scan skill as an installable plugin",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-28T21:04:17Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0e9ce-seohelper",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/seohelper/pull/2"
+  },
+  {
+    "repo": "seohelper",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Refocus scan skill on plain-text chat results",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-28T20:48:58Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0e9c3-seohelper",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/seohelper/pull/1"
   },
   {
     "repo": "Sonic4",

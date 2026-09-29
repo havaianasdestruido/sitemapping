@@ -480,22 +480,6 @@
     "url": "https://github.com/havaianasdestruido/top100/commit/57aabb98925d9200f16f805c295fc63fc9f1a816"
   },
   {
-    "repo": "art_radar",
-    "pr_number": 1,
-    "sha": "56e35f40c0385e5afb0522cdc1676fcd78dd7272",
-    "sha_short": "56e35f4",
-    "message": "Rewrite the radar for creative coding & generative art (en/pt/zh)",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/56e35f40c0385e5afb0522cdc1676fcd78dd7272"
-  },
-  {
-    "repo": "art_radar",
-    "pr_number": 1,
-    "sha": "0214345b46c0a282083f5fdf571dbedbef86126d",
-    "sha_short": "0214345",
-    "message": "Format with the lockfile-pinned prettier 3.8.1",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/0214345b46c0a282083f5fdf571dbedbef86126d"
-  },
-  {
     "repo": "AudioTaste",
     "pr_number": 1,
     "sha": "4e7ad01509542836213e7125ccc4fb067bb78d9b",
@@ -800,6 +784,46 @@
     "url": "https://github.com/havaianasdestruido/KaukaMed/commit/7d306155d5da9b37dab4b57f476cd8deee096807"
   },
   {
+    "repo": "Neo-Order-project",
+    "pr_number": 1,
+    "sha": "bb460e6c67ed640ad48b6faba1e0a4ef642006ee",
+    "sha_short": "bb460e6",
+    "message": "Eitcha! Renomeia o sistema pra Neokirk e salpica resenha, 67, la ele, bora bill e tche tcheee no código inteiro",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/bb460e6c67ed640ad48b6faba1e0a4ef642006ee"
+  },
+  {
+    "repo": "nomescenso2022",
+    "pr_number": 1,
+    "sha": "8f5ccaa14cc40f38f2f2a46805509f85b9be4d8e",
+    "sha_short": "8f5ccaa",
+    "message": "Add IBGE Censo 2022 nomes scraper (live + offline-cache modes)",
+    "url": "https://github.com/havaianasdestruido/nomescenso2022/commit/8f5ccaa14cc40f38f2f2a46805509f85b9be4d8e"
+  },
+  {
+    "repo": "nomescenso2022",
+    "pr_number": 1,
+    "sha": "8aa4da925af1ca49db7ffb4de9efb05c908bf448",
+    "sha_short": "8aa4da9",
+    "message": "CI: run scraper on GitHub runners and commit JSONL results",
+    "url": "https://github.com/havaianasdestruido/nomescenso2022/commit/8aa4da925af1ca49db7ffb4de9efb05c908bf448"
+  },
+  {
+    "repo": "nomescenso2022",
+    "pr_number": 1,
+    "sha": "1cfda0f0df9391f30f60b7c70464e0db3abaeced",
+    "sha_short": "1cfda0f",
+    "message": "CI: self-diagnosing scrape workflow (commits ci_status.txt always)",
+    "url": "https://github.com/havaianasdestruido/nomescenso2022/commit/1cfda0f0df9391f30f60b7c70464e0db3abaeced"
+  },
+  {
+    "repo": "nomescenso2022",
+    "pr_number": 1,
+    "sha": "e1ab3323d97623b568de27c7fac85198d44731c2",
+    "sha_short": "e1ab332",
+    "message": "Full IBGE Censo 2022 name rankings (128,458 nomes / 201,601 sobrenomes) + stdlib scraper (live/cache/sqlite modes)",
+    "url": "https://github.com/havaianasdestruido/nomescenso2022/commit/e1ab3323d97623b568de27c7fac85198d44731c2"
+  },
+  {
     "repo": "OdontoAura",
     "pr_number": 70,
     "sha": "504f8611c19fda7902be3cf4b70a61d55ec937d9",
@@ -1094,6 +1118,30 @@
     "sha_short": "66c6a12",
     "message": "[ImgBot] Optimize images",
     "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/66c6a125faa3778f543762e13a1a0afc93e399e6"
+  },
+  {
+    "repo": "seohelper",
+    "pr_number": 2,
+    "sha": "ce1f740d52f3b643d4a441b187060fa7a9cefa80",
+    "sha_short": "ce1f740",
+    "message": "Package the scan skill as an installable plugin",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/ce1f740d52f3b643d4a441b187060fa7a9cefa80"
+  },
+  {
+    "repo": "seohelper",
+    "pr_number": 2,
+    "sha": "4671b6df392b050968e4f9c392f3e78b81539648",
+    "sha_short": "4671b6d",
+    "message": "Use the current action majors in CI",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/4671b6df392b050968e4f9c392f3e78b81539648"
+  },
+  {
+    "repo": "seohelper",
+    "pr_number": 1,
+    "sha": "0cf919c768ed72c83ad523229924c294187dac4d",
+    "sha_short": "0cf919c",
+    "message": "Refocus scan skill on plain-text chat results",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/0cf919c768ed72c83ad523229924c294187dac4d"
   },
   {
     "repo": "Sonic4",

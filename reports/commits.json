@@ -4202,6 +4202,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "1cafda728e4c10d10556283d3878e091f8421420",
+    "sha_short": "1cafda7",
+    "author": "GitHub Action Bot",
+    "date": "2026-09-28T19:04:43Z",
+    "message": "📊 [2026-09-28 19:04:43 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/1cafda728e4c10d10556283d3878e091f8421420"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "b148e3dc14c26c724320306ef442854f5806542b",
     "sha_short": "b148e3d",
     "author": "GitHub Action Bot",
@@ -4292,12 +4302,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "14ad3be6829e88a905936721268dc729ec922d9e",
-    "sha_short": "14ad3be",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-26T09:01:21Z",
-    "message": "📊 [2026-09-26 09:01:21 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/14ad3be6829e88a905936721268dc729ec922d9e"
+    "sha": "8113d8276f6f47b1930675e94df54e8a1d9be39b",
+    "sha_short": "8113d82",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T01:10:09Z",
+    "message": "Set imgbot schedule to weekly",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/8113d8276f6f47b1930675e94df54e8a1d9be39b"
   },
   {
     "repo": "sitemapping",
@@ -4392,12 +4402,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "7966b0d8d2ba6efa4d1af469a18a9a6ba8817f2c",
-    "sha_short": "7966b0d",
+    "sha": "a042f201a2496fb53c9e2cf09809f837cb81b29a",
+    "sha_short": "a042f20",
     "author": "Pato (new acc)",
-    "date": "2026-09-20T15:16:11Z",
-    "message": "Change cron schedule to run every 4 hours",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/7966b0d8d2ba6efa4d1af469a18a9a6ba8817f2c"
+    "date": "2026-09-13T17:32:43Z",
+    "message": "Create README.md",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/a042f201a2496fb53c9e2cf09809f837cb81b29a"
   },
   {
     "repo": "sitemapping",
@@ -4652,6 +4662,16 @@
   {
     "repo": "top100",
     "branch": "main",
+    "sha": "9969f2ec229fef808d87d1e413cf90273e4f791a",
+    "sha_short": "9969f2e",
+    "author": "github-actions[bot]",
+    "date": "2026-09-28T20:55:05Z",
+    "message": "data: update top repos data (2026-09-28 20:55 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/9969f2ec229fef808d87d1e413cf90273e4f791a"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
     "sha": "c0912e9195ef3f1dcde41c58e91f550014b7f9e1",
     "sha_short": "c0912e9",
     "author": "github-actions[bot]",
@@ -4742,12 +4762,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "3f60b27613749013bf809b0872e80b7a0927f60e",
-    "sha_short": "3f60b27",
+    "sha": "713b472869a9e13765b7806a3f4caff9cd270f28",
+    "sha_short": "713b472",
     "author": "github-actions[bot]",
-    "date": "2026-09-27T14:52:19Z",
-    "message": "data: update top repos data (2026-09-27)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/3f60b27613749013bf809b0872e80b7a0927f60e"
+    "date": "2026-09-23T07:27:04Z",
+    "message": "data: update top repos data (2026-09-23)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/713b472869a9e13765b7806a3f4caff9cd270f28"
   },
   {
     "repo": "top100",
@@ -4842,12 +4862,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "c7665d0011c1f43d921afb8af22aad1664c51ddd",
-    "sha_short": "c7665d0",
-    "author": "github-actions[bot]",
-    "date": "2026-09-21T14:36:56Z",
-    "message": "data: update top repos data (2026-09-21)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/c7665d0011c1f43d921afb8af22aad1664c51ddd"
+    "sha": "561c435d2d0d47b21f215793638b764fe71d2ef7",
+    "sha_short": "561c435",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:30:38Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/top100/commit/561c435d2d0d47b21f215793638b764fe71d2ef7"
   },
   {
     "repo": "top100",
@@ -5000,6 +5020,106 @@
     "url": "https://github.com/havaianasdestruido/.github/commit/b0cd6b2d4fb81e470b313e913c0f33c5a0ffde1e"
   },
   {
+    "repo": "aisearchhelpers",
+    "branch": "main",
+    "sha": "1e49b3ae81f865c59c44511af4091c674a1134c8",
+    "sha_short": "1e49b3a",
+    "author": "Keeran Jagadesan",
+    "date": "2026-09-27T14:28:21Z",
+    "message": "Auto-subscribe scan leads to the operator's beehiiv newsletter",
+    "url": "https://github.com/havaianasdestruido/aisearchhelpers/commit/1e49b3ae81f865c59c44511af4091c674a1134c8"
+  },
+  {
+    "repo": "aisearchhelpers",
+    "branch": "main",
+    "sha": "f5109a73b85a118bdaa510f796fe981620adce4e",
+    "sha_short": "f5109a7",
+    "author": "Keeran Jagadesan",
+    "date": "2026-09-11T15:24:33Z",
+    "message": "Follow-up: one nudge per email ever, truncate quoted fix, unsubscribe link",
+    "url": "https://github.com/havaianasdestruido/aisearchhelpers/commit/f5109a73b85a118bdaa510f796fe981620adce4e"
+  },
+  {
+    "repo": "aisearchhelpers",
+    "branch": "main",
+    "sha": "050ef46413ea18439802bbc90aceb7ad1f319b76",
+    "sha_short": "050ef46",
+    "author": "Keeran Jagadesan",
+    "date": "2026-09-09T22:20:11Z",
+    "message": "Vercel Web Analytics on every page; Resend open/click tracking enabled on report emails",
+    "url": "https://github.com/havaianasdestruido/aisearchhelpers/commit/050ef46413ea18439802bbc90aceb7ad1f319b76"
+  },
+  {
+    "repo": "aisearchhelpers",
+    "branch": "main",
+    "sha": "35125b5c2d84176dfa25d86f92ac7e52adf93b5d",
+    "sha_short": "35125b5",
+    "author": "Keeran Jagadesan",
+    "date": "2026-09-09T22:13:00Z",
+    "message": "Sticky bar: safe-area padding, tighter label, footer clearance",
+    "url": "https://github.com/havaianasdestruido/aisearchhelpers/commit/35125b5c2d84176dfa25d86f92ac7e52adf93b5d"
+  },
+  {
+    "repo": "aisearchhelpers",
+    "branch": "main",
+    "sha": "1d999fcdeb11ea65abce593b9d55f93c7e232bf4",
+    "sha_short": "1d999fc",
+    "author": "Keeran Jagadesan",
+    "date": "2026-09-09T21:58:41Z",
+    "message": "Survive bot-blocking sites: browser-UA fallback, web-search profiling when uncrawlable, bot-block becomes a report finding",
+    "url": "https://github.com/havaianasdestruido/aisearchhelpers/commit/1d999fcdeb11ea65abce593b9d55f93c7e232bf4"
+  },
+  {
+    "repo": "aisearchhelpers",
+    "branch": "main",
+    "sha": "316e82263bdc1ab55841eec6b2f0db4962fb1d33",
+    "sha_short": "316e822",
+    "author": "Keeran Jagadesan",
+    "date": "2026-09-09T20:24:33Z",
+    "message": "Conversion stack on the report page",
+    "url": "https://github.com/havaianasdestruido/aisearchhelpers/commit/316e82263bdc1ab55841eec6b2f0db4962fb1d33"
+  },
+  {
+    "repo": "aisearchhelpers",
+    "branch": "main",
+    "sha": "a0d9017e11a288e458267aecb74af9aaf76f4379",
+    "sha_short": "a0d9017",
+    "author": "Keeran Jagadesan",
+    "date": "2026-09-09T19:56:13Z",
+    "message": "Mobile fixes: no iOS input zoom, dark page ground (kills white side bar), overflow locks, header and chip layout on small screens",
+    "url": "https://github.com/havaianasdestruido/aisearchhelpers/commit/a0d9017e11a288e458267aecb74af9aaf76f4379"
+  },
+  {
+    "repo": "aisearchhelpers",
+    "branch": "main",
+    "sha": "1df5545253bc659b83a32ea3d17074b2dc7262b5",
+    "sha_short": "1df5545",
+    "author": "Keeran Jagadesan",
+    "date": "2026-09-09T19:48:55Z",
+    "message": "Geo-tiered lite scans for cost control",
+    "url": "https://github.com/havaianasdestruido/aisearchhelpers/commit/1df5545253bc659b83a32ea3d17074b2dc7262b5"
+  },
+  {
+    "repo": "aisearchhelpers",
+    "branch": "main",
+    "sha": "c7bd52e47e6d1acdc2d2913ef3379e88aee3cde9",
+    "sha_short": "c7bd52e",
+    "author": "Keeran Jagadesan",
+    "date": "2026-09-09T19:44:32Z",
+    "message": "Auto-sync every lead into the kjags CRM; visible GitHub link in landing header",
+    "url": "https://github.com/havaianasdestruido/aisearchhelpers/commit/c7bd52e47e6d1acdc2d2913ef3379e88aee3cde9"
+  },
+  {
+    "repo": "aisearchhelpers",
+    "branch": "main",
+    "sha": "dcb0065ddc0915f7707435bb6f6299557ac00f23",
+    "sha_short": "dcb0065",
+    "author": "Keeran Jagadesan",
+    "date": "2026-09-09T19:34:08Z",
+    "message": "Notify on cached-report leads too",
+    "url": "https://github.com/havaianasdestruido/aisearchhelpers/commit/dcb0065ddc0915f7707435bb6f6299557ac00f23"
+  },
+  {
     "repo": "apkdecomp-skill",
     "branch": "main",
     "sha": "0a834f5913fcfa5a5eca3ca02979632f73db8397",
@@ -5038,806 +5158,6 @@
     "date": "2026-09-20T13:44:52Z",
     "message": "init",
     "url": "https://github.com/havaianasdestruido/apkdecomp-skill/commit/fa5c615d7e7b1c7c69c8559b0c883c96a1b34eab"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "0214345b46c0a282083f5fdf571dbedbef86126d",
-    "sha_short": "0214345",
-    "author": "havaianasdestruido",
-    "date": "2026-09-24T12:22:23Z",
-    "message": "Format with the lockfile-pinned prettier 3.8.1",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/0214345b46c0a282083f5fdf571dbedbef86126d"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "56e35f40c0385e5afb0522cdc1676fcd78dd7272",
-    "sha_short": "56e35f4",
-    "author": "havaianasdestruido",
-    "date": "2026-09-24T12:20:58Z",
-    "message": "Rewrite the radar for creative coding & generative art (en/pt/zh)",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/56e35f40c0385e5afb0522cdc1676fcd78dd7272"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "45fc37051e1312dba2b49ae061fc755d231019a0",
-    "sha_short": "45fc370",
-    "author": "github-actions[bot]",
-    "date": "2026-09-23T22:59:14Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/45fc37051e1312dba2b49ae061fc755d231019a0"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "40f8dc81d1afee70d60b04c5dd937593cf7a1639",
-    "sha_short": "40f8dc8",
-    "author": "github-actions[bot]",
-    "date": "2026-09-23T22:59:10Z",
-    "message": "digest: 2026-09-23 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/40f8dc81d1afee70d60b04c5dd937593cf7a1639"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "8dd4c3b671e299035c58f12a95bff2b37508582d",
-    "sha_short": "8dd4c3b",
-    "author": "github-actions[bot]",
-    "date": "2026-09-22T22:58:22Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/8dd4c3b671e299035c58f12a95bff2b37508582d"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "908f9d951bca2172a6637d9d7822137cbf3958c0",
-    "sha_short": "908f9d9",
-    "author": "github-actions[bot]",
-    "date": "2026-09-22T22:58:20Z",
-    "message": "digest: 2026-09-22 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/908f9d951bca2172a6637d9d7822137cbf3958c0"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "00baabff674021aeeb286050e9843a0ff21bb4dd",
-    "sha_short": "00baabf",
-    "author": "github-actions[bot]",
-    "date": "2026-09-21T23:18:00Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/00baabff674021aeeb286050e9843a0ff21bb4dd"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "43e70ff34e68e33234d85025815a839620e9cc27",
-    "sha_short": "43e70ff",
-    "author": "github-actions[bot]",
-    "date": "2026-09-21T23:17:57Z",
-    "message": "digest: 2026-09-21 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/43e70ff34e68e33234d85025815a839620e9cc27"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "fceb7137b600ba3f89fa9a8319d756192038fd9b",
-    "sha_short": "fceb713",
-    "author": "github-actions[bot]",
-    "date": "2026-09-20T22:28:07Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/fceb7137b600ba3f89fa9a8319d756192038fd9b"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "4e2289e242dbd1fb6abd212725ac5dbc1feb8aac",
-    "sha_short": "4e2289e",
-    "author": "github-actions[bot]",
-    "date": "2026-09-20T22:28:04Z",
-    "message": "digest: 2026-09-20 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/4e2289e242dbd1fb6abd212725ac5dbc1feb8aac"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "685491e5f9feab938914e6597a5cc4f702daff7c",
-    "sha_short": "685491e",
-    "author": "github-actions[bot]",
-    "date": "2026-08-17T20:48:14Z",
-    "message": "digest: 2026-08-17 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/685491e5f9feab938914e6597a5cc4f702daff7c"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "1374cbee05e642d94247096473077111f127be53",
-    "sha_short": "1374cbe",
-    "author": "github-actions[bot]",
-    "date": "2026-08-16T20:42:39Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/1374cbee05e642d94247096473077111f127be53"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "9c67e3ab81791850763aa1aee2070eb28c80941a",
-    "sha_short": "9c67e3a",
-    "author": "github-actions[bot]",
-    "date": "2026-08-16T20:42:36Z",
-    "message": "digest: 2026-08-16 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/9c67e3ab81791850763aa1aee2070eb28c80941a"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "6dfc47622dd797e6da640434880e1e96795fe843",
-    "sha_short": "6dfc476",
-    "author": "github-actions[bot]",
-    "date": "2026-08-15T20:43:06Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/6dfc47622dd797e6da640434880e1e96795fe843"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "99f70b43961c92d8fd298d16b06a84cc50a556a8",
-    "sha_short": "99f70b4",
-    "author": "github-actions[bot]",
-    "date": "2026-08-15T20:43:03Z",
-    "message": "digest: 2026-08-15 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/99f70b43961c92d8fd298d16b06a84cc50a556a8"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "fc18474244ac66b3778b213da1ed669d65ec5813",
-    "sha_short": "fc18474",
-    "author": "github-actions[bot]",
-    "date": "2026-08-14T20:49:38Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/fc18474244ac66b3778b213da1ed669d65ec5813"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "592e7d4ee3f6d35ff583f2ffab888c9992a46610",
-    "sha_short": "592e7d4",
-    "author": "github-actions[bot]",
-    "date": "2026-08-14T20:49:36Z",
-    "message": "digest: 2026-08-14 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/592e7d4ee3f6d35ff583f2ffab888c9992a46610"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "9f99650f83831e352aec059de7c2a80c87c65fdf",
-    "sha_short": "9f99650",
-    "author": "github-actions[bot]",
-    "date": "2026-08-13T21:05:40Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/9f99650f83831e352aec059de7c2a80c87c65fdf"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "44291aa2e193728ea73aea5eba52626637508a21",
-    "sha_short": "44291aa",
-    "author": "github-actions[bot]",
-    "date": "2026-08-13T21:05:37Z",
-    "message": "digest: 2026-08-13 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/44291aa2e193728ea73aea5eba52626637508a21"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "540fff8ff8d6df30350861481051cb6859029dd1",
-    "sha_short": "540fff8",
-    "author": "github-actions[bot]",
-    "date": "2026-08-12T21:05:39Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/540fff8ff8d6df30350861481051cb6859029dd1"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "0cf6775769972227c73e8836c176ed61cd000fbf",
-    "sha_short": "0cf6775",
-    "author": "github-actions[bot]",
-    "date": "2026-07-29T21:16:34Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/0cf6775769972227c73e8836c176ed61cd000fbf"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "a4eb18e133e35617144d4ac020b0382b704f8432",
-    "sha_short": "a4eb18e",
-    "author": "github-actions[bot]",
-    "date": "2026-07-29T21:16:32Z",
-    "message": "digest: 2026-07-29 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/a4eb18e133e35617144d4ac020b0382b704f8432"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "51c6bf66cdbe9c1b123f3e207b7a01d9c6e50e38",
-    "sha_short": "51c6bf6",
-    "author": "github-actions[bot]",
-    "date": "2026-07-28T21:26:26Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/51c6bf66cdbe9c1b123f3e207b7a01d9c6e50e38"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "cb99be8e01a07193b8278a4f71a947b59196bfef",
-    "sha_short": "cb99be8",
-    "author": "github-actions[bot]",
-    "date": "2026-07-28T21:26:23Z",
-    "message": "digest: 2026-07-28 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/cb99be8e01a07193b8278a4f71a947b59196bfef"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "75acd78ecf8d387d7ee70e005721f57bbc4b5e7d",
-    "sha_short": "75acd78",
-    "author": "github-actions[bot]",
-    "date": "2026-07-27T21:27:55Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/75acd78ecf8d387d7ee70e005721f57bbc4b5e7d"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "2de2a8ca90ae1e7a29ec5c012912f136ce9a2f7b",
-    "sha_short": "2de2a8c",
-    "author": "github-actions[bot]",
-    "date": "2026-07-27T21:27:52Z",
-    "message": "digest: 2026-07-27 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/2de2a8ca90ae1e7a29ec5c012912f136ce9a2f7b"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "e969e66ca7ff838cb29c60f552e26d9d5b1f6994",
-    "sha_short": "e969e66",
-    "author": "github-actions[bot]",
-    "date": "2026-07-26T21:15:49Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/e969e66ca7ff838cb29c60f552e26d9d5b1f6994"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "937e2f9d7e0a87db18a0ca1c3b0d7680ac2d5492",
-    "sha_short": "937e2f9",
-    "author": "github-actions[bot]",
-    "date": "2026-07-26T21:15:46Z",
-    "message": "digest: 2026-07-26 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/937e2f9d7e0a87db18a0ca1c3b0d7680ac2d5492"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "d5807461cff6a96813cec827c7f864b62096860c",
-    "sha_short": "d580746",
-    "author": "github-actions[bot]",
-    "date": "2026-07-25T21:12:45Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/d5807461cff6a96813cec827c7f864b62096860c"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "81c2ddb6461e0690e6534bcf218620b8a5004ab2",
-    "sha_short": "81c2ddb",
-    "author": "github-actions[bot]",
-    "date": "2026-07-25T21:12:42Z",
-    "message": "digest: 2026-07-25 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/81c2ddb6461e0690e6534bcf218620b8a5004ab2"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "8823575ec37d67536b0d86360c4a37391ee98b18",
-    "sha_short": "8823575",
-    "author": "github-actions[bot]",
-    "date": "2026-07-13T15:42:36Z",
-    "message": "digest: 2026-07-13 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/8823575ec37d67536b0d86360c4a37391ee98b18"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "43c91e11bbe7de83ee5a9bc12de6b037ee7511c8",
-    "sha_short": "43c91e1",
-    "author": "litang9",
-    "date": "2026-07-13T15:30:50Z",
-    "message": "Merge pull request #204 from litang9/fix/openclaw-maxtokens",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/43c91e11bbe7de83ee5a9bc12de6b037ee7511c8"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "0552e9e5858b4a995176be7fb052bd5dfd8ef9c8",
-    "sha_short": "0552e9e",
-    "author": "litang9",
-    "date": "2026-07-13T15:27:35Z",
-    "message": "fix: raise OpenClaw report maxTokens to 8192 to prevent truncation",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/0552e9e5858b4a995176be7fb052bd5dfd8ef9c8"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "8f777bc90d87306dcd7d53f79a39b99933c8dc1f",
-    "sha_short": "8f777bc",
-    "author": "github-actions[bot]",
-    "date": "2026-07-13T04:12:51Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/8f777bc90d87306dcd7d53f79a39b99933c8dc1f"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "71eb8e085c69219f8c7332f3b11958bc78ec5f8b",
-    "sha_short": "71eb8e0",
-    "author": "github-actions[bot]",
-    "date": "2026-07-13T04:12:49Z",
-    "message": "digest: 2026-07-13 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/71eb8e085c69219f8c7332f3b11958bc78ec5f8b"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "94a21778b36e7a516a83bb50df8fa6a2fa80cfd4",
-    "sha_short": "94a2177",
-    "author": "github-actions[bot]",
-    "date": "2026-07-12T04:08:50Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/94a21778b36e7a516a83bb50df8fa6a2fa80cfd4"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "d3311c27bb95bdf974cc408ce49b5342fde7863f",
-    "sha_short": "d3311c2",
-    "author": "github-actions[bot]",
-    "date": "2026-07-12T04:08:47Z",
-    "message": "digest: 2026-07-12 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/d3311c27bb95bdf974cc408ce49b5342fde7863f"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "14bc15ba3ff3f4ed97e3a6ad66db30d1faaf6d80",
-    "sha_short": "14bc15b",
-    "author": "github-actions[bot]",
-    "date": "2026-07-11T03:51:55Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/14bc15ba3ff3f4ed97e3a6ad66db30d1faaf6d80"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "17428101714470e6b8c4ea2e53eecc0fd567126c",
-    "sha_short": "1742810",
-    "author": "github-actions[bot]",
-    "date": "2026-07-11T03:51:53Z",
-    "message": "digest: 2026-07-11 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/17428101714470e6b8c4ea2e53eecc0fd567126c"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "arena/01a0d34e-art-radar",
-    "sha": "a14d85330e57452bba3f8b4f1af99bd2fe107456",
-    "sha_short": "a14d853",
-    "author": "github-actions[bot]",
-    "date": "2026-07-10T04:26:29Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/a14d85330e57452bba3f8b4f1af99bd2fe107456"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "6c4e365a33c96e983bd3a01f09c6e84292b3652a",
-    "sha_short": "6c4e365",
-    "author": "github-actions[bot]",
-    "date": "2026-09-28T18:31:47Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/6c4e365a33c96e983bd3a01f09c6e84292b3652a"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "a50bfe3d11c6a0ae6af25a1223fc71be73b01d36",
-    "sha_short": "a50bfe3",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-24T12:36:09Z",
-    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0d34e-art-radar",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/a50bfe3d11c6a0ae6af25a1223fc71be73b01d36"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "0214345b46c0a282083f5fdf571dbedbef86126d",
-    "sha_short": "0214345",
-    "author": "havaianasdestruido",
-    "date": "2026-09-24T12:22:23Z",
-    "message": "Format with the lockfile-pinned prettier 3.8.1",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/0214345b46c0a282083f5fdf571dbedbef86126d"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "56e35f40c0385e5afb0522cdc1676fcd78dd7272",
-    "sha_short": "56e35f4",
-    "author": "havaianasdestruido",
-    "date": "2026-09-24T12:20:58Z",
-    "message": "Rewrite the radar for creative coding & generative art (en/pt/zh)",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/56e35f40c0385e5afb0522cdc1676fcd78dd7272"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "45fc37051e1312dba2b49ae061fc755d231019a0",
-    "sha_short": "45fc370",
-    "author": "github-actions[bot]",
-    "date": "2026-09-23T22:59:14Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/45fc37051e1312dba2b49ae061fc755d231019a0"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "40f8dc81d1afee70d60b04c5dd937593cf7a1639",
-    "sha_short": "40f8dc8",
-    "author": "github-actions[bot]",
-    "date": "2026-09-23T22:59:10Z",
-    "message": "digest: 2026-09-23 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/40f8dc81d1afee70d60b04c5dd937593cf7a1639"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "8dd4c3b671e299035c58f12a95bff2b37508582d",
-    "sha_short": "8dd4c3b",
-    "author": "github-actions[bot]",
-    "date": "2026-09-22T22:58:22Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/8dd4c3b671e299035c58f12a95bff2b37508582d"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "908f9d951bca2172a6637d9d7822137cbf3958c0",
-    "sha_short": "908f9d9",
-    "author": "github-actions[bot]",
-    "date": "2026-09-22T22:58:20Z",
-    "message": "digest: 2026-09-22 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/908f9d951bca2172a6637d9d7822137cbf3958c0"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "00baabff674021aeeb286050e9843a0ff21bb4dd",
-    "sha_short": "00baabf",
-    "author": "github-actions[bot]",
-    "date": "2026-09-21T23:18:00Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/00baabff674021aeeb286050e9843a0ff21bb4dd"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "43e70ff34e68e33234d85025815a839620e9cc27",
-    "sha_short": "43e70ff",
-    "author": "github-actions[bot]",
-    "date": "2026-09-21T23:17:57Z",
-    "message": "digest: 2026-09-21 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/43e70ff34e68e33234d85025815a839620e9cc27"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "e276d9c7c92eb61fc2aca79f0fbb10219f3cbe38",
-    "sha_short": "e276d9c",
-    "author": "github-actions[bot]",
-    "date": "2026-08-18T20:43:36Z",
-    "message": "digest: 2026-08-18 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/e276d9c7c92eb61fc2aca79f0fbb10219f3cbe38"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "fbf6300cfa4f2c2e03d2feabf45c43b6bd50f6ac",
-    "sha_short": "fbf6300",
-    "author": "github-actions[bot]",
-    "date": "2026-08-17T20:48:18Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/fbf6300cfa4f2c2e03d2feabf45c43b6bd50f6ac"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "685491e5f9feab938914e6597a5cc4f702daff7c",
-    "sha_short": "685491e",
-    "author": "github-actions[bot]",
-    "date": "2026-08-17T20:48:14Z",
-    "message": "digest: 2026-08-17 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/685491e5f9feab938914e6597a5cc4f702daff7c"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "1374cbee05e642d94247096473077111f127be53",
-    "sha_short": "1374cbe",
-    "author": "github-actions[bot]",
-    "date": "2026-08-16T20:42:39Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/1374cbee05e642d94247096473077111f127be53"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "9c67e3ab81791850763aa1aee2070eb28c80941a",
-    "sha_short": "9c67e3a",
-    "author": "github-actions[bot]",
-    "date": "2026-08-16T20:42:36Z",
-    "message": "digest: 2026-08-16 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/9c67e3ab81791850763aa1aee2070eb28c80941a"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "6dfc47622dd797e6da640434880e1e96795fe843",
-    "sha_short": "6dfc476",
-    "author": "github-actions[bot]",
-    "date": "2026-08-15T20:43:06Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/6dfc47622dd797e6da640434880e1e96795fe843"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "99f70b43961c92d8fd298d16b06a84cc50a556a8",
-    "sha_short": "99f70b4",
-    "author": "github-actions[bot]",
-    "date": "2026-08-15T20:43:03Z",
-    "message": "digest: 2026-08-15 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/99f70b43961c92d8fd298d16b06a84cc50a556a8"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "fc18474244ac66b3778b213da1ed669d65ec5813",
-    "sha_short": "fc18474",
-    "author": "github-actions[bot]",
-    "date": "2026-08-14T20:49:38Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/fc18474244ac66b3778b213da1ed669d65ec5813"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "592e7d4ee3f6d35ff583f2ffab888c9992a46610",
-    "sha_short": "592e7d4",
-    "author": "github-actions[bot]",
-    "date": "2026-08-14T20:49:36Z",
-    "message": "digest: 2026-08-14 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/592e7d4ee3f6d35ff583f2ffab888c9992a46610"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "9f99650f83831e352aec059de7c2a80c87c65fdf",
-    "sha_short": "9f99650",
-    "author": "github-actions[bot]",
-    "date": "2026-08-13T21:05:40Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/9f99650f83831e352aec059de7c2a80c87c65fdf"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "5bad29ea477f5695e01282ce7d967f2ed751224f",
-    "sha_short": "5bad29e",
-    "author": "github-actions[bot]",
-    "date": "2026-07-30T21:28:09Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/5bad29ea477f5695e01282ce7d967f2ed751224f"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "90a411d9bd704a222a1df1bd21da42326acb8c5a",
-    "sha_short": "90a411d",
-    "author": "github-actions[bot]",
-    "date": "2026-07-30T21:28:06Z",
-    "message": "digest: 2026-07-30 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/90a411d9bd704a222a1df1bd21da42326acb8c5a"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "0cf6775769972227c73e8836c176ed61cd000fbf",
-    "sha_short": "0cf6775",
-    "author": "github-actions[bot]",
-    "date": "2026-07-29T21:16:34Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/0cf6775769972227c73e8836c176ed61cd000fbf"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "a4eb18e133e35617144d4ac020b0382b704f8432",
-    "sha_short": "a4eb18e",
-    "author": "github-actions[bot]",
-    "date": "2026-07-29T21:16:32Z",
-    "message": "digest: 2026-07-29 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/a4eb18e133e35617144d4ac020b0382b704f8432"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "51c6bf66cdbe9c1b123f3e207b7a01d9c6e50e38",
-    "sha_short": "51c6bf6",
-    "author": "github-actions[bot]",
-    "date": "2026-07-28T21:26:26Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/51c6bf66cdbe9c1b123f3e207b7a01d9c6e50e38"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "cb99be8e01a07193b8278a4f71a947b59196bfef",
-    "sha_short": "cb99be8",
-    "author": "github-actions[bot]",
-    "date": "2026-07-28T21:26:23Z",
-    "message": "digest: 2026-07-28 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/cb99be8e01a07193b8278a4f71a947b59196bfef"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "75acd78ecf8d387d7ee70e005721f57bbc4b5e7d",
-    "sha_short": "75acd78",
-    "author": "github-actions[bot]",
-    "date": "2026-07-27T21:27:55Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/75acd78ecf8d387d7ee70e005721f57bbc4b5e7d"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "2de2a8ca90ae1e7a29ec5c012912f136ce9a2f7b",
-    "sha_short": "2de2a8c",
-    "author": "github-actions[bot]",
-    "date": "2026-07-27T21:27:52Z",
-    "message": "digest: 2026-07-27 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/2de2a8ca90ae1e7a29ec5c012912f136ce9a2f7b"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "e969e66ca7ff838cb29c60f552e26d9d5b1f6994",
-    "sha_short": "e969e66",
-    "author": "github-actions[bot]",
-    "date": "2026-07-26T21:15:49Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/e969e66ca7ff838cb29c60f552e26d9d5b1f6994"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "937e2f9d7e0a87db18a0ca1c3b0d7680ac2d5492",
-    "sha_short": "937e2f9",
-    "author": "github-actions[bot]",
-    "date": "2026-07-26T21:15:46Z",
-    "message": "digest: 2026-07-26 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/937e2f9d7e0a87db18a0ca1c3b0d7680ac2d5492"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "adf1ebe64a5a0a6ef7443cddce51fd5a479f183a",
-    "sha_short": "adf1ebe",
-    "author": "litang9",
-    "date": "2026-07-15T13:22:44Z",
-    "message": "ci: schedule daily digest at 21:13 UTC (05:13 CST) to dodge z.ai daytime overload",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/adf1ebe64a5a0a6ef7443cddce51fd5a479f183a"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "6015a0642f2ca030a52434c0113738b5b3e8e048",
-    "sha_short": "6015a06",
-    "author": "github-actions[bot]",
-    "date": "2026-07-13T15:42:39Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/6015a0642f2ca030a52434c0113738b5b3e8e048"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "8823575ec37d67536b0d86360c4a37391ee98b18",
-    "sha_short": "8823575",
-    "author": "github-actions[bot]",
-    "date": "2026-07-13T15:42:36Z",
-    "message": "digest: 2026-07-13 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/8823575ec37d67536b0d86360c4a37391ee98b18"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "43c91e11bbe7de83ee5a9bc12de6b037ee7511c8",
-    "sha_short": "43c91e1",
-    "author": "litang9",
-    "date": "2026-07-13T15:30:50Z",
-    "message": "Merge pull request #204 from litang9/fix/openclaw-maxtokens",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/43c91e11bbe7de83ee5a9bc12de6b037ee7511c8"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "0552e9e5858b4a995176be7fb052bd5dfd8ef9c8",
-    "sha_short": "0552e9e",
-    "author": "litang9",
-    "date": "2026-07-13T15:27:35Z",
-    "message": "fix: raise OpenClaw report maxTokens to 8192 to prevent truncation",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/0552e9e5858b4a995176be7fb052bd5dfd8ef9c8"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "8f777bc90d87306dcd7d53f79a39b99933c8dc1f",
-    "sha_short": "8f777bc",
-    "author": "github-actions[bot]",
-    "date": "2026-07-13T04:12:51Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/8f777bc90d87306dcd7d53f79a39b99933c8dc1f"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "71eb8e085c69219f8c7332f3b11958bc78ec5f8b",
-    "sha_short": "71eb8e0",
-    "author": "github-actions[bot]",
-    "date": "2026-07-13T04:12:49Z",
-    "message": "digest: 2026-07-13 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/71eb8e085c69219f8c7332f3b11958bc78ec5f8b"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "94a21778b36e7a516a83bb50df8fa6a2fa80cfd4",
-    "sha_short": "94a2177",
-    "author": "github-actions[bot]",
-    "date": "2026-07-12T04:08:50Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/94a21778b36e7a516a83bb50df8fa6a2fa80cfd4"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "d3311c27bb95bdf974cc408ce49b5342fde7863f",
-    "sha_short": "d3311c2",
-    "author": "github-actions[bot]",
-    "date": "2026-07-12T04:08:47Z",
-    "message": "digest: 2026-07-12 daily digest",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/d3311c27bb95bdf974cc408ce49b5342fde7863f"
-  },
-  {
-    "repo": "art_radar",
-    "branch": "main",
-    "sha": "14bc15ba3ff3f4ed97e3a6ad66db30d1faaf6d80",
-    "sha_short": "14bc15b",
-    "author": "github-actions[bot]",
-    "date": "2026-07-11T03:51:55Z",
-    "message": "chore: update manifest.json",
-    "url": "https://github.com/havaianasdestruido/art_radar/commit/14bc15ba3ff3f4ed97e3a6ad66db30d1faaf6d80"
   },
   {
     "repo": "AudioTaste",
@@ -7678,6 +6998,76 @@
     "date": "2026-09-28T12:44:59Z",
     "message": "Initial commit",
     "url": "https://github.com/havaianasdestruido/dadosabertos/commit/a13e30a25df85f893b8d38a00d60780463e30d27"
+  },
+  {
+    "repo": "dadosabertos",
+    "branch": "main",
+    "sha": "78a56cf2217e2c5a072ebaef7319ac63877491c2",
+    "sha_short": "78a56cf",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:09:55Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0e80c-dadosabertos",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/78a56cf2217e2c5a072ebaef7319ac63877491c2"
+  },
+  {
+    "repo": "dadosabertos",
+    "branch": "main",
+    "sha": "8635c04cf229c6396879860c510f7696630cd261",
+    "sha_short": "8635c04",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T18:05:23Z",
+    "message": "budget: charge streamed bytes beyond the amount actually reserved",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/8635c04cf229c6396879860c510f7696630cd261"
+  },
+  {
+    "repo": "dadosabertos",
+    "branch": "main",
+    "sha": "c686ccee266ca87958addf7d35d6c5cf16ac9f11",
+    "sha_short": "c686cce",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T17:33:31Z",
+    "message": "review fixes: budget double-charge, index-page containment, config defaults",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/c686ccee266ca87958addf7d35d6c5cf16ac9f11"
+  },
+  {
+    "repo": "dadosabertos",
+    "branch": "main",
+    "sha": "00f816b3788b57ac348a7759aae52ece7aaa919e",
+    "sha_short": "00f816b",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T13:08:08Z",
+    "message": "README: keep the real run out of the committed example folder",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/00f816b3788b57ac348a7759aae52ece7aaa919e"
+  },
+  {
+    "repo": "dadosabertos",
+    "branch": "main",
+    "sha": "1705d08eb525f9ae723485c3f77bbe84a7f8eec2",
+    "sha_short": "1705d08",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T13:07:56Z",
+    "message": "snapshots: add Macau March 2013 and the CVM DFP archive listings",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/1705d08eb525f9ae723485c3f77bbe84a7f8eec2"
+  },
+  {
+    "repo": "dadosabertos",
+    "branch": "main",
+    "sha": "8ba0ce4fb5edc7f8e54f92135db90e9441e5d25d",
+    "sha_short": "8ba0ce4",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T13:07:24Z",
+    "message": "filters, stale-size handling, README and regenerated example outputs",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/8ba0ce4fb5edc7f8e54f92135db90e9441e5d25d"
+  },
+  {
+    "repo": "dadosabertos",
+    "branch": "main",
+    "sha": "36566647e1b5ae5f2f61c4d71c0eca0560321a1e",
+    "sha_short": "3656664",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T13:06:24Z",
+    "message": "indexclone: mirror + de-duplicate six public document listings",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/36566647e1b5ae5f2f61c4d71c0eca0560321a1e"
   },
   {
     "repo": "dadosabertos",
@@ -13428,6 +12818,206 @@
     "date": "2026-08-03T16:51:47Z",
     "message": "initial commit",
     "url": "https://github.com/havaianasdestruido/moviemaker-launcher/commit/0260b6dcd40990f7f60289a88550d17677671249"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "arena/01a0e9a0-neo-order-project",
+    "sha": "bb460e6c67ed640ad48b6faba1e0a4ef642006ee",
+    "sha_short": "bb460e6",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T20:24:29Z",
+    "message": "Eitcha! Renomeia o sistema pra Neokirk e salpica resenha, 67, la ele, bora bill e tche tcheee no código inteiro",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/bb460e6c67ed640ad48b6faba1e0a4ef642006ee"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "arena/01a0e9a0-neo-order-project",
+    "sha": "9cb8bfbd9b752ec28275cc60bcfaa28c27ee44ce",
+    "sha_short": "9cb8bfb",
+    "author": "NeoOrder-AYJP",
+    "date": "2026-09-28T16:16:43Z",
+    "message": "Merge pull request #6 from cavaleiro-olimpioo/NeoOrderPietro",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/9cb8bfbd9b752ec28275cc60bcfaa28c27ee44ce"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "arena/01a0e9a0-neo-order-project",
+    "sha": "5f839c842c76eb1bed152c4ddf84bd704288884d",
+    "sha_short": "5f839c8",
+    "author": "Guilherme Olimpio",
+    "date": "2026-09-28T16:07:41Z",
+    "message": "pendrivePietro",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/5f839c842c76eb1bed152c4ddf84bd704288884d"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "arena/01a0e9a0-neo-order-project",
+    "sha": "ae5d56fd37fae16d9b4416d64afa0edef817f147",
+    "sha_short": "ae5d56f",
+    "author": "NeoOrder-AYJP",
+    "date": "2026-09-15T18:39:42Z",
+    "message": "Delete themes/abc directory",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/ae5d56fd37fae16d9b4416d64afa0edef817f147"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "arena/01a0e9a0-neo-order-project",
+    "sha": "0ea9aebd88318a793e9d7c163fb74756774bed83",
+    "sha_short": "0ea9aeb",
+    "author": "NeoOrder-AYJP",
+    "date": "2026-09-15T18:39:26Z",
+    "message": "Create a.md",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/0ea9aebd88318a793e9d7c163fb74756774bed83"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "arena/01a0e9a0-neo-order-project",
+    "sha": "c2125601e3b9bc178fa39f2958029835d55ec9d3",
+    "sha_short": "c212560",
+    "author": "NeoOrder-AYJP",
+    "date": "2026-09-15T18:08:07Z",
+    "message": "Delete themes/culinary_operations_system/aa",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/c2125601e3b9bc178fa39f2958029835d55ec9d3"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "arena/01a0e9a0-neo-order-project",
+    "sha": "a747ccc61d25198b3f9b1fcdec5713b473547520",
+    "sha_short": "a747ccc",
+    "author": "NeoOrder-AYJP",
+    "date": "2026-09-15T18:07:55Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/a747ccc61d25198b3f9b1fcdec5713b473547520"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "arena/01a0e9a0-neo-order-project",
+    "sha": "b56c943c68636caa6a12f55d17dd8bebd3318d83",
+    "sha_short": "b56c943",
+    "author": "NeoOrder-AYJP",
+    "date": "2026-09-15T18:07:40Z",
+    "message": "Create aa",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/b56c943c68636caa6a12f55d17dd8bebd3318d83"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "arena/01a0e9a0-neo-order-project",
+    "sha": "6ae8fc136e59c15a968db8335cbb0d45bce4e5c3",
+    "sha_short": "6ae8fc1",
+    "author": "NeoOrder-AYJP",
+    "date": "2026-09-15T18:07:11Z",
+    "message": "Delete themes/rea_do_cliente_mesa_05/aa",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/6ae8fc136e59c15a968db8335cbb0d45bce4e5c3"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "arena/01a0e9a0-neo-order-project",
+    "sha": "3762e0cf6fdecda07fdf0b66708b278aa653e6c7",
+    "sha_short": "3762e0c",
+    "author": "NeoOrder-AYJP",
+    "date": "2026-09-15T18:06:17Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/3762e0cf6fdecda07fdf0b66708b278aa653e6c7"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "main",
+    "sha": "8415d5727747a437f333bb14137179a005d0aee8",
+    "sha_short": "8415d57",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:29:24Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0e9a0-neo-order-project",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/8415d5727747a437f333bb14137179a005d0aee8"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "main",
+    "sha": "bb460e6c67ed640ad48b6faba1e0a4ef642006ee",
+    "sha_short": "bb460e6",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T20:24:29Z",
+    "message": "Eitcha! Renomeia o sistema pra Neokirk e salpica resenha, 67, la ele, bora bill e tche tcheee no código inteiro",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/bb460e6c67ed640ad48b6faba1e0a4ef642006ee"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "main",
+    "sha": "9cb8bfbd9b752ec28275cc60bcfaa28c27ee44ce",
+    "sha_short": "9cb8bfb",
+    "author": "NeoOrder-AYJP",
+    "date": "2026-09-28T16:16:43Z",
+    "message": "Merge pull request #6 from cavaleiro-olimpioo/NeoOrderPietro",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/9cb8bfbd9b752ec28275cc60bcfaa28c27ee44ce"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "main",
+    "sha": "5f839c842c76eb1bed152c4ddf84bd704288884d",
+    "sha_short": "5f839c8",
+    "author": "Guilherme Olimpio",
+    "date": "2026-09-28T16:07:41Z",
+    "message": "pendrivePietro",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/5f839c842c76eb1bed152c4ddf84bd704288884d"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "main",
+    "sha": "ae5d56fd37fae16d9b4416d64afa0edef817f147",
+    "sha_short": "ae5d56f",
+    "author": "NeoOrder-AYJP",
+    "date": "2026-09-15T18:39:42Z",
+    "message": "Delete themes/abc directory",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/ae5d56fd37fae16d9b4416d64afa0edef817f147"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "main",
+    "sha": "0ea9aebd88318a793e9d7c163fb74756774bed83",
+    "sha_short": "0ea9aeb",
+    "author": "NeoOrder-AYJP",
+    "date": "2026-09-15T18:39:26Z",
+    "message": "Create a.md",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/0ea9aebd88318a793e9d7c163fb74756774bed83"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "main",
+    "sha": "c2125601e3b9bc178fa39f2958029835d55ec9d3",
+    "sha_short": "c212560",
+    "author": "NeoOrder-AYJP",
+    "date": "2026-09-15T18:08:07Z",
+    "message": "Delete themes/culinary_operations_system/aa",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/c2125601e3b9bc178fa39f2958029835d55ec9d3"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "main",
+    "sha": "a747ccc61d25198b3f9b1fcdec5713b473547520",
+    "sha_short": "a747ccc",
+    "author": "NeoOrder-AYJP",
+    "date": "2026-09-15T18:07:55Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/a747ccc61d25198b3f9b1fcdec5713b473547520"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "main",
+    "sha": "b56c943c68636caa6a12f55d17dd8bebd3318d83",
+    "sha_short": "b56c943",
+    "author": "NeoOrder-AYJP",
+    "date": "2026-09-15T18:07:40Z",
+    "message": "Create aa",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/b56c943c68636caa6a12f55d17dd8bebd3318d83"
+  },
+  {
+    "repo": "Neo-Order-project",
+    "branch": "main",
+    "sha": "6ae8fc136e59c15a968db8335cbb0d45bce4e5c3",
+    "sha_short": "6ae8fc1",
+    "author": "NeoOrder-AYJP",
+    "date": "2026-09-15T18:07:11Z",
+    "message": "Delete themes/rea_do_cliente_mesa_05/aa",
+    "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/6ae8fc136e59c15a968db8335cbb0d45bce4e5c3"
   },
   {
     "repo": "noisy",
@@ -21068,6 +20658,276 @@
     "date": "2020-02-26T05:52:50Z",
     "message": "better language",
     "url": "https://github.com/havaianasdestruido/scrobbleviz/commit/1fd5bf4c63f36c5fd81770c14ad3a2780bedbea2"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "arena/01a0e9c3-seohelper",
+    "sha": "0cf919c768ed72c83ad523229924c294187dac4d",
+    "sha_short": "0cf919c",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T20:48:51Z",
+    "message": "Refocus scan skill on plain-text chat results",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/0cf919c768ed72c83ad523229924c294187dac4d"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "arena/01a0e9c3-seohelper",
+    "sha": "9b15e3e576e0818b38fd6139ace6e2c64150a127",
+    "sha_short": "9b15e3e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:44:02Z",
+    "message": "Create config-and-infra.md",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/9b15e3e576e0818b38fd6139ace6e2c64150a127"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "arena/01a0e9c3-seohelper",
+    "sha": "e2ddea533481e714b011579f330e2b26ac0d995d",
+    "sha_short": "e2ddea5",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:43:47Z",
+    "message": "Create scoring-factors.md",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/e2ddea533481e714b011579f330e2b26ac0d995d"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "arena/01a0e9c3-seohelper",
+    "sha": "168b1db41113751749923790af04e1b83579ddde",
+    "sha_short": "168b1db",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:42:51Z",
+    "message": "Create pipeline-stages.md",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/168b1db41113751749923790af04e1b83579ddde"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "arena/01a0e9c3-seohelper",
+    "sha": "3b0bbb6e86e774b6de6a42027ec4d77597ace5f9",
+    "sha_short": "3b0bbb6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:42:38Z",
+    "message": "Create crawler.md",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/3b0bbb6e86e774b6de6a42027ec4d77597ace5f9"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "arena/01a0e9c3-seohelper",
+    "sha": "04f68c076a1f4b4ff0b3f0a1fc4953bc38d08102",
+    "sha_short": "04f68c0",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:42:16Z",
+    "message": "Update SKILL.md",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/04f68c076a1f4b4ff0b3f0a1fc4953bc38d08102"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "arena/01a0e9c3-seohelper",
+    "sha": "bbe2ae86a7d5e92e67eda96ed2d8c072d608cc49",
+    "sha_short": "bbe2ae8",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:41:39Z",
+    "message": "Create SKILL.md",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/bbe2ae86a7d5e92e67eda96ed2d8c072d608cc49"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "arena/01a0e9ce-seohelper",
+    "sha": "4671b6df392b050968e4f9c392f3e78b81539648",
+    "sha_short": "4671b6d",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T21:05:22Z",
+    "message": "Use the current action majors in CI",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/4671b6df392b050968e4f9c392f3e78b81539648"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "arena/01a0e9ce-seohelper",
+    "sha": "ce1f740d52f3b643d4a441b187060fa7a9cefa80",
+    "sha_short": "ce1f740",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T21:02:42Z",
+    "message": "Package the scan skill as an installable plugin",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/ce1f740d52f3b643d4a441b187060fa7a9cefa80"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "arena/01a0e9ce-seohelper",
+    "sha": "bcfa6300009376e3d568ca613f692da120ddb664",
+    "sha_short": "bcfa630",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:56:20Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0e9c3-seohelper",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/bcfa6300009376e3d568ca613f692da120ddb664"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "arena/01a0e9ce-seohelper",
+    "sha": "0cf919c768ed72c83ad523229924c294187dac4d",
+    "sha_short": "0cf919c",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T20:48:51Z",
+    "message": "Refocus scan skill on plain-text chat results",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/0cf919c768ed72c83ad523229924c294187dac4d"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "arena/01a0e9ce-seohelper",
+    "sha": "9b15e3e576e0818b38fd6139ace6e2c64150a127",
+    "sha_short": "9b15e3e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:44:02Z",
+    "message": "Create config-and-infra.md",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/9b15e3e576e0818b38fd6139ace6e2c64150a127"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "arena/01a0e9ce-seohelper",
+    "sha": "e2ddea533481e714b011579f330e2b26ac0d995d",
+    "sha_short": "e2ddea5",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:43:47Z",
+    "message": "Create scoring-factors.md",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/e2ddea533481e714b011579f330e2b26ac0d995d"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "arena/01a0e9ce-seohelper",
+    "sha": "168b1db41113751749923790af04e1b83579ddde",
+    "sha_short": "168b1db",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:42:51Z",
+    "message": "Create pipeline-stages.md",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/168b1db41113751749923790af04e1b83579ddde"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "arena/01a0e9ce-seohelper",
+    "sha": "3b0bbb6e86e774b6de6a42027ec4d77597ace5f9",
+    "sha_short": "3b0bbb6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:42:38Z",
+    "message": "Create crawler.md",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/3b0bbb6e86e774b6de6a42027ec4d77597ace5f9"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "arena/01a0e9ce-seohelper",
+    "sha": "04f68c076a1f4b4ff0b3f0a1fc4953bc38d08102",
+    "sha_short": "04f68c0",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:42:16Z",
+    "message": "Update SKILL.md",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/04f68c076a1f4b4ff0b3f0a1fc4953bc38d08102"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "arena/01a0e9ce-seohelper",
+    "sha": "bbe2ae86a7d5e92e67eda96ed2d8c072d608cc49",
+    "sha_short": "bbe2ae8",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:41:39Z",
+    "message": "Create SKILL.md",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/bbe2ae86a7d5e92e67eda96ed2d8c072d608cc49"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "main",
+    "sha": "d4107b214186c42e4dd55b2aea515183e3ad50e3",
+    "sha_short": "d4107b2",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T21:12:17Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/01a0e9ce-seohelper",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/d4107b214186c42e4dd55b2aea515183e3ad50e3"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "main",
+    "sha": "4671b6df392b050968e4f9c392f3e78b81539648",
+    "sha_short": "4671b6d",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T21:05:22Z",
+    "message": "Use the current action majors in CI",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/4671b6df392b050968e4f9c392f3e78b81539648"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "main",
+    "sha": "ce1f740d52f3b643d4a441b187060fa7a9cefa80",
+    "sha_short": "ce1f740",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T21:02:42Z",
+    "message": "Package the scan skill as an installable plugin",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/ce1f740d52f3b643d4a441b187060fa7a9cefa80"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "main",
+    "sha": "bcfa6300009376e3d568ca613f692da120ddb664",
+    "sha_short": "bcfa630",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:56:20Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0e9c3-seohelper",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/bcfa6300009376e3d568ca613f692da120ddb664"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "main",
+    "sha": "0cf919c768ed72c83ad523229924c294187dac4d",
+    "sha_short": "0cf919c",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T20:48:51Z",
+    "message": "Refocus scan skill on plain-text chat results",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/0cf919c768ed72c83ad523229924c294187dac4d"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "main",
+    "sha": "9b15e3e576e0818b38fd6139ace6e2c64150a127",
+    "sha_short": "9b15e3e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:44:02Z",
+    "message": "Create config-and-infra.md",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/9b15e3e576e0818b38fd6139ace6e2c64150a127"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "main",
+    "sha": "e2ddea533481e714b011579f330e2b26ac0d995d",
+    "sha_short": "e2ddea5",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:43:47Z",
+    "message": "Create scoring-factors.md",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/e2ddea533481e714b011579f330e2b26ac0d995d"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "main",
+    "sha": "168b1db41113751749923790af04e1b83579ddde",
+    "sha_short": "168b1db",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:42:51Z",
+    "message": "Create pipeline-stages.md",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/168b1db41113751749923790af04e1b83579ddde"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "main",
+    "sha": "3b0bbb6e86e774b6de6a42027ec4d77597ace5f9",
+    "sha_short": "3b0bbb6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:42:38Z",
+    "message": "Create crawler.md",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/3b0bbb6e86e774b6de6a42027ec4d77597ace5f9"
+  },
+  {
+    "repo": "seohelper",
+    "branch": "main",
+    "sha": "04f68c076a1f4b4ff0b3f0a1fc4953bc38d08102",
+    "sha_short": "04f68c0",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-28T20:42:16Z",
+    "message": "Update SKILL.md",
+    "url": "https://github.com/havaianasdestruido/seohelper/commit/04f68c076a1f4b4ff0b3f0a1fc4953bc38d08102"
   },
   {
     "repo": "Servidor-Perfeito",

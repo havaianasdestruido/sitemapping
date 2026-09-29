@@ -4,8 +4,8 @@
 
 > fka. PatoFlamejantetv/UltimateQuack
 
-**Generated:** 2026-09-28 18:57:08 UTC
-**Public Repositories:** 78
+**Generated:** 2026-09-29 00:03:30 UTC
+**Public Repositories:** 80
 
 ---
 
@@ -908,9 +908,10 @@
   > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-28
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `b148e3d`
+      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `1cafda7`
         - 📋 [All Commits](https://github.com/havaianasdestruido/sitemapping/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/sitemapping/commits/main)
+          - [`1cafda7`](https://github.com/havaianasdestruido/sitemapping/commit/1cafda728e4c10d10556283d3878e091f8421420) **📊 \[2026-09-28 19:04:43 UTC\]** — _GitHub Action Bot_ (2026-09-28)
           - [`b148e3d`](https://github.com/havaianasdestruido/sitemapping/commit/b148e3dc14c26c724320306ef442854f5806542b) **📊 \[2026-09-28 10:23:32 UTC\]** — _GitHub Action Bot_ (2026-09-28)
           - [`29923c3`](https://github.com/havaianasdestruido/sitemapping/commit/29923c344685eb2d61146b7feed8db215dd8ee14) **📊 \[2026-09-28 02:39:07 UTC\]** — _GitHub Action Bot_ (2026-09-28)
           - [`65e5416`](https://github.com/havaianasdestruido/sitemapping/commit/65e5416144a4a97ce3703053cb6114d8a010c997) **📊 \[2026-09-27 22:46:52 UTC\]** — _GitHub Action Bot_ (2026-09-27)
@@ -920,8 +921,8 @@
           - [`644506f`](https://github.com/havaianasdestruido/sitemapping/commit/644506f518735e6e45a081648bdf1078f7cba406) **📊 \[2026-09-26 22:20:35 UTC\]** — _GitHub Action Bot_ (2026-09-26)
           - [`bec9c37`](https://github.com/havaianasdestruido/sitemapping/commit/bec9c378a9c1fb1527d8b2280acf0eda212d0d44) **📊 \[2026-09-26 18:54:27 UTC\]** — _GitHub Action Bot_ (2026-09-26)
           - [`5e7903a`](https://github.com/havaianasdestruido/sitemapping/commit/5e7903a8934889cb6bc3648ff69543e7afc119f6) **📊 \[2026-09-26 15:28:31 UTC\]** — _GitHub Action Bot_ (2026-09-26)
-          - [`14ad3be`](https://github.com/havaianasdestruido/sitemapping/commit/14ad3be6829e88a905936721268dc729ec922d9e) **📊 \[2026-09-26 09:01:21 UTC\]** — _GitHub Action Bot_ (2026-09-26)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=8113d8276f6f47b1930675e94df54e8a1d9be39b+34)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=64412d1f798c4c039d5d32f94c9cc007d320084f+34)
+          - [`8113d82`](https://github.com/havaianasdestruido/sitemapping/commit/8113d8276f6f47b1930675e94df54e8a1d9be39b) **Set imgbot schedule to weekly** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-21)
           - [`01fed62`](https://github.com/havaianasdestruido/sitemapping/commit/01fed62471bfa6aafca67bb77381f9ff2455e15e) **📊 \[2026-09-21 00:41:43 UTC\]** — _GitHub Action Bot_ (2026-09-21)
           - [`7a2bb03`](https://github.com/havaianasdestruido/sitemapping/commit/7a2bb03300ce1cf52c3b40bae66716bbea6de0d5) **Add .imgbotconfig for aggressive image compression** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-21)
           - [`812929d`](https://github.com/havaianasdestruido/sitemapping/commit/812929d457b9540199fdf30f4f0a5244922ec40f) **📊 \[2026-09-20 22:06:43 UTC\]** — _GitHub Action Bot_ (2026-09-20)
@@ -931,8 +932,8 @@
           - [`3823397`](https://github.com/havaianasdestruido/sitemapping/commit/38233970f2489a0afe61f88628f3ec88b4159e97) **📊 \[2026-09-20 18:25:43 UTC\]** — _GitHub Action Bot_ (2026-09-20)
           - [`262d303`](https://github.com/havaianasdestruido/sitemapping/commit/262d303edc47d3d607520791398cbe9712394ff8) **📊 \[2026-09-20 15:20:12 UTC\]** — _GitHub Action Bot_ (2026-09-20)
           - [`82796a8`](https://github.com/havaianasdestruido/sitemapping/commit/82796a8c59836726df17349c43dc0bbd49a6e2cc) **Update repo-analyzer.yml** — _Pato (new acc)_ (2026-09-20)
-          - [`7966b0d`](https://github.com/havaianasdestruido/sitemapping/commit/7966b0d8d2ba6efa4d1af469a18a9a6ba8817f2c) **Change cron schedule to run every 4 hours** — _Pato (new acc)_ (2026-09-20)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=a042f201a2496fb53c9e2cf09809f837cb81b29a+34)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=5b9d33e8dab6999935cda632f67c1caf515d9458+34)
+          - [`a042f20`](https://github.com/havaianasdestruido/sitemapping/commit/a042f201a2496fb53c9e2cf09809f837cb81b29a) **Create README.md** — _Pato (new acc)_ (2026-09-13)
           - [`7490501`](https://github.com/havaianasdestruido/sitemapping/commit/74905013cec52ff6f220f129c172f9d7a5a0b006) **📊 Update repository report \[2026-09-13 17:31:21 UTC\]** — _GitHub Action Bot_ (2026-09-13)
           - [`b113a1a`](https://github.com/havaianasdestruido/sitemapping/commit/b113a1a7238707136a74b436700b150607d5a51c) **Create repo-analyzer.yml** — _Pato (new acc)_ (2026-09-13)
           - [`a6ebe1d`](https://github.com/havaianasdestruido/sitemapping/commit/a6ebe1dd4f364ad874898f2a9a3628718a2b35f0) **Create generate_report.py** — _Pato (new acc)_ (2026-09-13)
@@ -953,7 +954,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@actions-user](https://github.com/actions-user) — 51 commit(s)
+      - [@actions-user](https://github.com/actions-user) — 52 commit(s)
       - [@havaianasdestruido](https://github.com/havaianasdestruido) — 22 commit(s)
 
     - ### 🏷️ Releases (2)
@@ -997,9 +998,10 @@
         - 📄 [Commits Page 3](https://github.com/havaianasdestruido/top100/commits/arena/01a0e7f2-top100/?after=6935cafd0583ab45571057fdfeb40999f73e88e3+34)
           - [`b380d9a`](https://github.com/havaianasdestruido/top100/commit/b380d9a5fc7d141fdbc6c963b875b53d99195d55) **Create run.yml** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`c189c2a`](https://github.com/havaianasdestruido/top100/commit/c189c2a73d0e2b4b620d11ff5639cba73f056ee4) **Create fetch_top_repos.py** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
-      - [`main`](https://github.com/havaianasdestruido/top100/tree/main) _(default)_ — HEAD: `c0912e9`
+      - [`main`](https://github.com/havaianasdestruido/top100/tree/main) _(default)_ — HEAD: `9969f2e`
         - 📋 [All Commits](https://github.com/havaianasdestruido/top100/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/top100/commits/main)
+          - [`9969f2e`](https://github.com/havaianasdestruido/top100/commit/9969f2ec229fef808d87d1e413cf90273e4f791a) **data: update top repos data (2026-09-28 20:55 UTC)** — _github-actions[bot]_ (2026-09-28)
           - [`c0912e9`](https://github.com/havaianasdestruido/top100/commit/c0912e9195ef3f1dcde41c58e91f550014b7f9e1) **data: update top repos data (2026-09-28 18:00 UTC)** — _github-actions[bot]_ (2026-09-28)
           - [`7621860`](https://github.com/havaianasdestruido/top100/commit/7621860dee31fb445b9a73b05797dea9ce9c5476) **Merge pull request #1 from havaianasdestruido/arena/01a0e7f2-top100** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
           - [`b258bcc`](https://github.com/havaianasdestruido/top100/commit/b258bcc566c3d3c11cf1cc1810342be4e1b21718) **data: update top repos data (2026-09-28)** — _github-actions[bot]_ (2026-09-28)
@@ -1009,8 +1011,8 @@
           - [`b6a20d9`](https://github.com/havaianasdestruido/top100/commit/b6a20d96e54e48f1b818450fe739699414d71970) **data: update top repos data (2026-09-28)** — _github-actions[bot]_ (2026-09-28)
           - [`2ce913f`](https://github.com/havaianasdestruido/top100/commit/2ce913f2e097ce2ac8374ff4ff8481a02bbecc32) **data: update top repos data (2026-09-27)** — _github-actions[bot]_ (2026-09-27)
           - [`cfca86e`](https://github.com/havaianasdestruido/top100/commit/cfca86e1be4b2c0590634a4e101afa77db4a4175) **data: update top repos data (2026-09-27)** — _github-actions[bot]_ (2026-09-27)
-          - [`3f60b27`](https://github.com/havaianasdestruido/top100/commit/3f60b27613749013bf809b0872e80b7a0927f60e) **data: update top repos data (2026-09-27)** — _github-actions[bot]_ (2026-09-27)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/top100/commits/main/?after=713b472869a9e13765b7806a3f4caff9cd270f28+34)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/top100/commits/main/?after=c478c55618a176dbd734850d7708860a7cc6f849+34)
+          - [`713b472`](https://github.com/havaianasdestruido/top100/commit/713b472869a9e13765b7806a3f4caff9cd270f28) **data: update top repos data (2026-09-23)** — _github-actions[bot]_ (2026-09-23)
           - [`fbe62e6`](https://github.com/havaianasdestruido/top100/commit/fbe62e6ed1eb5fecc4397c5402c5c26e6e635888) **data: update top repos data (2026-09-23)** — _github-actions[bot]_ (2026-09-23)
           - [`a00f897`](https://github.com/havaianasdestruido/top100/commit/a00f89773edcb92b1c5609042b68dc1e18fd48aa) **data: update top repos data (2026-09-22)** — _github-actions[bot]_ (2026-09-22)
           - [`8e23564`](https://github.com/havaianasdestruido/top100/commit/8e2356494b3ac900ddda11232eef7a60192a406a) **data: update top repos data (2026-09-22)** — _github-actions[bot]_ (2026-09-22)
@@ -1020,8 +1022,8 @@
           - [`5e7570a`](https://github.com/havaianasdestruido/top100/commit/5e7570af4cb9fbf7a0c76d1da9550f6823370888) **data: update top repos data (2026-09-22)** — _github-actions[bot]_ (2026-09-22)
           - [`a922812`](https://github.com/havaianasdestruido/top100/commit/a9228121eb110957474bf70ca9002aa5c7e49db7) **data: update top repos data (2026-09-21)** — _github-actions[bot]_ (2026-09-21)
           - [`b2f273b`](https://github.com/havaianasdestruido/top100/commit/b2f273be75fec726e72aa59fa1b5fb65c45ed4d8) **data: update top repos data (2026-09-21)** — _github-actions[bot]_ (2026-09-21)
-          - [`c7665d0`](https://github.com/havaianasdestruido/top100/commit/c7665d0011c1f43d921afb8af22aad1664c51ddd) **data: update top repos data (2026-09-21)** — _github-actions[bot]_ (2026-09-21)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/top100/commits/main/?after=561c435d2d0d47b21f215793638b764fe71d2ef7+34)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/top100/commits/main/?after=4d0cd0e2cdca56c52d96dcf20081954cf4700a8a+34)
+          - [`561c435`](https://github.com/havaianasdestruido/top100/commit/561c435d2d0d47b21f215793638b764fe71d2ef7) **Update README.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`0207851`](https://github.com/havaianasdestruido/top100/commit/0207851c9a298ca56a09326f975248ed5d0f867a) **Create README.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`84283a8`](https://github.com/havaianasdestruido/top100/commit/84283a8fd730a005d486bd2ea20ee6980b965ed7) **Rename fetch_top_repos.py to fetch_top_repos.py** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`6935caf`](https://github.com/havaianasdestruido/top100/commit/6935cafd0583ab45571057fdfeb40999f73e88e3) **Update run.yml** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
@@ -1048,13 +1050,13 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@github-actions[bot]](https://github.com/apps/github-actions) — 55 commit(s)
+      - [@github-actions[bot]](https://github.com/apps/github-actions) — 56 commit(s)
       - [@havaianasdestruido](https://github.com/havaianasdestruido) — 20 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `HTML` — 93.9% (1,862,211 bytes)
+      - `HTML` — 93.9% (1,862,213 bytes)
       - `Python` — 5.8% (115,745 bytes)
       - `CSS` — 0.2% (4,402 bytes)
 
@@ -1101,6 +1103,52 @@
 
 ---
 
+- ## [aisearchhelpers](https://github.com/havaianasdestruido/aisearchhelpers) `🍴 Fork`
+  > Free AI search visibility scanner + lead funnel — asks AI assistants your custom
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-09-28 | 🔄 Updated: 2026-09-28
+
+  - 🔗 Forked from: [kjagsadvisors/aisearchhelpers](https://github.com/kjagsadvisors/aisearchhelpers)
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/aisearchhelpers/tree/main) _(default)_ — HEAD: `1e49b3a`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/aisearchhelpers/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/aisearchhelpers/commits/main)
+          - [`1e49b3a`](https://github.com/havaianasdestruido/aisearchhelpers/commit/1e49b3ae81f865c59c44511af4091c674a1134c8) **Auto-subscribe scan leads to the operator's beehiiv newsletter** — _Keeran Jagadesan_ (2026-09-27)
+          - [`f5109a7`](https://github.com/havaianasdestruido/aisearchhelpers/commit/f5109a73b85a118bdaa510f796fe981620adce4e) **Follow-up: one nudge per email ever, truncate quoted fix, unsubscribe li** — _Keeran Jagadesan_ (2026-09-11)
+          - [`050ef46`](https://github.com/havaianasdestruido/aisearchhelpers/commit/050ef46413ea18439802bbc90aceb7ad1f319b76) **Vercel Web Analytics on every page; Resend open/click tracking enabled o** — _Keeran Jagadesan_ (2026-09-09)
+          - [`35125b5`](https://github.com/havaianasdestruido/aisearchhelpers/commit/35125b5c2d84176dfa25d86f92ac7e52adf93b5d) **Sticky bar: safe-area padding, tighter label, footer clearance** — _Keeran Jagadesan_ (2026-09-09)
+          - [`1d999fc`](https://github.com/havaianasdestruido/aisearchhelpers/commit/1d999fcdeb11ea65abce593b9d55f93c7e232bf4) **Survive bot-blocking sites: browser-UA fallback, web-search profiling wh** — _Keeran Jagadesan_ (2026-09-09)
+          - [`316e822`](https://github.com/havaianasdestruido/aisearchhelpers/commit/316e82263bdc1ab55841eec6b2f0db4962fb1d33) **Conversion stack on the report page** — _Keeran Jagadesan_ (2026-09-09)
+          - [`a0d9017`](https://github.com/havaianasdestruido/aisearchhelpers/commit/a0d9017e11a288e458267aecb74af9aaf76f4379) **Mobile fixes: no iOS input zoom, dark page ground (kills white side bar)** — _Keeran Jagadesan_ (2026-09-09)
+          - [`1df5545`](https://github.com/havaianasdestruido/aisearchhelpers/commit/1df5545253bc659b83a32ea3d17074b2dc7262b5) **Geo-tiered lite scans for cost control** — _Keeran Jagadesan_ (2026-09-09)
+          - [`c7bd52e`](https://github.com/havaianasdestruido/aisearchhelpers/commit/c7bd52e47e6d1acdc2d2913ef3379e88aee3cde9) **Auto-sync every lead into the kjags CRM; visible GitHub link in landing ** — _Keeran Jagadesan_ (2026-09-09)
+          - [`dcb0065`](https://github.com/havaianasdestruido/aisearchhelpers/commit/dcb0065ddc0915f7707435bb6f6299557ac00f23) **Notify on cached-report leads too** — _Keeran Jagadesan_ (2026-09-09)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@kjagsadvisors](https://github.com/kjagsadvisors) — 27 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `TypeScript` — 99.0% (150,428 bytes)
+      - `CSS` — 0.9% (1,397 bytes)
+      - `JavaScript` — 0.1% (94 bytes)
+
+---
+
 - ## [apkdecomp-skill](https://github.com/havaianasdestruido/apkdecomp-skill)
   > No description
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-09-20 | 🔄 Updated: 2026-09-21
@@ -1133,138 +1181,6 @@
 
     - ### 🏷️ Releases (0)
 
-
----
-
-- ## [art_radar](https://github.com/havaianasdestruido/art_radar)
-  > No description
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 TypeScript | 📅 Created: 2026-09-24 | 🔄 Updated: 2026-09-28
-
-    - ### 🌿 Branches (2)
-      - [`arena/01a0d34e-art-radar`](https://github.com/havaianasdestruido/art_radar/tree/arena/01a0d34e-art-radar) — HEAD: `0214345`
-        - 📋 [All Commits](https://github.com/havaianasdestruido/art_radar/commits/arena/01a0d34e-art-radar)
-        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/art_radar/commits/arena/01a0d34e-art-radar)
-          - [`0214345`](https://github.com/havaianasdestruido/art_radar/commit/0214345b46c0a282083f5fdf571dbedbef86126d) **Format with the lockfile-pinned prettier 3.8.1** — _havaianasdestruido_ (2026-09-24)
-          - [`56e35f4`](https://github.com/havaianasdestruido/art_radar/commit/56e35f40c0385e5afb0522cdc1676fcd78dd7272) **Rewrite the radar for creative coding & generative art (en/pt/zh)** — _havaianasdestruido_ (2026-09-24)
-          - [`45fc370`](https://github.com/havaianasdestruido/art_radar/commit/45fc37051e1312dba2b49ae061fc755d231019a0) **chore: update manifest.json** — _github-actions[bot]_ (2026-09-23)
-          - [`40f8dc8`](https://github.com/havaianasdestruido/art_radar/commit/40f8dc81d1afee70d60b04c5dd937593cf7a1639) **digest: 2026-09-23 daily digest** — _github-actions[bot]_ (2026-09-23)
-          - [`8dd4c3b`](https://github.com/havaianasdestruido/art_radar/commit/8dd4c3b671e299035c58f12a95bff2b37508582d) **chore: update manifest.json** — _github-actions[bot]_ (2026-09-22)
-          - [`908f9d9`](https://github.com/havaianasdestruido/art_radar/commit/908f9d951bca2172a6637d9d7822137cbf3958c0) **digest: 2026-09-22 daily digest** — _github-actions[bot]_ (2026-09-22)
-          - [`00baabf`](https://github.com/havaianasdestruido/art_radar/commit/00baabff674021aeeb286050e9843a0ff21bb4dd) **chore: update manifest.json** — _github-actions[bot]_ (2026-09-21)
-          - [`43e70ff`](https://github.com/havaianasdestruido/art_radar/commit/43e70ff34e68e33234d85025815a839620e9cc27) **digest: 2026-09-21 daily digest** — _github-actions[bot]_ (2026-09-21)
-          - [`fceb713`](https://github.com/havaianasdestruido/art_radar/commit/fceb7137b600ba3f89fa9a8319d756192038fd9b) **chore: update manifest.json** — _github-actions[bot]_ (2026-09-20)
-          - [`4e2289e`](https://github.com/havaianasdestruido/art_radar/commit/4e2289e242dbd1fb6abd212725ac5dbc1feb8aac) **digest: 2026-09-20 daily digest** — _github-actions[bot]_ (2026-09-20)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/art_radar/commits/arena/01a0d34e-art-radar/?after=fbf6300cfa4f2c2e03d2feabf45c43b6bd50f6ac+34)
-          - [`685491e`](https://github.com/havaianasdestruido/art_radar/commit/685491e5f9feab938914e6597a5cc4f702daff7c) **digest: 2026-08-17 daily digest** — _github-actions[bot]_ (2026-08-17)
-          - [`1374cbe`](https://github.com/havaianasdestruido/art_radar/commit/1374cbee05e642d94247096473077111f127be53) **chore: update manifest.json** — _github-actions[bot]_ (2026-08-16)
-          - [`9c67e3a`](https://github.com/havaianasdestruido/art_radar/commit/9c67e3ab81791850763aa1aee2070eb28c80941a) **digest: 2026-08-16 daily digest** — _github-actions[bot]_ (2026-08-16)
-          - [`6dfc476`](https://github.com/havaianasdestruido/art_radar/commit/6dfc47622dd797e6da640434880e1e96795fe843) **chore: update manifest.json** — _github-actions[bot]_ (2026-08-15)
-          - [`99f70b4`](https://github.com/havaianasdestruido/art_radar/commit/99f70b43961c92d8fd298d16b06a84cc50a556a8) **digest: 2026-08-15 daily digest** — _github-actions[bot]_ (2026-08-15)
-          - [`fc18474`](https://github.com/havaianasdestruido/art_radar/commit/fc18474244ac66b3778b213da1ed669d65ec5813) **chore: update manifest.json** — _github-actions[bot]_ (2026-08-14)
-          - [`592e7d4`](https://github.com/havaianasdestruido/art_radar/commit/592e7d4ee3f6d35ff583f2ffab888c9992a46610) **digest: 2026-08-14 daily digest** — _github-actions[bot]_ (2026-08-14)
-          - [`9f99650`](https://github.com/havaianasdestruido/art_radar/commit/9f99650f83831e352aec059de7c2a80c87c65fdf) **chore: update manifest.json** — _github-actions[bot]_ (2026-08-13)
-          - [`44291aa`](https://github.com/havaianasdestruido/art_radar/commit/44291aa2e193728ea73aea5eba52626637508a21) **digest: 2026-08-13 daily digest** — _github-actions[bot]_ (2026-08-13)
-          - [`540fff8`](https://github.com/havaianasdestruido/art_radar/commit/540fff8ff8d6df30350861481051cb6859029dd1) **chore: update manifest.json** — _github-actions[bot]_ (2026-08-12)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/art_radar/commits/arena/01a0d34e-art-radar/?after=90a411d9bd704a222a1df1bd21da42326acb8c5a+34)
-          - [`0cf6775`](https://github.com/havaianasdestruido/art_radar/commit/0cf6775769972227c73e8836c176ed61cd000fbf) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-29)
-          - [`a4eb18e`](https://github.com/havaianasdestruido/art_radar/commit/a4eb18e133e35617144d4ac020b0382b704f8432) **digest: 2026-07-29 daily digest** — _github-actions[bot]_ (2026-07-29)
-          - [`51c6bf6`](https://github.com/havaianasdestruido/art_radar/commit/51c6bf66cdbe9c1b123f3e207b7a01d9c6e50e38) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-28)
-          - [`cb99be8`](https://github.com/havaianasdestruido/art_radar/commit/cb99be8e01a07193b8278a4f71a947b59196bfef) **digest: 2026-07-28 daily digest** — _github-actions[bot]_ (2026-07-28)
-          - [`75acd78`](https://github.com/havaianasdestruido/art_radar/commit/75acd78ecf8d387d7ee70e005721f57bbc4b5e7d) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-27)
-          - [`2de2a8c`](https://github.com/havaianasdestruido/art_radar/commit/2de2a8ca90ae1e7a29ec5c012912f136ce9a2f7b) **digest: 2026-07-27 daily digest** — _github-actions[bot]_ (2026-07-27)
-          - [`e969e66`](https://github.com/havaianasdestruido/art_radar/commit/e969e66ca7ff838cb29c60f552e26d9d5b1f6994) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-26)
-          - [`937e2f9`](https://github.com/havaianasdestruido/art_radar/commit/937e2f9d7e0a87db18a0ca1c3b0d7680ac2d5492) **digest: 2026-07-26 daily digest** — _github-actions[bot]_ (2026-07-26)
-          - [`d580746`](https://github.com/havaianasdestruido/art_radar/commit/d5807461cff6a96813cec827c7f864b62096860c) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-25)
-          - [`81c2ddb`](https://github.com/havaianasdestruido/art_radar/commit/81c2ddb6461e0690e6534bcf218620b8a5004ab2) **digest: 2026-07-25 daily digest** — _github-actions[bot]_ (2026-07-25)
-        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/art_radar/commits/arena/01a0d34e-art-radar/?after=6015a0642f2ca030a52434c0113738b5b3e8e048+34)
-          - [`8823575`](https://github.com/havaianasdestruido/art_radar/commit/8823575ec37d67536b0d86360c4a37391ee98b18) **digest: 2026-07-13 daily digest** — _github-actions[bot]_ (2026-07-13)
-          - [`43c91e1`](https://github.com/havaianasdestruido/art_radar/commit/43c91e11bbe7de83ee5a9bc12de6b037ee7511c8) **Merge pull request #204 from litang9/fix/openclaw-maxtokens** — _litang9_ (2026-07-13)
-          - [`0552e9e`](https://github.com/havaianasdestruido/art_radar/commit/0552e9e5858b4a995176be7fb052bd5dfd8ef9c8) **fix: raise OpenClaw report maxTokens to 8192 to prevent truncation** — _litang9_ (2026-07-13)
-          - [`8f777bc`](https://github.com/havaianasdestruido/art_radar/commit/8f777bc90d87306dcd7d53f79a39b99933c8dc1f) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-13)
-          - [`71eb8e0`](https://github.com/havaianasdestruido/art_radar/commit/71eb8e085c69219f8c7332f3b11958bc78ec5f8b) **digest: 2026-07-13 daily digest** — _github-actions[bot]_ (2026-07-13)
-          - [`94a2177`](https://github.com/havaianasdestruido/art_radar/commit/94a21778b36e7a516a83bb50df8fa6a2fa80cfd4) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-12)
-          - [`d3311c2`](https://github.com/havaianasdestruido/art_radar/commit/d3311c27bb95bdf974cc408ce49b5342fde7863f) **digest: 2026-07-12 daily digest** — _github-actions[bot]_ (2026-07-12)
-          - [`14bc15b`](https://github.com/havaianasdestruido/art_radar/commit/14bc15ba3ff3f4ed97e3a6ad66db30d1faaf6d80) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-11)
-          - [`1742810`](https://github.com/havaianasdestruido/art_radar/commit/17428101714470e6b8c4ea2e53eecc0fd567126c) **digest: 2026-07-11 daily digest** — _github-actions[bot]_ (2026-07-11)
-          - [`a14d853`](https://github.com/havaianasdestruido/art_radar/commit/a14d85330e57452bba3f8b4f1af99bd2fe107456) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-10)
-      - [`main`](https://github.com/havaianasdestruido/art_radar/tree/main) _(default)_ — HEAD: `6c4e365`
-        - 📋 [All Commits](https://github.com/havaianasdestruido/art_radar/commits/main)
-        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/art_radar/commits/main)
-          - [`6c4e365`](https://github.com/havaianasdestruido/art_radar/commit/6c4e365a33c96e983bd3a01f09c6e84292b3652a) **chore: update manifest.json** — _github-actions[bot]_ (2026-09-28)
-          - [`a50bfe3`](https://github.com/havaianasdestruido/art_radar/commit/a50bfe3d11c6a0ae6af25a1223fc71be73b01d36) **Merge pull request #1 from havaianasdestruido/arena/01a0d34e-art-radar** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-24)
-          - [`0214345`](https://github.com/havaianasdestruido/art_radar/commit/0214345b46c0a282083f5fdf571dbedbef86126d) **Format with the lockfile-pinned prettier 3.8.1** — _havaianasdestruido_ (2026-09-24)
-          - [`56e35f4`](https://github.com/havaianasdestruido/art_radar/commit/56e35f40c0385e5afb0522cdc1676fcd78dd7272) **Rewrite the radar for creative coding & generative art (en/pt/zh)** — _havaianasdestruido_ (2026-09-24)
-          - [`45fc370`](https://github.com/havaianasdestruido/art_radar/commit/45fc37051e1312dba2b49ae061fc755d231019a0) **chore: update manifest.json** — _github-actions[bot]_ (2026-09-23)
-          - [`40f8dc8`](https://github.com/havaianasdestruido/art_radar/commit/40f8dc81d1afee70d60b04c5dd937593cf7a1639) **digest: 2026-09-23 daily digest** — _github-actions[bot]_ (2026-09-23)
-          - [`8dd4c3b`](https://github.com/havaianasdestruido/art_radar/commit/8dd4c3b671e299035c58f12a95bff2b37508582d) **chore: update manifest.json** — _github-actions[bot]_ (2026-09-22)
-          - [`908f9d9`](https://github.com/havaianasdestruido/art_radar/commit/908f9d951bca2172a6637d9d7822137cbf3958c0) **digest: 2026-09-22 daily digest** — _github-actions[bot]_ (2026-09-22)
-          - [`00baabf`](https://github.com/havaianasdestruido/art_radar/commit/00baabff674021aeeb286050e9843a0ff21bb4dd) **chore: update manifest.json** — _github-actions[bot]_ (2026-09-21)
-          - [`43e70ff`](https://github.com/havaianasdestruido/art_radar/commit/43e70ff34e68e33234d85025815a839620e9cc27) **digest: 2026-09-21 daily digest** — _github-actions[bot]_ (2026-09-21)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/art_radar/commits/main/?after=c49c99a2a4f981835f82ffef85b9866c10571470+34)
-          - [`e276d9c`](https://github.com/havaianasdestruido/art_radar/commit/e276d9c7c92eb61fc2aca79f0fbb10219f3cbe38) **digest: 2026-08-18 daily digest** — _github-actions[bot]_ (2026-08-18)
-          - [`fbf6300`](https://github.com/havaianasdestruido/art_radar/commit/fbf6300cfa4f2c2e03d2feabf45c43b6bd50f6ac) **chore: update manifest.json** — _github-actions[bot]_ (2026-08-17)
-          - [`685491e`](https://github.com/havaianasdestruido/art_radar/commit/685491e5f9feab938914e6597a5cc4f702daff7c) **digest: 2026-08-17 daily digest** — _github-actions[bot]_ (2026-08-17)
-          - [`1374cbe`](https://github.com/havaianasdestruido/art_radar/commit/1374cbee05e642d94247096473077111f127be53) **chore: update manifest.json** — _github-actions[bot]_ (2026-08-16)
-          - [`9c67e3a`](https://github.com/havaianasdestruido/art_radar/commit/9c67e3ab81791850763aa1aee2070eb28c80941a) **digest: 2026-08-16 daily digest** — _github-actions[bot]_ (2026-08-16)
-          - [`6dfc476`](https://github.com/havaianasdestruido/art_radar/commit/6dfc47622dd797e6da640434880e1e96795fe843) **chore: update manifest.json** — _github-actions[bot]_ (2026-08-15)
-          - [`99f70b4`](https://github.com/havaianasdestruido/art_radar/commit/99f70b43961c92d8fd298d16b06a84cc50a556a8) **digest: 2026-08-15 daily digest** — _github-actions[bot]_ (2026-08-15)
-          - [`fc18474`](https://github.com/havaianasdestruido/art_radar/commit/fc18474244ac66b3778b213da1ed669d65ec5813) **chore: update manifest.json** — _github-actions[bot]_ (2026-08-14)
-          - [`592e7d4`](https://github.com/havaianasdestruido/art_radar/commit/592e7d4ee3f6d35ff583f2ffab888c9992a46610) **digest: 2026-08-14 daily digest** — _github-actions[bot]_ (2026-08-14)
-          - [`9f99650`](https://github.com/havaianasdestruido/art_radar/commit/9f99650f83831e352aec059de7c2a80c87c65fdf) **chore: update manifest.json** — _github-actions[bot]_ (2026-08-13)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/art_radar/commits/main/?after=386664e82f021f788fd5cc0c51dee1daff526551+34)
-          - [`5bad29e`](https://github.com/havaianasdestruido/art_radar/commit/5bad29ea477f5695e01282ce7d967f2ed751224f) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-30)
-          - [`90a411d`](https://github.com/havaianasdestruido/art_radar/commit/90a411d9bd704a222a1df1bd21da42326acb8c5a) **digest: 2026-07-30 daily digest** — _github-actions[bot]_ (2026-07-30)
-          - [`0cf6775`](https://github.com/havaianasdestruido/art_radar/commit/0cf6775769972227c73e8836c176ed61cd000fbf) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-29)
-          - [`a4eb18e`](https://github.com/havaianasdestruido/art_radar/commit/a4eb18e133e35617144d4ac020b0382b704f8432) **digest: 2026-07-29 daily digest** — _github-actions[bot]_ (2026-07-29)
-          - [`51c6bf6`](https://github.com/havaianasdestruido/art_radar/commit/51c6bf66cdbe9c1b123f3e207b7a01d9c6e50e38) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-28)
-          - [`cb99be8`](https://github.com/havaianasdestruido/art_radar/commit/cb99be8e01a07193b8278a4f71a947b59196bfef) **digest: 2026-07-28 daily digest** — _github-actions[bot]_ (2026-07-28)
-          - [`75acd78`](https://github.com/havaianasdestruido/art_radar/commit/75acd78ecf8d387d7ee70e005721f57bbc4b5e7d) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-27)
-          - [`2de2a8c`](https://github.com/havaianasdestruido/art_radar/commit/2de2a8ca90ae1e7a29ec5c012912f136ce9a2f7b) **digest: 2026-07-27 daily digest** — _github-actions[bot]_ (2026-07-27)
-          - [`e969e66`](https://github.com/havaianasdestruido/art_radar/commit/e969e66ca7ff838cb29c60f552e26d9d5b1f6994) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-26)
-          - [`937e2f9`](https://github.com/havaianasdestruido/art_radar/commit/937e2f9d7e0a87db18a0ca1c3b0d7680ac2d5492) **digest: 2026-07-26 daily digest** — _github-actions[bot]_ (2026-07-26)
-        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/art_radar/commits/main/?after=fbc83cb417ab3a5d5b694ea1e467c68aa35f5857+34)
-          - [`adf1ebe`](https://github.com/havaianasdestruido/art_radar/commit/adf1ebe64a5a0a6ef7443cddce51fd5a479f183a) **ci: schedule daily digest at 21:13 UTC (05:13 CST) to dodge z.ai daytime** — _litang9_ (2026-07-15)
-          - [`6015a06`](https://github.com/havaianasdestruido/art_radar/commit/6015a0642f2ca030a52434c0113738b5b3e8e048) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-13)
-          - [`8823575`](https://github.com/havaianasdestruido/art_radar/commit/8823575ec37d67536b0d86360c4a37391ee98b18) **digest: 2026-07-13 daily digest** — _github-actions[bot]_ (2026-07-13)
-          - [`43c91e1`](https://github.com/havaianasdestruido/art_radar/commit/43c91e11bbe7de83ee5a9bc12de6b037ee7511c8) **Merge pull request #204 from litang9/fix/openclaw-maxtokens** — _litang9_ (2026-07-13)
-          - [`0552e9e`](https://github.com/havaianasdestruido/art_radar/commit/0552e9e5858b4a995176be7fb052bd5dfd8ef9c8) **fix: raise OpenClaw report maxTokens to 8192 to prevent truncation** — _litang9_ (2026-07-13)
-          - [`8f777bc`](https://github.com/havaianasdestruido/art_radar/commit/8f777bc90d87306dcd7d53f79a39b99933c8dc1f) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-13)
-          - [`71eb8e0`](https://github.com/havaianasdestruido/art_radar/commit/71eb8e085c69219f8c7332f3b11958bc78ec5f8b) **digest: 2026-07-13 daily digest** — _github-actions[bot]_ (2026-07-13)
-          - [`94a2177`](https://github.com/havaianasdestruido/art_radar/commit/94a21778b36e7a516a83bb50df8fa6a2fa80cfd4) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-12)
-          - [`d3311c2`](https://github.com/havaianasdestruido/art_radar/commit/d3311c27bb95bdf974cc408ce49b5342fde7863f) **digest: 2026-07-12 daily digest** — _github-actions[bot]_ (2026-07-12)
-          - [`14bc15b`](https://github.com/havaianasdestruido/art_radar/commit/14bc15ba3ff3f4ed97e3a6ad66db30d1faaf6d80) **chore: update manifest.json** — _github-actions[bot]_ (2026-07-11)
-
-    - ### 🐛 Issues
-      - **Open Issues** (0)
-      - **Closed Issues** (0)
-
-    - ### 🔀 Pull Requests
-      - **Open PRs** (0)
-      - **Closed PRs** (1)
-        - ✅ Merged [#1 Rewrite the radar for creative coding & generative art (en/p](https://github.com/havaianasdestruido/art_radar/pull/1) — _arena-ai-coding-agent[bot]_ (2026-09-24) `arena/01a0d34e-art-radar` → `main`
-          - 📝 2 commit(s) in this PR
-            - [`56e35f4`](https://github.com/havaianasdestruido/art_radar/commit/56e35f40c0385e5afb0522cdc1676fcd78dd7272) Rewrite the radar for creative coding & generative art (en/p
-            - [`0214345`](https://github.com/havaianasdestruido/art_radar/commit/0214345b46c0a282083f5fdf571dbedbef86126d) Format with the lockfile-pinned prettier 3.8.1
-
-    - ### 🍴 Forks (0)
-
-    - ### ⭐ Stargazers (0)
-
-    - ### 👀 Watchers / Subscribers (0)
-
-    - ### 👥 Contributors (5)
-      - [@github-actions[bot]](https://github.com/apps/github-actions) — 389 commit(s)
-      - [@duanyytop](https://github.com/duanyytop) — 84 commit(s)
-      - [@litang9](https://github.com/litang9) — 11 commit(s)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 3 commit(s)
-      - [@taqtiqa-mark](https://github.com/taqtiqa-mark) — 1 commit(s)
-
-    - ### 🏷️ Releases (0)
-
-    - ### 💻 Languages
-      - `TypeScript` — 89.0% (223,521 bytes)
-      - `HTML` — 10.7% (26,809 bytes)
-      - `JavaScript` — 0.3% (835 bytes)
 
 ---
 
@@ -1787,7 +1703,7 @@
 
 - ## [dadosabertos](https://github.com/havaianasdestruido/dadosabertos)
   > No description
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 1 open issues | 💻 unknown | 📅 Created: 2026-09-28 | 🔄 Updated: 2026-09-28
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-28 | 🔄 Updated: 2026-09-28
 
     - ### 🌿 Branches (2)
       - [`arena/01a0e80c-dadosabertos`](https://github.com/havaianasdestruido/dadosabertos/tree/arena/01a0e80c-dadosabertos) — HEAD: `8635c04`
@@ -1800,9 +1716,16 @@
           - [`8ba0ce4`](https://github.com/havaianasdestruido/dadosabertos/commit/8ba0ce4fb5edc7f8e54f92135db90e9441e5d25d) **filters, stale-size handling, README and regenerated example outputs** — _havaianasdestruido_ (2026-09-28)
           - [`3656664`](https://github.com/havaianasdestruido/dadosabertos/commit/36566647e1b5ae5f2f61c4d71c0eca0560321a1e) **indexclone: mirror + de-duplicate six public document listings** — _havaianasdestruido_ (2026-09-28)
           - [`a13e30a`](https://github.com/havaianasdestruido/dadosabertos/commit/a13e30a25df85f893b8d38a00d60780463e30d27) **Initial commit** — _arena-ai-coding-agent[bot]_ (2026-09-28)
-      - [`main`](https://github.com/havaianasdestruido/dadosabertos/tree/main) _(default)_ — HEAD: `a13e30a`
+      - [`main`](https://github.com/havaianasdestruido/dadosabertos/tree/main) _(default)_ — HEAD: `78a56cf`
         - 📋 [All Commits](https://github.com/havaianasdestruido/dadosabertos/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/dadosabertos/commits/main)
+          - [`78a56cf`](https://github.com/havaianasdestruido/dadosabertos/commit/78a56cf2217e2c5a072ebaef7319ac63877491c2) **Merge pull request #1 from havaianasdestruido/arena/01a0e80c-dadosaberto** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`8635c04`](https://github.com/havaianasdestruido/dadosabertos/commit/8635c04cf229c6396879860c510f7696630cd261) **budget: charge streamed bytes beyond the amount actually reserved** — _havaianasdestruido_ (2026-09-28)
+          - [`c686cce`](https://github.com/havaianasdestruido/dadosabertos/commit/c686ccee266ca87958addf7d35d6c5cf16ac9f11) **review fixes: budget double-charge, index-page containment, config defau** — _havaianasdestruido_ (2026-09-28)
+          - [`00f816b`](https://github.com/havaianasdestruido/dadosabertos/commit/00f816b3788b57ac348a7759aae52ece7aaa919e) **README: keep the real run out of the committed example folder** — _havaianasdestruido_ (2026-09-28)
+          - [`1705d08`](https://github.com/havaianasdestruido/dadosabertos/commit/1705d08eb525f9ae723485c3f77bbe84a7f8eec2) **snapshots: add Macau March 2013 and the CVM DFP archive listings** — _havaianasdestruido_ (2026-09-28)
+          - [`8ba0ce4`](https://github.com/havaianasdestruido/dadosabertos/commit/8ba0ce4fb5edc7f8e54f92135db90e9441e5d25d) **filters, stale-size handling, README and regenerated example outputs** — _havaianasdestruido_ (2026-09-28)
+          - [`3656664`](https://github.com/havaianasdestruido/dadosabertos/commit/36566647e1b5ae5f2f61c4d71c0eca0560321a1e) **indexclone: mirror + de-duplicate six public document listings** — _havaianasdestruido_ (2026-09-28)
           - [`a13e30a`](https://github.com/havaianasdestruido/dadosabertos/commit/a13e30a25df85f893b8d38a00d60780463e30d27) **Initial commit** — _arena-ai-coding-agent[bot]_ (2026-09-28)
 
     - ### 🐛 Issues
@@ -1810,15 +1733,15 @@
       - **Closed Issues** (0)
 
     - ### 🔀 Pull Requests
-      - **Open PRs** (1)
-        - 🟢 Open [#1 indexclone: mirror + de-duplicate the six public document li](https://github.com/havaianasdestruido/dadosabertos/pull/1) — _arena-ai-coding-agent[bot]_ (2026-09-28) `arena/01a0e80c-dadosabertos` → `main`
+      - **Open PRs** (0)
+      - **Closed PRs** (1)
+        - ✅ Merged [#1 indexclone: mirror + de-duplicate the six public document li](https://github.com/havaianasdestruido/dadosabertos/pull/1) — _arena-ai-coding-agent[bot]_ (2026-09-28) `arena/01a0e80c-dadosabertos` → `main`
           - 📝 6 commit(s) in this PR
             - [`3656664`](https://github.com/havaianasdestruido/dadosabertos/commit/36566647e1b5ae5f2f61c4d71c0eca0560321a1e) indexclone: mirror + de-duplicate six public document listin
             - [`8ba0ce4`](https://github.com/havaianasdestruido/dadosabertos/commit/8ba0ce4fb5edc7f8e54f92135db90e9441e5d25d) filters, stale-size handling, README and regenerated example
             - [`1705d08`](https://github.com/havaianasdestruido/dadosabertos/commit/1705d08eb525f9ae723485c3f77bbe84a7f8eec2) snapshots: add Macau March 2013 and the CVM DFP archive list
             - [`00f816b`](https://github.com/havaianasdestruido/dadosabertos/commit/00f816b3788b57ac348a7759aae52ece7aaa919e) README: keep the real run out of the committed example folde
             - [`c686cce`](https://github.com/havaianasdestruido/dadosabertos/commit/c686ccee266ca87958addf7d35d6c5cf16ac9f11) review fixes: budget double-charge, index-page containment, 
-      - **Closed PRs** (0)
 
     - ### 🍴 Forks (0)
 
@@ -1826,11 +1749,15 @@
 
     - ### 👀 Watchers / Subscribers (0)
 
-    - ### 👥 Contributors (1)
+    - ### 👥 Contributors (2)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 7 commit(s)
       - [@arena-ai-coding-agent[bot]](https://github.com/apps/arena-ai-coding-agent) — 1 commit(s)
 
     - ### 🏷️ Releases (0)
 
+    - ### 💻 Languages
+      - `Python` — 73.8% (179,496 bytes)
+      - `HTML` — 26.2% (63,794 bytes)
 
 ---
 
@@ -3683,6 +3610,71 @@
 
 ---
 
+- ## [Neo-Order-project](https://github.com/havaianasdestruido/Neo-Order-project) `🍴 Fork`
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 HTML | 📅 Created: 2026-09-28 | 🔄 Updated: 2026-09-28
+
+  - 🔗 Forked from: [NeoOrder-AYJP/Neo-Order-project](https://github.com/NeoOrder-AYJP/Neo-Order-project)
+    - ### 🌿 Branches (2)
+      - [`arena/01a0e9a0-neo-order-project`](https://github.com/havaianasdestruido/Neo-Order-project/tree/arena/01a0e9a0-neo-order-project) — HEAD: `bb460e6`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/Neo-Order-project/commits/arena/01a0e9a0-neo-order-project)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/Neo-Order-project/commits/arena/01a0e9a0-neo-order-project)
+          - [`bb460e6`](https://github.com/havaianasdestruido/Neo-Order-project/commit/bb460e6c67ed640ad48b6faba1e0a4ef642006ee) **Eitcha! Renomeia o sistema pra Neokirk e salpica resenha, 67, la ele, bo** — _havaianasdestruido_ (2026-09-28)
+          - [`9cb8bfb`](https://github.com/havaianasdestruido/Neo-Order-project/commit/9cb8bfbd9b752ec28275cc60bcfaa28c27ee44ce) **Merge pull request #6 from cavaleiro-olimpioo/NeoOrderPietro** — _NeoOrder-AYJP_ (2026-09-28)
+          - [`5f839c8`](https://github.com/havaianasdestruido/Neo-Order-project/commit/5f839c842c76eb1bed152c4ddf84bd704288884d) **pendrivePietro** — _Guilherme Olimpio_ (2026-09-28)
+          - [`ae5d56f`](https://github.com/havaianasdestruido/Neo-Order-project/commit/ae5d56fd37fae16d9b4416d64afa0edef817f147) **Delete themes/abc directory** — _NeoOrder-AYJP_ (2026-09-15)
+          - [`0ea9aeb`](https://github.com/havaianasdestruido/Neo-Order-project/commit/0ea9aebd88318a793e9d7c163fb74756774bed83) **Create a.md** — _NeoOrder-AYJP_ (2026-09-15)
+          - [`c212560`](https://github.com/havaianasdestruido/Neo-Order-project/commit/c2125601e3b9bc178fa39f2958029835d55ec9d3) **Delete themes/culinary_operations_system/aa** — _NeoOrder-AYJP_ (2026-09-15)
+          - [`a747ccc`](https://github.com/havaianasdestruido/Neo-Order-project/commit/a747ccc61d25198b3f9b1fcdec5713b473547520) **Add files via upload** — _NeoOrder-AYJP_ (2026-09-15)
+          - [`b56c943`](https://github.com/havaianasdestruido/Neo-Order-project/commit/b56c943c68636caa6a12f55d17dd8bebd3318d83) **Create aa** — _NeoOrder-AYJP_ (2026-09-15)
+          - [`6ae8fc1`](https://github.com/havaianasdestruido/Neo-Order-project/commit/6ae8fc136e59c15a968db8335cbb0d45bce4e5c3) **Delete themes/rea_do_cliente_mesa_05/aa** — _NeoOrder-AYJP_ (2026-09-15)
+          - [`3762e0c`](https://github.com/havaianasdestruido/Neo-Order-project/commit/3762e0cf6fdecda07fdf0b66708b278aa653e6c7) **Add files via upload** — _NeoOrder-AYJP_ (2026-09-15)
+      - [`main`](https://github.com/havaianasdestruido/Neo-Order-project/tree/main) _(default)_ — HEAD: `8415d57`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/Neo-Order-project/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/Neo-Order-project/commits/main)
+          - [`8415d57`](https://github.com/havaianasdestruido/Neo-Order-project/commit/8415d5727747a437f333bb14137179a005d0aee8) **Merge pull request #1 from havaianasdestruido/arena/01a0e9a0-neo-order-p** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`bb460e6`](https://github.com/havaianasdestruido/Neo-Order-project/commit/bb460e6c67ed640ad48b6faba1e0a4ef642006ee) **Eitcha! Renomeia o sistema pra Neokirk e salpica resenha, 67, la ele, bo** — _havaianasdestruido_ (2026-09-28)
+          - [`9cb8bfb`](https://github.com/havaianasdestruido/Neo-Order-project/commit/9cb8bfbd9b752ec28275cc60bcfaa28c27ee44ce) **Merge pull request #6 from cavaleiro-olimpioo/NeoOrderPietro** — _NeoOrder-AYJP_ (2026-09-28)
+          - [`5f839c8`](https://github.com/havaianasdestruido/Neo-Order-project/commit/5f839c842c76eb1bed152c4ddf84bd704288884d) **pendrivePietro** — _Guilherme Olimpio_ (2026-09-28)
+          - [`ae5d56f`](https://github.com/havaianasdestruido/Neo-Order-project/commit/ae5d56fd37fae16d9b4416d64afa0edef817f147) **Delete themes/abc directory** — _NeoOrder-AYJP_ (2026-09-15)
+          - [`0ea9aeb`](https://github.com/havaianasdestruido/Neo-Order-project/commit/0ea9aebd88318a793e9d7c163fb74756774bed83) **Create a.md** — _NeoOrder-AYJP_ (2026-09-15)
+          - [`c212560`](https://github.com/havaianasdestruido/Neo-Order-project/commit/c2125601e3b9bc178fa39f2958029835d55ec9d3) **Delete themes/culinary_operations_system/aa** — _NeoOrder-AYJP_ (2026-09-15)
+          - [`a747ccc`](https://github.com/havaianasdestruido/Neo-Order-project/commit/a747ccc61d25198b3f9b1fcdec5713b473547520) **Add files via upload** — _NeoOrder-AYJP_ (2026-09-15)
+          - [`b56c943`](https://github.com/havaianasdestruido/Neo-Order-project/commit/b56c943c68636caa6a12f55d17dd8bebd3318d83) **Create aa** — _NeoOrder-AYJP_ (2026-09-15)
+          - [`6ae8fc1`](https://github.com/havaianasdestruido/Neo-Order-project/commit/6ae8fc136e59c15a968db8335cbb0d45bce4e5c3) **Delete themes/rea_do_cliente_mesa_05/aa** — _NeoOrder-AYJP_ (2026-09-15)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (1)
+        - ✅ Merged [#1 Eitcha! Sistema renomeado pra Neokirk + strings com resenha,](https://github.com/havaianasdestruido/Neo-Order-project/pull/1) — _arena-ai-coding-agent[bot]_ (2026-09-28) `arena/01a0e9a0-neo-order-project` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`bb460e6`](https://github.com/havaianasdestruido/Neo-Order-project/commit/bb460e6c67ed640ad48b6faba1e0a4ef642006ee) Eitcha! Renomeia o sistema pra Neokirk e salpica resenha, 67
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (4)
+      - [@NeoOrder-AYJP](https://github.com/NeoOrder-AYJP) — 28 commit(s)
+      - [@jfpalacio29](https://github.com/jfpalacio29) — 3 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 2 commit(s)
+      - [@cavaleiro-olimpioo](https://github.com/cavaleiro-olimpioo) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `HTML` — 69.2% (234,986 bytes)
+      - `JavaScript` — 28.6% (97,296 bytes)
+      - `CSS` — 2.2% (7,505 bytes)
+
+---
+
 - ## [noisy](https://github.com/havaianasdestruido/noisy)
   > No description
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C# | 📅 Created: 2026-09-07 | 🔄 Updated: 2026-09-22
@@ -3729,7 +3721,7 @@
 
 - ## [nomescenso2022](https://github.com/havaianasdestruido/nomescenso2022)
   > No description
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-09-28 | 🔄 Updated: 2026-09-28
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 1 open issues | 💻 unknown | 📅 Created: 2026-09-28 | 🔄 Updated: 2026-09-28
 
     - ### 🌿 Branches (2)
       - [`arena/01a0e919-nomescenso2022`](https://github.com/havaianasdestruido/nomescenso2022/tree/arena/01a0e919-nomescenso2022) — HEAD: `e1ab332`
@@ -3750,7 +3742,13 @@
       - **Closed Issues** (0)
 
     - ### 🔀 Pull Requests
-      - **Open PRs** (0)
+      - **Open PRs** (1)
+        - 🟢 Open [#1 Add IBGE Censo 2022 name scraper + complete rankings (128k n](https://github.com/havaianasdestruido/nomescenso2022/pull/1) — _arena-ai-coding-agent[bot]_ (2026-09-28) `arena/01a0e919-nomescenso2022` → `main`
+          - 📝 4 commit(s) in this PR
+            - [`8f5ccaa`](https://github.com/havaianasdestruido/nomescenso2022/commit/8f5ccaa14cc40f38f2f2a46805509f85b9be4d8e) Add IBGE Censo 2022 nomes scraper (live + offline-cache mode
+            - [`8aa4da9`](https://github.com/havaianasdestruido/nomescenso2022/commit/8aa4da925af1ca49db7ffb4de9efb05c908bf448) CI: run scraper on GitHub runners and commit JSONL results
+            - [`1cfda0f`](https://github.com/havaianasdestruido/nomescenso2022/commit/1cfda0f0df9391f30f60b7c70464e0db3abaeced) CI: self-diagnosing scrape workflow (commits ci_status.txt a
+            - [`e1ab332`](https://github.com/havaianasdestruido/nomescenso2022/commit/e1ab3323d97623b568de27c7fac85198d44731c2) Full IBGE Censo 2022 name rankings (128,458 nomes / 201,601 
       - **Closed PRs** (0)
 
     - ### 🍴 Forks (0)
@@ -5303,6 +5301,79 @@
 
 ---
 
+- ## [seohelper](https://github.com/havaianasdestruido/seohelper)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 JavaScript | 📅 Created: 2026-09-28 | 🔄 Updated: 2026-09-28
+
+    - ### 🌿 Branches (3)
+      - [`arena/01a0e9c3-seohelper`](https://github.com/havaianasdestruido/seohelper/tree/arena/01a0e9c3-seohelper) — HEAD: `0cf919c`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/seohelper/commits/arena/01a0e9c3-seohelper)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/seohelper/commits/arena/01a0e9c3-seohelper)
+          - [`0cf919c`](https://github.com/havaianasdestruido/seohelper/commit/0cf919c768ed72c83ad523229924c294187dac4d) **Refocus scan skill on plain-text chat results** — _havaianasdestruido_ (2026-09-28)
+          - [`9b15e3e`](https://github.com/havaianasdestruido/seohelper/commit/9b15e3e576e0818b38fd6139ace6e2c64150a127) **Create config-and-infra.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`e2ddea5`](https://github.com/havaianasdestruido/seohelper/commit/e2ddea533481e714b011579f330e2b26ac0d995d) **Create scoring-factors.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`168b1db`](https://github.com/havaianasdestruido/seohelper/commit/168b1db41113751749923790af04e1b83579ddde) **Create pipeline-stages.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`3b0bbb6`](https://github.com/havaianasdestruido/seohelper/commit/3b0bbb6e86e774b6de6a42027ec4d77597ace5f9) **Create crawler.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`04f68c0`](https://github.com/havaianasdestruido/seohelper/commit/04f68c076a1f4b4ff0b3f0a1fc4953bc38d08102) **Update SKILL.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`bbe2ae8`](https://github.com/havaianasdestruido/seohelper/commit/bbe2ae86a7d5e92e67eda96ed2d8c072d608cc49) **Create SKILL.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+      - [`arena/01a0e9ce-seohelper`](https://github.com/havaianasdestruido/seohelper/tree/arena/01a0e9ce-seohelper) — HEAD: `4671b6d`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/seohelper/commits/arena/01a0e9ce-seohelper)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/seohelper/commits/arena/01a0e9ce-seohelper)
+          - [`4671b6d`](https://github.com/havaianasdestruido/seohelper/commit/4671b6df392b050968e4f9c392f3e78b81539648) **Use the current action majors in CI** — _havaianasdestruido_ (2026-09-28)
+          - [`ce1f740`](https://github.com/havaianasdestruido/seohelper/commit/ce1f740d52f3b643d4a441b187060fa7a9cefa80) **Package the scan skill as an installable plugin** — _havaianasdestruido_ (2026-09-28)
+          - [`bcfa630`](https://github.com/havaianasdestruido/seohelper/commit/bcfa6300009376e3d568ca613f692da120ddb664) **Merge pull request #1 from havaianasdestruido/arena/01a0e9c3-seohelper** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`0cf919c`](https://github.com/havaianasdestruido/seohelper/commit/0cf919c768ed72c83ad523229924c294187dac4d) **Refocus scan skill on plain-text chat results** — _havaianasdestruido_ (2026-09-28)
+          - [`9b15e3e`](https://github.com/havaianasdestruido/seohelper/commit/9b15e3e576e0818b38fd6139ace6e2c64150a127) **Create config-and-infra.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`e2ddea5`](https://github.com/havaianasdestruido/seohelper/commit/e2ddea533481e714b011579f330e2b26ac0d995d) **Create scoring-factors.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`168b1db`](https://github.com/havaianasdestruido/seohelper/commit/168b1db41113751749923790af04e1b83579ddde) **Create pipeline-stages.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`3b0bbb6`](https://github.com/havaianasdestruido/seohelper/commit/3b0bbb6e86e774b6de6a42027ec4d77597ace5f9) **Create crawler.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`04f68c0`](https://github.com/havaianasdestruido/seohelper/commit/04f68c076a1f4b4ff0b3f0a1fc4953bc38d08102) **Update SKILL.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`bbe2ae8`](https://github.com/havaianasdestruido/seohelper/commit/bbe2ae86a7d5e92e67eda96ed2d8c072d608cc49) **Create SKILL.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+      - [`main`](https://github.com/havaianasdestruido/seohelper/tree/main) _(default)_ — HEAD: `d4107b2`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/seohelper/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/seohelper/commits/main)
+          - [`d4107b2`](https://github.com/havaianasdestruido/seohelper/commit/d4107b214186c42e4dd55b2aea515183e3ad50e3) **Merge pull request #2 from havaianasdestruido/arena/01a0e9ce-seohelper** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`4671b6d`](https://github.com/havaianasdestruido/seohelper/commit/4671b6df392b050968e4f9c392f3e78b81539648) **Use the current action majors in CI** — _havaianasdestruido_ (2026-09-28)
+          - [`ce1f740`](https://github.com/havaianasdestruido/seohelper/commit/ce1f740d52f3b643d4a441b187060fa7a9cefa80) **Package the scan skill as an installable plugin** — _havaianasdestruido_ (2026-09-28)
+          - [`bcfa630`](https://github.com/havaianasdestruido/seohelper/commit/bcfa6300009376e3d568ca613f692da120ddb664) **Merge pull request #1 from havaianasdestruido/arena/01a0e9c3-seohelper** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`0cf919c`](https://github.com/havaianasdestruido/seohelper/commit/0cf919c768ed72c83ad523229924c294187dac4d) **Refocus scan skill on plain-text chat results** — _havaianasdestruido_ (2026-09-28)
+          - [`9b15e3e`](https://github.com/havaianasdestruido/seohelper/commit/9b15e3e576e0818b38fd6139ace6e2c64150a127) **Create config-and-infra.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`e2ddea5`](https://github.com/havaianasdestruido/seohelper/commit/e2ddea533481e714b011579f330e2b26ac0d995d) **Create scoring-factors.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`168b1db`](https://github.com/havaianasdestruido/seohelper/commit/168b1db41113751749923790af04e1b83579ddde) **Create pipeline-stages.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`3b0bbb6`](https://github.com/havaianasdestruido/seohelper/commit/3b0bbb6e86e774b6de6a42027ec4d77597ace5f9) **Create crawler.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+          - [`04f68c0`](https://github.com/havaianasdestruido/seohelper/commit/04f68c076a1f4b4ff0b3f0a1fc4953bc38d08102) **Update SKILL.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (2)
+        - ✅ Merged [#2 Package the scan skill as an installable plugin](https://github.com/havaianasdestruido/seohelper/pull/2) — _arena-ai-coding-agent[bot]_ (2026-09-28) `arena/01a0e9ce-seohelper` → `main`
+          - 📝 2 commit(s) in this PR
+            - [`ce1f740`](https://github.com/havaianasdestruido/seohelper/commit/ce1f740d52f3b643d4a441b187060fa7a9cefa80) Package the scan skill as an installable plugin
+            - [`4671b6d`](https://github.com/havaianasdestruido/seohelper/commit/4671b6df392b050968e4f9c392f3e78b81539648) Use the current action majors in CI
+        - ✅ Merged [#1 Refocus scan skill on plain-text chat results](https://github.com/havaianasdestruido/seohelper/pull/1) — _arena-ai-coding-agent[bot]_ (2026-09-28) `arena/01a0e9c3-seohelper` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`0cf919c`](https://github.com/havaianasdestruido/seohelper/commit/0cf919c768ed72c83ad523229924c294187dac4d) Refocus scan skill on plain-text chat results
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 11 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `JavaScript` — 100.0% (12,857 bytes)
+
+---
+
 - ## [Servidor-Perfeito](https://github.com/havaianasdestruido/Servidor-Perfeito) `🍴 Fork`
   > No description
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 HTML | 📅 Created: 2026-08-25 | 🔄 Updated: 2026-08-25
@@ -5918,7 +5989,7 @@
 ### Followers (7)
 
 - [@ishandutta2007](https://github.com/ishandutta2007)
-  - 📦 3473 public repos | 👥 follows 36651 people
+  - 📦 3482 public repos | 👥 follows 36857 people
 - [@moxie-coder](https://github.com/moxie-coder)
   - 📦 221 public repos | 👥 follows 1651 people
 - [@Okafor-twd](https://github.com/Okafor-twd)
@@ -5930,7 +6001,7 @@
 - [@andrewexec](https://github.com/andrewexec)
   - 📦 2 public repos | 👥 follows 2 people
 - [@ancaferro](https://github.com/ancaferro)
-  - 📦 4 public repos | 👥 follows 15649 people
+  - 📦 4 public repos | 👥 follows 15647 people
 
 ### Following (21)
 
@@ -6100,4 +6171,4 @@
 - [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit) — _iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objec_
 
 ---
-_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-28 18:57:08 UTC_
+_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-29 00:03:30 UTC_
