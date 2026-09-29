@@ -975,6 +975,19 @@
     "url": "https://github.com/havaianasdestruido/PhoenixLiveWallpaper/pull/8"
   },
   {
+    "repo": "PhonkHub",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Rename project to PhonkHub with meme slang lexicon",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-29T15:24:47Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0edad-phonkhub",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/PhonkHub/pull/1"
+  },
+  {
     "repo": "Quack3DMM",
     "state": "closed",
     "status": "merged",

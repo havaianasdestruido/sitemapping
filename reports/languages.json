@@ -158,7 +158,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 1862195,
+    "bytes": 1862200,
     "percent": 93.9
   },
   {
@@ -736,6 +736,48 @@
     "language": "Shell",
     "bytes": 3685,
     "percent": 2.8
+  },
+  {
+    "repo": "PhonkHub",
+    "language": "JavaScript",
+    "bytes": 216648,
+    "percent": 56.7
+  },
+  {
+    "repo": "PhonkHub",
+    "language": "Java",
+    "bytes": 132471,
+    "percent": 34.7
+  },
+  {
+    "repo": "PhonkHub",
+    "language": "CSS",
+    "bytes": 28675,
+    "percent": 7.5
+  },
+  {
+    "repo": "PhonkHub",
+    "language": "Shell",
+    "bytes": 1431,
+    "percent": 0.4
+  },
+  {
+    "repo": "PhonkHub",
+    "language": "HTML",
+    "bytes": 1079,
+    "percent": 0.3
+  },
+  {
+    "repo": "PhonkHub",
+    "language": "Dockerfile",
+    "bytes": 932,
+    "percent": 0.2
+  },
+  {
+    "repo": "PhonkHub",
+    "language": "Python",
+    "bytes": 785,
+    "percent": 0.2
   },
   {
     "repo": "photoviewer",

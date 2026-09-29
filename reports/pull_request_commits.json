@@ -1088,6 +1088,14 @@
     "url": "https://github.com/havaianasdestruido/PhoenixLiveWallpaper/commit/b657b76104fe7e003d0c3ed8cd1e35d1e7f27a01"
   },
   {
+    "repo": "PhonkHub",
+    "pr_number": 1,
+    "sha": "1157448635d2332673f45483671e2cab1c95f135",
+    "sha_short": "1157448",
+    "message": "refactor: rename project to PhonkHub with brazilian meme lexicon",
+    "url": "https://github.com/havaianasdestruido/PhonkHub/commit/1157448635d2332673f45483671e2cab1c95f135"
+  },
+  {
     "repo": "Quack3DMM",
     "pr_number": 1,
     "sha": "9dd932827b3a2b121581b6d46db4e2f22af36b0d",
