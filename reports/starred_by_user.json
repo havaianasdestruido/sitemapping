@@ -1,5 +1,10 @@
 [
   {
+    "full_name": "cavaleiro-olimpioo/ClassHub",
+    "url": "https://github.com/cavaleiro-olimpioo/ClassHub",
+    "description": "Sistema de gerenciamento escolar (Projeto da etec)"
+  },
+  {
     "full_name": "Purfview/whisper-standalone-win",
     "url": "https://github.com/Purfview/whisper-standalone-win",
     "description": "Whisper & Faster-Whisper standalone executables for those who don't want to bother with Python. "

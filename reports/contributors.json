@@ -224,7 +224,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 55,
+    "contributions": 56,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -236,7 +236,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 61,
+    "contributions": 62,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -249,6 +249,12 @@
     "repo": ".github",
     "login": "havaianasdestruido",
     "contributions": 23,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "abnt-skill",
+    "login": "havaianasdestruido",
+    "contributions": 1,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -676,6 +682,12 @@
     "login": "thiagoolisilva902-creator",
     "contributions": 4,
     "profile_url": "https://github.com/thiagoolisilva902-creator"
+  },
+  {
+    "repo": "ClassHub",
+    "login": "havaianasdestruido",
+    "contributions": 3,
+    "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "ClassHub",

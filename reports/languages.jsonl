@@ -17,7 +17,7 @@
 {"repo": "PrintSpoolerAutoRun", "language": "C++", "bytes": 3652, "percent": 95.2}
 {"repo": "PrintSpoolerAutoRun", "language": "Batchfile", "bytes": 184, "percent": 4.8}
 {"repo": "sitemapping", "language": "Python", "bytes": 29474, "percent": 100.0}
-{"repo": "top100", "language": "HTML", "bytes": 1862131, "percent": 93.9}
+{"repo": "top100", "language": "HTML", "bytes": 1862148, "percent": 93.9}
 {"repo": "top100", "language": "Python", "bytes": 115745, "percent": 5.8}
 {"repo": "top100", "language": "CSS", "bytes": 4402, "percent": 0.2}
 {"repo": "aisearchhelpers", "language": "TypeScript", "bytes": 150428, "percent": 99.0}
@@ -39,13 +39,13 @@
 {"repo": "calculator", "language": "Shell", "bytes": 4448, "percent": 0.3}
 {"repo": "calculator", "language": "TypeScript", "bytes": 1509, "percent": 0.1}
 {"repo": "calculator", "language": "HTML", "bytes": 1170, "percent": 0.1}
-{"repo": "ClassHub", "language": "JavaScript", "bytes": 209600, "percent": 55.0}
-{"repo": "ClassHub", "language": "Java", "bytes": 139442, "percent": 36.6}
-{"repo": "ClassHub", "language": "CSS", "bytes": 28568, "percent": 7.5}
-{"repo": "ClassHub", "language": "Shell", "bytes": 1267, "percent": 0.3}
+{"repo": "ClassHub", "language": "JavaScript", "bytes": 257812, "percent": 49.8}
+{"repo": "ClassHub", "language": "Java", "bytes": 227245, "percent": 43.9}
+{"repo": "ClassHub", "language": "CSS", "bytes": 28568, "percent": 5.5}
+{"repo": "ClassHub", "language": "Shell", "bytes": 1267, "percent": 0.2}
+{"repo": "ClassHub", "language": "Python", "bytes": 1148, "percent": 0.2}
 {"repo": "ClassHub", "language": "Dockerfile", "bytes": 932, "percent": 0.2}
 {"repo": "ClassHub", "language": "HTML", "bytes": 889, "percent": 0.2}
-{"repo": "ClassHub", "language": "Python", "bytes": 705, "percent": 0.2}
 {"repo": "dadosabertos", "language": "Python", "bytes": 179496, "percent": 73.8}
 {"repo": "dadosabertos", "language": "HTML", "bytes": 63794, "percent": 26.2}
 {"repo": "EZInfiniteYTLive", "language": "C#", "bytes": 7795, "percent": 100.0}

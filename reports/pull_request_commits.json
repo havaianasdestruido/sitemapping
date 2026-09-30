@@ -512,6 +512,14 @@
     "url": "https://github.com/havaianasdestruido/top100/commit/57aabb98925d9200f16f805c295fc63fc9f1a816"
   },
   {
+    "repo": "abnt-skill",
+    "pr_number": 1,
+    "sha": "97bbcb0343a89e73e3ea84020507162937f43cd0",
+    "sha_short": "97bbcb0",
+    "message": "Transforma projeto na abnt-skill: comando /abnt sobre skills oficiais (docx/pdf/pptx/xlsx)",
+    "url": "https://github.com/havaianasdestruido/abnt-skill/commit/97bbcb0343a89e73e3ea84020507162937f43cd0"
+  },
+  {
     "repo": "AudioTaste",
     "pr_number": 1,
     "sha": "4e7ad01509542836213e7125ccc4fb067bb78d9b",
@@ -566,6 +574,14 @@
     "sha_short": "94470ef",
     "message": "docs: adicionar Javadoc/JSDoc em pt-BR em todo o backend e frontend",
     "url": "https://github.com/havaianasdestruido/ClassHub/commit/94470ef444bc38677700f6a4681d334f398323a9"
+  },
+  {
+    "repo": "ClassHub",
+    "pr_number": 1,
+    "sha": "2666af7097e22a05cf6d8772dd71ad44ee2b6c1b",
+    "sha_short": "2666af7",
+    "message": "docs: corrigir Javadoc/JSDoc conforme revisão",
+    "url": "https://github.com/havaianasdestruido/ClassHub/commit/2666af7097e22a05cf6d8772dd71ad44ee2b6c1b"
   },
   {
     "repo": "dadosabertos",

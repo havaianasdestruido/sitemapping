@@ -4332,6 +4332,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "c8eabd67db9ed31999c85bacd5dc98839f438f8f",
+    "sha_short": "c8eabd6",
+    "author": "GitHub Action Bot",
+    "date": "2026-09-29T23:23:31Z",
+    "message": "📊 [2026-09-29 23:23:31 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/c8eabd67db9ed31999c85bacd5dc98839f438f8f"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "ed85bf197e83f53b1c3247c1b67b63151c85a491",
     "sha_short": "ed85bf1",
     "author": "GitHub Action Bot",
@@ -4422,12 +4432,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "4652927517292e24f3e68a33018df8a383f18f2b",
-    "sha_short": "4652927",
+    "sha": "0dd76621ed7678be15d93e1d4c94bbfb59c72a1b",
+    "sha_short": "0dd7662",
     "author": "GitHub Action Bot",
-    "date": "2026-09-27T02:36:47Z",
-    "message": "📊 [2026-09-27 02:36:47 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/4652927517292e24f3e68a33018df8a383f18f2b"
+    "date": "2026-09-21T17:30:15Z",
+    "message": "📊 [2026-09-21 17:30:15 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/0dd76621ed7678be15d93e1d4c94bbfb59c72a1b"
   },
   {
     "repo": "sitemapping",
@@ -4522,12 +4532,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "cbc3fac2a3e9b844ac3e411adb25802c76abb3f9",
-    "sha_short": "cbc3fac",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T20:13:36Z",
-    "message": "docs: add star history chart",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/cbc3fac2a3e9b844ac3e411adb25802c76abb3f9"
+    "sha": "40e60b0e78401f338eb7999711921a136c71be2c",
+    "sha_short": "40e60b0",
+    "author": "Pato (new acc)",
+    "date": "2026-09-13T17:37:47Z",
+    "message": "whoops",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/40e60b0e78401f338eb7999711921a136c71be2c"
   },
   {
     "repo": "sitemapping",
@@ -4598,6 +4608,16 @@
     "date": "2026-09-13T17:27:15Z",
     "message": "Create generate_report.py",
     "url": "https://github.com/havaianasdestruido/sitemapping/commit/a6ebe1dd4f364ad874898f2a9a3628718a2b35f0"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "643a29a81c920fd4f41e6f5aa3657b9a4b3b0de9",
+    "sha_short": "643a29a",
+    "author": "github-actions[bot]",
+    "date": "2026-09-30T01:43:19Z",
+    "message": "data: update top repos data (2026-09-30 01:43 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/643a29a81c920fd4f41e6f5aa3657b9a4b3b0de9"
   },
   {
     "repo": "top100",
@@ -4692,12 +4712,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "57aabb98925d9200f16f805c295fc63fc9f1a816",
-    "sha_short": "57aabb9",
-    "author": "havaianasdestruido",
-    "date": "2026-09-28T13:04:56Z",
-    "message": "review: fix 17 verified issues found in the first pass",
-    "url": "https://github.com/havaianasdestruido/top100/commit/57aabb98925d9200f16f805c295fc63fc9f1a816"
+    "sha": "b33d0b8f2e23abe396e545d96031fb97630f5f81",
+    "sha_short": "b33d0b8",
+    "author": "github-actions[bot]",
+    "date": "2026-09-24T10:36:40Z",
+    "message": "data: update top repos data (2026-09-24)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/b33d0b8f2e23abe396e545d96031fb97630f5f81"
   },
   {
     "repo": "top100",
@@ -4792,12 +4812,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "7a5c02e5a1c84b9bbac7f7220b6c41637c11a8c8",
-    "sha_short": "7a5c02e",
+    "sha": "533c2d12813a4daf10d195c8a97f5b94f9f15ddc",
+    "sha_short": "533c2d1",
     "author": "github-actions[bot]",
-    "date": "2026-09-22T17:24:24Z",
-    "message": "data: update top repos data (2026-09-22)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/7a5c02e5a1c84b9bbac7f7220b6c41637c11a8c8"
+    "date": "2026-09-20T19:49:16Z",
+    "message": "data: update top repos data (2026-09-20)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/533c2d12813a4daf10d195c8a97f5b94f9f15ddc"
   },
   {
     "repo": "top100",
@@ -4888,16 +4908,6 @@
     "date": "2026-09-20T19:27:48Z",
     "message": "Update run.yml",
     "url": "https://github.com/havaianasdestruido/top100/commit/6935cafd0583ab45571057fdfeb40999f73e88e3"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "b380d9a5fc7d141fdbc6c963b875b53d99195d55",
-    "sha_short": "b380d9a",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:23:45Z",
-    "message": "Create run.yml",
-    "url": "https://github.com/havaianasdestruido/top100/commit/b380d9a5fc7d141fdbc6c963b875b53d99195d55"
   },
   {
     "repo": ".github",
@@ -4998,6 +5008,36 @@
     "date": "2026-09-15T17:46:12Z",
     "message": "Update README.md",
     "url": "https://github.com/havaianasdestruido/.github/commit/bb820581c6ae06dae5dee770a9068b3a11856be7"
+  },
+  {
+    "repo": "abnt-skill",
+    "branch": "arena/01a0ef9a-abnt-skill",
+    "sha": "97bbcb0343a89e73e3ea84020507162937f43cd0",
+    "sha_short": "97bbcb0",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T00:09:14Z",
+    "message": "Transforma projeto na abnt-skill: comando /abnt sobre skills oficiais (docx/pdf/pptx/xlsx)",
+    "url": "https://github.com/havaianasdestruido/abnt-skill/commit/97bbcb0343a89e73e3ea84020507162937f43cd0"
+  },
+  {
+    "repo": "abnt-skill",
+    "branch": "arena/01a0ef9a-abnt-skill",
+    "sha": "576a370e8135a8d92f7cb94ca3d4fef1feb3ea65",
+    "sha_short": "576a370",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-29T23:56:53Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/abnt-skill/commit/576a370e8135a8d92f7cb94ca3d4fef1feb3ea65"
+  },
+  {
+    "repo": "abnt-skill",
+    "branch": "main",
+    "sha": "576a370e8135a8d92f7cb94ca3d4fef1feb3ea65",
+    "sha_short": "576a370",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-29T23:56:53Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/abnt-skill/commit/576a370e8135a8d92f7cb94ca3d4fef1feb3ea65"
   },
   {
     "repo": "aisearchhelpers",
@@ -6912,6 +6952,16 @@
   {
     "repo": "ClassHub",
     "branch": "arena/01a0ee5f-classhub",
+    "sha": "2666af7097e22a05cf6d8772dd71ad44ee2b6c1b",
+    "sha_short": "2666af7",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T00:02:42Z",
+    "message": "docs: corrigir Javadoc/JSDoc conforme revisão",
+    "url": "https://github.com/havaianasdestruido/ClassHub/commit/2666af7097e22a05cf6d8772dd71ad44ee2b6c1b"
+  },
+  {
+    "repo": "ClassHub",
+    "branch": "arena/01a0ee5f-classhub",
     "sha": "94470ef444bc38677700f6a4681d334f398323a9",
     "sha_short": "94470ef",
     "author": "havaianasdestruido",
@@ -7002,12 +7052,12 @@
   {
     "repo": "ClassHub",
     "branch": "arena/01a0ee5f-classhub",
-    "sha": "d259ebe8556262fc16e6ca4455d5b2e4a5079b78",
-    "sha_short": "d259ebe",
-    "author": "aluno",
-    "date": "2026-09-25T19:18:59Z",
-    "message": "themeColorV1",
-    "url": "https://github.com/havaianasdestruido/ClassHub/commit/d259ebe8556262fc16e6ca4455d5b2e4a5079b78"
+    "sha": "84353a172168ec1944caf3beacf0fb6efa207337",
+    "sha_short": "84353a1",
+    "author": "Guilherme Olimpio",
+    "date": "2026-09-23T11:50:28Z",
+    "message": "DocumentModel",
+    "url": "https://github.com/havaianasdestruido/ClassHub/commit/84353a172168ec1944caf3beacf0fb6efa207337"
   },
   {
     "repo": "ClassHub",
@@ -7102,12 +7152,12 @@
   {
     "repo": "ClassHub",
     "branch": "arena/01a0ee5f-classhub",
-    "sha": "812d03d11cac7f4d7dc3712f8f5bf2ebdfacc499",
-    "sha_short": "812d03d",
+    "sha": "bdfa6590851572c2b027dd4d7c0eb7bcf35807a6",
+    "sha_short": "bdfa659",
     "author": "Guilherme Olimpio",
-    "date": "2026-09-19T15:56:48Z",
-    "message": "AlunoModel",
-    "url": "https://github.com/havaianasdestruido/ClassHub/commit/812d03d11cac7f4d7dc3712f8f5bf2ebdfacc499"
+    "date": "2026-08-18T17:58:00Z",
+    "message": "Upgrade LoginController",
+    "url": "https://github.com/havaianasdestruido/ClassHub/commit/bdfa6590851572c2b027dd4d7c0eb7bcf35807a6"
   },
   {
     "repo": "ClassHub",
@@ -7168,6 +7218,36 @@
     "date": "2026-05-21T17:52:41Z",
     "message": "Initial commit",
     "url": "https://github.com/havaianasdestruido/ClassHub/commit/207563d0afe46a083516b7bc7ac6fcf38e5713ff"
+  },
+  {
+    "repo": "ClassHub",
+    "branch": "main",
+    "sha": "cf70ec3359c53042666b3890e8199802e8ea79c4",
+    "sha_short": "cf70ec3",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-30T00:06:29Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0ee5f-classhub",
+    "url": "https://github.com/havaianasdestruido/ClassHub/commit/cf70ec3359c53042666b3890e8199802e8ea79c4"
+  },
+  {
+    "repo": "ClassHub",
+    "branch": "main",
+    "sha": "2666af7097e22a05cf6d8772dd71ad44ee2b6c1b",
+    "sha_short": "2666af7",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T00:02:42Z",
+    "message": "docs: corrigir Javadoc/JSDoc conforme revisão",
+    "url": "https://github.com/havaianasdestruido/ClassHub/commit/2666af7097e22a05cf6d8772dd71ad44ee2b6c1b"
+  },
+  {
+    "repo": "ClassHub",
+    "branch": "main",
+    "sha": "94470ef444bc38677700f6a4681d334f398323a9",
+    "sha_short": "94470ef",
+    "author": "havaianasdestruido",
+    "date": "2026-09-29T18:37:41Z",
+    "message": "docs: adicionar Javadoc/JSDoc em pt-BR em todo o backend e frontend",
+    "url": "https://github.com/havaianasdestruido/ClassHub/commit/94470ef444bc38677700f6a4681d334f398323a9"
   },
   {
     "repo": "ClassHub",
@@ -7242,32 +7322,32 @@
   {
     "repo": "ClassHub",
     "branch": "main",
-    "sha": "a299c6ab4c89edde5c50c2ec5442b8a7401b9f54",
-    "sha_short": "a299c6a",
+    "sha": "fecc84dabecd3b73ad65f8ba41fc89ae0ddd8339",
+    "sha_short": "fecc84d",
     "author": "Guilherme Olimpio",
-    "date": "2026-09-26T02:58:06Z",
-    "message": "FixFrontend",
-    "url": "https://github.com/havaianasdestruido/ClassHub/commit/a299c6ab4c89edde5c50c2ec5442b8a7401b9f54"
+    "date": "2026-09-23T12:07:31Z",
+    "message": "DockerFiles",
+    "url": "https://github.com/havaianasdestruido/ClassHub/commit/fecc84dabecd3b73ad65f8ba41fc89ae0ddd8339"
   },
   {
     "repo": "ClassHub",
     "branch": "main",
-    "sha": "d259ebe8556262fc16e6ca4455d5b2e4a5079b78",
-    "sha_short": "d259ebe",
-    "author": "aluno",
-    "date": "2026-09-25T19:18:59Z",
-    "message": "themeColorV1",
-    "url": "https://github.com/havaianasdestruido/ClassHub/commit/d259ebe8556262fc16e6ca4455d5b2e4a5079b78"
+    "sha": "84353a172168ec1944caf3beacf0fb6efa207337",
+    "sha_short": "84353a1",
+    "author": "Guilherme Olimpio",
+    "date": "2026-09-23T11:50:28Z",
+    "message": "DocumentModel",
+    "url": "https://github.com/havaianasdestruido/ClassHub/commit/84353a172168ec1944caf3beacf0fb6efa207337"
   },
   {
     "repo": "ClassHub",
     "branch": "main",
-    "sha": "44837e3fc585bdcb980e8c64acbe2cce82dfec8b",
-    "sha_short": "44837e3",
-    "author": "aluno",
-    "date": "2026-09-25T19:08:49Z",
-    "message": "ReactFrontend",
-    "url": "https://github.com/havaianasdestruido/ClassHub/commit/44837e3fc585bdcb980e8c64acbe2cce82dfec8b"
+    "sha": "f8f32b1fc79d14e66362aea7ca005d1776e0ed53",
+    "sha_short": "f8f32b1",
+    "author": "Guilherme Olimpio",
+    "date": "2026-09-23T11:48:09Z",
+    "message": "FixController",
+    "url": "https://github.com/havaianasdestruido/ClassHub/commit/f8f32b1fc79d14e66362aea7ca005d1776e0ed53"
   },
   {
     "repo": "ClassHub",
@@ -7342,32 +7422,32 @@
   {
     "repo": "ClassHub",
     "branch": "main",
-    "sha": "fc2e88fdfcce9bb730020b6fc2c7f6b1d41ca37b",
-    "sha_short": "fc2e88f",
+    "sha": "7a077415b9d5acdfcee576cb470f3dd9c18bf4ce",
+    "sha_short": "7a07741",
     "author": "Guilherme Olimpio",
-    "date": "2026-09-19T16:09:27Z",
-    "message": "DiciplinaModel",
-    "url": "https://github.com/havaianasdestruido/ClassHub/commit/fc2e88fdfcce9bb730020b6fc2c7f6b1d41ca37b"
+    "date": "2026-08-19T02:15:30Z",
+    "message": "Merge branch 'main' of https://github.com/cavaleiro-olimpioo/ClassHub",
+    "url": "https://github.com/havaianasdestruido/ClassHub/commit/7a077415b9d5acdfcee576cb470f3dd9c18bf4ce"
   },
   {
     "repo": "ClassHub",
     "branch": "main",
-    "sha": "812d03d11cac7f4d7dc3712f8f5bf2ebdfacc499",
-    "sha_short": "812d03d",
+    "sha": "bdfa6590851572c2b027dd4d7c0eb7bcf35807a6",
+    "sha_short": "bdfa659",
     "author": "Guilherme Olimpio",
-    "date": "2026-09-19T15:56:48Z",
-    "message": "AlunoModel",
-    "url": "https://github.com/havaianasdestruido/ClassHub/commit/812d03d11cac7f4d7dc3712f8f5bf2ebdfacc499"
+    "date": "2026-08-18T17:58:00Z",
+    "message": "Upgrade LoginController",
+    "url": "https://github.com/havaianasdestruido/ClassHub/commit/bdfa6590851572c2b027dd4d7c0eb7bcf35807a6"
   },
   {
     "repo": "ClassHub",
     "branch": "main",
-    "sha": "2fe22de328346bf152357cc8424e6c6f718ffcfa",
-    "sha_short": "2fe22de",
+    "sha": "a79512d4ae3f6062daa897da62bdc5ce4caf7d2b",
+    "sha_short": "a79512d",
     "author": "Guilherme Olimpio",
-    "date": "2026-09-17T17:56:47Z",
-    "message": "FuncionarioModel",
-    "url": "https://github.com/havaianasdestruido/ClassHub/commit/2fe22de328346bf152357cc8424e6c6f718ffcfa"
+    "date": "2026-08-18T17:36:57Z",
+    "message": "iniciallize",
+    "url": "https://github.com/havaianasdestruido/ClassHub/commit/a79512d4ae3f6062daa897da62bdc5ce4caf7d2b"
   },
   {
     "repo": "ClassHub",

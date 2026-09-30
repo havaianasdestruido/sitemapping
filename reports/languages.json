@@ -116,7 +116,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 1862131,
+    "bytes": 1862148,
     "percent": 93.9
   },
   {
@@ -248,26 +248,32 @@
   {
     "repo": "ClassHub",
     "language": "JavaScript",
-    "bytes": 209600,
-    "percent": 55.0
+    "bytes": 257812,
+    "percent": 49.8
   },
   {
     "repo": "ClassHub",
     "language": "Java",
-    "bytes": 139442,
-    "percent": 36.6
+    "bytes": 227245,
+    "percent": 43.9
   },
   {
     "repo": "ClassHub",
     "language": "CSS",
     "bytes": 28568,
-    "percent": 7.5
+    "percent": 5.5
   },
   {
     "repo": "ClassHub",
     "language": "Shell",
     "bytes": 1267,
-    "percent": 0.3
+    "percent": 0.2
+  },
+  {
+    "repo": "ClassHub",
+    "language": "Python",
+    "bytes": 1148,
+    "percent": 0.2
   },
   {
     "repo": "ClassHub",
@@ -279,12 +285,6 @@
     "repo": "ClassHub",
     "language": "HTML",
     "bytes": 889,
-    "percent": 0.2
-  },
-  {
-    "repo": "ClassHub",
-    "language": "Python",
-    "bytes": 705,
     "percent": 0.2
   },
   {

@@ -4,8 +4,8 @@
 
 > fka. PatoFlamejantetv/UltimateQuack
 
-**Generated:** 2026-09-29 23:16:31 UTC
-**Public Repositories:** 78
+**Generated:** 2026-09-30 03:00:08 UTC
+**Public Repositories:** 79
 
 ---
 
@@ -894,9 +894,10 @@
   > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-09-29
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `ed85bf1`
+      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `c8eabd6`
         - 📋 [All Commits](https://github.com/havaianasdestruido/sitemapping/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/sitemapping/commits/main)
+          - [`c8eabd6`](https://github.com/havaianasdestruido/sitemapping/commit/c8eabd67db9ed31999c85bacd5dc98839f438f8f) **📊 \[2026-09-29 23:23:31 UTC\]** — _GitHub Action Bot_ (2026-09-29)
           - [`ed85bf1`](https://github.com/havaianasdestruido/sitemapping/commit/ed85bf197e83f53b1c3247c1b67b63151c85a491) **📊 \[2026-09-29 17:21:44 UTC\]** — _GitHub Action Bot_ (2026-09-29)
           - [`026ac8c`](https://github.com/havaianasdestruido/sitemapping/commit/026ac8cc975a2e24a2885633842142d1ee516c05) **📊 \[2026-09-29 10:20:25 UTC\]** — _GitHub Action Bot_ (2026-09-29)
           - [`5503f13`](https://github.com/havaianasdestruido/sitemapping/commit/5503f13b1bbe70157abbde3b764ccad913d09f99) **📊 \[2026-09-29 00:10:46 UTC\]** — _GitHub Action Bot_ (2026-09-29)
@@ -906,8 +907,8 @@
           - [`65e5416`](https://github.com/havaianasdestruido/sitemapping/commit/65e5416144a4a97ce3703053cb6114d8a010c997) **📊 \[2026-09-27 22:46:52 UTC\]** — _GitHub Action Bot_ (2026-09-27)
           - [`7c8b61b`](https://github.com/havaianasdestruido/sitemapping/commit/7c8b61b6b22d501a3adaebf44c1217a443b036b9) **📊 \[2026-09-27 16:05:10 UTC\]** — _GitHub Action Bot_ (2026-09-27)
           - [`3bd85f1`](https://github.com/havaianasdestruido/sitemapping/commit/3bd85f1c5ce5ad5384f3c6941636e2eabd2c20cc) **📊 \[2026-09-27 09:42:42 UTC\]** — _GitHub Action Bot_ (2026-09-27)
-          - [`4652927`](https://github.com/havaianasdestruido/sitemapping/commit/4652927517292e24f3e68a33018df8a383f18f2b) **📊 \[2026-09-27 02:36:47 UTC\]** — _GitHub Action Bot_ (2026-09-27)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=0dd76621ed7678be15d93e1d4c94bbfb59c72a1b+34)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=96fc96c90edae66820c49908317c1a02c28b23f9+34)
+          - [`0dd7662`](https://github.com/havaianasdestruido/sitemapping/commit/0dd76621ed7678be15d93e1d4c94bbfb59c72a1b) **📊 \[2026-09-21 17:30:15 UTC\]** — _GitHub Action Bot_ (2026-09-21)
           - [`070563f`](https://github.com/havaianasdestruido/sitemapping/commit/070563fb8247767751938e9402b98ccb80b9aa01) **📊 \[2026-09-21 09:28:41 UTC\]** — _GitHub Action Bot_ (2026-09-21)
           - [`3c9b26a`](https://github.com/havaianasdestruido/sitemapping/commit/3c9b26a5127b7fe5160892d07673f12665f8dc0b) **📊 \[2026-09-21 02:27:01 UTC\]** — _GitHub Action Bot_ (2026-09-21)
           - [`64412d1`](https://github.com/havaianasdestruido/sitemapping/commit/64412d1f798c4c039d5d32f94c9cc007d320084f) **📊 \[2026-09-21 01:14:25 UTC\]** — _GitHub Action Bot_ (2026-09-21)
@@ -917,8 +918,8 @@
           - [`812929d`](https://github.com/havaianasdestruido/sitemapping/commit/812929d457b9540199fdf30f4f0a5244922ec40f) **📊 \[2026-09-20 22:06:43 UTC\]** — _GitHub Action Bot_ (2026-09-20)
           - [`ecdd6b7`](https://github.com/havaianasdestruido/sitemapping/commit/ecdd6b7a1a940356aea4019a438490d4e44adcdf) **📊 \[2026-09-20 20:46:50 UTC\]** — _GitHub Action Bot_ (2026-09-20)
           - [`317107f`](https://github.com/havaianasdestruido/sitemapping/commit/317107fd6dbb0a8373147e97b36ebf7ac9af45f5) **📊 \[2026-09-20 20:16:46 UTC\]** — _GitHub Action Bot_ (2026-09-20)
-          - [`cbc3fac`](https://github.com/havaianasdestruido/sitemapping/commit/cbc3fac2a3e9b844ac3e411adb25802c76abb3f9) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=40e60b0e78401f338eb7999711921a136c71be2c+34)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=f6fd77b275bbe54cb676aa5c340390d1e8ca0b32+34)
+          - [`40e60b0`](https://github.com/havaianasdestruido/sitemapping/commit/40e60b0e78401f338eb7999711921a136c71be2c) **whoops** — _Pato (new acc)_ (2026-09-13)
           - [`5d2974a`](https://github.com/havaianasdestruido/sitemapping/commit/5d2974a527ec5d7883ed2f9672c67366ddfa24a6) **live demo URL** — _Pato (new acc)_ (2026-09-13)
           - [`fb926d4`](https://github.com/havaianasdestruido/sitemapping/commit/fb926d484c27d6c8ab04286cb761505a70f88b48) **jekyll workflow** — _Pato (new acc)_ (2026-09-13)
           - [`5b9d33e`](https://github.com/havaianasdestruido/sitemapping/commit/5b9d33e8dab6999935cda632f67c1caf515d9458) **fixed readme** — _Pato (new acc)_ (2026-09-13)
@@ -943,7 +944,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@actions-user](https://github.com/actions-user) — 55 commit(s)
+      - [@actions-user](https://github.com/actions-user) — 56 commit(s)
       - [@havaianasdestruido](https://github.com/havaianasdestruido) — 22 commit(s)
 
     - ### 🏷️ Releases (2)
@@ -957,12 +958,13 @@
 
 - ## [top100](https://github.com/havaianasdestruido/top100)
   > TOP 100 GitHub repositories for each major programming language, listed by stars
-  > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 HTML | 📅 Created: 2026-09-20 | 🔄 Updated: 2026-09-29
+  > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 HTML | 📅 Created: 2026-09-20 | 🔄 Updated: 2026-09-30
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/top100/tree/main) _(default)_ — HEAD: `2829517`
+      - [`main`](https://github.com/havaianasdestruido/top100/tree/main) _(default)_ — HEAD: `643a29a`
         - 📋 [All Commits](https://github.com/havaianasdestruido/top100/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/top100/commits/main)
+          - [`643a29a`](https://github.com/havaianasdestruido/top100/commit/643a29a81c920fd4f41e6f5aa3657b9a4b3b0de9) **data: update top repos data (2026-09-30 01:43 UTC)** — _github-actions[bot]_ (2026-09-30)
           - [`2829517`](https://github.com/havaianasdestruido/top100/commit/282951719c38f0ff53fe9723abe7e214f1f49ecc) **data: update top repos data (2026-09-29 22:47 UTC)** — _github-actions[bot]_ (2026-09-29)
           - [`6e7b824`](https://github.com/havaianasdestruido/top100/commit/6e7b82400e6b1e5c9467f3783865f06068ce0666) **data: update top repos data (2026-09-29 18:58 UTC)** — _github-actions[bot]_ (2026-09-29)
           - [`e8a6125`](https://github.com/havaianasdestruido/top100/commit/e8a61250ba2748e4fc0013879aa633edb84c0720) **data: update top repos data (2026-09-29 13:30 UTC)** — _github-actions[bot]_ (2026-09-29)
@@ -972,8 +974,8 @@
           - [`c0912e9`](https://github.com/havaianasdestruido/top100/commit/c0912e9195ef3f1dcde41c58e91f550014b7f9e1) **data: update top repos data (2026-09-28 18:00 UTC)** — _github-actions[bot]_ (2026-09-28)
           - [`7621860`](https://github.com/havaianasdestruido/top100/commit/7621860dee31fb445b9a73b05797dea9ce9c5476) **Merge pull request #1 from havaianasdestruido/arena/01a0e7f2-top100** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-28)
           - [`b258bcc`](https://github.com/havaianasdestruido/top100/commit/b258bcc566c3d3c11cf1cc1810342be4e1b21718) **data: update top repos data (2026-09-28)** — _github-actions[bot]_ (2026-09-28)
-          - [`57aabb9`](https://github.com/havaianasdestruido/top100/commit/57aabb98925d9200f16f805c295fc63fc9f1a816) **review: fix 17 verified issues found in the first pass** — _havaianasdestruido_ (2026-09-28)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/top100/commits/main/?after=b33d0b8f2e23abe396e545d96031fb97630f5f81+34)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/top100/commits/main/?after=4d68ad077ca28680ef1b0d362d2f8451718833ea+34)
+          - [`b33d0b8`](https://github.com/havaianasdestruido/top100/commit/b33d0b8f2e23abe396e545d96031fb97630f5f81) **data: update top repos data (2026-09-24)** — _github-actions[bot]_ (2026-09-24)
           - [`6e55d3e`](https://github.com/havaianasdestruido/top100/commit/6e55d3e3a65c00aaf8449fb77a0283983e8762bc) **data: update top repos data (2026-09-24)** — _github-actions[bot]_ (2026-09-24)
           - [`d7e4ff1`](https://github.com/havaianasdestruido/top100/commit/d7e4ff1f708ad365d6b3adf738c5b85bcd22bf47) **data: update top repos data (2026-09-24)** — _github-actions[bot]_ (2026-09-24)
           - [`266f1e4`](https://github.com/havaianasdestruido/top100/commit/266f1e4fe210532c43fa72f6cb36cc9b4f6010fe) **data: update top repos data (2026-09-23)** — _github-actions[bot]_ (2026-09-23)
@@ -983,8 +985,8 @@
           - [`fbe62e6`](https://github.com/havaianasdestruido/top100/commit/fbe62e6ed1eb5fecc4397c5402c5c26e6e635888) **data: update top repos data (2026-09-23)** — _github-actions[bot]_ (2026-09-23)
           - [`a00f897`](https://github.com/havaianasdestruido/top100/commit/a00f89773edcb92b1c5609042b68dc1e18fd48aa) **data: update top repos data (2026-09-22)** — _github-actions[bot]_ (2026-09-22)
           - [`8e23564`](https://github.com/havaianasdestruido/top100/commit/8e2356494b3ac900ddda11232eef7a60192a406a) **data: update top repos data (2026-09-22)** — _github-actions[bot]_ (2026-09-22)
-          - [`7a5c02e`](https://github.com/havaianasdestruido/top100/commit/7a5c02e5a1c84b9bbac7f7220b6c41637c11a8c8) **data: update top repos data (2026-09-22)** — _github-actions[bot]_ (2026-09-22)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/top100/commits/main/?after=533c2d12813a4daf10d195c8a97f5b94f9f15ddc+34)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/top100/commits/main/?after=931f06c1bcb03ed092a402330fafe30eb8d5a9a1+34)
+          - [`533c2d1`](https://github.com/havaianasdestruido/top100/commit/533c2d12813a4daf10d195c8a97f5b94f9f15ddc) **data: update top repos data (2026-09-20)** — _github-actions[bot]_ (2026-09-20)
           - [`effc1ae`](https://github.com/havaianasdestruido/top100/commit/effc1ae74aef9001bba6e70f3b09c6387d64d460) **Include LISTS.md in commit results step** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`e61227a`](https://github.com/havaianasdestruido/top100/commit/e61227aa541d6345d1d0864e843cb6dbce81b4e0) **data: update top repos data (2026-09-20)** — _github-actions[bot]_ (2026-09-20)
           - [`941015e`](https://github.com/havaianasdestruido/top100/commit/941015ea6dd0be571c10ae5073d9dc005639dc6b) **Implement write_lists_md function for markdown indexing** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
@@ -994,7 +996,6 @@
           - [`0207851`](https://github.com/havaianasdestruido/top100/commit/0207851c9a298ca56a09326f975248ed5d0f867a) **Create README.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`84283a8`](https://github.com/havaianasdestruido/top100/commit/84283a8fd730a005d486bd2ea20ee6980b965ed7) **Rename fetch_top_repos.py to fetch_top_repos.py** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
           - [`6935caf`](https://github.com/havaianasdestruido/top100/commit/6935cafd0583ab45571057fdfeb40999f73e88e3) **Update run.yml** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
-          - [`b380d9a`](https://github.com/havaianasdestruido/top100/commit/b380d9a5fc7d141fdbc6c963b875b53d99195d55) **Create run.yml** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -1016,13 +1017,13 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@github-actions[bot]](https://github.com/apps/github-actions) — 61 commit(s)
+      - [@github-actions[bot]](https://github.com/apps/github-actions) — 62 commit(s)
       - [@havaianasdestruido](https://github.com/havaianasdestruido) — 20 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `HTML` — 93.9% (1,862,131 bytes)
+      - `HTML` — 93.9% (1,862,148 bytes)
       - `Python` — 5.8% (115,745 bytes)
       - `CSS` — 0.2% (4,402 bytes)
 
@@ -1063,6 +1064,46 @@
 
     - ### 👥 Contributors (1)
       - [@havaianasdestruido](https://github.com/havaianasdestruido) — 23 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+
+---
+
+- ## [abnt-skill](https://github.com/havaianasdestruido/abnt-skill)
+  > Uma única skill pra dominar completamente o conjunto Office.
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 1 open issues | 💻 unknown | 📅 Created: 2026-09-29 | 🔄 Updated: 2026-09-29
+
+    - ### 🌿 Branches (2)
+      - [`arena/01a0ef9a-abnt-skill`](https://github.com/havaianasdestruido/abnt-skill/tree/arena/01a0ef9a-abnt-skill) — HEAD: `97bbcb0`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/abnt-skill/commits/arena/01a0ef9a-abnt-skill)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/abnt-skill/commits/arena/01a0ef9a-abnt-skill)
+          - [`97bbcb0`](https://github.com/havaianasdestruido/abnt-skill/commit/97bbcb0343a89e73e3ea84020507162937f43cd0) **Transforma projeto na abnt-skill: comando /abnt sobre skills oficiais (d** — _havaianasdestruido_ (2026-09-30)
+          - [`576a370`](https://github.com/havaianasdestruido/abnt-skill/commit/576a370e8135a8d92f7cb94ca3d4fef1feb3ea65) **Initial commit** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-29)
+      - [`main`](https://github.com/havaianasdestruido/abnt-skill/tree/main) _(default)_ — HEAD: `576a370`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/abnt-skill/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/abnt-skill/commits/main)
+          - [`576a370`](https://github.com/havaianasdestruido/abnt-skill/commit/576a370e8135a8d92f7cb94ca3d4fef1feb3ea65) **Initial commit** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-29)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (1)
+        - 🟢 Open [#1 Transforma projeto na abnt-skill (/abnt sobre skills oficiai](https://github.com/havaianasdestruido/abnt-skill/pull/1) — _arena-ai-coding-agent[bot]_ (2026-09-30) `arena/01a0ef9a-abnt-skill` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`97bbcb0`](https://github.com/havaianasdestruido/abnt-skill/commit/97bbcb0343a89e73e3ea84020507162937f43cd0) Transforma projeto na abnt-skill: comando /abnt sobre skills
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 1 commit(s)
 
     - ### 🏷️ Releases (0)
 
@@ -1669,13 +1710,14 @@
 
 - ## [ClassHub](https://github.com/havaianasdestruido/ClassHub) `🍴 Fork`
   > Sistema de gerenciamento escolar (Projeto da etec)
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 1 open issues | 💻 unknown | 📅 Created: 2026-09-29 | 🔄 Updated: 2026-09-29
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 JavaScript | 📅 Created: 2026-09-29 | 🔄 Updated: 2026-09-30
 
   - 🔗 Forked from: [cavaleiro-olimpioo/ClassHub](https://github.com/cavaleiro-olimpioo/ClassHub)
     - ### 🌿 Branches (2)
-      - [`arena/01a0ee5f-classhub`](https://github.com/havaianasdestruido/ClassHub/tree/arena/01a0ee5f-classhub) — HEAD: `94470ef`
+      - [`arena/01a0ee5f-classhub`](https://github.com/havaianasdestruido/ClassHub/tree/arena/01a0ee5f-classhub) — HEAD: `2666af7`
         - 📋 [All Commits](https://github.com/havaianasdestruido/ClassHub/commits/arena/01a0ee5f-classhub)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/ClassHub/commits/arena/01a0ee5f-classhub)
+          - [`2666af7`](https://github.com/havaianasdestruido/ClassHub/commit/2666af7097e22a05cf6d8772dd71ad44ee2b6c1b) **docs: corrigir Javadoc/JSDoc conforme revisão** — _havaianasdestruido_ (2026-09-30)
           - [`94470ef`](https://github.com/havaianasdestruido/ClassHub/commit/94470ef444bc38677700f6a4681d334f398323a9) **docs: adicionar Javadoc/JSDoc em pt-BR em todo o backend e frontend** — _havaianasdestruido_ (2026-09-29)
           - [`80de9fb`](https://github.com/havaianasdestruido/ClassHub/commit/80de9fbbfe85320c5ad7221fac5967c8c50b4414) **Fix : duplicate items** — _Guilherme Olimpio_ (2026-09-29)
           - [`124b177`](https://github.com/havaianasdestruido/ClassHub/commit/124b1776b58aaa9bc125877f3340b207debd86de) **Merge pull request #3 from cavaleiro-olimpioo/jules-17823585979930567902** — _Guilherme Olimpio_ (2026-09-26)
@@ -1685,8 +1727,8 @@
           - [`054cdef`](https://github.com/havaianasdestruido/ClassHub/commit/054cdef1b1e4a5da34b30cbcc6012bcecb77a4fb) **CreateTheme** — _Guilherme Olimpio_ (2026-09-26)
           - [`c35e317`](https://github.com/havaianasdestruido/ClassHub/commit/c35e3178ea1ceba0af95b546eb7baaec3cc5bfda) **FixFrontendV2** — _Guilherme Olimpio_ (2026-09-26)
           - [`a299c6a`](https://github.com/havaianasdestruido/ClassHub/commit/a299c6ab4c89edde5c50c2ec5442b8a7401b9f54) **FixFrontend** — _Guilherme Olimpio_ (2026-09-26)
-          - [`d259ebe`](https://github.com/havaianasdestruido/ClassHub/commit/d259ebe8556262fc16e6ca4455d5b2e4a5079b78) **themeColorV1** — _aluno_ (2026-09-25)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/ClassHub/commits/arena/01a0ee5f-classhub/?after=84353a172168ec1944caf3beacf0fb6efa207337+34)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/ClassHub/commits/arena/01a0ee5f-classhub/?after=fecc84dabecd3b73ad65f8ba41fc89ae0ddd8339+34)
+          - [`84353a1`](https://github.com/havaianasdestruido/ClassHub/commit/84353a172168ec1944caf3beacf0fb6efa207337) **DocumentModel** — _Guilherme Olimpio_ (2026-09-23)
           - [`f8f32b1`](https://github.com/havaianasdestruido/ClassHub/commit/f8f32b1fc79d14e66362aea7ca005d1776e0ed53) **FixController** — _Guilherme Olimpio_ (2026-09-23)
           - [`76cd8fd`](https://github.com/havaianasdestruido/ClassHub/commit/76cd8fdac2a3b2ce91f8ac4aae8755c7b4272293) **ConnectionApi** — _aluno_ (2026-09-22)
           - [`d17c3f2`](https://github.com/havaianasdestruido/ClassHub/commit/d17c3f241d4c99f851dff23473eef22da39d7ccb) **frontend** — _aluno_ (2026-09-22)
@@ -1696,17 +1738,20 @@
           - [`53ab6b0`](https://github.com/havaianasdestruido/ClassHub/commit/53ab6b0b644428c07b6425923bf34f6c263e4dc7) **DocumentoModel** — _Guilherme Olimpio_ (2026-09-19)
           - [`e18cf85`](https://github.com/havaianasdestruido/ClassHub/commit/e18cf85d57d7c8c9cf81ab980c21f34b3d346f2e) **TurmaModel** — _Guilherme Olimpio_ (2026-09-19)
           - [`fc2e88f`](https://github.com/havaianasdestruido/ClassHub/commit/fc2e88fdfcce9bb730020b6fc2c7f6b1d41ca37b) **DiciplinaModel** — _Guilherme Olimpio_ (2026-09-19)
-          - [`812d03d`](https://github.com/havaianasdestruido/ClassHub/commit/812d03d11cac7f4d7dc3712f8f5bf2ebdfacc499) **AlunoModel** — _Guilherme Olimpio_ (2026-09-19)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/ClassHub/commits/arena/01a0ee5f-classhub/?after=bdfa6590851572c2b027dd4d7c0eb7bcf35807a6+34)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/ClassHub/commits/arena/01a0ee5f-classhub/?after=7a077415b9d5acdfcee576cb470f3dd9c18bf4ce+34)
+          - [`bdfa659`](https://github.com/havaianasdestruido/ClassHub/commit/bdfa6590851572c2b027dd4d7c0eb7bcf35807a6) **Upgrade LoginController** — _Guilherme Olimpio_ (2026-08-18)
           - [`a79512d`](https://github.com/havaianasdestruido/ClassHub/commit/a79512d4ae3f6062daa897da62bdc5ce4caf7d2b) **iniciallize** — _Guilherme Olimpio_ (2026-08-18)
           - [`b69fc42`](https://github.com/havaianasdestruido/ClassHub/commit/b69fc42a6d6373e4eb16eac7a04a8959c263e4d1) **iniciallize** — _Guilherme Olimpio_ (2026-08-18)
           - [`b1a933d`](https://github.com/havaianasdestruido/ClassHub/commit/b1a933d3382e2989412efc31523b5772393b52f3) **iniciallize** — _Guilherme Olimpio_ (2026-08-18)
           - [`e3a0dce`](https://github.com/havaianasdestruido/ClassHub/commit/e3a0dcea4bb64fa00790f6f987baf96bbf7e22a6) **BeginAPI** — _Guilherme Olimpio_ (2026-08-14)
           - [`4b13c79`](https://github.com/havaianasdestruido/ClassHub/commit/4b13c79d16e899d895e631dc7d2f918aec184b15) **Update README.md** — _luizmoraes-dev_ (2026-07-24)
           - [`207563d`](https://github.com/havaianasdestruido/ClassHub/commit/207563d0afe46a083516b7bc7ac6fcf38e5713ff) **Initial commit** — _Guilherme Olimpio_ (2026-05-21)
-      - [`main`](https://github.com/havaianasdestruido/ClassHub/tree/main) _(default)_ — HEAD: `80de9fb`
+      - [`main`](https://github.com/havaianasdestruido/ClassHub/tree/main) _(default)_ — HEAD: `cf70ec3`
         - 📋 [All Commits](https://github.com/havaianasdestruido/ClassHub/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/ClassHub/commits/main)
+          - [`cf70ec3`](https://github.com/havaianasdestruido/ClassHub/commit/cf70ec3359c53042666b3890e8199802e8ea79c4) **Merge pull request #1 from havaianasdestruido/arena/01a0ee5f-classhub** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-30)
+          - [`2666af7`](https://github.com/havaianasdestruido/ClassHub/commit/2666af7097e22a05cf6d8772dd71ad44ee2b6c1b) **docs: corrigir Javadoc/JSDoc conforme revisão** — _havaianasdestruido_ (2026-09-30)
+          - [`94470ef`](https://github.com/havaianasdestruido/ClassHub/commit/94470ef444bc38677700f6a4681d334f398323a9) **docs: adicionar Javadoc/JSDoc em pt-BR em todo o backend e frontend** — _havaianasdestruido_ (2026-09-29)
           - [`80de9fb`](https://github.com/havaianasdestruido/ClassHub/commit/80de9fbbfe85320c5ad7221fac5967c8c50b4414) **Fix : duplicate items** — _Guilherme Olimpio_ (2026-09-29)
           - [`124b177`](https://github.com/havaianasdestruido/ClassHub/commit/124b1776b58aaa9bc125877f3340b207debd86de) **Merge pull request #3 from cavaleiro-olimpioo/jules-17823585979930567902** — _Guilherme Olimpio_ (2026-09-26)
           - [`5a51802`](https://github.com/havaianasdestruido/ClassHub/commit/5a51802fb43c7fb6d32723b13f005090b197cbad) **fix: Rebuild frontend dist assets** — _google-labs-jules[bot]_ (2026-09-26)
@@ -1714,10 +1759,10 @@
           - [`7acc003`](https://github.com/havaianasdestruido/ClassHub/commit/7acc0038387c9cfd9b5456f72a5fadd6c719686d) **login** — _Guilherme Olimpio_ (2026-09-26)
           - [`054cdef`](https://github.com/havaianasdestruido/ClassHub/commit/054cdef1b1e4a5da34b30cbcc6012bcecb77a4fb) **CreateTheme** — _Guilherme Olimpio_ (2026-09-26)
           - [`c35e317`](https://github.com/havaianasdestruido/ClassHub/commit/c35e3178ea1ceba0af95b546eb7baaec3cc5bfda) **FixFrontendV2** — _Guilherme Olimpio_ (2026-09-26)
-          - [`a299c6a`](https://github.com/havaianasdestruido/ClassHub/commit/a299c6ab4c89edde5c50c2ec5442b8a7401b9f54) **FixFrontend** — _Guilherme Olimpio_ (2026-09-26)
-          - [`d259ebe`](https://github.com/havaianasdestruido/ClassHub/commit/d259ebe8556262fc16e6ca4455d5b2e4a5079b78) **themeColorV1** — _aluno_ (2026-09-25)
-          - [`44837e3`](https://github.com/havaianasdestruido/ClassHub/commit/44837e3fc585bdcb980e8c64acbe2cce82dfec8b) **ReactFrontend** — _aluno_ (2026-09-25)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/ClassHub/commits/main/?after=f8f32b1fc79d14e66362aea7ca005d1776e0ed53+34)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/ClassHub/commits/main/?after=bdab58ea657f8750c210df4a1d54fc92c1e2d750+34)
+          - [`fecc84d`](https://github.com/havaianasdestruido/ClassHub/commit/fecc84dabecd3b73ad65f8ba41fc89ae0ddd8339) **DockerFiles** — _Guilherme Olimpio_ (2026-09-23)
+          - [`84353a1`](https://github.com/havaianasdestruido/ClassHub/commit/84353a172168ec1944caf3beacf0fb6efa207337) **DocumentModel** — _Guilherme Olimpio_ (2026-09-23)
+          - [`f8f32b1`](https://github.com/havaianasdestruido/ClassHub/commit/f8f32b1fc79d14e66362aea7ca005d1776e0ed53) **FixController** — _Guilherme Olimpio_ (2026-09-23)
           - [`76cd8fd`](https://github.com/havaianasdestruido/ClassHub/commit/76cd8fdac2a3b2ce91f8ac4aae8755c7b4272293) **ConnectionApi** — _aluno_ (2026-09-22)
           - [`d17c3f2`](https://github.com/havaianasdestruido/ClassHub/commit/d17c3f241d4c99f851dff23473eef22da39d7ccb) **frontend** — _aluno_ (2026-09-22)
           - [`f391c6c`](https://github.com/havaianasdestruido/ClassHub/commit/f391c6c2b555b541059eda1cbf42d2f759d5f3f9) **Relacionamentos** — _Guilherme Olimpio_ (2026-09-19)
@@ -1725,10 +1770,10 @@
           - [`131901a`](https://github.com/havaianasdestruido/ClassHub/commit/131901a57f943c92cd727bbf585ce4d353525e46) **ResponsavelModel** — _Guilherme Olimpio_ (2026-09-19)
           - [`53ab6b0`](https://github.com/havaianasdestruido/ClassHub/commit/53ab6b0b644428c07b6425923bf34f6c263e4dc7) **DocumentoModel** — _Guilherme Olimpio_ (2026-09-19)
           - [`e18cf85`](https://github.com/havaianasdestruido/ClassHub/commit/e18cf85d57d7c8c9cf81ab980c21f34b3d346f2e) **TurmaModel** — _Guilherme Olimpio_ (2026-09-19)
-          - [`fc2e88f`](https://github.com/havaianasdestruido/ClassHub/commit/fc2e88fdfcce9bb730020b6fc2c7f6b1d41ca37b) **DiciplinaModel** — _Guilherme Olimpio_ (2026-09-19)
-          - [`812d03d`](https://github.com/havaianasdestruido/ClassHub/commit/812d03d11cac7f4d7dc3712f8f5bf2ebdfacc499) **AlunoModel** — _Guilherme Olimpio_ (2026-09-19)
-          - [`2fe22de`](https://github.com/havaianasdestruido/ClassHub/commit/2fe22de328346bf152357cc8424e6c6f718ffcfa) **FuncionarioModel** — _Guilherme Olimpio_ (2026-09-17)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/ClassHub/commits/main/?after=a79512d4ae3f6062daa897da62bdc5ce4caf7d2b+34)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/ClassHub/commits/main/?after=1b8d71ea581ac8a8290883a50b520a921bed36aa+34)
+          - [`7a07741`](https://github.com/havaianasdestruido/ClassHub/commit/7a077415b9d5acdfcee576cb470f3dd9c18bf4ce) **Merge branch 'main' of https://github.com/cavaleiro-olimpioo/ClassHub** — _Guilherme Olimpio_ (2026-08-19)
+          - [`bdfa659`](https://github.com/havaianasdestruido/ClassHub/commit/bdfa6590851572c2b027dd4d7c0eb7bcf35807a6) **Upgrade LoginController** — _Guilherme Olimpio_ (2026-08-18)
+          - [`a79512d`](https://github.com/havaianasdestruido/ClassHub/commit/a79512d4ae3f6062daa897da62bdc5ce4caf7d2b) **iniciallize** — _Guilherme Olimpio_ (2026-08-18)
           - [`b69fc42`](https://github.com/havaianasdestruido/ClassHub/commit/b69fc42a6d6373e4eb16eac7a04a8959c263e4d1) **iniciallize** — _Guilherme Olimpio_ (2026-08-18)
           - [`b1a933d`](https://github.com/havaianasdestruido/ClassHub/commit/b1a933d3382e2989412efc31523b5772393b52f3) **iniciallize** — _Guilherme Olimpio_ (2026-08-18)
           - [`e3a0dce`](https://github.com/havaianasdestruido/ClassHub/commit/e3a0dcea4bb64fa00790f6f987baf96bbf7e22a6) **BeginAPI** — _Guilherme Olimpio_ (2026-08-14)
@@ -1740,11 +1785,12 @@
       - **Closed Issues** (0)
 
     - ### 🔀 Pull Requests
-      - **Open PRs** (1)
-        - 🟢 Open [#1 docs: adicionar Javadoc/JSDoc em português (backend e fronte](https://github.com/havaianasdestruido/ClassHub/pull/1) — _arena-ai-coding-agent[bot]_ (2026-09-29) `arena/01a0ee5f-classhub` → `main`
-          - 📝 1 commit(s) in this PR
+      - **Open PRs** (0)
+      - **Closed PRs** (1)
+        - ✅ Merged [#1 docs: adicionar Javadoc/JSDoc em português (backend e fronte](https://github.com/havaianasdestruido/ClassHub/pull/1) — _arena-ai-coding-agent[bot]_ (2026-09-29) `arena/01a0ee5f-classhub` → `main`
+          - 📝 2 commit(s) in this PR
             - [`94470ef`](https://github.com/havaianasdestruido/ClassHub/commit/94470ef444bc38677700f6a4681d334f398323a9) docs: adicionar Javadoc/JSDoc em pt-BR em todo o backend e f
-      - **Closed PRs** (0)
+            - [`2666af7`](https://github.com/havaianasdestruido/ClassHub/commit/2666af7097e22a05cf6d8772dd71ad44ee2b6c1b) docs: corrigir Javadoc/JSDoc conforme revisão
 
     - ### 🍴 Forks (0)
 
@@ -1752,22 +1798,23 @@
 
     - ### 👀 Watchers / Subscribers (0)
 
-    - ### 👥 Contributors (4)
+    - ### 👥 Contributors (5)
       - [@cavaleiro-olimpioo](https://github.com/cavaleiro-olimpioo) — 63 commit(s)
       - [@thiagoolisilva902-creator](https://github.com/thiagoolisilva902-creator) — 4 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 3 commit(s)
       - [@google-labs-jules[bot]](https://github.com/apps/google-labs-jules) — 1 commit(s)
       - [@luizmoraes-dev](https://github.com/luizmoraes-dev) — 1 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `JavaScript` — 55.0% (209,600 bytes)
-      - `Java` — 36.6% (139,442 bytes)
-      - `CSS` — 7.5% (28,568 bytes)
-      - `Shell` — 0.3% (1,267 bytes)
+      - `JavaScript` — 49.8% (257,812 bytes)
+      - `Java` — 43.9% (227,245 bytes)
+      - `CSS` — 5.5% (28,568 bytes)
+      - `Shell` — 0.2% (1,267 bytes)
+      - `Python` — 0.2% (1,148 bytes)
       - `Dockerfile` — 0.2% (932 bytes)
       - `HTML` — 0.2% (889 bytes)
-      - `Python` — 0.2% (705 bytes)
 
 ---
 
@@ -5964,7 +6011,7 @@
 ### Followers (7)
 
 - [@ishandutta2007](https://github.com/ishandutta2007)
-  - 📦 3575 public repos | 👥 follows 36867 people
+  - 📦 3591 public repos | 👥 follows 36765 people
 - [@moxie-coder](https://github.com/moxie-coder)
   - 📦 221 public repos | 👥 follows 1651 people
 - [@Okafor-twd](https://github.com/Okafor-twd)
@@ -5978,7 +6025,7 @@
 - [@ancaferro](https://github.com/ancaferro)
   - 📦 4 public repos | 👥 follows 15648 people
 
-### Following (21)
+### Following (23)
 
 - [@metabrainz](https://github.com/metabrainz)
 - [@google](https://github.com/google)
@@ -6000,10 +6047,13 @@
 - [@MiniMax-AI](https://github.com/MiniMax-AI)
 - [@andrewexec](https://github.com/andrewexec)
 - [@tamandua2123123123](https://github.com/tamandua2123123123)
+- [@thiagoolisilva902-creator](https://github.com/thiagoolisilva902-creator)
 - [@arena-agent](https://github.com/arena-agent)
+- [@luizmoraes-dev](https://github.com/luizmoraes-dev)
 
-### ⭐ Repos Starred by @havaianasdestruido (140)
+### ⭐ Repos Starred by @havaianasdestruido (141)
 
+- [cavaleiro-olimpioo/ClassHub](https://github.com/cavaleiro-olimpioo/ClassHub) — _Sistema de gerenciamento escolar (Projeto da etec)_
 - [Purfview/whisper-standalone-win](https://github.com/Purfview/whisper-standalone-win) — _Whisper & Faster-Whisper standalone executables for those wh_
 - [openai/whisper](https://github.com/openai/whisper) — _Robust Speech Recognition via Large-Scale Weak Supervision_
 - [H21lab/Cubes-Live-Wallpaper](https://github.com/H21lab/Cubes-Live-Wallpaper) — _Android Live Wallpaper. The application renders 3D cubes wit_
@@ -6146,4 +6196,4 @@
 - [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit) — _iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objec_
 
 ---
-_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-29 23:16:31 UTC_
+_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-09-30 03:00:08 UTC_

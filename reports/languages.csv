@@ -18,7 +18,7 @@ pong-pop,CSS,687,7.1
 PrintSpoolerAutoRun,C++,3652,95.2
 PrintSpoolerAutoRun,Batchfile,184,4.8
 sitemapping,Python,29474,100.0
-top100,HTML,1862131,93.9
+top100,HTML,1862148,93.9
 top100,Python,115745,5.8
 top100,CSS,4402,0.2
 aisearchhelpers,TypeScript,150428,99.0
@@ -40,13 +40,13 @@ calculator,PowerShell,6830,0.5
 calculator,Shell,4448,0.3
 calculator,TypeScript,1509,0.1
 calculator,HTML,1170,0.1
-ClassHub,JavaScript,209600,55.0
-ClassHub,Java,139442,36.6
-ClassHub,CSS,28568,7.5
-ClassHub,Shell,1267,0.3
+ClassHub,JavaScript,257812,49.8
+ClassHub,Java,227245,43.9
+ClassHub,CSS,28568,5.5
+ClassHub,Shell,1267,0.2
+ClassHub,Python,1148,0.2
 ClassHub,Dockerfile,932,0.2
 ClassHub,HTML,889,0.2
-ClassHub,Python,705,0.2
 dadosabertos,Python,179496,73.8
 dadosabertos,HTML,63794,26.2
 EZInfiniteYTLive,C#,7795,100.0
