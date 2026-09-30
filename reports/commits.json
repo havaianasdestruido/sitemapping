@@ -3261,6 +3261,146 @@
   },
   {
     "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c9-hemorroidabot",
+    "sha": "de0a86a681d76c55fb52874d9b5448e3d073e9e9",
+    "sha_short": "de0a86a",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T14:51:07Z",
+    "message": "feat: add plain-html-ui Claude Code skill for brutalist css-less frontends",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/de0a86a681d76c55fb52874d9b5448e3d073e9e9"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c9-hemorroidabot",
+    "sha": "cc139c32d908286b91eb90aaead2b97357439d2e",
+    "sha_short": "cc139c3",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:11:24Z",
+    "message": "Merge pull request #1 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/cc139c32d908286b91eb90aaead2b97357439d2e"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c9-hemorroidabot",
+    "sha": "cd9d3a4cb8cfba04d223444136fbb44201920079",
+    "sha_short": "cd9d3a4",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:11:13Z",
+    "message": "Merge pull request #2 from havaianasdestruido/codex/add-i18n.js-with-pt-br-and-en-support",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/cd9d3a4cb8cfba04d223444136fbb44201920079"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c9-hemorroidabot",
+    "sha": "9611bd3a2e82b786aaaac0fa3435b1d1556fb5a3",
+    "sha_short": "9611bd3",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:06:45Z",
+    "message": "Add pt-BR and en-US i18n support",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/9611bd3a2e82b786aaaac0fa3435b1d1556fb5a3"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c9-hemorroidabot",
+    "sha": "3e1ca17c7c253eb867249a6c0c014b46e5285c4d",
+    "sha_short": "3e1ca17",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T01:10:09Z",
+    "message": "Set imgbot schedule to weekly",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/3e1ca17c7c253eb867249a6c0c014b46e5285c4d"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c9-hemorroidabot",
+    "sha": "01192ecb6b21eab290172910a228fdfde0c1321a",
+    "sha_short": "01192ec",
+    "author": "ImgBotApp",
+    "date": "2026-09-21T00:38:28Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/01192ecb6b21eab290172910a228fdfde0c1321a"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c9-hemorroidabot",
+    "sha": "f20a3a3d5c8a27d6de96b330220f6f2cf915bb6f",
+    "sha_short": "f20a3a3",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:07Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/f20a3a3d5c8a27d6de96b330220f6f2cf915bb6f"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c9-hemorroidabot",
+    "sha": "9a0fd54c6724560c6d812f0f7ba73955bc99a9d0",
+    "sha_short": "9a0fd54",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:21Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/9a0fd54c6724560c6d812f0f7ba73955bc99a9d0"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c9-hemorroidabot",
+    "sha": "28d159df5022b5ed42fd9eb1b33350a338acce45",
+    "sha_short": "28d159d",
+    "author": "Pato (new acc)",
+    "date": "2026-09-18T00:33:47Z",
+    "message": "Create LICENSE",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/28d159df5022b5ed42fd9eb1b33350a338acce45"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c9-hemorroidabot",
+    "sha": "4931d3f19a587d139383c21f986707dd4cc8187d",
+    "sha_short": "4931d3f",
+    "author": "havaianasdestruido",
+    "date": "2026-09-18T00:19:05Z",
+    "message": "docs(agents): adiciona AGENTS.md canonico (fonte unica) + ponteiros CLAUDE.md/AI.md",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/4931d3f19a587d139383c21f986707dd4cc8187d"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c9-hemorroidabot",
+    "sha": "912ac63f0cf0208846e70467abffceea56972f19",
+    "sha_short": "912ac63",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T17:52:41Z",
+    "message": "refactor: plain HTML only, zero CSS, no styles",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/912ac63f0cf0208846e70467abffceea56972f19"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c9-hemorroidabot",
+    "sha": "9ac7029ebaea7c18fabe2ef6e8d015f0d43e4bc8",
+    "sha_short": "9ac7029",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T17:50:56Z",
+    "message": "docs: use bullet points instead of numbered list, fix duplicate Lyrics.ovh entry",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/9ac7029ebaea7c18fabe2ef6e8d015f0d43e4bc8"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c9-hemorroidabot",
+    "sha": "29de305cebf5069ce729544ff6f03fa96ab4862c",
+    "sha_short": "29de305",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T17:48:54Z",
+    "message": "feat: initial prototype with chat UI and API registry",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/29de305cebf5069ce729544ff6f03fa96ab4862c"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c9-hemorroidabot",
+    "sha": "3acda7f77573de3f84a21f8f4e9584e856e2b65f",
+    "sha_short": "3acda7f",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T17:47:49Z",
+    "message": "docs: add API difficulty ratings with colored ball indicators",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/3acda7f77573de3f84a21f8f4e9584e856e2b65f"
+  },
+  {
+    "repo": "hemorroidabot",
     "branch": "codex/add-i18n.js-with-pt-br-and-en-support",
     "sha": "9611bd3a2e82b786aaaac0fa3435b1d1556fb5a3",
     "sha_short": "9611bd3",
@@ -3588,6 +3728,106 @@
     "date": "2026-09-18T00:38:10Z",
     "message": "feat: PersonaDB v1 — esquema, engines, seeds e geradores 00-02",
     "url": "https://github.com/havaianasdestruido/PersonaDB/commit/513a5cc62d582862fdcd26417b3b9a3da878c876"
+  },
+  {
+    "repo": "PersonaDB",
+    "branch": "arena/01a0ee67-personadb",
+    "sha": "74b770393f7b8d47d726300fc7506ffc35bd86c2",
+    "sha_short": "74b7703",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T11:23:16Z",
+    "message": "feat: implement all 25 domain generators, consistency validators, docs, and tests",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/74b770393f7b8d47d726300fc7506ffc35bd86c2"
+  },
+  {
+    "repo": "PersonaDB",
+    "branch": "arena/01a0ee67-personadb",
+    "sha": "354f19241b6f3d1a28d9a905e20df44149d7eb5f",
+    "sha_short": "354f192",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-29T18:21:07Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/01a0ee4c-personadb",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/354f19241b6f3d1a28d9a905e20df44149d7eb5f"
+  },
+  {
+    "repo": "PersonaDB",
+    "branch": "arena/01a0ee67-personadb",
+    "sha": "16a3ec6dc66c93c2e108b88e631e671e1d33b8e6",
+    "sha_short": "16a3ec6",
+    "author": "havaianasdestruido",
+    "date": "2026-09-29T18:11:52Z",
+    "message": "Fix project Ruff lint findings",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/16a3ec6dc66c93c2e108b88e631e671e1d33b8e6"
+  },
+  {
+    "repo": "PersonaDB",
+    "branch": "arena/01a0ee67-personadb",
+    "sha": "6144e24cbdb31257067696ee148be9993d997fdd",
+    "sha_short": "6144e24",
+    "author": "havaianasdestruido",
+    "date": "2026-09-29T18:08:11Z",
+    "message": "Address review feedback for data utilities",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/6144e24cbdb31257067696ee148be9993d997fdd"
+  },
+  {
+    "repo": "PersonaDB",
+    "branch": "arena/01a0ee67-personadb",
+    "sha": "67921f8f8af5e8ff7c52077400e33dd7ae7d7926",
+    "sha_short": "67921f8",
+    "author": "havaianasdestruido",
+    "date": "2026-09-29T17:54:34Z",
+    "message": "Add dataset loading and export utilities",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/67921f8f8af5e8ff7c52077400e33dd7ae7d7926"
+  },
+  {
+    "repo": "PersonaDB",
+    "branch": "arena/01a0ee67-personadb",
+    "sha": "9b630776680db0ef4bcdd0493413ebbc61b467f3",
+    "sha_short": "9b63077",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-25T19:36:03Z",
+    "message": "Merge pull request #1 from havaianasdestruido/codex/finalize-remaining-work-to-100%",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/9b630776680db0ef4bcdd0493413ebbc61b467f3"
+  },
+  {
+    "repo": "PersonaDB",
+    "branch": "arena/01a0ee67-personadb",
+    "sha": "4ec345a922409f39ba7b19c272e31f86955b9ef5",
+    "sha_short": "4ec345a",
+    "author": "coderabbitai[bot]",
+    "date": "2026-09-24T13:05:27Z",
+    "message": "Add docstrings for dataset generation, benchmarking, and validation",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/4ec345a922409f39ba7b19c272e31f86955b9ef5"
+  },
+  {
+    "repo": "PersonaDB",
+    "branch": "arena/01a0ee67-personadb",
+    "sha": "425af85dc6162210ee0902889f905ab89c9591a1",
+    "sha_short": "425af85",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-24T12:44:57Z",
+    "message": "Add deterministic generation pipeline tooling",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/425af85dc6162210ee0902889f905ab89c9591a1"
+  },
+  {
+    "repo": "PersonaDB",
+    "branch": "arena/01a0ee67-personadb",
+    "sha": "83ecbe73cdc1d91729a1ed981e44f23f4dcb69db",
+    "sha_short": "83ecbe7",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T01:10:22Z",
+    "message": "Set imgbot schedule to weekly",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/83ecbe73cdc1d91729a1ed981e44f23f4dcb69db"
+  },
+  {
+    "repo": "PersonaDB",
+    "branch": "arena/01a0ee67-personadb",
+    "sha": "cb53c24e403668ec5dcc9eb81ced2178936dd037",
+    "sha_short": "cb53c24",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:11Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/cb53c24e403668ec5dcc9eb81ced2178936dd037"
   },
   {
     "repo": "PersonaDB",
@@ -4332,6 +4572,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "1e44d471cddb8fe37676cf595053ac187c64f48a",
+    "sha_short": "1e44d47",
+    "author": "GitHub Action Bot",
+    "date": "2026-09-30T10:11:23Z",
+    "message": "📊 [2026-09-30 10:11:23 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/1e44d471cddb8fe37676cf595053ac187c64f48a"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "e220b3be8bd72f2abdfc4e0882ee2c1fe32752c8",
     "sha_short": "e220b3b",
     "author": "GitHub Action Bot",
@@ -4422,12 +4672,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "7c8b61b6b22d501a3adaebf44c1217a443b036b9",
-    "sha_short": "7c8b61b",
+    "sha": "dd65ed4d9bf4b0aaac4f90c027096570b117ad2b",
+    "sha_short": "dd65ed4",
     "author": "GitHub Action Bot",
-    "date": "2026-09-27T16:05:10Z",
-    "message": "📊 [2026-09-27 16:05:10 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/7c8b61b6b22d501a3adaebf44c1217a443b036b9"
+    "date": "2026-09-22T02:31:36Z",
+    "message": "📊 [2026-09-22 02:31:36 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/dd65ed4d9bf4b0aaac4f90c027096570b117ad2b"
   },
   {
     "repo": "sitemapping",
@@ -4522,12 +4772,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "ecdd6b7a1a940356aea4019a438490d4e44adcdf",
-    "sha_short": "ecdd6b7",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-20T20:46:50Z",
-    "message": "📊 [2026-09-20 20:46:50 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/ecdd6b7a1a940356aea4019a438490d4e44adcdf"
+    "sha": "8a1dfa511cb32299f8904cc067d3a506bb6a3b04",
+    "sha_short": "8a1dfa5",
+    "author": "Pato (new acc)",
+    "date": "2026-09-13T20:22:56Z",
+    "message": "now it runs daily",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/8a1dfa511cb32299f8904cc067d3a506bb6a3b04"
   },
   {
     "repo": "sitemapping",
@@ -4622,6 +4872,16 @@
   {
     "repo": "top100",
     "branch": "main",
+    "sha": "aaaa7faa6be6f92432563e82913aa3644f5d4b49",
+    "sha_short": "aaaa7fa",
+    "author": "github-actions[bot]",
+    "date": "2026-09-30T14:21:57Z",
+    "message": "data: update top repos data (2026-09-30 14:21 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/aaaa7faa6be6f92432563e82913aa3644f5d4b49"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
     "sha": "c26319f2bef9c324b1790ec08015c36716a21271",
     "sha_short": "c26319f",
     "author": "github-actions[bot]",
@@ -4712,12 +4972,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "7621860dee31fb445b9a73b05797dea9ce9c5476",
-    "sha_short": "7621860",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-28T17:57:47Z",
-    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0e7f2-top100",
-    "url": "https://github.com/havaianasdestruido/top100/commit/7621860dee31fb445b9a73b05797dea9ce9c5476"
+    "sha": "c77c725e036073ecc4b785a94f9a9a791731f561",
+    "sha_short": "c77c725",
+    "author": "github-actions[bot]",
+    "date": "2026-09-24T19:33:27Z",
+    "message": "data: update top repos data (2026-09-24)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/c77c725e036073ecc4b785a94f9a9a791731f561"
   },
   {
     "repo": "top100",
@@ -4812,12 +5072,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "a00f89773edcb92b1c5609042b68dc1e18fd48aa",
-    "sha_short": "a00f897",
-    "author": "github-actions[bot]",
-    "date": "2026-09-22T23:20:22Z",
-    "message": "data: update top repos data (2026-09-22)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/a00f89773edcb92b1c5609042b68dc1e18fd48aa"
+    "sha": "2723f0f56f61ee64dcf59100cf8524c93769b885",
+    "sha_short": "2723f0f",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T19:54:16Z",
+    "message": "Update cron schedule to run every hour",
+    "url": "https://github.com/havaianasdestruido/top100/commit/2723f0f56f61ee64dcf59100cf8524c93769b885"
   },
   {
     "repo": "top100",
@@ -4908,16 +5168,6 @@
     "date": "2026-09-20T19:29:46Z",
     "message": "Create README.md",
     "url": "https://github.com/havaianasdestruido/top100/commit/0207851c9a298ca56a09326f975248ed5d0f867a"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "84283a8fd730a005d486bd2ea20ee6980b965ed7",
-    "sha_short": "84283a8",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:28:02Z",
-    "message": "Rename fetch_top_repos.py to fetch_top_repos.py",
-    "url": "https://github.com/havaianasdestruido/top100/commit/84283a8fd730a005d486bd2ea20ee6980b965ed7"
   },
   {
     "repo": ".github",
@@ -5022,6 +5272,16 @@
   {
     "repo": "abnt-skill",
     "branch": "arena/01a0ef9a-abnt-skill",
+    "sha": "a4d0723375c0d8d8c6b871f3a13f6ea507cf6752",
+    "sha_short": "a4d0723",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T11:28:04Z",
+    "message": "Aplica revisao: precisao ABNT, checklist duplex, limite Access, parser fail-closed",
+    "url": "https://github.com/havaianasdestruido/abnt-skill/commit/a4d0723375c0d8d8c6b871f3a13f6ea507cf6752"
+  },
+  {
+    "repo": "abnt-skill",
+    "branch": "arena/01a0ef9a-abnt-skill",
     "sha": "97bbcb0343a89e73e3ea84020507162937f43cd0",
     "sha_short": "97bbcb0",
     "author": "havaianasdestruido",
@@ -5038,6 +5298,36 @@
     "date": "2026-09-29T23:56:53Z",
     "message": "Initial commit",
     "url": "https://github.com/havaianasdestruido/abnt-skill/commit/576a370e8135a8d92f7cb94ca3d4fef1feb3ea65"
+  },
+  {
+    "repo": "abnt-skill",
+    "branch": "main",
+    "sha": "04dc0fdc97738b5afb8a452d8a80ff43f0cb57af",
+    "sha_short": "04dc0fd",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-30T11:30:36Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0ef9a-abnt-skill",
+    "url": "https://github.com/havaianasdestruido/abnt-skill/commit/04dc0fdc97738b5afb8a452d8a80ff43f0cb57af"
+  },
+  {
+    "repo": "abnt-skill",
+    "branch": "main",
+    "sha": "a4d0723375c0d8d8c6b871f3a13f6ea507cf6752",
+    "sha_short": "a4d0723",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T11:28:04Z",
+    "message": "Aplica revisao: precisao ABNT, checklist duplex, limite Access, parser fail-closed",
+    "url": "https://github.com/havaianasdestruido/abnt-skill/commit/a4d0723375c0d8d8c6b871f3a13f6ea507cf6752"
+  },
+  {
+    "repo": "abnt-skill",
+    "branch": "main",
+    "sha": "97bbcb0343a89e73e3ea84020507162937f43cd0",
+    "sha_short": "97bbcb0",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T00:09:14Z",
+    "message": "Transforma projeto na abnt-skill: comando /abnt sobre skills oficiais (docx/pdf/pptx/xlsx)",
+    "url": "https://github.com/havaianasdestruido/abnt-skill/commit/97bbcb0343a89e73e3ea84020507162937f43cd0"
   },
   {
     "repo": "abnt-skill",
@@ -12088,6 +12378,116 @@
     "date": "2026-09-24T17:17:50Z",
     "message": "chore(env): configura variáveis de ambiente por ambiente",
     "url": "https://github.com/havaianasdestruido/KaukaMed/commit/52d1c76139eab0a989925c774ed33817ccc67967"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0ee6c-kaukamed",
+    "sha": "aeed028f6dae5f527abc703ac09670243a075972",
+    "sha_short": "aeed028",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T12:10:04Z",
+    "message": "chore(deploy): a mensagem do guard de chaves cita a Publishable key",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/aeed028f6dae5f527abc703ac09670243a075972"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0ee6c-kaukamed",
+    "sha": "f5d94597dd4c67604634e0cd15a6194fa6c027b9",
+    "sha_short": "f5d9459",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T12:02:48Z",
+    "message": "feat(web): mensagem própria para a falta de GRANT na tabela",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/f5d94597dd4c67604634e0cd15a6194fa6c027b9"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0ee6c-kaukamed",
+    "sha": "67e551c25ce0f7e22f3a941c11b4a4c839affab5",
+    "sha_short": "67e551c",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T12:00:25Z",
+    "message": "fix(deploy): aceita a chave publishable do Supabase no preflight e nos textos",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/67e551c25ce0f7e22f3a941c11b4a4c839affab5"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0ee6c-kaukamed",
+    "sha": "742d8fc313244d4471df81249bbfbd3c77f6c743",
+    "sha_short": "742d8fc",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T11:56:44Z",
+    "message": "fix(db): privilégios de tabela explícitos; o CI passa a emular o Supabase novo",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/742d8fc313244d4471df81249bbfbd3c77f6c743"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0ee6c-kaukamed",
+    "sha": "118e8138a886d0b5611d3645b25bed7b8906a593",
+    "sha_short": "118e813",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T11:48:56Z",
+    "message": "ci: fixa os runners em ubuntu-24.04",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/118e8138a886d0b5611d3645b25bed7b8906a593"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0ee6c-kaukamed",
+    "sha": "36ea3cce9b949c6d3ae4a8fcce439057356acb9c",
+    "sha_short": "36ea3cc",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T11:45:56Z",
+    "message": "docs: atualiza a validação da entrega e o backlog de front-end",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/36ea3cce9b949c6d3ae4a8fcce439057356acb9c"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0ee6c-kaukamed",
+    "sha": "d7d759f4e91c2c4833bcf3a393118b0888ce6b36",
+    "sha_short": "d7d759f",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T11:45:53Z",
+    "message": "test(web): cobre recuperação de senha e restauração de sessão; erros da troca de senha em português",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/d7d759f4e91c2c4833bcf3a393118b0888ce6b36"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0ee6c-kaukamed",
+    "sha": "fee5957a376d7b091ad30693fdf021eca7a1a3db",
+    "sha_short": "fee5957",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T11:45:43Z",
+    "message": "fix(web): papel com acento, cabeçalho sem estouro no celular e volta ao topo ao trocar de tela",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/fee5957a376d7b091ad30693fdf021eca7a1a3db"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0ee6c-kaukamed",
+    "sha": "99efb7b3e2aa219d862000f5bedfd6902f575f6a",
+    "sha_short": "99efb7b",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T11:25:34Z",
+    "message": "docs: Entrega 1 (ENTREGA-V1), FRONTEND, README, TASKS, TODO e docs/tasks",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/99efb7b3e2aa219d862000f5bedfd6902f575f6a"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0ee6c-kaukamed",
+    "sha": "e7d93327cca5899116e035abcea0eb4d00b3dd50",
+    "sha_short": "e7d9332",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T11:25:29Z",
+    "message": "docs(db): README do banco, scripts db:test/db:seed e compose com 00-04",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/e7d93327cca5899116e035abcea0eb4d00b3dd50"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0ee6c-kaukamed",
+    "sha": "31865a117a6a1a16f412615b2e19e7aa5d09bb14",
+    "sha_short": "31865a1",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-24T16:39:53Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/31865a117a6a1a16f412615b2e19e7aa5d09bb14"
   },
   {
     "repo": "KaukaMed",

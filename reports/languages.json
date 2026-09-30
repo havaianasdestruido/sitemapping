@@ -116,7 +116,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 1862237,
+    "bytes": 1862239,
     "percent": 93.9
   },
   {
@@ -130,6 +130,12 @@
     "language": "CSS",
     "bytes": 4402,
     "percent": 0.2
+  },
+  {
+    "repo": "abnt-skill",
+    "language": "Python",
+    "bytes": 14862,
+    "percent": 100.0
   },
   {
     "repo": "aisearchhelpers",

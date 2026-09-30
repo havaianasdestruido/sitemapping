@@ -409,6 +409,14 @@
   },
   {
     "repo": "hemorroidabot",
+    "pr_number": 3,
+    "sha": "de0a86a681d76c55fb52874d9b5448e3d073e9e9",
+    "sha_short": "de0a86a",
+    "message": "feat: add plain-html-ui Claude Code skill for brutalist css-less frontends",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/de0a86a681d76c55fb52874d9b5448e3d073e9e9"
+  },
+  {
+    "repo": "hemorroidabot",
     "pr_number": 2,
     "sha": "9611bd3a2e82b786aaaac0fa3435b1d1556fb5a3",
     "sha_short": "9611bd3",
@@ -422,6 +430,14 @@
     "sha_short": "01192ec",
     "message": "[ImgBot] Optimize images",
     "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/01192ecb6b21eab290172910a228fdfde0c1321a"
+  },
+  {
+    "repo": "PersonaDB",
+    "pr_number": 4,
+    "sha": "74b770393f7b8d47d726300fc7506ffc35bd86c2",
+    "sha_short": "74b7703",
+    "message": "feat: implement all 25 domain generators, consistency validators, docs, and tests",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/74b770393f7b8d47d726300fc7506ffc35bd86c2"
   },
   {
     "repo": "PersonaDB",
@@ -518,6 +534,14 @@
     "sha_short": "97bbcb0",
     "message": "Transforma projeto na abnt-skill: comando /abnt sobre skills oficiais (docx/pdf/pptx/xlsx)",
     "url": "https://github.com/havaianasdestruido/abnt-skill/commit/97bbcb0343a89e73e3ea84020507162937f43cd0"
+  },
+  {
+    "repo": "abnt-skill",
+    "pr_number": 1,
+    "sha": "a4d0723375c0d8d8c6b871f3a13f6ea507cf6752",
+    "sha_short": "a4d0723",
+    "message": "Aplica revisao: precisao ABNT, checklist duplex, limite Access, parser fail-closed",
+    "url": "https://github.com/havaianasdestruido/abnt-skill/commit/a4d0723375c0d8d8c6b871f3a13f6ea507cf6752"
   },
   {
     "repo": "AudioTaste",
@@ -782,6 +806,46 @@
     "sha_short": "7b5cb88",
     "message": "docs: add Git installation tutorials for OS platforms",
     "url": "https://github.com/havaianasdestruido/gitgithub/commit/7b5cb88ce47a6367a08c9edcfa140e6c9022d068"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 4,
+    "sha": "aaa20a96d1582ff11508d38f6f2ccc14670e01a7",
+    "sha_short": "aaa20a9",
+    "message": "feat(web): substitui esqueleto Next.js pelo front-end OdontoAura (Vite + React) ligado ao Supabase",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/aaa20a96d1582ff11508d38f6f2ccc14670e01a7"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 4,
+    "sha": "0d7603161b8e5104d1d6779f7a3145e10bb10b29",
+    "sha_short": "0d76031",
+    "message": "Fix CodeRabbit issues in PR #2",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/0d7603161b8e5104d1d6779f7a3145e10bb10b29"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 4,
+    "sha": "abab0c799e0ac198887822cf6a9805bccef00bdc",
+    "sha_short": "abab0c7",
+    "message": "Merge branch 'arena/01a0d488-kaukamed' (PR #2): front-end OdontoAura (Vite + React)",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/abab0c799e0ac198887822cf6a9805bccef00bdc"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 4,
+    "sha": "1e9bc1decafb8c71d3a008732906992ea590ac8d",
+    "sha_short": "1e9bc1d",
+    "message": "feat(db): migration 002 (agendamento V1), seed e testes SQL",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/1e9bc1decafb8c71d3a008732906992ea590ac8d"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 4,
+    "sha": "a393f3807c1116a369412444f7486499366335c1",
+    "sha_short": "a393f38",
+    "message": "feat(web): agendamento real, agenda da equipe e telas ligadas ao banco",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/a393f3807c1116a369412444f7486499366335c1"
   },
   {
     "repo": "KaukaMed",

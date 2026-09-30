@@ -73,6 +73,14 @@
   },
   {
     "repo": "hemorroidabot",
+    "name": "arena/01a0f2c9-hemorroidabot",
+    "head_sha": "de0a86a681d76c55fb52874d9b5448e3d073e9e9",
+    "head_sha_short": "de0a86a",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/tree/arena/01a0f2c9-hemorroidabot"
+  },
+  {
+    "repo": "hemorroidabot",
     "name": "codex/add-i18n.js-with-pt-br-and-en-support",
     "head_sha": "9611bd3a2e82b786aaaac0fa3435b1d1556fb5a3",
     "head_sha_short": "9611bd3",
@@ -94,6 +102,14 @@
     "head_sha_short": "16a3ec6",
     "is_default": false,
     "url": "https://github.com/havaianasdestruido/PersonaDB/tree/arena/01a0ee4c-personadb"
+  },
+  {
+    "repo": "PersonaDB",
+    "name": "arena/01a0ee67-personadb",
+    "head_sha": "74b770393f7b8d47d726300fc7506ffc35bd86c2",
+    "head_sha_short": "74b7703",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/PersonaDB/tree/arena/01a0ee67-personadb"
   },
   {
     "repo": "PersonaDB",
@@ -170,16 +186,16 @@
   {
     "repo": "sitemapping",
     "name": "main",
-    "head_sha": "e220b3be8bd72f2abdfc4e0882ee2c1fe32752c8",
-    "head_sha_short": "e220b3b",
+    "head_sha": "1e44d471cddb8fe37676cf595053ac187c64f48a",
+    "head_sha_short": "1e44d47",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/sitemapping/tree/main"
   },
   {
     "repo": "top100",
     "name": "main",
-    "head_sha": "c26319f2bef9c324b1790ec08015c36716a21271",
-    "head_sha_short": "c26319f",
+    "head_sha": "aaaa7faa6be6f92432563e82913aa3644f5d4b49",
+    "head_sha_short": "aaaa7fa",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/top100/tree/main"
   },
@@ -194,16 +210,16 @@
   {
     "repo": "abnt-skill",
     "name": "arena/01a0ef9a-abnt-skill",
-    "head_sha": "97bbcb0343a89e73e3ea84020507162937f43cd0",
-    "head_sha_short": "97bbcb0",
+    "head_sha": "a4d0723375c0d8d8c6b871f3a13f6ea507cf6752",
+    "head_sha_short": "a4d0723",
     "is_default": false,
     "url": "https://github.com/havaianasdestruido/abnt-skill/tree/arena/01a0ef9a-abnt-skill"
   },
   {
     "repo": "abnt-skill",
     "name": "main",
-    "head_sha": "576a370e8135a8d92f7cb94ca3d4fef1feb3ea65",
-    "head_sha_short": "576a370",
+    "head_sha": "04dc0fdc97738b5afb8a452d8a80ff43f0cb57af",
+    "head_sha_short": "04dc0fd",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/abnt-skill/tree/main"
   },
@@ -590,6 +606,14 @@
     "head_sha_short": "0d76031",
     "is_default": false,
     "url": "https://github.com/havaianasdestruido/KaukaMed/tree/arena/01a0d488-kaukamed"
+  },
+  {
+    "repo": "KaukaMed",
+    "name": "arena/01a0ee6c-kaukamed",
+    "head_sha": "aeed028f6dae5f527abc703ac09670243a075972",
+    "head_sha_short": "aeed028",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/KaukaMed/tree/arena/01a0ee6c-kaukamed"
   },
   {
     "repo": "KaukaMed",

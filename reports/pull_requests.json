@@ -287,6 +287,19 @@
   },
   {
     "repo": "hemorroidabot",
+    "state": "open",
+    "status": "open",
+    "number": 3,
+    "title": "feat: add plain-html-ui Claude Code skill for brutalist css-less frontends",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-30T14:51:13Z",
+    "base_branch": "master",
+    "head_branch": "arena/01a0f2c9-hemorroidabot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/pull/3"
+  },
+  {
+    "repo": "hemorroidabot",
     "state": "closed",
     "status": "merged",
     "number": 2,
@@ -310,6 +323,19 @@
     "head_branch": "imgbot",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/hemorroidabot/pull/1"
+  },
+  {
+    "repo": "PersonaDB",
+    "state": "open",
+    "status": "open",
+    "number": 4,
+    "title": "feat: implement all 25 domain generators, consistency validators, docs, and tests",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-30T11:23:34Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0ee67-personadb",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/PersonaDB/pull/4"
   },
   {
     "repo": "PersonaDB",
@@ -404,15 +430,15 @@
   },
   {
     "repo": "abnt-skill",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 1,
     "title": "Transforma projeto na abnt-skill (/abnt sobre skills oficiais)",
     "user": "arena-ai-coding-agent[bot]",
     "created_at": "2026-09-30T00:24:05Z",
     "base_branch": "main",
     "head_branch": "arena/01a0ef9a-abnt-skill",
-    "commit_count": 1,
+    "commit_count": 2,
     "url": "https://github.com/havaianasdestruido/abnt-skill/pull/1"
   },
   {
@@ -661,6 +687,19 @@
     "head_branch": "add-git-installation-tutorials-17541894421943877497",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/gitgithub/pull/1"
+  },
+  {
+    "repo": "KaukaMed",
+    "state": "open",
+    "status": "open",
+    "number": 4,
+    "title": "Entrega 1 (V1): agendamento real, deploy no GitHub Pages e ENTREGA-V1.md (inclui o #2)",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-09-30T11:47:22Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0ee6c-kaukamed",
+    "commit_count": 16,
+    "url": "https://github.com/havaianasdestruido/KaukaMed/pull/4"
   },
   {
     "repo": "KaukaMed",
