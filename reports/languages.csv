@@ -18,7 +18,7 @@ pong-pop,CSS,687,7.1
 PrintSpoolerAutoRun,C++,3652,95.2
 PrintSpoolerAutoRun,Batchfile,184,4.8
 sitemapping,Python,29474,100.0
-top100,HTML,1861435,93.9
+top100,HTML,1861505,93.9
 top100,Python,115745,5.8
 top100,CSS,4402,0.2
 abnt-skill,Python,14862,100.0
@@ -41,11 +41,11 @@ calculator,PowerShell,6830,0.5
 calculator,Shell,4448,0.3
 calculator,TypeScript,1509,0.1
 calculator,HTML,1170,0.1
-CivilConection,HTML,1411441,83.5
-CivilConection,JavaScript,136186,8.1
-CivilConection,Java,123882,7.3
-CivilConection,CSS,8403,0.5
-CivilConection,PLpgSQL,4562,0.3
+CivilConection,HTML,1763010,86.7
+CivilConection,Java,123882,6.1
+CivilConection,JavaScript,118881,5.8
+CivilConection,CSS,17367,0.9
+CivilConection,PLpgSQL,4562,0.2
 CivilConection,Shell,3091,0.2
 CivilConection,Batchfile,3078,0.2
 ClassHub,JavaScript,257812,49.8

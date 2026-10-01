@@ -534,29 +534,42 @@
   },
   {
     "repo": "CivilConection",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
+    "number": 7,
+    "title": "perf: resolve PageSpeed Insights findings (LCP/CLS, a11y, security, SEO)",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-10-01T19:00:31Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0f8be-civilconection",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/CivilConection/pull/7"
+  },
+  {
+    "repo": "CivilConection",
+    "state": "closed",
+    "status": "merged",
+    "number": 6,
+    "title": "[ImgBot] Optimize images",
+    "user": "imgbot[bot]",
+    "created_at": "2026-10-01T18:14:24Z",
+    "base_branch": "feature/init-springboot-backend-6483368769379451831",
+    "head_branch": "imgbot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/CivilConection/pull/6"
+  },
+  {
+    "repo": "CivilConection",
+    "state": "closed",
+    "status": "merged",
     "number": 5,
     "title": "fix(frontend): redesign completo da UI (merge do PR #3 com a base, conflitos resolvidos)",
     "user": "arena-ai-coding-agent[bot]",
     "created_at": "2026-10-01T17:34:38Z",
     "base_branch": "feature/init-springboot-backend-6483368769379451831",
     "head_branch": "arena/01a0f885-civilconection",
-    "commit_count": 4,
+    "commit_count": 5,
     "url": "https://github.com/havaianasdestruido/CivilConection/pull/5"
-  },
-  {
-    "repo": "CivilConection",
-    "state": "open",
-    "status": "open",
-    "number": 3,
-    "title": "fix(frontend): redesign completo da UI com base no redesign-skill (taste-skill)",
-    "user": "arena-ai-coding-agent[bot]",
-    "created_at": "2026-10-01T17:07:51Z",
-    "base_branch": "feature/init-springboot-backend-6483368769379451831",
-    "head_branch": "arena/01a0f84f-civilconection",
-    "commit_count": 3,
-    "url": "https://github.com/havaianasdestruido/CivilConection/pull/3"
   },
   {
     "repo": "CivilConection",
@@ -570,6 +583,19 @@
     "head_branch": "imgbot",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/CivilConection/pull/4"
+  },
+  {
+    "repo": "CivilConection",
+    "state": "closed",
+    "status": "merged",
+    "number": 3,
+    "title": "fix(frontend): redesign completo da UI com base no redesign-skill (taste-skill)",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-10-01T17:07:51Z",
+    "base_branch": "feature/init-springboot-backend-6483368769379451831",
+    "head_branch": "arena/01a0f84f-civilconection",
+    "commit_count": 3,
+    "url": "https://github.com/havaianasdestruido/CivilConection/pull/3"
   },
   {
     "repo": "CivilConection",

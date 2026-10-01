@@ -224,7 +224,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 62,
+    "contributions": 63,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -236,7 +236,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 69,
+    "contributions": 70,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -673,6 +673,12 @@
   },
   {
     "repo": "CivilConection",
+    "login": "havaianasdestruido",
+    "contributions": 12,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "CivilConection",
     "login": "fernandoalmeidadelima64-collab",
     "contributions": 6,
     "profile_url": "https://github.com/fernandoalmeidadelima64-collab"
@@ -685,21 +691,15 @@
   },
   {
     "repo": "CivilConection",
-    "login": "havaianasdestruido",
-    "contributions": 4,
-    "profile_url": "https://github.com/havaianasdestruido"
+    "login": "ImgBotApp",
+    "contributions": 2,
+    "profile_url": "https://github.com/ImgBotApp"
   },
   {
     "repo": "CivilConection",
     "login": "cavaleiro-olimpioo",
     "contributions": 1,
     "profile_url": "https://github.com/cavaleiro-olimpioo"
-  },
-  {
-    "repo": "CivilConection",
-    "login": "ImgBotApp",
-    "contributions": 1,
-    "profile_url": "https://github.com/ImgBotApp"
   },
   {
     "repo": "ClassHub",

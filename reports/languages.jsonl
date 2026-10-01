@@ -17,7 +17,7 @@
 {"repo": "PrintSpoolerAutoRun", "language": "C++", "bytes": 3652, "percent": 95.2}
 {"repo": "PrintSpoolerAutoRun", "language": "Batchfile", "bytes": 184, "percent": 4.8}
 {"repo": "sitemapping", "language": "Python", "bytes": 29474, "percent": 100.0}
-{"repo": "top100", "language": "HTML", "bytes": 1861435, "percent": 93.9}
+{"repo": "top100", "language": "HTML", "bytes": 1861505, "percent": 93.9}
 {"repo": "top100", "language": "Python", "bytes": 115745, "percent": 5.8}
 {"repo": "top100", "language": "CSS", "bytes": 4402, "percent": 0.2}
 {"repo": "abnt-skill", "language": "Python", "bytes": 14862, "percent": 100.0}
@@ -40,11 +40,11 @@
 {"repo": "calculator", "language": "Shell", "bytes": 4448, "percent": 0.3}
 {"repo": "calculator", "language": "TypeScript", "bytes": 1509, "percent": 0.1}
 {"repo": "calculator", "language": "HTML", "bytes": 1170, "percent": 0.1}
-{"repo": "CivilConection", "language": "HTML", "bytes": 1411441, "percent": 83.5}
-{"repo": "CivilConection", "language": "JavaScript", "bytes": 136186, "percent": 8.1}
-{"repo": "CivilConection", "language": "Java", "bytes": 123882, "percent": 7.3}
-{"repo": "CivilConection", "language": "CSS", "bytes": 8403, "percent": 0.5}
-{"repo": "CivilConection", "language": "PLpgSQL", "bytes": 4562, "percent": 0.3}
+{"repo": "CivilConection", "language": "HTML", "bytes": 1763010, "percent": 86.7}
+{"repo": "CivilConection", "language": "Java", "bytes": 123882, "percent": 6.1}
+{"repo": "CivilConection", "language": "JavaScript", "bytes": 118881, "percent": 5.8}
+{"repo": "CivilConection", "language": "CSS", "bytes": 17367, "percent": 0.9}
+{"repo": "CivilConection", "language": "PLpgSQL", "bytes": 4562, "percent": 0.2}
 {"repo": "CivilConection", "language": "Shell", "bytes": 3091, "percent": 0.2}
 {"repo": "CivilConection", "language": "Batchfile", "bytes": 3078, "percent": 0.2}
 {"repo": "ClassHub", "language": "JavaScript", "bytes": 257812, "percent": 49.8}

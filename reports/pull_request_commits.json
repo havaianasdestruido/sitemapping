@@ -609,6 +609,30 @@
   },
   {
     "repo": "CivilConection",
+    "pr_number": 7,
+    "sha": "16b49cff11aee0d22f062ef8af7554d412cb452f",
+    "sha_short": "16b49cf",
+    "message": "perf: resolve PageSpeed Insights findings (LCP/CLS, a11y, security, SEO)",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/16b49cff11aee0d22f062ef8af7554d412cb452f"
+  },
+  {
+    "repo": "CivilConection",
+    "pr_number": 7,
+    "sha": "c139a0848dd0544043e14e842d8bfa269db37bd6",
+    "sha_short": "c139a08",
+    "message": "review: clean extensionless URLs + conservative asset cache",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/c139a0848dd0544043e14e842d8bfa269db37bd6"
+  },
+  {
+    "repo": "CivilConection",
+    "pr_number": 6,
+    "sha": "e9a51986bc2ea14cb071838a69d6b4902f4995fe",
+    "sha_short": "e9a5198",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/e9a51986bc2ea14cb071838a69d6b4902f4995fe"
+  },
+  {
+    "repo": "CivilConection",
     "pr_number": 5,
     "sha": "e5fbc7da281841dac8d9e8bb449fcface41362c1",
     "sha_short": "e5fbc7d",
@@ -641,6 +665,22 @@
   },
   {
     "repo": "CivilConection",
+    "pr_number": 5,
+    "sha": "0a8681e3b4046af01b4d5f500ce864464660feff",
+    "sha_short": "0a8681e",
+    "message": "fix(frontend): corrige XSS, corrida de busca, login falso e cadastro parcial",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/0a8681e3b4046af01b4d5f500ce864464660feff"
+  },
+  {
+    "repo": "CivilConection",
+    "pr_number": 4,
+    "sha": "f693360748b7e6b4a879a42713a21ef8dc61eb99",
+    "sha_short": "f693360",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/f693360748b7e6b4a879a42713a21ef8dc61eb99"
+  },
+  {
+    "repo": "CivilConection",
     "pr_number": 3,
     "sha": "e5fbc7da281841dac8d9e8bb449fcface41362c1",
     "sha_short": "e5fbc7d",
@@ -662,14 +702,6 @@
     "sha_short": "2cf78e9",
     "message": "fix(frontend): desacopla busca do herói de /api/stats e sincroniza 4ª cópia em src/",
     "url": "https://github.com/havaianasdestruido/CivilConection/commit/2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063"
-  },
-  {
-    "repo": "CivilConection",
-    "pr_number": 4,
-    "sha": "f693360748b7e6b4a879a42713a21ef8dc61eb99",
-    "sha_short": "f693360",
-    "message": "[ImgBot] Optimize images",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/f693360748b7e6b4a879a42713a21ef8dc61eb99"
   },
   {
     "repo": "CivilConection",

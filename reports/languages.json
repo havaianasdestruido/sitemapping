@@ -116,7 +116,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 1861435,
+    "bytes": 1861505,
     "percent": 93.9
   },
   {
@@ -254,32 +254,32 @@
   {
     "repo": "CivilConection",
     "language": "HTML",
-    "bytes": 1411441,
-    "percent": 83.5
-  },
-  {
-    "repo": "CivilConection",
-    "language": "JavaScript",
-    "bytes": 136186,
-    "percent": 8.1
+    "bytes": 1763010,
+    "percent": 86.7
   },
   {
     "repo": "CivilConection",
     "language": "Java",
     "bytes": 123882,
-    "percent": 7.3
+    "percent": 6.1
+  },
+  {
+    "repo": "CivilConection",
+    "language": "JavaScript",
+    "bytes": 118881,
+    "percent": 5.8
   },
   {
     "repo": "CivilConection",
     "language": "CSS",
-    "bytes": 8403,
-    "percent": 0.5
+    "bytes": 17367,
+    "percent": 0.9
   },
   {
     "repo": "CivilConection",
     "language": "PLpgSQL",
     "bytes": 4562,
-    "percent": 0.3
+    "percent": 0.2
   },
   {
     "repo": "CivilConection",
