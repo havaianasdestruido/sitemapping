@@ -1,5 +1,10 @@
 [
   {
+    "full_name": "langgptai/awesome-claude-prompts",
+    "url": "https://github.com/langgptai/awesome-claude-prompts",
+    "description": "This repo includes Claude prompt curation to use Claude better."
+  },
+  {
     "full_name": "cavaleiro-olimpioo/ClassHub",
     "url": "https://github.com/cavaleiro-olimpioo/ClassHub",
     "description": "Sistema de gerenciamento escolar (Projeto da etec)"

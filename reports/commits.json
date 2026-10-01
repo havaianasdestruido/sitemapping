@@ -3261,6 +3261,156 @@
   },
   {
     "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c2-hemorroidabot",
+    "sha": "d11f8ecea8e07767e060ecf1ddfebd47502a7229",
+    "sha_short": "d11f8ec",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T13:48:04Z",
+    "message": "fix: revisao - listagem stale, coordenacao carga/descarga e blob.size",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/d11f8ecea8e07767e060ecf1ddfebd47502a7229"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c2-hemorroidabot",
+    "sha": "27d8d44a7b1a8a3fa8e236896adbac12d8dc4e9b",
+    "sha_short": "27d8d44",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T13:16:44Z",
+    "message": "fix: bugs de cache e de modelo (download/carga/selecao)",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/27d8d44a7b1a8a3fa8e236896adbac12d8dc4e9b"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c2-hemorroidabot",
+    "sha": "cc139c32d908286b91eb90aaead2b97357439d2e",
+    "sha_short": "cc139c3",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:11:24Z",
+    "message": "Merge pull request #1 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/cc139c32d908286b91eb90aaead2b97357439d2e"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c2-hemorroidabot",
+    "sha": "cd9d3a4cb8cfba04d223444136fbb44201920079",
+    "sha_short": "cd9d3a4",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:11:13Z",
+    "message": "Merge pull request #2 from havaianasdestruido/codex/add-i18n.js-with-pt-br-and-en-support",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/cd9d3a4cb8cfba04d223444136fbb44201920079"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c2-hemorroidabot",
+    "sha": "9611bd3a2e82b786aaaac0fa3435b1d1556fb5a3",
+    "sha_short": "9611bd3",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:06:45Z",
+    "message": "Add pt-BR and en-US i18n support",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/9611bd3a2e82b786aaaac0fa3435b1d1556fb5a3"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c2-hemorroidabot",
+    "sha": "3e1ca17c7c253eb867249a6c0c014b46e5285c4d",
+    "sha_short": "3e1ca17",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T01:10:09Z",
+    "message": "Set imgbot schedule to weekly",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/3e1ca17c7c253eb867249a6c0c014b46e5285c4d"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c2-hemorroidabot",
+    "sha": "01192ecb6b21eab290172910a228fdfde0c1321a",
+    "sha_short": "01192ec",
+    "author": "ImgBotApp",
+    "date": "2026-09-21T00:38:28Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/01192ecb6b21eab290172910a228fdfde0c1321a"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c2-hemorroidabot",
+    "sha": "f20a3a3d5c8a27d6de96b330220f6f2cf915bb6f",
+    "sha_short": "f20a3a3",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:07Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/f20a3a3d5c8a27d6de96b330220f6f2cf915bb6f"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c2-hemorroidabot",
+    "sha": "9a0fd54c6724560c6d812f0f7ba73955bc99a9d0",
+    "sha_short": "9a0fd54",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:21Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/9a0fd54c6724560c6d812f0f7ba73955bc99a9d0"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c2-hemorroidabot",
+    "sha": "28d159df5022b5ed42fd9eb1b33350a338acce45",
+    "sha_short": "28d159d",
+    "author": "Pato (new acc)",
+    "date": "2026-09-18T00:33:47Z",
+    "message": "Create LICENSE",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/28d159df5022b5ed42fd9eb1b33350a338acce45"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c2-hemorroidabot",
+    "sha": "d306e33ec8614b2f9678a0de59ae783b3e3e5888",
+    "sha_short": "d306e33",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T17:57:33Z",
+    "message": "feat: centered layout, font sizing, forms+fieldsets, tools grid renderer",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/d306e33ec8614b2f9678a0de59ae783b3e3e5888"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c2-hemorroidabot",
+    "sha": "912ac63f0cf0208846e70467abffceea56972f19",
+    "sha_short": "912ac63",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T17:52:41Z",
+    "message": "refactor: plain HTML only, zero CSS, no styles",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/912ac63f0cf0208846e70467abffceea56972f19"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c2-hemorroidabot",
+    "sha": "9ac7029ebaea7c18fabe2ef6e8d015f0d43e4bc8",
+    "sha_short": "9ac7029",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T17:50:56Z",
+    "message": "docs: use bullet points instead of numbered list, fix duplicate Lyrics.ovh entry",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/9ac7029ebaea7c18fabe2ef6e8d015f0d43e4bc8"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c2-hemorroidabot",
+    "sha": "29de305cebf5069ce729544ff6f03fa96ab4862c",
+    "sha_short": "29de305",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T17:48:54Z",
+    "message": "feat: initial prototype with chat UI and API registry",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/29de305cebf5069ce729544ff6f03fa96ab4862c"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "arena/01a0f2c2-hemorroidabot",
+    "sha": "3acda7f77573de3f84a21f8f4e9584e856e2b65f",
+    "sha_short": "3acda7f",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T17:47:49Z",
+    "message": "docs: add API difficulty ratings with colored ball indicators",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/3acda7f77573de3f84a21f8f4e9584e856e2b65f"
+  },
+  {
+    "repo": "hemorroidabot",
     "branch": "arena/01a0f2c9-hemorroidabot",
     "sha": "de0a86a681d76c55fb52874d9b5448e3d073e9e9",
     "sha_short": "de0a86a",
@@ -3502,6 +3652,36 @@
   {
     "repo": "hemorroidabot",
     "branch": "master",
+    "sha": "b1086df8a254e549bf0a6fdcb5cf5943b9c97572",
+    "sha_short": "b1086df",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T13:59:54Z",
+    "message": "Merge pull request #4 from havaianasdestruido/arena/01a0f2c2-hemorroidabot",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/b1086df8a254e549bf0a6fdcb5cf5943b9c97572"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "master",
+    "sha": "d11f8ecea8e07767e060ecf1ddfebd47502a7229",
+    "sha_short": "d11f8ec",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T13:48:04Z",
+    "message": "fix: revisao - listagem stale, coordenacao carga/descarga e blob.size",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/d11f8ecea8e07767e060ecf1ddfebd47502a7229"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "master",
+    "sha": "27d8d44a7b1a8a3fa8e236896adbac12d8dc4e9b",
+    "sha_short": "27d8d44",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T13:16:44Z",
+    "message": "fix: bugs de cache e de modelo (download/carga/selecao)",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/27d8d44a7b1a8a3fa8e236896adbac12d8dc4e9b"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "master",
     "sha": "cc139c32d908286b91eb90aaead2b97357439d2e",
     "sha_short": "cc139c3",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -3572,32 +3752,32 @@
   {
     "repo": "hemorroidabot",
     "branch": "master",
-    "sha": "28d159df5022b5ed42fd9eb1b33350a338acce45",
-    "sha_short": "28d159d",
-    "author": "Pato (new acc)",
-    "date": "2026-09-18T00:33:47Z",
-    "message": "Create LICENSE",
-    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/28d159df5022b5ed42fd9eb1b33350a338acce45"
+    "sha": "5d8446c9fc6f064b06742a34c59dc140229d2905",
+    "sha_short": "5d8446c",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T18:00:17Z",
+    "message": "feat: HuggingFace model download + browser cache (Cache Storage API)",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/5d8446c9fc6f064b06742a34c59dc140229d2905"
   },
   {
     "repo": "hemorroidabot",
     "branch": "master",
-    "sha": "4931d3f19a587d139383c21f986707dd4cc8187d",
-    "sha_short": "4931d3f",
+    "sha": "d306e33ec8614b2f9678a0de59ae783b3e3e5888",
+    "sha_short": "d306e33",
     "author": "havaianasdestruido",
-    "date": "2026-09-18T00:19:05Z",
-    "message": "docs(agents): adiciona AGENTS.md canonico (fonte unica) + ponteiros CLAUDE.md/AI.md",
-    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/4931d3f19a587d139383c21f986707dd4cc8187d"
+    "date": "2026-09-01T17:57:33Z",
+    "message": "feat: centered layout, font sizing, forms+fieldsets, tools grid renderer",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/d306e33ec8614b2f9678a0de59ae783b3e3e5888"
   },
   {
     "repo": "hemorroidabot",
     "branch": "master",
-    "sha": "5bf45313b8a2216e6d1a8108ea16ccd120474aac",
-    "sha_short": "5bf4531",
+    "sha": "912ac63f0cf0208846e70467abffceea56972f19",
+    "sha_short": "912ac63",
     "author": "havaianasdestruido",
-    "date": "2026-09-17T13:45:35Z",
-    "message": "docs(readme): marca com :white_check_mark: as 24 APIs e ferramentas locais já implementadas e remove a lista 'Já implementadas (keyless)'",
-    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/5bf45313b8a2216e6d1a8108ea16ccd120474aac"
+    "date": "2026-09-01T17:52:41Z",
+    "message": "refactor: plain HTML only, zero CSS, no styles",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/912ac63f0cf0208846e70467abffceea56972f19"
   },
   {
     "repo": "hemorroidabot",
@@ -4572,6 +4752,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "2e4df37ec2445a61595a4df939b7e0add5056f59",
+    "sha_short": "2e4df37",
+    "author": "GitHub Action Bot",
+    "date": "2026-10-01T10:41:26Z",
+    "message": "📊 [2026-10-01 10:41:26 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/2e4df37ec2445a61595a4df939b7e0add5056f59"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "262cd526f9ec81c70e67dc924dc20f6cd98c1ff0",
     "sha_short": "262cd52",
     "author": "GitHub Action Bot",
@@ -4662,12 +4852,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "1cafda728e4c10d10556283d3878e091f8421420",
-    "sha_short": "1cafda7",
+    "sha": "aba140c0fc74e41185e6fe50a2a6f8ed8f345fc2",
+    "sha_short": "aba140c",
     "author": "GitHub Action Bot",
-    "date": "2026-09-28T19:04:43Z",
-    "message": "📊 [2026-09-28 19:04:43 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/1cafda728e4c10d10556283d3878e091f8421420"
+    "date": "2026-09-22T22:36:14Z",
+    "message": "📊 [2026-09-22 22:36:14 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/aba140c0fc74e41185e6fe50a2a6f8ed8f345fc2"
   },
   {
     "repo": "sitemapping",
@@ -4762,12 +4952,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "8113d8276f6f47b1930675e94df54e8a1d9be39b",
-    "sha_short": "8113d82",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-21T01:10:09Z",
-    "message": "Set imgbot schedule to weekly",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/8113d8276f6f47b1930675e94df54e8a1d9be39b"
+    "sha": "ee38a4da95223bc0d67a72062e40d7e365314f14",
+    "sha_short": "ee38a4d",
+    "author": "GitHub Action Bot",
+    "date": "2026-09-17T03:58:56Z",
+    "message": "📊 Update repository report [2026-09-17 03:58:56 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/ee38a4da95223bc0d67a72062e40d7e365314f14"
   },
   {
     "repo": "sitemapping",
@@ -4860,14 +5050,14 @@
     "url": "https://github.com/havaianasdestruido/sitemapping/commit/5b9d33e8dab6999935cda632f67c1caf515d9458"
   },
   {
-    "repo": "sitemapping",
+    "repo": "top100",
     "branch": "main",
-    "sha": "a042f201a2496fb53c9e2cf09809f837cb81b29a",
-    "sha_short": "a042f20",
-    "author": "Pato (new acc)",
-    "date": "2026-09-13T17:32:43Z",
-    "message": "Create README.md",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/a042f201a2496fb53c9e2cf09809f837cb81b29a"
+    "sha": "c3f079c4a001033388b31f9153cb24f3d8868bbe",
+    "sha_short": "c3f079c",
+    "author": "github-actions[bot]",
+    "date": "2026-10-01T16:46:12Z",
+    "message": "data: update top repos data (2026-10-01 16:46 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/c3f079c4a001033388b31f9153cb24f3d8868bbe"
   },
   {
     "repo": "top100",
@@ -4962,12 +5152,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "e8a61250ba2748e4fc0013879aa633edb84c0720",
-    "sha_short": "e8a6125",
+    "sha": "77b638903c3e21dadafda8b5dce1ffb117e932dc",
+    "sha_short": "77b6389",
     "author": "github-actions[bot]",
-    "date": "2026-09-29T13:30:46Z",
-    "message": "data: update top repos data (2026-09-29 13:30 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/e8a61250ba2748e4fc0013879aa633edb84c0720"
+    "date": "2026-09-25T15:37:10Z",
+    "message": "data: update top repos data (2026-09-25)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/77b638903c3e21dadafda8b5dce1ffb117e932dc"
   },
   {
     "repo": "top100",
@@ -5062,12 +5252,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "266f1e4fe210532c43fa72f6cb36cc9b4f6010fe",
-    "sha_short": "266f1e4",
-    "author": "github-actions[bot]",
-    "date": "2026-09-23T21:52:02Z",
-    "message": "data: update top repos data (2026-09-23)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/266f1e4fe210532c43fa72f6cb36cc9b4f6010fe"
+    "sha": "fb6bdac58be216560f9b7016791eb384e54baac8",
+    "sha_short": "fb6bdac",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:13:33Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/top100/commit/fb6bdac58be216560f9b7016791eb384e54baac8"
   },
   {
     "repo": "top100",
@@ -5158,16 +5348,6 @@
     "date": "2026-09-20T19:42:45Z",
     "message": "data: update top repos data (2026-09-20)",
     "url": "https://github.com/havaianasdestruido/top100/commit/e61227aa541d6345d1d0864e843cb6dbce81b4e0"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "941015ea6dd0be571c10ae5073d9dc005639dc6b",
-    "sha_short": "941015e",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:39:59Z",
-    "message": "Implement write_lists_md function for markdown indexing",
-    "url": "https://github.com/havaianasdestruido/top100/commit/941015ea6dd0be571c10ae5073d9dc005639dc6b"
   },
   {
     "repo": ".github",
@@ -7248,6 +7428,306 @@
     "date": "2023-09-10T02:17:02Z",
     "message": "fix: Invalid units loading after netcore migration",
     "url": "https://github.com/havaianasdestruido/calculator/commit/1c3d6acfd87c95e3afaffb2402003cadf242cd83"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f84f-civilconection",
+    "sha": "2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063",
+    "sha_short": "2cf78e9",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T17:22:00Z",
+    "message": "fix(frontend): desacopla busca do herói de /api/stats e sincroniza 4ª cópia em src/",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f84f-civilconection",
+    "sha": "7c47c522fffa22f007152afc0823a47c8bc3e51e",
+    "sha_short": "7c47c52",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T17:07:28Z",
+    "message": "docs(frontend): atualiza stack no README (Archivo + assets locais)",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/7c47c522fffa22f007152afc0823a47c8bc3e51e"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f84f-civilconection",
+    "sha": "e5fbc7da281841dac8d9e8bb449fcface41362c1",
+    "sha_short": "e5fbc7d",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T17:02:18Z",
+    "message": "fix(frontend): aplica redesign completo com base no taste-skill/redesign-skill",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/e5fbc7da281841dac8d9e8bb449fcface41362c1"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f84f-civilconection",
+    "sha": "dc3da9313fc0f154bc46203ef8969d20d67720f8",
+    "sha_short": "dc3da93",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T16:32:52Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0f84e-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/dc3da9313fc0f154bc46203ef8969d20d67720f8"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f84f-civilconection",
+    "sha": "df34b77ca852b9d9129f14dcd9ff444efa9a2c1c",
+    "sha_short": "df34b77",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T16:31:59Z",
+    "message": "fix: corrige encoding (Latin-1 -> UTF-8) nos HTMLs e força UTF-8 no Spring",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/df34b77ca852b9d9129f14dcd9ff444efa9a2c1c"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f84f-civilconection",
+    "sha": "131e8a8353a4c625bf83916eb6d695762289b5f0",
+    "sha_short": "131e8a8",
+    "author": "aluno",
+    "date": "2026-09-29T18:15:11Z",
+    "message": "fix: frontend",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/131e8a8353a4c625bf83916eb6d695762289b5f0"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f84f-civilconection",
+    "sha": "09cf7ce3de922310c52f73bcbe76d8635c173d33",
+    "sha_short": "09cf7ce",
+    "author": "fernandoalmeidadelima64-collab",
+    "date": "2026-09-29T11:32:18Z",
+    "message": "Merge pull request #2 from cavaleiro-olimpioo/CivilConectionV1",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/09cf7ce3de922310c52f73bcbe76d8635c173d33"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f84f-civilconection",
+    "sha": "1750f9caa3da70588193486f1fff6344ea708a5f",
+    "sha_short": "1750f9c",
+    "author": "Guilherme Olimpio",
+    "date": "2026-09-28T15:22:54Z",
+    "message": "Corrigi alguns erros de css e também ajustei o executável, agora o pprojeto sobe sem erro",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/1750f9caa3da70588193486f1fff6344ea708a5f"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f84f-civilconection",
+    "sha": "21ce467c9c86c2d6c95ae6f8c39efbab751ea9fb",
+    "sha_short": "21ce467",
+    "author": "fernandoalmeidadelima64-collab",
+    "date": "2026-09-25T16:58:42Z",
+    "message": "Merge pull request #1 from fernandoalmeidadelima64-collab/jules-17046521232448960000-42b46554",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/21ce467c9c86c2d6c95ae6f8c39efbab751ea9fb"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f84f-civilconection",
+    "sha": "d9a575211d113627f1b39f43f326b903f79ba326",
+    "sha_short": "d9a5752",
+    "author": "fernandoalmeidadelima64-collab",
+    "date": "2026-09-25T16:58:30Z",
+    "message": "Merge branch 'feature/init-springboot-backend-6483368769379451831' into jules-17046521232448960000-42b46554",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/d9a575211d113627f1b39f43f326b903f79ba326"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f885-civilconection",
+    "sha": "d5cdbe3251bf0f68d2f203b2cfdd2a57436be9a0",
+    "sha_short": "d5cdbe3",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T17:34:13Z",
+    "message": "Merge branch 'feature/init-springboot-backend-6483368769379451831' into arena/01a0f885-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/d5cdbe3251bf0f68d2f203b2cfdd2a57436be9a0"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f885-civilconection",
+    "sha": "25f15410519eaa5c11a09874ee88bc89f38454e5",
+    "sha_short": "25f1541",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T17:31:45Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/01a0f856-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/25f15410519eaa5c11a09874ee88bc89f38454e5"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f885-civilconection",
+    "sha": "81e978d4cb25b56669669dcb33188b36a1b4a90d",
+    "sha_short": "81e978d",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T17:23:58Z",
+    "message": "Merge pull request #4 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/81e978d4cb25b56669669dcb33188b36a1b4a90d"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f885-civilconection",
+    "sha": "2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063",
+    "sha_short": "2cf78e9",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T17:22:00Z",
+    "message": "fix(frontend): desacopla busca do herói de /api/stats e sincroniza 4ª cópia em src/",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f885-civilconection",
+    "sha": "c69ff8e65f8e8d3b4fd4c6d44e3d20738fa255b2",
+    "sha_short": "c69ff8e",
+    "author": "Arena Agent",
+    "date": "2026-10-01T17:21:22Z",
+    "message": "fix(review): cooldown de retry da API, busca da home offline e watch do Tailwind",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/c69ff8e65f8e8d3b4fd4c6d44e3d20738fa255b2"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f885-civilconection",
+    "sha": "f693360748b7e6b4a879a42713a21ef8dc61eb99",
+    "sha_short": "f693360",
+    "author": "ImgBotApp",
+    "date": "2026-10-01T17:15:01Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/f693360748b7e6b4a879a42713a21ef8dc61eb99"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f885-civilconection",
+    "sha": "7c47c522fffa22f007152afc0823a47c8bc3e51e",
+    "sha_short": "7c47c52",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T17:07:28Z",
+    "message": "docs(frontend): atualiza stack no README (Archivo + assets locais)",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/7c47c522fffa22f007152afc0823a47c8bc3e51e"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f885-civilconection",
+    "sha": "e5fbc7da281841dac8d9e8bb449fcface41362c1",
+    "sha_short": "e5fbc7d",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T17:02:18Z",
+    "message": "fix(frontend): aplica redesign completo com base no taste-skill/redesign-skill",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/e5fbc7da281841dac8d9e8bb449fcface41362c1"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f885-civilconection",
+    "sha": "8fac0be79b3c9e433119ea62c47f062f93c62b52",
+    "sha_short": "8fac0be",
+    "author": "Arena Agent",
+    "date": "2026-10-01T16:56:13Z",
+    "message": "fix(frontend): remover Tailwind CDN, corrigir 404 do logo e tratar API offline",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/8fac0be79b3c9e433119ea62c47f062f93c62b52"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0f885-civilconection",
+    "sha": "dc3da9313fc0f154bc46203ef8969d20d67720f8",
+    "sha_short": "dc3da93",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T16:32:52Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0f84e-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/dc3da9313fc0f154bc46203ef8969d20d67720f8"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "25f15410519eaa5c11a09874ee88bc89f38454e5",
+    "sha_short": "25f1541",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T17:31:45Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/01a0f856-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/25f15410519eaa5c11a09874ee88bc89f38454e5"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "81e978d4cb25b56669669dcb33188b36a1b4a90d",
+    "sha_short": "81e978d",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T17:23:58Z",
+    "message": "Merge pull request #4 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/81e978d4cb25b56669669dcb33188b36a1b4a90d"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "c69ff8e65f8e8d3b4fd4c6d44e3d20738fa255b2",
+    "sha_short": "c69ff8e",
+    "author": "Arena Agent",
+    "date": "2026-10-01T17:21:22Z",
+    "message": "fix(review): cooldown de retry da API, busca da home offline e watch do Tailwind",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/c69ff8e65f8e8d3b4fd4c6d44e3d20738fa255b2"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "f693360748b7e6b4a879a42713a21ef8dc61eb99",
+    "sha_short": "f693360",
+    "author": "ImgBotApp",
+    "date": "2026-10-01T17:15:01Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/f693360748b7e6b4a879a42713a21ef8dc61eb99"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "8fac0be79b3c9e433119ea62c47f062f93c62b52",
+    "sha_short": "8fac0be",
+    "author": "Arena Agent",
+    "date": "2026-10-01T16:56:13Z",
+    "message": "fix(frontend): remover Tailwind CDN, corrigir 404 do logo e tratar API offline",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/8fac0be79b3c9e433119ea62c47f062f93c62b52"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "dc3da9313fc0f154bc46203ef8969d20d67720f8",
+    "sha_short": "dc3da93",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T16:32:52Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0f84e-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/dc3da9313fc0f154bc46203ef8969d20d67720f8"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "df34b77ca852b9d9129f14dcd9ff444efa9a2c1c",
+    "sha_short": "df34b77",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T16:31:59Z",
+    "message": "fix: corrige encoding (Latin-1 -> UTF-8) nos HTMLs e força UTF-8 no Spring",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/df34b77ca852b9d9129f14dcd9ff444efa9a2c1c"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "131e8a8353a4c625bf83916eb6d695762289b5f0",
+    "sha_short": "131e8a8",
+    "author": "aluno",
+    "date": "2026-09-29T18:15:11Z",
+    "message": "fix: frontend",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/131e8a8353a4c625bf83916eb6d695762289b5f0"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "09cf7ce3de922310c52f73bcbe76d8635c173d33",
+    "sha_short": "09cf7ce",
+    "author": "fernandoalmeidadelima64-collab",
+    "date": "2026-09-29T11:32:18Z",
+    "message": "Merge pull request #2 from cavaleiro-olimpioo/CivilConectionV1",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/09cf7ce3de922310c52f73bcbe76d8635c173d33"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "1750f9caa3da70588193486f1fff6344ea708a5f",
+    "sha_short": "1750f9c",
+    "author": "Guilherme Olimpio",
+    "date": "2026-09-28T15:22:54Z",
+    "message": "Corrigi alguns erros de css e também ajustei o executável, agora o pprojeto sobe sem erro",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/1750f9caa3da70588193486f1fff6344ea708a5f"
   },
   {
     "repo": "ClassHub",
@@ -10468,6 +10948,76 @@
     "date": "2026-09-28T12:37:32Z",
     "message": "Initial commit",
     "url": "https://github.com/havaianasdestruido/g1/commit/d2938dc4d75240ba54ddc153b13fae6183e1dbc9"
+  },
+  {
+    "repo": "gh-pages",
+    "branch": "main",
+    "sha": "07477256fbed89a5e9aa7c8e3dc258e0f50f1cb0",
+    "sha_short": "0747725",
+    "author": "github-actions[bot]",
+    "date": "2026-10-01T16:29:09Z",
+    "message": "chore: update URL.MD (GitHub Pages index)",
+    "url": "https://github.com/havaianasdestruido/gh-pages/commit/07477256fbed89a5e9aa7c8e3dc258e0f50f1cb0"
+  },
+  {
+    "repo": "gh-pages",
+    "branch": "main",
+    "sha": "44ae2c20e50341dbfa65cb9c953d3c4fc9552547",
+    "sha_short": "44ae2c2",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T16:28:18Z",
+    "message": "Create jekyll-gh-pages.yml",
+    "url": "https://github.com/havaianasdestruido/gh-pages/commit/44ae2c20e50341dbfa65cb9c953d3c4fc9552547"
+  },
+  {
+    "repo": "gh-pages",
+    "branch": "main",
+    "sha": "e4994f6047b852df8cfe841bb24e3da0b3007dff",
+    "sha_short": "e4994f6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T16:27:59Z",
+    "message": "Create README.md",
+    "url": "https://github.com/havaianasdestruido/gh-pages/commit/e4994f6047b852df8cfe841bb24e3da0b3007dff"
+  },
+  {
+    "repo": "gh-pages",
+    "branch": "main",
+    "sha": "fc160e50436109216a5384df94059649c593c5b6",
+    "sha_short": "fc160e5",
+    "author": "github-actions[bot]",
+    "date": "2026-10-01T16:26:49Z",
+    "message": "chore: update URL.MD (GitHub Pages index)",
+    "url": "https://github.com/havaianasdestruido/gh-pages/commit/fc160e50436109216a5384df94059649c593c5b6"
+  },
+  {
+    "repo": "gh-pages",
+    "branch": "main",
+    "sha": "7e4d6d9c8dcea8c8d8b95ab551f77624e38a4037",
+    "sha_short": "7e4d6d9",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T14:13:27Z",
+    "message": "Fix workflow file path in GitHub Actions",
+    "url": "https://github.com/havaianasdestruido/gh-pages/commit/7e4d6d9c8dcea8c8d8b95ab551f77624e38a4037"
+  },
+  {
+    "repo": "gh-pages",
+    "branch": "main",
+    "sha": "188f021910bae12bd862f6b241c1b8d9fde28441",
+    "sha_short": "188f021",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T14:12:52Z",
+    "message": "Rename main.yml to main.yml",
+    "url": "https://github.com/havaianasdestruido/gh-pages/commit/188f021910bae12bd862f6b241c1b8d9fde28441"
+  },
+  {
+    "repo": "gh-pages",
+    "branch": "main",
+    "sha": "e2f115a55c08c4ef2bba48e367714c15fff615d6",
+    "sha_short": "e2f115a",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T14:12:18Z",
+    "message": "Create main.yml",
+    "url": "https://github.com/havaianasdestruido/gh-pages/commit/e2f115a55c08c4ef2bba48e367714c15fff615d6"
   },
   {
     "repo": "GH7zMAGNET",

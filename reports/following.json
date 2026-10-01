@@ -1,5 +1,9 @@
 [
   {
+    "login": "claude",
+    "profile_url": "https://github.com/claude"
+  },
+  {
     "login": "metabrainz",
     "profile_url": "https://github.com/metabrainz"
   },
