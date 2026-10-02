@@ -3,13 +3,19 @@
     "repo": "FNF-Phoenix-Engine",
     "language": "Haxe",
     "bytes": 2187187,
-    "percent": 93.4
+    "percent": 91.1
   },
   {
     "repo": "FNF-Phoenix-Engine",
     "language": "Java",
     "bytes": 72669,
-    "percent": 3.1
+    "percent": 3.0
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "language": "JavaScript",
+    "bytes": 55856,
+    "percent": 2.3
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -39,6 +45,12 @@
     "repo": "FNF-Phoenix-Engine",
     "language": "C",
     "bytes": 3044,
+    "percent": 0.1
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "language": "CSS",
+    "bytes": 3016,
     "percent": 0.1
   },
   {
@@ -116,7 +128,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 1861439,
+    "bytes": 1861425,
     "percent": 93.9
   },
   {
@@ -391,9 +403,21 @@
   },
   {
     "repo": "EZInfiniteYTLive",
+    "language": "TypeScript",
+    "bytes": 8490,
+    "percent": 47.5
+  },
+  {
+    "repo": "EZInfiniteYTLive",
     "language": "C#",
     "bytes": 7795,
-    "percent": 100.0
+    "percent": 43.6
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "language": "CSS",
+    "bytes": 1576,
+    "percent": 8.8
   },
   {
     "repo": "face-tagger",
@@ -992,7 +1016,7 @@
   {
     "repo": "R2K16",
     "language": "JavaScript",
-    "bytes": 4015166,
+    "bytes": 4025490,
     "percent": 0.4
   },
   {
@@ -1046,7 +1070,7 @@
   {
     "repo": "R2K16",
     "language": "CSS",
-    "bytes": 1218372,
+    "bytes": 1220253,
     "percent": 0.1
   },
   {
@@ -1465,9 +1489,27 @@
   },
   {
     "repo": "steamlogger",
+    "language": "MDX",
+    "bytes": 181352,
+    "percent": 65.8
+  },
+  {
+    "repo": "steamlogger",
     "language": "Rust",
     "bytes": 70496,
-    "percent": 100.0
+    "percent": 25.6
+  },
+  {
+    "repo": "steamlogger",
+    "language": "JavaScript",
+    "bytes": 19864,
+    "percent": 7.2
+  },
+  {
+    "repo": "steamlogger",
+    "language": "CSS",
+    "bytes": 4098,
+    "percent": 1.5
   },
   {
     "repo": "transition-plugin",
@@ -1508,26 +1550,38 @@
   {
     "repo": "WebRadioFM",
     "language": "C#",
-    "bytes": 94763,
-    "percent": 86.1
+    "bytes": 94930,
+    "percent": 68.2
+  },
+  {
+    "repo": "WebRadioFM",
+    "language": "CSS",
+    "bytes": 15071,
+    "percent": 10.8
   },
   {
     "repo": "WebRadioFM",
     "language": "PowerShell",
     "bytes": 14796,
-    "percent": 13.4
+    "percent": 10.6
+  },
+  {
+    "repo": "WebRadioFM",
+    "language": "JavaScript",
+    "bytes": 13917,
+    "percent": 10.0
   },
   {
     "repo": "WebRadioFM",
     "language": "Batchfile",
     "bytes": 501,
-    "percent": 0.5
+    "percent": 0.4
   },
   {
     "repo": "WindowsMovieMakerDecomp",
     "language": "C++",
     "bytes": 6273216,
-    "percent": 92.0
+    "percent": 91.7
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -1539,7 +1593,7 @@
     "repo": "WindowsMovieMakerDecomp",
     "language": "C",
     "bytes": 174028,
-    "percent": 2.6
+    "percent": 2.5
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -1555,9 +1609,21 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
+    "language": "JavaScript",
+    "bytes": 14301,
+    "percent": 0.2
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
     "language": "Batchfile",
     "bytes": 13954,
     "percent": 0.2
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "language": "CSS",
+    "bytes": 5555,
+    "percent": 0.1
   },
   {
     "repo": "WindowsMovieMakerDecomp",

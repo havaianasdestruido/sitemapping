@@ -3,19 +3,6 @@
     "repo": "FNF-Phoenix-Engine",
     "state": "open",
     "status": "open",
-    "number": 31,
-    "title": "docs: full codebase documentation site (Docusaurus)",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-02T17:02:03Z",
-    "base_branch": "main",
-    "head_branch": "arena/01a0fd75-fnf-phoenix-engine",
-    "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/31"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "open",
-    "status": "open",
     "number": 17,
     "title": "docs: add Javadoc/JSDoc-style tags to functions across codebase",
     "user": "havaianasdestruido",
@@ -37,6 +24,19 @@
     "head_branch": "fix-broken-workflows-451876394576674102",
     "commit_count": 4,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/14"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "closed",
+    "status": "merged",
+    "number": 31,
+    "title": "docs: full codebase documentation site (Docusaurus)",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-02T17:02:03Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/31"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -286,19 +286,6 @@
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/10"
   },
   {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "status": "merged",
-    "number": 9,
-    "title": "Fix failing workflows and optimize cache system",
-    "user": "havaianasdestruido",
-    "created_at": "2026-08-23T12:28:22Z",
-    "base_branch": "main",
-    "head_branch": "fix/workflows-and-cache-optimization-14471544405070009642",
-    "commit_count": 3,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/9"
-  },
-  {
     "repo": "hemorroidabot",
     "state": "closed",
     "status": "merged",
@@ -349,6 +336,19 @@
     "head_branch": "imgbot",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/hemorroidabot/pull/1"
+  },
+  {
+    "repo": "PersonaDB",
+    "state": "open",
+    "status": "open",
+    "number": 5,
+    "title": "docs: site Docusaurus em pt-BR com a documentação completa do PersonaDB",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-02T19:26:55Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0fd74-personadb",
+    "commit_count": 4,
+    "url": "https://github.com/havaianasdestruido/PersonaDB/pull/5"
   },
   {
     "repo": "PersonaDB",
@@ -677,8 +677,8 @@
   },
   {
     "repo": "EZInfiniteYTLive",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 1,
     "title": "Add full codebase documentation site with Docusaurus",
     "user": "havaianasdestruido",
@@ -1264,19 +1264,6 @@
     "repo": "R2K16",
     "state": "open",
     "status": "open",
-    "number": 3,
-    "title": "Add full codebase documentation site (Docusaurus 3)",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-02T17:01:46Z",
-    "base_branch": "main",
-    "head_branch": "arena/01a0fd75-r2k16",
-    "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/R2K16/pull/3"
-  },
-  {
-    "repo": "R2K16",
-    "state": "open",
-    "status": "open",
     "number": 2,
     "title": "Bump the npm_and_yarn group across 2 directories with 3 updates",
     "user": "dependabot[bot]",
@@ -1285,6 +1272,19 @@
     "head_branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/R2K16/pull/2"
+  },
+  {
+    "repo": "R2K16",
+    "state": "closed",
+    "status": "merged",
+    "number": 3,
+    "title": "Add full codebase documentation site (Docusaurus 3)",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-02T17:01:46Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0fd75-r2k16",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/R2K16/pull/3"
   },
   {
     "repo": "R2K16",
@@ -1355,6 +1355,19 @@
     "repo": "steamlogger",
     "state": "open",
     "status": "open",
+    "number": 3,
+    "title": "[ImgBot] Optimize images",
+    "user": "imgbot[bot]",
+    "created_at": "2026-10-02T19:40:25Z",
+    "base_branch": "main",
+    "head_branch": "imgbot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/steamlogger/pull/3"
+  },
+  {
+    "repo": "steamlogger",
+    "state": "open",
+    "status": "open",
     "number": 1,
     "title": "Tolerate brief missing Steam current-game polls",
     "user": "havaianasdestruido",
@@ -1363,6 +1376,19 @@
     "head_branch": "codex/investigar-problema-de-log",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/steamlogger/pull/1"
+  },
+  {
+    "repo": "steamlogger",
+    "state": "closed",
+    "status": "merged",
+    "number": 2,
+    "title": "docs: full Docusaurus documentation site",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-02T17:07:37Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0fd79-steamlogger",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/steamlogger/pull/2"
   },
   {
     "repo": "WAL-skill",
@@ -1379,28 +1405,41 @@
   },
   {
     "repo": "WebRadioFM",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 1,
     "title": "Add comprehensive Docusaurus documentation",
     "user": "havaianasdestruido",
     "created_at": "2026-10-02T17:01:25Z",
     "base_branch": "main",
     "head_branch": "arena/01a0fd79-webradiofm",
-    "commit_count": 1,
+    "commit_count": 2,
     "url": "https://github.com/havaianasdestruido/WebRadioFM/pull/1"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
     "state": "open",
     "status": "open",
+    "number": 4,
+    "title": "website: redesign docs homepage and theme tokens (taste-skill pass)",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-02T22:29:28Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0fe24-windowsmoviemakerdecomp",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/pull/4"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "state": "closed",
+    "status": "merged",
     "number": 3,
     "title": "docs: add full-codebase Docusaurus documentation site",
     "user": "havaianasdestruido",
     "created_at": "2026-10-02T17:05:09Z",
     "base_branch": "main",
     "head_branch": "arena/01a0fd75-windowsmoviemakerdecomp",
-    "commit_count": 1,
+    "commit_count": 2,
     "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/pull/3"
   },
   {

@@ -1,14 +1,6 @@
 [
   {
     "repo": "FNF-Phoenix-Engine",
-    "pr_number": 31,
-    "sha": "af35c3f0085259fa1892f0fe5984c4badf25810c",
-    "sha_short": "af35c3f",
-    "message": "docs: add full Docusaurus documentation site",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/af35c3f0085259fa1892f0fe5984c4badf25810c"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
     "pr_number": 17,
     "sha": "af09202348924912353fa6aaa9970e140436a925",
     "sha_short": "af09202",
@@ -54,6 +46,22 @@
     "sha_short": "f76f7fe",
     "message": "fix: repair broken GitHub Actions workflows and Android build compilation issues",
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f76f7fea749db8c1434656c779d714e4884d6d5e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 31,
+    "sha": "af35c3f0085259fa1892f0fe5984c4badf25810c",
+    "sha_short": "af35c3f",
+    "message": "docs: add full Docusaurus documentation site",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/af35c3f0085259fa1892f0fe5984c4badf25810c"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 31,
+    "sha": "4ba9fba3430fd3de30129566fbe9243b7ae51836",
+    "sha_short": "4ba9fba",
+    "message": "docs: address review feedback on the documentation site",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4ba9fba3430fd3de30129566fbe9243b7ae51836"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -392,30 +400,6 @@
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b88410f0e50681c0d2ebad8cdf10adbfbe1c3b48"
   },
   {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 9,
-    "sha": "26d32981f30b4fb5d2fb9e9c375e50d38a3bc11a",
-    "sha_short": "26d3298",
-    "message": "Fix failing workflows and optimize cache system",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/26d32981f30b4fb5d2fb9e9c375e50d38a3bc11a"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 9,
-    "sha": "9e12696349944743295cc02ee2fdcfe10eb96066",
-    "sha_short": "9e12696",
-    "message": "Fix failing workflows, build artifact paths, and cache system",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9e12696349944743295cc02ee2fdcfe10eb96066"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 9,
-    "sha": "1174eb2f22d33147524fbe7fa486422c13aee988",
-    "sha_short": "1174eb2",
-    "message": "Fix failing workflows, build artifact paths, and cache system",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1174eb2f22d33147524fbe7fa486422c13aee988"
-  },
-  {
     "repo": "hemorroidabot",
     "pr_number": 4,
     "sha": "27d8d44a7b1a8a3fa8e236896adbac12d8dc4e9b",
@@ -454,6 +438,38 @@
     "sha_short": "01192ec",
     "message": "[ImgBot] Optimize images",
     "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/01192ecb6b21eab290172910a228fdfde0c1321a"
+  },
+  {
+    "repo": "PersonaDB",
+    "pr_number": 5,
+    "sha": "ff5f49cf147b078c4a8cf4470c37ee1620036b28",
+    "sha_short": "ff5f49c",
+    "message": "docs: site Docusaurus em pt-BR com documentação completa do PersonaDB",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/ff5f49cf147b078c4a8cf4470c37ee1620036b28"
+  },
+  {
+    "repo": "PersonaDB",
+    "pr_number": 5,
+    "sha": "ffab23380b07d3b39672b1214657a36481c87e90",
+    "sha_short": "ffab233",
+    "message": "docs: publicar o site em /PersonaDB/docs/ e aplicar correções da revisão",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/ffab23380b07d3b39672b1214657a36481c87e90"
+  },
+  {
+    "repo": "PersonaDB",
+    "pr_number": 5,
+    "sha": "fcdf0f1eed996813431008cb46c68308fa12dd40",
+    "sha_short": "fcdf0f1",
+    "message": "ci: montar o artefato de Pages numa cópia pertencente ao runner",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/fcdf0f1eed996813431008cb46c68308fa12dd40"
+  },
+  {
+    "repo": "PersonaDB",
+    "pr_number": 5,
+    "sha": "be14fc2c9fdd5db7cb5962aa952059b26c3d5128",
+    "sha_short": "be14fc2",
+    "message": "docs: ajustes da segunda rodada de revisão",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/be14fc2c9fdd5db7cb5962aa952059b26c3d5128"
   },
   {
     "repo": "PersonaDB",
@@ -1425,6 +1441,14 @@
   },
   {
     "repo": "R2K16",
+    "pr_number": 2,
+    "sha": "d7f519da3b8d2c4b6b201c655273292229b4619d",
+    "sha_short": "d7f519d",
+    "message": "Bump the npm_and_yarn group across 2 directories with 3 updates",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/d7f519da3b8d2c4b6b201c655273292229b4619d"
+  },
+  {
+    "repo": "R2K16",
     "pr_number": 3,
     "sha": "3770f5a54ca9ad7f4bf7639e6ec4e461205400fb",
     "sha_short": "3770f5a",
@@ -1433,11 +1457,11 @@
   },
   {
     "repo": "R2K16",
-    "pr_number": 2,
-    "sha": "d7f519da3b8d2c4b6b201c655273292229b4619d",
-    "sha_short": "d7f519d",
-    "message": "Bump the npm_and_yarn group across 2 directories with 3 updates",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/d7f519da3b8d2c4b6b201c655273292229b4619d"
+    "pr_number": 3,
+    "sha": "2a104c133273cc655775d759af4bb1abcf434d73",
+    "sha_short": "2a104c1",
+    "message": "Apply review fixes to docs site and deploy workflow",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73"
   },
   {
     "repo": "R2K16",
@@ -1489,11 +1513,35 @@
   },
   {
     "repo": "steamlogger",
+    "pr_number": 3,
+    "sha": "d675d2e036341813334584f40cf43b5e50feea04",
+    "sha_short": "d675d2e",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/d675d2e036341813334584f40cf43b5e50feea04"
+  },
+  {
+    "repo": "steamlogger",
     "pr_number": 1,
     "sha": "da63afce1905635b901bc16af104022937168df1",
     "sha_short": "da63afc",
     "message": "Tolerate brief missing Steam game polls",
     "url": "https://github.com/havaianasdestruido/steamlogger/commit/da63afce1905635b901bc16af104022937168df1"
+  },
+  {
+    "repo": "steamlogger",
+    "pr_number": 2,
+    "sha": "00a1d0df6adb9c3e0dc70cc165b7ec213b85aa8b",
+    "sha_short": "00a1d0d",
+    "message": "docs: add full Docusaurus documentation site",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/00a1d0df6adb9c3e0dc70cc165b7ec213b85aa8b"
+  },
+  {
+    "repo": "steamlogger",
+    "pr_number": 2,
+    "sha": "ed8f729bf205f73fd6ae9e02b7fcaebf9943d8d0",
+    "sha_short": "ed8f729",
+    "message": "docs: address review feedback on the documentation site",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/ed8f729bf205f73fd6ae9e02b7fcaebf9943d8d0"
   },
   {
     "repo": "WAL-skill",
@@ -1512,12 +1560,36 @@
     "url": "https://github.com/havaianasdestruido/WebRadioFM/commit/9f9470c45f869990df8e68862ebc8aa837d1e1ba"
   },
   {
+    "repo": "WebRadioFM",
+    "pr_number": 1,
+    "sha": "36681f09e25e00179a3c7f46e86312e4ffdfef51",
+    "sha_short": "36681f0",
+    "message": "fix: address documentation review feedback",
+    "url": "https://github.com/havaianasdestruido/WebRadioFM/commit/36681f09e25e00179a3c7f46e86312e4ffdfef51"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 4,
+    "sha": "b575d5a7e88392d7228b9c33bc7a17caf3d63eb5",
+    "sha_short": "b575d5a",
+    "message": "website: redesign docs homepage and theme tokens (taste-skill pass)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b575d5a7e88392d7228b9c33bc7a17caf3d63eb5"
+  },
+  {
     "repo": "WindowsMovieMakerDecomp",
     "pr_number": 3,
     "sha": "66f7a725e8010b29ca8e312b82b6f4a32628fdea",
     "sha_short": "66f7a72",
     "message": "docs: add full-codebase Docusaurus documentation site",
     "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/66f7a725e8010b29ca8e312b82b6f4a32628fdea"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 3,
+    "sha": "4a2ece5e92fa5b08abf32cd91eb407f25df39972",
+    "sha_short": "4a2ece5",
+    "message": "docs: apply review fixes — accuracy corrections across the docs site",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4a2ece5e92fa5b08abf32cd91eb407f25df39972"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
