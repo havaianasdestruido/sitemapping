@@ -801,6 +801,406 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "af35c3f0085259fa1892f0fe5984c4badf25810c",
+    "sha_short": "af35c3f",
+    "author": "Arena Agent",
+    "date": "2026-10-02T17:00:54Z",
+    "message": "docs: add full Docusaurus documentation site",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/af35c3f0085259fa1892f0fe5984c4badf25810c"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "df208ede7b914077e460b4768a6d8e8483e824c4",
+    "sha_short": "df208ed",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-27T18:30:58Z",
+    "message": "compress images by ~19% + add tools/compress-images scripts (#30)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/df208ede7b914077e460b4768a6d8e8483e824c4"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "3b71fc11040bb5feb1ecc15391328e2f632ed7ee",
+    "sha_short": "3b71fc1",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T18:01:29Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/3b71fc11040bb5feb1ecc15391328e2f632ed7ee"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "b04c00ede10f8a789f712e7704e0768077d6774e",
+    "sha_short": "b04c00e",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-27T17:34:24Z",
+    "message": "build: add NO_BUILTIN_CONTENT content-stripped (copyright-safe) build flag (#29)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b04c00ede10f8a789f712e7704e0768077d6774e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "ce32df47153047fe0b5d34e8bedceafb6a7b0598",
+    "sha_short": "ce32df4",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T16:54:07Z",
+    "message": "compressed music a bit (.OGG & .MP3)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/ce32df47153047fe0b5d34e8bedceafb6a7b0598"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "eabf5be559724c950fd4f10d634056105c15ed38",
+    "sha_short": "eabf5be",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-27T16:42:02Z",
+    "message": "tools: fix audio compressor root default and the File.Replace() failure (#28)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/eabf5be559724c950fd4f10d634056105c15ed38"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "04c399f7185482b5a469a999d6c6b315de5a55c0",
+    "sha_short": "04c399f",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-27T15:28:04Z",
+    "message": "Add MP3 and OGG compression tools (#27)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/04c399f7185482b5a469a999d6c6b315de5a55c0"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "e139c900a24da4a2f1321105f1b9cf3eaa56cb77",
+    "sha_short": "e139c90",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T15:00:42Z",
+    "message": "Create dependabot.yml",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e139c900a24da4a2f1321105f1b9cf3eaa56cb77"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "5503461e306d503d381d34dfcbdd9bcd29eb52b6",
+    "sha_short": "5503461",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T14:58:44Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5503461e306d503d381d34dfcbdd9bcd29eb52b6"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "7381cfac52c776bf3b8a2310dd06d009d7fd3c85",
+    "sha_short": "7381cfa",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-27T14:54:51Z",
+    "message": "feat: add Phoenix URI deep links for Android, iOS and Windows (#25)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7381cfac52c776bf3b8a2310dd06d009d7fd3c85"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "b86002c7a1ca0b9ec8c7607ef16ffc3715637ffa",
+    "sha_short": "b86002c",
+    "author": "havaianasdestruido",
+    "date": "2026-09-25T16:54:42Z",
+    "message": "fix: point Android artifact uploads at the debug APK flavor",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b86002c7a1ca0b9ec8c7607ef16ffc3715637ffa"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "e7bab58afc41fa63b4d4370d86d9630283693f66",
+    "sha_short": "e7bab58",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-24T11:40:10Z",
+    "message": "Merge pull request #18 from havaianasdestruido/codex/fix-undefined-symbol-linker-error",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e7bab58afc41fa63b4d4370d86d9630283693f66"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "c603b0035227e6dfc0f18910b2623bbc63ac6fb1",
+    "sha_short": "c603b00",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T01:00:34Z",
+    "message": "fix(ci): disable hxcpp LTO for Android",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c603b0035227e6dfc0f18910b2623bbc63ac6fb1"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "98baf4edc004b7cc1b0693cd62462ef39c927493",
+    "sha_short": "98baf4e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:58:06Z",
+    "message": "Merge pull request #16 from havaianasdestruido/codex/fix-windows-builds-failing-in-steps",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/98baf4edc004b7cc1b0693cd62462ef39c927493"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "9bd823dad2063c1288cae53a3186dd36c4d4215f",
+    "sha_short": "9bd823d",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:35:28Z",
+    "message": "fix: avoid TankmenBG reset signature conflict",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9bd823dad2063c1288cae53a3186dd36c4d4215f"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "d7b4de828255471fa72726c7f24d58ff58a477ba",
+    "sha_short": "d7b4de8",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:29:27Z",
+    "message": "fix(ci): limit Windows C++ build parallelism",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d7b4de828255471fa72726c7f24d58ff58a477ba"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "105cc16be8801bbaaef68310f5f09efc2e6ebd3e",
+    "sha_short": "105cc16",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:14:03Z",
+    "message": "Merge pull request #15 from havaianasdestruido/codex/remove-obscene-words-from-code",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/105cc16be8801bbaaef68310f5f09efc2e6ebd3e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "00139b4a6962e49172a2115b3fdf616187fed9dd",
+    "sha_short": "00139b4",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:08:15Z",
+    "message": "refactor: rename inappropriate identifiers",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/00139b4a6962e49172a2115b3fdf616187fed9dd"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "1117fa6ae4d2c521ee4893d1263b86ddcfc21d77",
+    "sha_short": "1117fa6",
+    "author": "havaianasdestruido",
+    "date": "2026-09-18T00:18:51Z",
+    "message": "docs: add canonical agent instructions (AGENTS.md) + pointers (CLAUDE/AI.md)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1117fa6ae4d2c521ee4893d1263b86ddcfc21d77"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "b797836d31598b700eb535c2fd53c48d0b68d9f7",
+    "sha_short": "b797836",
+    "author": "havaianasdestruido",
+    "date": "2026-09-17T13:41:34Z",
+    "message": "revert: dynamic android thread count -> hardcoded 4 (restores normal compile; __cpp__ broke Haxe cpp)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b797836d31598b700eb535c2fd53c48d0b68d9f7"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "181b9dd1792ba4850818e5df29902aa8f335a572",
+    "sha_short": "181b9dd",
+    "author": "Pato (new acc)",
+    "date": "2026-08-31T13:04:06Z",
+    "message": "Update mobile-release.yml",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/181b9dd1792ba4850818e5df29902aa8f335a572"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "31f39abd9c3997556de871d92b2a1dd48918e1ce",
+    "sha_short": "31f39ab",
+    "author": "Pato (new acc)",
+    "date": "2026-08-31T13:02:11Z",
+    "message": "Update nightly.yml",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/31f39abd9c3997556de871d92b2a1dd48918e1ce"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "9aad3c7467837dd9e1a4e6a3eca159257e5fcf25",
+    "sha_short": "9aad3c7",
+    "author": "Pato (new acc)",
+    "date": "2026-08-31T13:01:53Z",
+    "message": "Update mobile.yml",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9aad3c7467837dd9e1a4e6a3eca159257e5fcf25"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "c9555e9167cd25382e7c787a08adb3e46b593614",
+    "sha_short": "c9555e9",
+    "author": "Pato (new acc)",
+    "date": "2026-08-31T13:01:15Z",
+    "message": "Update mobile-release.yml",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c9555e9167cd25382e7c787a08adb3e46b593614"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "682639c362a719cec04ec5341f9b305de1676436",
+    "sha_short": "682639c",
+    "author": "Pato (new acc)",
+    "date": "2026-08-31T13:01:00Z",
+    "message": "Update main.yml",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/682639c362a719cec04ec5341f9b305de1676436"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "a2180ebddf5d39f7ad6663acf011f9b30eb3ed84",
+    "sha_short": "a2180eb",
+    "author": "Pato (new acc)",
+    "date": "2026-08-31T12:54:31Z",
+    "message": "wtf",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a2180ebddf5d39f7ad6663acf011f9b30eb3ed84"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "6aa01043a37ecc99dd16811ad10bac782b9b45c3",
+    "sha_short": "6aa0104",
+    "author": "Pato (new acc)",
+    "date": "2026-08-31T12:51:15Z",
+    "message": "asdagfd",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6aa01043a37ecc99dd16811ad10bac782b9b45c3"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "20564903272cca331b0b1ee150634428943442ae",
+    "sha_short": "2056490",
+    "author": "Pato (new acc)",
+    "date": "2026-08-31T12:49:19Z",
+    "message": "now the default \"build only win + android\" thing should work",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/20564903272cca331b0b1ee150634428943442ae"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "6cdad81f7878a8243ee690b8b65dc0134bbc22cd",
+    "sha_short": "6cdad81",
+    "author": "Pato (new acc)",
+    "date": "2026-08-31T12:38:58Z",
+    "message": "test fix with that matrix thing",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6cdad81f7878a8243ee690b8b65dc0134bbc22cd"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "e546cecd718e88715f0730f55fc32bf63367327a",
+    "sha_short": "e546cec",
+    "author": "Pato (new acc)",
+    "date": "2026-08-31T12:24:30Z",
+    "message": "Merge pull request #13 from havaianasdestruido/jules-15472080900066083561-4f7fe005",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e546cecd718e88715f0730f55fc32bf63367327a"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "e18aa9c3d85cf8c350f31bbc5c14665bd8c364e6",
+    "sha_short": "e18aa9c",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-08-30T00:10:58Z",
+    "message": "Fix HXP certificate reference and update mobile CI workflows",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e18aa9c3d85cf8c350f31bbc5c14665bd8c364e6"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "b049c3172a677cf9b9ee456783a778a55f4d710c",
+    "sha_short": "b049c31",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-08-29T23:56:36Z",
+    "message": "Add mobile and Android support with touch controls and CI workflows",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b049c3172a677cf9b9ee456783a778a55f4d710c"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "b32e766873be17daf10731dba3e231e303ab26d4",
+    "sha_short": "b32e766",
+    "author": "Pato (new acc)",
+    "date": "2026-08-29T22:33:54Z",
+    "message": "New readme and stuff",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b32e766873be17daf10731dba3e231e303ab26d4"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "1b0e64c64e41558b541380b05b1292782049f211",
+    "sha_short": "1b0e64c",
+    "author": "havaianasdestruido",
+    "date": "2026-08-29T00:59:07Z",
+    "message": "ci: clear whole hxcpp cache to avoid stale PCH link errors",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1b0e64c64e41558b541380b05b1292782049f211"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "aabd946f1b4a7898e90083e88a7620e46c550cab",
+    "sha_short": "aabd946",
+    "author": "havaianasdestruido",
+    "date": "2026-08-28T23:55:13Z",
+    "message": "refactor: add headers package to categorize helper groups",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/aabd946f1b4a7898e90083e88a7620e46c550cab"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "85ff8436e3cb28d72d56de320d50fa900b94a3d7",
+    "sha_short": "85ff843",
+    "author": "havaianasdestruido",
+    "date": "2026-08-28T23:24:01Z",
+    "message": "refactor: extract remaining monoliths into helper classes",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/85ff8436e3cb28d72d56de320d50fa900b94a3d7"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "4181d109d534da7874bc24beee64e44f2c30c43b",
+    "sha_short": "4181d10",
+    "author": "Pato (new acc)",
+    "date": "2026-08-28T18:26:37Z",
+    "message": "yay: new readme",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4181d109d534da7874bc24beee64e44f2c30c43b"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "387269d3c9879f53645b4c475e00d8dd6bb9935c",
+    "sha_short": "387269d",
+    "author": "havaianasdestruido",
+    "date": "2026-08-28T18:18:00Z",
+    "message": "ci: drop stale precompiled headers from hxcpp cache",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/387269d3c9879f53645b4c475e00d8dd6bb9935c"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "24be09902c3f78b95642048f88b5e3d741f65f2e",
+    "sha_short": "24be099",
+    "author": "havaianasdestruido",
+    "date": "2026-08-28T18:10:16Z",
+    "message": "fix: gate window coloring to Windows-only",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/24be09902c3f78b95642048f88b5e3d741f65f2e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "sha": "33e3acb8f3a7dd7fc1f031efd8605d1aa73c4cf5",
+    "sha_short": "33e3acb",
+    "author": "havaianasdestruido",
+    "date": "2026-08-28T18:02:39Z",
+    "message": "fix: restore compilation after source tree refactor",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/33e3acb8f3a7dd7fc1f031efd8605d1aa73c4cf5"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
     "branch": "codex/add-javadoc/jsdoc-tags-to-functions",
     "sha": "b03cf22250bd457423560ee614e80895ada78b16",
     "sha_short": "b03cf22",
@@ -2800,406 +3200,6 @@
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/ba3ee2979fa16b1f258aed5a194b1669a349f5d1"
   },
   {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "192918f4a8a6ef278f165358d85cb69fdcdce7b9",
-    "sha_short": "192918f",
-    "author": "Pato (new acc)",
-    "date": "2026-08-11T16:50:37Z",
-    "message": "Merge pull request #3 from JordanSantiagoYT/main",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/192918f4a8a6ef278f165358d85cb69fdcdce7b9"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "1a434a28c4dbc6f5f5f604e56415f2b163f4b6c0",
-    "sha_short": "1a434a2",
-    "author": "Flynn Waiver",
-    "date": "2026-08-11T16:48:57Z",
-    "message": "Merge pull request #1587 from havaianasdestruido/git-clone-warning",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1a434a28c4dbc6f5f5f604e56415f2b163f4b6c0"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "e82534b865d26d45164e86ccdb7d3fc90908ff51",
-    "sha_short": "e82534b",
-    "author": "Pato (new acc)",
-    "date": "2026-08-11T15:11:45Z",
-    "message": "Update README.md",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e82534b865d26d45164e86ccdb7d3fc90908ff51"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "253e8fa0d996a2b14eff651e192127ca61908bd5",
-    "sha_short": "253e8fa",
-    "author": "Flynn Waiver",
-    "date": "2026-08-11T00:35:39Z",
-    "message": "ok so NOW this works??",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/253e8fa0d996a2b14eff651e192127ca61908bd5"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "8ac38b537201f3eaed7634d9e15d2203e614e0cc",
-    "sha_short": "8ac38b5",
-    "author": "Flynn Waiver",
-    "date": "2026-08-11T00:19:30Z",
-    "message": "Merge pull request #1585 from JordanSantiagoYT/hxluajit-revert",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/8ac38b537201f3eaed7634d9e15d2203e614e0cc"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "35d18c223de002aeb809e08c3ba32859bdd19555",
-    "sha_short": "35d18c2",
-    "author": "Flynn Waiver",
-    "date": "2026-08-11T00:17:33Z",
-    "message": "Update Convert.hx",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/35d18c223de002aeb809e08c3ba32859bdd19555"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "42cd7b723ddc08e17e2eebc4c67a99e03ad28edb",
-    "sha_short": "42cd7b7",
-    "author": "JordanSantiagoYT",
-    "date": "2026-08-10T23:23:56Z",
-    "message": "Revert the change from hxluau to hxluaji",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/42cd7b723ddc08e17e2eebc4c67a99e03ad28edb"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "7aa0a32245bcf0b54d496dfb4a99fdb596048423",
-    "sha_short": "7aa0a32",
-    "author": "Flynn Waiver",
-    "date": "2026-08-10T23:16:36Z",
-    "message": "Move assets/exclude to art/exclude",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7aa0a32245bcf0b54d496dfb4a99fdb596048423"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "807a36648d24834427d967ad4f230a112ff7a64c",
-    "sha_short": "807a366",
-    "author": "Flynn Waiver",
-    "date": "2026-08-10T23:13:32Z",
-    "message": "Organize art scripts; remove excluded audio files",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/807a36648d24834427d967ad4f230a112ff7a64c"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "688d9467da09651190b68a5befbc3bf5a75ccfef",
-    "sha_short": "688d946",
-    "author": "Flynn Waiver",
-    "date": "2026-08-10T20:56:03Z",
-    "message": "compress the audio files, again",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/688d9467da09651190b68a5befbc3bf5a75ccfef"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "ff16751ce40e04cac68e7605c9bcb799f418c409",
-    "sha_short": "ff16751",
-    "author": "UltimateQuack",
-    "date": "2026-08-09T16:33:34Z",
-    "message": "feat(build): add ULTRA_OPTIMIZED (native) + ULTRA_HTML5 (web) max-speed flags, docs, and one-click helper scripts",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/ff16751ce40e04cac68e7605c9bcb799f418c409"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "70a05f8292751d4ecf19159f1cc2f3ff71e50724",
-    "sha_short": "70a05f8",
-    "author": "UltimateQuack",
-    "date": "2026-08-08T15:43:12Z",
-    "message": "feat(options): add Rain FX toggle, gate rain shader creation and reuse arrays (high bottleneck)",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/70a05f8292751d4ecf19159f1cc2f3ff71e50724"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "e4d18ce710d66731c6a15782692ac43e0b421ac0",
-    "sha_short": "e4d18ce",
-    "author": "UltimateQuack",
-    "date": "2026-08-08T15:43:07Z",
-    "message": "perf(Options): throttle option text updates and guard score redraw (high bottleneck)",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e4d18ce710d66731c6a15782692ac43e0b421ac0"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "892c62962b7a065c9a7dae2a23d745c9ed41616f",
-    "sha_short": "892c629",
-    "author": "UltimateQuack",
-    "date": "2026-08-08T15:43:01Z",
-    "message": "perf(FlxGame, FPSCounter): cache PlayState check and throttle outline redraw (high bottleneck)",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/892c62962b7a065c9a7dae2a23d745c9ed41616f"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "2396c5686e5110bfc54840fdfa1a48a7f5aef6f9",
-    "sha_short": "2396c56",
-    "author": "UltimateQuack",
-    "date": "2026-08-08T15:42:55Z",
-    "message": "perf(ChartingState): cache grid layer and waveform buffers, dedupe undo (high bottleneck)",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/2396c5686e5110bfc54840fdfa1a48a7f5aef6f9"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "a15e44fa9c6548c135753109960137168eb17b86",
-    "sha_short": "a15e44f",
-    "author": "UltimateQuack",
-    "date": "2026-08-08T15:42:50Z",
-    "message": "perf(Alphabet): cache sparrow atlases and skip duplicate animations (high bottleneck)",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a15e44fa9c6548c135753109960137168eb17b86"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "b3f16fc0d472c76fd38fc2cb9e2567411b7f9cf8",
-    "sha_short": "b3f16fc",
-    "author": "UltimateQuack",
-    "date": "2026-08-08T15:42:42Z",
-    "message": "perf(PlayState): batch note iteration and inline key arrays (high bottleneck)",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b3f16fc0d472c76fd38fc2cb9e2567411b7f9cf8"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "c8ca8c22e24d2e88e84d51585c2e0288a68601c0",
-    "sha_short": "c8ca8c2",
-    "author": "UltimateQuack",
-    "date": "2026-08-08T15:42:37Z",
-    "message": "perf(Convert): direct-call bridge for 0-8 args (high bottleneck)",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c8ca8c22e24d2e88e84d51585c2e0288a68601c0"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "5f38b1e347a28888cc0cf182c91f736b26375d15",
-    "sha_short": "5f38b1e",
-    "author": "UltimateQuack",
-    "date": "2026-08-08T15:42:32Z",
-    "message": "perf(HScript): cache parsed AST to avoid re-parsing (ultra bottleneck)",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5f38b1e347a28888cc0cf182c91f736b26375d15"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "9f90c596c1a7df0be189268a6c7651219d55ef02",
-    "sha_short": "9f90c59",
-    "author": "UltimateQuack",
-    "date": "2026-08-08T15:42:28Z",
-    "message": "perf(FunkinLua): cache missing calls and fast-path var splitting (ultra bottleneck)",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9f90c596c1a7df0be189268a6c7651219d55ef02"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "47df8601b46dccafa503c2ba961814bbfc840c60",
-    "sha_short": "47df860",
-    "author": "Jordan Santiago",
-    "date": "2026-06-19T19:30:50Z",
-    "message": "yeah i have no idea what's happening",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/47df8601b46dccafa503c2ba961814bbfc840c60"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "66ebe1bb73afb03d4e57591281b9249fc44084ce",
-    "sha_short": "66ebe1b",
-    "author": "Jordan Santiago",
-    "date": "2026-06-19T15:59:41Z",
-    "message": "Add lime rebuild line",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/66ebe1bb73afb03d4e57591281b9249fc44084ce"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "490cc3a6ddb0077bc12c2bf4bda6c696855eb16d",
-    "sha_short": "490cc3a",
-    "author": "JordanSantiagoYT",
-    "date": "2026-06-19T06:48:21Z",
-    "message": "wait whoops",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/490cc3a6ddb0077bc12c2bf4bda6c696855eb16d"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "07361f3d8c8cba269620a0013585b66cd7c3eac5",
-    "sha_short": "07361f3",
-    "author": "JordanSantiagoYT",
-    "date": "2026-06-19T06:47:35Z",
-    "message": "Bump JS version to 1.51.0.",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/07361f3d8c8cba269620a0013585b66cd7c3eac5"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "ac5d66c5470b48ecd4f3a60afaa646313a2a9a17",
-    "sha_short": "ac5d66c",
-    "author": "JordanSantiagoYT",
-    "date": "2026-06-19T06:46:51Z",
-    "message": "Remake Set Camera Zoom function",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/ac5d66c5470b48ecd4f3a60afaa646313a2a9a17"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "e276e12a84aa06db5afa1ea87462d5fc2e8febec",
-    "sha_short": "e276e12",
-    "author": "JordanSantiagoYT",
-    "date": "2026-06-17T06:40:29Z",
-    "message": "whoops",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e276e12a84aa06db5afa1ea87462d5fc2e8febec"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "09eec517307bd8c8152c7e522ef24546b2982cfb",
-    "sha_short": "09eec51",
-    "author": "JordanSantiagoYT",
-    "date": "2026-06-17T06:34:45Z",
-    "message": "Change camera zooming to the V-Slice system",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/09eec517307bd8c8152c7e522ef24546b2982cfb"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "9bfef182929d28152ce83cd31fb681ec8ac78255",
-    "sha_short": "9bfef18",
-    "author": "Flynn Waiver",
-    "date": "2026-06-14T14:45:13Z",
-    "message": "GC Optimization (hopefully)",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9bfef182929d28152ce83cd31fb681ec8ac78255"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "0a0ff0f7ac133b5e53fdb2af9b93193344e888e1",
-    "sha_short": "0a0ff0f",
-    "author": "Flynn Waiver",
-    "date": "2026-06-03T22:55:26Z",
-    "message": "Add HaxeUI preprocessor defines to project",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0a0ff0f7ac133b5e53fdb2af9b93193344e888e1"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "58fa9fa8616945448cdf5a8ff2297315588ccaa6",
-    "sha_short": "58fa9fa",
-    "author": "Flynn Waiver",
-    "date": "2026-05-31T00:27:59Z",
-    "message": "Simplify useRGBShader condition",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/58fa9fa8616945448cdf5a8ff2297315588ccaa6"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "a1519881c155261d21b3b8ab221fb3d21641cb4c",
-    "sha_short": "a151988",
-    "author": "Flynn Waiver",
-    "date": "2026-04-05T23:24:53Z",
-    "message": "Merge branch 'main' of https://github.com/JordanSantiagoYT/FNF-JS-Engine",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a1519881c155261d21b3b8ab221fb3d21641cb4c"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "b540b2668c684985857ba8855e3e209733baeecf",
-    "sha_short": "b540b26",
-    "author": "Flynn Waiver",
-    "date": "2026-04-05T23:24:49Z",
-    "message": "Repack note assets and refactor dialogue parsing",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b540b2668c684985857ba8855e3e209733baeecf"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "306df5dcc405b50d807f7781af0fb8417fdf1d73",
-    "sha_short": "306df5d",
-    "author": "JordanSantiagoYT",
-    "date": "2026-04-04T22:25:42Z",
-    "message": "Make CRM use the user-specified render path.",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/306df5dcc405b50d807f7781af0fb8417fdf1d73"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "4fe49cad0ccd57305f1eb81b55ca9c928e540363",
-    "sha_short": "4fe49ca",
-    "author": "Flynn Waiver",
-    "date": "2026-04-02T14:39:03Z",
-    "message": "Simplify Map initialization in Highscore class",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4fe49cad0ccd57305f1eb81b55ca9c928e540363"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "cb7b635defc8ec9bc63222fcc04dd87cee0da0b4",
-    "sha_short": "cb7b635",
-    "author": "Flynn Waiver",
-    "date": "2026-03-30T17:02:26Z",
-    "message": "use the fixed icons from Funkin",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/cb7b635defc8ec9bc63222fcc04dd87cee0da0b4"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "b313203446a3c247ffbd95019b311d73c7a63f36",
-    "sha_short": "b313203",
-    "author": "Flynn Waiver",
-    "date": "2026-03-30T16:48:40Z",
-    "message": "Use resolved 'skin' variable in initSplash",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b313203446a3c247ffbd95019b311d73c7a63f36"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "8aac4334cecd28ec4dfc08ea15a7b0f134a0f5d4",
-    "sha_short": "8aac433",
-    "author": "Flynn Waiver",
-    "date": "2026-03-30T16:32:44Z",
-    "message": "Merge branch 'main' of https://github.com/JordanSantiagoYT/FNF-JS-Engine",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/8aac4334cecd28ec4dfc08ea15a7b0f134a0f5d4"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "3210fc0556d955859a719b35510748b7e834db67",
-    "sha_short": "3210fc0",
-    "author": "Flynn Waiver",
-    "date": "2026-03-30T16:32:41Z",
-    "message": "test: Optimization from CNE",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/3210fc0556d955859a719b35510748b7e834db67"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "4561d1c9464dc141350af5dbe59be6cbb693ac7e",
-    "sha_short": "4561d1c",
-    "author": "JordanSantiagoYT",
-    "date": "2026-03-28T20:09:49Z",
-    "message": "Remove Showcase Mode",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4561d1c9464dc141350af5dbe59be6cbb693ac7e"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "branch": "fix-workflows-hython",
-    "sha": "d39217706344e2085c0b1309fab0704efb6d85f2",
-    "sha_short": "d392177",
-    "author": "Vinegar (Flynn Waiver)",
-    "date": "2026-03-25T17:12:34Z",
-    "message": "I don't go by that name a lot anymore",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d39217706344e2085c0b1309fab0704efb6d85f2"
-  },
-  {
     "repo": "blaster",
     "branch": "main",
     "sha": "bdd10979b2c56ba58576c3e5f64abcf43b2512c5",
@@ -3912,6 +3912,16 @@
   {
     "repo": "PersonaDB",
     "branch": "arena/01a0ee67-personadb",
+    "sha": "f6339b0665bb9b01f9e0c511499cad4c89c663e9",
+    "sha_short": "f6339b0",
+    "author": "coderabbitai[bot]",
+    "date": "2026-10-02T13:41:31Z",
+    "message": "Fix persona generation consistency, schema parsing, and legal and temporal validation; add regression coverage",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/f6339b0665bb9b01f9e0c511499cad4c89c663e9"
+  },
+  {
+    "repo": "PersonaDB",
+    "branch": "arena/01a0ee67-personadb",
     "sha": "74b770393f7b8d47d726300fc7506ffc35bd86c2",
     "sha_short": "74b7703",
     "author": "havaianasdestruido",
@@ -3998,16 +4008,6 @@
     "date": "2026-09-21T01:10:22Z",
     "message": "Set imgbot schedule to weekly",
     "url": "https://github.com/havaianasdestruido/PersonaDB/commit/83ecbe73cdc1d91729a1ed981e44f23f4dcb69db"
-  },
-  {
-    "repo": "PersonaDB",
-    "branch": "arena/01a0ee67-personadb",
-    "sha": "cb53c24e403668ec5dcc9eb81ced2178936dd037",
-    "sha_short": "cb53c24",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-21T00:38:11Z",
-    "message": "Add .imgbotconfig for aggressive image compression",
-    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/cb53c24e403668ec5dcc9eb81ced2178936dd037"
   },
   {
     "repo": "PersonaDB",
@@ -4282,6 +4282,46 @@
   {
     "repo": "PersonaDB",
     "branch": "main",
+    "sha": "05dc2a2695b0cf7a17a9447dc2d3083ac967903b",
+    "sha_short": "05dc2a2",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-02T13:44:09Z",
+    "message": "Merge pull request #4 from havaianasdestruido/arena/01a0ee67-personadb",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/05dc2a2695b0cf7a17a9447dc2d3083ac967903b"
+  },
+  {
+    "repo": "PersonaDB",
+    "branch": "main",
+    "sha": "f6339b0665bb9b01f9e0c511499cad4c89c663e9",
+    "sha_short": "f6339b0",
+    "author": "coderabbitai[bot]",
+    "date": "2026-10-02T13:41:31Z",
+    "message": "Fix persona generation consistency, schema parsing, and legal and temporal validation; add regression coverage",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/f6339b0665bb9b01f9e0c511499cad4c89c663e9"
+  },
+  {
+    "repo": "PersonaDB",
+    "branch": "main",
+    "sha": "c02ccb634f72ffac463166a667582f15da8154d3",
+    "sha_short": "c02ccb6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-02T13:12:00Z",
+    "message": "Create jekyll-gh-pages.yml",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/c02ccb634f72ffac463166a667582f15da8154d3"
+  },
+  {
+    "repo": "PersonaDB",
+    "branch": "main",
+    "sha": "74b770393f7b8d47d726300fc7506ffc35bd86c2",
+    "sha_short": "74b7703",
+    "author": "havaianasdestruido",
+    "date": "2026-09-30T11:23:16Z",
+    "message": "feat: implement all 25 domain generators, consistency validators, docs, and tests",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/74b770393f7b8d47d726300fc7506ffc35bd86c2"
+  },
+  {
+    "repo": "PersonaDB",
+    "branch": "main",
     "sha": "571ae0c8005dfc3080fefde875644f73b3fa6844",
     "sha_short": "571ae0c",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -4338,46 +4378,6 @@
     "date": "2026-09-29T17:54:34Z",
     "message": "Add dataset loading and export utilities",
     "url": "https://github.com/havaianasdestruido/PersonaDB/commit/67921f8f8af5e8ff7c52077400e33dd7ae7d7926"
-  },
-  {
-    "repo": "PersonaDB",
-    "branch": "main",
-    "sha": "9b630776680db0ef4bcdd0493413ebbc61b467f3",
-    "sha_short": "9b63077",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-25T19:36:03Z",
-    "message": "Merge pull request #1 from havaianasdestruido/codex/finalize-remaining-work-to-100%",
-    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/9b630776680db0ef4bcdd0493413ebbc61b467f3"
-  },
-  {
-    "repo": "PersonaDB",
-    "branch": "main",
-    "sha": "4ec345a922409f39ba7b19c272e31f86955b9ef5",
-    "sha_short": "4ec345a",
-    "author": "coderabbitai[bot]",
-    "date": "2026-09-24T13:05:27Z",
-    "message": "Add docstrings for dataset generation, benchmarking, and validation",
-    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/4ec345a922409f39ba7b19c272e31f86955b9ef5"
-  },
-  {
-    "repo": "PersonaDB",
-    "branch": "main",
-    "sha": "425af85dc6162210ee0902889f905ab89c9591a1",
-    "sha_short": "425af85",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-24T12:44:57Z",
-    "message": "Add deterministic generation pipeline tooling",
-    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/425af85dc6162210ee0902889f905ab89c9591a1"
-  },
-  {
-    "repo": "PersonaDB",
-    "branch": "main",
-    "sha": "83ecbe73cdc1d91729a1ed981e44f23f4dcb69db",
-    "sha_short": "83ecbe7",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-21T01:10:22Z",
-    "message": "Set imgbot schedule to weekly",
-    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/83ecbe73cdc1d91729a1ed981e44f23f4dcb69db"
   },
   {
     "repo": "pong-pop",
@@ -4752,6 +4752,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "7c8d1ada05a9e84ce720cf68f85926a4b09d0596",
+    "sha_short": "7c8d1ad",
+    "author": "GitHub Action Bot",
+    "date": "2026-10-02T10:14:11Z",
+    "message": "📊 [2026-10-02 10:14:11 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/7c8d1ada05a9e84ce720cf68f85926a4b09d0596"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "1f7881d85853fdc7352fc01a4eeff35b49deb63f",
     "sha_short": "1f7881d",
     "author": "GitHub Action Bot",
@@ -4842,12 +4852,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "c8eabd67db9ed31999c85bacd5dc98839f438f8f",
-    "sha_short": "c8eabd6",
+    "sha": "893c0d0fd1d2de417cf4f27a5a71c88dadd90206",
+    "sha_short": "893c0d0",
     "author": "GitHub Action Bot",
-    "date": "2026-09-29T23:23:31Z",
-    "message": "📊 [2026-09-29 23:23:31 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/c8eabd67db9ed31999c85bacd5dc98839f438f8f"
+    "date": "2026-09-23T19:24:21Z",
+    "message": "📊 [2026-09-23 19:24:21 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/893c0d0fd1d2de417cf4f27a5a71c88dadd90206"
   },
   {
     "repo": "sitemapping",
@@ -4942,12 +4952,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "0dd76621ed7678be15d93e1d4c94bbfb59c72a1b",
-    "sha_short": "0dd7662",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-21T17:30:15Z",
-    "message": "📊 [2026-09-21 17:30:15 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/0dd76621ed7678be15d93e1d4c94bbfb59c72a1b"
+    "sha": "9fb18fd83017c24ce07c433b500ed44fb009b718",
+    "sha_short": "9fb18fd",
+    "author": "Pato (new acc)",
+    "date": "2026-09-19T14:12:24Z",
+    "message": "Implement data export to CSV and JSON formats",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/9fb18fd83017c24ce07c433b500ed44fb009b718"
   },
   {
     "repo": "sitemapping",
@@ -5040,14 +5050,14 @@
     "url": "https://github.com/havaianasdestruido/sitemapping/commit/f6fd77b275bbe54cb676aa5c340390d1e8ca0b32"
   },
   {
-    "repo": "sitemapping",
+    "repo": "top100",
     "branch": "main",
-    "sha": "40e60b0e78401f338eb7999711921a136c71be2c",
-    "sha_short": "40e60b0",
-    "author": "Pato (new acc)",
-    "date": "2026-09-13T17:37:47Z",
-    "message": "whoops",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/40e60b0e78401f338eb7999711921a136c71be2c"
+    "sha": "7a0ff6aa146a00398204c2d7786fd6509721e0e1",
+    "sha_short": "7a0ff6a",
+    "author": "github-actions[bot]",
+    "date": "2026-10-02T14:15:39Z",
+    "message": "data: update top repos data (2026-10-02 14:15 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/7a0ff6aa146a00398204c2d7786fd6509721e0e1"
   },
   {
     "repo": "top100",
@@ -5142,12 +5152,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "c26319f2bef9c324b1790ec08015c36716a21271",
-    "sha_short": "c26319f",
+    "sha": "a0d93d704698c09eb350d6dd38e6f56658f5de4d",
+    "sha_short": "a0d93d7",
     "author": "github-actions[bot]",
-    "date": "2026-09-30T07:37:13Z",
-    "message": "data: update top repos data (2026-09-30 07:37 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/c26319f2bef9c324b1790ec08015c36716a21271"
+    "date": "2026-09-26T05:54:36Z",
+    "message": "data: update top repos data (2026-09-26)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/a0d93d704698c09eb350d6dd38e6f56658f5de4d"
   },
   {
     "repo": "top100",
@@ -5242,12 +5252,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "4d68ad077ca28680ef1b0d362d2f8451718833ea",
-    "sha_short": "4d68ad0",
+    "sha": "00fa3447ba3f3efb69ca7b4156b032e8ec661950",
+    "sha_short": "00fa344",
     "author": "github-actions[bot]",
-    "date": "2026-09-24T15:33:23Z",
-    "message": "data: update top repos data (2026-09-24)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/4d68ad077ca28680ef1b0d362d2f8451718833ea"
+    "date": "2026-09-20T21:58:55Z",
+    "message": "data: update top repos data (2026-09-20)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/00fa3447ba3f3efb69ca7b4156b032e8ec661950"
   },
   {
     "repo": "top100",
@@ -5338,16 +5348,6 @@
     "date": "2026-09-20T19:54:16Z",
     "message": "Update cron schedule to run every hour",
     "url": "https://github.com/havaianasdestruido/top100/commit/2723f0f56f61ee64dcf59100cf8524c93769b885"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "931f06c1bcb03ed092a402330fafe30eb8d5a9a1",
-    "sha_short": "931f06c",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:52:39Z",
-    "message": "Update README.md",
-    "url": "https://github.com/havaianasdestruido/top100/commit/931f06c1bcb03ed092a402330fafe30eb8d5a9a1"
   },
   {
     "repo": ".github",
@@ -7431,247 +7431,47 @@
   },
   {
     "repo": "CivilConection",
-    "branch": "arena/01a0f8be-civilconection",
-    "sha": "c139a0848dd0544043e14e842d8bfa269db37bd6",
-    "sha_short": "c139a08",
-    "author": "Arena Agent",
-    "date": "2026-10-01T19:12:00Z",
-    "message": "review: clean extensionless URLs + conservative asset cache",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/c139a0848dd0544043e14e842d8bfa269db37bd6"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "arena/01a0f8be-civilconection",
-    "sha": "16b49cff11aee0d22f062ef8af7554d412cb452f",
-    "sha_short": "16b49cf",
-    "author": "Arena Agent",
-    "date": "2026-10-01T18:59:50Z",
-    "message": "perf: resolve PageSpeed Insights findings (LCP/CLS, a11y, security, SEO)",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/16b49cff11aee0d22f062ef8af7554d412cb452f"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "arena/01a0f8be-civilconection",
-    "sha": "0e1336edfdde5faf89d322f5193e78f209c3ac76",
-    "sha_short": "0e1336e",
+    "branch": "CivilConectionV1",
+    "sha": "0c4c285c84a55211f6e9b0b60c9f65f769a50777",
+    "sha_short": "0c4c285",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-01T18:29:36Z",
-    "message": "Merge pull request #6 from havaianasdestruido/imgbot",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/0e1336edfdde5faf89d322f5193e78f209c3ac76"
+    "date": "2026-10-02T16:59:54Z",
+    "message": "utilidade pra iniciar o back & front",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/0c4c285c84a55211f6e9b0b60c9f65f769a50777"
   },
   {
     "repo": "CivilConection",
-    "branch": "arena/01a0f8be-civilconection",
-    "sha": "e9a51986bc2ea14cb071838a69d6b4902f4995fe",
-    "sha_short": "e9a5198",
-    "author": "ImgBotApp",
-    "date": "2026-10-01T18:14:20Z",
-    "message": "[ImgBot] Optimize images",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/e9a51986bc2ea14cb071838a69d6b4902f4995fe"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "arena/01a0f8be-civilconection",
-    "sha": "b85d2e6abfedd768eef3993754c27f00e8e7cdb5",
-    "sha_short": "b85d2e6",
+    "branch": "CivilConectionV1",
+    "sha": "d5826d8883418b514c24faadd3407bbdd9b7d288",
+    "sha_short": "d5826d8",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-01T17:48:19Z",
-    "message": "Merge pull request #5 from havaianasdestruido/arena/01a0f885-civilconection",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/b85d2e6abfedd768eef3993754c27f00e8e7cdb5"
+    "date": "2026-10-02T16:42:48Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0fd74-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/d5826d8883418b514c24faadd3407bbdd9b7d288"
   },
   {
     "repo": "CivilConection",
-    "branch": "arena/01a0f8be-civilconection",
-    "sha": "0a8681e3b4046af01b4d5f500ce864464660feff",
-    "sha_short": "0a8681e",
+    "branch": "CivilConectionV1",
+    "sha": "c62ae73333ad91d98d06cc99fb52d2c7cd3b8567",
+    "sha_short": "c62ae73",
     "author": "havaianasdestruido",
-    "date": "2026-10-01T17:45:56Z",
-    "message": "fix(frontend): corrige XSS, corrida de busca, login falso e cadastro parcial",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/0a8681e3b4046af01b4d5f500ce864464660feff"
+    "date": "2026-10-02T16:41:24Z",
+    "message": "docs: add comprehensive Docusaurus portal",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/c62ae73333ad91d98d06cc99fb52d2c7cd3b8567"
   },
   {
     "repo": "CivilConection",
-    "branch": "arena/01a0f8be-civilconection",
-    "sha": "d5cdbe3251bf0f68d2f203b2cfdd2a57436be9a0",
-    "sha_short": "d5cdbe3",
-    "author": "havaianasdestruido",
-    "date": "2026-10-01T17:34:13Z",
-    "message": "Merge branch 'feature/init-springboot-backend-6483368769379451831' into arena/01a0f885-civilconection",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/d5cdbe3251bf0f68d2f203b2cfdd2a57436be9a0"
+    "branch": "CivilConectionV1",
+    "sha": "49061aa048bce20ae4282a292fb321bb97999caa",
+    "sha_short": "49061aa",
+    "author": "Guilherme Olimpio",
+    "date": "2026-10-01T22:09:12Z",
+    "message": "Merge pull request #2 from havaianasdestruido/main",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/49061aa048bce20ae4282a292fb321bb97999caa"
   },
   {
     "repo": "CivilConection",
-    "branch": "arena/01a0f8be-civilconection",
-    "sha": "25f15410519eaa5c11a09874ee88bc89f38454e5",
-    "sha_short": "25f1541",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-01T17:31:45Z",
-    "message": "Merge pull request #2 from havaianasdestruido/arena/01a0f856-civilconection",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/25f15410519eaa5c11a09874ee88bc89f38454e5"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "arena/01a0f8be-civilconection",
-    "sha": "81e978d4cb25b56669669dcb33188b36a1b4a90d",
-    "sha_short": "81e978d",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-01T17:23:58Z",
-    "message": "Merge pull request #4 from havaianasdestruido/imgbot",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/81e978d4cb25b56669669dcb33188b36a1b4a90d"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "arena/01a0f8be-civilconection",
-    "sha": "2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063",
-    "sha_short": "2cf78e9",
-    "author": "havaianasdestruido",
-    "date": "2026-10-01T17:22:00Z",
-    "message": "fix(frontend): desacopla busca do herói de /api/stats e sincroniza 4ª cópia em src/",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "arena/01a0f8be-civilconection",
-    "sha": "43512d5f46770170fbfb599be4fe8620ee60f9e4",
-    "sha_short": "43512d5",
-    "author": "fernandoalmeidadelima64-collab",
-    "date": "2026-09-03T17:50:14Z",
-    "message": "Add SPEC.MD file",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/43512d5f46770170fbfb599be4fe8620ee60f9e4"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "arena/01a0f8be-civilconection",
-    "sha": "369097e8ac5b732a07df0cfae505b08c39cb7fbe",
-    "sha_short": "369097e",
-    "author": "fernandoalmeidadelima64-collab",
-    "date": "2026-09-03T17:49:23Z",
-    "message": "Add README.md for Civil Connection project",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/369097e8ac5b732a07df0cfae505b08c39cb7fbe"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "arena/01a0f8be-civilconection",
-    "sha": "0db3b400fb24acf5bb591f64d05216848cbe3dbd",
-    "sha_short": "0db3b40",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-09-03T17:17:29Z",
-    "message": "feat: initialize Spring Boot backend with JPA entities and Supabase config",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/0db3b400fb24acf5bb591f64d05216848cbe3dbd"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "feature/init-springboot-backend-6483368769379451831",
-    "sha": "0e1336edfdde5faf89d322f5193e78f209c3ac76",
-    "sha_short": "0e1336e",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-01T18:29:36Z",
-    "message": "Merge pull request #6 from havaianasdestruido/imgbot",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/0e1336edfdde5faf89d322f5193e78f209c3ac76"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "feature/init-springboot-backend-6483368769379451831",
-    "sha": "e9a51986bc2ea14cb071838a69d6b4902f4995fe",
-    "sha_short": "e9a5198",
-    "author": "ImgBotApp",
-    "date": "2026-10-01T18:14:20Z",
-    "message": "[ImgBot] Optimize images",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/e9a51986bc2ea14cb071838a69d6b4902f4995fe"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "feature/init-springboot-backend-6483368769379451831",
-    "sha": "b85d2e6abfedd768eef3993754c27f00e8e7cdb5",
-    "sha_short": "b85d2e6",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-01T17:48:19Z",
-    "message": "Merge pull request #5 from havaianasdestruido/arena/01a0f885-civilconection",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/b85d2e6abfedd768eef3993754c27f00e8e7cdb5"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "feature/init-springboot-backend-6483368769379451831",
-    "sha": "0a8681e3b4046af01b4d5f500ce864464660feff",
-    "sha_short": "0a8681e",
-    "author": "havaianasdestruido",
-    "date": "2026-10-01T17:45:56Z",
-    "message": "fix(frontend): corrige XSS, corrida de busca, login falso e cadastro parcial",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/0a8681e3b4046af01b4d5f500ce864464660feff"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "feature/init-springboot-backend-6483368769379451831",
-    "sha": "d5cdbe3251bf0f68d2f203b2cfdd2a57436be9a0",
-    "sha_short": "d5cdbe3",
-    "author": "havaianasdestruido",
-    "date": "2026-10-01T17:34:13Z",
-    "message": "Merge branch 'feature/init-springboot-backend-6483368769379451831' into arena/01a0f885-civilconection",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/d5cdbe3251bf0f68d2f203b2cfdd2a57436be9a0"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "feature/init-springboot-backend-6483368769379451831",
-    "sha": "25f15410519eaa5c11a09874ee88bc89f38454e5",
-    "sha_short": "25f1541",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-01T17:31:45Z",
-    "message": "Merge pull request #2 from havaianasdestruido/arena/01a0f856-civilconection",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/25f15410519eaa5c11a09874ee88bc89f38454e5"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "feature/init-springboot-backend-6483368769379451831",
-    "sha": "81e978d4cb25b56669669dcb33188b36a1b4a90d",
-    "sha_short": "81e978d",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-01T17:23:58Z",
-    "message": "Merge pull request #4 from havaianasdestruido/imgbot",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/81e978d4cb25b56669669dcb33188b36a1b4a90d"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "feature/init-springboot-backend-6483368769379451831",
-    "sha": "2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063",
-    "sha_short": "2cf78e9",
-    "author": "havaianasdestruido",
-    "date": "2026-10-01T17:22:00Z",
-    "message": "fix(frontend): desacopla busca do herói de /api/stats e sincroniza 4ª cópia em src/",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "feature/init-springboot-backend-6483368769379451831",
-    "sha": "c69ff8e65f8e8d3b4fd4c6d44e3d20738fa255b2",
-    "sha_short": "c69ff8e",
-    "author": "Arena Agent",
-    "date": "2026-10-01T17:21:22Z",
-    "message": "fix(review): cooldown de retry da API, busca da home offline e watch do Tailwind",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/c69ff8e65f8e8d3b4fd4c6d44e3d20738fa255b2"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "feature/init-springboot-backend-6483368769379451831",
-    "sha": "f693360748b7e6b4a879a42713a21ef8dc61eb99",
-    "sha_short": "f693360",
-    "author": "ImgBotApp",
-    "date": "2026-10-01T17:15:01Z",
-    "message": "[ImgBot] Optimize images",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/f693360748b7e6b4a879a42713a21ef8dc61eb99"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "feature/init-springboot-backend-6483368769379451831",
-    "sha": "0db3b400fb24acf5bb591f64d05216848cbe3dbd",
-    "sha_short": "0db3b40",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-09-03T17:17:29Z",
-    "message": "feat: initialize Spring Boot backend with JPA entities and Supabase config",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/0db3b400fb24acf5bb591f64d05216848cbe3dbd"
-  },
-  {
-    "repo": "CivilConection",
-    "branch": "main",
+    "branch": "CivilConectionV1",
     "sha": "3b34374a5b9ff23b3fca3c1759e49e36710ea9d3",
     "sha_short": "3b34374",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -7681,7 +7481,7 @@
   },
   {
     "repo": "CivilConection",
-    "branch": "main",
+    "branch": "CivilConectionV1",
     "sha": "c139a0848dd0544043e14e842d8bfa269db37bd6",
     "sha_short": "c139a08",
     "author": "Arena Agent",
@@ -7691,7 +7491,7 @@
   },
   {
     "repo": "CivilConection",
-    "branch": "main",
+    "branch": "CivilConectionV1",
     "sha": "16b49cff11aee0d22f062ef8af7554d412cb452f",
     "sha_short": "16b49cf",
     "author": "Arena Agent",
@@ -7701,7 +7501,7 @@
   },
   {
     "repo": "CivilConection",
-    "branch": "main",
+    "branch": "CivilConectionV1",
     "sha": "0e1336edfdde5faf89d322f5193e78f209c3ac76",
     "sha_short": "0e1336e",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -7711,7 +7511,17 @@
   },
   {
     "repo": "CivilConection",
-    "branch": "main",
+    "branch": "CivilConectionV1",
+    "sha": "4fa5c4619c14e0df83588673e6c9173a8a6ce56f",
+    "sha_short": "4fa5c46",
+    "author": "Guilherme Olimpio",
+    "date": "2026-10-01T18:22:31Z",
+    "message": "Merge pull request #1 from havaianasdestruido/feature/init-springboot-backend-6483368769379451831",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/4fa5c4619c14e0df83588673e6c9173a8a6ce56f"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "CivilConectionV1",
     "sha": "e9a51986bc2ea14cb071838a69d6b4902f4995fe",
     "sha_short": "e9a5198",
     "author": "ImgBotApp",
@@ -7721,57 +7531,57 @@
   },
   {
     "repo": "CivilConection",
-    "branch": "main",
-    "sha": "b85d2e6abfedd768eef3993754c27f00e8e7cdb5",
-    "sha_short": "b85d2e6",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-01T17:48:19Z",
-    "message": "Merge pull request #5 from havaianasdestruido/arena/01a0f885-civilconection",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/b85d2e6abfedd768eef3993754c27f00e8e7cdb5"
+    "branch": "CivilConectionV1",
+    "sha": "332e99ba7efbafb542f37cde9b91a1420ab00402",
+    "sha_short": "332e99b",
+    "author": "aluno",
+    "date": "2026-09-15T17:29:18Z",
+    "message": "Organizacao",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/332e99ba7efbafb542f37cde9b91a1420ab00402"
   },
   {
     "repo": "CivilConection",
-    "branch": "main",
-    "sha": "0a8681e3b4046af01b4d5f500ce864464660feff",
-    "sha_short": "0a8681e",
-    "author": "havaianasdestruido",
-    "date": "2026-10-01T17:45:56Z",
-    "message": "fix(frontend): corrige XSS, corrida de busca, login falso e cadastro parcial",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/0a8681e3b4046af01b4d5f500ce864464660feff"
+    "branch": "CivilConectionV1",
+    "sha": "341c9506a52df1be3924bb65ec2c0ae5b1ea260d",
+    "sha_short": "341c950",
+    "author": "aluno",
+    "date": "2026-09-15T17:18:37Z",
+    "message": "AdicioneArquivos",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/341c9506a52df1be3924bb65ec2c0ae5b1ea260d"
   },
   {
     "repo": "CivilConection",
-    "branch": "main",
-    "sha": "d5cdbe3251bf0f68d2f203b2cfdd2a57436be9a0",
-    "sha_short": "d5cdbe3",
-    "author": "havaianasdestruido",
-    "date": "2026-10-01T17:34:13Z",
-    "message": "Merge branch 'feature/init-springboot-backend-6483368769379451831' into arena/01a0f885-civilconection",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/d5cdbe3251bf0f68d2f203b2cfdd2a57436be9a0"
+    "branch": "CivilConectionV1",
+    "sha": "fa2a9746fc02693ed78a1952d5fa57726595458f",
+    "sha_short": "fa2a974",
+    "author": "aluno",
+    "date": "2026-09-15T17:14:47Z",
+    "message": "DeleteArchives",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/fa2a9746fc02693ed78a1952d5fa57726595458f"
   },
   {
     "repo": "CivilConection",
-    "branch": "main",
-    "sha": "25f15410519eaa5c11a09874ee88bc89f38454e5",
-    "sha_short": "25f1541",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-01T17:31:45Z",
-    "message": "Merge pull request #2 from havaianasdestruido/arena/01a0f856-civilconection",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/25f15410519eaa5c11a09874ee88bc89f38454e5"
+    "branch": "CivilConectionV1",
+    "sha": "88d1015c87d0d8ec99b398d08ca75568b889173d",
+    "sha_short": "88d1015",
+    "author": "aluno",
+    "date": "2026-09-15T17:13:24Z",
+    "message": "Organizacao",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/88d1015c87d0d8ec99b398d08ca75568b889173d"
   },
   {
     "repo": "CivilConection",
-    "branch": "main",
-    "sha": "81e978d4cb25b56669669dcb33188b36a1b4a90d",
-    "sha_short": "81e978d",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-01T17:23:58Z",
-    "message": "Merge pull request #4 from havaianasdestruido/imgbot",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/81e978d4cb25b56669669dcb33188b36a1b4a90d"
+    "branch": "CivilConectionV1",
+    "sha": "d9eed45a5f520fdf51b71a6b2ae0cff493950d03",
+    "sha_short": "d9eed45",
+    "author": "aluno",
+    "date": "2026-09-15T17:11:10Z",
+    "message": "DeleteArchives",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/d9eed45a5f520fdf51b71a6b2ae0cff493950d03"
   },
   {
     "repo": "CivilConection",
-    "branch": "main",
+    "branch": "CivilConectionV1",
     "sha": "d83f0129c267b9946cbcb2df0eaaf246cf2bc507",
     "sha_short": "d83f012",
     "author": "fernandoalmeidadelima64-collab",
@@ -7781,7 +7591,7 @@
   },
   {
     "repo": "CivilConection",
-    "branch": "main",
+    "branch": "CivilConectionV1",
     "sha": "43512d5f46770170fbfb599be4fe8620ee60f9e4",
     "sha_short": "43512d5",
     "author": "fernandoalmeidadelima64-collab",
@@ -7791,7 +7601,7 @@
   },
   {
     "repo": "CivilConection",
-    "branch": "main",
+    "branch": "CivilConectionV1",
     "sha": "369097e8ac5b732a07df0cfae505b08c39cb7fbe",
     "sha_short": "369097e",
     "author": "fernandoalmeidadelima64-collab",
@@ -7801,13 +7611,663 @@
   },
   {
     "repo": "CivilConection",
-    "branch": "main",
+    "branch": "CivilConectionV1",
     "sha": "0db3b400fb24acf5bb591f64d05216848cbe3dbd",
     "sha_short": "0db3b40",
     "author": "google-labs-jules[bot]",
     "date": "2026-09-03T17:17:29Z",
     "message": "feat: initialize Spring Boot backend with JPA entities and Supabase config",
     "url": "https://github.com/havaianasdestruido/CivilConection/commit/0db3b400fb24acf5bb591f64d05216848cbe3dbd"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0fd74-civilconection",
+    "sha": "c62ae73333ad91d98d06cc99fb52d2c7cd3b8567",
+    "sha_short": "c62ae73",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T16:41:24Z",
+    "message": "docs: add comprehensive Docusaurus portal",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/c62ae73333ad91d98d06cc99fb52d2c7cd3b8567"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0fd74-civilconection",
+    "sha": "49061aa048bce20ae4282a292fb321bb97999caa",
+    "sha_short": "49061aa",
+    "author": "Guilherme Olimpio",
+    "date": "2026-10-01T22:09:12Z",
+    "message": "Merge pull request #2 from havaianasdestruido/main",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/49061aa048bce20ae4282a292fb321bb97999caa"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0fd74-civilconection",
+    "sha": "3b34374a5b9ff23b3fca3c1759e49e36710ea9d3",
+    "sha_short": "3b34374",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T20:00:03Z",
+    "message": "Merge pull request #7 from havaianasdestruido/arena/01a0f8be-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/3b34374a5b9ff23b3fca3c1759e49e36710ea9d3"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0fd74-civilconection",
+    "sha": "c139a0848dd0544043e14e842d8bfa269db37bd6",
+    "sha_short": "c139a08",
+    "author": "Arena Agent",
+    "date": "2026-10-01T19:12:00Z",
+    "message": "review: clean extensionless URLs + conservative asset cache",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/c139a0848dd0544043e14e842d8bfa269db37bd6"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0fd74-civilconection",
+    "sha": "16b49cff11aee0d22f062ef8af7554d412cb452f",
+    "sha_short": "16b49cf",
+    "author": "Arena Agent",
+    "date": "2026-10-01T18:59:50Z",
+    "message": "perf: resolve PageSpeed Insights findings (LCP/CLS, a11y, security, SEO)",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/16b49cff11aee0d22f062ef8af7554d412cb452f"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0fd74-civilconection",
+    "sha": "0e1336edfdde5faf89d322f5193e78f209c3ac76",
+    "sha_short": "0e1336e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T18:29:36Z",
+    "message": "Merge pull request #6 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/0e1336edfdde5faf89d322f5193e78f209c3ac76"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0fd74-civilconection",
+    "sha": "4fa5c4619c14e0df83588673e6c9173a8a6ce56f",
+    "sha_short": "4fa5c46",
+    "author": "Guilherme Olimpio",
+    "date": "2026-10-01T18:22:31Z",
+    "message": "Merge pull request #1 from havaianasdestruido/feature/init-springboot-backend-6483368769379451831",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/4fa5c4619c14e0df83588673e6c9173a8a6ce56f"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0fd74-civilconection",
+    "sha": "e9a51986bc2ea14cb071838a69d6b4902f4995fe",
+    "sha_short": "e9a5198",
+    "author": "ImgBotApp",
+    "date": "2026-10-01T18:14:20Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/e9a51986bc2ea14cb071838a69d6b4902f4995fe"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0fd74-civilconection",
+    "sha": "b85d2e6abfedd768eef3993754c27f00e8e7cdb5",
+    "sha_short": "b85d2e6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T17:48:19Z",
+    "message": "Merge pull request #5 from havaianasdestruido/arena/01a0f885-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/b85d2e6abfedd768eef3993754c27f00e8e7cdb5"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0fd74-civilconection",
+    "sha": "0a8681e3b4046af01b4d5f500ce864464660feff",
+    "sha_short": "0a8681e",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T17:45:56Z",
+    "message": "fix(frontend): corrige XSS, corrida de busca, login falso e cadastro parcial",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/0a8681e3b4046af01b4d5f500ce864464660feff"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0fd74-civilconection",
+    "sha": "fa2a9746fc02693ed78a1952d5fa57726595458f",
+    "sha_short": "fa2a974",
+    "author": "aluno",
+    "date": "2026-09-15T17:14:47Z",
+    "message": "DeleteArchives",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/fa2a9746fc02693ed78a1952d5fa57726595458f"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0fd74-civilconection",
+    "sha": "88d1015c87d0d8ec99b398d08ca75568b889173d",
+    "sha_short": "88d1015",
+    "author": "aluno",
+    "date": "2026-09-15T17:13:24Z",
+    "message": "Organizacao",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/88d1015c87d0d8ec99b398d08ca75568b889173d"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0fd74-civilconection",
+    "sha": "d9eed45a5f520fdf51b71a6b2ae0cff493950d03",
+    "sha_short": "d9eed45",
+    "author": "aluno",
+    "date": "2026-09-15T17:11:10Z",
+    "message": "DeleteArchives",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/d9eed45a5f520fdf51b71a6b2ae0cff493950d03"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0fd74-civilconection",
+    "sha": "d83f0129c267b9946cbcb2df0eaaf246cf2bc507",
+    "sha_short": "d83f012",
+    "author": "fernandoalmeidadelima64-collab",
+    "date": "2026-09-15T16:55:22Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/d83f0129c267b9946cbcb2df0eaaf246cf2bc507"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0fd74-civilconection",
+    "sha": "43512d5f46770170fbfb599be4fe8620ee60f9e4",
+    "sha_short": "43512d5",
+    "author": "fernandoalmeidadelima64-collab",
+    "date": "2026-09-03T17:50:14Z",
+    "message": "Add SPEC.MD file",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/43512d5f46770170fbfb599be4fe8620ee60f9e4"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0fd74-civilconection",
+    "sha": "369097e8ac5b732a07df0cfae505b08c39cb7fbe",
+    "sha_short": "369097e",
+    "author": "fernandoalmeidadelima64-collab",
+    "date": "2026-09-03T17:49:23Z",
+    "message": "Add README.md for Civil Connection project",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/369097e8ac5b732a07df0cfae505b08c39cb7fbe"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "arena/01a0fd74-civilconection",
+    "sha": "0db3b400fb24acf5bb591f64d05216848cbe3dbd",
+    "sha_short": "0db3b40",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-09-03T17:17:29Z",
+    "message": "feat: initialize Spring Boot backend with JPA entities and Supabase config",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/0db3b400fb24acf5bb591f64d05216848cbe3dbd"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "21ce467c9c86c2d6c95ae6f8c39efbab751ea9fb",
+    "sha_short": "21ce467",
+    "author": "fernandoalmeidadelima64-collab",
+    "date": "2026-09-25T16:58:42Z",
+    "message": "Merge pull request #1 from fernandoalmeidadelima64-collab/jules-17046521232448960000-42b46554",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/21ce467c9c86c2d6c95ae6f8c39efbab751ea9fb"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "d9a575211d113627f1b39f43f326b903f79ba326",
+    "sha_short": "d9a5752",
+    "author": "fernandoalmeidadelima64-collab",
+    "date": "2026-09-25T16:58:30Z",
+    "message": "Merge branch 'feature/init-springboot-backend-6483368769379451831' into jules-17046521232448960000-42b46554",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/d9a575211d113627f1b39f43f326b903f79ba326"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "833ebdc83f7e337b021d7037caaf2dcfb69b3d0f",
+    "sha_short": "833ebdc",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-09-25T16:57:15Z",
+    "message": "feat: move index.html to root directory with updated file paths",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/833ebdc83f7e337b021d7037caaf2dcfb69b3d0f"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "60df2cc8629801dc43c7857cc2d906381ca61c1d",
+    "sha_short": "60df2cc",
+    "author": "aluno",
+    "date": "2026-09-25T16:55:08Z",
+    "message": "FeatureBackend",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/60df2cc8629801dc43c7857cc2d906381ca61c1d"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "ff61e3f68aecdf69a324834d9ec105a8019b2211",
+    "sha_short": "ff61e3f",
+    "author": "aluno",
+    "date": "2026-09-24T17:28:53Z",
+    "message": "Permite rastreamento de .env e adiciona carregamento automático de variáveis no backend",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/ff61e3f68aecdf69a324834d9ec105a8019b2211"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "49facbf47097888ea6687b93cdf653efdb41b3b6",
+    "sha_short": "49facbf",
+    "author": "aluno",
+    "date": "2026-09-24T17:16:57Z",
+    "message": "Organização da arquitetura do projeto no modelo padrão: backend, frontend, database, docs e design",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/49facbf47097888ea6687b93cdf653efdb41b3b6"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "bd717e463b8da62954a31ab811c76726f7e9919c",
+    "sha_short": "bd717e4",
+    "author": "aluno",
+    "date": "2026-09-24T17:01:56Z",
+    "message": "api",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/bd717e463b8da62954a31ab811c76726f7e9919c"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "fd9fb9f16749383d745373f2cff16390840a7417",
+    "sha_short": "fd9fb9f",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-09-24T16:36:58Z",
+    "message": "feat: add Supabase config.js and complete full-stack backend integration for Civil Conection",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/fd9fb9f16749383d745373f2cff16390840a7417"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "33e4c22b840c04d8107d227984dfc9cc9443c448",
+    "sha_short": "33e4c22",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-09-22T17:54:28Z",
+    "message": "feat: implement full-stack Spring Boot REST API and frontend integration for Civil Conection",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/33e4c22b840c04d8107d227984dfc9cc9443c448"
+  },
+  {
+    "repo": "CivilConection",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "332e99ba7efbafb542f37cde9b91a1420ab00402",
+    "sha_short": "332e99b",
+    "author": "aluno",
+    "date": "2026-09-15T17:29:18Z",
+    "message": "Organizacao",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/332e99ba7efbafb542f37cde9b91a1420ab00402"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "arena/01a0f8be-civilconection",
+    "sha": "c139a0848dd0544043e14e842d8bfa269db37bd6",
+    "sha_short": "c139a08",
+    "author": "Arena Agent",
+    "date": "2026-10-01T19:12:00Z",
+    "message": "review: clean extensionless URLs + conservative asset cache",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/c139a0848dd0544043e14e842d8bfa269db37bd6"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "arena/01a0f8be-civilconection",
+    "sha": "16b49cff11aee0d22f062ef8af7554d412cb452f",
+    "sha_short": "16b49cf",
+    "author": "Arena Agent",
+    "date": "2026-10-01T18:59:50Z",
+    "message": "perf: resolve PageSpeed Insights findings (LCP/CLS, a11y, security, SEO)",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/16b49cff11aee0d22f062ef8af7554d412cb452f"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "arena/01a0f8be-civilconection",
+    "sha": "0e1336edfdde5faf89d322f5193e78f209c3ac76",
+    "sha_short": "0e1336e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T18:29:36Z",
+    "message": "Merge pull request #6 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/0e1336edfdde5faf89d322f5193e78f209c3ac76"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "arena/01a0f8be-civilconection",
+    "sha": "e9a51986bc2ea14cb071838a69d6b4902f4995fe",
+    "sha_short": "e9a5198",
+    "author": "ImgBotApp",
+    "date": "2026-10-01T18:14:20Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/e9a51986bc2ea14cb071838a69d6b4902f4995fe"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "arena/01a0f8be-civilconection",
+    "sha": "b85d2e6abfedd768eef3993754c27f00e8e7cdb5",
+    "sha_short": "b85d2e6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T17:48:19Z",
+    "message": "Merge pull request #5 from havaianasdestruido/arena/01a0f885-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/b85d2e6abfedd768eef3993754c27f00e8e7cdb5"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "arena/01a0f8be-civilconection",
+    "sha": "0a8681e3b4046af01b4d5f500ce864464660feff",
+    "sha_short": "0a8681e",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T17:45:56Z",
+    "message": "fix(frontend): corrige XSS, corrida de busca, login falso e cadastro parcial",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/0a8681e3b4046af01b4d5f500ce864464660feff"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "arena/01a0f8be-civilconection",
+    "sha": "d5cdbe3251bf0f68d2f203b2cfdd2a57436be9a0",
+    "sha_short": "d5cdbe3",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T17:34:13Z",
+    "message": "Merge branch 'feature/init-springboot-backend-6483368769379451831' into arena/01a0f885-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/d5cdbe3251bf0f68d2f203b2cfdd2a57436be9a0"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "arena/01a0f8be-civilconection",
+    "sha": "25f15410519eaa5c11a09874ee88bc89f38454e5",
+    "sha_short": "25f1541",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T17:31:45Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/01a0f856-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/25f15410519eaa5c11a09874ee88bc89f38454e5"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "arena/01a0f8be-civilconection",
+    "sha": "81e978d4cb25b56669669dcb33188b36a1b4a90d",
+    "sha_short": "81e978d",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T17:23:58Z",
+    "message": "Merge pull request #4 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/81e978d4cb25b56669669dcb33188b36a1b4a90d"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "arena/01a0f8be-civilconection",
+    "sha": "2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063",
+    "sha_short": "2cf78e9",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T17:22:00Z",
+    "message": "fix(frontend): desacopla busca do herói de /api/stats e sincroniza 4ª cópia em src/",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "arena/01a0f8be-civilconection",
+    "sha": "43512d5f46770170fbfb599be4fe8620ee60f9e4",
+    "sha_short": "43512d5",
+    "author": "fernandoalmeidadelima64-collab",
+    "date": "2026-09-03T17:50:14Z",
+    "message": "Add SPEC.MD file",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/43512d5f46770170fbfb599be4fe8620ee60f9e4"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "arena/01a0f8be-civilconection",
+    "sha": "369097e8ac5b732a07df0cfae505b08c39cb7fbe",
+    "sha_short": "369097e",
+    "author": "fernandoalmeidadelima64-collab",
+    "date": "2026-09-03T17:49:23Z",
+    "message": "Add README.md for Civil Connection project",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/369097e8ac5b732a07df0cfae505b08c39cb7fbe"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "arena/01a0f8be-civilconection",
+    "sha": "0db3b400fb24acf5bb591f64d05216848cbe3dbd",
+    "sha_short": "0db3b40",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-09-03T17:17:29Z",
+    "message": "feat: initialize Spring Boot backend with JPA entities and Supabase config",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/0db3b400fb24acf5bb591f64d05216848cbe3dbd"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "0e1336edfdde5faf89d322f5193e78f209c3ac76",
+    "sha_short": "0e1336e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T18:29:36Z",
+    "message": "Merge pull request #6 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/0e1336edfdde5faf89d322f5193e78f209c3ac76"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "e9a51986bc2ea14cb071838a69d6b4902f4995fe",
+    "sha_short": "e9a5198",
+    "author": "ImgBotApp",
+    "date": "2026-10-01T18:14:20Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/e9a51986bc2ea14cb071838a69d6b4902f4995fe"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "b85d2e6abfedd768eef3993754c27f00e8e7cdb5",
+    "sha_short": "b85d2e6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T17:48:19Z",
+    "message": "Merge pull request #5 from havaianasdestruido/arena/01a0f885-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/b85d2e6abfedd768eef3993754c27f00e8e7cdb5"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "0a8681e3b4046af01b4d5f500ce864464660feff",
+    "sha_short": "0a8681e",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T17:45:56Z",
+    "message": "fix(frontend): corrige XSS, corrida de busca, login falso e cadastro parcial",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/0a8681e3b4046af01b4d5f500ce864464660feff"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "d5cdbe3251bf0f68d2f203b2cfdd2a57436be9a0",
+    "sha_short": "d5cdbe3",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T17:34:13Z",
+    "message": "Merge branch 'feature/init-springboot-backend-6483368769379451831' into arena/01a0f885-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/d5cdbe3251bf0f68d2f203b2cfdd2a57436be9a0"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "25f15410519eaa5c11a09874ee88bc89f38454e5",
+    "sha_short": "25f1541",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T17:31:45Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/01a0f856-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/25f15410519eaa5c11a09874ee88bc89f38454e5"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "81e978d4cb25b56669669dcb33188b36a1b4a90d",
+    "sha_short": "81e978d",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T17:23:58Z",
+    "message": "Merge pull request #4 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/81e978d4cb25b56669669dcb33188b36a1b4a90d"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063",
+    "sha_short": "2cf78e9",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T17:22:00Z",
+    "message": "fix(frontend): desacopla busca do herói de /api/stats e sincroniza 4ª cópia em src/",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "c69ff8e65f8e8d3b4fd4c6d44e3d20738fa255b2",
+    "sha_short": "c69ff8e",
+    "author": "Arena Agent",
+    "date": "2026-10-01T17:21:22Z",
+    "message": "fix(review): cooldown de retry da API, busca da home offline e watch do Tailwind",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/c69ff8e65f8e8d3b4fd4c6d44e3d20738fa255b2"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "f693360748b7e6b4a879a42713a21ef8dc61eb99",
+    "sha_short": "f693360",
+    "author": "ImgBotApp",
+    "date": "2026-10-01T17:15:01Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/f693360748b7e6b4a879a42713a21ef8dc61eb99"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "feature/init-springboot-backend-6483368769379451831",
+    "sha": "0db3b400fb24acf5bb591f64d05216848cbe3dbd",
+    "sha_short": "0db3b40",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-09-03T17:17:29Z",
+    "message": "feat: initialize Spring Boot backend with JPA entities and Supabase config",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/0db3b400fb24acf5bb591f64d05216848cbe3dbd"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "main",
+    "sha": "3b34374a5b9ff23b3fca3c1759e49e36710ea9d3",
+    "sha_short": "3b34374",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T20:00:03Z",
+    "message": "Merge pull request #7 from havaianasdestruido/arena/01a0f8be-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/3b34374a5b9ff23b3fca3c1759e49e36710ea9d3"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "main",
+    "sha": "c139a0848dd0544043e14e842d8bfa269db37bd6",
+    "sha_short": "c139a08",
+    "author": "Arena Agent",
+    "date": "2026-10-01T19:12:00Z",
+    "message": "review: clean extensionless URLs + conservative asset cache",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/c139a0848dd0544043e14e842d8bfa269db37bd6"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "main",
+    "sha": "16b49cff11aee0d22f062ef8af7554d412cb452f",
+    "sha_short": "16b49cf",
+    "author": "Arena Agent",
+    "date": "2026-10-01T18:59:50Z",
+    "message": "perf: resolve PageSpeed Insights findings (LCP/CLS, a11y, security, SEO)",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/16b49cff11aee0d22f062ef8af7554d412cb452f"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "main",
+    "sha": "0e1336edfdde5faf89d322f5193e78f209c3ac76",
+    "sha_short": "0e1336e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T18:29:36Z",
+    "message": "Merge pull request #6 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/0e1336edfdde5faf89d322f5193e78f209c3ac76"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "main",
+    "sha": "e9a51986bc2ea14cb071838a69d6b4902f4995fe",
+    "sha_short": "e9a5198",
+    "author": "ImgBotApp",
+    "date": "2026-10-01T18:14:20Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/e9a51986bc2ea14cb071838a69d6b4902f4995fe"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "main",
+    "sha": "b85d2e6abfedd768eef3993754c27f00e8e7cdb5",
+    "sha_short": "b85d2e6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T17:48:19Z",
+    "message": "Merge pull request #5 from havaianasdestruido/arena/01a0f885-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/b85d2e6abfedd768eef3993754c27f00e8e7cdb5"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "main",
+    "sha": "0a8681e3b4046af01b4d5f500ce864464660feff",
+    "sha_short": "0a8681e",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T17:45:56Z",
+    "message": "fix(frontend): corrige XSS, corrida de busca, login falso e cadastro parcial",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/0a8681e3b4046af01b4d5f500ce864464660feff"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "main",
+    "sha": "d5cdbe3251bf0f68d2f203b2cfdd2a57436be9a0",
+    "sha_short": "d5cdbe3",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T17:34:13Z",
+    "message": "Merge branch 'feature/init-springboot-backend-6483368769379451831' into arena/01a0f885-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/d5cdbe3251bf0f68d2f203b2cfdd2a57436be9a0"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "main",
+    "sha": "25f15410519eaa5c11a09874ee88bc89f38454e5",
+    "sha_short": "25f1541",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T17:31:45Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/01a0f856-civilconection",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/25f15410519eaa5c11a09874ee88bc89f38454e5"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "main",
+    "sha": "81e978d4cb25b56669669dcb33188b36a1b4a90d",
+    "sha_short": "81e978d",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T17:23:58Z",
+    "message": "Merge pull request #4 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/81e978d4cb25b56669669dcb33188b36a1b4a90d"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "main",
+    "sha": "d83f0129c267b9946cbcb2df0eaaf246cf2bc507",
+    "sha_short": "d83f012",
+    "author": "fernandoalmeidadelima64-collab",
+    "date": "2026-09-15T16:55:22Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/d83f0129c267b9946cbcb2df0eaaf246cf2bc507"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "main",
+    "sha": "43512d5f46770170fbfb599be4fe8620ee60f9e4",
+    "sha_short": "43512d5",
+    "author": "fernandoalmeidadelima64-collab",
+    "date": "2026-09-03T17:50:14Z",
+    "message": "Add SPEC.MD file",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/43512d5f46770170fbfb599be4fe8620ee60f9e4"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "main",
+    "sha": "369097e8ac5b732a07df0cfae505b08c39cb7fbe",
+    "sha_short": "369097e",
+    "author": "fernandoalmeidadelima64-collab",
+    "date": "2026-09-03T17:49:23Z",
+    "message": "Add README.md for Civil Connection project",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/369097e8ac5b732a07df0cfae505b08c39cb7fbe"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "branch": "main",
+    "sha": "0db3b400fb24acf5bb591f64d05216848cbe3dbd",
+    "sha_short": "0db3b40",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-09-03T17:17:29Z",
+    "message": "feat: initialize Spring Boot backend with JPA entities and Supabase config",
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/0db3b400fb24acf5bb591f64d05216848cbe3dbd"
   },
   {
     "repo": "ClassHub",
@@ -8808,6 +9268,106 @@
     "date": "2020-02-12T10:31:11Z",
     "message": "Update readme",
     "url": "https://github.com/havaianasdestruido/EleLab_v2/commit/101734e324352d0b71e034f264901a660de22abd"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "branch": "arena/01a0fd78-ezinfiniteytlive",
+    "sha": "299b72a11732fe88043029d28ce3634c6be31bb3",
+    "sha_short": "299b72a",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T17:03:17Z",
+    "message": "Address review findings in docs",
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/299b72a11732fe88043029d28ce3634c6be31bb3"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "branch": "arena/01a0fd78-ezinfiniteytlive",
+    "sha": "610a965139be1df89879c9dd57426585388eaa48",
+    "sha_short": "610a965",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T16:44:47Z",
+    "message": "Add full codebase documentation site with Docusaurus",
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/610a965139be1df89879c9dd57426585388eaa48"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "branch": "arena/01a0fd78-ezinfiniteytlive",
+    "sha": "e8d30cf92eff1298dcc2c148e74a06a8e05177e6",
+    "sha_short": "e8d30cf",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T01:10:26Z",
+    "message": "Set imgbot schedule to weekly",
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/e8d30cf92eff1298dcc2c148e74a06a8e05177e6"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "branch": "arena/01a0fd78-ezinfiniteytlive",
+    "sha": "838f8d6b64ec64fded849ccd1b679e485318ee35",
+    "sha_short": "838f8d6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:07Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/838f8d6b64ec64fded849ccd1b679e485318ee35"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "branch": "arena/01a0fd78-ezinfiniteytlive",
+    "sha": "3d049a9ae6cbfe27719d4dfee62df185b5a2e621",
+    "sha_short": "3d049a9",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:26Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/3d049a9ae6cbfe27719d4dfee62df185b5a2e621"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "branch": "arena/01a0fd78-ezinfiniteytlive",
+    "sha": "192d7cf4ff24a7d1e8ca13f7bc7436df31f66398",
+    "sha_short": "192d7cf",
+    "author": "Pato (new acc)",
+    "date": "2026-09-15T18:41:04Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/192d7cf4ff24a7d1e8ca13f7bc7436df31f66398"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "branch": "arena/01a0fd78-ezinfiniteytlive",
+    "sha": "c0cda30ee01aba6bdfb74bb07aa3ca62ec87cbc1",
+    "sha_short": "c0cda30",
+    "author": "havaianasdestruido",
+    "date": "2026-09-13T18:05:49Z",
+    "message": "fix: form1 dont launching fix",
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/c0cda30ee01aba6bdfb74bb07aa3ca62ec87cbc1"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "branch": "arena/01a0fd78-ezinfiniteytlive",
+    "sha": "1c072d82e84fbf78e58d77ea60f739ddc3cb7158",
+    "sha_short": "1c072d8",
+    "author": "havaianasdestruido",
+    "date": "2026-09-13T18:00:38Z",
+    "message": "small changes on vsproject",
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/1c072d82e84fbf78e58d77ea60f739ddc3cb7158"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "branch": "arena/01a0fd78-ezinfiniteytlive",
+    "sha": "8146f6fc2fabb2ad1aebfba14a0c98d7f04894a2",
+    "sha_short": "8146f6f",
+    "author": "UltimateQuack",
+    "date": "2025-07-23T15:28:25Z",
+    "message": "Merge branch 'main' of https://github.com/PatoFlamejanteTV/EZInfiniteYTLive",
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/8146f6fc2fabb2ad1aebfba14a0c98d7f04894a2"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "branch": "arena/01a0fd78-ezinfiniteytlive",
+    "sha": "f875a740d7133f6c4c95e55e8552ee773639a971",
+    "sha_short": "f875a74",
+    "author": "UltimateQuack",
+    "date": "2025-07-23T15:28:13Z",
+    "message": "Small changes on ActiveForm.Text",
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/f875a740d7133f6c4c95e55e8552ee773639a971"
   },
   {
     "repo": "EZInfiniteYTLive",
@@ -11692,6 +12252,16 @@
   {
     "repo": "havaianasdestruido.github.io",
     "branch": "main",
+    "sha": "6bc11d49fe79fe7feda88adab46d84aa552476c1",
+    "sha_short": "6bc11d4",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-02T13:09:34Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/6bc11d49fe79fe7feda88adab46d84aa552476c1"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "main",
     "sha": "358146ac4c24d565ed893dc77cf69fbcd6fc7c2e",
     "sha_short": "358146a",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -11778,16 +12348,6 @@
     "date": "2026-08-12T16:08:52Z",
     "message": "full screen car",
     "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e07cb17dc90152c120daa3785996ccb258bafce2"
-  },
-  {
-    "repo": "havaianasdestruido.github.io",
-    "branch": "main",
-    "sha": "14ded868c36f7260c5c95e4b06f75130ce0cf5e8",
-    "sha_short": "14ded86",
-    "author": "Pato (new acc)",
-    "date": "2026-08-12T16:03:05Z",
-    "message": "Create static.yml",
-    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/14ded868c36f7260c5c95e4b06f75130ce0cf5e8"
   },
   {
     "repo": "haxeopenflhaxeflixel-skill",
@@ -13121,6 +13681,126 @@
   },
   {
     "repo": "KaukaMed",
+    "branch": "arena/01a0fd76-kaukamed",
+    "sha": "f89552cf6560008cbd9dc30efb42b286f2c7a4db",
+    "sha_short": "f89552c",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T16:42:44Z",
+    "message": "docs: add Docusaurus documentation portal",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/f89552cf6560008cbd9dc30efb42b286f2c7a4db"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0fd76-kaukamed",
+    "sha": "01dc0c53879891b6be124de8c184672615127f62",
+    "sha_short": "01dc0c5",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-29T17:53:30Z",
+    "message": "Merge pull request #3 from havaianasdestruido/arena/01a0ee45-kaukamed",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/01dc0c53879891b6be124de8c184672615127f62"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0fd76-kaukamed",
+    "sha": "c8320cd3161acd133800fd3602d532d2e20e859a",
+    "sha_short": "c8320cd",
+    "author": "havaianasdestruido",
+    "date": "2026-09-29T17:49:15Z",
+    "message": "Entrega 4: quebra da SPEC em tarefas de programação (docs/tasks/*.md)",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/c8320cd3161acd133800fd3602d532d2e20e859a"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0fd76-kaukamed",
+    "sha": "15296a4334015ea132459b8ae2af1a698e1bf884",
+    "sha_short": "15296a4",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-29T17:43:29Z",
+    "message": "Revise TASKS.md to reflect completed tasks",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/15296a4334015ea132459b8ae2af1a698e1bf884"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0fd76-kaukamed",
+    "sha": "d8a45078c4de66223daaedf7256c92c487ef6bd5",
+    "sha_short": "d8a4507",
+    "author": "morelloettore",
+    "date": "2026-09-25T16:38:41Z",
+    "message": "Update LICENSE",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/d8a45078c4de66223daaedf7256c92c487ef6bd5"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0fd76-kaukamed",
+    "sha": "25d92698b20351025e2e42e8ab2b26cb1e0c84bf",
+    "sha_short": "25d9269",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-24T17:41:02Z",
+    "message": "fix with markdown",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/25d92698b20351025e2e42e8ab2b26cb1e0c84bf"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0fd76-kaukamed",
+    "sha": "11b2cfac48230759b2f2fb3e38c357159dbd4b76",
+    "sha_short": "11b2cfa",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-24T17:40:12Z",
+    "message": "Revise TODO.md with updated project plan and phases",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/11b2cfac48230759b2f2fb3e38c357159dbd4b76"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0fd76-kaukamed",
+    "sha": "ca965453727c2c815e700d2c11d2c0eb752687fb",
+    "sha_short": "ca96545",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-24T17:34:26Z",
+    "message": "Create TASKS.md",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/ca965453727c2c815e700d2c11d2c0eb752687fb"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0fd76-kaukamed",
+    "sha": "7445db9f0f378cf7539af067e25a42af01a8d1e4",
+    "sha_short": "7445db9",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-24T17:26:34Z",
+    "message": "Merge pull request #1: Phase 0 — setup do projeto",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/7445db9f0f378cf7539af067e25a42af01a8d1e4"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "arena/01a0fd76-kaukamed",
+    "sha": "4d79b63a9f743fe2f9136d0c95bde82eaa84ba94",
+    "sha_short": "4d79b63",
+    "author": "morelloettore",
+    "date": "2026-09-24T17:22:21Z",
+    "message": "fix(api): corrige injeção de dependência e execução do ESLint por pacote",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/4d79b63a9f743fe2f9136d0c95bde82eaa84ba94"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "main",
+    "sha": "416ff1d050cd4fe453d7a6b689423fb47ab08844",
+    "sha_short": "416ff1d",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-02T16:48:05Z",
+    "message": "Merge pull request #5 from havaianasdestruido/arena/01a0fd76-kaukamed",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/416ff1d050cd4fe453d7a6b689423fb47ab08844"
+  },
+  {
+    "repo": "KaukaMed",
+    "branch": "main",
+    "sha": "f89552cf6560008cbd9dc30efb42b286f2c7a4db",
+    "sha_short": "f89552c",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T16:42:44Z",
+    "message": "docs: add Docusaurus documentation portal",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/f89552cf6560008cbd9dc30efb42b286f2c7a4db"
+  },
+  {
+    "repo": "KaukaMed",
     "branch": "main",
     "sha": "01dc0c53879891b6be124de8c184672615127f62",
     "sha_short": "01dc0c5",
@@ -13198,26 +13878,6 @@
     "date": "2026-09-24T17:26:34Z",
     "message": "Merge pull request #1: Phase 0 — setup do projeto",
     "url": "https://github.com/havaianasdestruido/KaukaMed/commit/7445db9f0f378cf7539af067e25a42af01a8d1e4"
-  },
-  {
-    "repo": "KaukaMed",
-    "branch": "main",
-    "sha": "4d79b63a9f743fe2f9136d0c95bde82eaa84ba94",
-    "sha_short": "4d79b63",
-    "author": "morelloettore",
-    "date": "2026-09-24T17:22:21Z",
-    "message": "fix(api): corrige injeção de dependência e execução do ESLint por pacote",
-    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/4d79b63a9f743fe2f9136d0c95bde82eaa84ba94"
-  },
-  {
-    "repo": "KaukaMed",
-    "branch": "main",
-    "sha": "6deac5505f7a5a2b55d2131b2036a86d3f3f21b4",
-    "sha_short": "6deac55",
-    "author": "morelloettore",
-    "date": "2026-09-24T17:19:42Z",
-    "message": "docs: marca a Phase 0 como concluída e atualiza o status do projeto",
-    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/6deac5505f7a5a2b55d2131b2036a86d3f3f21b4"
   },
   {
     "repo": "manimce-claude",
@@ -21001,6 +21661,106 @@
   },
   {
     "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "3770f5a54ca9ad7f4bf7639e6ec4e461205400fb",
+    "sha_short": "3770f5a",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T16:55:43Z",
+    "message": "Add full codebase documentation site (Docusaurus 3)",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "0f63b0c3ed022ea11e7e5248e626c5dd9c80b666",
+    "sha_short": "0f63b0c",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:49:04Z",
+    "message": "Revise Extras section in README.md",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "809a16d97a62d37745fb293479a5d8b2d6bd5172",
+    "sha_short": "809a16d",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:46:17Z",
+    "message": "images about security scanning results",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624",
+    "sha_short": "e4bb2b2",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:44:04Z",
+    "message": "Create README.txt",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "786adea40c8dbebdddef32a16dfebb042b99b140",
+    "sha_short": "786adea",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:43:41Z",
+    "message": "Create README.txt",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "0a3caf7be83adad1b0b2ada14a594c669f6ce33f",
+    "sha_short": "0a3caf7",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:39:47Z",
+    "message": "-DCMAKE_POLICY_VERSION_MINIMUM=3.5",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/0a3caf7be83adad1b0b2ada14a594c669f6ce33f"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "317de816dd1ea8c185997450ec36940146845752",
+    "sha_short": "317de81",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:37:45Z",
+    "message": "Delete .github/workflows/trivy.yml",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/317de816dd1ea8c185997450ec36940146845752"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "9a1578b3b3ba94c98fad32b7750e12e6eeb73ad4",
+    "sha_short": "9a1578b",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:30:12Z",
+    "message": "Create sync.yml",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/9a1578b3b3ba94c98fad32b7750e12e6eeb73ad4"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "04843e46bf705ae80b34a7053efe06173eae66f0",
+    "sha_short": "04843e4",
+    "author": "Pato (new acc)",
+    "date": "2026-09-17T13:03:21Z",
+    "message": "Enhance README with search tips and PR instructions",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/04843e46bf705ae80b34a7053efe06173eae66f0"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "412ab4905bf3e5c8315eabaa03698485535d5973",
+    "sha_short": "412ab49",
+    "author": "Pato (new acc)",
+    "date": "2026-09-15T18:35:42Z",
+    "message": "Create scorecard.yml",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/412ab4905bf3e5c8315eabaa03698485535d5973"
+  },
+  {
+    "repo": "R2K16",
     "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
     "sha": "d7f519da3b8d2c4b6b201c655273292229b4619d",
     "sha_short": "d7f519d",
@@ -22511,6 +23271,76 @@
   },
   {
     "repo": "steamlogger",
+    "branch": "arena/01a0fd79-steamlogger",
+    "sha": "00a1d0df6adb9c3e0dc70cc165b7ec213b85aa8b",
+    "sha_short": "00a1d0d",
+    "author": "Arena Agent",
+    "date": "2026-10-02T17:05:54Z",
+    "message": "docs: add full Docusaurus documentation site",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/00a1d0df6adb9c3e0dc70cc165b7ec213b85aa8b"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "arena/01a0fd79-steamlogger",
+    "sha": "2060c881b6becea30e93f7829a0c710d593e5a4b",
+    "sha_short": "2060c88",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T01:10:24Z",
+    "message": "Set imgbot schedule to weekly",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/2060c881b6becea30e93f7829a0c710d593e5a4b"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "arena/01a0fd79-steamlogger",
+    "sha": "691928a661d6007cfed2a4e4e4ba95579315dbf3",
+    "sha_short": "691928a",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:09Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/691928a661d6007cfed2a4e4e4ba95579315dbf3"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "arena/01a0fd79-steamlogger",
+    "sha": "9c8a57e96a64ec2d9bd9b70d7d6a823276c4d6fe",
+    "sha_short": "9c8a57e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:06Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/9c8a57e96a64ec2d9bd9b70d7d6a823276c4d6fe"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "arena/01a0fd79-steamlogger",
+    "sha": "c87f09b961df51f76c3d70ef350615b309fa1f6f",
+    "sha_short": "c87f09b",
+    "author": "Pato (new acc)",
+    "date": "2026-09-18T00:47:31Z",
+    "message": "Add MIT License",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/c87f09b961df51f76c3d70ef350615b309fa1f6f"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "arena/01a0fd79-steamlogger",
+    "sha": "a4e4ac867419af19c733597ae638403b6a773526",
+    "sha_short": "a4e4ac8",
+    "author": "havaianasdestruido",
+    "date": "2026-08-10T20:46:34Z",
+    "message": "feat: implement session tracking with friends, lobby and map enrichment",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/a4e4ac867419af19c733597ae638403b6a773526"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "arena/01a0fd79-steamlogger",
+    "sha": "42a8dbd8c7833c1dfebaca6544170e41437a1686",
+    "sha_short": "42a8dbd",
+    "author": "havaianasdestruido",
+    "date": "2026-08-10T20:40:19Z",
+    "message": "chore: scaffold steamlogger crate with module contracts",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/42a8dbd8c7833c1dfebaca6544170e41437a1686"
+  },
+  {
+    "repo": "steamlogger",
     "branch": "codex/investigar-problema-de-log",
     "sha": "da63afce1905635b901bc16af104022937168df1",
     "sha_short": "da63afc",
@@ -23080,6 +23910,156 @@
     "url": "https://github.com/havaianasdestruido/VsDave/commit/cc1f8b6908730eecd04717fa73bf680383765c82"
   },
   {
+    "repo": "WAL-skill",
+    "branch": "arena/01a0fd83-wal-skill",
+    "sha": "905afbb4c2b065838bbad033a19c448c9733b7d8",
+    "sha_short": "905afbb",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T17:01:22Z",
+    "message": "Add W3C WAI frontend accessibility Claude skill",
+    "url": "https://github.com/havaianasdestruido/WAL-skill/commit/905afbb4c2b065838bbad033a19c448c9733b7d8"
+  },
+  {
+    "repo": "WAL-skill",
+    "branch": "arena/01a0fd83-wal-skill",
+    "sha": "d7e00fb6fa71f82d170c68944cca35707b2f01b5",
+    "sha_short": "d7e00fb",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-02T16:46:31Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/WAL-skill/commit/d7e00fb6fa71f82d170c68944cca35707b2f01b5"
+  },
+  {
+    "repo": "WAL-skill",
+    "branch": "main",
+    "sha": "1ee6260dcffef54a005c5d3d3e53bb65ccf2c3dd",
+    "sha_short": "1ee6260",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-02T17:02:10Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a0fd83-wal-skill",
+    "url": "https://github.com/havaianasdestruido/WAL-skill/commit/1ee6260dcffef54a005c5d3d3e53bb65ccf2c3dd"
+  },
+  {
+    "repo": "WAL-skill",
+    "branch": "main",
+    "sha": "905afbb4c2b065838bbad033a19c448c9733b7d8",
+    "sha_short": "905afbb",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T17:01:22Z",
+    "message": "Add W3C WAI frontend accessibility Claude skill",
+    "url": "https://github.com/havaianasdestruido/WAL-skill/commit/905afbb4c2b065838bbad033a19c448c9733b7d8"
+  },
+  {
+    "repo": "WAL-skill",
+    "branch": "main",
+    "sha": "d7e00fb6fa71f82d170c68944cca35707b2f01b5",
+    "sha_short": "d7e00fb",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-02T16:46:31Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/WAL-skill/commit/d7e00fb6fa71f82d170c68944cca35707b2f01b5"
+  },
+  {
+    "repo": "WebRadioFM",
+    "branch": "arena/01a0fd79-webradiofm",
+    "sha": "9f9470c45f869990df8e68862ebc8aa837d1e1ba",
+    "sha_short": "9f9470c",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T17:01:14Z",
+    "message": "docs: add comprehensive Docusaurus site",
+    "url": "https://github.com/havaianasdestruido/WebRadioFM/commit/9f9470c45f869990df8e68862ebc8aa837d1e1ba"
+  },
+  {
+    "repo": "WebRadioFM",
+    "branch": "arena/01a0fd79-webradiofm",
+    "sha": "1e70f18caeda9c7a42e70c712a4bfa0cce8f7819",
+    "sha_short": "1e70f18",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T01:10:18Z",
+    "message": "Set imgbot schedule to weekly",
+    "url": "https://github.com/havaianasdestruido/WebRadioFM/commit/1e70f18caeda9c7a42e70c712a4bfa0cce8f7819"
+  },
+  {
+    "repo": "WebRadioFM",
+    "branch": "arena/01a0fd79-webradiofm",
+    "sha": "ad06cb4619c7840b52a4cd1e355a58ecb0134b4b",
+    "sha_short": "ad06cb4",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:15Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/WebRadioFM/commit/ad06cb4619c7840b52a4cd1e355a58ecb0134b4b"
+  },
+  {
+    "repo": "WebRadioFM",
+    "branch": "arena/01a0fd79-webradiofm",
+    "sha": "142be646fcd0a5650a0f2ee9b903151f4e3e0d87",
+    "sha_short": "142be64",
+    "author": "Pato (new acc)",
+    "date": "2026-09-18T00:48:45Z",
+    "message": "Add MIT License",
+    "url": "https://github.com/havaianasdestruido/WebRadioFM/commit/142be646fcd0a5650a0f2ee9b903151f4e3e0d87"
+  },
+  {
+    "repo": "WebRadioFM",
+    "branch": "arena/01a0fd79-webradiofm",
+    "sha": "1ecebdac3ec475838a1827ac60e9d691f199e77e",
+    "sha_short": "1ecebda",
+    "author": "UltimateQuack",
+    "date": "2026-05-16T21:34:22Z",
+    "message": "wip: test",
+    "url": "https://github.com/havaianasdestruido/WebRadioFM/commit/1ecebdac3ec475838a1827ac60e9d691f199e77e"
+  },
+  {
+    "repo": "WebRadioFM",
+    "branch": "arena/01a0fd79-webradiofm",
+    "sha": "6fa149b2644f1ea838e81abe12cb247f76e91a48",
+    "sha_short": "6fa149b",
+    "author": "UltimateQuack",
+    "date": "2026-05-16T21:31:49Z",
+    "message": "Patch XAP to WP 8.0 format post-build for deploy compat",
+    "url": "https://github.com/havaianasdestruido/WebRadioFM/commit/6fa149b2644f1ea838e81abe12cb247f76e91a48"
+  },
+  {
+    "repo": "WebRadioFM",
+    "branch": "arena/01a0fd79-webradiofm",
+    "sha": "a70966b0e7daa83043b54706fcc5aa00df8448e1",
+    "sha_short": "a70966b",
+    "author": "UltimateQuack",
+    "date": "2026-05-16T21:18:49Z",
+    "message": "Add Silverlight-less build support",
+    "url": "https://github.com/havaianasdestruido/WebRadioFM/commit/a70966b0e7daa83043b54706fcc5aa00df8448e1"
+  },
+  {
+    "repo": "WebRadioFM",
+    "branch": "arena/01a0fd79-webradiofm",
+    "sha": "2f3f54eb08e31922ae618d1c4f7fc2c10ae00eea",
+    "sha_short": "2f3f54e",
+    "author": "UltimateQuack",
+    "date": "2026-05-16T20:30:43Z",
+    "message": "Add README.md, BUILDING.md, INSTALLING.md",
+    "url": "https://github.com/havaianasdestruido/WebRadioFM/commit/2f3f54eb08e31922ae618d1c4f7fc2c10ae00eea"
+  },
+  {
+    "repo": "WebRadioFM",
+    "branch": "arena/01a0fd79-webradiofm",
+    "sha": "428486ea70e19add262f6135689d93944f474cfa",
+    "sha_short": "428486e",
+    "author": "UltimateQuack",
+    "date": "2026-05-16T20:28:51Z",
+    "message": "Add x64 platform support and build scripts",
+    "url": "https://github.com/havaianasdestruido/WebRadioFM/commit/428486ea70e19add262f6135689d93944f474cfa"
+  },
+  {
+    "repo": "WebRadioFM",
+    "branch": "arena/01a0fd79-webradiofm",
+    "sha": "6df16bfbe3314ed7eed2f378db352a3ecf9305fe",
+    "sha_short": "6df16bf",
+    "author": "UltimateQuack",
+    "date": "2026-05-16T20:20:00Z",
+    "message": "Expand .gitignore with .NET standard entries",
+    "url": "https://github.com/havaianasdestruido/WebRadioFM/commit/6df16bfbe3314ed7eed2f378db352a3ecf9305fe"
+  },
+  {
     "repo": "WebRadioFM",
     "branch": "main",
     "sha": "1e70f18caeda9c7a42e70c712a4bfa0cce8f7819",
@@ -23178,6 +24158,406 @@
     "date": "2026-05-16T20:18:39Z",
     "message": "add: wip icons",
     "url": "https://github.com/havaianasdestruido/WebRadioFM/commit/1196ce7199b1913f8d9910c49ae2ce40133cd0f1"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "66f7a725e8010b29ca8e312b82b6f4a32628fdea",
+    "sha_short": "66f7a72",
+    "author": "Arena Agent",
+    "date": "2026-10-02T17:03:09Z",
+    "message": "docs: add full-codebase Docusaurus documentation site",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/66f7a725e8010b29ca8e312b82b6f4a32628fdea"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "a39854215baf5cff17271aeaffeff3617c931100",
+    "sha_short": "a398542",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:28:48Z",
+    "message": "Merge pull request #2 from havaianasdestruido/codex/add-workflows-for-project-builds",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a39854215baf5cff17271aeaffeff3617c931100"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "8b29433062320266ed913539ec6848fd1f2690b8",
+    "sha_short": "8b29433",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:25:53Z",
+    "message": "ci: pin Visual Studio 2022 runner",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8b29433062320266ed913539ec6848fd1f2690b8"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "a129e04a21227883e148e93ac852cf47054e71ae",
+    "sha_short": "a129e04",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:23:07Z",
+    "message": "ci: build each CMake project",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a129e04a21227883e148e93ac852cf47054e71ae"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "313c023f9836d854d2fd05fe5b10b93667b67db3",
+    "sha_short": "313c023",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:15:02Z",
+    "message": "Merge pull request #1 from havaianasdestruido/codex/add-todos-to-unfinished-code",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/313c023f9836d854d2fd05fe5b10b93667b67db3"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "0587ed0e3fa7c578dfba5e54ec0f5f2dfcacc186",
+    "sha_short": "0587ed0",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:13:27Z",
+    "message": "Add reconstruction TODO audit annotations",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/0587ed0e3fa7c578dfba5e54ec0f5f2dfcacc186"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "6ade6bf4e75edb026978b4779b11e6bfe622e087",
+    "sha_short": "6ade6bf",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T01:10:22Z",
+    "message": "Set imgbot schedule to weekly",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/6ade6bf4e75edb026978b4779b11e6bfe622e087"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "18892fc883f2e3d411384532a3baf6e95c2c06fd",
+    "sha_short": "18892fc",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:13Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/18892fc883f2e3d411384532a3baf6e95c2c06fd"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "d57094460078a84b7616959b6c633dae90c07913",
+    "sha_short": "d570944",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:13:41Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d57094460078a84b7616959b6c633dae90c07913"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "fb99b156973ee401023b9fd8d2d76efb02d0196f",
+    "sha_short": "fb99b15",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:52:42Z",
+    "message": "Create sync.yml",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/fb99b156973ee401023b9fd8d2d76efb02d0196f"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "30cc6c65019a371da0a4007d3ec61cd07413fd0e",
+    "sha_short": "30cc6c6",
+    "author": "UltimateQuack",
+    "date": "2026-08-01T22:32:15Z",
+    "message": "test: nodejs — basic DLL ffi",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/30cc6c65019a371da0a4007d3ec61cd07413fd0e"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "f033f2dd972960a4d643688ec037abd59b232cf4",
+    "sha_short": "f033f2d",
+    "author": "UltimateQuack",
+    "date": "2026-08-01T22:31:45Z",
+    "message": "test: csharp — basic DLL interop",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/f033f2dd972960a4d643688ec037abd59b232cf4"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "ef9b0c474f8f3af2591dd3cd36e7381a33f6e6c2",
+    "sha_short": "ef9b0c4",
+    "author": "UltimateQuack",
+    "date": "2026-08-01T22:31:08Z",
+    "message": "test: rust — basic DLL loading",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/ef9b0c474f8f3af2591dd3cd36e7381a33f6e6c2"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "327e6072caef4364bbb4eb772bb9d3e9be7cf132",
+    "sha_short": "327e607",
+    "author": "UltimateQuack",
+    "date": "2026-08-01T00:46:47Z",
+    "message": "test",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/327e6072caef4364bbb4eb772bb9d3e9be7cf132"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "6a1c6f78c9460d44f7b2af4f67757dd8b13cda33",
+    "sha_short": "6a1c6f7",
+    "author": "UltimateQuack",
+    "date": "2026-07-31T21:25:55Z",
+    "message": "fix: WLXVideoTrim — abort DLL load if COM init fails",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/6a1c6f78c9460d44f7b2af4f67757dd8b13cda33"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "5294975c3789df7114e4ff47bbeec58f8e5b1614",
+    "sha_short": "5294975",
+    "author": "UltimateQuack",
+    "date": "2026-07-31T21:24:06Z",
+    "message": "fix: WLXSlideshow — initialize GdiplusStartupInput to avoid uninitialized struct",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5294975c3789df7114e4ff47bbeec58f8e5b1614"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "567ee7a870df0e8d7fc0aa689d50570cf0029b41",
+    "sha_short": "567ee7a",
+    "author": "UltimateQuack",
+    "date": "2026-07-31T21:21:58Z",
+    "message": "fix: WLXPhotoCinematic — prevent division by zero, init GDI+ correctly, avoid double delete",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/567ee7a870df0e8d7fc0aa689d50570cf0029b41"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "393567714da9f0c5d05ea0dca24535e178645e29",
+    "sha_short": "3935677",
+    "author": "UltimateQuack",
+    "date": "2026-07-31T21:21:03Z",
+    "message": "fix: WLXMovieLibrary — invalidate thumbnail releases bitmap",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/393567714da9f0c5d05ea0dca24535e178645e29"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "8a634b2ee09e21921b19ebd744e66f5b01743a33",
+    "sha_short": "8a634b2",
+    "author": "UltimateQuack",
+    "date": "2026-07-31T21:19:22Z",
+    "message": "fix: WLXMediaPublishSubscribe — remove invalid WinInet cleanup",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8a634b2ee09e21921b19ebd744e66f5b01743a33"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "15d65d18fd84a0f5e0bb8aa186863f9f2969893c",
+    "sha_short": "15d65d1",
+    "author": "UltimateQuack",
+    "date": "2026-07-31T21:18:20Z",
+    "message": "fix: WLXMP4Parser — proper box size handling and null check",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/15d65d18fd84a0f5e0bb8aa186863f9f2969893c"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "735d9c00ceeff235cf5350d1113b19f5b67aac34",
+    "sha_short": "735d9c0",
+    "author": "UltimateQuack",
+    "date": "2026-07-30T18:51:43Z",
+    "message": "Phase 7: Integrate new engines into MovieMakerCore/SundanceAppMain",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/735d9c00ceeff235cf5350d1113b19f5b67aac34"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "75025ce518daeb7c7d94fdb3f44dceedeb0d140f",
+    "sha_short": "75025ce",
+    "author": "UltimateQuack",
+    "date": "2026-07-30T17:43:37Z",
+    "message": "Phase 6: Playback & Rendering Pipeline — GPURenderer, PlaybackEngine, TimelineDispatcher",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/75025ce518daeb7c7d94fdb3f44dceedeb0d140f"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "7702892246bc6c653a289a0403d0061d9a36aa65",
+    "sha_short": "7702892",
+    "author": "UltimateQuack",
+    "date": "2026-07-30T17:22:59Z",
+    "message": "Switch ProjectManager to pure C++ XML serialization (remove tinyxml2), add basic save/load",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/7702892246bc6c653a289a0403d0061d9a36aa65"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "362e4b523fd61c820d3f715eea4ce6f3c9a87660",
+    "sha_short": "362e4b5",
+    "author": "UltimateQuack",
+    "date": "2026-07-30T16:22:11Z",
+    "message": "Full UI implementation – rendering, layout, event system, control text, input handling, dialog hosting",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/362e4b523fd61c820d3f715eea4ce6f3c9a87660"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "386fd6eb3d0b22b4e141fa237d514c84ca07bcba",
+    "sha_short": "386fd6e",
+    "author": "UltimateQuack",
+    "date": "2026-07-29T23:45:37Z",
+    "message": "Phase 4: event system, control rendering, dialog hosting",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/386fd6eb3d0b22b4e141fa237d514c84ca07bcba"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "f42bef2ba7ab98ea32f7ac8f7981bbf65944ae6e",
+    "sha_short": "f42bef2",
+    "author": "UltimateQuack",
+    "date": "2026-07-29T20:08:09Z",
+    "message": "Phase 3: UXCore rendering pipeline & layout engine",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/f42bef2ba7ab98ea32f7ac8f7981bbf65944ae6e"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "9c9c6ba4fdb49a56e242b16950beb81c781bcc49",
+    "sha_short": "9c9c6ba",
+    "author": "UltimateQuack",
+    "date": "2026-07-29T18:29:47Z",
+    "message": "Full UXCore sprint: DirectUI stub framework, build fixes, resource infrastructure",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/9c9c6ba4fdb49a56e242b16950beb81c781bcc49"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "e24afc23991f2f6f810350d347bd84f8458b1d81",
+    "sha_short": "e24afc2",
+    "author": "UltimateQuack",
+    "date": "2026-07-29T17:03:53Z",
+    "message": "Add WLXPhotoSqm.dll stub (44 SQM telemetry exports)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/e24afc23991f2f6f810350d347bd84f8458b1d81"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "3cff7529fa5c79cf66f2b29b3d76bc035960a484",
+    "sha_short": "3cff752",
+    "author": "UltimateQuack",
+    "date": "2026-07-29T17:03:53Z",
+    "message": "Add wlidcli.dll stub (7 ordinal exports for Live ID auth)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3cff7529fa5c79cf66f2b29b3d76bc035960a484"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "6bf32c8c63edcbc6619139c9b8730e4a12a77646",
+    "sha_short": "6bf32c8",
+    "author": "UltimateQuack",
+    "date": "2026-07-29T17:03:53Z",
+    "message": "Add uxctl.dll stub (Windows Live UI Controls factory)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/6bf32c8c63edcbc6619139c9b8730e4a12a77646"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "31a25736832fbe892ddf4b416f5e99056cd0defd",
+    "sha_short": "31a2573",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:11:21Z",
+    "message": "test(WLXQuickTime): dedicated harness for QuickTime control host + proxy/stub + shell ext",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/31a25736832fbe892ddf4b416f5e99056cd0defd"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "7dcb32360677c59c404b88078925b54ca6e3ae4a",
+    "sha_short": "7dcb323",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:10:27Z",
+    "message": "test(WLXPhotoGalleryRepair.exe): dedicated test harness",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/7dcb32360677c59c404b88078925b54ca6e3ae4a"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "88e16fcbdf4100e56afc12946768a42f76f75885",
+    "sha_short": "88e16fc",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:10:02Z",
+    "message": "test(WLXVAFilt.dll): dedicated test harness",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/88e16fcbdf4100e56afc12946768a42f76f75885"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "4c150535406cb913cfb0d619bb9113f63816c15a",
+    "sha_short": "4c15053",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:09:22Z",
+    "message": "test(WLXPhotoViewer.dll): dedicated harness for 6 exports + COM probing",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4c150535406cb913cfb0d619bb9113f63816c15a"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "23bfa1a3f072230d822b72b724be79a8b505f482",
+    "sha_short": "23bfa1a",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:09:00Z",
+    "message": "test(AlbumDownloadProtocolHandler.dll): dedicated test harness",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/23bfa1a3f072230d822b72b724be79a8b505f482"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "2857f488f9e2ad250f8302bbbdab260b0c518a46",
+    "sha_short": "2857f48",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:08:17Z",
+    "message": "test(WLXImageTranscode.dll): dedicated test harness",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/2857f488f9e2ad250f8302bbbdab260b0c518a46"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "59ae83f6eb2a0e545cf72f46f3fbce13052b6ad6",
+    "sha_short": "59ae83f",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:07:57Z",
+    "message": "test(WLXPhotoLibraryMain.dll): dedicated test harness",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/59ae83f6eb2a0e545cf72f46f3fbce13052b6ad6"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "986b4ee87de6b92e6ba083688ff4e990041019f1",
+    "sha_short": "986b4ee",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:07:06Z",
+    "message": "test(WLXGrinderScheduler.dll): dedicated test harness",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/986b4ee87de6b92e6ba083688ff4e990041019f1"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "8510a6a0c74dfec99bd050a71a083e41f472c747",
+    "sha_short": "8510a6a",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:06:53Z",
+    "message": "test(WLXPhotoAcq.dll): dedicated test harness",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8510a6a0c74dfec99bd050a71a083e41f472c747"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "sha": "3e360c9be3e74d75d21eb587889a9a23aa8c0d4b",
+    "sha_short": "3e360c9",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:04:55Z",
+    "message": "test(WLXPhotoSqm.dll): dedicated harness testing all 44 SQM exports",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3e360c9be3e74d75d21eb587889a9a23aa8c0d4b"
   },
   {
     "repo": "WindowsMovieMakerDecomp",

@@ -200,13 +200,13 @@
   {
     "repo": "PersonaDB",
     "login": "havaianasdestruido",
-    "contributions": 14,
+    "contributions": 17,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "PersonaDB",
     "login": "coderabbitai[bot]",
-    "contributions": 1,
+    "contributions": 2,
     "profile_url": "https://github.com/apps/coderabbitai"
   },
   {
@@ -224,7 +224,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 65,
+    "contributions": 66,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -236,7 +236,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 72,
+    "contributions": 73,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -674,7 +674,7 @@
   {
     "repo": "CivilConection",
     "login": "havaianasdestruido",
-    "contributions": 12,
+    "contributions": 15,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -691,12 +691,42 @@
   },
   {
     "repo": "CivilConection",
+    "login": "cavaleiro-olimpioo",
+    "contributions": 3,
+    "profile_url": "https://github.com/cavaleiro-olimpioo"
+  },
+  {
+    "repo": "CivilConection",
     "login": "ImgBotApp",
     "contributions": 2,
     "profile_url": "https://github.com/ImgBotApp"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
+    "login": "havaianasdestruido",
+    "contributions": 12,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "login": "fernandoalmeidadelima64-collab",
+    "contributions": 6,
+    "profile_url": "https://github.com/fernandoalmeidadelima64-collab"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "login": "google-labs-jules[bot]",
+    "contributions": 4,
+    "profile_url": "https://github.com/apps/google-labs-jules"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "login": "ImgBotApp",
+    "contributions": 2,
+    "profile_url": "https://github.com/ImgBotApp"
+  },
+  {
+    "repo": "CivilConection-Fernando",
     "login": "cavaleiro-olimpioo",
     "contributions": 1,
     "profile_url": "https://github.com/cavaleiro-olimpioo"
@@ -1064,7 +1094,7 @@
   {
     "repo": "havaianasdestruido.github.io",
     "login": "havaianasdestruido",
-    "contributions": 12,
+    "contributions": 13,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -1286,7 +1316,7 @@
   {
     "repo": "KaukaMed",
     "login": "havaianasdestruido",
-    "contributions": 11,
+    "contributions": 13,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -1798,6 +1828,12 @@
     "login": "TheBuilderXD",
     "contributions": 1,
     "profile_url": "https://github.com/TheBuilderXD"
+  },
+  {
+    "repo": "WAL-skill",
+    "login": "havaianasdestruido",
+    "contributions": 1,
+    "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "WebRadioFM",

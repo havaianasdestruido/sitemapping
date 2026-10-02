@@ -1,5 +1,25 @@
 [
   {
+    "full_name": "RealityRipple/emoji",
+    "url": "https://github.com/RealityRipple/emoji",
+    "description": "Directory of PNG Emojis from Twemoji, Openmoji, Noto, Blobmoji, Facebook, Apple, JoyPixels, Toss Face, WhatsApp, and OneUI Emoji Fonts"
+  },
+  {
+    "full_name": "C1710/blobmoji",
+    "url": "https://github.com/C1710/blobmoji",
+    "description": "Noto Emoji with extended Blob support"
+  },
+  {
+    "full_name": "twitter/twemoji",
+    "url": "https://github.com/twitter/twemoji",
+    "description": "Emoji for everyone. https://twemoji.twitter.com/"
+  },
+  {
+    "full_name": "googlefonts/noto-emoji",
+    "url": "https://github.com/googlefonts/noto-emoji",
+    "description": "Noto Emoji fonts"
+  },
+  {
     "full_name": "langgptai/awesome-claude-prompts",
     "url": "https://github.com/langgptai/awesome-claude-prompts",
     "description": "This repo includes Claude prompt curation to use Claude better."

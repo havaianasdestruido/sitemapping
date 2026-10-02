@@ -3,6 +3,19 @@
     "repo": "FNF-Phoenix-Engine",
     "state": "open",
     "status": "open",
+    "number": 31,
+    "title": "docs: full codebase documentation site (Docusaurus)",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-02T17:02:03Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0fd75-fnf-phoenix-engine",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/31"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "open",
+    "status": "open",
     "number": 17,
     "title": "docs: add Javadoc/JSDoc-style tags to functions across codebase",
     "user": "havaianasdestruido",
@@ -339,15 +352,15 @@
   },
   {
     "repo": "PersonaDB",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 4,
     "title": "feat: implement all 25 domain generators, consistency validators, docs, and tests",
     "user": "arena-ai-coding-agent[bot]",
     "created_at": "2026-09-30T11:23:34Z",
     "base_branch": "main",
     "head_branch": "arena/01a0ee67-personadb",
-    "commit_count": 1,
+    "commit_count": 2,
     "url": "https://github.com/havaianasdestruido/PersonaDB/pull/4"
   },
   {
@@ -536,6 +549,19 @@
     "repo": "CivilConection",
     "state": "closed",
     "status": "merged",
+    "number": 1,
+    "title": "docs: add comprehensive Docusaurus portal",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-02T16:41:33Z",
+    "base_branch": "CivilConectionV1",
+    "head_branch": "arena/01a0fd74-civilconection",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/CivilConection/pull/1"
+  },
+  {
+    "repo": "CivilConection-Fernando",
+    "state": "closed",
+    "status": "merged",
     "number": 7,
     "title": "perf: resolve PageSpeed Insights findings (LCP/CLS, a11y, security, SEO)",
     "user": "arena-ai-coding-agent[bot]",
@@ -543,10 +569,10 @@
     "base_branch": "main",
     "head_branch": "arena/01a0f8be-civilconection",
     "commit_count": 2,
-    "url": "https://github.com/havaianasdestruido/CivilConection/pull/7"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/pull/7"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "state": "closed",
     "status": "merged",
     "number": 6,
@@ -556,10 +582,10 @@
     "base_branch": "feature/init-springboot-backend-6483368769379451831",
     "head_branch": "imgbot",
     "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/CivilConection/pull/6"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/pull/6"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "state": "closed",
     "status": "merged",
     "number": 5,
@@ -569,10 +595,10 @@
     "base_branch": "feature/init-springboot-backend-6483368769379451831",
     "head_branch": "arena/01a0f885-civilconection",
     "commit_count": 5,
-    "url": "https://github.com/havaianasdestruido/CivilConection/pull/5"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/pull/5"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "state": "closed",
     "status": "merged",
     "number": 4,
@@ -582,10 +608,10 @@
     "base_branch": "feature/init-springboot-backend-6483368769379451831",
     "head_branch": "imgbot",
     "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/CivilConection/pull/4"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/pull/4"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "state": "closed",
     "status": "merged",
     "number": 3,
@@ -595,10 +621,10 @@
     "base_branch": "feature/init-springboot-backend-6483368769379451831",
     "head_branch": "arena/01a0f84f-civilconection",
     "commit_count": 3,
-    "url": "https://github.com/havaianasdestruido/CivilConection/pull/3"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/pull/3"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "state": "closed",
     "status": "merged",
     "number": 2,
@@ -608,10 +634,10 @@
     "base_branch": "feature/init-springboot-backend-6483368769379451831",
     "head_branch": "arena/01a0f856-civilconection",
     "commit_count": 2,
-    "url": "https://github.com/havaianasdestruido/CivilConection/pull/2"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/pull/2"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "state": "closed",
     "status": "merged",
     "number": 1,
@@ -621,7 +647,7 @@
     "base_branch": "feature/init-springboot-backend-6483368769379451831",
     "head_branch": "arena/01a0f84e-civilconection",
     "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/CivilConection/pull/1"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/pull/1"
   },
   {
     "repo": "ClassHub",
@@ -648,6 +674,19 @@
     "head_branch": "arena/01a0e80c-dadosabertos",
     "commit_count": 6,
     "url": "https://github.com/havaianasdestruido/dadosabertos/pull/1"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "state": "open",
+    "status": "open",
+    "number": 1,
+    "title": "Add full codebase documentation site with Docusaurus",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-02T16:48:56Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0fd78-ezinfiniteytlive",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/pull/1"
   },
   {
     "repo": "FNF-Cubes-Live-Wallpaper",
@@ -817,6 +856,19 @@
     "head_branch": "arena/01a0d488-kaukamed",
     "commit_count": 2,
     "url": "https://github.com/havaianasdestruido/KaukaMed/pull/2"
+  },
+  {
+    "repo": "KaukaMed",
+    "state": "closed",
+    "status": "merged",
+    "number": 5,
+    "title": "docs: add Docusaurus documentation portal",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-02T16:42:59Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0fd76-kaukamed",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/KaukaMed/pull/5"
   },
   {
     "repo": "KaukaMed",
@@ -1212,6 +1264,19 @@
     "repo": "R2K16",
     "state": "open",
     "status": "open",
+    "number": 3,
+    "title": "Add full codebase documentation site (Docusaurus 3)",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-02T17:01:46Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0fd75-r2k16",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/R2K16/pull/3"
+  },
+  {
+    "repo": "R2K16",
+    "state": "open",
+    "status": "open",
     "number": 2,
     "title": "Bump the npm_and_yarn group across 2 directories with 3 updates",
     "user": "dependabot[bot]",
@@ -1298,6 +1363,45 @@
     "head_branch": "codex/investigar-problema-de-log",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/steamlogger/pull/1"
+  },
+  {
+    "repo": "WAL-skill",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Add W3C WAI frontend accessibility Claude skill",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-02T17:01:30Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0fd83-wal-skill",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/WAL-skill/pull/1"
+  },
+  {
+    "repo": "WebRadioFM",
+    "state": "open",
+    "status": "open",
+    "number": 1,
+    "title": "Add comprehensive Docusaurus documentation",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-02T17:01:25Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0fd79-webradiofm",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/WebRadioFM/pull/1"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "state": "open",
+    "status": "open",
+    "number": 3,
+    "title": "docs: add full-codebase Docusaurus documentation site",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-02T17:05:09Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0fd75-windowsmoviemakerdecomp",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/pull/3"
   },
   {
     "repo": "WindowsMovieMakerDecomp",

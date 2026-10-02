@@ -1,6 +1,14 @@
 [
   {
     "repo": "FNF-Phoenix-Engine",
+    "pr_number": 31,
+    "sha": "af35c3f0085259fa1892f0fe5984c4badf25810c",
+    "sha_short": "af35c3f",
+    "message": "docs: add full Docusaurus documentation site",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/af35c3f0085259fa1892f0fe5984c4badf25810c"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
     "pr_number": 17,
     "sha": "af09202348924912353fa6aaa9970e140436a925",
     "sha_short": "af09202",
@@ -457,6 +465,14 @@
   },
   {
     "repo": "PersonaDB",
+    "pr_number": 4,
+    "sha": "f6339b0665bb9b01f9e0c511499cad4c89c663e9",
+    "sha_short": "f6339b0",
+    "message": "Fix persona generation consistency, schema parsing, and legal and temporal validation; add regression coverage",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/f6339b0665bb9b01f9e0c511499cad4c89c663e9"
+  },
+  {
+    "repo": "PersonaDB",
     "pr_number": 3,
     "sha": "93bf14e62d3baaf84470d8204a1c648a34621b6b",
     "sha_short": "93bf14e",
@@ -609,123 +625,131 @@
   },
   {
     "repo": "CivilConection",
+    "pr_number": 1,
+    "sha": "c62ae73333ad91d98d06cc99fb52d2c7cd3b8567",
+    "sha_short": "c62ae73",
+    "message": "docs: add comprehensive Docusaurus portal",
+    "url": "https://github.com/havaianasdestruido/CivilConection/commit/c62ae73333ad91d98d06cc99fb52d2c7cd3b8567"
+  },
+  {
+    "repo": "CivilConection-Fernando",
     "pr_number": 7,
     "sha": "16b49cff11aee0d22f062ef8af7554d412cb452f",
     "sha_short": "16b49cf",
     "message": "perf: resolve PageSpeed Insights findings (LCP/CLS, a11y, security, SEO)",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/16b49cff11aee0d22f062ef8af7554d412cb452f"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/16b49cff11aee0d22f062ef8af7554d412cb452f"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "pr_number": 7,
     "sha": "c139a0848dd0544043e14e842d8bfa269db37bd6",
     "sha_short": "c139a08",
     "message": "review: clean extensionless URLs + conservative asset cache",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/c139a0848dd0544043e14e842d8bfa269db37bd6"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/c139a0848dd0544043e14e842d8bfa269db37bd6"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "pr_number": 6,
     "sha": "e9a51986bc2ea14cb071838a69d6b4902f4995fe",
     "sha_short": "e9a5198",
     "message": "[ImgBot] Optimize images",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/e9a51986bc2ea14cb071838a69d6b4902f4995fe"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/e9a51986bc2ea14cb071838a69d6b4902f4995fe"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "pr_number": 5,
     "sha": "e5fbc7da281841dac8d9e8bb449fcface41362c1",
     "sha_short": "e5fbc7d",
     "message": "fix(frontend): aplica redesign completo com base no taste-skill/redesign-skill",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/e5fbc7da281841dac8d9e8bb449fcface41362c1"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/e5fbc7da281841dac8d9e8bb449fcface41362c1"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "pr_number": 5,
     "sha": "7c47c522fffa22f007152afc0823a47c8bc3e51e",
     "sha_short": "7c47c52",
     "message": "docs(frontend): atualiza stack no README (Archivo + assets locais)",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/7c47c522fffa22f007152afc0823a47c8bc3e51e"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/7c47c522fffa22f007152afc0823a47c8bc3e51e"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "pr_number": 5,
     "sha": "2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063",
     "sha_short": "2cf78e9",
     "message": "fix(frontend): desacopla busca do herói de /api/stats e sincroniza 4ª cópia em src/",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "pr_number": 5,
     "sha": "d5cdbe3251bf0f68d2f203b2cfdd2a57436be9a0",
     "sha_short": "d5cdbe3",
     "message": "Merge branch 'feature/init-springboot-backend-6483368769379451831' into arena/01a0f885-civilconection",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/d5cdbe3251bf0f68d2f203b2cfdd2a57436be9a0"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/d5cdbe3251bf0f68d2f203b2cfdd2a57436be9a0"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "pr_number": 5,
     "sha": "0a8681e3b4046af01b4d5f500ce864464660feff",
     "sha_short": "0a8681e",
     "message": "fix(frontend): corrige XSS, corrida de busca, login falso e cadastro parcial",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/0a8681e3b4046af01b4d5f500ce864464660feff"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/0a8681e3b4046af01b4d5f500ce864464660feff"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "pr_number": 4,
     "sha": "f693360748b7e6b4a879a42713a21ef8dc61eb99",
     "sha_short": "f693360",
     "message": "[ImgBot] Optimize images",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/f693360748b7e6b4a879a42713a21ef8dc61eb99"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/f693360748b7e6b4a879a42713a21ef8dc61eb99"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "pr_number": 3,
     "sha": "e5fbc7da281841dac8d9e8bb449fcface41362c1",
     "sha_short": "e5fbc7d",
     "message": "fix(frontend): aplica redesign completo com base no taste-skill/redesign-skill",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/e5fbc7da281841dac8d9e8bb449fcface41362c1"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/e5fbc7da281841dac8d9e8bb449fcface41362c1"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "pr_number": 3,
     "sha": "7c47c522fffa22f007152afc0823a47c8bc3e51e",
     "sha_short": "7c47c52",
     "message": "docs(frontend): atualiza stack no README (Archivo + assets locais)",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/7c47c522fffa22f007152afc0823a47c8bc3e51e"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/7c47c522fffa22f007152afc0823a47c8bc3e51e"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "pr_number": 3,
     "sha": "2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063",
     "sha_short": "2cf78e9",
     "message": "fix(frontend): desacopla busca do herói de /api/stats e sincroniza 4ª cópia em src/",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/2cf78e9e8c414b9bb5366c6cb17cb1c8b1e86063"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "pr_number": 2,
     "sha": "8fac0be79b3c9e433119ea62c47f062f93c62b52",
     "sha_short": "8fac0be",
     "message": "fix(frontend): remover Tailwind CDN, corrigir 404 do logo e tratar API offline",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/8fac0be79b3c9e433119ea62c47f062f93c62b52"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/8fac0be79b3c9e433119ea62c47f062f93c62b52"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "pr_number": 2,
     "sha": "c69ff8e65f8e8d3b4fd4c6d44e3d20738fa255b2",
     "sha_short": "c69ff8e",
     "message": "fix(review): cooldown de retry da API, busca da home offline e watch do Tailwind",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/c69ff8e65f8e8d3b4fd4c6d44e3d20738fa255b2"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/c69ff8e65f8e8d3b4fd4c6d44e3d20738fa255b2"
   },
   {
-    "repo": "CivilConection",
+    "repo": "CivilConection-Fernando",
     "pr_number": 1,
     "sha": "df34b77ca852b9d9129f14dcd9ff444efa9a2c1c",
     "sha_short": "df34b77",
     "message": "fix: corrige encoding (Latin-1 -> UTF-8) nos HTMLs e força UTF-8 no Spring",
-    "url": "https://github.com/havaianasdestruido/CivilConection/commit/df34b77ca852b9d9129f14dcd9ff444efa9a2c1c"
+    "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/df34b77ca852b9d9129f14dcd9ff444efa9a2c1c"
   },
   {
     "repo": "ClassHub",
@@ -782,6 +806,22 @@
     "sha_short": "c686cce",
     "message": "review fixes: budget double-charge, index-page containment, config defaults",
     "url": "https://github.com/havaianasdestruido/dadosabertos/commit/c686ccee266ca87958addf7d35d6c5cf16ac9f11"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "pr_number": 1,
+    "sha": "610a965139be1df89879c9dd57426585388eaa48",
+    "sha_short": "610a965",
+    "message": "Add full codebase documentation site with Docusaurus",
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/610a965139be1df89879c9dd57426585388eaa48"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "pr_number": 1,
+    "sha": "299b72a11732fe88043029d28ce3634c6be31bb3",
+    "sha_short": "299b72a",
+    "message": "Address review findings in docs",
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/299b72a11732fe88043029d28ce3634c6be31bb3"
   },
   {
     "repo": "FNF-Cubes-Live-Wallpaper",
@@ -998,6 +1038,14 @@
     "sha_short": "0d76031",
     "message": "Fix CodeRabbit issues in PR #2",
     "url": "https://github.com/havaianasdestruido/KaukaMed/commit/0d7603161b8e5104d1d6779f7a3145e10bb10b29"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 5,
+    "sha": "f89552cf6560008cbd9dc30efb42b286f2c7a4db",
+    "sha_short": "f89552c",
+    "message": "docs: add Docusaurus documentation portal",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/f89552cf6560008cbd9dc30efb42b286f2c7a4db"
   },
   {
     "repo": "KaukaMed",
@@ -1377,6 +1425,14 @@
   },
   {
     "repo": "R2K16",
+    "pr_number": 3,
+    "sha": "3770f5a54ca9ad7f4bf7639e6ec4e461205400fb",
+    "sha_short": "3770f5a",
+    "message": "Add full codebase documentation site (Docusaurus 3)",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb"
+  },
+  {
+    "repo": "R2K16",
     "pr_number": 2,
     "sha": "d7f519da3b8d2c4b6b201c655273292229b4619d",
     "sha_short": "d7f519d",
@@ -1438,6 +1494,30 @@
     "sha_short": "da63afc",
     "message": "Tolerate brief missing Steam game polls",
     "url": "https://github.com/havaianasdestruido/steamlogger/commit/da63afce1905635b901bc16af104022937168df1"
+  },
+  {
+    "repo": "WAL-skill",
+    "pr_number": 1,
+    "sha": "905afbb4c2b065838bbad033a19c448c9733b7d8",
+    "sha_short": "905afbb",
+    "message": "Add W3C WAI frontend accessibility Claude skill",
+    "url": "https://github.com/havaianasdestruido/WAL-skill/commit/905afbb4c2b065838bbad033a19c448c9733b7d8"
+  },
+  {
+    "repo": "WebRadioFM",
+    "pr_number": 1,
+    "sha": "9f9470c45f869990df8e68862ebc8aa837d1e1ba",
+    "sha_short": "9f9470c",
+    "message": "docs: add comprehensive Docusaurus site",
+    "url": "https://github.com/havaianasdestruido/WebRadioFM/commit/9f9470c45f869990df8e68862ebc8aa837d1e1ba"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 3,
+    "sha": "66f7a725e8010b29ca8e312b82b6f4a32628fdea",
+    "sha_short": "66f7a72",
+    "message": "docs: add full-codebase Docusaurus documentation site",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/66f7a725e8010b29ca8e312b82b6f4a32628fdea"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
