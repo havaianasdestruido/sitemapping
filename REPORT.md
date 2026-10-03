@@ -4,7 +4,7 @@
 
 > fka. PatoFlamejantetv/UltimateQuack
 
-**Generated:** 2026-10-03 18:53:29 UTC
+**Generated:** 2026-10-03 22:32:31 UTC
 **Public Repositories:** 88
 
 ---
@@ -995,14 +995,199 @@
 
 ---
 
+- ## [R2K16](https://github.com/havaianasdestruido/R2K16) `🍴 Fork | 🗃️ Template`
+  > 2K16 RBLX
+  > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 1 open issues | 💻 C++ | 📅 Created: 2026-09-06 | 🔄 Updated: 2026-10-03
+
+  - 🔗 Forked from: [Artifaqt/ROBLOX2016](https://github.com/Artifaqt/ROBLOX2016)
+    - ### 🌿 Branches (5)
+      - [`arena/01a0fd75-r2k16`](https://github.com/havaianasdestruido/R2K16/tree/arena/01a0fd75-r2k16) — HEAD: `2a104c1`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/R2K16/commits/arena/01a0fd75-r2k16)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/R2K16/commits/arena/01a0fd75-r2k16)
+          - [`2a104c1`](https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73) **Apply review fixes to docs site and deploy workflow** — _havaianasdestruido_ (2026-10-02)
+          - [`3770f5a`](https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb) **Add full codebase documentation site (Docusaurus 3)** — _havaianasdestruido_ (2026-10-02)
+          - [`0f63b0c`](https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666) **Revise Extras section in README.md** — _Pato (new acc)_ (2026-09-20)
+          - [`809a16d`](https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172) **images about security scanning results** — _Pato (new acc)_ (2026-09-20)
+          - [`e4bb2b2`](https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624) **Create README.txt** — _Pato (new acc)_ (2026-09-20)
+          - [`786adea`](https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140) **Create README.txt** — _Pato (new acc)_ (2026-09-20)
+          - [`0a3caf7`](https://github.com/havaianasdestruido/R2K16/commit/0a3caf7be83adad1b0b2ada14a594c669f6ce33f) **-DCMAKE_POLICY_VERSION_MINIMUM=3.5** — _Pato (new acc)_ (2026-09-20)
+          - [`317de81`](https://github.com/havaianasdestruido/R2K16/commit/317de816dd1ea8c185997450ec36940146845752) **Delete .github/workflows/trivy.yml** — _Pato (new acc)_ (2026-09-20)
+          - [`9a1578b`](https://github.com/havaianasdestruido/R2K16/commit/9a1578b3b3ba94c98fad32b7750e12e6eeb73ad4) **Create sync.yml** — _Pato (new acc)_ (2026-09-20)
+          - [`04843e4`](https://github.com/havaianasdestruido/R2K16/commit/04843e46bf705ae80b34a7053efe06173eae66f0) **Enhance README with search tips and PR instructions** — _Pato (new acc)_ (2026-09-17)
+      - [`arena/01a0ff4f-r2k16`](https://github.com/havaianasdestruido/R2K16/tree/arena/01a0ff4f-r2k16) — HEAD: `0659d3d`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/R2K16/commits/arena/01a0ff4f-r2k16)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/R2K16/commits/arena/01a0ff4f-r2k16)
+          - [`0659d3d`](https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0) **Split website: Jekyll primary page at /, Docusaurus docs at /docs** — _havaianasdestruido_ (2026-10-03)
+          - [`a14bf78`](https://github.com/havaianasdestruido/R2K16/commit/a14bf7882b8b25e12814f5da9640375969f12e4a) **Merge pull request #3 from havaianasdestruido/arena/01a0fd75-r2k16** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-02)
+          - [`2a104c1`](https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73) **Apply review fixes to docs site and deploy workflow** — _havaianasdestruido_ (2026-10-02)
+          - [`3770f5a`](https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb) **Add full codebase documentation site (Docusaurus 3)** — _havaianasdestruido_ (2026-10-02)
+          - [`0f63b0c`](https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666) **Revise Extras section in README.md** — _Pato (new acc)_ (2026-09-20)
+          - [`809a16d`](https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172) **images about security scanning results** — _Pato (new acc)_ (2026-09-20)
+          - [`e4bb2b2`](https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624) **Create README.txt** — _Pato (new acc)_ (2026-09-20)
+          - [`786adea`](https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140) **Create README.txt** — _Pato (new acc)_ (2026-09-20)
+          - [`0a3caf7`](https://github.com/havaianasdestruido/R2K16/commit/0a3caf7be83adad1b0b2ada14a594c669f6ce33f) **-DCMAKE_POLICY_VERSION_MINIMUM=3.5** — _Pato (new acc)_ (2026-09-20)
+          - [`317de81`](https://github.com/havaianasdestruido/R2K16/commit/317de816dd1ea8c185997450ec36940146845752) **Delete .github/workflows/trivy.yml** — _Pato (new acc)_ (2026-09-20)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/R2K16/commits/arena/01a0ff4f-r2k16/?after=05db15d61050dd4a972636202cb613043ad4a9c0+34)
+          - [`2b621be`](https://github.com/havaianasdestruido/R2K16/commit/2b621be4c91a2253b7123960bd517382da8e6ca1) **Initial commit** — _UltimateQuack_ (2024-12-19)
+      - [`arena/01a10307-r2k16`](https://github.com/havaianasdestruido/R2K16/tree/arena/01a10307-r2k16) — HEAD: `a51d8a1`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/R2K16/commits/arena/01a10307-r2k16)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/R2K16/commits/arena/01a10307-r2k16)
+          - [`a51d8a1`](https://github.com/havaianasdestruido/R2K16/commit/a51d8a137fb67314ebea6734e530f99ea1813b14) **ci(pages): fix 'Permission denied' when mounting docs under _site/docs** — _Arena Agent_ (2026-10-03)
+          - [`e38de88`](https://github.com/havaianasdestruido/R2K16/commit/e38de88218960d322afbcd497e8fa7aaf1d492b1) **Merge pull request #4 from havaianasdestruido/arena/01a0ff4f-r2k16** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`0659d3d`](https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0) **Split website: Jekyll primary page at /, Docusaurus docs at /docs** — _havaianasdestruido_ (2026-10-03)
+          - [`a14bf78`](https://github.com/havaianasdestruido/R2K16/commit/a14bf7882b8b25e12814f5da9640375969f12e4a) **Merge pull request #3 from havaianasdestruido/arena/01a0fd75-r2k16** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-02)
+          - [`2a104c1`](https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73) **Apply review fixes to docs site and deploy workflow** — _havaianasdestruido_ (2026-10-02)
+          - [`3770f5a`](https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb) **Add full codebase documentation site (Docusaurus 3)** — _havaianasdestruido_ (2026-10-02)
+          - [`0f63b0c`](https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666) **Revise Extras section in README.md** — _Pato (new acc)_ (2026-09-20)
+          - [`809a16d`](https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172) **images about security scanning results** — _Pato (new acc)_ (2026-09-20)
+          - [`e4bb2b2`](https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624) **Create README.txt** — _Pato (new acc)_ (2026-09-20)
+          - [`786adea`](https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140) **Create README.txt** — _Pato (new acc)_ (2026-09-20)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/R2K16/commits/arena/01a10307-r2k16/?after=f52ba91c240db4b0db6b6c1345a7094c8c43e177+34)
+          - [`dd0298a`](https://github.com/havaianasdestruido/R2K16/commit/dd0298aee99bff9edd85298e6482ba767a045283) **\[ImgBot\] Optimize images** — _ImgBotApp_ (2024-12-19)
+          - [`05db15d`](https://github.com/havaianasdestruido/R2K16/commit/05db15d61050dd4a972636202cb613043ad4a9c0) **full source code** — _PatoFlamejanteTV_ (2024-12-19)
+          - [`2b621be`](https://github.com/havaianasdestruido/R2K16/commit/2b621be4c91a2253b7123960bd517382da8e6ca1) **Initial commit** — _UltimateQuack_ (2024-12-19)
+      - [`dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece`](https://github.com/havaianasdestruido/R2K16/tree/dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece) — HEAD: `d7f519d`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/R2K16/commits/dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/R2K16/commits/dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece)
+          - [`d7f519d`](https://github.com/havaianasdestruido/R2K16/commit/d7f519da3b8d2c4b6b201c655273292229b4619d) **Bump the npm_and_yarn group across 2 directories with 3 updates** — _dependabot[bot]_ (2026-09-20)
+          - [`9a1578b`](https://github.com/havaianasdestruido/R2K16/commit/9a1578b3b3ba94c98fad32b7750e12e6eeb73ad4) **Create sync.yml** — _Pato (new acc)_ (2026-09-20)
+          - [`04843e4`](https://github.com/havaianasdestruido/R2K16/commit/04843e46bf705ae80b34a7053efe06173eae66f0) **Enhance README with search tips and PR instructions** — _Pato (new acc)_ (2026-09-17)
+          - [`412ab49`](https://github.com/havaianasdestruido/R2K16/commit/412ab4905bf3e5c8315eabaa03698485535d5973) **Create scorecard.yml** — _Pato (new acc)_ (2026-09-15)
+          - [`bd22abb`](https://github.com/havaianasdestruido/R2K16/commit/bd22abb13f05c8741c5b5a9168d7e5f9d58eb831) **Create trivy.yml** — _Pato (new acc)_ (2026-09-15)
+          - [`46bba0b`](https://github.com/havaianasdestruido/R2K16/commit/46bba0bbad6c4729a397e70a7ead76dfedd75326) **Create semgrep.yml** — _Pato (new acc)_ (2026-09-15)
+          - [`864de3b`](https://github.com/havaianasdestruido/R2K16/commit/864de3b3c6acbc318ca23c1b96ae73232a33a4fb) **Create osv-scanner.yml** — _Pato (new acc)_ (2026-09-15)
+          - [`eadb785`](https://github.com/havaianasdestruido/R2K16/commit/eadb785b1eb98eedcdd7255de3d0f4d602a47289) **Create msvc.yml** — _Pato (new acc)_ (2026-09-15)
+          - [`1248551`](https://github.com/havaianasdestruido/R2K16/commit/12485510185848deae9179973b0df3c9ef5f6cc3) **Delete .github/workflows/build.yml** — _Pato (new acc)_ (2026-09-15)
+          - [`65d06ee`](https://github.com/havaianasdestruido/R2K16/commit/65d06ee027294a5aa256b813f5fe3377652e2f17) **added manual triggering** — _Pato (new acc)_ (2026-09-15)
+      - [`main`](https://github.com/havaianasdestruido/R2K16/tree/main) _(default)_ — HEAD: `e38de88`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/R2K16/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/R2K16/commits/main)
+          - [`e38de88`](https://github.com/havaianasdestruido/R2K16/commit/e38de88218960d322afbcd497e8fa7aaf1d492b1) **Merge pull request #4 from havaianasdestruido/arena/01a0ff4f-r2k16** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`0659d3d`](https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0) **Split website: Jekyll primary page at /, Docusaurus docs at /docs** — _havaianasdestruido_ (2026-10-03)
+          - [`a14bf78`](https://github.com/havaianasdestruido/R2K16/commit/a14bf7882b8b25e12814f5da9640375969f12e4a) **Merge pull request #3 from havaianasdestruido/arena/01a0fd75-r2k16** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-02)
+          - [`2a104c1`](https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73) **Apply review fixes to docs site and deploy workflow** — _havaianasdestruido_ (2026-10-02)
+          - [`3770f5a`](https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb) **Add full codebase documentation site (Docusaurus 3)** — _havaianasdestruido_ (2026-10-02)
+          - [`0f63b0c`](https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666) **Revise Extras section in README.md** — _Pato (new acc)_ (2026-09-20)
+          - [`809a16d`](https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172) **images about security scanning results** — _Pato (new acc)_ (2026-09-20)
+          - [`e4bb2b2`](https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624) **Create README.txt** — _Pato (new acc)_ (2026-09-20)
+          - [`786adea`](https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140) **Create README.txt** — _Pato (new acc)_ (2026-09-20)
+          - [`0a3caf7`](https://github.com/havaianasdestruido/R2K16/commit/0a3caf7be83adad1b0b2ada14a594c669f6ce33f) **-DCMAKE_POLICY_VERSION_MINIMUM=3.5** — _Pato (new acc)_ (2026-09-20)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/R2K16/commits/main/?after=dd0298aee99bff9edd85298e6482ba767a045283+34)
+          - [`05db15d`](https://github.com/havaianasdestruido/R2K16/commit/05db15d61050dd4a972636202cb613043ad4a9c0) **full source code** — _PatoFlamejanteTV_ (2024-12-19)
+          - [`2b621be`](https://github.com/havaianasdestruido/R2K16/commit/2b621be4c91a2253b7123960bd517382da8e6ca1) **Initial commit** — _UltimateQuack_ (2024-12-19)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (1)
+        - 🟢 Open [#2 Bump the npm_and_yarn group across 2 directories with 3 upda](https://github.com/havaianasdestruido/R2K16/pull/2) — _dependabot[bot]_ (2026-09-20) `dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`d7f519d`](https://github.com/havaianasdestruido/R2K16/commit/d7f519da3b8d2c4b6b201c655273292229b4619d) Bump the npm_and_yarn group across 2 directories with 3 upda
+      - **Closed PRs** (3)
+        - ✅ Merged [#4 Split website: Jekyll primary page at /, Docusaurus docs onl](https://github.com/havaianasdestruido/R2K16/pull/4) — _havaianasdestruido_ (2026-10-03) `arena/01a0ff4f-r2k16` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`0659d3d`](https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0) Split website: Jekyll primary page at /, Docusaurus docs at 
+        - ✅ Merged [#3 Add full codebase documentation site (Docusaurus 3)](https://github.com/havaianasdestruido/R2K16/pull/3) — _havaianasdestruido_ (2026-10-02) `arena/01a0fd75-r2k16` → `main`
+          - 📝 2 commit(s) in this PR
+            - [`3770f5a`](https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb) Add full codebase documentation site (Docusaurus 3)
+            - [`2a104c1`](https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73) Apply review fixes to docs site and deploy workflow
+        - 🔴 Closed [#1 Bump the npm_and_yarn group across 2 directories with 3 upda](https://github.com/havaianasdestruido/R2K16/pull/1) — _dependabot[bot]_ (2026-09-15) `dependabot/npm_and_yarn/RobloxHybrid/docs/jsdoc/npm_and_yarn-b258cd4ece` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`7868b75`](https://github.com/havaianasdestruido/R2K16/commit/7868b756bd7dc1cdcfe5292e0025046d640bdede) Bump the npm_and_yarn group across 2 directories with 3 upda
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (1)
+      - [@tdort](https://github.com/tdort) — starred on 2026-10-03
+
+    - ### 👀 Watchers / Subscribers (1)
+      - [@tdort](https://github.com/tdort)
+
+    - ### 👥 Contributors (2)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 29 commit(s)
+      - [@ImgBotApp](https://github.com/ImgBotApp) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C++` — 51.8% (557,213,413 bytes)
+      - `HTML` — 32.4% (348,770,724 bytes)
+      - `C` — 13.0% (139,874,683 bytes)
+      - `JavaScript` — 0.4% (4,020,845 bytes)
+      - `Python` — 0.3% (3,400,448 bytes)
+      - `Objective-C++` — 0.2% (2,675,524 bytes)
+      - `Objective-C` — 0.2% (2,223,658 bytes)
+      - `IDL` — 0.2% (2,200,374 bytes)
+      - `Lua` — 0.2% (2,046,924 bytes)
+      - `Assembly` — 0.1% (1,539,045 bytes)
+      - `QML` — 0.1% (1,446,093 bytes)
+      - `Java` — 0.1% (1,401,718 bytes)
+      - `CSS` — 0.1% (1,224,441 bytes)
+      - `C#` — 0.1% (905,324 bytes)
+      - `XSLT` — 0.1% (875,007 bytes)
+      - `CMake` — 0.1% (768,823 bytes)
+      - `Shell` — 0.1% (730,710 bytes)
+      - `QMake` — 0.1% (635,968 bytes)
+      - `Makefile` — 0.0% (518,535 bytes)
+      - `GAP` — 0.0% (385,184 bytes)
+      - `Yacc` — 0.0% (383,743 bytes)
+      - `M4` — 0.0% (216,731 bytes)
+      - `CWeb` — 0.0% (173,921 bytes)
+      - `Perl` — 0.0% (156,625 bytes)
+      - `Cuda` — 0.0% (130,316 bytes)
+      - `HLSL` — 0.0% (120,595 bytes)
+      - `DIGITAL Command Language` — 0.0% (100,111 bytes)
+      - `Ada` — 0.0% (89,079 bytes)
+      - `PHP` — 0.0% (86,439 bytes)
+      - `Roff` — 0.0% (86,099 bytes)
+      - `TeX` — 0.0% (82,851 bytes)
+      - `VBScript` — 0.0% (69,481 bytes)
+      - `Module Management System` — 0.0% (69,178 bytes)
+      - `Rich Text Format` — 0.0% (61,478 bytes)
+      - `Batchfile` — 0.0% (59,681 bytes)
+      - `Lex` — 0.0% (53,422 bytes)
+      - `Go Template` — 0.0% (52,207 bytes)
+      - `Pascal` — 0.0% (42,413 bytes)
+      - `Max` — 0.0% (36,857 bytes)
+      - `Qt Script` — 0.0% (29,918 bytes)
+      - `Pawn` — 0.0% (29,116 bytes)
+      - `Ruby` — 0.0% (26,381 bytes)
+      - `LLVM` — 0.0% (23,063 bytes)
+      - `GLSL` — 0.0% (18,207 bytes)
+      - `BitBake` — 0.0% (15,622 bytes)
+      - `XQuery` — 0.0% (12,547 bytes)
+      - `AIDL` — 0.0% (8,443 bytes)
+      - `Less` — 0.0% (8,428 bytes)
+      - `POV-Ray SDL` — 0.0% (4,063 bytes)
+      - `Visual Basic .NET` — 0.0% (3,795 bytes)
+      - `NASL` — 0.0% (2,832 bytes)
+      - `AppleScript` — 0.0% (2,781 bytes)
+      - `Prolog` — 0.0% (2,612 bytes)
+      - `Eiffel` — 0.0% (2,159 bytes)
+      - `Fortran` — 0.0% (1,856 bytes)
+      - `Gherkin` — 0.0% (1,620 bytes)
+      - `Tcl` — 0.0% (1,172 bytes)
+      - `sed` — 0.0% (946 bytes)
+      - `Scilab` — 0.0% (673 bytes)
+      - `D` — 0.0% (597 bytes)
+      - `Rez` — 0.0% (354 bytes)
+      - `SCSS` — 0.0% (259 bytes)
+      - `GDB` — 0.0% (227 bytes)
+      - `Sass` — 0.0% (167 bytes)
+
+---
+
 - ## [sitemapping](https://github.com/havaianasdestruido/sitemapping) `🗃️ Template`
   > workflow to make me get indexed on some stuff. aka SEO stuff
   > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-10-03
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `c43480b`
+      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `b171b18`
         - 📋 [All Commits](https://github.com/havaianasdestruido/sitemapping/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/sitemapping/commits/main)
+          - [`b171b18`](https://github.com/havaianasdestruido/sitemapping/commit/b171b18f36151970d3a95d811592cc707eb0b56d) **📊 \[2026-10-03 18:59:19 UTC\]** — _GitHub Action Bot_ (2026-10-03)
           - [`c43480b`](https://github.com/havaianasdestruido/sitemapping/commit/c43480b6349cc6953ea462d40a54a3a8e14e37fc) **📊 \[2026-10-03 15:29:20 UTC\]** — _GitHub Action Bot_ (2026-10-03)
           - [`e09bd92`](https://github.com/havaianasdestruido/sitemapping/commit/e09bd92a141e18ef9ee87622e1d9fb1d26c45c8d) **📊 \[2026-10-03 09:37:47 UTC\]** — _GitHub Action Bot_ (2026-10-03)
           - [`2273066`](https://github.com/havaianasdestruido/sitemapping/commit/2273066d0ed048a30c29c99978f1b2fb5a227bba) **📊 \[2026-10-03 03:00:40 UTC\]** — _GitHub Action Bot_ (2026-10-03)
@@ -1012,8 +1197,8 @@
           - [`1f7881d`](https://github.com/havaianasdestruido/sitemapping/commit/1f7881d85853fdc7352fc01a4eeff35b49deb63f) **📊 \[2026-10-02 03:13:01 UTC\]** — _GitHub Action Bot_ (2026-10-02)
           - [`a7b9547`](https://github.com/havaianasdestruido/sitemapping/commit/a7b95471b7cdf2d5070a27bb3fb7d802f67c071d) **📊 \[2026-10-01 23:39:16 UTC\]** — _GitHub Action Bot_ (2026-10-01)
           - [`cdafb22`](https://github.com/havaianasdestruido/sitemapping/commit/cdafb22ef58c520c4db42ac5b0332684e3aea10d) **📊 \[2026-10-01 17:49:52 UTC\]** — _GitHub Action Bot_ (2026-10-01)
-          - [`2e4df37`](https://github.com/havaianasdestruido/sitemapping/commit/2e4df37ec2445a61595a4df939b7e0add5056f59) **📊 \[2026-10-01 10:41:26 UTC\]** — _GitHub Action Bot_ (2026-10-01)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=cc16745125e692db6671d90fd9388171dcffa0aa+34)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=783b78ae71506c097fc8ad65e981819917b7abda+34)
+          - [`cc16745`](https://github.com/havaianasdestruido/sitemapping/commit/cc16745125e692db6671d90fd9388171dcffa0aa) **📊 \[2026-09-25 02:35:41 UTC\]** — _GitHub Action Bot_ (2026-09-25)
           - [`4b5856c`](https://github.com/havaianasdestruido/sitemapping/commit/4b5856ca80911a4343ef9f62e444dcc7dbdd49c6) **📊 \[2026-09-24 22:54:09 UTC\]** — _GitHub Action Bot_ (2026-09-24)
           - [`69cf6e3`](https://github.com/havaianasdestruido/sitemapping/commit/69cf6e39772ab77d1bba35bbda5c600b243bd532) **📊 \[2026-09-24 16:13:47 UTC\]** — _GitHub Action Bot_ (2026-09-24)
           - [`c29dfaa`](https://github.com/havaianasdestruido/sitemapping/commit/c29dfaa4905a7cdc016d9ca02ea0829491321e44) **📊 \[2026-09-24 08:56:02 UTC\]** — _GitHub Action Bot_ (2026-09-24)
@@ -1023,8 +1208,8 @@
           - [`c6b4d68`](https://github.com/havaianasdestruido/sitemapping/commit/c6b4d6831811476955e36df5febc17257d3cda7b) **📊 \[2026-09-23 15:53:42 UTC\]** — _GitHub Action Bot_ (2026-09-23)
           - [`33cee29`](https://github.com/havaianasdestruido/sitemapping/commit/33cee29c6afc831bd698a9f06b20fe5cca9d8736) **📊 \[2026-09-23 08:59:36 UTC\]** — _GitHub Action Bot_ (2026-09-23)
           - [`6c39cfb`](https://github.com/havaianasdestruido/sitemapping/commit/6c39cfb5e873ac228a8d70c6b3ce34c46f66745d) **📊 \[2026-09-23 02:30:31 UTC\]** — _GitHub Action Bot_ (2026-09-23)
-          - [`aba140c`](https://github.com/havaianasdestruido/sitemapping/commit/aba140c0fc74e41185e6fe50a2a6f8ed8f345fc2) **📊 \[2026-09-22 22:36:14 UTC\]** — _GitHub Action Bot_ (2026-09-22)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=7af849f89b6d3e9decfb834f5cedcc3d7bee8c37+34)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=5cdd65b34cd7dd38f5a2c04d760fd5073517c7bf+34)
+          - [`7af849f`](https://github.com/havaianasdestruido/sitemapping/commit/7af849f89b6d3e9decfb834f5cedcc3d7bee8c37) **Change GITHUB_TOKEN to GITHUB_PAT in workflow** — _Pato (new acc)_ (2026-09-19)
           - [`530cfa2`](https://github.com/havaianasdestruido/sitemapping/commit/530cfa225460782736ed8473366fb6434e088b5d) **📊 Update repository report \[2026-09-19 14:49:04 UTC\]** — _GitHub Action Bot_ (2026-09-19)
           - [`531d027`](https://github.com/havaianasdestruido/sitemapping/commit/531d02779db6101779fe4b134f5600cbc01283ac) **Adjust max commit pages and enhance error handling** — _Pato (new acc)_ (2026-09-19)
           - [`3b97b0d`](https://github.com/havaianasdestruido/sitemapping/commit/3b97b0d1a01bec85dc9661f63434481a29092eab) **📊 Update repository report \[2026-09-19 14:32:32 UTC\]** — _GitHub Action Bot_ (2026-09-19)
@@ -1034,7 +1219,6 @@
           - [`066fe0e`](https://github.com/havaianasdestruido/sitemapping/commit/066fe0e4049f15ce3de8c0eae193d0e90c4af2d8) **📊 Update repository report \[2026-09-19 03:43:23 UTC\]** — _GitHub Action Bot_ (2026-09-19)
           - [`dc26c40`](https://github.com/havaianasdestruido/sitemapping/commit/dc26c40f3c26ac8c6e75a39f788215e58741447a) **📊 Update repository report \[2026-09-18 03:46:42 UTC\]** — _GitHub Action Bot_ (2026-09-18)
           - [`d51ffae`](https://github.com/havaianasdestruido/sitemapping/commit/d51ffae9e72f4b6c25ae0f6ab15bb0c421db3f94) **Create LICENSE** — _Pato (new acc)_ (2026-09-18)
-          - [`ee38a4d`](https://github.com/havaianasdestruido/sitemapping/commit/ee38a4da95223bc0d67a72062e40d7e365314f14) **📊 Update repository report \[2026-09-17 03:58:56 UTC\]** — _GitHub Action Bot_ (2026-09-17)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -1052,7 +1236,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@actions-user](https://github.com/actions-user) — 71 commit(s)
+      - [@actions-user](https://github.com/actions-user) — 72 commit(s)
       - [@havaianasdestruido](https://github.com/havaianasdestruido) — 22 commit(s)
 
     - ### 🏷️ Releases (2)
@@ -1069,9 +1253,10 @@
   > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 HTML | 📅 Created: 2026-09-20 | 🔄 Updated: 2026-10-03
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/top100/tree/main) _(default)_ — HEAD: `891de91`
+      - [`main`](https://github.com/havaianasdestruido/top100/tree/main) _(default)_ — HEAD: `2a14178`
         - 📋 [All Commits](https://github.com/havaianasdestruido/top100/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/top100/commits/main)
+          - [`2a14178`](https://github.com/havaianasdestruido/top100/commit/2a14178fa21c6f6f6c94c979472c5815020c3c54) **data: update top repos data (2026-10-03 20:18 UTC)** — _github-actions[bot]_ (2026-10-03)
           - [`891de91`](https://github.com/havaianasdestruido/top100/commit/891de91f24d010a2c8b0b00e48bfb721fc1c4356) **data: update top repos data (2026-10-03 17:50 UTC)** — _github-actions[bot]_ (2026-10-03)
           - [`3842d5e`](https://github.com/havaianasdestruido/top100/commit/3842d5ef2a94383f5682218a24355f1704dd5fb8) **data: update top repos data (2026-10-03 14:01 UTC)** — _github-actions[bot]_ (2026-10-03)
           - [`c1f147a`](https://github.com/havaianasdestruido/top100/commit/c1f147a92360dfeaf15aba5812df7b513df924ce) **data: update top repos data (2026-10-03 08:39 UTC)** — _github-actions[bot]_ (2026-10-03)
@@ -1081,8 +1266,8 @@
           - [`7a0ff6a`](https://github.com/havaianasdestruido/top100/commit/7a0ff6aa146a00398204c2d7786fd6509721e0e1) **data: update top repos data (2026-10-02 14:15 UTC)** — _github-actions[bot]_ (2026-10-02)
           - [`2a20397`](https://github.com/havaianasdestruido/top100/commit/2a2039773b57ceff0fd2c4f641460dd44b4d0690) **data: update top repos data (2026-10-02 07:39 UTC)** — _github-actions[bot]_ (2026-10-02)
           - [`a7dbb14`](https://github.com/havaianasdestruido/top100/commit/a7dbb14a155a67f6ae5b60d261db7cdd9580411a) **data: update top repos data (2026-10-02 01:10 UTC)** — _github-actions[bot]_ (2026-10-02)
-          - [`b7da815`](https://github.com/havaianasdestruido/top100/commit/b7da8152797a07fa2388f2473ed9c437d4964a12) **data: update top repos data (2026-10-01 21:29 UTC)** — _github-actions[bot]_ (2026-10-01)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/top100/commits/main/?after=f2ee0ebd527190d53aa1f67c93bb0997590ce769+34)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/top100/commits/main/?after=3f60b27613749013bf809b0872e80b7a0927f60e+34)
+          - [`f2ee0eb`](https://github.com/havaianasdestruido/top100/commit/f2ee0ebd527190d53aa1f67c93bb0997590ce769) **data: update top repos data (2026-09-27)** — _github-actions[bot]_ (2026-09-27)
           - [`1d2ee2c`](https://github.com/havaianasdestruido/top100/commit/1d2ee2cdd5f0995906682913d339daf51c110005) **data: update top repos data (2026-09-27)** — _github-actions[bot]_ (2026-09-27)
           - [`ff24016`](https://github.com/havaianasdestruido/top100/commit/ff24016d9f46338d475a69f6652e536d72116a3b) **data: update top repos data (2026-09-26)** — _github-actions[bot]_ (2026-09-26)
           - [`e946c7f`](https://github.com/havaianasdestruido/top100/commit/e946c7f4652fde3688fc7e2316835b68254fa032) **data: update top repos data (2026-09-26)** — _github-actions[bot]_ (2026-09-26)
@@ -1092,8 +1277,8 @@
           - [`a0d93d7`](https://github.com/havaianasdestruido/top100/commit/a0d93d704698c09eb350d6dd38e6f56658f5de4d) **data: update top repos data (2026-09-26)** — _github-actions[bot]_ (2026-09-26)
           - [`5f70006`](https://github.com/havaianasdestruido/top100/commit/5f7000603749d37b475f9734826d6bc9dbdcd14c) **data: update top repos data (2026-09-26)** — _github-actions[bot]_ (2026-09-26)
           - [`e7a9059`](https://github.com/havaianasdestruido/top100/commit/e7a9059028bb3b774db87f6353df6cef6252ab3a) **data: update top repos data (2026-09-25)** — _github-actions[bot]_ (2026-09-25)
-          - [`16822d7`](https://github.com/havaianasdestruido/top100/commit/16822d70a64e847c1f54399d8f1964cff0658bed) **data: update top repos data (2026-09-25)** — _github-actions[bot]_ (2026-09-25)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/top100/commits/main/?after=a48b212d6b3b79b9ec2f24b956dee679b22545da+34)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/top100/commits/main/?after=c7665d0011c1f43d921afb8af22aad1664c51ddd+34)
+          - [`a48b212`](https://github.com/havaianasdestruido/top100/commit/a48b212d6b3b79b9ec2f24b956dee679b22545da) **data: update top repos data (2026-09-21)** — _github-actions[bot]_ (2026-09-21)
           - [`62cdd4d`](https://github.com/havaianasdestruido/top100/commit/62cdd4dfedc004ef723890a3eb97adda10907611) **data: update top repos data (2026-09-21)** — _github-actions[bot]_ (2026-09-21)
           - [`1fab4ce`](https://github.com/havaianasdestruido/top100/commit/1fab4ce39708cefca5ea71c432108406cdcde873) **data: update top repos data (2026-09-21)** — _github-actions[bot]_ (2026-09-21)
           - [`623f15d`](https://github.com/havaianasdestruido/top100/commit/623f15dea9611cd851b9c4733174367b4502b4fc) **Set imgbot schedule to weekly** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-21)
@@ -1103,7 +1288,6 @@
           - [`00fa344`](https://github.com/havaianasdestruido/top100/commit/00fa3447ba3f3efb69ca7b4156b032e8ec661950) **data: update top repos data (2026-09-20)** — _github-actions[bot]_ (2026-09-20)
           - [`10bf3c2`](https://github.com/havaianasdestruido/top100/commit/10bf3c202df7250171f79545ebd0d423e1b42b8f) **data: update top repos data (2026-09-20)** — _github-actions[bot]_ (2026-09-20)
           - [`3238f03`](https://github.com/havaianasdestruido/top100/commit/3238f03c96924197524b9faad42f8dc0952f9a1f) **Create jekyll-gh-pages.yml** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
-          - [`00bd00a`](https://github.com/havaianasdestruido/top100/commit/00bd00a84710d2aa9695513d698b3944ab12312a) **data: update top repos data (2026-09-20)** — _github-actions[bot]_ (2026-09-20)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -1125,13 +1309,13 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@github-actions[bot]](https://github.com/apps/github-actions) — 79 commit(s)
+      - [@github-actions[bot]](https://github.com/apps/github-actions) — 80 commit(s)
       - [@havaianasdestruido](https://github.com/havaianasdestruido) — 20 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `HTML` — 93.9% (1,861,598 bytes)
+      - `HTML` — 93.9% (1,861,673 bytes)
       - `Python` — 5.8% (115,745 bytes)
       - `CSS` — 0.2% (4,402 bytes)
 
@@ -3105,7 +3289,20 @@
   > userscript for custom goofy emojis for github
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 JavaScript | 📅 Created: 2026-08-12 | 🔄 Updated: 2026-10-03
 
-    - ### 🌿 Branches (2)
+    - ### 🌿 Branches (4)
+      - [`arena/01a1035d-giggles-shit`](https://github.com/havaianasdestruido/Giggles-Shit/tree/arena/01a1035d-giggles-shit) — HEAD: `887802f`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/Giggles-Shit/commits/arena/01a1035d-giggles-shit)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/Giggles-Shit/commits/arena/01a1035d-giggles-shit)
+          - [`887802f`](https://github.com/havaianasdestruido/Giggles-Shit/commit/887802fa23e97cf9e2a5c530ccc983519a895e1f) **Add gist.github.com support** — _havaianasdestruido_ (2026-10-03)
+          - [`2b21900`](https://github.com/havaianasdestruido/Giggles-Shit/commit/2b219008d63bdf60b7812d83a4615d98a32db26c) **Merge pull request #1 from havaianasdestruido/imgbot** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`ccdd71f`](https://github.com/havaianasdestruido/Giggles-Shit/commit/ccdd71f80471da7db65a8fda07d2711c8a90b60f) **Merge pull request #2 from havaianasdestruido/arena/01a10230-giggles-shi** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`a81d165`](https://github.com/havaianasdestruido/Giggles-Shit/commit/a81d1657be15d1f9dd48ddeefdef1bca44e251b7) **Address PR review feedback** — _havaianasdestruido_ (2026-10-03)
+          - [`8b988ac`](https://github.com/havaianasdestruido/Giggles-Shit/commit/8b988ac8819c27062dd1aab26d4d8c64a74bae2b) **Add Jekyll primary website + Docusaurus docs under /docs** — _havaianasdestruido_ (2026-10-03)
+          - [`06a2e97`](https://github.com/havaianasdestruido/Giggles-Shit/commit/06a2e97f987847aca1edd465452d2142863bc0dd) **Set imgbot schedule to weekly** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-21)
+          - [`021ad06`](https://github.com/havaianasdestruido/Giggles-Shit/commit/021ad06817d7142043b7ce2bc4eafe25e2439f49) **\[ImgBot\] Optimize images** — _ImgBotApp_ (2026-09-21)
+          - [`155ffba`](https://github.com/havaianasdestruido/Giggles-Shit/commit/155ffba9519df85c6c9f179ac01dab2d385385a9) **Add .imgbotconfig for aggressive image compression** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-21)
+          - [`67804cb`](https://github.com/havaianasdestruido/Giggles-Shit/commit/67804cbf37f5d7b9660161fb2e840e369618871e) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
+          - [`8ba6919`](https://github.com/havaianasdestruido/Giggles-Shit/commit/8ba6919eb3eed230a4bf95a7fa8d0cea979957f0) **Add MIT License** — _Pato (new acc)_ (2026-09-18)
       - [`arena/01a10230-giggles-shit`](https://github.com/havaianasdestruido/Giggles-Shit/tree/arena/01a10230-giggles-shit) — HEAD: `a81d165`
         - 📋 [All Commits](https://github.com/havaianasdestruido/Giggles-Shit/commits/arena/01a10230-giggles-shit)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/Giggles-Shit/commits/arena/01a10230-giggles-shit)
@@ -3119,19 +3316,32 @@
           - [`b791a93`](https://github.com/havaianasdestruido/Giggles-Shit/commit/b791a934e7ef085749eedb5782832946d42ce932) **Add files via upload** — _Pato (new acc)_ (2026-08-12)
           - [`1118cbb`](https://github.com/havaianasdestruido/Giggles-Shit/commit/1118cbb8e2846016c5094e4847e9b8e2baee2139) **Create readme.txt** — _Pato (new acc)_ (2026-08-12)
           - [`22c07e7`](https://github.com/havaianasdestruido/Giggles-Shit/commit/22c07e7756543f8b77809011371f9e310c68df45) **added gifs** — _Pato (new acc)_ (2026-08-12)
-      - [`main`](https://github.com/havaianasdestruido/Giggles-Shit/tree/main) _(default)_ — HEAD: `2b21900`
-        - 📋 [All Commits](https://github.com/havaianasdestruido/Giggles-Shit/commits/main)
-        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/Giggles-Shit/commits/main)
+      - [`arena/01a10361-giggles-shit`](https://github.com/havaianasdestruido/Giggles-Shit/tree/arena/01a10361-giggles-shit) — HEAD: `d2281d4`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/Giggles-Shit/commits/arena/01a10361-giggles-shit)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/Giggles-Shit/commits/arena/01a10361-giggles-shit)
+          - [`d2281d4`](https://github.com/havaianasdestruido/Giggles-Shit/commit/d2281d4062c82c2b5402e6ab106acc97100e54fb) **Add 84, boo and fire emoji to DEFAULT_GAS and docs** — _havaianasdestruido_ (2026-10-03)
+          - [`be51c1a`](https://github.com/havaianasdestruido/Giggles-Shit/commit/be51c1a8d4ff992d1d49b93e4b2be24c5f3701db) **Merge main (new emoji uploads)** — _havaianasdestruido_ (2026-10-03)
+          - [`756d3fa`](https://github.com/havaianasdestruido/Giggles-Shit/commit/756d3fa14690ae96f505aa91f43831dfe0995d6a) **Add files via upload** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`548d50e`](https://github.com/havaianasdestruido/Giggles-Shit/commit/548d50eddb3166d9c5c2ac8a3cd5164f0e5bdc21) **Add hmm, wet, woah, yeah to DEFAULT_GAS and update docs** — _havaianasdestruido_ (2026-10-03)
+          - [`60ca23b`](https://github.com/havaianasdestruido/Giggles-Shit/commit/60ca23b287cff3445fe5863f6355c35e37808f32) **Add files via upload** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
           - [`2b21900`](https://github.com/havaianasdestruido/Giggles-Shit/commit/2b219008d63bdf60b7812d83a4615d98a32db26c) **Merge pull request #1 from havaianasdestruido/imgbot** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
           - [`ccdd71f`](https://github.com/havaianasdestruido/Giggles-Shit/commit/ccdd71f80471da7db65a8fda07d2711c8a90b60f) **Merge pull request #2 from havaianasdestruido/arena/01a10230-giggles-shi** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
           - [`a81d165`](https://github.com/havaianasdestruido/Giggles-Shit/commit/a81d1657be15d1f9dd48ddeefdef1bca44e251b7) **Address PR review feedback** — _havaianasdestruido_ (2026-10-03)
           - [`8b988ac`](https://github.com/havaianasdestruido/Giggles-Shit/commit/8b988ac8819c27062dd1aab26d4d8c64a74bae2b) **Add Jekyll primary website + Docusaurus docs under /docs** — _havaianasdestruido_ (2026-10-03)
           - [`06a2e97`](https://github.com/havaianasdestruido/Giggles-Shit/commit/06a2e97f987847aca1edd465452d2142863bc0dd) **Set imgbot schedule to weekly** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-21)
-          - [`021ad06`](https://github.com/havaianasdestruido/Giggles-Shit/commit/021ad06817d7142043b7ce2bc4eafe25e2439f49) **\[ImgBot\] Optimize images** — _ImgBotApp_ (2026-09-21)
-          - [`155ffba`](https://github.com/havaianasdestruido/Giggles-Shit/commit/155ffba9519df85c6c9f179ac01dab2d385385a9) **Add .imgbotconfig for aggressive image compression** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-21)
-          - [`67804cb`](https://github.com/havaianasdestruido/Giggles-Shit/commit/67804cbf37f5d7b9660161fb2e840e369618871e) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
-          - [`8ba6919`](https://github.com/havaianasdestruido/Giggles-Shit/commit/8ba6919eb3eed230a4bf95a7fa8d0cea979957f0) **Add MIT License** — _Pato (new acc)_ (2026-09-18)
-          - [`9b040e7`](https://github.com/havaianasdestruido/Giggles-Shit/commit/9b040e7432f5a46f604869fd0c2bb45f786e7d20) **Update README.md** — _Pato (new acc)_ (2026-08-12)
+      - [`main`](https://github.com/havaianasdestruido/Giggles-Shit/tree/main) _(default)_ — HEAD: `67f7f29`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/Giggles-Shit/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/Giggles-Shit/commits/main)
+          - [`67f7f29`](https://github.com/havaianasdestruido/Giggles-Shit/commit/67f7f29bc26637bc731393b9a1222de6e3ae742d) **Merge pull request #4 from havaianasdestruido/arena/01a10361-giggles-shi** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`c336456`](https://github.com/havaianasdestruido/Giggles-Shit/commit/c336456319ae6f50c5328456d1eddf5b4b71bf01) **Merge pull request #3 from havaianasdestruido/arena/01a1035d-giggles-shi** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`d2281d4`](https://github.com/havaianasdestruido/Giggles-Shit/commit/d2281d4062c82c2b5402e6ab106acc97100e54fb) **Add 84, boo and fire emoji to DEFAULT_GAS and docs** — _havaianasdestruido_ (2026-10-03)
+          - [`be51c1a`](https://github.com/havaianasdestruido/Giggles-Shit/commit/be51c1a8d4ff992d1d49b93e4b2be24c5f3701db) **Merge main (new emoji uploads)** — _havaianasdestruido_ (2026-10-03)
+          - [`756d3fa`](https://github.com/havaianasdestruido/Giggles-Shit/commit/756d3fa14690ae96f505aa91f43831dfe0995d6a) **Add files via upload** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`887802f`](https://github.com/havaianasdestruido/Giggles-Shit/commit/887802fa23e97cf9e2a5c530ccc983519a895e1f) **Add gist.github.com support** — _havaianasdestruido_ (2026-10-03)
+          - [`548d50e`](https://github.com/havaianasdestruido/Giggles-Shit/commit/548d50eddb3166d9c5c2ac8a3cd5164f0e5bdc21) **Add hmm, wet, woah, yeah to DEFAULT_GAS and update docs** — _havaianasdestruido_ (2026-10-03)
+          - [`60ca23b`](https://github.com/havaianasdestruido/Giggles-Shit/commit/60ca23b287cff3445fe5863f6355c35e37808f32) **Add files via upload** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`2b21900`](https://github.com/havaianasdestruido/Giggles-Shit/commit/2b219008d63bdf60b7812d83a4615d98a32db26c) **Merge pull request #1 from havaianasdestruido/imgbot** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`ccdd71f`](https://github.com/havaianasdestruido/Giggles-Shit/commit/ccdd71f80471da7db65a8fda07d2711c8a90b60f) **Merge pull request #2 from havaianasdestruido/arena/01a10230-giggles-shi** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -3139,7 +3349,15 @@
 
     - ### 🔀 Pull Requests
       - **Open PRs** (0)
-      - **Closed PRs** (2)
+      - **Closed PRs** (4)
+        - ✅ Merged [#4 Add 7 new emoji to DEFAULT_GAS](https://github.com/havaianasdestruido/Giggles-Shit/pull/4) — _havaianasdestruido_ (2026-10-03) `arena/01a10361-giggles-shit` → `main`
+          - 📝 3 commit(s) in this PR
+            - [`548d50e`](https://github.com/havaianasdestruido/Giggles-Shit/commit/548d50eddb3166d9c5c2ac8a3cd5164f0e5bdc21) Add hmm, wet, woah, yeah to DEFAULT_GAS and update docs
+            - [`be51c1a`](https://github.com/havaianasdestruido/Giggles-Shit/commit/be51c1a8d4ff992d1d49b93e4b2be24c5f3701db) Merge main (new emoji uploads)
+            - [`d2281d4`](https://github.com/havaianasdestruido/Giggles-Shit/commit/d2281d4062c82c2b5402e6ab106acc97100e54fb) Add 84, boo and fire emoji to DEFAULT_GAS and docs
+        - ✅ Merged [#3 Add gist.github.com support](https://github.com/havaianasdestruido/Giggles-Shit/pull/3) — _havaianasdestruido_ (2026-10-03) `arena/01a1035d-giggles-shit` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`887802f`](https://github.com/havaianasdestruido/Giggles-Shit/commit/887802fa23e97cf9e2a5c530ccc983519a895e1f) Add gist.github.com support
         - ✅ Merged [#2 Add Jekyll primary website + full codebase documentation (Do](https://github.com/havaianasdestruido/Giggles-Shit/pull/2) — _havaianasdestruido_ (2026-10-03) `arena/01a10230-giggles-shit` → `main`
           - 📝 2 commit(s) in this PR
             - [`8b988ac`](https://github.com/havaianasdestruido/Giggles-Shit/commit/8b988ac8819c27062dd1aab26d4d8c64a74bae2b) Add Jekyll primary website + Docusaurus docs under /docs
@@ -3155,15 +3373,15 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 25 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 33 commit(s)
       - [@ImgBotApp](https://github.com/ImgBotApp) — 1 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `JavaScript` — 77.5% (54,621 bytes)
-      - `CSS` — 17.4% (12,258 bytes)
-      - `HTML` — 4.8% (3,377 bytes)
+      - `JavaScript` — 78.1% (56,648 bytes)
+      - `CSS` — 16.9% (12,258 bytes)
+      - `HTML` — 4.7% (3,377 bytes)
       - `Ruby` — 0.4% (262 bytes)
 
 ---
@@ -3255,30 +3473,81 @@
 
 - ## [havaianasdestruido.github.io](https://github.com/havaianasdestruido/havaianasdestruido.github.io)
   > No description
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 HTML | 📅 Created: 2026-08-12 | 🔄 Updated: 2026-10-02
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 1 open issues | 💻 HTML | 📅 Created: 2026-08-12 | 🔄 Updated: 2026-10-03
 
-    - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/tree/main) _(default)_ — HEAD: `6bc11d4`
-        - 📋 [All Commits](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commits/main)
-        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commits/main)
-          - [`6bc11d4`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/6bc11d49fe79fe7feda88adab46d84aa552476c1) **Add files via upload** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-02)
-          - [`358146a`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/358146ac4c24d565ed893dc77cf69fbcd6fc7c2e) **Update index.html** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-24)
-          - [`b5afe65`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/b5afe65518480a2dca3ce473cb76c909b5d51df8) **Update index.html** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-24)
-          - [`0cae82b`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/0cae82b43ac5829e6bead5a102dcdd083d17e02c) **Update index.html** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-24)
-          - [`6a45a68`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/6a45a683bc8603282f3340c423088438c9ecf3ff) **Set imgbot schedule to weekly** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-21)
-          - [`31f2dac`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/31f2dac9f6ba11570e7051a5e42ae98e1bc2c709) **Add .imgbotconfig for aggressive image compression** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-21)
-          - [`80c46c3`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/80c46c32083ea3a4a7b7397266fa3300dc9bf390) **docs: add star history chart** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
-          - [`9f8bb40`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/9f8bb4079edf665c62be478941343e0c0efc07bf) **Add MIT License** — _Pato (new acc)_ (2026-09-18)
-          - [`5b6c00b`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/5b6c00ba26e7b76fb9be60927e0bd314701f3d4c) **Add files via upload** — _Pato (new acc)_ (2026-08-12)
+    - ### 🌿 Branches (3)
+      - [`arena/01a103cc-havaianasdestruido-github-io`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/tree/arena/01a103cc-havaianasdestruido-github-io) — HEAD: `dd2fc93`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commits/arena/01a103cc-havaianasdestruido-github-io)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commits/arena/01a103cc-havaianasdestruido-github-io)
+          - [`dd2fc93`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/dd2fc93d32bfbb57ceae46cb61e128518d1dc83d) **Refactor: split CSS/JS out of index.html, move assets into img/, fonts/** — _havaianasdestruido_ (2026-10-03)
+          - [`9e6e833`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/9e6e833cfd51fba98b9b822e5a16a169673cf0e9) **Update index.html** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`982aae6`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/982aae61b78f38593a1aa5dde6232691ffdda77d) **Add files via upload** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`ac0bfa5`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/ac0bfa59d05758001cf5cf6e78c0ec86e38b65c3) **new palette :0** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`691c10b`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/691c10b27fcb34dfcf6bd425bca197734f895383) **Update index.html** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`f434ca9`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/f434ca98c5ae1a15248582033516bea30a687ed2) **Update index.html** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`8864a2f`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/8864a2f35f3551cc1209fd96151b8373df01160a) **Update and rename readme.md to readme.txt** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`cf1ab5e`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/cf1ab5e97fc466011d0dd266cf2651fb683aaa83) **Add files via upload** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`4eb3552`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/4eb3552133c76ac14cefab8d5faea53f1a5c1ca5) **Delete fs-tahoma-8px.otf.woff2** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`58a5403`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/58a5403e0e3e9a7dd2469eb1be0ee8704a057095) **revert** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commits/arena/01a103cc-havaianasdestruido-github-io/?after=e0fd055e859dcba9378aefb4f4624dda73efd9c0+34)
+          - [`7ca7f22`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/7ca7f2290eb2becff3915f0a0e7e77d80c670287) **Create readme.md** — _Pato (new acc)_ (2026-08-12)
+      - [`arena/01a103db-havaianasdestruido-github-io`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/tree/arena/01a103db-havaianasdestruido-github-io) — HEAD: `e51b90a`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commits/arena/01a103db-havaianasdestruido-github-io)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commits/arena/01a103db-havaianasdestruido-github-io)
+          - [`e51b90a`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e51b90aae34d6d96d18f7e78a7e63d6e362f9eb4) **Address font loading and dialog sizing review** — _havaianasdestruido_ (2026-10-03)
+          - [`ac40421`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/ac40421a74c1a40a913c58b2acbf88d3e58db667) **Add IE11 compatibility fallbacks** — _havaianasdestruido_ (2026-10-03)
+          - [`c01cc9d`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/c01cc9da799766e6806eeea240d9e690a05f95c2) **Merge pull request #2 from havaianasdestruido/arena/01a103cc-havaianasde** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`dd2fc93`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/dd2fc93d32bfbb57ceae46cb61e128518d1dc83d) **Refactor: split CSS/JS out of index.html, move assets into img/, fonts/** — _havaianasdestruido_ (2026-10-03)
+          - [`9e6e833`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/9e6e833cfd51fba98b9b822e5a16a169673cf0e9) **Update index.html** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`982aae6`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/982aae61b78f38593a1aa5dde6232691ffdda77d) **Add files via upload** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`ac0bfa5`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/ac0bfa59d05758001cf5cf6e78c0ec86e38b65c3) **new palette :0** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`691c10b`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/691c10b27fcb34dfcf6bd425bca197734f895383) **Update index.html** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`f434ca9`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/f434ca98c5ae1a15248582033516bea30a687ed2) **Update index.html** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`8864a2f`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/8864a2f35f3551cc1209fd96151b8373df01160a) **Update and rename readme.md to readme.txt** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commits/arena/01a103db-havaianasdestruido-github-io/?after=5b6c00ba26e7b76fb9be60927e0bd314701f3d4c+34)
           - [`e07cb17`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e07cb17dc90152c120daa3785996ccb258bafce2) **full screen car** — _Pato (new acc)_ (2026-08-12)
+          - [`14ded86`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/14ded868c36f7260c5c95e4b06f75130ce0cf5e8) **Create static.yml** — _Pato (new acc)_ (2026-08-12)
+          - [`e0fd055`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e0fd055e859dcba9378aefb4f4624dda73efd9c0) **Create index.html** — _Pato (new acc)_ (2026-08-12)
+          - [`7ca7f22`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/7ca7f2290eb2becff3915f0a0e7e77d80c670287) **Create readme.md** — _Pato (new acc)_ (2026-08-12)
+      - [`new`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/tree/new) _(default)_ — HEAD: `59b1eb2`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commits/new)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commits/new)
+          - [`59b1eb2`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/59b1eb2d578aaa7b24ae6316512cd21377907889) **Merge pull request #3 from havaianasdestruido/imgbot** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`f4b57d8`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/f4b57d85304ead3df07e05af1a979aa811774cea) **\[ImgBot\] Optimize images** — _ImgBotApp_ (2026-10-03)
+          - [`c01cc9d`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/c01cc9da799766e6806eeea240d9e690a05f95c2) **Merge pull request #2 from havaianasdestruido/arena/01a103cc-havaianasde** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`dd2fc93`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/dd2fc93d32bfbb57ceae46cb61e128518d1dc83d) **Refactor: split CSS/JS out of index.html, move assets into img/, fonts/** — _havaianasdestruido_ (2026-10-03)
+          - [`9e6e833`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/9e6e833cfd51fba98b9b822e5a16a169673cf0e9) **Update index.html** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`982aae6`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/982aae61b78f38593a1aa5dde6232691ffdda77d) **Add files via upload** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`ac0bfa5`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/ac0bfa59d05758001cf5cf6e78c0ec86e38b65c3) **new palette :0** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`691c10b`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/691c10b27fcb34dfcf6bd425bca197734f895383) **Update index.html** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`f434ca9`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/f434ca98c5ae1a15248582033516bea30a687ed2) **Update index.html** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+          - [`8864a2f`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/8864a2f35f3551cc1209fd96151b8373df01160a) **Update and rename readme.md to readme.txt** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commits/new/?after=5b6c00ba26e7b76fb9be60927e0bd314701f3d4c+34)
+          - [`e07cb17`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e07cb17dc90152c120daa3785996ccb258bafce2) **full screen car** — _Pato (new acc)_ (2026-08-12)
+          - [`14ded86`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/14ded868c36f7260c5c95e4b06f75130ce0cf5e8) **Create static.yml** — _Pato (new acc)_ (2026-08-12)
+          - [`e0fd055`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e0fd055e859dcba9378aefb4f4624dda73efd9c0) **Create index.html** — _Pato (new acc)_ (2026-08-12)
+          - [`7ca7f22`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/7ca7f2290eb2becff3915f0a0e7e77d80c670287) **Create readme.md** — _Pato (new acc)_ (2026-08-12)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
       - **Closed Issues** (0)
 
     - ### 🔀 Pull Requests
-      - **Open PRs** (0)
-      - **Closed PRs** (0)
+      - **Open PRs** (1)
+        - 🟢 Open [#4 Add IE11 compatibility fallbacks](https://github.com/havaianasdestruido/havaianasdestruido.github.io/pull/4) — _havaianasdestruido_ (2026-10-03) `arena/01a103db-havaianasdestruido-github-io` → `new`
+          - 📝 2 commit(s) in this PR
+            - [`ac40421`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/ac40421a74c1a40a913c58b2acbf88d3e58db667) Add IE11 compatibility fallbacks
+            - [`e51b90a`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e51b90aae34d6d96d18f7e78a7e63d6e362f9eb4) Address font loading and dialog sizing review
+      - **Closed PRs** (3)
+        - ✅ Merged [#3 \[ImgBot\] Optimize images](https://github.com/havaianasdestruido/havaianasdestruido.github.io/pull/3) — _imgbot[bot]_ (2026-10-03) `imgbot` → `new`
+          - 📝 1 commit(s) in this PR
+            - [`f4b57d8`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/f4b57d85304ead3df07e05af1a979aa811774cea) \[ImgBot\] Optimize images
+        - ✅ Merged [#2 Refactor: split CSS/JS out of index.html, move assets into i](https://github.com/havaianasdestruido/havaianasdestruido.github.io/pull/2) — _havaianasdestruido_ (2026-10-03) `arena/01a103cc-havaianasdestruido-github-io` → `new`
+          - 📝 1 commit(s) in this PR
+            - [`dd2fc93`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/dd2fc93d32bfbb57ceae46cb61e128518d1dc83d) Refactor: split CSS/JS out of index.html, move assets into i
+        - 🔴 Closed [#1 \[ImgBot\] Optimize images](https://github.com/havaianasdestruido/havaianasdestruido.github.io/pull/1) — _imgbot[bot]_ (2026-10-03) `imgbot` → `new`
+          - 📝 1 commit(s) in this PR
+            - [`56e00a9`](https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/56e00a93cf6a687245159cc63b09c106fe7270bb) \[ImgBot\] Optimize images
 
     - ### 🍴 Forks (0)
 
@@ -3286,13 +3555,16 @@
 
     - ### 👀 Watchers / Subscribers (0)
 
-    - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 13 commit(s)
+    - ### 👥 Contributors (2)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 38 commit(s)
+      - [@ImgBotApp](https://github.com/ImgBotApp) — 1 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `HTML` — 100.0% (4,106 bytes)
+      - `HTML` — 71.0% (10,768 bytes)
+      - `CSS` — 17.1% (2,593 bytes)
+      - `JavaScript` — 11.9% (1,803 bytes)
 
 ---
 
@@ -5768,9 +6040,10 @@
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 JavaScript | 📅 Created: 2026-10-03 | 🔄 Updated: 2026-10-03
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/quackdb/tree/main) _(default)_ — HEAD: `86d40a6`
+      - [`main`](https://github.com/havaianasdestruido/quackdb/tree/main) _(default)_ — HEAD: `24c2f58`
         - 📋 [All Commits](https://github.com/havaianasdestruido/quackdb/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/quackdb/commits/main)
+          - [`24c2f58`](https://github.com/havaianasdestruido/quackdb/commit/24c2f58397bed17bb58c64e5920351942d788de5) **fixed codebase by adding remaining code** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
           - [`86d40a6`](https://github.com/havaianasdestruido/quackdb/commit/86d40a6f014768f2d7dd478774a56eb76827b86a) **Create static.yml** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
           - [`e7e56a4`](https://github.com/havaianasdestruido/quackdb/commit/e7e56a4ad42b4acc32f67d23f0cb825472e9e790) **Add files via upload** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
           - [`d5c94e9`](https://github.com/havaianasdestruido/quackdb/commit/d5c94e980b1520bfd06eb987de8494cde8dc86a9) **fix(?)** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
@@ -5792,195 +6065,13 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (1)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 5 commit(s)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 6 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `JavaScript` — 73.4% (13,294 bytes)
-      - `HTML` — 26.6% (4,806 bytes)
-
----
-
-- ## [R2K16](https://github.com/havaianasdestruido/R2K16) `🍴 Fork | 🗃️ Template`
-  > 2K16 RBLX
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 1 open issues | 💻 C++ | 📅 Created: 2026-09-06 | 🔄 Updated: 2026-10-03
-
-  - 🔗 Forked from: [Artifaqt/ROBLOX2016](https://github.com/Artifaqt/ROBLOX2016)
-    - ### 🌿 Branches (5)
-      - [`arena/01a0fd75-r2k16`](https://github.com/havaianasdestruido/R2K16/tree/arena/01a0fd75-r2k16) — HEAD: `2a104c1`
-        - 📋 [All Commits](https://github.com/havaianasdestruido/R2K16/commits/arena/01a0fd75-r2k16)
-        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/R2K16/commits/arena/01a0fd75-r2k16)
-          - [`2a104c1`](https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73) **Apply review fixes to docs site and deploy workflow** — _havaianasdestruido_ (2026-10-02)
-          - [`3770f5a`](https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb) **Add full codebase documentation site (Docusaurus 3)** — _havaianasdestruido_ (2026-10-02)
-          - [`0f63b0c`](https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666) **Revise Extras section in README.md** — _Pato (new acc)_ (2026-09-20)
-          - [`809a16d`](https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172) **images about security scanning results** — _Pato (new acc)_ (2026-09-20)
-          - [`e4bb2b2`](https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624) **Create README.txt** — _Pato (new acc)_ (2026-09-20)
-          - [`786adea`](https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140) **Create README.txt** — _Pato (new acc)_ (2026-09-20)
-          - [`0a3caf7`](https://github.com/havaianasdestruido/R2K16/commit/0a3caf7be83adad1b0b2ada14a594c669f6ce33f) **-DCMAKE_POLICY_VERSION_MINIMUM=3.5** — _Pato (new acc)_ (2026-09-20)
-          - [`317de81`](https://github.com/havaianasdestruido/R2K16/commit/317de816dd1ea8c185997450ec36940146845752) **Delete .github/workflows/trivy.yml** — _Pato (new acc)_ (2026-09-20)
-          - [`9a1578b`](https://github.com/havaianasdestruido/R2K16/commit/9a1578b3b3ba94c98fad32b7750e12e6eeb73ad4) **Create sync.yml** — _Pato (new acc)_ (2026-09-20)
-          - [`04843e4`](https://github.com/havaianasdestruido/R2K16/commit/04843e46bf705ae80b34a7053efe06173eae66f0) **Enhance README with search tips and PR instructions** — _Pato (new acc)_ (2026-09-17)
-      - [`arena/01a0ff4f-r2k16`](https://github.com/havaianasdestruido/R2K16/tree/arena/01a0ff4f-r2k16) — HEAD: `0659d3d`
-        - 📋 [All Commits](https://github.com/havaianasdestruido/R2K16/commits/arena/01a0ff4f-r2k16)
-        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/R2K16/commits/arena/01a0ff4f-r2k16)
-          - [`0659d3d`](https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0) **Split website: Jekyll primary page at /, Docusaurus docs at /docs** — _havaianasdestruido_ (2026-10-03)
-          - [`a14bf78`](https://github.com/havaianasdestruido/R2K16/commit/a14bf7882b8b25e12814f5da9640375969f12e4a) **Merge pull request #3 from havaianasdestruido/arena/01a0fd75-r2k16** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-02)
-          - [`2a104c1`](https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73) **Apply review fixes to docs site and deploy workflow** — _havaianasdestruido_ (2026-10-02)
-          - [`3770f5a`](https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb) **Add full codebase documentation site (Docusaurus 3)** — _havaianasdestruido_ (2026-10-02)
-          - [`0f63b0c`](https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666) **Revise Extras section in README.md** — _Pato (new acc)_ (2026-09-20)
-          - [`809a16d`](https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172) **images about security scanning results** — _Pato (new acc)_ (2026-09-20)
-          - [`e4bb2b2`](https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624) **Create README.txt** — _Pato (new acc)_ (2026-09-20)
-          - [`786adea`](https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140) **Create README.txt** — _Pato (new acc)_ (2026-09-20)
-          - [`0a3caf7`](https://github.com/havaianasdestruido/R2K16/commit/0a3caf7be83adad1b0b2ada14a594c669f6ce33f) **-DCMAKE_POLICY_VERSION_MINIMUM=3.5** — _Pato (new acc)_ (2026-09-20)
-          - [`317de81`](https://github.com/havaianasdestruido/R2K16/commit/317de816dd1ea8c185997450ec36940146845752) **Delete .github/workflows/trivy.yml** — _Pato (new acc)_ (2026-09-20)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/R2K16/commits/arena/01a0ff4f-r2k16/?after=05db15d61050dd4a972636202cb613043ad4a9c0+34)
-          - [`2b621be`](https://github.com/havaianasdestruido/R2K16/commit/2b621be4c91a2253b7123960bd517382da8e6ca1) **Initial commit** — _UltimateQuack_ (2024-12-19)
-      - [`arena/01a10307-r2k16`](https://github.com/havaianasdestruido/R2K16/tree/arena/01a10307-r2k16) — HEAD: `a51d8a1`
-        - 📋 [All Commits](https://github.com/havaianasdestruido/R2K16/commits/arena/01a10307-r2k16)
-        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/R2K16/commits/arena/01a10307-r2k16)
-          - [`a51d8a1`](https://github.com/havaianasdestruido/R2K16/commit/a51d8a137fb67314ebea6734e530f99ea1813b14) **ci(pages): fix 'Permission denied' when mounting docs under _site/docs** — _Arena Agent_ (2026-10-03)
-          - [`e38de88`](https://github.com/havaianasdestruido/R2K16/commit/e38de88218960d322afbcd497e8fa7aaf1d492b1) **Merge pull request #4 from havaianasdestruido/arena/01a0ff4f-r2k16** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
-          - [`0659d3d`](https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0) **Split website: Jekyll primary page at /, Docusaurus docs at /docs** — _havaianasdestruido_ (2026-10-03)
-          - [`a14bf78`](https://github.com/havaianasdestruido/R2K16/commit/a14bf7882b8b25e12814f5da9640375969f12e4a) **Merge pull request #3 from havaianasdestruido/arena/01a0fd75-r2k16** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-02)
-          - [`2a104c1`](https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73) **Apply review fixes to docs site and deploy workflow** — _havaianasdestruido_ (2026-10-02)
-          - [`3770f5a`](https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb) **Add full codebase documentation site (Docusaurus 3)** — _havaianasdestruido_ (2026-10-02)
-          - [`0f63b0c`](https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666) **Revise Extras section in README.md** — _Pato (new acc)_ (2026-09-20)
-          - [`809a16d`](https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172) **images about security scanning results** — _Pato (new acc)_ (2026-09-20)
-          - [`e4bb2b2`](https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624) **Create README.txt** — _Pato (new acc)_ (2026-09-20)
-          - [`786adea`](https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140) **Create README.txt** — _Pato (new acc)_ (2026-09-20)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/R2K16/commits/arena/01a10307-r2k16/?after=f52ba91c240db4b0db6b6c1345a7094c8c43e177+34)
-          - [`dd0298a`](https://github.com/havaianasdestruido/R2K16/commit/dd0298aee99bff9edd85298e6482ba767a045283) **\[ImgBot\] Optimize images** — _ImgBotApp_ (2024-12-19)
-          - [`05db15d`](https://github.com/havaianasdestruido/R2K16/commit/05db15d61050dd4a972636202cb613043ad4a9c0) **full source code** — _PatoFlamejanteTV_ (2024-12-19)
-          - [`2b621be`](https://github.com/havaianasdestruido/R2K16/commit/2b621be4c91a2253b7123960bd517382da8e6ca1) **Initial commit** — _UltimateQuack_ (2024-12-19)
-      - [`dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece`](https://github.com/havaianasdestruido/R2K16/tree/dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece) — HEAD: `d7f519d`
-        - 📋 [All Commits](https://github.com/havaianasdestruido/R2K16/commits/dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece)
-        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/R2K16/commits/dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece)
-          - [`d7f519d`](https://github.com/havaianasdestruido/R2K16/commit/d7f519da3b8d2c4b6b201c655273292229b4619d) **Bump the npm_and_yarn group across 2 directories with 3 updates** — _dependabot[bot]_ (2026-09-20)
-          - [`9a1578b`](https://github.com/havaianasdestruido/R2K16/commit/9a1578b3b3ba94c98fad32b7750e12e6eeb73ad4) **Create sync.yml** — _Pato (new acc)_ (2026-09-20)
-          - [`04843e4`](https://github.com/havaianasdestruido/R2K16/commit/04843e46bf705ae80b34a7053efe06173eae66f0) **Enhance README with search tips and PR instructions** — _Pato (new acc)_ (2026-09-17)
-          - [`412ab49`](https://github.com/havaianasdestruido/R2K16/commit/412ab4905bf3e5c8315eabaa03698485535d5973) **Create scorecard.yml** — _Pato (new acc)_ (2026-09-15)
-          - [`bd22abb`](https://github.com/havaianasdestruido/R2K16/commit/bd22abb13f05c8741c5b5a9168d7e5f9d58eb831) **Create trivy.yml** — _Pato (new acc)_ (2026-09-15)
-          - [`46bba0b`](https://github.com/havaianasdestruido/R2K16/commit/46bba0bbad6c4729a397e70a7ead76dfedd75326) **Create semgrep.yml** — _Pato (new acc)_ (2026-09-15)
-          - [`864de3b`](https://github.com/havaianasdestruido/R2K16/commit/864de3b3c6acbc318ca23c1b96ae73232a33a4fb) **Create osv-scanner.yml** — _Pato (new acc)_ (2026-09-15)
-          - [`eadb785`](https://github.com/havaianasdestruido/R2K16/commit/eadb785b1eb98eedcdd7255de3d0f4d602a47289) **Create msvc.yml** — _Pato (new acc)_ (2026-09-15)
-          - [`1248551`](https://github.com/havaianasdestruido/R2K16/commit/12485510185848deae9179973b0df3c9ef5f6cc3) **Delete .github/workflows/build.yml** — _Pato (new acc)_ (2026-09-15)
-          - [`65d06ee`](https://github.com/havaianasdestruido/R2K16/commit/65d06ee027294a5aa256b813f5fe3377652e2f17) **added manual triggering** — _Pato (new acc)_ (2026-09-15)
-      - [`main`](https://github.com/havaianasdestruido/R2K16/tree/main) _(default)_ — HEAD: `e38de88`
-        - 📋 [All Commits](https://github.com/havaianasdestruido/R2K16/commits/main)
-        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/R2K16/commits/main)
-          - [`e38de88`](https://github.com/havaianasdestruido/R2K16/commit/e38de88218960d322afbcd497e8fa7aaf1d492b1) **Merge pull request #4 from havaianasdestruido/arena/01a0ff4f-r2k16** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-03)
-          - [`0659d3d`](https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0) **Split website: Jekyll primary page at /, Docusaurus docs at /docs** — _havaianasdestruido_ (2026-10-03)
-          - [`a14bf78`](https://github.com/havaianasdestruido/R2K16/commit/a14bf7882b8b25e12814f5da9640375969f12e4a) **Merge pull request #3 from havaianasdestruido/arena/01a0fd75-r2k16** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-02)
-          - [`2a104c1`](https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73) **Apply review fixes to docs site and deploy workflow** — _havaianasdestruido_ (2026-10-02)
-          - [`3770f5a`](https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb) **Add full codebase documentation site (Docusaurus 3)** — _havaianasdestruido_ (2026-10-02)
-          - [`0f63b0c`](https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666) **Revise Extras section in README.md** — _Pato (new acc)_ (2026-09-20)
-          - [`809a16d`](https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172) **images about security scanning results** — _Pato (new acc)_ (2026-09-20)
-          - [`e4bb2b2`](https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624) **Create README.txt** — _Pato (new acc)_ (2026-09-20)
-          - [`786adea`](https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140) **Create README.txt** — _Pato (new acc)_ (2026-09-20)
-          - [`0a3caf7`](https://github.com/havaianasdestruido/R2K16/commit/0a3caf7be83adad1b0b2ada14a594c669f6ce33f) **-DCMAKE_POLICY_VERSION_MINIMUM=3.5** — _Pato (new acc)_ (2026-09-20)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/R2K16/commits/main/?after=dd0298aee99bff9edd85298e6482ba767a045283+34)
-          - [`05db15d`](https://github.com/havaianasdestruido/R2K16/commit/05db15d61050dd4a972636202cb613043ad4a9c0) **full source code** — _PatoFlamejanteTV_ (2024-12-19)
-          - [`2b621be`](https://github.com/havaianasdestruido/R2K16/commit/2b621be4c91a2253b7123960bd517382da8e6ca1) **Initial commit** — _UltimateQuack_ (2024-12-19)
-
-    - ### 🐛 Issues
-      - **Open Issues** (0)
-      - **Closed Issues** (0)
-
-    - ### 🔀 Pull Requests
-      - **Open PRs** (1)
-        - 🟢 Open [#2 Bump the npm_and_yarn group across 2 directories with 3 upda](https://github.com/havaianasdestruido/R2K16/pull/2) — _dependabot[bot]_ (2026-09-20) `dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`d7f519d`](https://github.com/havaianasdestruido/R2K16/commit/d7f519da3b8d2c4b6b201c655273292229b4619d) Bump the npm_and_yarn group across 2 directories with 3 upda
-      - **Closed PRs** (3)
-        - ✅ Merged [#4 Split website: Jekyll primary page at /, Docusaurus docs onl](https://github.com/havaianasdestruido/R2K16/pull/4) — _havaianasdestruido_ (2026-10-03) `arena/01a0ff4f-r2k16` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`0659d3d`](https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0) Split website: Jekyll primary page at /, Docusaurus docs at 
-        - ✅ Merged [#3 Add full codebase documentation site (Docusaurus 3)](https://github.com/havaianasdestruido/R2K16/pull/3) — _havaianasdestruido_ (2026-10-02) `arena/01a0fd75-r2k16` → `main`
-          - 📝 2 commit(s) in this PR
-            - [`3770f5a`](https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb) Add full codebase documentation site (Docusaurus 3)
-            - [`2a104c1`](https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73) Apply review fixes to docs site and deploy workflow
-        - 🔴 Closed [#1 Bump the npm_and_yarn group across 2 directories with 3 upda](https://github.com/havaianasdestruido/R2K16/pull/1) — _dependabot[bot]_ (2026-09-15) `dependabot/npm_and_yarn/RobloxHybrid/docs/jsdoc/npm_and_yarn-b258cd4ece` → `main`
-          - 📝 1 commit(s) in this PR
-            - [`7868b75`](https://github.com/havaianasdestruido/R2K16/commit/7868b756bd7dc1cdcfe5292e0025046d640bdede) Bump the npm_and_yarn group across 2 directories with 3 upda
-
-    - ### 🍴 Forks (0)
-
-    - ### ⭐ Stargazers (0)
-
-    - ### 👀 Watchers / Subscribers (0)
-
-    - ### 👥 Contributors (2)
-      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 29 commit(s)
-      - [@ImgBotApp](https://github.com/ImgBotApp) — 1 commit(s)
-
-    - ### 🏷️ Releases (0)
-
-    - ### 💻 Languages
-      - `C++` — 51.8% (557,213,413 bytes)
-      - `HTML` — 32.4% (348,770,724 bytes)
-      - `C` — 13.0% (139,874,683 bytes)
-      - `JavaScript` — 0.4% (4,020,845 bytes)
-      - `Python` — 0.3% (3,400,448 bytes)
-      - `Objective-C++` — 0.2% (2,675,524 bytes)
-      - `Objective-C` — 0.2% (2,223,658 bytes)
-      - `IDL` — 0.2% (2,200,374 bytes)
-      - `Lua` — 0.2% (2,046,924 bytes)
-      - `Assembly` — 0.1% (1,539,045 bytes)
-      - `QML` — 0.1% (1,446,093 bytes)
-      - `Java` — 0.1% (1,401,718 bytes)
-      - `CSS` — 0.1% (1,224,441 bytes)
-      - `C#` — 0.1% (905,324 bytes)
-      - `XSLT` — 0.1% (875,007 bytes)
-      - `CMake` — 0.1% (768,823 bytes)
-      - `Shell` — 0.1% (730,710 bytes)
-      - `QMake` — 0.1% (635,968 bytes)
-      - `Makefile` — 0.0% (518,535 bytes)
-      - `GAP` — 0.0% (385,184 bytes)
-      - `Yacc` — 0.0% (383,743 bytes)
-      - `M4` — 0.0% (216,731 bytes)
-      - `CWeb` — 0.0% (173,921 bytes)
-      - `Perl` — 0.0% (156,625 bytes)
-      - `Cuda` — 0.0% (130,316 bytes)
-      - `HLSL` — 0.0% (120,595 bytes)
-      - `DIGITAL Command Language` — 0.0% (100,111 bytes)
-      - `Ada` — 0.0% (89,079 bytes)
-      - `PHP` — 0.0% (86,439 bytes)
-      - `Roff` — 0.0% (86,099 bytes)
-      - `TeX` — 0.0% (82,851 bytes)
-      - `VBScript` — 0.0% (69,481 bytes)
-      - `Module Management System` — 0.0% (69,178 bytes)
-      - `Rich Text Format` — 0.0% (61,478 bytes)
-      - `Batchfile` — 0.0% (59,681 bytes)
-      - `Lex` — 0.0% (53,422 bytes)
-      - `Go Template` — 0.0% (52,207 bytes)
-      - `Pascal` — 0.0% (42,413 bytes)
-      - `Max` — 0.0% (36,857 bytes)
-      - `Qt Script` — 0.0% (29,918 bytes)
-      - `Pawn` — 0.0% (29,116 bytes)
-      - `Ruby` — 0.0% (26,381 bytes)
-      - `LLVM` — 0.0% (23,063 bytes)
-      - `GLSL` — 0.0% (18,207 bytes)
-      - `BitBake` — 0.0% (15,622 bytes)
-      - `XQuery` — 0.0% (12,547 bytes)
-      - `AIDL` — 0.0% (8,443 bytes)
-      - `Less` — 0.0% (8,428 bytes)
-      - `POV-Ray SDL` — 0.0% (4,063 bytes)
-      - `Visual Basic .NET` — 0.0% (3,795 bytes)
-      - `NASL` — 0.0% (2,832 bytes)
-      - `AppleScript` — 0.0% (2,781 bytes)
-      - `Prolog` — 0.0% (2,612 bytes)
-      - `Eiffel` — 0.0% (2,159 bytes)
-      - `Fortran` — 0.0% (1,856 bytes)
-      - `Gherkin` — 0.0% (1,620 bytes)
-      - `Tcl` — 0.0% (1,172 bytes)
-      - `sed` — 0.0% (946 bytes)
-      - `Scilab` — 0.0% (673 bytes)
-      - `D` — 0.0% (597 bytes)
-      - `Rez` — 0.0% (354 bytes)
-      - `SCSS` — 0.0% (259 bytes)
-      - `GDB` — 0.0% (227 bytes)
-      - `Sass` — 0.0% (167 bytes)
+      - `JavaScript` — 86.5% (30,723 bytes)
+      - `HTML` — 13.5% (4,806 bytes)
 
 ---
 
@@ -7151,7 +7242,7 @@
 ### Followers (8)
 
 - [@ishandutta2007](https://github.com/ishandutta2007)
-  - 📦 3738 public repos | 👥 follows 39512 people
+  - 📦 3738 public repos | 👥 follows 39981 people
 - [@moxie-coder](https://github.com/moxie-coder)
   - 📦 221 public repos | 👥 follows 1652 people
 - [@Okafor-twd](https://github.com/Okafor-twd)
@@ -7165,7 +7256,7 @@
 - [@ancaferro](https://github.com/ancaferro)
   - 📦 4 public repos | 👥 follows 15639 people
 - [@lxcadoza993](https://github.com/lxcadoza993)
-  - 📦 6 public repos | 👥 follows 171730 people
+  - 📦 6 public repos | 👥 follows 171729 people
 
 ### Following (24)
 
@@ -7194,8 +7285,9 @@
 - [@arena-agent](https://github.com/arena-agent)
 - [@luizmoraes-dev](https://github.com/luizmoraes-dev)
 
-### ⭐ Repos Starred by @havaianasdestruido (147)
+### ⭐ Repos Starred by @havaianasdestruido (148)
 
+- [duckdb/duckdb-wasm](https://github.com/duckdb/duckdb-wasm) — _WebAssembly version of DuckDB_
 - [Kizoky/p2unrealscript](https://github.com/Kizoky/p2unrealscript) — _Postal 2 UnrealScript source_
 - [RealityRipple/emoji](https://github.com/RealityRipple/emoji) — _Directory of PNG Emojis from Twemoji, Openmoji, Noto, Blobmo_
 - [C1710/blobmoji](https://github.com/C1710/blobmoji) — _Noto Emoji with extended Blob support_
@@ -7345,4 +7437,4 @@
 - [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit) — _iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objec_
 
 ---
-_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-10-03 18:53:29 UTC_
+_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-10-03 22:32:31 UTC_

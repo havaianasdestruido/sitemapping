@@ -4950,6 +4950,576 @@
     "url": "https://github.com/havaianasdestruido/PrintSpoolerAutoRun/commit/12da550ad341d229cba9418715f21ae780b22bd2"
   },
   {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "2a104c133273cc655775d759af4bb1abcf434d73",
+    "sha_short": "2a104c1",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T19:35:39Z",
+    "message": "Apply review fixes to docs site and deploy workflow",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "3770f5a54ca9ad7f4bf7639e6ec4e461205400fb",
+    "sha_short": "3770f5a",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T16:55:43Z",
+    "message": "Add full codebase documentation site (Docusaurus 3)",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "0f63b0c3ed022ea11e7e5248e626c5dd9c80b666",
+    "sha_short": "0f63b0c",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:49:04Z",
+    "message": "Revise Extras section in README.md",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "809a16d97a62d37745fb293479a5d8b2d6bd5172",
+    "sha_short": "809a16d",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:46:17Z",
+    "message": "images about security scanning results",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624",
+    "sha_short": "e4bb2b2",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:44:04Z",
+    "message": "Create README.txt",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "786adea40c8dbebdddef32a16dfebb042b99b140",
+    "sha_short": "786adea",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:43:41Z",
+    "message": "Create README.txt",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "0a3caf7be83adad1b0b2ada14a594c669f6ce33f",
+    "sha_short": "0a3caf7",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:39:47Z",
+    "message": "-DCMAKE_POLICY_VERSION_MINIMUM=3.5",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/0a3caf7be83adad1b0b2ada14a594c669f6ce33f"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "317de816dd1ea8c185997450ec36940146845752",
+    "sha_short": "317de81",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:37:45Z",
+    "message": "Delete .github/workflows/trivy.yml",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/317de816dd1ea8c185997450ec36940146845752"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "9a1578b3b3ba94c98fad32b7750e12e6eeb73ad4",
+    "sha_short": "9a1578b",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:30:12Z",
+    "message": "Create sync.yml",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/9a1578b3b3ba94c98fad32b7750e12e6eeb73ad4"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0fd75-r2k16",
+    "sha": "04843e46bf705ae80b34a7053efe06173eae66f0",
+    "sha_short": "04843e4",
+    "author": "Pato (new acc)",
+    "date": "2026-09-17T13:03:21Z",
+    "message": "Enhance README with search tips and PR instructions",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/04843e46bf705ae80b34a7053efe06173eae66f0"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0ff4f-r2k16",
+    "sha": "0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0",
+    "sha_short": "0659d3d",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T12:43:39Z",
+    "message": "Split website: Jekyll primary page at /, Docusaurus docs at /docs",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0ff4f-r2k16",
+    "sha": "a14bf7882b8b25e12814f5da9640375969f12e4a",
+    "sha_short": "a14bf78",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-02T19:36:53Z",
+    "message": "Merge pull request #3 from havaianasdestruido/arena/01a0fd75-r2k16",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/a14bf7882b8b25e12814f5da9640375969f12e4a"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0ff4f-r2k16",
+    "sha": "2a104c133273cc655775d759af4bb1abcf434d73",
+    "sha_short": "2a104c1",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T19:35:39Z",
+    "message": "Apply review fixes to docs site and deploy workflow",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0ff4f-r2k16",
+    "sha": "3770f5a54ca9ad7f4bf7639e6ec4e461205400fb",
+    "sha_short": "3770f5a",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T16:55:43Z",
+    "message": "Add full codebase documentation site (Docusaurus 3)",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0ff4f-r2k16",
+    "sha": "0f63b0c3ed022ea11e7e5248e626c5dd9c80b666",
+    "sha_short": "0f63b0c",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:49:04Z",
+    "message": "Revise Extras section in README.md",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0ff4f-r2k16",
+    "sha": "809a16d97a62d37745fb293479a5d8b2d6bd5172",
+    "sha_short": "809a16d",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:46:17Z",
+    "message": "images about security scanning results",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0ff4f-r2k16",
+    "sha": "e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624",
+    "sha_short": "e4bb2b2",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:44:04Z",
+    "message": "Create README.txt",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0ff4f-r2k16",
+    "sha": "786adea40c8dbebdddef32a16dfebb042b99b140",
+    "sha_short": "786adea",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:43:41Z",
+    "message": "Create README.txt",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0ff4f-r2k16",
+    "sha": "0a3caf7be83adad1b0b2ada14a594c669f6ce33f",
+    "sha_short": "0a3caf7",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:39:47Z",
+    "message": "-DCMAKE_POLICY_VERSION_MINIMUM=3.5",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/0a3caf7be83adad1b0b2ada14a594c669f6ce33f"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0ff4f-r2k16",
+    "sha": "317de816dd1ea8c185997450ec36940146845752",
+    "sha_short": "317de81",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:37:45Z",
+    "message": "Delete .github/workflows/trivy.yml",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/317de816dd1ea8c185997450ec36940146845752"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a0ff4f-r2k16",
+    "sha": "2b621be4c91a2253b7123960bd517382da8e6ca1",
+    "sha_short": "2b621be",
+    "author": "UltimateQuack",
+    "date": "2024-12-19T15:35:00Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/2b621be4c91a2253b7123960bd517382da8e6ca1"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a10307-r2k16",
+    "sha": "a51d8a137fb67314ebea6734e530f99ea1813b14",
+    "sha_short": "a51d8a1",
+    "author": "Arena Agent",
+    "date": "2026-10-03T18:31:46Z",
+    "message": "ci(pages): fix 'Permission denied' when mounting docs under _site/docs",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/a51d8a137fb67314ebea6734e530f99ea1813b14"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a10307-r2k16",
+    "sha": "e38de88218960d322afbcd497e8fa7aaf1d492b1",
+    "sha_short": "e38de88",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T14:32:47Z",
+    "message": "Merge pull request #4 from havaianasdestruido/arena/01a0ff4f-r2k16",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/e38de88218960d322afbcd497e8fa7aaf1d492b1"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a10307-r2k16",
+    "sha": "0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0",
+    "sha_short": "0659d3d",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T12:43:39Z",
+    "message": "Split website: Jekyll primary page at /, Docusaurus docs at /docs",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a10307-r2k16",
+    "sha": "a14bf7882b8b25e12814f5da9640375969f12e4a",
+    "sha_short": "a14bf78",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-02T19:36:53Z",
+    "message": "Merge pull request #3 from havaianasdestruido/arena/01a0fd75-r2k16",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/a14bf7882b8b25e12814f5da9640375969f12e4a"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a10307-r2k16",
+    "sha": "2a104c133273cc655775d759af4bb1abcf434d73",
+    "sha_short": "2a104c1",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T19:35:39Z",
+    "message": "Apply review fixes to docs site and deploy workflow",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a10307-r2k16",
+    "sha": "3770f5a54ca9ad7f4bf7639e6ec4e461205400fb",
+    "sha_short": "3770f5a",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T16:55:43Z",
+    "message": "Add full codebase documentation site (Docusaurus 3)",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a10307-r2k16",
+    "sha": "0f63b0c3ed022ea11e7e5248e626c5dd9c80b666",
+    "sha_short": "0f63b0c",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:49:04Z",
+    "message": "Revise Extras section in README.md",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a10307-r2k16",
+    "sha": "809a16d97a62d37745fb293479a5d8b2d6bd5172",
+    "sha_short": "809a16d",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:46:17Z",
+    "message": "images about security scanning results",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a10307-r2k16",
+    "sha": "e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624",
+    "sha_short": "e4bb2b2",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:44:04Z",
+    "message": "Create README.txt",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a10307-r2k16",
+    "sha": "786adea40c8dbebdddef32a16dfebb042b99b140",
+    "sha_short": "786adea",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:43:41Z",
+    "message": "Create README.txt",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a10307-r2k16",
+    "sha": "dd0298aee99bff9edd85298e6482ba767a045283",
+    "sha_short": "dd0298a",
+    "author": "ImgBotApp",
+    "date": "2024-12-19T17:49:16Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/dd0298aee99bff9edd85298e6482ba767a045283"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a10307-r2k16",
+    "sha": "05db15d61050dd4a972636202cb613043ad4a9c0",
+    "sha_short": "05db15d",
+    "author": "PatoFlamejanteTV",
+    "date": "2024-12-19T16:11:40Z",
+    "message": "full source code",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/05db15d61050dd4a972636202cb613043ad4a9c0"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "arena/01a10307-r2k16",
+    "sha": "2b621be4c91a2253b7123960bd517382da8e6ca1",
+    "sha_short": "2b621be",
+    "author": "UltimateQuack",
+    "date": "2024-12-19T15:35:00Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/2b621be4c91a2253b7123960bd517382da8e6ca1"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
+    "sha": "d7f519da3b8d2c4b6b201c655273292229b4619d",
+    "sha_short": "d7f519d",
+    "author": "dependabot[bot]",
+    "date": "2026-09-20T15:33:32Z",
+    "message": "Bump the npm_and_yarn group across 2 directories with 3 updates",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/d7f519da3b8d2c4b6b201c655273292229b4619d"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
+    "sha": "9a1578b3b3ba94c98fad32b7750e12e6eeb73ad4",
+    "sha_short": "9a1578b",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:30:12Z",
+    "message": "Create sync.yml",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/9a1578b3b3ba94c98fad32b7750e12e6eeb73ad4"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
+    "sha": "04843e46bf705ae80b34a7053efe06173eae66f0",
+    "sha_short": "04843e4",
+    "author": "Pato (new acc)",
+    "date": "2026-09-17T13:03:21Z",
+    "message": "Enhance README with search tips and PR instructions",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/04843e46bf705ae80b34a7053efe06173eae66f0"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
+    "sha": "412ab4905bf3e5c8315eabaa03698485535d5973",
+    "sha_short": "412ab49",
+    "author": "Pato (new acc)",
+    "date": "2026-09-15T18:35:42Z",
+    "message": "Create scorecard.yml",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/412ab4905bf3e5c8315eabaa03698485535d5973"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
+    "sha": "bd22abb13f05c8741c5b5a9168d7e5f9d58eb831",
+    "sha_short": "bd22abb",
+    "author": "Pato (new acc)",
+    "date": "2026-09-15T18:35:33Z",
+    "message": "Create trivy.yml",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/bd22abb13f05c8741c5b5a9168d7e5f9d58eb831"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
+    "sha": "46bba0bbad6c4729a397e70a7ead76dfedd75326",
+    "sha_short": "46bba0b",
+    "author": "Pato (new acc)",
+    "date": "2026-09-15T18:35:23Z",
+    "message": "Create semgrep.yml",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/46bba0bbad6c4729a397e70a7ead76dfedd75326"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
+    "sha": "864de3b3c6acbc318ca23c1b96ae73232a33a4fb",
+    "sha_short": "864de3b",
+    "author": "Pato (new acc)",
+    "date": "2026-09-15T18:35:09Z",
+    "message": "Create osv-scanner.yml",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/864de3b3c6acbc318ca23c1b96ae73232a33a4fb"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
+    "sha": "eadb785b1eb98eedcdd7255de3d0f4d602a47289",
+    "sha_short": "eadb785",
+    "author": "Pato (new acc)",
+    "date": "2026-09-15T18:34:00Z",
+    "message": "Create msvc.yml",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/eadb785b1eb98eedcdd7255de3d0f4d602a47289"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
+    "sha": "12485510185848deae9179973b0df3c9ef5f6cc3",
+    "sha_short": "1248551",
+    "author": "Pato (new acc)",
+    "date": "2026-09-15T18:24:51Z",
+    "message": "Delete .github/workflows/build.yml",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/12485510185848deae9179973b0df3c9ef5f6cc3"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
+    "sha": "65d06ee027294a5aa256b813f5fe3377652e2f17",
+    "sha_short": "65d06ee",
+    "author": "Pato (new acc)",
+    "date": "2026-09-15T18:13:39Z",
+    "message": "added manual triggering",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/65d06ee027294a5aa256b813f5fe3377652e2f17"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "main",
+    "sha": "e38de88218960d322afbcd497e8fa7aaf1d492b1",
+    "sha_short": "e38de88",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T14:32:47Z",
+    "message": "Merge pull request #4 from havaianasdestruido/arena/01a0ff4f-r2k16",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/e38de88218960d322afbcd497e8fa7aaf1d492b1"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "main",
+    "sha": "0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0",
+    "sha_short": "0659d3d",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T12:43:39Z",
+    "message": "Split website: Jekyll primary page at /, Docusaurus docs at /docs",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "main",
+    "sha": "a14bf7882b8b25e12814f5da9640375969f12e4a",
+    "sha_short": "a14bf78",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-02T19:36:53Z",
+    "message": "Merge pull request #3 from havaianasdestruido/arena/01a0fd75-r2k16",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/a14bf7882b8b25e12814f5da9640375969f12e4a"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "main",
+    "sha": "2a104c133273cc655775d759af4bb1abcf434d73",
+    "sha_short": "2a104c1",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T19:35:39Z",
+    "message": "Apply review fixes to docs site and deploy workflow",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "main",
+    "sha": "3770f5a54ca9ad7f4bf7639e6ec4e461205400fb",
+    "sha_short": "3770f5a",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T16:55:43Z",
+    "message": "Add full codebase documentation site (Docusaurus 3)",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "main",
+    "sha": "0f63b0c3ed022ea11e7e5248e626c5dd9c80b666",
+    "sha_short": "0f63b0c",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:49:04Z",
+    "message": "Revise Extras section in README.md",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "main",
+    "sha": "809a16d97a62d37745fb293479a5d8b2d6bd5172",
+    "sha_short": "809a16d",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:46:17Z",
+    "message": "images about security scanning results",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "main",
+    "sha": "e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624",
+    "sha_short": "e4bb2b2",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:44:04Z",
+    "message": "Create README.txt",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "main",
+    "sha": "786adea40c8dbebdddef32a16dfebb042b99b140",
+    "sha_short": "786adea",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:43:41Z",
+    "message": "Create README.txt",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "main",
+    "sha": "0a3caf7be83adad1b0b2ada14a594c669f6ce33f",
+    "sha_short": "0a3caf7",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:39:47Z",
+    "message": "-DCMAKE_POLICY_VERSION_MINIMUM=3.5",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/0a3caf7be83adad1b0b2ada14a594c669f6ce33f"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "main",
+    "sha": "05db15d61050dd4a972636202cb613043ad4a9c0",
+    "sha_short": "05db15d",
+    "author": "PatoFlamejanteTV",
+    "date": "2024-12-19T16:11:40Z",
+    "message": "full source code",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/05db15d61050dd4a972636202cb613043ad4a9c0"
+  },
+  {
+    "repo": "R2K16",
+    "branch": "main",
+    "sha": "2b621be4c91a2253b7123960bd517382da8e6ca1",
+    "sha_short": "2b621be",
+    "author": "UltimateQuack",
+    "date": "2024-12-19T15:35:00Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/2b621be4c91a2253b7123960bd517382da8e6ca1"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
+    "sha": "b171b18f36151970d3a95d811592cc707eb0b56d",
+    "sha_short": "b171b18",
+    "author": "GitHub Action Bot",
+    "date": "2026-10-03T18:59:19Z",
+    "message": "📊 [2026-10-03 18:59:19 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/b171b18f36151970d3a95d811592cc707eb0b56d"
+  },
+  {
     "repo": "sitemapping",
     "branch": "main",
     "sha": "c43480b6349cc6953ea462d40a54a3a8e14e37fc",
@@ -5042,12 +5612,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "2e4df37ec2445a61595a4df939b7e0add5056f59",
-    "sha_short": "2e4df37",
+    "sha": "cc16745125e692db6671d90fd9388171dcffa0aa",
+    "sha_short": "cc16745",
     "author": "GitHub Action Bot",
-    "date": "2026-10-01T10:41:26Z",
-    "message": "📊 [2026-10-01 10:41:26 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/2e4df37ec2445a61595a4df939b7e0add5056f59"
+    "date": "2026-09-25T02:35:41Z",
+    "message": "📊 [2026-09-25 02:35:41 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/cc16745125e692db6671d90fd9388171dcffa0aa"
   },
   {
     "repo": "sitemapping",
@@ -5142,12 +5712,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "aba140c0fc74e41185e6fe50a2a6f8ed8f345fc2",
-    "sha_short": "aba140c",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-22T22:36:14Z",
-    "message": "📊 [2026-09-22 22:36:14 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/aba140c0fc74e41185e6fe50a2a6f8ed8f345fc2"
+    "sha": "7af849f89b6d3e9decfb834f5cedcc3d7bee8c37",
+    "sha_short": "7af849f",
+    "author": "Pato (new acc)",
+    "date": "2026-09-19T14:59:14Z",
+    "message": "Change GITHUB_TOKEN to GITHUB_PAT in workflow",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/7af849f89b6d3e9decfb834f5cedcc3d7bee8c37"
   },
   {
     "repo": "sitemapping",
@@ -5240,14 +5810,14 @@
     "url": "https://github.com/havaianasdestruido/sitemapping/commit/d51ffae9e72f4b6c25ae0f6ab15bb0c421db3f94"
   },
   {
-    "repo": "sitemapping",
+    "repo": "top100",
     "branch": "main",
-    "sha": "ee38a4da95223bc0d67a72062e40d7e365314f14",
-    "sha_short": "ee38a4d",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-17T03:58:56Z",
-    "message": "📊 Update repository report [2026-09-17 03:58:56 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/ee38a4da95223bc0d67a72062e40d7e365314f14"
+    "sha": "2a14178fa21c6f6f6c94c979472c5815020c3c54",
+    "sha_short": "2a14178",
+    "author": "github-actions[bot]",
+    "date": "2026-10-03T20:18:26Z",
+    "message": "data: update top repos data (2026-10-03 20:18 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/2a14178fa21c6f6f6c94c979472c5815020c3c54"
   },
   {
     "repo": "top100",
@@ -5342,12 +5912,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "b7da8152797a07fa2388f2473ed9c437d4964a12",
-    "sha_short": "b7da815",
+    "sha": "f2ee0ebd527190d53aa1f67c93bb0997590ce769",
+    "sha_short": "f2ee0eb",
     "author": "github-actions[bot]",
-    "date": "2026-10-01T21:29:24Z",
-    "message": "data: update top repos data (2026-10-01 21:29 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/b7da8152797a07fa2388f2473ed9c437d4964a12"
+    "date": "2026-09-27T09:35:07Z",
+    "message": "data: update top repos data (2026-09-27)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/f2ee0ebd527190d53aa1f67c93bb0997590ce769"
   },
   {
     "repo": "top100",
@@ -5442,12 +6012,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "16822d70a64e847c1f54399d8f1964cff0658bed",
-    "sha_short": "16822d7",
+    "sha": "a48b212d6b3b79b9ec2f24b956dee679b22545da",
+    "sha_short": "a48b212",
     "author": "github-actions[bot]",
-    "date": "2026-09-25T19:37:40Z",
-    "message": "data: update top repos data (2026-09-25)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/16822d70a64e847c1f54399d8f1964cff0658bed"
+    "date": "2026-09-21T07:20:17Z",
+    "message": "data: update top repos data (2026-09-21)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/a48b212d6b3b79b9ec2f24b956dee679b22545da"
   },
   {
     "repo": "top100",
@@ -5538,16 +6108,6 @@
     "date": "2026-09-20T20:21:58Z",
     "message": "Create jekyll-gh-pages.yml",
     "url": "https://github.com/havaianasdestruido/top100/commit/3238f03c96924197524b9faad42f8dc0952f9a1f"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "00bd00a84710d2aa9695513d698b3944ab12312a",
-    "sha_short": "00bd00a",
-    "author": "github-actions[bot]",
-    "date": "2026-09-20T20:14:26Z",
-    "message": "data: update top repos data (2026-09-20)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/00bd00a84710d2aa9695513d698b3944ab12312a"
   },
   {
     "repo": ".github",
@@ -12661,6 +13221,106 @@
   },
   {
     "repo": "Giggles-Shit",
+    "branch": "arena/01a1035d-giggles-shit",
+    "sha": "887802fa23e97cf9e2a5c530ccc983519a895e1f",
+    "sha_short": "887802f",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T20:09:22Z",
+    "message": "Add gist.github.com support",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/887802fa23e97cf9e2a5c530ccc983519a895e1f"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a1035d-giggles-shit",
+    "sha": "2b219008d63bdf60b7812d83a4615d98a32db26c",
+    "sha_short": "2b21900",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T18:23:17Z",
+    "message": "Merge pull request #1 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/2b219008d63bdf60b7812d83a4615d98a32db26c"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a1035d-giggles-shit",
+    "sha": "ccdd71f80471da7db65a8fda07d2711c8a90b60f",
+    "sha_short": "ccdd71f",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T17:00:04Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/01a10230-giggles-shit",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/ccdd71f80471da7db65a8fda07d2711c8a90b60f"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a1035d-giggles-shit",
+    "sha": "a81d1657be15d1f9dd48ddeefdef1bca44e251b7",
+    "sha_short": "a81d165",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T16:59:02Z",
+    "message": "Address PR review feedback",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/a81d1657be15d1f9dd48ddeefdef1bca44e251b7"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a1035d-giggles-shit",
+    "sha": "8b988ac8819c27062dd1aab26d4d8c64a74bae2b",
+    "sha_short": "8b988ac",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T15:11:43Z",
+    "message": "Add Jekyll primary website + Docusaurus docs under /docs",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/8b988ac8819c27062dd1aab26d4d8c64a74bae2b"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a1035d-giggles-shit",
+    "sha": "06a2e97f987847aca1edd465452d2142863bc0dd",
+    "sha_short": "06a2e97",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T01:10:09Z",
+    "message": "Set imgbot schedule to weekly",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/06a2e97f987847aca1edd465452d2142863bc0dd"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a1035d-giggles-shit",
+    "sha": "021ad06817d7142043b7ce2bc4eafe25e2439f49",
+    "sha_short": "021ad06",
+    "author": "ImgBotApp",
+    "date": "2026-09-21T00:39:07Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/021ad06817d7142043b7ce2bc4eafe25e2439f49"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a1035d-giggles-shit",
+    "sha": "155ffba9519df85c6c9f179ac01dab2d385385a9",
+    "sha_short": "155ffba",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:12Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/155ffba9519df85c6c9f179ac01dab2d385385a9"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a1035d-giggles-shit",
+    "sha": "67804cbf37f5d7b9660161fb2e840e369618871e",
+    "sha_short": "67804cb",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:00Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/67804cbf37f5d7b9660161fb2e840e369618871e"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a1035d-giggles-shit",
+    "sha": "8ba6919eb3eed230a4bf95a7fa8d0cea979957f0",
+    "sha_short": "8ba6919",
+    "author": "Pato (new acc)",
+    "date": "2026-09-18T00:47:46Z",
+    "message": "Add MIT License",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/8ba6919eb3eed230a4bf95a7fa8d0cea979957f0"
+  },
+  {
+    "repo": "Giggles-Shit",
     "branch": "arena/01a10230-giggles-shit",
     "sha": "a81d1657be15d1f9dd48ddeefdef1bca44e251b7",
     "sha_short": "a81d165",
@@ -12761,6 +13421,186 @@
   },
   {
     "repo": "Giggles-Shit",
+    "branch": "arena/01a10361-giggles-shit",
+    "sha": "d2281d4062c82c2b5402e6ab106acc97100e54fb",
+    "sha_short": "d2281d4",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T20:12:32Z",
+    "message": "Add 84, boo and fire emoji to DEFAULT_GAS and docs",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/d2281d4062c82c2b5402e6ab106acc97100e54fb"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a10361-giggles-shit",
+    "sha": "be51c1a8d4ff992d1d49b93e4b2be24c5f3701db",
+    "sha_short": "be51c1a",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T20:12:03Z",
+    "message": "Merge main (new emoji uploads)",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/be51c1a8d4ff992d1d49b93e4b2be24c5f3701db"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a10361-giggles-shit",
+    "sha": "756d3fa14690ae96f505aa91f43831dfe0995d6a",
+    "sha_short": "756d3fa",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T20:10:35Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/756d3fa14690ae96f505aa91f43831dfe0995d6a"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a10361-giggles-shit",
+    "sha": "548d50eddb3166d9c5c2ac8a3cd5164f0e5bdc21",
+    "sha_short": "548d50e",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T20:09:19Z",
+    "message": "Add hmm, wet, woah, yeah to DEFAULT_GAS and update docs",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/548d50eddb3166d9c5c2ac8a3cd5164f0e5bdc21"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a10361-giggles-shit",
+    "sha": "60ca23b287cff3445fe5863f6355c35e37808f32",
+    "sha_short": "60ca23b",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T20:08:17Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/60ca23b287cff3445fe5863f6355c35e37808f32"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a10361-giggles-shit",
+    "sha": "2b219008d63bdf60b7812d83a4615d98a32db26c",
+    "sha_short": "2b21900",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T18:23:17Z",
+    "message": "Merge pull request #1 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/2b219008d63bdf60b7812d83a4615d98a32db26c"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a10361-giggles-shit",
+    "sha": "ccdd71f80471da7db65a8fda07d2711c8a90b60f",
+    "sha_short": "ccdd71f",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T17:00:04Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/01a10230-giggles-shit",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/ccdd71f80471da7db65a8fda07d2711c8a90b60f"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a10361-giggles-shit",
+    "sha": "a81d1657be15d1f9dd48ddeefdef1bca44e251b7",
+    "sha_short": "a81d165",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T16:59:02Z",
+    "message": "Address PR review feedback",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/a81d1657be15d1f9dd48ddeefdef1bca44e251b7"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a10361-giggles-shit",
+    "sha": "8b988ac8819c27062dd1aab26d4d8c64a74bae2b",
+    "sha_short": "8b988ac",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T15:11:43Z",
+    "message": "Add Jekyll primary website + Docusaurus docs under /docs",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/8b988ac8819c27062dd1aab26d4d8c64a74bae2b"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "arena/01a10361-giggles-shit",
+    "sha": "06a2e97f987847aca1edd465452d2142863bc0dd",
+    "sha_short": "06a2e97",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T01:10:09Z",
+    "message": "Set imgbot schedule to weekly",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/06a2e97f987847aca1edd465452d2142863bc0dd"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "main",
+    "sha": "67f7f29bc26637bc731393b9a1222de6e3ae742d",
+    "sha_short": "67f7f29",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T20:35:46Z",
+    "message": "Merge pull request #4 from havaianasdestruido/arena/01a10361-giggles-shit",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/67f7f29bc26637bc731393b9a1222de6e3ae742d"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "main",
+    "sha": "c336456319ae6f50c5328456d1eddf5b4b71bf01",
+    "sha_short": "c336456",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T20:35:21Z",
+    "message": "Merge pull request #3 from havaianasdestruido/arena/01a1035d-giggles-shit",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/c336456319ae6f50c5328456d1eddf5b4b71bf01"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "main",
+    "sha": "d2281d4062c82c2b5402e6ab106acc97100e54fb",
+    "sha_short": "d2281d4",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T20:12:32Z",
+    "message": "Add 84, boo and fire emoji to DEFAULT_GAS and docs",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/d2281d4062c82c2b5402e6ab106acc97100e54fb"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "main",
+    "sha": "be51c1a8d4ff992d1d49b93e4b2be24c5f3701db",
+    "sha_short": "be51c1a",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T20:12:03Z",
+    "message": "Merge main (new emoji uploads)",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/be51c1a8d4ff992d1d49b93e4b2be24c5f3701db"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "main",
+    "sha": "756d3fa14690ae96f505aa91f43831dfe0995d6a",
+    "sha_short": "756d3fa",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T20:10:35Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/756d3fa14690ae96f505aa91f43831dfe0995d6a"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "main",
+    "sha": "887802fa23e97cf9e2a5c530ccc983519a895e1f",
+    "sha_short": "887802f",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T20:09:22Z",
+    "message": "Add gist.github.com support",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/887802fa23e97cf9e2a5c530ccc983519a895e1f"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "main",
+    "sha": "548d50eddb3166d9c5c2ac8a3cd5164f0e5bdc21",
+    "sha_short": "548d50e",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T20:09:19Z",
+    "message": "Add hmm, wet, woah, yeah to DEFAULT_GAS and update docs",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/548d50eddb3166d9c5c2ac8a3cd5164f0e5bdc21"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "branch": "main",
+    "sha": "60ca23b287cff3445fe5863f6355c35e37808f32",
+    "sha_short": "60ca23b",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T20:08:17Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/60ca23b287cff3445fe5863f6355c35e37808f32"
+  },
+  {
+    "repo": "Giggles-Shit",
     "branch": "main",
     "sha": "2b219008d63bdf60b7812d83a4615d98a32db26c",
     "sha_short": "2b21900",
@@ -12778,86 +13618,6 @@
     "date": "2026-10-03T17:00:04Z",
     "message": "Merge pull request #2 from havaianasdestruido/arena/01a10230-giggles-shit",
     "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/ccdd71f80471da7db65a8fda07d2711c8a90b60f"
-  },
-  {
-    "repo": "Giggles-Shit",
-    "branch": "main",
-    "sha": "a81d1657be15d1f9dd48ddeefdef1bca44e251b7",
-    "sha_short": "a81d165",
-    "author": "havaianasdestruido",
-    "date": "2026-10-03T16:59:02Z",
-    "message": "Address PR review feedback",
-    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/a81d1657be15d1f9dd48ddeefdef1bca44e251b7"
-  },
-  {
-    "repo": "Giggles-Shit",
-    "branch": "main",
-    "sha": "8b988ac8819c27062dd1aab26d4d8c64a74bae2b",
-    "sha_short": "8b988ac",
-    "author": "havaianasdestruido",
-    "date": "2026-10-03T15:11:43Z",
-    "message": "Add Jekyll primary website + Docusaurus docs under /docs",
-    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/8b988ac8819c27062dd1aab26d4d8c64a74bae2b"
-  },
-  {
-    "repo": "Giggles-Shit",
-    "branch": "main",
-    "sha": "06a2e97f987847aca1edd465452d2142863bc0dd",
-    "sha_short": "06a2e97",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-21T01:10:09Z",
-    "message": "Set imgbot schedule to weekly",
-    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/06a2e97f987847aca1edd465452d2142863bc0dd"
-  },
-  {
-    "repo": "Giggles-Shit",
-    "branch": "main",
-    "sha": "021ad06817d7142043b7ce2bc4eafe25e2439f49",
-    "sha_short": "021ad06",
-    "author": "ImgBotApp",
-    "date": "2026-09-21T00:39:07Z",
-    "message": "[ImgBot] Optimize images",
-    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/021ad06817d7142043b7ce2bc4eafe25e2439f49"
-  },
-  {
-    "repo": "Giggles-Shit",
-    "branch": "main",
-    "sha": "155ffba9519df85c6c9f179ac01dab2d385385a9",
-    "sha_short": "155ffba",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-21T00:38:12Z",
-    "message": "Add .imgbotconfig for aggressive image compression",
-    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/155ffba9519df85c6c9f179ac01dab2d385385a9"
-  },
-  {
-    "repo": "Giggles-Shit",
-    "branch": "main",
-    "sha": "67804cbf37f5d7b9660161fb2e840e369618871e",
-    "sha_short": "67804cb",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T20:14:00Z",
-    "message": "docs: add star history chart",
-    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/67804cbf37f5d7b9660161fb2e840e369618871e"
-  },
-  {
-    "repo": "Giggles-Shit",
-    "branch": "main",
-    "sha": "8ba6919eb3eed230a4bf95a7fa8d0cea979957f0",
-    "sha_short": "8ba6919",
-    "author": "Pato (new acc)",
-    "date": "2026-09-18T00:47:46Z",
-    "message": "Add MIT License",
-    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/8ba6919eb3eed230a4bf95a7fa8d0cea979957f0"
-  },
-  {
-    "repo": "Giggles-Shit",
-    "branch": "main",
-    "sha": "9b040e7432f5a46f604869fd0c2bb45f786e7d20",
-    "sha_short": "9b040e7",
-    "author": "Pato (new acc)",
-    "date": "2026-08-12T15:18:53Z",
-    "message": "Update README.md",
-    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/9b040e7432f5a46f604869fd0c2bb45f786e7d20"
   },
   {
     "repo": "gitgithub",
@@ -13201,103 +13961,393 @@
   },
   {
     "repo": "havaianasdestruido.github.io",
-    "branch": "main",
-    "sha": "6bc11d49fe79fe7feda88adab46d84aa552476c1",
-    "sha_short": "6bc11d4",
+    "branch": "arena/01a103cc-havaianasdestruido-github-io",
+    "sha": "dd2fc93d32bfbb57ceae46cb61e128518d1dc83d",
+    "sha_short": "dd2fc93",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T22:06:30Z",
+    "message": "Refactor: split CSS/JS out of index.html, move assets into img/, fonts/",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/dd2fc93d32bfbb57ceae46cb61e128518d1dc83d"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103cc-havaianasdestruido-github-io",
+    "sha": "9e6e833cfd51fba98b9b822e5a16a169673cf0e9",
+    "sha_short": "9e6e833",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-02T13:09:34Z",
+    "date": "2026-10-03T22:02:53Z",
+    "message": "Update index.html",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/9e6e833cfd51fba98b9b822e5a16a169673cf0e9"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103cc-havaianasdestruido-github-io",
+    "sha": "982aae61b78f38593a1aa5dde6232691ffdda77d",
+    "sha_short": "982aae6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T22:00:07Z",
     "message": "Add files via upload",
-    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/6bc11d49fe79fe7feda88adab46d84aa552476c1"
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/982aae61b78f38593a1aa5dde6232691ffdda77d"
   },
   {
     "repo": "havaianasdestruido.github.io",
-    "branch": "main",
-    "sha": "358146ac4c24d565ed893dc77cf69fbcd6fc7c2e",
-    "sha_short": "358146a",
+    "branch": "arena/01a103cc-havaianasdestruido-github-io",
+    "sha": "ac0bfa59d05758001cf5cf6e78c0ec86e38b65c3",
+    "sha_short": "ac0bfa5",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-24T14:54:35Z",
+    "date": "2026-10-03T21:49:04Z",
+    "message": "new palette :0",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/ac0bfa59d05758001cf5cf6e78c0ec86e38b65c3"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103cc-havaianasdestruido-github-io",
+    "sha": "691c10b27fcb34dfcf6bd425bca197734f895383",
+    "sha_short": "691c10b",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T21:43:38Z",
     "message": "Update index.html",
-    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/358146ac4c24d565ed893dc77cf69fbcd6fc7c2e"
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/691c10b27fcb34dfcf6bd425bca197734f895383"
   },
   {
     "repo": "havaianasdestruido.github.io",
-    "branch": "main",
-    "sha": "b5afe65518480a2dca3ce473cb76c909b5d51df8",
-    "sha_short": "b5afe65",
+    "branch": "arena/01a103cc-havaianasdestruido-github-io",
+    "sha": "f434ca98c5ae1a15248582033516bea30a687ed2",
+    "sha_short": "f434ca9",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-24T14:47:05Z",
+    "date": "2026-10-03T21:41:44Z",
     "message": "Update index.html",
-    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/b5afe65518480a2dca3ce473cb76c909b5d51df8"
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/f434ca98c5ae1a15248582033516bea30a687ed2"
   },
   {
     "repo": "havaianasdestruido.github.io",
-    "branch": "main",
-    "sha": "0cae82b43ac5829e6bead5a102dcdd083d17e02c",
-    "sha_short": "0cae82b",
+    "branch": "arena/01a103cc-havaianasdestruido-github-io",
+    "sha": "8864a2f35f3551cc1209fd96151b8373df01160a",
+    "sha_short": "8864a2f",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-24T14:27:07Z",
-    "message": "Update index.html",
-    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/0cae82b43ac5829e6bead5a102dcdd083d17e02c"
+    "date": "2026-10-03T21:40:59Z",
+    "message": "Update and rename readme.md to readme.txt",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/8864a2f35f3551cc1209fd96151b8373df01160a"
   },
   {
     "repo": "havaianasdestruido.github.io",
-    "branch": "main",
-    "sha": "6a45a683bc8603282f3340c423088438c9ecf3ff",
-    "sha_short": "6a45a68",
+    "branch": "arena/01a103cc-havaianasdestruido-github-io",
+    "sha": "cf1ab5e97fc466011d0dd266cf2651fb683aaa83",
+    "sha_short": "cf1ab5e",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-21T01:10:24Z",
-    "message": "Set imgbot schedule to weekly",
-    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/6a45a683bc8603282f3340c423088438c9ecf3ff"
-  },
-  {
-    "repo": "havaianasdestruido.github.io",
-    "branch": "main",
-    "sha": "31f2dac9f6ba11570e7051a5e42ae98e1bc2c709",
-    "sha_short": "31f2dac",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-21T00:38:09Z",
-    "message": "Add .imgbotconfig for aggressive image compression",
-    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/31f2dac9f6ba11570e7051a5e42ae98e1bc2c709"
-  },
-  {
-    "repo": "havaianasdestruido.github.io",
-    "branch": "main",
-    "sha": "80c46c32083ea3a4a7b7397266fa3300dc9bf390",
-    "sha_short": "80c46c3",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T20:14:02Z",
-    "message": "docs: add star history chart",
-    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/80c46c32083ea3a4a7b7397266fa3300dc9bf390"
-  },
-  {
-    "repo": "havaianasdestruido.github.io",
-    "branch": "main",
-    "sha": "9f8bb4079edf665c62be478941343e0c0efc07bf",
-    "sha_short": "9f8bb40",
-    "author": "Pato (new acc)",
-    "date": "2026-09-18T00:47:42Z",
-    "message": "Add MIT License",
-    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/9f8bb4079edf665c62be478941343e0c0efc07bf"
-  },
-  {
-    "repo": "havaianasdestruido.github.io",
-    "branch": "main",
-    "sha": "5b6c00ba26e7b76fb9be60927e0bd314701f3d4c",
-    "sha_short": "5b6c00b",
-    "author": "Pato (new acc)",
-    "date": "2026-08-12T16:22:31Z",
+    "date": "2026-10-03T21:40:37Z",
     "message": "Add files via upload",
-    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/5b6c00ba26e7b76fb9be60927e0bd314701f3d4c"
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/cf1ab5e97fc466011d0dd266cf2651fb683aaa83"
   },
   {
     "repo": "havaianasdestruido.github.io",
-    "branch": "main",
+    "branch": "arena/01a103cc-havaianasdestruido-github-io",
+    "sha": "4eb3552133c76ac14cefab8d5faea53f1a5c1ca5",
+    "sha_short": "4eb3552",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T21:39:57Z",
+    "message": "Delete fs-tahoma-8px.otf.woff2",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/4eb3552133c76ac14cefab8d5faea53f1a5c1ca5"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103cc-havaianasdestruido-github-io",
+    "sha": "58a5403e0e3e9a7dd2469eb1be0ee8704a057095",
+    "sha_short": "58a5403",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T21:38:19Z",
+    "message": "revert",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/58a5403e0e3e9a7dd2469eb1be0ee8704a057095"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103cc-havaianasdestruido-github-io",
+    "sha": "7ca7f2290eb2becff3915f0a0e7e77d80c670287",
+    "sha_short": "7ca7f22",
+    "author": "Pato (new acc)",
+    "date": "2026-08-12T16:02:07Z",
+    "message": "Create readme.md",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/7ca7f2290eb2becff3915f0a0e7e77d80c670287"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103db-havaianasdestruido-github-io",
+    "sha": "e51b90aae34d6d96d18f7e78a7e63d6e362f9eb4",
+    "sha_short": "e51b90a",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T22:31:16Z",
+    "message": "Address font loading and dialog sizing review",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e51b90aae34d6d96d18f7e78a7e63d6e362f9eb4"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103db-havaianasdestruido-github-io",
+    "sha": "ac40421a74c1a40a913c58b2acbf88d3e58db667",
+    "sha_short": "ac40421",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T22:22:48Z",
+    "message": "Add IE11 compatibility fallbacks",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/ac40421a74c1a40a913c58b2acbf88d3e58db667"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103db-havaianasdestruido-github-io",
+    "sha": "c01cc9da799766e6806eeea240d9e690a05f95c2",
+    "sha_short": "c01cc9d",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T22:17:20Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/01a103cc-havaianasdestruido-github-io",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/c01cc9da799766e6806eeea240d9e690a05f95c2"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103db-havaianasdestruido-github-io",
+    "sha": "dd2fc93d32bfbb57ceae46cb61e128518d1dc83d",
+    "sha_short": "dd2fc93",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T22:06:30Z",
+    "message": "Refactor: split CSS/JS out of index.html, move assets into img/, fonts/",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/dd2fc93d32bfbb57ceae46cb61e128518d1dc83d"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103db-havaianasdestruido-github-io",
+    "sha": "9e6e833cfd51fba98b9b822e5a16a169673cf0e9",
+    "sha_short": "9e6e833",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T22:02:53Z",
+    "message": "Update index.html",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/9e6e833cfd51fba98b9b822e5a16a169673cf0e9"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103db-havaianasdestruido-github-io",
+    "sha": "982aae61b78f38593a1aa5dde6232691ffdda77d",
+    "sha_short": "982aae6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T22:00:07Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/982aae61b78f38593a1aa5dde6232691ffdda77d"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103db-havaianasdestruido-github-io",
+    "sha": "ac0bfa59d05758001cf5cf6e78c0ec86e38b65c3",
+    "sha_short": "ac0bfa5",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T21:49:04Z",
+    "message": "new palette :0",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/ac0bfa59d05758001cf5cf6e78c0ec86e38b65c3"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103db-havaianasdestruido-github-io",
+    "sha": "691c10b27fcb34dfcf6bd425bca197734f895383",
+    "sha_short": "691c10b",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T21:43:38Z",
+    "message": "Update index.html",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/691c10b27fcb34dfcf6bd425bca197734f895383"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103db-havaianasdestruido-github-io",
+    "sha": "f434ca98c5ae1a15248582033516bea30a687ed2",
+    "sha_short": "f434ca9",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T21:41:44Z",
+    "message": "Update index.html",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/f434ca98c5ae1a15248582033516bea30a687ed2"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103db-havaianasdestruido-github-io",
+    "sha": "8864a2f35f3551cc1209fd96151b8373df01160a",
+    "sha_short": "8864a2f",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T21:40:59Z",
+    "message": "Update and rename readme.md to readme.txt",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/8864a2f35f3551cc1209fd96151b8373df01160a"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103db-havaianasdestruido-github-io",
     "sha": "e07cb17dc90152c120daa3785996ccb258bafce2",
     "sha_short": "e07cb17",
     "author": "Pato (new acc)",
     "date": "2026-08-12T16:08:52Z",
     "message": "full screen car",
     "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e07cb17dc90152c120daa3785996ccb258bafce2"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103db-havaianasdestruido-github-io",
+    "sha": "14ded868c36f7260c5c95e4b06f75130ce0cf5e8",
+    "sha_short": "14ded86",
+    "author": "Pato (new acc)",
+    "date": "2026-08-12T16:03:05Z",
+    "message": "Create static.yml",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/14ded868c36f7260c5c95e4b06f75130ce0cf5e8"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103db-havaianasdestruido-github-io",
+    "sha": "e0fd055e859dcba9378aefb4f4624dda73efd9c0",
+    "sha_short": "e0fd055",
+    "author": "Pato (new acc)",
+    "date": "2026-08-12T16:02:43Z",
+    "message": "Create index.html",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e0fd055e859dcba9378aefb4f4624dda73efd9c0"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "arena/01a103db-havaianasdestruido-github-io",
+    "sha": "7ca7f2290eb2becff3915f0a0e7e77d80c670287",
+    "sha_short": "7ca7f22",
+    "author": "Pato (new acc)",
+    "date": "2026-08-12T16:02:07Z",
+    "message": "Create readme.md",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/7ca7f2290eb2becff3915f0a0e7e77d80c670287"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "new",
+    "sha": "59b1eb2d578aaa7b24ae6316512cd21377907889",
+    "sha_short": "59b1eb2",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T22:22:26Z",
+    "message": "Merge pull request #3 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/59b1eb2d578aaa7b24ae6316512cd21377907889"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "new",
+    "sha": "f4b57d85304ead3df07e05af1a979aa811774cea",
+    "sha_short": "f4b57d8",
+    "author": "ImgBotApp",
+    "date": "2026-10-03T22:21:35Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/f4b57d85304ead3df07e05af1a979aa811774cea"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "new",
+    "sha": "c01cc9da799766e6806eeea240d9e690a05f95c2",
+    "sha_short": "c01cc9d",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T22:17:20Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/01a103cc-havaianasdestruido-github-io",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/c01cc9da799766e6806eeea240d9e690a05f95c2"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "new",
+    "sha": "dd2fc93d32bfbb57ceae46cb61e128518d1dc83d",
+    "sha_short": "dd2fc93",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T22:06:30Z",
+    "message": "Refactor: split CSS/JS out of index.html, move assets into img/, fonts/",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/dd2fc93d32bfbb57ceae46cb61e128518d1dc83d"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "new",
+    "sha": "9e6e833cfd51fba98b9b822e5a16a169673cf0e9",
+    "sha_short": "9e6e833",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T22:02:53Z",
+    "message": "Update index.html",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/9e6e833cfd51fba98b9b822e5a16a169673cf0e9"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "new",
+    "sha": "982aae61b78f38593a1aa5dde6232691ffdda77d",
+    "sha_short": "982aae6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T22:00:07Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/982aae61b78f38593a1aa5dde6232691ffdda77d"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "new",
+    "sha": "ac0bfa59d05758001cf5cf6e78c0ec86e38b65c3",
+    "sha_short": "ac0bfa5",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T21:49:04Z",
+    "message": "new palette :0",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/ac0bfa59d05758001cf5cf6e78c0ec86e38b65c3"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "new",
+    "sha": "691c10b27fcb34dfcf6bd425bca197734f895383",
+    "sha_short": "691c10b",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T21:43:38Z",
+    "message": "Update index.html",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/691c10b27fcb34dfcf6bd425bca197734f895383"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "new",
+    "sha": "f434ca98c5ae1a15248582033516bea30a687ed2",
+    "sha_short": "f434ca9",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T21:41:44Z",
+    "message": "Update index.html",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/f434ca98c5ae1a15248582033516bea30a687ed2"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "new",
+    "sha": "8864a2f35f3551cc1209fd96151b8373df01160a",
+    "sha_short": "8864a2f",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T21:40:59Z",
+    "message": "Update and rename readme.md to readme.txt",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/8864a2f35f3551cc1209fd96151b8373df01160a"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "new",
+    "sha": "e07cb17dc90152c120daa3785996ccb258bafce2",
+    "sha_short": "e07cb17",
+    "author": "Pato (new acc)",
+    "date": "2026-08-12T16:08:52Z",
+    "message": "full screen car",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e07cb17dc90152c120daa3785996ccb258bafce2"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "new",
+    "sha": "14ded868c36f7260c5c95e4b06f75130ce0cf5e8",
+    "sha_short": "14ded86",
+    "author": "Pato (new acc)",
+    "date": "2026-08-12T16:03:05Z",
+    "message": "Create static.yml",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/14ded868c36f7260c5c95e4b06f75130ce0cf5e8"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "new",
+    "sha": "e0fd055e859dcba9378aefb4f4624dda73efd9c0",
+    "sha_short": "e0fd055",
+    "author": "Pato (new acc)",
+    "date": "2026-08-12T16:02:43Z",
+    "message": "Create index.html",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e0fd055e859dcba9378aefb4f4624dda73efd9c0"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "new",
+    "sha": "7ca7f2290eb2becff3915f0a0e7e77d80c670287",
+    "sha_short": "7ca7f22",
+    "author": "Pato (new acc)",
+    "date": "2026-08-12T16:02:07Z",
+    "message": "Create readme.md",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/7ca7f2290eb2becff3915f0a0e7e77d80c670287"
   },
   {
     "repo": "haxeopenflhaxeflixel-skill",
@@ -23172,6 +24222,16 @@
   {
     "repo": "quackdb",
     "branch": "main",
+    "sha": "24c2f58397bed17bb58c64e5920351942d788de5",
+    "sha_short": "24c2f58",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T18:58:40Z",
+    "message": "fixed codebase by adding remaining code",
+    "url": "https://github.com/havaianasdestruido/quackdb/commit/24c2f58397bed17bb58c64e5920351942d788de5"
+  },
+  {
+    "repo": "quackdb",
+    "branch": "main",
     "sha": "86d40a6f014768f2d7dd478774a56eb76827b86a",
     "sha_short": "86d40a6",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -23218,566 +24278,6 @@
     "date": "2026-10-03T18:50:32Z",
     "message": "Initial commit",
     "url": "https://github.com/havaianasdestruido/quackdb/commit/e97f5b63597deb65f0a902742b4e231879c5ef50"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0fd75-r2k16",
-    "sha": "2a104c133273cc655775d759af4bb1abcf434d73",
-    "sha_short": "2a104c1",
-    "author": "havaianasdestruido",
-    "date": "2026-10-02T19:35:39Z",
-    "message": "Apply review fixes to docs site and deploy workflow",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0fd75-r2k16",
-    "sha": "3770f5a54ca9ad7f4bf7639e6ec4e461205400fb",
-    "sha_short": "3770f5a",
-    "author": "havaianasdestruido",
-    "date": "2026-10-02T16:55:43Z",
-    "message": "Add full codebase documentation site (Docusaurus 3)",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0fd75-r2k16",
-    "sha": "0f63b0c3ed022ea11e7e5248e626c5dd9c80b666",
-    "sha_short": "0f63b0c",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:49:04Z",
-    "message": "Revise Extras section in README.md",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0fd75-r2k16",
-    "sha": "809a16d97a62d37745fb293479a5d8b2d6bd5172",
-    "sha_short": "809a16d",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:46:17Z",
-    "message": "images about security scanning results",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0fd75-r2k16",
-    "sha": "e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624",
-    "sha_short": "e4bb2b2",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:44:04Z",
-    "message": "Create README.txt",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0fd75-r2k16",
-    "sha": "786adea40c8dbebdddef32a16dfebb042b99b140",
-    "sha_short": "786adea",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:43:41Z",
-    "message": "Create README.txt",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0fd75-r2k16",
-    "sha": "0a3caf7be83adad1b0b2ada14a594c669f6ce33f",
-    "sha_short": "0a3caf7",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:39:47Z",
-    "message": "-DCMAKE_POLICY_VERSION_MINIMUM=3.5",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/0a3caf7be83adad1b0b2ada14a594c669f6ce33f"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0fd75-r2k16",
-    "sha": "317de816dd1ea8c185997450ec36940146845752",
-    "sha_short": "317de81",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:37:45Z",
-    "message": "Delete .github/workflows/trivy.yml",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/317de816dd1ea8c185997450ec36940146845752"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0fd75-r2k16",
-    "sha": "9a1578b3b3ba94c98fad32b7750e12e6eeb73ad4",
-    "sha_short": "9a1578b",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:30:12Z",
-    "message": "Create sync.yml",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/9a1578b3b3ba94c98fad32b7750e12e6eeb73ad4"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0fd75-r2k16",
-    "sha": "04843e46bf705ae80b34a7053efe06173eae66f0",
-    "sha_short": "04843e4",
-    "author": "Pato (new acc)",
-    "date": "2026-09-17T13:03:21Z",
-    "message": "Enhance README with search tips and PR instructions",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/04843e46bf705ae80b34a7053efe06173eae66f0"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0ff4f-r2k16",
-    "sha": "0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0",
-    "sha_short": "0659d3d",
-    "author": "havaianasdestruido",
-    "date": "2026-10-03T12:43:39Z",
-    "message": "Split website: Jekyll primary page at /, Docusaurus docs at /docs",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0ff4f-r2k16",
-    "sha": "a14bf7882b8b25e12814f5da9640375969f12e4a",
-    "sha_short": "a14bf78",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-02T19:36:53Z",
-    "message": "Merge pull request #3 from havaianasdestruido/arena/01a0fd75-r2k16",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/a14bf7882b8b25e12814f5da9640375969f12e4a"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0ff4f-r2k16",
-    "sha": "2a104c133273cc655775d759af4bb1abcf434d73",
-    "sha_short": "2a104c1",
-    "author": "havaianasdestruido",
-    "date": "2026-10-02T19:35:39Z",
-    "message": "Apply review fixes to docs site and deploy workflow",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0ff4f-r2k16",
-    "sha": "3770f5a54ca9ad7f4bf7639e6ec4e461205400fb",
-    "sha_short": "3770f5a",
-    "author": "havaianasdestruido",
-    "date": "2026-10-02T16:55:43Z",
-    "message": "Add full codebase documentation site (Docusaurus 3)",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0ff4f-r2k16",
-    "sha": "0f63b0c3ed022ea11e7e5248e626c5dd9c80b666",
-    "sha_short": "0f63b0c",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:49:04Z",
-    "message": "Revise Extras section in README.md",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0ff4f-r2k16",
-    "sha": "809a16d97a62d37745fb293479a5d8b2d6bd5172",
-    "sha_short": "809a16d",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:46:17Z",
-    "message": "images about security scanning results",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0ff4f-r2k16",
-    "sha": "e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624",
-    "sha_short": "e4bb2b2",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:44:04Z",
-    "message": "Create README.txt",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0ff4f-r2k16",
-    "sha": "786adea40c8dbebdddef32a16dfebb042b99b140",
-    "sha_short": "786adea",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:43:41Z",
-    "message": "Create README.txt",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0ff4f-r2k16",
-    "sha": "0a3caf7be83adad1b0b2ada14a594c669f6ce33f",
-    "sha_short": "0a3caf7",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:39:47Z",
-    "message": "-DCMAKE_POLICY_VERSION_MINIMUM=3.5",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/0a3caf7be83adad1b0b2ada14a594c669f6ce33f"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0ff4f-r2k16",
-    "sha": "317de816dd1ea8c185997450ec36940146845752",
-    "sha_short": "317de81",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:37:45Z",
-    "message": "Delete .github/workflows/trivy.yml",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/317de816dd1ea8c185997450ec36940146845752"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a0ff4f-r2k16",
-    "sha": "2b621be4c91a2253b7123960bd517382da8e6ca1",
-    "sha_short": "2b621be",
-    "author": "UltimateQuack",
-    "date": "2024-12-19T15:35:00Z",
-    "message": "Initial commit",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/2b621be4c91a2253b7123960bd517382da8e6ca1"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a10307-r2k16",
-    "sha": "a51d8a137fb67314ebea6734e530f99ea1813b14",
-    "sha_short": "a51d8a1",
-    "author": "Arena Agent",
-    "date": "2026-10-03T18:31:46Z",
-    "message": "ci(pages): fix 'Permission denied' when mounting docs under _site/docs",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/a51d8a137fb67314ebea6734e530f99ea1813b14"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a10307-r2k16",
-    "sha": "e38de88218960d322afbcd497e8fa7aaf1d492b1",
-    "sha_short": "e38de88",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-03T14:32:47Z",
-    "message": "Merge pull request #4 from havaianasdestruido/arena/01a0ff4f-r2k16",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/e38de88218960d322afbcd497e8fa7aaf1d492b1"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a10307-r2k16",
-    "sha": "0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0",
-    "sha_short": "0659d3d",
-    "author": "havaianasdestruido",
-    "date": "2026-10-03T12:43:39Z",
-    "message": "Split website: Jekyll primary page at /, Docusaurus docs at /docs",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a10307-r2k16",
-    "sha": "a14bf7882b8b25e12814f5da9640375969f12e4a",
-    "sha_short": "a14bf78",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-02T19:36:53Z",
-    "message": "Merge pull request #3 from havaianasdestruido/arena/01a0fd75-r2k16",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/a14bf7882b8b25e12814f5da9640375969f12e4a"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a10307-r2k16",
-    "sha": "2a104c133273cc655775d759af4bb1abcf434d73",
-    "sha_short": "2a104c1",
-    "author": "havaianasdestruido",
-    "date": "2026-10-02T19:35:39Z",
-    "message": "Apply review fixes to docs site and deploy workflow",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a10307-r2k16",
-    "sha": "3770f5a54ca9ad7f4bf7639e6ec4e461205400fb",
-    "sha_short": "3770f5a",
-    "author": "havaianasdestruido",
-    "date": "2026-10-02T16:55:43Z",
-    "message": "Add full codebase documentation site (Docusaurus 3)",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a10307-r2k16",
-    "sha": "0f63b0c3ed022ea11e7e5248e626c5dd9c80b666",
-    "sha_short": "0f63b0c",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:49:04Z",
-    "message": "Revise Extras section in README.md",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a10307-r2k16",
-    "sha": "809a16d97a62d37745fb293479a5d8b2d6bd5172",
-    "sha_short": "809a16d",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:46:17Z",
-    "message": "images about security scanning results",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a10307-r2k16",
-    "sha": "e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624",
-    "sha_short": "e4bb2b2",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:44:04Z",
-    "message": "Create README.txt",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a10307-r2k16",
-    "sha": "786adea40c8dbebdddef32a16dfebb042b99b140",
-    "sha_short": "786adea",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:43:41Z",
-    "message": "Create README.txt",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a10307-r2k16",
-    "sha": "dd0298aee99bff9edd85298e6482ba767a045283",
-    "sha_short": "dd0298a",
-    "author": "ImgBotApp",
-    "date": "2024-12-19T17:49:16Z",
-    "message": "[ImgBot] Optimize images",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/dd0298aee99bff9edd85298e6482ba767a045283"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a10307-r2k16",
-    "sha": "05db15d61050dd4a972636202cb613043ad4a9c0",
-    "sha_short": "05db15d",
-    "author": "PatoFlamejanteTV",
-    "date": "2024-12-19T16:11:40Z",
-    "message": "full source code",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/05db15d61050dd4a972636202cb613043ad4a9c0"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "arena/01a10307-r2k16",
-    "sha": "2b621be4c91a2253b7123960bd517382da8e6ca1",
-    "sha_short": "2b621be",
-    "author": "UltimateQuack",
-    "date": "2024-12-19T15:35:00Z",
-    "message": "Initial commit",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/2b621be4c91a2253b7123960bd517382da8e6ca1"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
-    "sha": "d7f519da3b8d2c4b6b201c655273292229b4619d",
-    "sha_short": "d7f519d",
-    "author": "dependabot[bot]",
-    "date": "2026-09-20T15:33:32Z",
-    "message": "Bump the npm_and_yarn group across 2 directories with 3 updates",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/d7f519da3b8d2c4b6b201c655273292229b4619d"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
-    "sha": "9a1578b3b3ba94c98fad32b7750e12e6eeb73ad4",
-    "sha_short": "9a1578b",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:30:12Z",
-    "message": "Create sync.yml",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/9a1578b3b3ba94c98fad32b7750e12e6eeb73ad4"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
-    "sha": "04843e46bf705ae80b34a7053efe06173eae66f0",
-    "sha_short": "04843e4",
-    "author": "Pato (new acc)",
-    "date": "2026-09-17T13:03:21Z",
-    "message": "Enhance README with search tips and PR instructions",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/04843e46bf705ae80b34a7053efe06173eae66f0"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
-    "sha": "412ab4905bf3e5c8315eabaa03698485535d5973",
-    "sha_short": "412ab49",
-    "author": "Pato (new acc)",
-    "date": "2026-09-15T18:35:42Z",
-    "message": "Create scorecard.yml",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/412ab4905bf3e5c8315eabaa03698485535d5973"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
-    "sha": "bd22abb13f05c8741c5b5a9168d7e5f9d58eb831",
-    "sha_short": "bd22abb",
-    "author": "Pato (new acc)",
-    "date": "2026-09-15T18:35:33Z",
-    "message": "Create trivy.yml",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/bd22abb13f05c8741c5b5a9168d7e5f9d58eb831"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
-    "sha": "46bba0bbad6c4729a397e70a7ead76dfedd75326",
-    "sha_short": "46bba0b",
-    "author": "Pato (new acc)",
-    "date": "2026-09-15T18:35:23Z",
-    "message": "Create semgrep.yml",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/46bba0bbad6c4729a397e70a7ead76dfedd75326"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
-    "sha": "864de3b3c6acbc318ca23c1b96ae73232a33a4fb",
-    "sha_short": "864de3b",
-    "author": "Pato (new acc)",
-    "date": "2026-09-15T18:35:09Z",
-    "message": "Create osv-scanner.yml",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/864de3b3c6acbc318ca23c1b96ae73232a33a4fb"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
-    "sha": "eadb785b1eb98eedcdd7255de3d0f4d602a47289",
-    "sha_short": "eadb785",
-    "author": "Pato (new acc)",
-    "date": "2026-09-15T18:34:00Z",
-    "message": "Create msvc.yml",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/eadb785b1eb98eedcdd7255de3d0f4d602a47289"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
-    "sha": "12485510185848deae9179973b0df3c9ef5f6cc3",
-    "sha_short": "1248551",
-    "author": "Pato (new acc)",
-    "date": "2026-09-15T18:24:51Z",
-    "message": "Delete .github/workflows/build.yml",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/12485510185848deae9179973b0df3c9ef5f6cc3"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
-    "sha": "65d06ee027294a5aa256b813f5fe3377652e2f17",
-    "sha_short": "65d06ee",
-    "author": "Pato (new acc)",
-    "date": "2026-09-15T18:13:39Z",
-    "message": "added manual triggering",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/65d06ee027294a5aa256b813f5fe3377652e2f17"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "main",
-    "sha": "e38de88218960d322afbcd497e8fa7aaf1d492b1",
-    "sha_short": "e38de88",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-03T14:32:47Z",
-    "message": "Merge pull request #4 from havaianasdestruido/arena/01a0ff4f-r2k16",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/e38de88218960d322afbcd497e8fa7aaf1d492b1"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "main",
-    "sha": "0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0",
-    "sha_short": "0659d3d",
-    "author": "havaianasdestruido",
-    "date": "2026-10-03T12:43:39Z",
-    "message": "Split website: Jekyll primary page at /, Docusaurus docs at /docs",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "main",
-    "sha": "a14bf7882b8b25e12814f5da9640375969f12e4a",
-    "sha_short": "a14bf78",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-02T19:36:53Z",
-    "message": "Merge pull request #3 from havaianasdestruido/arena/01a0fd75-r2k16",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/a14bf7882b8b25e12814f5da9640375969f12e4a"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "main",
-    "sha": "2a104c133273cc655775d759af4bb1abcf434d73",
-    "sha_short": "2a104c1",
-    "author": "havaianasdestruido",
-    "date": "2026-10-02T19:35:39Z",
-    "message": "Apply review fixes to docs site and deploy workflow",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "main",
-    "sha": "3770f5a54ca9ad7f4bf7639e6ec4e461205400fb",
-    "sha_short": "3770f5a",
-    "author": "havaianasdestruido",
-    "date": "2026-10-02T16:55:43Z",
-    "message": "Add full codebase documentation site (Docusaurus 3)",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "main",
-    "sha": "0f63b0c3ed022ea11e7e5248e626c5dd9c80b666",
-    "sha_short": "0f63b0c",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:49:04Z",
-    "message": "Revise Extras section in README.md",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "main",
-    "sha": "809a16d97a62d37745fb293479a5d8b2d6bd5172",
-    "sha_short": "809a16d",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:46:17Z",
-    "message": "images about security scanning results",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "main",
-    "sha": "e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624",
-    "sha_short": "e4bb2b2",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:44:04Z",
-    "message": "Create README.txt",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "main",
-    "sha": "786adea40c8dbebdddef32a16dfebb042b99b140",
-    "sha_short": "786adea",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:43:41Z",
-    "message": "Create README.txt",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "main",
-    "sha": "0a3caf7be83adad1b0b2ada14a594c669f6ce33f",
-    "sha_short": "0a3caf7",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:39:47Z",
-    "message": "-DCMAKE_POLICY_VERSION_MINIMUM=3.5",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/0a3caf7be83adad1b0b2ada14a594c669f6ce33f"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "main",
-    "sha": "05db15d61050dd4a972636202cb613043ad4a9c0",
-    "sha_short": "05db15d",
-    "author": "PatoFlamejanteTV",
-    "date": "2024-12-19T16:11:40Z",
-    "message": "full source code",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/05db15d61050dd4a972636202cb613043ad4a9c0"
-  },
-  {
-    "repo": "R2K16",
-    "branch": "main",
-    "sha": "2b621be4c91a2253b7123960bd517382da8e6ca1",
-    "sha_short": "2b621be",
-    "author": "UltimateQuack",
-    "date": "2024-12-19T15:35:00Z",
-    "message": "Initial commit",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/2b621be4c91a2253b7123960bd517382da8e6ca1"
   },
   {
     "repo": "Rbx2Source-enhanced",

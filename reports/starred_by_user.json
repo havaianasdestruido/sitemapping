@@ -1,5 +1,10 @@
 [
   {
+    "full_name": "duckdb/duckdb-wasm",
+    "url": "https://github.com/duckdb/duckdb-wasm",
+    "description": "WebAssembly version of DuckDB"
+  },
+  {
     "full_name": "Kizoky/p2unrealscript",
     "url": "https://github.com/Kizoky/p2unrealscript",
     "description": "Postal 2 UnrealScript source"

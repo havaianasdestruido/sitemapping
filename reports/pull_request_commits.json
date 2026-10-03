@@ -576,6 +576,46 @@
     "url": "https://github.com/havaianasdestruido/pong-pop/commit/ebce1a99b0c8c9c21ffd5527c3b589af2b134f73"
   },
   {
+    "repo": "R2K16",
+    "pr_number": 2,
+    "sha": "d7f519da3b8d2c4b6b201c655273292229b4619d",
+    "sha_short": "d7f519d",
+    "message": "Bump the npm_and_yarn group across 2 directories with 3 updates",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/d7f519da3b8d2c4b6b201c655273292229b4619d"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 4,
+    "sha": "0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0",
+    "sha_short": "0659d3d",
+    "message": "Split website: Jekyll primary page at /, Docusaurus docs at /docs",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 3,
+    "sha": "3770f5a54ca9ad7f4bf7639e6ec4e461205400fb",
+    "sha_short": "3770f5a",
+    "message": "Add full codebase documentation site (Docusaurus 3)",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 3,
+    "sha": "2a104c133273cc655775d759af4bb1abcf434d73",
+    "sha_short": "2a104c1",
+    "message": "Apply review fixes to docs site and deploy workflow",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 1,
+    "sha": "7868b756bd7dc1cdcfe5292e0025046d640bdede",
+    "sha_short": "7868b75",
+    "message": "Bump the npm_and_yarn group across 2 directories with 3 updates",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/7868b756bd7dc1cdcfe5292e0025046d640bdede"
+  },
+  {
     "repo": "top100",
     "pr_number": 1,
     "sha": "e3147393b4141b1d00ec9087e94d922160b0f150",
@@ -1097,6 +1137,38 @@
   },
   {
     "repo": "Giggles-Shit",
+    "pr_number": 4,
+    "sha": "548d50eddb3166d9c5c2ac8a3cd5164f0e5bdc21",
+    "sha_short": "548d50e",
+    "message": "Add hmm, wet, woah, yeah to DEFAULT_GAS and update docs",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/548d50eddb3166d9c5c2ac8a3cd5164f0e5bdc21"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "pr_number": 4,
+    "sha": "be51c1a8d4ff992d1d49b93e4b2be24c5f3701db",
+    "sha_short": "be51c1a",
+    "message": "Merge main (new emoji uploads)",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/be51c1a8d4ff992d1d49b93e4b2be24c5f3701db"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "pr_number": 4,
+    "sha": "d2281d4062c82c2b5402e6ab106acc97100e54fb",
+    "sha_short": "d2281d4",
+    "message": "Add 84, boo and fire emoji to DEFAULT_GAS and docs",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/d2281d4062c82c2b5402e6ab106acc97100e54fb"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "pr_number": 3,
+    "sha": "887802fa23e97cf9e2a5c530ccc983519a895e1f",
+    "sha_short": "887802f",
+    "message": "Add gist.github.com support",
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/commit/887802fa23e97cf9e2a5c530ccc983519a895e1f"
+  },
+  {
+    "repo": "Giggles-Shit",
     "pr_number": 2,
     "sha": "8b988ac8819c27062dd1aab26d4d8c64a74bae2b",
     "sha_short": "8b988ac",
@@ -1150,6 +1222,46 @@
     "sha_short": "7b5cb88",
     "message": "docs: add Git installation tutorials for OS platforms",
     "url": "https://github.com/havaianasdestruido/gitgithub/commit/7b5cb88ce47a6367a08c9edcfa140e6c9022d068"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "pr_number": 4,
+    "sha": "ac40421a74c1a40a913c58b2acbf88d3e58db667",
+    "sha_short": "ac40421",
+    "message": "Add IE11 compatibility fallbacks",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/ac40421a74c1a40a913c58b2acbf88d3e58db667"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "pr_number": 4,
+    "sha": "e51b90aae34d6d96d18f7e78a7e63d6e362f9eb4",
+    "sha_short": "e51b90a",
+    "message": "Address font loading and dialog sizing review",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e51b90aae34d6d96d18f7e78a7e63d6e362f9eb4"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "pr_number": 3,
+    "sha": "f4b57d85304ead3df07e05af1a979aa811774cea",
+    "sha_short": "f4b57d8",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/f4b57d85304ead3df07e05af1a979aa811774cea"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "pr_number": 2,
+    "sha": "dd2fc93d32bfbb57ceae46cb61e128518d1dc83d",
+    "sha_short": "dd2fc93",
+    "message": "Refactor: split CSS/JS out of index.html, move assets into img/, fonts/",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/dd2fc93d32bfbb57ceae46cb61e128518d1dc83d"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "pr_number": 1,
+    "sha": "56e00a93cf6a687245159cc63b09c106fe7270bb",
+    "sha_short": "56e00a9",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/56e00a93cf6a687245159cc63b09c106fe7270bb"
   },
   {
     "repo": "KaukaMed",
@@ -1670,46 +1782,6 @@
     "sha_short": "9dd9328",
     "message": "[ImgBot] Optimize images",
     "url": "https://github.com/havaianasdestruido/Quack3DMM/commit/9dd932827b3a2b121581b6d46db4e2f22af36b0d"
-  },
-  {
-    "repo": "R2K16",
-    "pr_number": 2,
-    "sha": "d7f519da3b8d2c4b6b201c655273292229b4619d",
-    "sha_short": "d7f519d",
-    "message": "Bump the npm_and_yarn group across 2 directories with 3 updates",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/d7f519da3b8d2c4b6b201c655273292229b4619d"
-  },
-  {
-    "repo": "R2K16",
-    "pr_number": 4,
-    "sha": "0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0",
-    "sha_short": "0659d3d",
-    "message": "Split website: Jekyll primary page at /, Docusaurus docs at /docs",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0"
-  },
-  {
-    "repo": "R2K16",
-    "pr_number": 3,
-    "sha": "3770f5a54ca9ad7f4bf7639e6ec4e461205400fb",
-    "sha_short": "3770f5a",
-    "message": "Add full codebase documentation site (Docusaurus 3)",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb"
-  },
-  {
-    "repo": "R2K16",
-    "pr_number": 3,
-    "sha": "2a104c133273cc655775d759af4bb1abcf434d73",
-    "sha_short": "2a104c1",
-    "message": "Apply review fixes to docs site and deploy workflow",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73"
-  },
-  {
-    "repo": "R2K16",
-    "pr_number": 1,
-    "sha": "7868b756bd7dc1cdcfe5292e0025046d640bdede",
-    "sha_short": "7868b75",
-    "message": "Bump the npm_and_yarn group across 2 directories with 3 updates",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/7868b756bd7dc1cdcfe5292e0025046d640bdede"
   },
   {
     "repo": "Rbx2Source-enhanced",

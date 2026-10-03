@@ -222,9 +222,21 @@
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
+    "repo": "R2K16",
+    "login": "havaianasdestruido",
+    "contributions": 29,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "R2K16",
+    "login": "ImgBotApp",
+    "contributions": 1,
+    "profile_url": "https://github.com/ImgBotApp"
+  },
+  {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 71,
+    "contributions": 72,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -236,7 +248,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 79,
+    "contributions": 80,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -1088,7 +1100,7 @@
   {
     "repo": "Giggles-Shit",
     "login": "havaianasdestruido",
-    "contributions": 25,
+    "contributions": 33,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -1112,8 +1124,14 @@
   {
     "repo": "havaianasdestruido.github.io",
     "login": "havaianasdestruido",
-    "contributions": 13,
+    "contributions": 38,
     "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "login": "ImgBotApp",
+    "contributions": 1,
+    "profile_url": "https://github.com/ImgBotApp"
   },
   {
     "repo": "haxeopenflhaxeflixel-skill",
@@ -1640,20 +1658,8 @@
   {
     "repo": "quackdb",
     "login": "havaianasdestruido",
-    "contributions": 5,
+    "contributions": 6,
     "profile_url": "https://github.com/havaianasdestruido"
-  },
-  {
-    "repo": "R2K16",
-    "login": "havaianasdestruido",
-    "contributions": 29,
-    "profile_url": "https://github.com/havaianasdestruido"
-  },
-  {
-    "repo": "R2K16",
-    "login": "ImgBotApp",
-    "contributions": 1,
-    "profile_url": "https://github.com/ImgBotApp"
   },
   {
     "repo": "Rbx2Source-enhanced",

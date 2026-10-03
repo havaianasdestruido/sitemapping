@@ -1,4 +1,5 @@
 full_name,url,description
+duckdb/duckdb-wasm,https://github.com/duckdb/duckdb-wasm,WebAssembly version of DuckDB
 Kizoky/p2unrealscript,https://github.com/Kizoky/p2unrealscript,Postal 2 UnrealScript source
 RealityRipple/emoji,https://github.com/RealityRipple/emoji,"Directory of PNG Emojis from Twemoji, Openmoji, Noto, Blobmoji, Facebook, Apple, JoyPixels, Toss Face, WhatsApp, and OneUI Emoji Fonts"
 C1710/blobmoji,https://github.com/C1710/blobmoji,Noto Emoji with extended Blob support
