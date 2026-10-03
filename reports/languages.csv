@@ -22,7 +22,7 @@ pong-pop,CSS,687,7.1
 PrintSpoolerAutoRun,C++,3652,95.2
 PrintSpoolerAutoRun,Batchfile,184,4.8
 sitemapping,Python,29474,100.0
-top100,HTML,1861484,93.9
+top100,HTML,1861408,93.9
 top100,Python,115745,5.8
 top100,CSS,4402,0.2
 abnt-skill,Python,14862,100.0
@@ -36,6 +36,7 @@ BloodAndBacon-DnSpyEx,C#,11557836,100.0
 bloxNES,Lua,58862,99.8
 bloxNES,Luau,116,0.2
 brasilapidumped,Python,45827,100.0
+brnews-db,Python,80372,100.0
 BulkStarHistoryAdd,PowerShell,7191,100.0
 calculator,C#,859232,64.8
 calculator,C++,424928,32.0
@@ -68,9 +69,10 @@ ClassHub,Dockerfile,932,0.2
 ClassHub,HTML,889,0.2
 dadosabertos,Python,179496,73.8
 dadosabertos,HTML,63794,26.2
-EZInfiniteYTLive,TypeScript,8490,47.5
-EZInfiniteYTLive,C#,7795,43.6
-EZInfiniteYTLive,CSS,1576,8.8
+EZInfiniteYTLive,C#,7795,39.5
+EZInfiniteYTLive,TypeScript,5471,27.7
+EZInfiniteYTLive,CSS,5241,26.5
+EZInfiniteYTLive,HTML,1249,6.3
 face-tagger,C#,9145,100.0
 FNF-Cubes-Live-Wallpaper,Java,155602,90.9
 FNF-Cubes-Live-Wallpaper,Python,15650,9.1
@@ -168,9 +170,9 @@ Quack3DMM,CMake,30766,0.1
 Quack3DMM,Batchfile,13832,0.0
 Quack3DMM,Assembly,1887,0.0
 R2K16,C++,557213413,51.8
-R2K16,HTML,348767133,32.4
+R2K16,HTML,348770724,32.4
 R2K16,C,139874683,13.0
-R2K16,JavaScript,4025490,0.4
+R2K16,JavaScript,4020845,0.4
 R2K16,Python,3400448,0.3
 R2K16,Objective-C++,2675524,0.2
 R2K16,Objective-C,2223658,0.2
@@ -179,7 +181,7 @@ R2K16,Lua,2046924,0.2
 R2K16,Assembly,1539045,0.1
 R2K16,QML,1446093,0.1
 R2K16,Java,1401718,0.1
-R2K16,CSS,1220253,0.1
+R2K16,CSS,1224441,0.1
 R2K16,C#,905324,0.1
 R2K16,XSLT,875007,0.1
 R2K16,CMake,768823,0.1

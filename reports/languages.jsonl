@@ -21,7 +21,7 @@
 {"repo": "PrintSpoolerAutoRun", "language": "C++", "bytes": 3652, "percent": 95.2}
 {"repo": "PrintSpoolerAutoRun", "language": "Batchfile", "bytes": 184, "percent": 4.8}
 {"repo": "sitemapping", "language": "Python", "bytes": 29474, "percent": 100.0}
-{"repo": "top100", "language": "HTML", "bytes": 1861484, "percent": 93.9}
+{"repo": "top100", "language": "HTML", "bytes": 1861408, "percent": 93.9}
 {"repo": "top100", "language": "Python", "bytes": 115745, "percent": 5.8}
 {"repo": "top100", "language": "CSS", "bytes": 4402, "percent": 0.2}
 {"repo": "abnt-skill", "language": "Python", "bytes": 14862, "percent": 100.0}
@@ -35,6 +35,7 @@
 {"repo": "bloxNES", "language": "Lua", "bytes": 58862, "percent": 99.8}
 {"repo": "bloxNES", "language": "Luau", "bytes": 116, "percent": 0.2}
 {"repo": "brasilapidumped", "language": "Python", "bytes": 45827, "percent": 100.0}
+{"repo": "brnews-db", "language": "Python", "bytes": 80372, "percent": 100.0}
 {"repo": "BulkStarHistoryAdd", "language": "PowerShell", "bytes": 7191, "percent": 100.0}
 {"repo": "calculator", "language": "C#", "bytes": 859232, "percent": 64.8}
 {"repo": "calculator", "language": "C++", "bytes": 424928, "percent": 32.0}
@@ -67,9 +68,10 @@
 {"repo": "ClassHub", "language": "HTML", "bytes": 889, "percent": 0.2}
 {"repo": "dadosabertos", "language": "Python", "bytes": 179496, "percent": 73.8}
 {"repo": "dadosabertos", "language": "HTML", "bytes": 63794, "percent": 26.2}
-{"repo": "EZInfiniteYTLive", "language": "TypeScript", "bytes": 8490, "percent": 47.5}
-{"repo": "EZInfiniteYTLive", "language": "C#", "bytes": 7795, "percent": 43.6}
-{"repo": "EZInfiniteYTLive", "language": "CSS", "bytes": 1576, "percent": 8.8}
+{"repo": "EZInfiniteYTLive", "language": "C#", "bytes": 7795, "percent": 39.5}
+{"repo": "EZInfiniteYTLive", "language": "TypeScript", "bytes": 5471, "percent": 27.7}
+{"repo": "EZInfiniteYTLive", "language": "CSS", "bytes": 5241, "percent": 26.5}
+{"repo": "EZInfiniteYTLive", "language": "HTML", "bytes": 1249, "percent": 6.3}
 {"repo": "face-tagger", "language": "C#", "bytes": 9145, "percent": 100.0}
 {"repo": "FNF-Cubes-Live-Wallpaper", "language": "Java", "bytes": 155602, "percent": 90.9}
 {"repo": "FNF-Cubes-Live-Wallpaper", "language": "Python", "bytes": 15650, "percent": 9.1}
@@ -167,9 +169,9 @@
 {"repo": "Quack3DMM", "language": "Batchfile", "bytes": 13832, "percent": 0.0}
 {"repo": "Quack3DMM", "language": "Assembly", "bytes": 1887, "percent": 0.0}
 {"repo": "R2K16", "language": "C++", "bytes": 557213413, "percent": 51.8}
-{"repo": "R2K16", "language": "HTML", "bytes": 348767133, "percent": 32.4}
+{"repo": "R2K16", "language": "HTML", "bytes": 348770724, "percent": 32.4}
 {"repo": "R2K16", "language": "C", "bytes": 139874683, "percent": 13.0}
-{"repo": "R2K16", "language": "JavaScript", "bytes": 4025490, "percent": 0.4}
+{"repo": "R2K16", "language": "JavaScript", "bytes": 4020845, "percent": 0.4}
 {"repo": "R2K16", "language": "Python", "bytes": 3400448, "percent": 0.3}
 {"repo": "R2K16", "language": "Objective-C++", "bytes": 2675524, "percent": 0.2}
 {"repo": "R2K16", "language": "Objective-C", "bytes": 2223658, "percent": 0.2}
@@ -178,7 +180,7 @@
 {"repo": "R2K16", "language": "Assembly", "bytes": 1539045, "percent": 0.1}
 {"repo": "R2K16", "language": "QML", "bytes": 1446093, "percent": 0.1}
 {"repo": "R2K16", "language": "Java", "bytes": 1401718, "percent": 0.1}
-{"repo": "R2K16", "language": "CSS", "bytes": 1220253, "percent": 0.1}
+{"repo": "R2K16", "language": "CSS", "bytes": 1224441, "percent": 0.1}
 {"repo": "R2K16", "language": "C#", "bytes": 905324, "percent": 0.1}
 {"repo": "R2K16", "language": "XSLT", "bytes": 875007, "percent": 0.1}
 {"repo": "R2K16", "language": "CMake", "bytes": 768823, "percent": 0.1}

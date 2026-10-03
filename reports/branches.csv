@@ -25,8 +25,8 @@ pong-pop,codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola,796d5c1f8434666fa
 pong-pop,codex/create-pong-game-with-popup-windows,ebce1a99b0c8c9c21ffd5527c3b589af2b134f73,ebce1a9,False,https://github.com/havaianasdestruido/pong-pop/tree/codex/create-pong-game-with-popup-windows
 pong-pop,main,b990a2b0aa98f321f656e80add22ea572c0d39e6,b990a2b,True,https://github.com/havaianasdestruido/pong-pop/tree/main
 PrintSpoolerAutoRun,main,2c118e7fe1cbbbc466ae66b77302e6c53458554b,2c118e7,True,https://github.com/havaianasdestruido/PrintSpoolerAutoRun/tree/main
-sitemapping,main,2273066d0ed048a30c29c99978f1b2fb5a227bba,2273066,True,https://github.com/havaianasdestruido/sitemapping/tree/main
-top100,main,c1f147a92360dfeaf15aba5812df7b513df924ce,c1f147a,True,https://github.com/havaianasdestruido/top100/tree/main
+sitemapping,main,e09bd92a141e18ef9ee87622e1d9fb1d26c45c8d,e09bd92,True,https://github.com/havaianasdestruido/sitemapping/tree/main
+top100,main,3842d5ef2a94383f5682218a24355f1704dd5fb8,3842d5e,True,https://github.com/havaianasdestruido/top100/tree/main
 .github,main,cb5a4a05ee2f896ee7336719122283a229d3bfba,cb5a4a0,True,https://github.com/havaianasdestruido/.github/tree/main
 abnt-skill,arena/01a0ef9a-abnt-skill,a4d0723375c0d8d8c6b871f3a13f6ea507cf6752,a4d0723,False,https://github.com/havaianasdestruido/abnt-skill/tree/arena/01a0ef9a-abnt-skill
 abnt-skill,main,04dc0fdc97738b5afb8a452d8a80ff43f0cb57af,04dc0fd,True,https://github.com/havaianasdestruido/abnt-skill/tree/main
@@ -40,6 +40,8 @@ bootloader-unlock-wall-of-shame,jules-6300918527596495494-157f5121,56a64ea58aa8f
 bootloader-unlock-wall-of-shame,main,0497b9cfbcc4ae29e07990e439ff14329fab32d8,0497b9c,True,https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/tree/main
 brasilapidumped,arena/01a0e7fe-brasilapidumped,1d9201b24c43ff44f40b0fe8d1f3bfce70fea193,1d9201b,False,https://github.com/havaianasdestruido/brasilapidumped/tree/arena/01a0e7fe-brasilapidumped
 brasilapidumped,main,0fcf9ce622818a938642f7f6ae8c4222e85e239b,0fcf9ce,True,https://github.com/havaianasdestruido/brasilapidumped/tree/main
+brnews-db,arena/01a1022f-brnews-db,3f92be2e6206400b09eed20b5138dc267ebd5178,3f92be2,False,https://github.com/havaianasdestruido/brnews-db/tree/arena/01a1022f-brnews-db
+brnews-db,main,0caa1358a011ea524062d4ec30ddb6aa89cda600,0caa135,True,https://github.com/havaianasdestruido/brnews-db/tree/main
 BulkStarHistoryAdd,imgbot,0cdc36dad5cb32be088ac6afa40f2c6e8cb4ae01,0cdc36d,False,https://github.com/havaianasdestruido/BulkStarHistoryAdd/tree/imgbot
 BulkStarHistoryAdd,main,2c24aec3fb09c2d9f950b99a10ecb93a5140a85a,2c24aec,True,https://github.com/havaianasdestruido/BulkStarHistoryAdd/tree/main
 calculator,uno,8283b45e91c9415c51f56954807a8bb4d488c0cb,8283b45,True,https://github.com/havaianasdestruido/calculator/tree/uno
@@ -56,7 +58,9 @@ dadosabertos,main,78a56cf2217e2c5a072ebaef7319ac63877491c2,78a56cf,True,https://
 EleLab_v2,master,9306cddca1e8b6b14c4f6a4f572579d2eedd44df,9306cdd,True,https://github.com/havaianasdestruido/EleLab_v2/tree/master
 EZInfiniteYTLive,arena/01a0fd78-ezinfiniteytlive,299b72a11732fe88043029d28ce3634c6be31bb3,299b72a,False,https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/arena/01a0fd78-ezinfiniteytlive
 EZInfiniteYTLive,arena/01a0ff49-ezinfiniteytlive,7a2a38902fcdabbe75a20ddf48196c9548d5cf5f,7a2a389,False,https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/arena/01a0ff49-ezinfiniteytlive
-EZInfiniteYTLive,main,2e815d72016104e11b9ee299c47d81429463d393,2e815d7,True,https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/main
+EZInfiniteYTLive,arena/01a101a6-ezinfiniteytlive,a57d0051bd3912c13b7474ba5648ed0450013c5f,a57d005,False,https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/arena/01a101a6-ezinfiniteytlive
+EZInfiniteYTLive,arena/01a101b9-ezinfiniteytlive,7f4ff32dff6fd310ae26c733979d0e89008f0fd8,7f4ff32,False,https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/arena/01a101b9-ezinfiniteytlive
+EZInfiniteYTLive,main,088c37c8d6c0d8a23c5d791f2521ae2693c14d50,088c37c,True,https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/main
 face-tagger,master,1c3524a90fce408829099935620740164c1dae65,1c3524a,True,https://github.com/havaianasdestruido/face-tagger/tree/master
 FNF-Cubes-Live-Wallpaper,arena/01a0e5b4-fnf-cubes-live-wallpaper,94b2b4ec1d5fa75a25b43b95b0c3137160113422,94b2b4e,False,https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/tree/arena/01a0e5b4-fnf-cubes-live-wallpaper
 FNF-Cubes-Live-Wallpaper,arena/01a0e58e-fnf-cubes-live-wallpaper,fde547ed5c1757e2de1596be79248126078420bd,fde547e,False,https://github.com/havaianasdestruido/FNF-Cubes-Live-Wallpaper/tree/arena/01a0e58e-fnf-cubes-live-wallpaper
@@ -71,6 +75,7 @@ g1,arena/01a0e805-g1,32dafde694e374755166647d12f8882665b8b2cc,32dafde,False,http
 g1,main,2ac2a514966f7b9d337fc88454a03df003429d8b,2ac2a51,True,https://github.com/havaianasdestruido/g1/tree/main
 gh-pages,main,f53c60da7d0a6398d6253ed0069ff382d6959d85,f53c60d,True,https://github.com/havaianasdestruido/gh-pages/tree/main
 GH7zMAGNET,main,5c242878b27478c3b8923c39ab10e56c3178875a,5c24287,True,https://github.com/havaianasdestruido/GH7zMAGNET/tree/main
+Giggles-Shit,arena/01a10230-giggles-shit,8b988ac8819c27062dd1aab26d4d8c64a74bae2b,8b988ac,False,https://github.com/havaianasdestruido/Giggles-Shit/tree/arena/01a10230-giggles-shit
 Giggles-Shit,imgbot,021ad06817d7142043b7ce2bc4eafe25e2439f49,021ad06,False,https://github.com/havaianasdestruido/Giggles-Shit/tree/imgbot
 Giggles-Shit,main,06a2e97f987847aca1edd465452d2142863bc0dd,06a2e97,True,https://github.com/havaianasdestruido/Giggles-Shit/tree/main
 gitgithub,add-git-installation-tutorials-17541894421943877497,7b5cb88ce47a6367a08c9edcfa140e6c9022d068,7b5cb88,False,https://github.com/havaianasdestruido/gitgithub/tree/add-git-installation-tutorials-17541894421943877497
@@ -90,6 +95,7 @@ KaukaMed,arena/01a0d488-kaukamed,0d7603161b8e5104d1d6779f7a3145e10bb10b29,0d7603
 KaukaMed,arena/01a0ee6c-kaukamed,aeed028f6dae5f527abc703ac09670243a075972,aeed028,False,https://github.com/havaianasdestruido/KaukaMed/tree/arena/01a0ee6c-kaukamed
 KaukaMed,arena/01a0fd76-kaukamed,f89552cf6560008cbd9dc30efb42b286f2c7a4db,f89552c,False,https://github.com/havaianasdestruido/KaukaMed/tree/arena/01a0fd76-kaukamed
 KaukaMed,main,416ff1d050cd4fe453d7a6b689423fb47ab08844,416ff1d,True,https://github.com/havaianasdestruido/KaukaMed/tree/main
+manimce-claude,arena/01a10233-manimce-claude,7c89e73ebd2f8d3917f7a6b9f40f571da93bb97a,7c89e73,False,https://github.com/havaianasdestruido/manimce-claude/tree/arena/01a10233-manimce-claude
 manimce-claude,main,a2acf4488dda41177d6bbd7dfed96d3e2da9231d,a2acf44,True,https://github.com/havaianasdestruido/manimce-claude/tree/main
 MeatyMod,main,8213f37801827a8495c3b218d318ebd22cfd42a5,8213f37,True,https://github.com/havaianasdestruido/MeatyMod/tree/main
 mediapublisher,master,d1047f7e77deaa862969a34fe6c5d3841796dd42,d1047f7,True,https://github.com/havaianasdestruido/mediapublisher/tree/master
@@ -128,11 +134,13 @@ pm-claude-skills-opencode,claude/admiring-cori-murZN,7f9331f5b44e3a9d661ebcc2440
 pm-claude-skills-opencode,claude/artifact-studio,04516e6e906961d10cf8949f4da48a0c12b3cdfa,04516e6,False,https://github.com/havaianasdestruido/pm-claude-skills-opencode/tree/claude/artifact-studio
 pm-claude-skills-opencode,claude/beyond-document,a569a4bd5fb1e8138b844c80d9a3c47488f06dd4,a569a4b,False,https://github.com/havaianasdestruido/pm-claude-skills-opencode/tree/claude/beyond-document
 pm-claude-skills-opencode,claude/brainstorm-skills-features,685a2f8febc2f7d08617c82447277ee102b54bed,685a2f8,False,https://github.com/havaianasdestruido/pm-claude-skills-opencode/tree/claude/brainstorm-skills-features
+PWSV,arena/01a10230-pwsv,39bc78940d72d4881cc90a9d8ee2e8d12bce776d,39bc789,False,https://github.com/havaianasdestruido/PWSV/tree/arena/01a10230-pwsv
 PWSV,main,1b2937c9cf0e0f6984b94eb1722fd26fb426199f,1b2937c,True,https://github.com/havaianasdestruido/PWSV/tree/main
 Quack3DMM,main,d306a9b926cd37905288ad89ec7d5fdc3521f13f,d306a9b,True,https://github.com/havaianasdestruido/Quack3DMM/tree/main
 R2K16,arena/01a0fd75-r2k16,2a104c133273cc655775d759af4bb1abcf434d73,2a104c1,False,https://github.com/havaianasdestruido/R2K16/tree/arena/01a0fd75-r2k16
+R2K16,arena/01a0ff4f-r2k16,0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0,0659d3d,False,https://github.com/havaianasdestruido/R2K16/tree/arena/01a0ff4f-r2k16
 R2K16,dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece,d7f519da3b8d2c4b6b201c655273292229b4619d,d7f519d,False,https://github.com/havaianasdestruido/R2K16/tree/dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece
-R2K16,main,a14bf7882b8b25e12814f5da9640375969f12e4a,a14bf78,True,https://github.com/havaianasdestruido/R2K16/tree/main
+R2K16,main,e38de88218960d322afbcd497e8fa7aaf1d492b1,e38de88,True,https://github.com/havaianasdestruido/R2K16/tree/main
 Rbx2Source-enhanced,experimental,59424a8234b5e3f51443c82b3f3242557fbdb30c,59424a8,True,https://github.com/havaianasdestruido/Rbx2Source-enhanced/tree/experimental
 RoBrowser,main,63ad22bfaec49d61e93e0322fdacffd20abd50f2,63ad22b,True,https://github.com/havaianasdestruido/RoBrowser/tree/main
 scrobbleviz,master,ef6509ac4fd50560a52fb9f26ece45cf93004836,ef6509a,True,https://github.com/havaianasdestruido/scrobbleviz/tree/master

@@ -640,6 +640,54 @@
     "url": "https://github.com/havaianasdestruido/brasilapidumped/commit/1d9201b24c43ff44f40b0fe8d1f3bfce70fea193"
   },
   {
+    "repo": "brnews-db",
+    "pr_number": 2,
+    "sha": "3f92be2e6206400b09eed20b5138dc267ebd5178",
+    "sha_short": "3f92be2",
+    "message": "docs: site Jekyll (raiz) + documentação Docusaurus em /docs",
+    "url": "https://github.com/havaianasdestruido/brnews-db/commit/3f92be2e6206400b09eed20b5138dc267ebd5178"
+  },
+  {
+    "repo": "brnews-db",
+    "pr_number": 1,
+    "sha": "bb5b59725a933780de4845eb83377b64e25eb8be",
+    "sha_short": "bb5b597",
+    "message": "Coleta semanal de notícias via GitHub Actions (JSONL append-only)",
+    "url": "https://github.com/havaianasdestruido/brnews-db/commit/bb5b59725a933780de4845eb83377b64e25eb8be"
+  },
+  {
+    "repo": "brnews-db",
+    "pr_number": 1,
+    "sha": "820f043a9b8597e6ad7e6ffbf1e7303e58066285",
+    "sha_short": "820f043",
+    "message": "CI: testes offline e coleta de amostra (dry-run) a cada push/PR",
+    "url": "https://github.com/havaianasdestruido/brnews-db/commit/820f043a9b8597e6ad7e6ffbf1e7303e58066285"
+  },
+  {
+    "repo": "brnews-db",
+    "pr_number": 1,
+    "sha": "39821601cdbeb7c864ade8e7d5ed5dfe62813fb8",
+    "sha_short": "3982160",
+    "message": "Coletor: anotações (::notice/::warning) com o resultado da coleta no Actions",
+    "url": "https://github.com/havaianasdestruido/brnews-db/commit/39821601cdbeb7c864ade8e7d5ed5dfe62813fb8"
+  },
+  {
+    "repo": "brnews-db",
+    "pr_number": 1,
+    "sha": "fa188c84eb3525dca77aef702c39e6bae1005565",
+    "sha_short": "fa188c8",
+    "message": "temp: validar todos os feeds na amostra de CI",
+    "url": "https://github.com/havaianasdestruido/brnews-db/commit/fa188c84eb3525dca77aef702c39e6bae1005565"
+  },
+  {
+    "repo": "brnews-db",
+    "pr_number": 1,
+    "sha": "9c81e7681eb14d157028c945bca3582f72239ea2",
+    "sha_short": "9c81e76",
+    "message": "Fetcher: alterna User-Agent (navegador/leitor RSS), envia Referer e corrige espelhos",
+    "url": "https://github.com/havaianasdestruido/brnews-db/commit/9c81e7681eb14d157028c945bca3582f72239ea2"
+  },
+  {
     "repo": "BulkStarHistoryAdd",
     "pr_number": 1,
     "sha": "0cdc36dad5cb32be088ac6afa40f2c6e8cb4ae01",
@@ -838,6 +886,14 @@
     "sha_short": "c686cce",
     "message": "review fixes: budget double-charge, index-page containment, config defaults",
     "url": "https://github.com/havaianasdestruido/dadosabertos/commit/c686ccee266ca87958addf7d35d6c5cf16ac9f11"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "pr_number": 3,
+    "sha": "a57d0051bd3912c13b7474ba5648ed0450013c5f",
+    "sha_short": "a57d005",
+    "message": "Fix Pages deploy: restore ownership of root-owned _site before publishing /docs",
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/a57d0051bd3912c13b7474ba5648ed0450013c5f"
   },
   {
     "repo": "EZInfiniteYTLive",
@@ -1134,6 +1190,14 @@
     "sha_short": "7d30615",
     "message": "chore(docker): adiciona Docker Compose com PostgreSQL e Redis para dev local",
     "url": "https://github.com/havaianasdestruido/KaukaMed/commit/7d306155d5da9b37dab4b57f476cd8deee096807"
+  },
+  {
+    "repo": "manimce-claude",
+    "pr_number": 1,
+    "sha": "7c89e73ebd2f8d3917f7a6b9f40f571da93bb97a",
+    "sha_short": "7c89e73",
+    "message": "Add Jekyll site and Docusaurus documentation",
+    "url": "https://github.com/havaianasdestruido/manimce-claude/commit/7c89e73ebd2f8d3917f7a6b9f40f571da93bb97a"
   },
   {
     "repo": "Neo-Order-project",
@@ -1456,6 +1520,14 @@
     "url": "https://github.com/havaianasdestruido/PhonkHub/commit/1157448635d2332673f45483671e2cab1c95f135"
   },
   {
+    "repo": "PWSV",
+    "pr_number": 1,
+    "sha": "39bc78940d72d4881cc90a9d8ee2e8d12bce776d",
+    "sha_short": "39bc789",
+    "message": "Implement full codebase documentation with Docusaurus and Jekyll",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/39bc78940d72d4881cc90a9d8ee2e8d12bce776d"
+  },
+  {
     "repo": "Quack3DMM",
     "pr_number": 1,
     "sha": "9dd932827b3a2b121581b6d46db4e2f22af36b0d",
@@ -1470,6 +1542,14 @@
     "sha_short": "d7f519d",
     "message": "Bump the npm_and_yarn group across 2 directories with 3 updates",
     "url": "https://github.com/havaianasdestruido/R2K16/commit/d7f519da3b8d2c4b6b201c655273292229b4619d"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 4,
+    "sha": "0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0",
+    "sha_short": "0659d3d",
+    "message": "Split website: Jekyll primary page at /, Docusaurus docs at /docs",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0"
   },
   {
     "repo": "R2K16",

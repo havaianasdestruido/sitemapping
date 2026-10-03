@@ -546,6 +546,32 @@
     "url": "https://github.com/havaianasdestruido/brasilapidumped/pull/1"
   },
   {
+    "repo": "brnews-db",
+    "state": "open",
+    "status": "open",
+    "number": 2,
+    "title": "docs: site Jekyll (raiz) + documentação Docusaurus em /docs",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-03T14:54:52Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a1022f-brnews-db",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/brnews-db/pull/2"
+  },
+  {
+    "repo": "brnews-db",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Coleta semanal automática de notícias em JSONL (append-only)",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-03T13:11:40Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a101c4-brnews-db",
+    "commit_count": 12,
+    "url": "https://github.com/havaianasdestruido/brnews-db/pull/1"
+  },
+  {
     "repo": "BulkStarHistoryAdd",
     "state": "open",
     "status": "open",
@@ -703,8 +729,21 @@
   },
   {
     "repo": "EZInfiniteYTLive",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
+    "number": 3,
+    "title": "Fix 404: repair Pages deploy so Jekyll serves / and Docusaurus serves /docs",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-03T12:11:39Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a101a6-ezinfiniteytlive",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/pull/3"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "state": "closed",
+    "status": "merged",
     "number": 2,
     "title": "Fix GitHub Pages with Jekyll homepage and Docusaurus docs",
     "user": "havaianasdestruido",
@@ -934,6 +973,19 @@
     "head_branch": "arena/01a0d464-kaukamed",
     "commit_count": 7,
     "url": "https://github.com/havaianasdestruido/KaukaMed/pull/1"
+  },
+  {
+    "repo": "manimce-claude",
+    "state": "open",
+    "status": "open",
+    "number": 1,
+    "title": "Add Jekyll website and Docusaurus documentation",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-03T14:55:00Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a10233-manimce-claude",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/manimce-claude/pull/1"
   },
   {
     "repo": "Neo-Order-project",
@@ -1287,6 +1339,19 @@
     "url": "https://github.com/havaianasdestruido/PhonkHub/pull/1"
   },
   {
+    "repo": "PWSV",
+    "state": "open",
+    "status": "open",
+    "number": 1,
+    "title": "Implement full codebase documentation with Docusaurus (/docs) and Jekyll (/)",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-03T14:55:28Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a10230-pwsv",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/PWSV/pull/1"
+  },
+  {
     "repo": "Quack3DMM",
     "state": "closed",
     "status": "merged",
@@ -1311,6 +1376,19 @@
     "head_branch": "dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/R2K16/pull/2"
+  },
+  {
+    "repo": "R2K16",
+    "state": "closed",
+    "status": "merged",
+    "number": 4,
+    "title": "Split website: Jekyll primary page at /, Docusaurus docs only at /docs",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-03T12:44:04Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0ff4f-r2k16",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/R2K16/pull/4"
   },
   {
     "repo": "R2K16",

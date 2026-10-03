@@ -140,7 +140,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 1861484,
+    "bytes": 1861408,
     "percent": 93.9
   },
   {
@@ -219,6 +219,12 @@
     "repo": "brasilapidumped",
     "language": "Python",
     "bytes": 45827,
+    "percent": 100.0
+  },
+  {
+    "repo": "brnews-db",
+    "language": "Python",
+    "bytes": 80372,
     "percent": 100.0
   },
   {
@@ -415,21 +421,27 @@
   },
   {
     "repo": "EZInfiniteYTLive",
-    "language": "TypeScript",
-    "bytes": 8490,
-    "percent": 47.5
+    "language": "C#",
+    "bytes": 7795,
+    "percent": 39.5
   },
   {
     "repo": "EZInfiniteYTLive",
-    "language": "C#",
-    "bytes": 7795,
-    "percent": 43.6
+    "language": "TypeScript",
+    "bytes": 5471,
+    "percent": 27.7
   },
   {
     "repo": "EZInfiniteYTLive",
     "language": "CSS",
-    "bytes": 1576,
-    "percent": 8.8
+    "bytes": 5241,
+    "percent": 26.5
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "language": "HTML",
+    "bytes": 1249,
+    "percent": 6.3
   },
   {
     "repo": "face-tagger",
@@ -1016,7 +1028,7 @@
   {
     "repo": "R2K16",
     "language": "HTML",
-    "bytes": 348767133,
+    "bytes": 348770724,
     "percent": 32.4
   },
   {
@@ -1028,7 +1040,7 @@
   {
     "repo": "R2K16",
     "language": "JavaScript",
-    "bytes": 4025490,
+    "bytes": 4020845,
     "percent": 0.4
   },
   {
@@ -1082,7 +1094,7 @@
   {
     "repo": "R2K16",
     "language": "CSS",
-    "bytes": 1220253,
+    "bytes": 1224441,
     "percent": 0.1
   },
   {
