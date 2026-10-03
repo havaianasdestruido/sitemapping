@@ -494,6 +494,19 @@
     "url": "https://github.com/havaianasdestruido/abnt-skill/pull/1"
   },
   {
+    "repo": "apkdecomp-skill",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Add Jekyll landing site and Docusaurus documentation",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-03T16:03:02Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a10231-apkdecomp-skill",
+    "commit_count": 3,
+    "url": "https://github.com/havaianasdestruido/apkdecomp-skill/pull/1"
+  },
+  {
     "repo": "AudioTaste",
     "state": "closed",
     "status": "merged",
@@ -547,15 +560,28 @@
   },
   {
     "repo": "brnews-db",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
+    "number": 3,
+    "title": "ci(pages): habilitar o GitHub Pages pelo próprio workflow",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-03T18:33:52Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a10309-brnews-db",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/brnews-db/pull/3"
+  },
+  {
+    "repo": "brnews-db",
+    "state": "closed",
+    "status": "merged",
     "number": 2,
     "title": "docs: site Jekyll (raiz) + documentação Docusaurus em /docs",
     "user": "havaianasdestruido",
     "created_at": "2026-10-03T14:54:52Z",
     "base_branch": "main",
     "head_branch": "arena/01a1022f-brnews-db",
-    "commit_count": 1,
+    "commit_count": 2,
     "url": "https://github.com/havaianasdestruido/brnews-db/pull/2"
   },
   {
@@ -731,6 +757,19 @@
     "repo": "EZInfiniteYTLive",
     "state": "closed",
     "status": "merged",
+    "number": 4,
+    "title": "Fix video streaming limitations",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-03T16:03:02Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a101b9-ezinfiniteytlive",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/pull/4"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "state": "closed",
+    "status": "merged",
     "number": 3,
     "title": "Fix 404: repair Pages deploy so Jekyll serves / and Docusaurus serves /docs",
     "user": "havaianasdestruido",
@@ -859,8 +898,21 @@
   },
   {
     "repo": "Giggles-Shit",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
+    "number": 2,
+    "title": "Add Jekyll primary website + full codebase documentation (Docusaurus) under /docs",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-03T16:02:04Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a10230-giggles-shit",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/Giggles-Shit/pull/2"
+  },
+  {
+    "repo": "Giggles-Shit",
+    "state": "closed",
+    "status": "merged",
     "number": 1,
     "title": "[ImgBot] Optimize images",
     "user": "imgbot[bot]",
@@ -976,16 +1028,29 @@
   },
   {
     "repo": "manimce-claude",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 1,
     "title": "Add Jekyll website and Docusaurus documentation",
     "user": "havaianasdestruido",
     "created_at": "2026-10-03T14:55:00Z",
     "base_branch": "main",
     "head_branch": "arena/01a10233-manimce-claude",
-    "commit_count": 1,
+    "commit_count": 2,
     "url": "https://github.com/havaianasdestruido/manimce-claude/pull/1"
+  },
+  {
+    "repo": "MeatyMod",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "docs: full documentation site — Jekyll landing page + Docusaurus at /docs",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-03T16:01:37Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a10230-meatymod",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/MeatyMod/pull/1"
   },
   {
     "repo": "Neo-Order-project",
@@ -1339,16 +1404,29 @@
     "url": "https://github.com/havaianasdestruido/PhonkHub/pull/1"
   },
   {
+    "repo": "plainhtml-me",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Add plainhtml skill: css-less complex front ends with plain HTML",
+    "user": "arena-ai-coding-agent[bot]",
+    "created_at": "2026-10-01T13:15:55Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0f391-plainhtml-me",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/plainhtml-me/pull/1"
+  },
+  {
     "repo": "PWSV",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 1,
     "title": "Implement full codebase documentation with Docusaurus (/docs) and Jekyll (/)",
     "user": "havaianasdestruido",
     "created_at": "2026-10-03T14:55:28Z",
     "base_branch": "main",
     "head_branch": "arena/01a10230-pwsv",
-    "commit_count": 1,
+    "commit_count": 6,
     "url": "https://github.com/havaianasdestruido/PWSV/pull/1"
   },
   {
@@ -1532,6 +1610,19 @@
     "head_branch": "arena/01a0fd79-webradiofm",
     "commit_count": 2,
     "url": "https://github.com/havaianasdestruido/WebRadioFM/pull/1"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "state": "closed",
+    "status": "merged",
+    "number": 5,
+    "title": "website: use Jekyll for primary webpage and Docusaurus for /docs",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-03T17:01:36Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a101a4-windowsmoviemakerdecomp",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/pull/5"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
