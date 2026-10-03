@@ -200,7 +200,7 @@
   {
     "repo": "PersonaDB",
     "login": "havaianasdestruido",
-    "contributions": 17,
+    "contributions": 24,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -224,7 +224,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 67,
+    "contributions": 68,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -236,7 +236,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 75,
+    "contributions": 76,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -1058,13 +1058,13 @@
   {
     "repo": "gh-pages",
     "login": "havaianasdestruido",
-    "contributions": 5,
+    "contributions": 6,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "gh-pages",
     "login": "github-actions[bot]",
-    "contributions": 2,
+    "contributions": 4,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -1736,8 +1736,14 @@
   {
     "repo": "steamlogger",
     "login": "havaianasdestruido",
-    "contributions": 8,
+    "contributions": 9,
     "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "steamlogger",
+    "login": "ImgBotApp",
+    "contributions": 1,
+    "profile_url": "https://github.com/ImgBotApp"
   },
   {
     "repo": "transition-plugin",
@@ -1850,7 +1856,7 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "login": "havaianasdestruido",
-    "contributions": 19,
+    "contributions": 22,
     "profile_url": "https://github.com/havaianasdestruido"
   }
 ]

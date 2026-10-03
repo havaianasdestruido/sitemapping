@@ -441,6 +441,22 @@
   },
   {
     "repo": "PersonaDB",
+    "pr_number": 6,
+    "sha": "a0b43bca491785324780c2d398f1ef8a445ab15e",
+    "sha_short": "a0b43bc",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/a0b43bca491785324780c2d398f1ef8a445ab15e"
+  },
+  {
+    "repo": "PersonaDB",
+    "pr_number": 7,
+    "sha": "8b2e1c4b9a0d40d1f4e97b41fa4c524bdaa52235",
+    "sha_short": "8b2e1c4",
+    "message": "docs: adicionar index.md para corrigir 404 da home do GitHub Pages",
+    "url": "https://github.com/havaianasdestruido/PersonaDB/commit/8b2e1c4b9a0d40d1f4e97b41fa4c524bdaa52235"
+  },
+  {
+    "repo": "PersonaDB",
     "pr_number": 5,
     "sha": "ff5f49cf147b078c4a8cf4470c37ee1620036b28",
     "sha_short": "ff5f49c",
@@ -822,6 +838,14 @@
     "sha_short": "c686cce",
     "message": "review fixes: budget double-charge, index-page containment, config defaults",
     "url": "https://github.com/havaianasdestruido/dadosabertos/commit/c686ccee266ca87958addf7d35d6c5cf16ac9f11"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "pr_number": 2,
+    "sha": "7a2a38902fcdabbe75a20ddf48196c9548d5cf5f",
+    "sha_short": "7a2a389",
+    "message": "Fix Pages deployment with Jekyll homepage and docs subsite",
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/commit/7a2a38902fcdabbe75a20ddf48196c9548d5cf5f"
   },
   {
     "repo": "EZInfiniteYTLive",
@@ -1513,19 +1537,19 @@
   },
   {
     "repo": "steamlogger",
-    "pr_number": 3,
-    "sha": "d675d2e036341813334584f40cf43b5e50feea04",
-    "sha_short": "d675d2e",
-    "message": "[ImgBot] Optimize images",
-    "url": "https://github.com/havaianasdestruido/steamlogger/commit/d675d2e036341813334584f40cf43b5e50feea04"
-  },
-  {
-    "repo": "steamlogger",
     "pr_number": 1,
     "sha": "da63afce1905635b901bc16af104022937168df1",
     "sha_short": "da63afc",
     "message": "Tolerate brief missing Steam game polls",
     "url": "https://github.com/havaianasdestruido/steamlogger/commit/da63afce1905635b901bc16af104022937168df1"
+  },
+  {
+    "repo": "steamlogger",
+    "pr_number": 3,
+    "sha": "d675d2e036341813334584f40cf43b5e50feea04",
+    "sha_short": "d675d2e",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/d675d2e036341813334584f40cf43b5e50feea04"
   },
   {
     "repo": "steamlogger",

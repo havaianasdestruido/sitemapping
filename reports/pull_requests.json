@@ -341,6 +341,32 @@
     "repo": "PersonaDB",
     "state": "open",
     "status": "open",
+    "number": 6,
+    "title": "[ImgBot] Optimize images",
+    "user": "imgbot[bot]",
+    "created_at": "2026-10-02T23:43:08Z",
+    "base_branch": "main",
+    "head_branch": "imgbot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/PersonaDB/pull/6"
+  },
+  {
+    "repo": "PersonaDB",
+    "state": "closed",
+    "status": "merged",
+    "number": 7,
+    "title": "docs: adicionar index.md para corrigir 404 na home do GitHub Pages",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-03T01:05:55Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0ff48-personadb",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/PersonaDB/pull/7"
+  },
+  {
+    "repo": "PersonaDB",
+    "state": "closed",
+    "status": "merged",
     "number": 5,
     "title": "docs: site Docusaurus em pt-BR com a documentação completa do PersonaDB",
     "user": "havaianasdestruido",
@@ -674,6 +700,19 @@
     "head_branch": "arena/01a0e80c-dadosabertos",
     "commit_count": 6,
     "url": "https://github.com/havaianasdestruido/dadosabertos/pull/1"
+  },
+  {
+    "repo": "EZInfiniteYTLive",
+    "state": "open",
+    "status": "open",
+    "number": 2,
+    "title": "Fix GitHub Pages with Jekyll homepage and Docusaurus docs",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-03T01:08:18Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0ff49-ezinfiniteytlive",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/EZInfiniteYTLive/pull/2"
   },
   {
     "repo": "EZInfiniteYTLive",
@@ -1355,19 +1394,6 @@
     "repo": "steamlogger",
     "state": "open",
     "status": "open",
-    "number": 3,
-    "title": "[ImgBot] Optimize images",
-    "user": "imgbot[bot]",
-    "created_at": "2026-10-02T19:40:25Z",
-    "base_branch": "main",
-    "head_branch": "imgbot",
-    "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/steamlogger/pull/3"
-  },
-  {
-    "repo": "steamlogger",
-    "state": "open",
-    "status": "open",
     "number": 1,
     "title": "Tolerate brief missing Steam current-game polls",
     "user": "havaianasdestruido",
@@ -1376,6 +1402,19 @@
     "head_branch": "codex/investigar-problema-de-log",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/steamlogger/pull/1"
+  },
+  {
+    "repo": "steamlogger",
+    "state": "closed",
+    "status": "merged",
+    "number": 3,
+    "title": "[ImgBot] Optimize images",
+    "user": "imgbot[bot]",
+    "created_at": "2026-10-02T19:40:25Z",
+    "base_branch": "main",
+    "head_branch": "imgbot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/steamlogger/pull/3"
   },
   {
     "repo": "steamlogger",
@@ -1418,8 +1457,8 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 4,
     "title": "website: redesign docs homepage and theme tokens (taste-skill pass)",
     "user": "havaianasdestruido",
