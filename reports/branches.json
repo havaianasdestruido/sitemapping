@@ -266,16 +266,16 @@
   {
     "repo": "sitemapping",
     "name": "main",
-    "head_sha": "2666f0a68ad815ce37f630f110efc521781633e8",
-    "head_sha_short": "2666f0a",
+    "head_sha": "fe2dede31ffc901aa5ab451ef909cee1e4276e5f",
+    "head_sha_short": "fe2dede",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/sitemapping/tree/main"
   },
   {
     "repo": "top100",
     "name": "main",
-    "head_sha": "5717a0f29d974f6dbd41a65a849be0cb8df7c963",
-    "head_sha_short": "5717a0f",
+    "head_sha": "a3c11e3e17a2374b66c6e2c490ba4b8e82f83813",
+    "head_sha_short": "a3c11e3",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/top100/tree/main"
   },
@@ -486,6 +486,14 @@
     "head_sha_short": "3b34374",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/tree/main"
+  },
+  {
+    "repo": "CivilConnection",
+    "name": "main",
+    "head_sha": "fa6e922be483eeb4d1ebb5614048f1860cc719e6",
+    "head_sha_short": "fa6e922",
+    "is_default": true,
+    "url": "https://github.com/havaianasdestruido/CivilConnection/tree/main"
   },
   {
     "repo": "ClassHub",
@@ -1248,6 +1256,22 @@
     "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/tree/experimental"
   },
   {
+    "repo": "resumos-eleicao-2026",
+    "name": "arena/01a107cf-resumos-eleicao-2026",
+    "head_sha": "548d4a89cc3583c61f502331a2d5fd7431225d00",
+    "head_sha_short": "548d4a8",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/resumos-eleicao-2026/tree/arena/01a107cf-resumos-eleicao-2026"
+  },
+  {
+    "repo": "resumos-eleicao-2026",
+    "name": "main",
+    "head_sha": "970bf8b693ba8ef14cb363a6051ff8ee2057c3f1",
+    "head_sha_short": "970bf8b",
+    "is_default": true,
+    "url": "https://github.com/havaianasdestruido/resumos-eleicao-2026/tree/main"
+  },
+  {
     "repo": "RoBrowser",
     "name": "main",
     "head_sha": "63ad22bfaec49d61e93e0322fdacffd20abd50f2",
@@ -1342,6 +1366,30 @@
     "head_sha_short": "e3c708f",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/steamlogger/tree/main"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "name": "arena/01a108a2-termuxubuntuproot",
+    "head_sha": "bd791dfed6beea63632c555a99726869c513a873",
+    "head_sha_short": "bd791df",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/tree/arena/01a108a2-termuxubuntuproot"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "name": "arena/01a10887-termuxubuntuproot",
+    "head_sha": "ac6a84976393448ac5f03ed1e2aaf0449561637b",
+    "head_sha_short": "ac6a849",
+    "is_default": false,
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/tree/arena/01a10887-termuxubuntuproot"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "name": "main",
+    "head_sha": "7936720e906598eb766a2235d98e37e7cd3bc704",
+    "head_sha_short": "7936720",
+    "is_default": true,
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/tree/main"
   },
   {
     "repo": "transition-plugin",

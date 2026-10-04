@@ -123,12 +123,15 @@ plainhtml-me,closed,merged,1,Add plainhtml skill: css-less complex front ends wi
 PWSV,closed,merged,1,Implement full codebase documentation with Docusaurus (/docs) and Jekyll (/),havaianasdestruido,2026-10-03T14:55:28Z,main,arena/01a10230-pwsv,6,https://github.com/havaianasdestruido/PWSV/pull/1
 Quack3DMM,closed,merged,1,[ImgBot] Optimize images,imgbot[bot],2026-09-20T16:42:49Z,main,imgbot,1,https://github.com/havaianasdestruido/Quack3DMM/pull/1
 Rbx2Source-enhanced,closed,merged,1,[ImgBot] Optimize images,imgbot[bot],2026-09-19T20:03:08Z,experimental,imgbot,1,https://github.com/havaianasdestruido/Rbx2Source-enhanced/pull/1
+resumos-eleicao-2026,closed,merged,1,Extract ZIP archives into separate folders,havaianasdestruido,2026-10-04T16:47:44Z,main,arena/01a107cf-resumos-eleicao-2026,1,https://github.com/havaianasdestruido/resumos-eleicao-2026/pull/1
 seohelper,closed,merged,2,Package the scan skill as an installable plugin,arena-ai-coding-agent[bot],2026-09-28T21:04:17Z,main,arena/01a0e9ce-seohelper,2,https://github.com/havaianasdestruido/seohelper/pull/2
 seohelper,closed,merged,1,Refocus scan skill on plain-text chat results,arena-ai-coding-agent[bot],2026-09-28T20:48:58Z,main,arena/01a0e9c3-seohelper,1,https://github.com/havaianasdestruido/seohelper/pull/1
 Sonic4,closed,merged,1,[ImgBot] Optimize images,imgbot[bot],2026-09-19T20:04:23Z,main,imgbot,1,https://github.com/havaianasdestruido/Sonic4/pull/1
 steamlogger,open,open,1,Tolerate brief missing Steam current-game polls,havaianasdestruido,2026-08-14T22:37:25Z,main,codex/investigar-problema-de-log,1,https://github.com/havaianasdestruido/steamlogger/pull/1
 steamlogger,closed,merged,3,[ImgBot] Optimize images,imgbot[bot],2026-10-02T19:40:25Z,main,imgbot,1,https://github.com/havaianasdestruido/steamlogger/pull/3
 steamlogger,closed,merged,2,docs: full Docusaurus documentation site,havaianasdestruido,2026-10-02T17:07:37Z,main,arena/01a0fd79-steamlogger,2,https://github.com/havaianasdestruido/steamlogger/pull/2
+TermuxUbuntuPRoot,closed,merged,2,docs: improve Termux SEO with localized FAQs,havaianasdestruido,2026-10-04T21:05:56Z,main,arena/01a108a2-termuxubuntuproot,2,https://github.com/havaianasdestruido/TermuxUbuntuPRoot/pull/2
+TermuxUbuntuPRoot,closed,merged,1,Split README into per-language manuals with a language index,havaianasdestruido,2026-10-04T20:09:34Z,main,arena/01a10887-termuxubuntuproot,4,https://github.com/havaianasdestruido/TermuxUbuntuPRoot/pull/1
 WAL-skill,closed,merged,1,Add W3C WAI frontend accessibility Claude skill,havaianasdestruido,2026-10-02T17:01:30Z,main,arena/01a0fd83-wal-skill,1,https://github.com/havaianasdestruido/WAL-skill/pull/1
 WebRadioFM,closed,merged,1,Add comprehensive Docusaurus documentation,havaianasdestruido,2026-10-02T17:01:25Z,main,arena/01a0fd79-webradiofm,2,https://github.com/havaianasdestruido/WebRadioFM/pull/1
 WindowsMovieMakerDecomp,closed,merged,5,website: use Jekyll for primary webpage and Docusaurus for /docs,havaianasdestruido,2026-10-03T17:01:36Z,main,arena/01a101a4-windowsmoviemakerdecomp,2,https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/pull/5

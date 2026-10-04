@@ -4,8 +4,8 @@
 
 > fka. PatoFlamejantetv/UltimateQuack
 
-**Generated:** 2026-10-04 16:09:45 UTC
-**Public Repositories:** 88
+**Generated:** 2026-10-04 22:36:58 UTC
+**Public Repositories:** 91
 
 ---
 
@@ -1237,9 +1237,10 @@
   > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 Python | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-10-04
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `2666f0a`
+      - [`main`](https://github.com/havaianasdestruido/sitemapping/tree/main) _(default)_ — HEAD: `fe2dede`
         - 📋 [All Commits](https://github.com/havaianasdestruido/sitemapping/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/sitemapping/commits/main)
+          - [`fe2dede`](https://github.com/havaianasdestruido/sitemapping/commit/fe2dede31ffc901aa5ab451ef909cee1e4276e5f) **📊 \[2026-10-04 16:16:04 UTC\]** — _GitHub Action Bot_ (2026-10-04)
           - [`2666f0a`](https://github.com/havaianasdestruido/sitemapping/commit/2666f0a68ad815ce37f630f110efc521781633e8) **📊 \[2026-10-04 10:25:49 UTC\]** — _GitHub Action Bot_ (2026-10-04)
           - [`fca0f32`](https://github.com/havaianasdestruido/sitemapping/commit/fca0f329087fa60d2d9be5b1ebc84c580027095c) **📊 \[2026-10-04 03:29:12 UTC\]** — _GitHub Action Bot_ (2026-10-04)
           - [`36632a8`](https://github.com/havaianasdestruido/sitemapping/commit/36632a86d4a008794ffb526e264670ba9392a474) **📊 \[2026-10-03 22:38:25 UTC\]** — _GitHub Action Bot_ (2026-10-03)
@@ -1249,8 +1250,8 @@
           - [`2273066`](https://github.com/havaianasdestruido/sitemapping/commit/2273066d0ed048a30c29c99978f1b2fb5a227bba) **📊 \[2026-10-03 03:00:40 UTC\]** — _GitHub Action Bot_ (2026-10-03)
           - [`196afe6`](https://github.com/havaianasdestruido/sitemapping/commit/196afe6ef24a7fbe73757e8bb0e8f392422732bd) **📊 \[2026-10-02 23:31:17 UTC\]** — _GitHub Action Bot_ (2026-10-02)
           - [`c6709a5`](https://github.com/havaianasdestruido/sitemapping/commit/c6709a5e982b02f66a8f7a388fe83127e7e602f5) **📊 \[2026-10-02 17:07:50 UTC\]** — _GitHub Action Bot_ (2026-10-02)
-          - [`7c8d1ad`](https://github.com/havaianasdestruido/sitemapping/commit/7c8d1ada05a9e84ce720cf68f85926a4b09d0596) **📊 \[2026-10-02 10:14:11 UTC\]** — _GitHub Action Bot_ (2026-10-02)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=ec34df8fef675d178a2a9d55063e1fa836ebbef6+34)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=14ad3be6829e88a905936721268dc729ec922d9e+34)
+          - [`ec34df8`](https://github.com/havaianasdestruido/sitemapping/commit/ec34df8fef675d178a2a9d55063e1fa836ebbef6) **📊 \[2026-09-26 02:38:37 UTC\]** — _GitHub Action Bot_ (2026-09-26)
           - [`c6a3deb`](https://github.com/havaianasdestruido/sitemapping/commit/c6a3debff984dfb0cf21c87adf7b2e6621adcdbd) **📊 \[2026-09-25 23:02:41 UTC\]** — _GitHub Action Bot_ (2026-09-25)
           - [`d009ff8`](https://github.com/havaianasdestruido/sitemapping/commit/d009ff83ac3f52c629a6593ede5037c7b42dea68) **📊 \[2026-09-25 16:14:25 UTC\]** — _GitHub Action Bot_ (2026-09-25)
           - [`783b78a`](https://github.com/havaianasdestruido/sitemapping/commit/783b78ae71506c097fc8ad65e981819917b7abda) **📊 \[2026-09-25 09:19:05 UTC\]** — _GitHub Action Bot_ (2026-09-25)
@@ -1260,8 +1261,8 @@
           - [`c29dfaa`](https://github.com/havaianasdestruido/sitemapping/commit/c29dfaa4905a7cdc016d9ca02ea0829491321e44) **📊 \[2026-09-24 08:56:02 UTC\]** — _GitHub Action Bot_ (2026-09-24)
           - [`a8e4529`](https://github.com/havaianasdestruido/sitemapping/commit/a8e4529d4fa9649884d9541e5ab69f406f2cc34b) **📊 \[2026-09-24 02:17:22 UTC\]** — _GitHub Action Bot_ (2026-09-24)
           - [`23d58a9`](https://github.com/havaianasdestruido/sitemapping/commit/23d58a91575ac53552bebb7fabe9459ecb996408) **📊 \[2026-09-23 22:39:25 UTC\]** — _GitHub Action Bot_ (2026-09-23)
-          - [`893c0d0`](https://github.com/havaianasdestruido/sitemapping/commit/893c0d0fd1d2de417cf4f27a5a71c88dadd90206) **📊 \[2026-09-23 19:24:21 UTC\]** — _GitHub Action Bot_ (2026-09-23)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=c1eb7982f0d7b253bc9aed6c3e44c9cdd6a50fd1+34)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/sitemapping/commits/main/?after=7966b0d8d2ba6efa4d1af469a18a9a6ba8817f2c+34)
+          - [`c1eb798`](https://github.com/havaianasdestruido/sitemapping/commit/c1eb7982f0d7b253bc9aed6c3e44c9cdd6a50fd1) **Adjust maximum limits for commits and branches** — _Pato (new acc)_ (2026-09-20)
           - [`b66d115`](https://github.com/havaianasdestruido/sitemapping/commit/b66d1152a90174daab03f6b132534edaf84d3ff0) **Simplify commit message format in workflow** — _Pato (new acc)_ (2026-09-20)
           - [`d5b7ae0`](https://github.com/havaianasdestruido/sitemapping/commit/d5b7ae092e418cf5de137a3d550df83640cbee71) **📊 Update repository report \[2026-09-20 03:58:53 UTC\]** — _GitHub Action Bot_ (2026-09-20)
           - [`5cdd65b`](https://github.com/havaianasdestruido/sitemapping/commit/5cdd65b34cd7dd38f5a2c04d760fd5073517c7bf) **Bruh** — _Pato (new acc)_ (2026-09-19)
@@ -1271,7 +1272,6 @@
           - [`3b97b0d`](https://github.com/havaianasdestruido/sitemapping/commit/3b97b0d1a01bec85dc9661f63434481a29092eab) **📊 Update repository report \[2026-09-19 14:32:32 UTC\]** — _GitHub Action Bot_ (2026-09-19)
           - [`f6e7796`](https://github.com/havaianasdestruido/sitemapping/commit/f6e77966e9b85801d5c4c96b6f88dd6a81ab0cd6) **Update repo-analyzer workflow for localization and exports** — _Pato (new acc)_ (2026-09-19)
           - [`181f00b`](https://github.com/havaianasdestruido/sitemapping/commit/181f00b1518a42c210db990c1696e7a5b0acf506) **📊 Update repository report \[2026-09-19 14:17:17 UTC\]** — _GitHub Action Bot_ (2026-09-19)
-          - [`9fb18fd`](https://github.com/havaianasdestruido/sitemapping/commit/9fb18fd83017c24ce07c433b500ed44fb009b718) **Implement data export to CSV and JSON formats** — _Pato (new acc)_ (2026-09-19)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -1289,7 +1289,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@actions-user](https://github.com/actions-user) — 75 commit(s)
+      - [@actions-user](https://github.com/actions-user) — 76 commit(s)
       - [@havaianasdestruido](https://github.com/havaianasdestruido) — 22 commit(s)
 
     - ### 🏷️ Releases (2)
@@ -1306,9 +1306,11 @@
   > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 HTML | 📅 Created: 2026-09-20 | 🔄 Updated: 2026-10-04
 
     - ### 🌿 Branches (1)
-      - [`main`](https://github.com/havaianasdestruido/top100/tree/main) _(default)_ — HEAD: `5717a0f`
+      - [`main`](https://github.com/havaianasdestruido/top100/tree/main) _(default)_ — HEAD: `a3c11e3`
         - 📋 [All Commits](https://github.com/havaianasdestruido/top100/commits/main)
         - 📄 [Commits Page 1](https://github.com/havaianasdestruido/top100/commits/main)
+          - [`a3c11e3`](https://github.com/havaianasdestruido/top100/commit/a3c11e3e17a2374b66c6e2c490ba4b8e82f83813) **data: update top repos data (2026-10-04 22:04 UTC)** — _github-actions[bot]_ (2026-10-04)
+          - [`cae6695`](https://github.com/havaianasdestruido/top100/commit/cae669576b3d14c6f7746dac80624a00ac3ea01a) **data: update top repos data (2026-10-04 18:53 UTC)** — _github-actions[bot]_ (2026-10-04)
           - [`5717a0f`](https://github.com/havaianasdestruido/top100/commit/5717a0f29d974f6dbd41a65a849be0cb8df7c963) **data: update top repos data (2026-10-04 15:33 UTC)** — _github-actions[bot]_ (2026-10-04)
           - [`3a5be0b`](https://github.com/havaianasdestruido/top100/commit/3a5be0b36547bd3e841d1b22b50c6c3c52ec562d) **data: update top repos data (2026-10-04 10:17 UTC)** — _github-actions[bot]_ (2026-10-04)
           - [`6178e78`](https://github.com/havaianasdestruido/top100/commit/6178e783ab1b9546847cda30ebdaa50a1db450e7) **data: update top repos data (2026-10-04 03:03 UTC)** — _github-actions[bot]_ (2026-10-04)
@@ -1317,9 +1319,9 @@
           - [`891de91`](https://github.com/havaianasdestruido/top100/commit/891de91f24d010a2c8b0b00e48bfb721fc1c4356) **data: update top repos data (2026-10-03 17:50 UTC)** — _github-actions[bot]_ (2026-10-03)
           - [`3842d5e`](https://github.com/havaianasdestruido/top100/commit/3842d5ef2a94383f5682218a24355f1704dd5fb8) **data: update top repos data (2026-10-03 14:01 UTC)** — _github-actions[bot]_ (2026-10-03)
           - [`c1f147a`](https://github.com/havaianasdestruido/top100/commit/c1f147a92360dfeaf15aba5812df7b513df924ce) **data: update top repos data (2026-10-03 08:39 UTC)** — _github-actions[bot]_ (2026-10-03)
-          - [`663abb6`](https://github.com/havaianasdestruido/top100/commit/663abb6f8654d28ec152be5beababace7da50345) **data: update top repos data (2026-10-03 02:33 UTC)** — _github-actions[bot]_ (2026-10-03)
-          - [`77fe42b`](https://github.com/havaianasdestruido/top100/commit/77fe42b49c205f1f1a4dce6ed6538a972c218867) **data: update top repos data (2026-10-02 23:23 UTC)** — _github-actions[bot]_ (2026-10-02)
-        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/top100/commits/main/?after=44bf32921ebd141af43523db7a7a210028cb998a+34)
+        - 📄 [Commits Page 2](https://github.com/havaianasdestruido/top100/commits/main/?after=57aabb98925d9200f16f805c295fc63fc9f1a816+34)
+          - [`e314739`](https://github.com/havaianasdestruido/top100/commit/e3147393b4141b1d00ec9087e94d922160b0f150) **site: turn the 117-word page into a real content site for AI and search ** — _havaianasdestruido_ (2026-09-28)
+          - [`44bf329`](https://github.com/havaianasdestruido/top100/commit/44bf32921ebd141af43523db7a7a210028cb998a) **data: update top repos data (2026-09-28)** — _github-actions[bot]_ (2026-09-28)
           - [`b6a20d9`](https://github.com/havaianasdestruido/top100/commit/b6a20d96e54e48f1b818450fe739699414d71970) **data: update top repos data (2026-09-28)** — _github-actions[bot]_ (2026-09-28)
           - [`2ce913f`](https://github.com/havaianasdestruido/top100/commit/2ce913f2e097ce2ac8374ff4ff8481a02bbecc32) **data: update top repos data (2026-09-27)** — _github-actions[bot]_ (2026-09-27)
           - [`cfca86e`](https://github.com/havaianasdestruido/top100/commit/cfca86e1be4b2c0590634a4e101afa77db4a4175) **data: update top repos data (2026-09-27)** — _github-actions[bot]_ (2026-09-27)
@@ -1328,9 +1330,9 @@
           - [`1d2ee2c`](https://github.com/havaianasdestruido/top100/commit/1d2ee2cdd5f0995906682913d339daf51c110005) **data: update top repos data (2026-09-27)** — _github-actions[bot]_ (2026-09-27)
           - [`ff24016`](https://github.com/havaianasdestruido/top100/commit/ff24016d9f46338d475a69f6652e536d72116a3b) **data: update top repos data (2026-09-26)** — _github-actions[bot]_ (2026-09-26)
           - [`e946c7f`](https://github.com/havaianasdestruido/top100/commit/e946c7f4652fde3688fc7e2316835b68254fa032) **data: update top repos data (2026-09-26)** — _github-actions[bot]_ (2026-09-26)
-          - [`9c7cbef`](https://github.com/havaianasdestruido/top100/commit/9c7cbef9ea46d4eed3b9fc73b08bed950c3eba14) **data: update top repos data (2026-09-26)** — _github-actions[bot]_ (2026-09-26)
-          - [`e47d900`](https://github.com/havaianasdestruido/top100/commit/e47d900d743469bdcae5c140007157d5954b56c5) **data: update top repos data (2026-09-26)** — _github-actions[bot]_ (2026-09-26)
-        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/top100/commits/main/?after=3ca829feb765922fa4ae810524dce908c0c22a53+34)
+        - 📄 [Commits Page 3](https://github.com/havaianasdestruido/top100/commits/main/?after=7a5c02e5a1c84b9bbac7f7220b6c41637c11a8c8+34)
+          - [`abab9a1`](https://github.com/havaianasdestruido/top100/commit/abab9a1bc47088eeacf4349201eb40bfc710b76f) **data: update top repos data (2026-09-22)** — _github-actions[bot]_ (2026-09-22)
+          - [`3ca829f`](https://github.com/havaianasdestruido/top100/commit/3ca829feb765922fa4ae810524dce908c0c22a53) **data: update top repos data (2026-09-22)** — _github-actions[bot]_ (2026-09-22)
           - [`5e7570a`](https://github.com/havaianasdestruido/top100/commit/5e7570af4cb9fbf7a0c76d1da9550f6823370888) **data: update top repos data (2026-09-22)** — _github-actions[bot]_ (2026-09-22)
           - [`a922812`](https://github.com/havaianasdestruido/top100/commit/a9228121eb110957474bf70ca9002aa5c7e49db7) **data: update top repos data (2026-09-21)** — _github-actions[bot]_ (2026-09-21)
           - [`b2f273b`](https://github.com/havaianasdestruido/top100/commit/b2f273be75fec726e72aa59fa1b5fb65c45ed4d8) **data: update top repos data (2026-09-21)** — _github-actions[bot]_ (2026-09-21)
@@ -1339,8 +1341,8 @@
           - [`62cdd4d`](https://github.com/havaianasdestruido/top100/commit/62cdd4dfedc004ef723890a3eb97adda10907611) **data: update top repos data (2026-09-21)** — _github-actions[bot]_ (2026-09-21)
           - [`1fab4ce`](https://github.com/havaianasdestruido/top100/commit/1fab4ce39708cefca5ea71c432108406cdcde873) **data: update top repos data (2026-09-21)** — _github-actions[bot]_ (2026-09-21)
           - [`623f15d`](https://github.com/havaianasdestruido/top100/commit/623f15dea9611cd851b9c4733174367b4502b4fc) **Set imgbot schedule to weekly** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-21)
-          - [`563def7`](https://github.com/havaianasdestruido/top100/commit/563def76948e61ad0ed93a4c198648e96a91f0ed) **data: update top repos data (2026-09-21)** — _github-actions[bot]_ (2026-09-21)
-          - [`748db27`](https://github.com/havaianasdestruido/top100/commit/748db272fa3dde12a41ce8c58e9404b70c2f7418) **Add .imgbotconfig for aggressive image compression** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-21)
+        - 📄 [Commits Page 4](https://github.com/havaianasdestruido/top100/commits/main/?after=b380d9a5fc7d141fdbc6c963b875b53d99195d55+34)
+          - [`c189c2a`](https://github.com/havaianasdestruido/top100/commit/c189c2a73d0e2b4b620d11ff5639cba73f056ee4) **Create fetch_top_repos.py** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-09-20)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -1362,13 +1364,13 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@github-actions[bot]](https://github.com/apps/github-actions) — 84 commit(s)
+      - [@github-actions[bot]](https://github.com/apps/github-actions) — 86 commit(s)
       - [@havaianasdestruido](https://github.com/havaianasdestruido) — 20 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `HTML` — 93.9% (1,861,712 bytes)
+      - `HTML` — 93.9% (1,861,962 bytes)
       - `Python` — 5.8% (115,745 bytes)
       - `CSS` — 0.2% (4,402 bytes)
 
@@ -2390,6 +2392,44 @@
       - `PLpgSQL` — 0.2% (4,562 bytes)
       - `Shell` — 0.2% (3,091 bytes)
       - `Batchfile` — 0.2% (3,078 bytes)
+
+---
+
+- ## [CivilConnection](https://github.com/havaianasdestruido/CivilConnection)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-10-04 | 🔄 Updated: 2026-10-04
+
+    - ### 🌿 Branches (1)
+      - [`main`](https://github.com/havaianasdestruido/CivilConnection/tree/main) _(default)_ — HEAD: `fa6e922`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/CivilConnection/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/CivilConnection/commits/main)
+          - [`fa6e922`](https://github.com/havaianasdestruido/CivilConnection/commit/fa6e922be483eeb4d1ebb5614048f1860cc719e6) **Create llms.txt** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`5b2d4c6`](https://github.com/havaianasdestruido/CivilConnection/commit/5b2d4c63036a560d3f133a0792cb34d13fe86006) **Create AI.MD** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`416d194`](https://github.com/havaianasdestruido/CivilConnection/commit/416d194735107e5b802d5a3c32b386c490a385fb) **Create CLAUDE.MD** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`8313bd3`](https://github.com/havaianasdestruido/CivilConnection/commit/8313bd36203f069ac73c033dd15b00dc94134eb9) **Update backend.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`922c792`](https://github.com/havaianasdestruido/CivilConnection/commit/922c7923ca8b25847efda1023a802aa65c122480) **Create frontend.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`392a2f7`](https://github.com/havaianasdestruido/CivilConnection/commit/392a2f769cb16ebbcb12780a65748e024584f402) **Create backend.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`ced5daa`](https://github.com/havaianasdestruido/CivilConnection/commit/ced5daa51a3c735df93c99192cba6e7c0b6e2ff5) **Create db.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 7 commit(s)
+
+    - ### 🏷️ Releases (0)
+
 
 ---
 
@@ -6225,6 +6265,54 @@
 
 ---
 
+- ## [resumos-eleicao-2026](https://github.com/havaianasdestruido/resumos-eleicao-2026)
+  > Resumos digitais (hashes) das Eleições 2026 – 1º turno e 2º turnos
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 HTML | 📅 Created: 2026-10-04 | 🔄 Updated: 2026-10-04
+
+    - ### 🌿 Branches (2)
+      - [`arena/01a107cf-resumos-eleicao-2026`](https://github.com/havaianasdestruido/resumos-eleicao-2026/tree/arena/01a107cf-resumos-eleicao-2026) — HEAD: `548d4a8`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/resumos-eleicao-2026/commits/arena/01a107cf-resumos-eleicao-2026)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/resumos-eleicao-2026/commits/arena/01a107cf-resumos-eleicao-2026)
+          - [`548d4a8`](https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/548d4a89cc3583c61f502331a2d5fd7431225d00) **Extract ZIP archives into separate folders** — _havaianasdestruido_ (2026-10-04)
+          - [`6d2b923`](https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/6d2b9231b4cbb87e92b58cba629994c6defe176e) **Create readme.txt** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`a5dca54`](https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/a5dca542c978d080dbe7ea58ea26be2678271cd9) **Add files via upload** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`2160b6a`](https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/2160b6a877d23d051abbc60764e357ad3f1026c6) **Initial commit** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+      - [`main`](https://github.com/havaianasdestruido/resumos-eleicao-2026/tree/main) _(default)_ — HEAD: `970bf8b`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/resumos-eleicao-2026/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/resumos-eleicao-2026/commits/main)
+          - [`970bf8b`](https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/970bf8b693ba8ef14cb363a6051ff8ee2057c3f1) **Merge pull request #1 from havaianasdestruido/arena/01a107cf-resumos-ele** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`548d4a8`](https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/548d4a89cc3583c61f502331a2d5fd7431225d00) **Extract ZIP archives into separate folders** — _havaianasdestruido_ (2026-10-04)
+          - [`6d2b923`](https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/6d2b9231b4cbb87e92b58cba629994c6defe176e) **Create readme.txt** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`a5dca54`](https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/a5dca542c978d080dbe7ea58ea26be2678271cd9) **Add files via upload** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`2160b6a`](https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/2160b6a877d23d051abbc60764e357ad3f1026c6) **Initial commit** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (1)
+        - ✅ Merged [#1 Extract ZIP archives into separate folders](https://github.com/havaianasdestruido/resumos-eleicao-2026/pull/1) — _havaianasdestruido_ (2026-10-04) `arena/01a107cf-resumos-eleicao-2026` → `main`
+          - 📝 1 commit(s) in this PR
+            - [`548d4a8`](https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/548d4a89cc3583c61f502331a2d5fd7431225d00) Extract ZIP archives into separate folders
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 5 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `HTML` — 100.0% (566,956 bytes)
+
+---
+
 - ## [RoBrowser](https://github.com/havaianasdestruido/RoBrowser) `🗃️ Template`
   > No description
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 Luau | 📅 Created: 2026-05-03 | 🔄 Updated: 2026-09-21
@@ -6650,6 +6738,80 @@
       - `Rust` — 25.6% (70,496 bytes)
       - `JavaScript` — 7.2% (19,864 bytes)
       - `CSS` — 1.5% (4,098 bytes)
+
+---
+
+- ## [TermuxUbuntuPRoot](https://github.com/havaianasdestruido/TermuxUbuntuPRoot)
+  > Guide on how to install Ubuntu inside Termux using PRoot
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-10-04 | 🔄 Updated: 2026-10-04
+
+    - ### 🌿 Branches (3)
+      - [`arena/01a108a2-termuxubuntuproot`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/tree/arena/01a108a2-termuxubuntuproot) — HEAD: `bd791df`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commits/arena/01a108a2-termuxubuntuproot)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commits/arena/01a108a2-termuxubuntuproot)
+          - [`bd791df`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/bd791dfed6beea63632c555a99726869c513a873) **docs: localize Termux FAQs** — _havaianasdestruido_ (2026-10-04)
+          - [`091fc0c`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/091fc0c1fd140a0f2c7d4e8ecbb94900eab5799d) **docs: add SEO-focused Termux FAQs** — _havaianasdestruido_ (2026-10-04)
+          - [`17c3bb5`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/17c3bb521c2e91fc4528a8041064318eec6ded36) **Merge pull request #1 from havaianasdestruido/arena/01a10887-termuxubunt** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`ac6a849`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/ac6a84976393448ac5f03ed1e2aaf0449561637b) **Add Arabic, Persian, Turkish, French and Bengali manuals (per Google Tre** — _havaianasdestruido_ (2026-10-04)
+          - [`12a62ca`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/12a62ca4180da1659a0df1e5e00835e30cdd5eb7) **Add Hindi and Indonesian manuals** — _havaianasdestruido_ (2026-10-04)
+          - [`1c9f48c`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/1c9f48cf5cf3e81c85aaa619fc1ca016f21c1884) **Rename Chinese manual to README.zh.MD (standard ISO code)** — _havaianasdestruido_ (2026-10-04)
+          - [`e629181`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/e629181242a9a1e563dc2891149b37d1dcd22bd0) **Split README into per-language manuals with language index** — _havaianasdestruido_ (2026-10-04)
+          - [`f242621`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/f242621d09fa731672d98e50e518895b5b0ab635) **Update README.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`3978aa1`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/3978aa1fc36e6ed8f0889480efab7260d61e50ba) **Update README.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`2b096d0`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/2b096d0d0e00cff90afde8f8f1714be3604a074f) **Initial commit** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+      - [`arena/01a10887-termuxubuntuproot`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/tree/arena/01a10887-termuxubuntuproot) — HEAD: `ac6a849`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commits/arena/01a10887-termuxubuntuproot)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commits/arena/01a10887-termuxubuntuproot)
+          - [`ac6a849`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/ac6a84976393448ac5f03ed1e2aaf0449561637b) **Add Arabic, Persian, Turkish, French and Bengali manuals (per Google Tre** — _havaianasdestruido_ (2026-10-04)
+          - [`12a62ca`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/12a62ca4180da1659a0df1e5e00835e30cdd5eb7) **Add Hindi and Indonesian manuals** — _havaianasdestruido_ (2026-10-04)
+          - [`1c9f48c`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/1c9f48cf5cf3e81c85aaa619fc1ca016f21c1884) **Rename Chinese manual to README.zh.MD (standard ISO code)** — _havaianasdestruido_ (2026-10-04)
+          - [`e629181`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/e629181242a9a1e563dc2891149b37d1dcd22bd0) **Split README into per-language manuals with language index** — _havaianasdestruido_ (2026-10-04)
+          - [`f242621`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/f242621d09fa731672d98e50e518895b5b0ab635) **Update README.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`3978aa1`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/3978aa1fc36e6ed8f0889480efab7260d61e50ba) **Update README.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`2b096d0`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/2b096d0d0e00cff90afde8f8f1714be3604a074f) **Initial commit** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+      - [`main`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/tree/main) _(default)_ — HEAD: `7936720`
+        - 📋 [All Commits](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commits/main)
+        - 📄 [Commits Page 1](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commits/main)
+          - [`7936720`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/7936720e906598eb766a2235d98e37e7cd3bc704) **Create jekyll-gh-pages.yml** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`166b569`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/166b569a4dbf286aae4ce642b32c031ebc84ee85) **Merge pull request #2 from havaianasdestruido/arena/01a108a2-termuxubunt** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`bd791df`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/bd791dfed6beea63632c555a99726869c513a873) **docs: localize Termux FAQs** — _havaianasdestruido_ (2026-10-04)
+          - [`091fc0c`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/091fc0c1fd140a0f2c7d4e8ecbb94900eab5799d) **docs: add SEO-focused Termux FAQs** — _havaianasdestruido_ (2026-10-04)
+          - [`17c3bb5`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/17c3bb521c2e91fc4528a8041064318eec6ded36) **Merge pull request #1 from havaianasdestruido/arena/01a10887-termuxubunt** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+          - [`ac6a849`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/ac6a84976393448ac5f03ed1e2aaf0449561637b) **Add Arabic, Persian, Turkish, French and Bengali manuals (per Google Tre** — _havaianasdestruido_ (2026-10-04)
+          - [`12a62ca`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/12a62ca4180da1659a0df1e5e00835e30cdd5eb7) **Add Hindi and Indonesian manuals** — _havaianasdestruido_ (2026-10-04)
+          - [`1c9f48c`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/1c9f48cf5cf3e81c85aaa619fc1ca016f21c1884) **Rename Chinese manual to README.zh.MD (standard ISO code)** — _havaianasdestruido_ (2026-10-04)
+          - [`e629181`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/e629181242a9a1e563dc2891149b37d1dcd22bd0) **Split README into per-language manuals with language index** — _havaianasdestruido_ (2026-10-04)
+          - [`f242621`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/f242621d09fa731672d98e50e518895b5b0ab635) **Update README.md** — _PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)_ (2026-10-04)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (2)
+        - ✅ Merged [#2 docs: improve Termux SEO with localized FAQs](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/pull/2) — _havaianasdestruido_ (2026-10-04) `arena/01a108a2-termuxubuntuproot` → `main`
+          - 📝 2 commit(s) in this PR
+            - [`091fc0c`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/091fc0c1fd140a0f2c7d4e8ecbb94900eab5799d) docs: add SEO-focused Termux FAQs
+            - [`bd791df`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/bd791dfed6beea63632c555a99726869c513a873) docs: localize Termux FAQs
+        - ✅ Merged [#1 Split README into per-language manuals with a language index](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/pull/1) — _havaianasdestruido_ (2026-10-04) `arena/01a10887-termuxubuntuproot` → `main`
+          - 📝 4 commit(s) in this PR
+            - [`e629181`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/e629181242a9a1e563dc2891149b37d1dcd22bd0) Split README into per-language manuals with language index
+            - [`1c9f48c`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/1c9f48cf5cf3e81c85aaa619fc1ca016f21c1884) Rename Chinese manual to README.zh.MD (standard ISO code)
+            - [`12a62ca`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/12a62ca4180da1659a0df1e5e00835e30cdd5eb7) Add Hindi and Indonesian manuals
+            - [`ac6a849`](https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/ac6a84976393448ac5f03ed1e2aaf0449561637b) Add Arabic, Persian, Turkish, French and Bengali manuals (pe
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](https://github.com/havaianasdestruido) — 12 commit(s)
+
+    - ### 🏷️ Releases (0)
+
 
 ---
 
@@ -7301,7 +7463,7 @@
 ### Followers (8)
 
 - [@ishandutta2007](https://github.com/ishandutta2007)
-  - 📦 3788 public repos | 👥 follows 40473 people
+  - 📦 3796 public repos | 👥 follows 41063 people
 - [@moxie-coder](https://github.com/moxie-coder)
   - 📦 221 public repos | 👥 follows 1652 people
 - [@Okafor-twd](https://github.com/Okafor-twd)
@@ -7315,7 +7477,7 @@
 - [@ancaferro](https://github.com/ancaferro)
   - 📦 4 public repos | 👥 follows 15638 people
 - [@lxcadoza993](https://github.com/lxcadoza993)
-  - 📦 6 public repos | 👥 follows 171726 people
+  - 📦 6 public repos | 👥 follows 171724 people
 
 ### Following (24)
 
@@ -7499,4 +7661,4 @@
 - [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit) — _iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objec_
 
 ---
-_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-10-04 16:09:45 UTC_
+_Report auto-generated by [GitHub Actions](https://github.com/features/actions) on 2026-10-04 22:36:58 UTC_

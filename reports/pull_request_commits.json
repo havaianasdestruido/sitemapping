@@ -1808,6 +1808,14 @@
     "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/66c6a125faa3778f543762e13a1a0afc93e399e6"
   },
   {
+    "repo": "resumos-eleicao-2026",
+    "pr_number": 1,
+    "sha": "548d4a89cc3583c61f502331a2d5fd7431225d00",
+    "sha_short": "548d4a8",
+    "message": "Extract ZIP archives into separate folders",
+    "url": "https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/548d4a89cc3583c61f502331a2d5fd7431225d00"
+  },
+  {
     "repo": "seohelper",
     "pr_number": 2,
     "sha": "ce1f740d52f3b643d4a441b187060fa7a9cefa80",
@@ -1870,6 +1878,54 @@
     "sha_short": "ed8f729",
     "message": "docs: address review feedback on the documentation site",
     "url": "https://github.com/havaianasdestruido/steamlogger/commit/ed8f729bf205f73fd6ae9e02b7fcaebf9943d8d0"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "pr_number": 2,
+    "sha": "091fc0c1fd140a0f2c7d4e8ecbb94900eab5799d",
+    "sha_short": "091fc0c",
+    "message": "docs: add SEO-focused Termux FAQs",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/091fc0c1fd140a0f2c7d4e8ecbb94900eab5799d"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "pr_number": 2,
+    "sha": "bd791dfed6beea63632c555a99726869c513a873",
+    "sha_short": "bd791df",
+    "message": "docs: localize Termux FAQs",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/bd791dfed6beea63632c555a99726869c513a873"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "pr_number": 1,
+    "sha": "e629181242a9a1e563dc2891149b37d1dcd22bd0",
+    "sha_short": "e629181",
+    "message": "Split README into per-language manuals with language index",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/e629181242a9a1e563dc2891149b37d1dcd22bd0"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "pr_number": 1,
+    "sha": "1c9f48cf5cf3e81c85aaa619fc1ca016f21c1884",
+    "sha_short": "1c9f48c",
+    "message": "Rename Chinese manual to README.zh.MD (standard ISO code)",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/1c9f48cf5cf3e81c85aaa619fc1ca016f21c1884"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "pr_number": 1,
+    "sha": "12a62ca4180da1659a0df1e5e00835e30cdd5eb7",
+    "sha_short": "12a62ca",
+    "message": "Add Hindi and Indonesian manuals",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/12a62ca4180da1659a0df1e5e00835e30cdd5eb7"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "pr_number": 1,
+    "sha": "ac6a84976393448ac5f03ed1e2aaf0449561637b",
+    "sha_short": "ac6a849",
+    "message": "Add Arabic, Persian, Turkish, French and Bengali manuals (per Google Trends regions)",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/ac6a84976393448ac5f03ed1e2aaf0449561637b"
   },
   {
     "repo": "WAL-skill",

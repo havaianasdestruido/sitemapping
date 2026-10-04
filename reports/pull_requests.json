@@ -1612,6 +1612,19 @@
     "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/pull/1"
   },
   {
+    "repo": "resumos-eleicao-2026",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Extract ZIP archives into separate folders",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-04T16:47:44Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a107cf-resumos-eleicao-2026",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/resumos-eleicao-2026/pull/1"
+  },
+  {
     "repo": "seohelper",
     "state": "closed",
     "status": "merged",
@@ -1688,6 +1701,32 @@
     "head_branch": "arena/01a0fd79-steamlogger",
     "commit_count": 2,
     "url": "https://github.com/havaianasdestruido/steamlogger/pull/2"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "state": "closed",
+    "status": "merged",
+    "number": 2,
+    "title": "docs: improve Termux SEO with localized FAQs",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-04T21:05:56Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a108a2-termuxubuntuproot",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/pull/2"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Split README into per-language manuals with a language index",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-04T20:09:34Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a10887-termuxubuntuproot",
+    "commit_count": 4,
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/pull/1"
   },
   {
     "repo": "WAL-skill",

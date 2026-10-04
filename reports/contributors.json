@@ -236,7 +236,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 75,
+    "contributions": 76,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -248,7 +248,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 84,
+    "contributions": 86,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -754,6 +754,12 @@
     "login": "cavaleiro-olimpioo",
     "contributions": 1,
     "profile_url": "https://github.com/cavaleiro-olimpioo"
+  },
+  {
+    "repo": "CivilConnection",
+    "login": "havaianasdestruido",
+    "contributions": 7,
+    "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "ClassHub",
@@ -1716,6 +1722,12 @@
     "profile_url": "https://github.com/gamenew09"
   },
   {
+    "repo": "resumos-eleicao-2026",
+    "login": "havaianasdestruido",
+    "contributions": 5,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
     "repo": "RoBrowser",
     "login": "havaianasdestruido",
     "contributions": 12,
@@ -1792,6 +1804,12 @@
     "login": "ImgBotApp",
     "contributions": 1,
     "profile_url": "https://github.com/ImgBotApp"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "login": "havaianasdestruido",
+    "contributions": 12,
+    "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "transition-plugin",

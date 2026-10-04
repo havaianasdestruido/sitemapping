@@ -524,7 +524,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 1861712,
+    "bytes": 1861962,
     "percent": 93.9
   },
   {
@@ -1582,6 +1582,12 @@
     "language": "Batchfile",
     "bytes": 317,
     "percent": 0.1
+  },
+  {
+    "repo": "resumos-eleicao-2026",
+    "language": "HTML",
+    "bytes": 566956,
+    "percent": 100.0
   },
   {
     "repo": "RoBrowser",

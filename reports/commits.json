@@ -5892,6 +5892,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "fe2dede31ffc901aa5ab451ef909cee1e4276e5f",
+    "sha_short": "fe2dede",
+    "author": "GitHub Action Bot",
+    "date": "2026-10-04T16:16:04Z",
+    "message": "📊 [2026-10-04 16:16:04 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/fe2dede31ffc901aa5ab451ef909cee1e4276e5f"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "2666f0a68ad815ce37f630f110efc521781633e8",
     "sha_short": "2666f0a",
     "author": "GitHub Action Bot",
@@ -5982,12 +5992,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "7c8d1ada05a9e84ce720cf68f85926a4b09d0596",
-    "sha_short": "7c8d1ad",
+    "sha": "ec34df8fef675d178a2a9d55063e1fa836ebbef6",
+    "sha_short": "ec34df8",
     "author": "GitHub Action Bot",
-    "date": "2026-10-02T10:14:11Z",
-    "message": "📊 [2026-10-02 10:14:11 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/7c8d1ada05a9e84ce720cf68f85926a4b09d0596"
+    "date": "2026-09-26T02:38:37Z",
+    "message": "📊 [2026-09-26 02:38:37 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/ec34df8fef675d178a2a9d55063e1fa836ebbef6"
   },
   {
     "repo": "sitemapping",
@@ -6082,12 +6092,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "893c0d0fd1d2de417cf4f27a5a71c88dadd90206",
-    "sha_short": "893c0d0",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-23T19:24:21Z",
-    "message": "📊 [2026-09-23 19:24:21 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/893c0d0fd1d2de417cf4f27a5a71c88dadd90206"
+    "sha": "c1eb7982f0d7b253bc9aed6c3e44c9cdd6a50fd1",
+    "sha_short": "c1eb798",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:07:17Z",
+    "message": "Adjust maximum limits for commits and branches",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/c1eb7982f0d7b253bc9aed6c3e44c9cdd6a50fd1"
   },
   {
     "repo": "sitemapping",
@@ -6180,14 +6190,24 @@
     "url": "https://github.com/havaianasdestruido/sitemapping/commit/181f00b1518a42c210db990c1696e7a5b0acf506"
   },
   {
-    "repo": "sitemapping",
+    "repo": "top100",
     "branch": "main",
-    "sha": "9fb18fd83017c24ce07c433b500ed44fb009b718",
-    "sha_short": "9fb18fd",
-    "author": "Pato (new acc)",
-    "date": "2026-09-19T14:12:24Z",
-    "message": "Implement data export to CSV and JSON formats",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/9fb18fd83017c24ce07c433b500ed44fb009b718"
+    "sha": "a3c11e3e17a2374b66c6e2c490ba4b8e82f83813",
+    "sha_short": "a3c11e3",
+    "author": "github-actions[bot]",
+    "date": "2026-10-04T22:04:24Z",
+    "message": "data: update top repos data (2026-10-04 22:04 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/a3c11e3e17a2374b66c6e2c490ba4b8e82f83813"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "cae669576b3d14c6f7746dac80624a00ac3ea01a",
+    "sha_short": "cae6695",
+    "author": "github-actions[bot]",
+    "date": "2026-10-04T18:53:16Z",
+    "message": "data: update top repos data (2026-10-04 18:53 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/cae669576b3d14c6f7746dac80624a00ac3ea01a"
   },
   {
     "repo": "top100",
@@ -6272,22 +6292,22 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "663abb6f8654d28ec152be5beababace7da50345",
-    "sha_short": "663abb6",
-    "author": "github-actions[bot]",
-    "date": "2026-10-03T02:33:08Z",
-    "message": "data: update top repos data (2026-10-03 02:33 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/663abb6f8654d28ec152be5beababace7da50345"
+    "sha": "e3147393b4141b1d00ec9087e94d922160b0f150",
+    "sha_short": "e314739",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T12:38:52Z",
+    "message": "site: turn the 117-word page into a real content site for AI and search visibility",
+    "url": "https://github.com/havaianasdestruido/top100/commit/e3147393b4141b1d00ec9087e94d922160b0f150"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "77fe42b49c205f1f1a4dce6ed6538a972c218867",
-    "sha_short": "77fe42b",
+    "sha": "44bf32921ebd141af43523db7a7a210028cb998a",
+    "sha_short": "44bf329",
     "author": "github-actions[bot]",
-    "date": "2026-10-02T23:23:06Z",
-    "message": "data: update top repos data (2026-10-02 23:23 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/77fe42b49c205f1f1a4dce6ed6538a972c218867"
+    "date": "2026-09-28T06:01:56Z",
+    "message": "data: update top repos data (2026-09-28)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/44bf32921ebd141af43523db7a7a210028cb998a"
   },
   {
     "repo": "top100",
@@ -6372,22 +6392,22 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "9c7cbef9ea46d4eed3b9fc73b08bed950c3eba14",
-    "sha_short": "9c7cbef",
+    "sha": "abab9a1bc47088eeacf4349201eb40bfc710b76f",
+    "sha_short": "abab9a1",
     "author": "github-actions[bot]",
-    "date": "2026-09-26T18:08:15Z",
-    "message": "data: update top repos data (2026-09-26)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/9c7cbef9ea46d4eed3b9fc73b08bed950c3eba14"
+    "date": "2026-09-22T12:11:23Z",
+    "message": "data: update top repos data (2026-09-22)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/abab9a1bc47088eeacf4349201eb40bfc710b76f"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "e47d900d743469bdcae5c140007157d5954b56c5",
-    "sha_short": "e47d900",
+    "sha": "3ca829feb765922fa4ae810524dce908c0c22a53",
+    "sha_short": "3ca829f",
     "author": "github-actions[bot]",
-    "date": "2026-09-26T14:47:44Z",
-    "message": "data: update top repos data (2026-09-26)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/e47d900d743469bdcae5c140007157d5954b56c5"
+    "date": "2026-09-22T06:56:07Z",
+    "message": "data: update top repos data (2026-09-22)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/3ca829feb765922fa4ae810524dce908c0c22a53"
   },
   {
     "repo": "top100",
@@ -6472,22 +6492,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "563def76948e61ad0ed93a4c198648e96a91f0ed",
-    "sha_short": "563def7",
-    "author": "github-actions[bot]",
-    "date": "2026-09-21T00:38:57Z",
-    "message": "data: update top repos data (2026-09-21)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/563def76948e61ad0ed93a4c198648e96a91f0ed"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "748db272fa3dde12a41ce8c58e9404b70c2f7418",
-    "sha_short": "748db27",
+    "sha": "c189c2a73d0e2b4b620d11ff5639cba73f056ee4",
+    "sha_short": "c189c2a",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-21T00:38:05Z",
-    "message": "Add .imgbotconfig for aggressive image compression",
-    "url": "https://github.com/havaianasdestruido/top100/commit/748db272fa3dde12a41ce8c58e9404b70c2f7418"
+    "date": "2026-09-20T19:23:07Z",
+    "message": "Create fetch_top_repos.py",
+    "url": "https://github.com/havaianasdestruido/top100/commit/c189c2a73d0e2b4b620d11ff5639cba73f056ee4"
   },
   {
     "repo": ".github",
@@ -9828,6 +9838,76 @@
     "date": "2026-09-03T17:17:29Z",
     "message": "feat: initialize Spring Boot backend with JPA entities and Supabase config",
     "url": "https://github.com/havaianasdestruido/CivilConection-Fernando/commit/0db3b400fb24acf5bb591f64d05216848cbe3dbd"
+  },
+  {
+    "repo": "CivilConnection",
+    "branch": "main",
+    "sha": "fa6e922be483eeb4d1ebb5614048f1860cc719e6",
+    "sha_short": "fa6e922",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T19:56:16Z",
+    "message": "Create llms.txt",
+    "url": "https://github.com/havaianasdestruido/CivilConnection/commit/fa6e922be483eeb4d1ebb5614048f1860cc719e6"
+  },
+  {
+    "repo": "CivilConnection",
+    "branch": "main",
+    "sha": "5b2d4c63036a560d3f133a0792cb34d13fe86006",
+    "sha_short": "5b2d4c6",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T19:56:03Z",
+    "message": "Create AI.MD",
+    "url": "https://github.com/havaianasdestruido/CivilConnection/commit/5b2d4c63036a560d3f133a0792cb34d13fe86006"
+  },
+  {
+    "repo": "CivilConnection",
+    "branch": "main",
+    "sha": "416d194735107e5b802d5a3c32b386c490a385fb",
+    "sha_short": "416d194",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T19:55:44Z",
+    "message": "Create CLAUDE.MD",
+    "url": "https://github.com/havaianasdestruido/CivilConnection/commit/416d194735107e5b802d5a3c32b386c490a385fb"
+  },
+  {
+    "repo": "CivilConnection",
+    "branch": "main",
+    "sha": "8313bd36203f069ac73c033dd15b00dc94134eb9",
+    "sha_short": "8313bd3",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T19:55:08Z",
+    "message": "Update backend.md",
+    "url": "https://github.com/havaianasdestruido/CivilConnection/commit/8313bd36203f069ac73c033dd15b00dc94134eb9"
+  },
+  {
+    "repo": "CivilConnection",
+    "branch": "main",
+    "sha": "922c7923ca8b25847efda1023a802aa65c122480",
+    "sha_short": "922c792",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T19:51:35Z",
+    "message": "Create frontend.md",
+    "url": "https://github.com/havaianasdestruido/CivilConnection/commit/922c7923ca8b25847efda1023a802aa65c122480"
+  },
+  {
+    "repo": "CivilConnection",
+    "branch": "main",
+    "sha": "392a2f769cb16ebbcb12780a65748e024584f402",
+    "sha_short": "392a2f7",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T19:51:02Z",
+    "message": "Create backend.md",
+    "url": "https://github.com/havaianasdestruido/CivilConnection/commit/392a2f769cb16ebbcb12780a65748e024584f402"
+  },
+  {
+    "repo": "CivilConnection",
+    "branch": "main",
+    "sha": "ced5daa51a3c735df93c99192cba6e7c0b6e2ff5",
+    "sha_short": "ced5daa",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T19:49:57Z",
+    "message": "Create db.md",
+    "url": "https://github.com/havaianasdestruido/CivilConnection/commit/ced5daa51a3c735df93c99192cba6e7c0b6e2ff5"
   },
   {
     "repo": "ClassHub",
@@ -25120,6 +25200,96 @@
     "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/e33c2d103a2ab05483bbd9a9d39689b091ecec30"
   },
   {
+    "repo": "resumos-eleicao-2026",
+    "branch": "arena/01a107cf-resumos-eleicao-2026",
+    "sha": "548d4a89cc3583c61f502331a2d5fd7431225d00",
+    "sha_short": "548d4a8",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T16:47:41Z",
+    "message": "Extract ZIP archives into separate folders",
+    "url": "https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/548d4a89cc3583c61f502331a2d5fd7431225d00"
+  },
+  {
+    "repo": "resumos-eleicao-2026",
+    "branch": "arena/01a107cf-resumos-eleicao-2026",
+    "sha": "6d2b9231b4cbb87e92b58cba629994c6defe176e",
+    "sha_short": "6d2b923",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T16:44:39Z",
+    "message": "Create readme.txt",
+    "url": "https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/6d2b9231b4cbb87e92b58cba629994c6defe176e"
+  },
+  {
+    "repo": "resumos-eleicao-2026",
+    "branch": "arena/01a107cf-resumos-eleicao-2026",
+    "sha": "a5dca542c978d080dbe7ea58ea26be2678271cd9",
+    "sha_short": "a5dca54",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T16:40:27Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/a5dca542c978d080dbe7ea58ea26be2678271cd9"
+  },
+  {
+    "repo": "resumos-eleicao-2026",
+    "branch": "arena/01a107cf-resumos-eleicao-2026",
+    "sha": "2160b6a877d23d051abbc60764e357ad3f1026c6",
+    "sha_short": "2160b6a",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T16:39:15Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/2160b6a877d23d051abbc60764e357ad3f1026c6"
+  },
+  {
+    "repo": "resumos-eleicao-2026",
+    "branch": "main",
+    "sha": "970bf8b693ba8ef14cb363a6051ff8ee2057c3f1",
+    "sha_short": "970bf8b",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T16:48:21Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a107cf-resumos-eleicao-2026",
+    "url": "https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/970bf8b693ba8ef14cb363a6051ff8ee2057c3f1"
+  },
+  {
+    "repo": "resumos-eleicao-2026",
+    "branch": "main",
+    "sha": "548d4a89cc3583c61f502331a2d5fd7431225d00",
+    "sha_short": "548d4a8",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T16:47:41Z",
+    "message": "Extract ZIP archives into separate folders",
+    "url": "https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/548d4a89cc3583c61f502331a2d5fd7431225d00"
+  },
+  {
+    "repo": "resumos-eleicao-2026",
+    "branch": "main",
+    "sha": "6d2b9231b4cbb87e92b58cba629994c6defe176e",
+    "sha_short": "6d2b923",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T16:44:39Z",
+    "message": "Create readme.txt",
+    "url": "https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/6d2b9231b4cbb87e92b58cba629994c6defe176e"
+  },
+  {
+    "repo": "resumos-eleicao-2026",
+    "branch": "main",
+    "sha": "a5dca542c978d080dbe7ea58ea26be2678271cd9",
+    "sha_short": "a5dca54",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T16:40:27Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/a5dca542c978d080dbe7ea58ea26be2678271cd9"
+  },
+  {
+    "repo": "resumos-eleicao-2026",
+    "branch": "main",
+    "sha": "2160b6a877d23d051abbc60764e357ad3f1026c6",
+    "sha_short": "2160b6a",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T16:39:15Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/2160b6a877d23d051abbc60764e357ad3f1026c6"
+  },
+  {
     "repo": "RoBrowser",
     "branch": "main",
     "sha": "63ad22bfaec49d61e93e0322fdacffd20abd50f2",
@@ -26238,6 +26408,276 @@
     "date": "2026-08-10T20:46:34Z",
     "message": "feat: implement session tracking with friends, lobby and map enrichment",
     "url": "https://github.com/havaianasdestruido/steamlogger/commit/a4e4ac867419af19c733597ae638403b6a773526"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "arena/01a108a2-termuxubuntuproot",
+    "sha": "bd791dfed6beea63632c555a99726869c513a873",
+    "sha_short": "bd791df",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T20:46:47Z",
+    "message": "docs: localize Termux FAQs",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/bd791dfed6beea63632c555a99726869c513a873"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "arena/01a108a2-termuxubuntuproot",
+    "sha": "091fc0c1fd140a0f2c7d4e8ecbb94900eab5799d",
+    "sha_short": "091fc0c",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T20:38:43Z",
+    "message": "docs: add SEO-focused Termux FAQs",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/091fc0c1fd140a0f2c7d4e8ecbb94900eab5799d"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "arena/01a108a2-termuxubuntuproot",
+    "sha": "17c3bb521c2e91fc4528a8041064318eec6ded36",
+    "sha_short": "17c3bb5",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T20:34:26Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a10887-termuxubuntuproot",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/17c3bb521c2e91fc4528a8041064318eec6ded36"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "arena/01a108a2-termuxubuntuproot",
+    "sha": "ac6a84976393448ac5f03ed1e2aaf0449561637b",
+    "sha_short": "ac6a849",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T20:27:35Z",
+    "message": "Add Arabic, Persian, Turkish, French and Bengali manuals (per Google Trends regions)",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/ac6a84976393448ac5f03ed1e2aaf0449561637b"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "arena/01a108a2-termuxubuntuproot",
+    "sha": "12a62ca4180da1659a0df1e5e00835e30cdd5eb7",
+    "sha_short": "12a62ca",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T20:12:30Z",
+    "message": "Add Hindi and Indonesian manuals",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/12a62ca4180da1659a0df1e5e00835e30cdd5eb7"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "arena/01a108a2-termuxubuntuproot",
+    "sha": "1c9f48cf5cf3e81c85aaa619fc1ca016f21c1884",
+    "sha_short": "1c9f48c",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T20:09:54Z",
+    "message": "Rename Chinese manual to README.zh.MD (standard ISO code)",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/1c9f48cf5cf3e81c85aaa619fc1ca016f21c1884"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "arena/01a108a2-termuxubuntuproot",
+    "sha": "e629181242a9a1e563dc2891149b37d1dcd22bd0",
+    "sha_short": "e629181",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T20:09:26Z",
+    "message": "Split README into per-language manuals with language index",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/e629181242a9a1e563dc2891149b37d1dcd22bd0"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "arena/01a108a2-termuxubuntuproot",
+    "sha": "f242621d09fa731672d98e50e518895b5b0ab635",
+    "sha_short": "f242621",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T20:05:51Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/f242621d09fa731672d98e50e518895b5b0ab635"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "arena/01a108a2-termuxubuntuproot",
+    "sha": "3978aa1fc36e6ed8f0889480efab7260d61e50ba",
+    "sha_short": "3978aa1",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T20:02:58Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/3978aa1fc36e6ed8f0889480efab7260d61e50ba"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "arena/01a108a2-termuxubuntuproot",
+    "sha": "2b096d0d0e00cff90afde8f8f1714be3604a074f",
+    "sha_short": "2b096d0",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T19:59:43Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/2b096d0d0e00cff90afde8f8f1714be3604a074f"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "arena/01a10887-termuxubuntuproot",
+    "sha": "ac6a84976393448ac5f03ed1e2aaf0449561637b",
+    "sha_short": "ac6a849",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T20:27:35Z",
+    "message": "Add Arabic, Persian, Turkish, French and Bengali manuals (per Google Trends regions)",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/ac6a84976393448ac5f03ed1e2aaf0449561637b"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "arena/01a10887-termuxubuntuproot",
+    "sha": "12a62ca4180da1659a0df1e5e00835e30cdd5eb7",
+    "sha_short": "12a62ca",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T20:12:30Z",
+    "message": "Add Hindi and Indonesian manuals",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/12a62ca4180da1659a0df1e5e00835e30cdd5eb7"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "arena/01a10887-termuxubuntuproot",
+    "sha": "1c9f48cf5cf3e81c85aaa619fc1ca016f21c1884",
+    "sha_short": "1c9f48c",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T20:09:54Z",
+    "message": "Rename Chinese manual to README.zh.MD (standard ISO code)",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/1c9f48cf5cf3e81c85aaa619fc1ca016f21c1884"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "arena/01a10887-termuxubuntuproot",
+    "sha": "e629181242a9a1e563dc2891149b37d1dcd22bd0",
+    "sha_short": "e629181",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T20:09:26Z",
+    "message": "Split README into per-language manuals with language index",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/e629181242a9a1e563dc2891149b37d1dcd22bd0"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "arena/01a10887-termuxubuntuproot",
+    "sha": "f242621d09fa731672d98e50e518895b5b0ab635",
+    "sha_short": "f242621",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T20:05:51Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/f242621d09fa731672d98e50e518895b5b0ab635"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "arena/01a10887-termuxubuntuproot",
+    "sha": "3978aa1fc36e6ed8f0889480efab7260d61e50ba",
+    "sha_short": "3978aa1",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T20:02:58Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/3978aa1fc36e6ed8f0889480efab7260d61e50ba"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "arena/01a10887-termuxubuntuproot",
+    "sha": "2b096d0d0e00cff90afde8f8f1714be3604a074f",
+    "sha_short": "2b096d0",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T19:59:43Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/2b096d0d0e00cff90afde8f8f1714be3604a074f"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "main",
+    "sha": "7936720e906598eb766a2235d98e37e7cd3bc704",
+    "sha_short": "7936720",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T21:10:18Z",
+    "message": "Create jekyll-gh-pages.yml",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/7936720e906598eb766a2235d98e37e7cd3bc704"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "main",
+    "sha": "166b569a4dbf286aae4ce642b32c031ebc84ee85",
+    "sha_short": "166b569",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T21:06:14Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/01a108a2-termuxubuntuproot",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/166b569a4dbf286aae4ce642b32c031ebc84ee85"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "main",
+    "sha": "bd791dfed6beea63632c555a99726869c513a873",
+    "sha_short": "bd791df",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T20:46:47Z",
+    "message": "docs: localize Termux FAQs",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/bd791dfed6beea63632c555a99726869c513a873"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "main",
+    "sha": "091fc0c1fd140a0f2c7d4e8ecbb94900eab5799d",
+    "sha_short": "091fc0c",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T20:38:43Z",
+    "message": "docs: add SEO-focused Termux FAQs",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/091fc0c1fd140a0f2c7d4e8ecbb94900eab5799d"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "main",
+    "sha": "17c3bb521c2e91fc4528a8041064318eec6ded36",
+    "sha_short": "17c3bb5",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T20:34:26Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a10887-termuxubuntuproot",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/17c3bb521c2e91fc4528a8041064318eec6ded36"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "main",
+    "sha": "ac6a84976393448ac5f03ed1e2aaf0449561637b",
+    "sha_short": "ac6a849",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T20:27:35Z",
+    "message": "Add Arabic, Persian, Turkish, French and Bengali manuals (per Google Trends regions)",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/ac6a84976393448ac5f03ed1e2aaf0449561637b"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "main",
+    "sha": "12a62ca4180da1659a0df1e5e00835e30cdd5eb7",
+    "sha_short": "12a62ca",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T20:12:30Z",
+    "message": "Add Hindi and Indonesian manuals",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/12a62ca4180da1659a0df1e5e00835e30cdd5eb7"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "main",
+    "sha": "1c9f48cf5cf3e81c85aaa619fc1ca016f21c1884",
+    "sha_short": "1c9f48c",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T20:09:54Z",
+    "message": "Rename Chinese manual to README.zh.MD (standard ISO code)",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/1c9f48cf5cf3e81c85aaa619fc1ca016f21c1884"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "main",
+    "sha": "e629181242a9a1e563dc2891149b37d1dcd22bd0",
+    "sha_short": "e629181",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T20:09:26Z",
+    "message": "Split README into per-language manuals with language index",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/e629181242a9a1e563dc2891149b37d1dcd22bd0"
+  },
+  {
+    "repo": "TermuxUbuntuPRoot",
+    "branch": "main",
+    "sha": "f242621d09fa731672d98e50e518895b5b0ab635",
+    "sha_short": "f242621",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T20:05:51Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/f242621d09fa731672d98e50e518895b5b0ab635"
   },
   {
     "repo": "transition-plugin",

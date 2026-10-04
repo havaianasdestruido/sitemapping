@@ -225,6 +225,7 @@ PWSV,1,c59136b4134926c5fe7107c2c1557bdea1c37552,c59136b,fix(ci): set enablement 
 PWSV,1,1eea800835125417437294fe20acc9d2e885676e,1eea800,ci: separate build and deploy jobs for GitHub Pages workflow,https://github.com/havaianasdestruido/PWSV/commit/1eea800835125417437294fe20acc9d2e885676e
 Quack3DMM,1,9dd932827b3a2b121581b6d46db4e2f22af36b0d,9dd9328,[ImgBot] Optimize images,https://github.com/havaianasdestruido/Quack3DMM/commit/9dd932827b3a2b121581b6d46db4e2f22af36b0d
 Rbx2Source-enhanced,1,66c6a125faa3778f543762e13a1a0afc93e399e6,66c6a12,[ImgBot] Optimize images,https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/66c6a125faa3778f543762e13a1a0afc93e399e6
+resumos-eleicao-2026,1,548d4a89cc3583c61f502331a2d5fd7431225d00,548d4a8,Extract ZIP archives into separate folders,https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/548d4a89cc3583c61f502331a2d5fd7431225d00
 seohelper,2,ce1f740d52f3b643d4a441b187060fa7a9cefa80,ce1f740,Package the scan skill as an installable plugin,https://github.com/havaianasdestruido/seohelper/commit/ce1f740d52f3b643d4a441b187060fa7a9cefa80
 seohelper,2,4671b6df392b050968e4f9c392f3e78b81539648,4671b6d,Use the current action majors in CI,https://github.com/havaianasdestruido/seohelper/commit/4671b6df392b050968e4f9c392f3e78b81539648
 seohelper,1,0cf919c768ed72c83ad523229924c294187dac4d,0cf919c,Refocus scan skill on plain-text chat results,https://github.com/havaianasdestruido/seohelper/commit/0cf919c768ed72c83ad523229924c294187dac4d
@@ -233,6 +234,12 @@ steamlogger,1,da63afce1905635b901bc16af104022937168df1,da63afc,Tolerate brief mi
 steamlogger,3,d675d2e036341813334584f40cf43b5e50feea04,d675d2e,[ImgBot] Optimize images,https://github.com/havaianasdestruido/steamlogger/commit/d675d2e036341813334584f40cf43b5e50feea04
 steamlogger,2,00a1d0df6adb9c3e0dc70cc165b7ec213b85aa8b,00a1d0d,docs: add full Docusaurus documentation site,https://github.com/havaianasdestruido/steamlogger/commit/00a1d0df6adb9c3e0dc70cc165b7ec213b85aa8b
 steamlogger,2,ed8f729bf205f73fd6ae9e02b7fcaebf9943d8d0,ed8f729,docs: address review feedback on the documentation site,https://github.com/havaianasdestruido/steamlogger/commit/ed8f729bf205f73fd6ae9e02b7fcaebf9943d8d0
+TermuxUbuntuPRoot,2,091fc0c1fd140a0f2c7d4e8ecbb94900eab5799d,091fc0c,docs: add SEO-focused Termux FAQs,https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/091fc0c1fd140a0f2c7d4e8ecbb94900eab5799d
+TermuxUbuntuPRoot,2,bd791dfed6beea63632c555a99726869c513a873,bd791df,docs: localize Termux FAQs,https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/bd791dfed6beea63632c555a99726869c513a873
+TermuxUbuntuPRoot,1,e629181242a9a1e563dc2891149b37d1dcd22bd0,e629181,Split README into per-language manuals with language index,https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/e629181242a9a1e563dc2891149b37d1dcd22bd0
+TermuxUbuntuPRoot,1,1c9f48cf5cf3e81c85aaa619fc1ca016f21c1884,1c9f48c,Rename Chinese manual to README.zh.MD (standard ISO code),https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/1c9f48cf5cf3e81c85aaa619fc1ca016f21c1884
+TermuxUbuntuPRoot,1,12a62ca4180da1659a0df1e5e00835e30cdd5eb7,12a62ca,Add Hindi and Indonesian manuals,https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/12a62ca4180da1659a0df1e5e00835e30cdd5eb7
+TermuxUbuntuPRoot,1,ac6a84976393448ac5f03ed1e2aaf0449561637b,ac6a849,"Add Arabic, Persian, Turkish, French and Bengali manuals (per Google Trends regions)",https://github.com/havaianasdestruido/TermuxUbuntuPRoot/commit/ac6a84976393448ac5f03ed1e2aaf0449561637b
 WAL-skill,1,905afbb4c2b065838bbad033a19c448c9733b7d8,905afbb,Add W3C WAI frontend accessibility Claude skill,https://github.com/havaianasdestruido/WAL-skill/commit/905afbb4c2b065838bbad033a19c448c9733b7d8
 WebRadioFM,1,9f9470c45f869990df8e68862ebc8aa837d1e1ba,9f9470c,docs: add comprehensive Docusaurus site,https://github.com/havaianasdestruido/WebRadioFM/commit/9f9470c45f869990df8e68862ebc8aa837d1e1ba
 WebRadioFM,1,36681f09e25e00179a3c7f46e86312e4ffdfef51,36681f0,fix: address documentation review feedback,https://github.com/havaianasdestruido/WebRadioFM/commit/36681f09e25e00179a3c7f46e86312e4ffdfef51

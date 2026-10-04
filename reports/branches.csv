@@ -32,8 +32,8 @@ R2K16,arena/01a0ff4f-r2k16,0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0,0659d3d,Fals
 R2K16,arena/01a10307-r2k16,a51d8a137fb67314ebea6734e530f99ea1813b14,a51d8a1,False,https://github.com/havaianasdestruido/R2K16/tree/arena/01a10307-r2k16
 R2K16,dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece,d7f519da3b8d2c4b6b201c655273292229b4619d,d7f519d,False,https://github.com/havaianasdestruido/R2K16/tree/dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece
 R2K16,main,e38de88218960d322afbcd497e8fa7aaf1d492b1,e38de88,True,https://github.com/havaianasdestruido/R2K16/tree/main
-sitemapping,main,2666f0a68ad815ce37f630f110efc521781633e8,2666f0a,True,https://github.com/havaianasdestruido/sitemapping/tree/main
-top100,main,5717a0f29d974f6dbd41a65a849be0cb8df7c963,5717a0f,True,https://github.com/havaianasdestruido/top100/tree/main
+sitemapping,main,fe2dede31ffc901aa5ab451ef909cee1e4276e5f,fe2dede,True,https://github.com/havaianasdestruido/sitemapping/tree/main
+top100,main,a3c11e3e17a2374b66c6e2c490ba4b8e82f83813,a3c11e3,True,https://github.com/havaianasdestruido/top100/tree/main
 .github,main,cb5a4a05ee2f896ee7336719122283a229d3bfba,cb5a4a0,True,https://github.com/havaianasdestruido/.github/tree/main
 abnt-skill,arena/01a0ef9a-abnt-skill,a4d0723375c0d8d8c6b871f3a13f6ea507cf6752,a4d0723,False,https://github.com/havaianasdestruido/abnt-skill/tree/arena/01a0ef9a-abnt-skill
 abnt-skill,main,7dc69ecb2a2bea7acb6ea90c0d41a214e98ec4f1,7dc69ec,True,https://github.com/havaianasdestruido/abnt-skill/tree/main
@@ -60,6 +60,7 @@ CivilConection,feature/init-springboot-backend-6483368769379451831,21ce467c9c86c
 CivilConection-Fernando,arena/01a0f8be-civilconection,c139a0848dd0544043e14e842d8bfa269db37bd6,c139a08,False,https://github.com/havaianasdestruido/CivilConection-Fernando/tree/arena/01a0f8be-civilconection
 CivilConection-Fernando,feature/init-springboot-backend-6483368769379451831,0e1336edfdde5faf89d322f5193e78f209c3ac76,0e1336e,False,https://github.com/havaianasdestruido/CivilConection-Fernando/tree/feature/init-springboot-backend-6483368769379451831
 CivilConection-Fernando,main,3b34374a5b9ff23b3fca3c1759e49e36710ea9d3,3b34374,True,https://github.com/havaianasdestruido/CivilConection-Fernando/tree/main
+CivilConnection,main,fa6e922be483eeb4d1ebb5614048f1860cc719e6,fa6e922,True,https://github.com/havaianasdestruido/CivilConnection/tree/main
 ClassHub,arena/01a0ee5f-classhub,2666af7097e22a05cf6d8772dd71ad44ee2b6c1b,2666af7,False,https://github.com/havaianasdestruido/ClassHub/tree/arena/01a0ee5f-classhub
 ClassHub,main,cf70ec3359c53042666b3890e8199802e8ea79c4,cf70ec3,True,https://github.com/havaianasdestruido/ClassHub/tree/main
 dadosabertos,arena/01a0e80c-dadosabertos,8635c04cf229c6396879860c510f7696630cd261,8635c04,False,https://github.com/havaianasdestruido/dadosabertos/tree/arena/01a0e80c-dadosabertos
@@ -155,6 +156,8 @@ PWSV,main,cff8ab4923d55ea280b0cdfe11bd2b2d304521a6,cff8ab4,True,https://github.c
 Quack3DMM,main,d306a9b926cd37905288ad89ec7d5fdc3521f13f,d306a9b,True,https://github.com/havaianasdestruido/Quack3DMM/tree/main
 quackdb,main,24c2f58397bed17bb58c64e5920351942d788de5,24c2f58,True,https://github.com/havaianasdestruido/quackdb/tree/main
 Rbx2Source-enhanced,experimental,59424a8234b5e3f51443c82b3f3242557fbdb30c,59424a8,True,https://github.com/havaianasdestruido/Rbx2Source-enhanced/tree/experimental
+resumos-eleicao-2026,arena/01a107cf-resumos-eleicao-2026,548d4a89cc3583c61f502331a2d5fd7431225d00,548d4a8,False,https://github.com/havaianasdestruido/resumos-eleicao-2026/tree/arena/01a107cf-resumos-eleicao-2026
+resumos-eleicao-2026,main,970bf8b693ba8ef14cb363a6051ff8ee2057c3f1,970bf8b,True,https://github.com/havaianasdestruido/resumos-eleicao-2026/tree/main
 RoBrowser,main,63ad22bfaec49d61e93e0322fdacffd20abd50f2,63ad22b,True,https://github.com/havaianasdestruido/RoBrowser/tree/main
 scrobbleviz,master,ef6509ac4fd50560a52fb9f26ece45cf93004836,ef6509a,True,https://github.com/havaianasdestruido/scrobbleviz/tree/master
 seohelper,arena/01a0e9c3-seohelper,0cf919c768ed72c83ad523229924c294187dac4d,0cf919c,False,https://github.com/havaianasdestruido/seohelper/tree/arena/01a0e9c3-seohelper
@@ -167,6 +170,9 @@ Sonic4,main,7c2ca666a206610d2a0cdfe153136d30e3d8575f,7c2ca66,True,https://github
 steamlogger,arena/01a0fd79-steamlogger,ed8f729bf205f73fd6ae9e02b7fcaebf9943d8d0,ed8f729,False,https://github.com/havaianasdestruido/steamlogger/tree/arena/01a0fd79-steamlogger
 steamlogger,codex/investigar-problema-de-log,da63afce1905635b901bc16af104022937168df1,da63afc,False,https://github.com/havaianasdestruido/steamlogger/tree/codex/investigar-problema-de-log
 steamlogger,main,e3c708f8e083e804030d990e3f6569f4ea36556d,e3c708f,True,https://github.com/havaianasdestruido/steamlogger/tree/main
+TermuxUbuntuPRoot,arena/01a108a2-termuxubuntuproot,bd791dfed6beea63632c555a99726869c513a873,bd791df,False,https://github.com/havaianasdestruido/TermuxUbuntuPRoot/tree/arena/01a108a2-termuxubuntuproot
+TermuxUbuntuPRoot,arena/01a10887-termuxubuntuproot,ac6a84976393448ac5f03ed1e2aaf0449561637b,ac6a849,False,https://github.com/havaianasdestruido/TermuxUbuntuPRoot/tree/arena/01a10887-termuxubuntuproot
+TermuxUbuntuPRoot,main,7936720e906598eb766a2235d98e37e7cd3bc704,7936720,True,https://github.com/havaianasdestruido/TermuxUbuntuPRoot/tree/main
 transition-plugin,master,7908d64951212a1f084f54de29632f9147de1974,7908d64,True,https://github.com/havaianasdestruido/transition-plugin/tree/master
 video-trimmer,master,57cffd9d444104afec046b73bb5e893433902d8b,57cffd9,True,https://github.com/havaianasdestruido/video-trimmer/tree/master
 VideoEditingGoldenRules,main,80ae9015bae1f9d540ea70291075b41ee6101445,80ae901,True,https://github.com/havaianasdestruido/VideoEditingGoldenRules/tree/main
