@@ -9,8 +9,8 @@ FNF-Phoenix-Engine,Batchfile,8043,0.3
 FNF-Phoenix-Engine,C,3044,0.1
 FNF-Phoenix-Engine,CSS,3016,0.1
 blaster,C,46157,100.0
-hemorroidabot,JavaScript,406190,98.6
-hemorroidabot,HTML,5596,1.4
+hemorroidabot,JavaScript,410126,98.7
+hemorroidabot,HTML,5596,1.3
 PersonaDB,Python,571968,90.9
 PersonaDB,PLpgSQL,37426,6.0
 PersonaDB,TypeScript,14942,2.4
@@ -86,7 +86,7 @@ R2K16,SCSS,259,0.0
 R2K16,GDB,227,0.0
 R2K16,Sass,167,0.0
 sitemapping,Python,29474,100.0
-top100,HTML,1861673,93.9
+top100,HTML,1861642,93.9
 top100,Python,115745,5.8
 top100,CSS,4402,0.2
 abnt-skill,Python,14862,100.0
@@ -166,9 +166,9 @@ Giggles-Shit,JavaScript,56648,78.1
 Giggles-Shit,CSS,12258,16.9
 Giggles-Shit,HTML,3377,4.7
 Giggles-Shit,Ruby,262,0.4
-havaianasdestruido.github.io,HTML,10768,71.0
-havaianasdestruido.github.io,CSS,2593,17.1
-havaianasdestruido.github.io,JavaScript,1803,11.9
+havaianasdestruido.github.io,HTML,12591,68.5
+havaianasdestruido.github.io,JavaScript,3284,17.9
+havaianasdestruido.github.io,CSS,2510,13.7
 Hiphenatus,C#,100558,93.3
 Hiphenatus,Visual Basic .NET,7278,6.7
 hscript-improved,Haxe,206716,99.7

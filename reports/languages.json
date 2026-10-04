@@ -62,14 +62,14 @@
   {
     "repo": "hemorroidabot",
     "language": "JavaScript",
-    "bytes": 406190,
-    "percent": 98.6
+    "bytes": 410126,
+    "percent": 98.7
   },
   {
     "repo": "hemorroidabot",
     "language": "HTML",
     "bytes": 5596,
-    "percent": 1.4
+    "percent": 1.3
   },
   {
     "repo": "PersonaDB",
@@ -524,7 +524,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 1861673,
+    "bytes": 1861642,
     "percent": 93.9
   },
   {
@@ -1004,20 +1004,20 @@
   {
     "repo": "havaianasdestruido.github.io",
     "language": "HTML",
-    "bytes": 10768,
-    "percent": 71.0
-  },
-  {
-    "repo": "havaianasdestruido.github.io",
-    "language": "CSS",
-    "bytes": 2593,
-    "percent": 17.1
+    "bytes": 12591,
+    "percent": 68.5
   },
   {
     "repo": "havaianasdestruido.github.io",
     "language": "JavaScript",
-    "bytes": 1803,
-    "percent": 11.9
+    "bytes": 3284,
+    "percent": 17.9
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "language": "CSS",
+    "bytes": 2510,
+    "percent": 13.7
   },
   {
     "repo": "Hiphenatus",

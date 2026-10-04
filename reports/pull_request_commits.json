@@ -401,6 +401,22 @@
   },
   {
     "repo": "hemorroidabot",
+    "pr_number": 6,
+    "sha": "7cb85e4ea92574a60e15d7ebf155ade61205e594",
+    "sha_short": "7cb85e4",
+    "message": "Corrige carga do WASM no deploy do Pages (subpath) e o 404 do favicon",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/7cb85e4ea92574a60e15d7ebf155ade61205e594"
+  },
+  {
+    "repo": "hemorroidabot",
+    "pr_number": 5,
+    "sha": "3c65f639aa1869123bb18b75a948c687dde0a4e7",
+    "sha_short": "3c65f63",
+    "message": "fix: publicar runtime do wllama no GitHub Pages",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/3c65f639aa1869123bb18b75a948c687dde0a4e7"
+  },
+  {
+    "repo": "hemorroidabot",
     "pr_number": 4,
     "sha": "27d8d44a7b1a8a3fa8e236896adbac12d8dc4e9b",
     "sha_short": "27d8d44",

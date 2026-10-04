@@ -287,6 +287,32 @@
   },
   {
     "repo": "hemorroidabot",
+    "state": "open",
+    "status": "open",
+    "number": 6,
+    "title": "Corrige WASM 'expected magic word' no deploy do GitHub Pages (subpath) + favicon 404",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-04T01:00:53Z",
+    "base_branch": "master",
+    "head_branch": "arena/01a10462-hemorroidabot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/pull/6"
+  },
+  {
+    "repo": "hemorroidabot",
+    "state": "closed",
+    "status": "merged",
+    "number": 5,
+    "title": "fix: publicar runtime do Wllama no GitHub Pages",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-04T00:45:24Z",
+    "base_branch": "master",
+    "head_branch": "arena/01a1045a-hemorroidabot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/pull/5"
+  },
+  {
+    "repo": "hemorroidabot",
     "state": "closed",
     "status": "merged",
     "number": 4,
@@ -1041,8 +1067,8 @@
   },
   {
     "repo": "havaianasdestruido.github.io",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 4,
     "title": "Add IE11 compatibility fallbacks",
     "user": "havaianasdestruido",
