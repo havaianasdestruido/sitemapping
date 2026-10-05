@@ -5892,6 +5892,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "6bd572442e5b479e1a34dafbc25c728b6baeee05",
+    "sha_short": "6bd5724",
+    "author": "GitHub Action Bot",
+    "date": "2026-10-04T22:42:33Z",
+    "message": "📊 [2026-10-04 22:42:33 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/6bd572442e5b479e1a34dafbc25c728b6baeee05"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "fe2dede31ffc901aa5ab451ef909cee1e4276e5f",
     "sha_short": "fe2dede",
     "author": "GitHub Action Bot",
@@ -5982,12 +5992,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "c6709a5e982b02f66a8f7a388fe83127e7e602f5",
-    "sha_short": "c6709a5",
+    "sha": "14ad3be6829e88a905936721268dc729ec922d9e",
+    "sha_short": "14ad3be",
     "author": "GitHub Action Bot",
-    "date": "2026-10-02T17:07:50Z",
-    "message": "📊 [2026-10-02 17:07:50 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/c6709a5e982b02f66a8f7a388fe83127e7e602f5"
+    "date": "2026-09-26T09:01:21Z",
+    "message": "📊 [2026-09-26 09:01:21 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/14ad3be6829e88a905936721268dc729ec922d9e"
   },
   {
     "repo": "sitemapping",
@@ -6082,12 +6092,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "23d58a91575ac53552bebb7fabe9459ecb996408",
-    "sha_short": "23d58a9",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-23T22:39:25Z",
-    "message": "📊 [2026-09-23 22:39:25 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/23d58a91575ac53552bebb7fabe9459ecb996408"
+    "sha": "7966b0d8d2ba6efa4d1af469a18a9a6ba8817f2c",
+    "sha_short": "7966b0d",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T15:16:11Z",
+    "message": "Change cron schedule to run every 4 hours",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/7966b0d8d2ba6efa4d1af469a18a9a6ba8817f2c"
   },
   {
     "repo": "sitemapping",
@@ -6180,14 +6190,14 @@
     "url": "https://github.com/havaianasdestruido/sitemapping/commit/f6e77966e9b85801d5c4c96b6f88dd6a81ab0cd6"
   },
   {
-    "repo": "sitemapping",
+    "repo": "top100",
     "branch": "main",
-    "sha": "181f00b1518a42c210db990c1696e7a5b0acf506",
-    "sha_short": "181f00b",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-19T14:17:17Z",
-    "message": "📊 Update repository report [2026-09-19 14:17:17 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/181f00b1518a42c210db990c1696e7a5b0acf506"
+    "sha": "c1710d817a15bf4301cb36ea0045c0a675af9dab",
+    "sha_short": "c1710d8",
+    "author": "github-actions[bot]",
+    "date": "2026-10-05T01:23:03Z",
+    "message": "data: update top repos data (2026-10-05 01:23 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/c1710d817a15bf4301cb36ea0045c0a675af9dab"
   },
   {
     "repo": "top100",
@@ -6282,12 +6292,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "c1f147a92360dfeaf15aba5812df7b513df924ce",
-    "sha_short": "c1f147a",
-    "author": "github-actions[bot]",
-    "date": "2026-10-03T08:39:20Z",
-    "message": "data: update top repos data (2026-10-03 08:39 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/c1f147a92360dfeaf15aba5812df7b513df924ce"
+    "sha": "57aabb98925d9200f16f805c295fc63fc9f1a816",
+    "sha_short": "57aabb9",
+    "author": "havaianasdestruido",
+    "date": "2026-09-28T13:04:56Z",
+    "message": "review: fix 17 verified issues found in the first pass",
+    "url": "https://github.com/havaianasdestruido/top100/commit/57aabb98925d9200f16f805c295fc63fc9f1a816"
   },
   {
     "repo": "top100",
@@ -6382,12 +6392,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "e946c7f4652fde3688fc7e2316835b68254fa032",
-    "sha_short": "e946c7f",
+    "sha": "7a5c02e5a1c84b9bbac7f7220b6c41637c11a8c8",
+    "sha_short": "7a5c02e",
     "author": "github-actions[bot]",
-    "date": "2026-09-26T21:40:05Z",
-    "message": "data: update top repos data (2026-09-26)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/e946c7f4652fde3688fc7e2316835b68254fa032"
+    "date": "2026-09-22T17:24:24Z",
+    "message": "data: update top repos data (2026-09-22)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/7a5c02e5a1c84b9bbac7f7220b6c41637c11a8c8"
   },
   {
     "repo": "top100",
@@ -6482,12 +6492,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "623f15dea9611cd851b9c4733174367b4502b4fc",
-    "sha_short": "623f15d",
+    "sha": "b380d9a5fc7d141fdbc6c963b875b53d99195d55",
+    "sha_short": "b380d9a",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-21T01:10:09Z",
-    "message": "Set imgbot schedule to weekly",
-    "url": "https://github.com/havaianasdestruido/top100/commit/623f15dea9611cd851b9c4733174367b4502b4fc"
+    "date": "2026-09-20T19:23:45Z",
+    "message": "Create run.yml",
+    "url": "https://github.com/havaianasdestruido/top100/commit/b380d9a5fc7d141fdbc6c963b875b53d99195d55"
   },
   {
     "repo": "top100",
