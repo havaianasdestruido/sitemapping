@@ -266,16 +266,16 @@
   {
     "repo": "sitemapping",
     "name": "main",
-    "head_sha": "6bd572442e5b479e1a34dafbc25c728b6baeee05",
-    "head_sha_short": "6bd5724",
+    "head_sha": "25f87d2cbf99c21123cf918b8d284573fe1902bc",
+    "head_sha_short": "25f87d2",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/sitemapping/tree/main"
   },
   {
     "repo": "top100",
     "name": "main",
-    "head_sha": "c1710d817a15bf4301cb36ea0045c0a675af9dab",
-    "head_sha_short": "c1710d8",
+    "head_sha": "e9c6b6bcbfe2eb37b2d61a070a5423b0537fdec7",
+    "head_sha_short": "e9c6b6b",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/top100/tree/main"
   },
@@ -410,8 +410,8 @@
   {
     "repo": "brnews-db",
     "name": "main",
-    "head_sha": "be4dbee6b989c322d58715bd237a827b76c90e76",
-    "head_sha_short": "be4dbee",
+    "head_sha": "5c0d72b81e5c52d57f11108d4f183c3e640d9d5a",
+    "head_sha_short": "5c0d72b",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/brnews-db/tree/main"
   },
