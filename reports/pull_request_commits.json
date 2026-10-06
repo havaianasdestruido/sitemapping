@@ -760,6 +760,70 @@
     "url": "https://github.com/havaianasdestruido/top100/commit/57aabb98925d9200f16f805c295fc63fc9f1a816"
   },
   {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 5,
+    "sha": "1bf19ea8727360b9dd4e8cb515a6b4af12938b50",
+    "sha_short": "1bf19ea",
+    "message": "website: use Jekyll for primary webpage and Docusaurus for /docs",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/1bf19ea8727360b9dd4e8cb515a6b4af12938b50"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 5,
+    "sha": "43f5c57d5e3da1810664f846afa2630859a9a6e5",
+    "sha_short": "43f5c57",
+    "message": "fix(website): address review feedback on workflow permissions, reduced motion, snippet syntax, and docs links",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/43f5c57d5e3da1810664f846afa2630859a9a6e5"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 4,
+    "sha": "b575d5a7e88392d7228b9c33bc7a17caf3d63eb5",
+    "sha_short": "b575d5a",
+    "message": "website: redesign docs homepage and theme tokens (taste-skill pass)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b575d5a7e88392d7228b9c33bc7a17caf3d63eb5"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 3,
+    "sha": "66f7a725e8010b29ca8e312b82b6f4a32628fdea",
+    "sha_short": "66f7a72",
+    "message": "docs: add full-codebase Docusaurus documentation site",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/66f7a725e8010b29ca8e312b82b6f4a32628fdea"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 3,
+    "sha": "4a2ece5e92fa5b08abf32cd91eb407f25df39972",
+    "sha_short": "4a2ece5",
+    "message": "docs: apply review fixes — accuracy corrections across the docs site",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4a2ece5e92fa5b08abf32cd91eb407f25df39972"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 2,
+    "sha": "a129e04a21227883e148e93ac852cf47054e71ae",
+    "sha_short": "a129e04",
+    "message": "ci: build each CMake project",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a129e04a21227883e148e93ac852cf47054e71ae"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 2,
+    "sha": "8b29433062320266ed913539ec6848fd1f2690b8",
+    "sha_short": "8b29433",
+    "message": "ci: pin Visual Studio 2022 runner",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8b29433062320266ed913539ec6848fd1f2690b8"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 1,
+    "sha": "0587ed0e3fa7c578dfba5e54ec0f5f2dfcacc186",
+    "sha_short": "0587ed0",
+    "message": "Add reconstruction TODO audit annotations",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/0587ed0e3fa7c578dfba5e54ec0f5f2dfcacc186"
+  },
+  {
     "repo": "abnt-skill",
     "pr_number": 1,
     "sha": "97bbcb0343a89e73e3ea84020507162937f43cd0",
@@ -1966,69 +2030,5 @@
     "sha_short": "36681f0",
     "message": "fix: address documentation review feedback",
     "url": "https://github.com/havaianasdestruido/WebRadioFM/commit/36681f09e25e00179a3c7f46e86312e4ffdfef51"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 5,
-    "sha": "1bf19ea8727360b9dd4e8cb515a6b4af12938b50",
-    "sha_short": "1bf19ea",
-    "message": "website: use Jekyll for primary webpage and Docusaurus for /docs",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/1bf19ea8727360b9dd4e8cb515a6b4af12938b50"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 5,
-    "sha": "43f5c57d5e3da1810664f846afa2630859a9a6e5",
-    "sha_short": "43f5c57",
-    "message": "fix(website): address review feedback on workflow permissions, reduced motion, snippet syntax, and docs links",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/43f5c57d5e3da1810664f846afa2630859a9a6e5"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 4,
-    "sha": "b575d5a7e88392d7228b9c33bc7a17caf3d63eb5",
-    "sha_short": "b575d5a",
-    "message": "website: redesign docs homepage and theme tokens (taste-skill pass)",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b575d5a7e88392d7228b9c33bc7a17caf3d63eb5"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 3,
-    "sha": "66f7a725e8010b29ca8e312b82b6f4a32628fdea",
-    "sha_short": "66f7a72",
-    "message": "docs: add full-codebase Docusaurus documentation site",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/66f7a725e8010b29ca8e312b82b6f4a32628fdea"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 3,
-    "sha": "4a2ece5e92fa5b08abf32cd91eb407f25df39972",
-    "sha_short": "4a2ece5",
-    "message": "docs: apply review fixes — accuracy corrections across the docs site",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4a2ece5e92fa5b08abf32cd91eb407f25df39972"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 2,
-    "sha": "a129e04a21227883e148e93ac852cf47054e71ae",
-    "sha_short": "a129e04",
-    "message": "ci: build each CMake project",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a129e04a21227883e148e93ac852cf47054e71ae"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 2,
-    "sha": "8b29433062320266ed913539ec6848fd1f2690b8",
-    "sha_short": "8b29433",
-    "message": "ci: pin Visual Studio 2022 runner",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8b29433062320266ed913539ec6848fd1f2690b8"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 1,
-    "sha": "0587ed0e3fa7c578dfba5e54ec0f5f2dfcacc186",
-    "sha_short": "0587ed0",
-    "message": "Add reconstruction TODO audit annotations",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/0587ed0e3fa7c578dfba5e54ec0f5f2dfcacc186"
   }
 ]
