@@ -9,8 +9,12 @@ FNF-Phoenix-Engine,Batchfile,8043,0.3
 FNF-Phoenix-Engine,C,3044,0.1
 FNF-Phoenix-Engine,CSS,3016,0.1
 blaster,C,46157,100.0
-hemorroidabot,JavaScript,410126,98.7
-hemorroidabot,HTML,5596,1.3
+hemorroidabot,JavaScript,416977,98.7
+hemorroidabot,HTML,5661,1.3
+KaukaMed,TypeScript,22175,41.1
+KaukaMed,PLpgSQL,21380,39.6
+KaukaMed,JavaScript,6363,11.8
+KaukaMed,CSS,4067,7.5
 PersonaDB,Python,571968,90.9
 PersonaDB,PLpgSQL,37426,6.0
 PersonaDB,TypeScript,14942,2.4
@@ -86,7 +90,7 @@ R2K16,SCSS,259,0.0
 R2K16,GDB,227,0.0
 R2K16,Sass,167,0.0
 sitemapping,Python,29474,100.0
-top100,HTML,1861854,93.9
+top100,HTML,1861986,93.9
 top100,Python,115745,5.8
 top100,CSS,4402,0.2
 abnt-skill,Python,14862,100.0
@@ -132,6 +136,7 @@ CivilConection-Fernando,CSS,17367,0.9
 CivilConection-Fernando,PLpgSQL,4562,0.2
 CivilConection-Fernando,Shell,3091,0.2
 CivilConection-Fernando,Batchfile,3078,0.2
+CivilConnection,PLpgSQL,30407,100.0
 ClassHub,JavaScript,257812,49.8
 ClassHub,Java,227245,43.9
 ClassHub,CSS,28568,5.5
@@ -141,6 +146,7 @@ ClassHub,Dockerfile,932,0.2
 ClassHub,HTML,889,0.2
 dadosabertos,Python,179496,73.8
 dadosabertos,HTML,63794,26.2
+eleicoes-data,Python,13667,100.0
 EZInfiniteYTLive,C#,24776,67.4
 EZInfiniteYTLive,TypeScript,5471,14.9
 EZInfiniteYTLive,CSS,5241,14.3
@@ -190,10 +196,6 @@ ImaturidadePlusPlus,Rich Text Format,14,0.0
 ImgBotAutomerger,PowerShell,893,100.0
 ImgBotTools,Shell,7209,100.0
 imgrep,HTML,4133,100.0
-KaukaMed,TypeScript,22175,41.1
-KaukaMed,PLpgSQL,21380,39.6
-KaukaMed,JavaScript,6363,11.8
-KaukaMed,CSS,4067,7.5
 manimce-claude,JavaScript,2462,70.0
 manimce-claude,HTML,1054,30.0
 MeatyMod,C#,219991,82.0
@@ -204,12 +206,131 @@ MeatyMod,PowerShell,8410,3.1
 MeatyMod,Ruby,423,0.2
 mediapublisher,C#,50369,100.0
 metadata-editor,C#,8775,100.0
+microsoft,C,100194924,63.9
+microsoft,C++,27465114,17.5
+microsoft,Assembly,20051507,12.8
+microsoft,PLSQL,3744507,2.4
+microsoft,HTML,1378143,0.9
+microsoft,PostScript,1340475,0.9
+microsoft,Rich Text Format,708591,0.5
+microsoft,Makefile,670212,0.4
+microsoft,Visual Basic 6.0,369925,0.2
+microsoft,TSQL,182843,0.1
+microsoft,Batchfile,153444,0.1
+microsoft,VBA,145469,0.1
+microsoft,Pascal,139183,0.1
+microsoft,BitBake,38621,0.0
+microsoft,Classic ASP,32220,0.0
+microsoft,Perl,25233,0.0
+microsoft,Component Pascal,18558,0.0
+microsoft,Roff,14632,0.0
+microsoft,Java,10942,0.0
+microsoft,Go Template,7799,0.0
+microsoft,Rez,3874,0.0
+microsoft,Prolog,3801,0.0
+microsoft,PHP,1181,0.0
+microsoft,Pawn,1043,0.0
+microsoft,CSS,395,0.0
+microsoft,PowerShell,144,0.0
 midi-skill,Python,20365,100.0
 mmr-cli,C#,91679,100.0
 mmr-gui,C#,80550,100.0
 mmr-python,Python,67380,100.0
 movielibrary,C#,7846,100.0
 moviemaker-launcher,C#,27368,100.0
+neo-nt5,C++,1000275095,46.0
+neo-nt5,C,908182207,41.8
+neo-nt5,Scheme,110598376,5.1
+neo-nt5,Assembly,36352300,1.7
+neo-nt5,HTML,26158881,1.2
+neo-nt5,CWeb,18661844,0.9
+neo-nt5,Makefile,10926920,0.5
+neo-nt5,Rich Text Format,10041756,0.5
+neo-nt5,Batchfile,9571729,0.4
+neo-nt5,Perl,8677827,0.4
+neo-nt5,Visual Basic 6.0,5453618,0.3
+neo-nt5,JavaScript,3781053,0.2
+neo-nt5,VBScript,3757687,0.2
+neo-nt5,POV-Ray SDL,2467590,0.1
+neo-nt5,Classic ASP,2242469,0.1
+neo-nt5,C#,2079730,0.1
+neo-nt5,Logos,1364141,0.1
+neo-nt5,RPC,1316583,0.1
+neo-nt5,Smarty,1059662,0.0
+neo-nt5,PostScript,1039575,0.0
+neo-nt5,Yacc,1020505,0.0
+neo-nt5,BitBake,1019583,0.0
+neo-nt5,PLSQL,689014,0.0
+neo-nt5,Objective-C,622252,0.0
+neo-nt5,PHP,556418,0.0
+neo-nt5,XSLT,452261,0.0
+neo-nt5,ASL,387737,0.0
+neo-nt5,M4,358237,0.0
+neo-nt5,TSQL,329741,0.0
+neo-nt5,Clarion,316484,0.0
+neo-nt5,Roff,310723,0.0
+neo-nt5,Pascal,308080,0.0
+neo-nt5,Java,296451,0.0
+neo-nt5,LLVM,252930,0.0
+neo-nt5,NASL,235694,0.0
+neo-nt5,Lex,221153,0.0
+neo-nt5,D,221012,0.0
+neo-nt5,CSS,220752,0.0
+neo-nt5,sed,207314,0.0
+neo-nt5,VBA,165066,0.0
+neo-nt5,Visual Basic .NET,160156,0.0
+neo-nt5,OpenEdge ABL,148061,0.0
+neo-nt5,GLSL,145497,0.0
+neo-nt5,Haskell,142125,0.0
+neo-nt5,Awk,138387,0.0
+neo-nt5,Pawn,128955,0.0
+neo-nt5,Emacs Lisp,118845,0.0
+neo-nt5,Smalltalk,117276,0.0
+neo-nt5,NewLisp,112608,0.0
+neo-nt5,Ruby,111952,0.0
+neo-nt5,SystemVerilog,110526,0.0
+neo-nt5,BASIC,109175,0.0
+neo-nt5,ASP.NET,84838,0.0
+neo-nt5,Mathematica,72446,0.0
+neo-nt5,Game Maker Language,71810,0.0
+neo-nt5,Rez,69891,0.0
+neo-nt5,Shell,53182,0.0
+neo-nt5,Prolog,47138,0.0
+neo-nt5,Raku,42468,0.0
+neo-nt5,DTrace,41124,0.0
+neo-nt5,IGOR Pro,39620,0.0
+neo-nt5,SWIG,37308,0.0
+neo-nt5,IDL,30264,0.0
+neo-nt5,MATLAB,27667,0.0
+neo-nt5,AL,18452,0.0
+neo-nt5,Genero per,17941,0.0
+neo-nt5,Rebol,17187,0.0
+neo-nt5,AGS Script,16907,0.0
+neo-nt5,Module Management System,14801,0.0
+neo-nt5,Redcode,14406,0.0
+neo-nt5,Nextflow,14335,0.0
+neo-nt5,SAS,13756,0.0
+neo-nt5,WebAssembly,13560,0.0
+neo-nt5,WDL,13392,0.0
+neo-nt5,Faust,11684,0.0
+neo-nt5,QMake,10761,0.0
+neo-nt5,TeX,9660,0.0
+neo-nt5,SourcePawn,9566,0.0
+neo-nt5,Scilab,4965,0.0
+neo-nt5,COBOL,4534,0.0
+neo-nt5,q,4424,0.0
+neo-nt5,Portugol,4336,0.0
+neo-nt5,StringTemplate,4329,0.0
+neo-nt5,DIGITAL Command Language,3784,0.0
+neo-nt5,Scala,3441,0.0
+neo-nt5,Witcher Script,3024,0.0
+neo-nt5,TypeScript,3004,0.0
+neo-nt5,Inno Setup,2182,0.0
+neo-nt5,DenizenScript,991,0.0
+neo-nt5,Dylan,724,0.0
+neo-nt5,Objective-J,715,0.0
+neo-nt5,Monkey C,491,0.0
+neo-nt5,REXX,316,0.0
 Neo-Order-project,HTML,234986,69.2
 Neo-Order-project,JavaScript,97296,28.6
 Neo-Order-project,CSS,7505,2.2
@@ -284,6 +405,7 @@ steamlogger,JavaScript,19864,7.2
 steamlogger,CSS,4098,1.5
 transition-plugin,Rust,1769,76.7
 transition-plugin,C#,538,23.3
+TSOS,TypeScript,11606,100.0
 video-trimmer,C#,19619,100.0
 VsDave,Haxe,446348,100.0
 VsDave,Batchfile,109,0.0

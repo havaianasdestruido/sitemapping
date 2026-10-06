@@ -1,4 +1,18 @@
 full_name,url,description
+migiFi/C-exercises,https://github.com/migiFi/C-exercises,Basic exercises for C programming.
+havaianasdestruido/Win7APIs,https://github.com/havaianasdestruido/Win7APIs,"DLLs useful for using when you encounter a ""missing DLL"" error"
+HackAndPwn/Windows-7-Patching,https://github.com/HackAndPwn/Windows-7-Patching,
+aakkam22/windowsUpdateLoopFix,https://github.com/aakkam22/windowsUpdateLoopFix,"An automated script to fix the ""Checking for Updates"" loop on Windows 7"
+marie-systems/win7-sp2,https://github.com/marie-systems/win7-sp2,"UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7."
+TesterMachine/W7RevivalTools,https://github.com/TesterMachine/W7RevivalTools,Utilities to extend the useful life of Windows 7
+abatchy17/WindowsExploits,https://github.com/abatchy17/WindowsExploits,"Windows exploits, mostly precompiled. Not being updated. Check https://github.com/SecWiki/windows-kernel-exploits instead."
+brianwrf/WinSystemHelper,https://github.com/brianwrf/WinSystemHelper,A tool that checks and downloads scripts that will aid with privilege escalation on a Windows system. 
+WindowsExploits/Exploits,https://github.com/WindowsExploits/Exploits,Windows Exploits
+SecWiki/windows-kernel-exploits,https://github.com/SecWiki/windows-kernel-exploits,windows-kernel-exploits   Windows平台提权漏洞集合
+firmianay/CTF-All-In-One,https://github.com/firmianay/CTF-All-In-One,CTF竞赛权威指南
+fungosforks/Windows-NT-4.0-Source,https://github.com/fungosforks/Windows-NT-4.0-Source,Windows NT 4.0 Source from a 2000 Acedemic Program
+vipinkiruba/kernel-NT5.1,https://github.com/vipinkiruba/kernel-NT5.1,Windows NT 5.0 kernel source code.
+cynegeirus/windows-nt5,https://github.com/cynegeirus/windows-nt5,I do not own this source code. The leaks are not from me. I uploaded the extracted source code to a new repository because I thought it would benefit developers.
 epicleet/tps2017,https://github.com/epicleet/tps2017,Results of the Public Security Tests of the Brazilian voting system – 2017
 win32ss/supermium-electron,https://github.com/win32ss/supermium-electron,Supermium-based Electron
 toydotgame/win7-survival-kit,https://github.com/toydotgame/win7-survival-kit,(WIP) An Essential Toolkit to Surviving with Windows 7 post-EOL and ESU

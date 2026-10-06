@@ -18,6 +18,12 @@
     "profile_url": "https://github.com/AShadownEX"
   },
   {
+    "repo": "FNF-Phoenix-Engine",
+    "login": "102hedgehog",
+    "starred_at": "2026-10-05",
+    "profile_url": "https://github.com/102hedgehog"
+  },
+  {
     "repo": "blaster",
     "login": "moxie-coder",
     "starred_at": "2026-09-10",
@@ -28,6 +34,12 @@
     "login": "havaianasdestruido",
     "starred_at": "2026-09-18",
     "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "KaukaMed",
+    "login": "starygroch77-cpu",
+    "starred_at": "2026-10-05",
+    "profile_url": "https://github.com/starygroch77-cpu"
   },
   {
     "repo": "PersonaDB",
@@ -63,6 +75,12 @@
     "repo": "top100",
     "login": "havaianasdestruido",
     "starred_at": "2026-09-20",
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "Win7APIs",
+    "login": "havaianasdestruido",
+    "starred_at": "2026-10-05",
     "profile_url": "https://github.com/havaianasdestruido"
   }
 ]

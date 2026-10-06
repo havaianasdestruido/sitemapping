@@ -456,6 +456,118 @@
     "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/01192ecb6b21eab290172910a228fdfde0c1321a"
   },
   {
+    "repo": "KaukaMed",
+    "pr_number": 4,
+    "sha": "aaa20a96d1582ff11508d38f6f2ccc14670e01a7",
+    "sha_short": "aaa20a9",
+    "message": "feat(web): substitui esqueleto Next.js pelo front-end OdontoAura (Vite + React) ligado ao Supabase",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/aaa20a96d1582ff11508d38f6f2ccc14670e01a7"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 4,
+    "sha": "0d7603161b8e5104d1d6779f7a3145e10bb10b29",
+    "sha_short": "0d76031",
+    "message": "Fix CodeRabbit issues in PR #2",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/0d7603161b8e5104d1d6779f7a3145e10bb10b29"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 4,
+    "sha": "abab0c799e0ac198887822cf6a9805bccef00bdc",
+    "sha_short": "abab0c7",
+    "message": "Merge branch 'arena/01a0d488-kaukamed' (PR #2): front-end OdontoAura (Vite + React)",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/abab0c799e0ac198887822cf6a9805bccef00bdc"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 4,
+    "sha": "1e9bc1decafb8c71d3a008732906992ea590ac8d",
+    "sha_short": "1e9bc1d",
+    "message": "feat(db): migration 002 (agendamento V1), seed e testes SQL",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/1e9bc1decafb8c71d3a008732906992ea590ac8d"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 4,
+    "sha": "a393f3807c1116a369412444f7486499366335c1",
+    "sha_short": "a393f38",
+    "message": "feat(web): agendamento real, agenda da equipe e telas ligadas ao banco",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/a393f3807c1116a369412444f7486499366335c1"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 2,
+    "sha": "aaa20a96d1582ff11508d38f6f2ccc14670e01a7",
+    "sha_short": "aaa20a9",
+    "message": "feat(web): substitui esqueleto Next.js pelo front-end OdontoAura (Vite + React) ligado ao Supabase",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/aaa20a96d1582ff11508d38f6f2ccc14670e01a7"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 2,
+    "sha": "0d7603161b8e5104d1d6779f7a3145e10bb10b29",
+    "sha_short": "0d76031",
+    "message": "Fix CodeRabbit issues in PR #2",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/0d7603161b8e5104d1d6779f7a3145e10bb10b29"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 5,
+    "sha": "f89552cf6560008cbd9dc30efb42b286f2c7a4db",
+    "sha_short": "f89552c",
+    "message": "docs: add Docusaurus documentation portal",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/f89552cf6560008cbd9dc30efb42b286f2c7a4db"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 3,
+    "sha": "c8320cd3161acd133800fd3602d532d2e20e859a",
+    "sha_short": "c8320cd",
+    "message": "Entrega 4: quebra da SPEC em tarefas de programação (docs/tasks/*.md)",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/c8320cd3161acd133800fd3602d532d2e20e859a"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 1,
+    "sha": "02ed2186405a5f5e5d56f01e8fd06e1504bc17d2",
+    "sha_short": "02ed218",
+    "message": "chore(setup): inicializa monorepo com npm workspaces e apps api/web",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/02ed2186405a5f5e5d56f01e8fd06e1504bc17d2"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 1,
+    "sha": "5dc29f9c82e94057eba5ecebcf059a6a17ad592c",
+    "sha_short": "5dc29f9",
+    "message": "feat(shared): adiciona pacote de tipos compartilhados entre web e api",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/5dc29f9c82e94057eba5ecebcf059a6a17ad592c"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 1,
+    "sha": "10f76d7392206fabef104b2a471ed7bc5ee975fa",
+    "sha_short": "10f76d7",
+    "message": "chore(qualidade): configura ESLint, Prettier, Husky e lint-staged",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/10f76d7392206fabef104b2a471ed7bc5ee975fa"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 1,
+    "sha": "52d1c76139eab0a989925c774ed33817ccc67967",
+    "sha_short": "52d1c76",
+    "message": "chore(env): configura variáveis de ambiente por ambiente",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/52d1c76139eab0a989925c774ed33817ccc67967"
+  },
+  {
+    "repo": "KaukaMed",
+    "pr_number": 1,
+    "sha": "7d306155d5da9b37dab4b57f476cd8deee096807",
+    "sha_short": "7d30615",
+    "message": "chore(docker): adiciona Docker Compose com PostgreSQL e Redis para dev local",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/7d306155d5da9b37dab4b57f476cd8deee096807"
+  },
+  {
     "repo": "PersonaDB",
     "pr_number": 6,
     "sha": "a0b43bca491785324780c2d398f1ef8a445ab15e",
@@ -984,6 +1096,22 @@
     "url": "https://github.com/havaianasdestruido/dadosabertos/commit/c686ccee266ca87958addf7d35d6c5cf16ac9f11"
   },
   {
+    "repo": "eleicoes-data",
+    "pr_number": 1,
+    "sha": "0905f2f879bfc54e21921380632c0e19e42e941d",
+    "sha_short": "0905f2f",
+    "message": "Add TSE presidential results scraper + every-minute GitHub Actions workflow",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/0905f2f879bfc54e21921380632c0e19e42e941d"
+  },
+  {
+    "repo": "eleicoes-data",
+    "pr_number": 1,
+    "sha": "b90f4e8d553e37a6caec61aa4b19cb981c4883ca",
+    "sha_short": "b90f4e8",
+    "message": "chore: add .gitignore, drop committed __pycache__ artifacts",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/b90f4e8d553e37a6caec61aa4b19cb981c4883ca"
+  },
+  {
     "repo": "EZInfiniteYTLive",
     "pr_number": 4,
     "sha": "7f4ff32dff6fd310ae26c733979d0e89008f0fd8",
@@ -1278,118 +1406,6 @@
     "sha_short": "56e00a9",
     "message": "[ImgBot] Optimize images",
     "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/56e00a93cf6a687245159cc63b09c106fe7270bb"
-  },
-  {
-    "repo": "KaukaMed",
-    "pr_number": 4,
-    "sha": "aaa20a96d1582ff11508d38f6f2ccc14670e01a7",
-    "sha_short": "aaa20a9",
-    "message": "feat(web): substitui esqueleto Next.js pelo front-end OdontoAura (Vite + React) ligado ao Supabase",
-    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/aaa20a96d1582ff11508d38f6f2ccc14670e01a7"
-  },
-  {
-    "repo": "KaukaMed",
-    "pr_number": 4,
-    "sha": "0d7603161b8e5104d1d6779f7a3145e10bb10b29",
-    "sha_short": "0d76031",
-    "message": "Fix CodeRabbit issues in PR #2",
-    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/0d7603161b8e5104d1d6779f7a3145e10bb10b29"
-  },
-  {
-    "repo": "KaukaMed",
-    "pr_number": 4,
-    "sha": "abab0c799e0ac198887822cf6a9805bccef00bdc",
-    "sha_short": "abab0c7",
-    "message": "Merge branch 'arena/01a0d488-kaukamed' (PR #2): front-end OdontoAura (Vite + React)",
-    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/abab0c799e0ac198887822cf6a9805bccef00bdc"
-  },
-  {
-    "repo": "KaukaMed",
-    "pr_number": 4,
-    "sha": "1e9bc1decafb8c71d3a008732906992ea590ac8d",
-    "sha_short": "1e9bc1d",
-    "message": "feat(db): migration 002 (agendamento V1), seed e testes SQL",
-    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/1e9bc1decafb8c71d3a008732906992ea590ac8d"
-  },
-  {
-    "repo": "KaukaMed",
-    "pr_number": 4,
-    "sha": "a393f3807c1116a369412444f7486499366335c1",
-    "sha_short": "a393f38",
-    "message": "feat(web): agendamento real, agenda da equipe e telas ligadas ao banco",
-    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/a393f3807c1116a369412444f7486499366335c1"
-  },
-  {
-    "repo": "KaukaMed",
-    "pr_number": 2,
-    "sha": "aaa20a96d1582ff11508d38f6f2ccc14670e01a7",
-    "sha_short": "aaa20a9",
-    "message": "feat(web): substitui esqueleto Next.js pelo front-end OdontoAura (Vite + React) ligado ao Supabase",
-    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/aaa20a96d1582ff11508d38f6f2ccc14670e01a7"
-  },
-  {
-    "repo": "KaukaMed",
-    "pr_number": 2,
-    "sha": "0d7603161b8e5104d1d6779f7a3145e10bb10b29",
-    "sha_short": "0d76031",
-    "message": "Fix CodeRabbit issues in PR #2",
-    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/0d7603161b8e5104d1d6779f7a3145e10bb10b29"
-  },
-  {
-    "repo": "KaukaMed",
-    "pr_number": 5,
-    "sha": "f89552cf6560008cbd9dc30efb42b286f2c7a4db",
-    "sha_short": "f89552c",
-    "message": "docs: add Docusaurus documentation portal",
-    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/f89552cf6560008cbd9dc30efb42b286f2c7a4db"
-  },
-  {
-    "repo": "KaukaMed",
-    "pr_number": 3,
-    "sha": "c8320cd3161acd133800fd3602d532d2e20e859a",
-    "sha_short": "c8320cd",
-    "message": "Entrega 4: quebra da SPEC em tarefas de programação (docs/tasks/*.md)",
-    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/c8320cd3161acd133800fd3602d532d2e20e859a"
-  },
-  {
-    "repo": "KaukaMed",
-    "pr_number": 1,
-    "sha": "02ed2186405a5f5e5d56f01e8fd06e1504bc17d2",
-    "sha_short": "02ed218",
-    "message": "chore(setup): inicializa monorepo com npm workspaces e apps api/web",
-    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/02ed2186405a5f5e5d56f01e8fd06e1504bc17d2"
-  },
-  {
-    "repo": "KaukaMed",
-    "pr_number": 1,
-    "sha": "5dc29f9c82e94057eba5ecebcf059a6a17ad592c",
-    "sha_short": "5dc29f9",
-    "message": "feat(shared): adiciona pacote de tipos compartilhados entre web e api",
-    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/5dc29f9c82e94057eba5ecebcf059a6a17ad592c"
-  },
-  {
-    "repo": "KaukaMed",
-    "pr_number": 1,
-    "sha": "10f76d7392206fabef104b2a471ed7bc5ee975fa",
-    "sha_short": "10f76d7",
-    "message": "chore(qualidade): configura ESLint, Prettier, Husky e lint-staged",
-    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/10f76d7392206fabef104b2a471ed7bc5ee975fa"
-  },
-  {
-    "repo": "KaukaMed",
-    "pr_number": 1,
-    "sha": "52d1c76139eab0a989925c774ed33817ccc67967",
-    "sha_short": "52d1c76",
-    "message": "chore(env): configura variáveis de ambiente por ambiente",
-    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/52d1c76139eab0a989925c774ed33817ccc67967"
-  },
-  {
-    "repo": "KaukaMed",
-    "pr_number": 1,
-    "sha": "7d306155d5da9b37dab4b57f476cd8deee096807",
-    "sha_short": "7d30615",
-    "message": "chore(docker): adiciona Docker Compose com PostgreSQL e Redis para dev local",
-    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/7d306155d5da9b37dab4b57f476cd8deee096807"
   },
   {
     "repo": "manimce-claude",

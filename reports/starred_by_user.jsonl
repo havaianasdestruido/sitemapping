@@ -1,3 +1,17 @@
+{"full_name": "migiFi/C-exercises", "url": "https://github.com/migiFi/C-exercises", "description": "Basic exercises for C programming."}
+{"full_name": "havaianasdestruido/Win7APIs", "url": "https://github.com/havaianasdestruido/Win7APIs", "description": "DLLs useful for using when you encounter a \"missing DLL\" error"}
+{"full_name": "HackAndPwn/Windows-7-Patching", "url": "https://github.com/HackAndPwn/Windows-7-Patching", "description": ""}
+{"full_name": "aakkam22/windowsUpdateLoopFix", "url": "https://github.com/aakkam22/windowsUpdateLoopFix", "description": "An automated script to fix the \"Checking for Updates\" loop on Windows 7"}
+{"full_name": "marie-systems/win7-sp2", "url": "https://github.com/marie-systems/win7-sp2", "description": "UNOFFICIAL Windows 7 Service Pack 2, to improve basic Windows 7 usability on modern systems and fully update Windows 7."}
+{"full_name": "TesterMachine/W7RevivalTools", "url": "https://github.com/TesterMachine/W7RevivalTools", "description": "Utilities to extend the useful life of Windows 7"}
+{"full_name": "abatchy17/WindowsExploits", "url": "https://github.com/abatchy17/WindowsExploits", "description": "Windows exploits, mostly precompiled. Not being updated. Check https://github.com/SecWiki/windows-kernel-exploits instead."}
+{"full_name": "brianwrf/WinSystemHelper", "url": "https://github.com/brianwrf/WinSystemHelper", "description": "A tool that checks and downloads scripts that will aid with privilege escalation on a Windows system. "}
+{"full_name": "WindowsExploits/Exploits", "url": "https://github.com/WindowsExploits/Exploits", "description": "Windows Exploits"}
+{"full_name": "SecWiki/windows-kernel-exploits", "url": "https://github.com/SecWiki/windows-kernel-exploits", "description": "windows-kernel-exploits   Windows平台提权漏洞集合"}
+{"full_name": "firmianay/CTF-All-In-One", "url": "https://github.com/firmianay/CTF-All-In-One", "description": "CTF竞赛权威指南"}
+{"full_name": "fungosforks/Windows-NT-4.0-Source", "url": "https://github.com/fungosforks/Windows-NT-4.0-Source", "description": "Windows NT 4.0 Source from a 2000 Acedemic Program"}
+{"full_name": "vipinkiruba/kernel-NT5.1", "url": "https://github.com/vipinkiruba/kernel-NT5.1", "description": "Windows NT 5.0 kernel source code."}
+{"full_name": "cynegeirus/windows-nt5", "url": "https://github.com/cynegeirus/windows-nt5", "description": "I do not own this source code. The leaks are not from me. I uploaded the extracted source code to a new repository because I thought it would benefit developers."}
 {"full_name": "epicleet/tps2017", "url": "https://github.com/epicleet/tps2017", "description": "Results of the Public Security Tests of the Brazilian voting system – 2017"}
 {"full_name": "win32ss/supermium-electron", "url": "https://github.com/win32ss/supermium-electron", "description": "Supermium-based Electron"}
 {"full_name": "toydotgame/win7-survival-kit", "url": "https://github.com/toydotgame/win7-survival-kit", "description": "(WIP) An Essential Toolkit to Surviving with Windows 7 post-EOL and ESU"}
