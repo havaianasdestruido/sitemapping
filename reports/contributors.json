@@ -254,7 +254,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 80,
+    "contributions": 81,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -266,7 +266,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 93,
+    "contributions": 94,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -836,7 +836,7 @@
   {
     "repo": "eleicoes-data",
     "login": "github-actions[bot]",
-    "contributions": 4,
+    "contributions": 5,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -1678,6 +1678,42 @@
     "login": "roian6",
     "contributions": 1,
     "profile_url": "https://github.com/roian6"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "login": "Gustavorodriguesse",
+    "contributions": 81,
+    "profile_url": "https://github.com/Gustavorodriguesse"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "login": "google-labs-jules[bot]",
+    "contributions": 54,
+    "profile_url": "https://github.com/apps/google-labs-jules"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "login": "mxwllphlp-coder",
+    "contributions": 40,
+    "profile_url": "https://github.com/mxwllphlp-coder"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "login": "havaianasdestruido",
+    "contributions": 3,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "login": "PEDRO042011",
+    "contributions": 2,
+    "profile_url": "https://github.com/PEDRO042011"
+  },
+  {
+    "repo": "pwn",
+    "login": "havaianasdestruido",
+    "contributions": 8,
+    "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "PWSV",

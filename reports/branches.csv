@@ -36,8 +36,8 @@ R2K16,arena/01a0ff4f-r2k16,0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0,0659d3d,Fals
 R2K16,arena/01a10307-r2k16,a51d8a137fb67314ebea6734e530f99ea1813b14,a51d8a1,False,https://github.com/havaianasdestruido/R2K16/tree/arena/01a10307-r2k16
 R2K16,dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece,d7f519da3b8d2c4b6b201c655273292229b4619d,d7f519d,False,https://github.com/havaianasdestruido/R2K16/tree/dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece
 R2K16,main,e38de88218960d322afbcd497e8fa7aaf1d492b1,e38de88,True,https://github.com/havaianasdestruido/R2K16/tree/main
-sitemapping,main,bb9bc20417d496535ecaecb4322a5466d6f969e4,bb9bc20,True,https://github.com/havaianasdestruido/sitemapping/tree/main
-top100,main,fba4cb1b5655708c0e6e206733ed6dc884d98bc9,fba4cb1,True,https://github.com/havaianasdestruido/top100/tree/main
+sitemapping,main,60824837146cc2022932d7eeb8bbe8c5d854b87c,6082483,True,https://github.com/havaianasdestruido/sitemapping/tree/main
+top100,main,0b41028dadd780e3f9e8d4453f3e6b255d3e607f,0b41028,True,https://github.com/havaianasdestruido/top100/tree/main
 Win7APIs,main,231896442cb7537a08cf5c7f23864854ac7a9247,2318964,True,https://github.com/havaianasdestruido/Win7APIs/tree/main
 WindowsMovieMakerDecomp,arena/01a0fd75-windowsmoviemakerdecomp,4a2ece5e92fa5b08abf32cd91eb407f25df39972,4a2ece5,False,https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/arena/01a0fd75-windowsmoviemakerdecomp
 WindowsMovieMakerDecomp,arena/01a0fe24-windowsmoviemakerdecomp,b575d5a7e88392d7228b9c33bc7a17caf3d63eb5,b575d5a,False,https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/arena/01a0fe24-windowsmoviemakerdecomp
@@ -78,7 +78,7 @@ ClassHub,main,cf70ec3359c53042666b3890e8199802e8ea79c4,cf70ec3,True,https://gith
 dadosabertos,arena/01a0e80c-dadosabertos,8635c04cf229c6396879860c510f7696630cd261,8635c04,False,https://github.com/havaianasdestruido/dadosabertos/tree/arena/01a0e80c-dadosabertos
 dadosabertos,main,78a56cf2217e2c5a072ebaef7319ac63877491c2,78a56cf,True,https://github.com/havaianasdestruido/dadosabertos/tree/main
 eleicoes-data,arena/01a10951-eleicoes-data,b90f4e8d553e37a6caec61aa4b19cb981c4883ca,b90f4e8,False,https://github.com/havaianasdestruido/eleicoes-data/tree/arena/01a10951-eleicoes-data
-eleicoes-data,main,89973db0f4c896d0148e15b6cebd84e0a9f0210e,89973db,True,https://github.com/havaianasdestruido/eleicoes-data/tree/main
+eleicoes-data,main,60bbfe55921924301aa308927ef9f3602734482a,60bbfe5,True,https://github.com/havaianasdestruido/eleicoes-data/tree/main
 EleLab_v2,master,9306cddca1e8b6b14c4f6a4f572579d2eedd44df,9306cdd,True,https://github.com/havaianasdestruido/EleLab_v2/tree/master
 EZInfiniteYTLive,arena/01a0fd78-ezinfiniteytlive,299b72a11732fe88043029d28ce3634c6be31bb3,299b72a,False,https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/arena/01a0fd78-ezinfiniteytlive
 EZInfiniteYTLive,arena/01a0ff49-ezinfiniteytlive,7a2a38902fcdabbe75a20ddf48196c9548d5cf5f,7a2a389,False,https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/arena/01a0ff49-ezinfiniteytlive
@@ -164,6 +164,9 @@ pm-claude-skills-opencode,claude/admiring-cori-murZN,7f9331f5b44e3a9d661ebcc2440
 pm-claude-skills-opencode,claude/artifact-studio,04516e6e906961d10cf8949f4da48a0c12b3cdfa,04516e6,False,https://github.com/havaianasdestruido/pm-claude-skills-opencode/tree/claude/artifact-studio
 pm-claude-skills-opencode,claude/beyond-document,a569a4bd5fb1e8138b844c80d9a3c47488f06dd4,a569a4b,False,https://github.com/havaianasdestruido/pm-claude-skills-opencode/tree/claude/beyond-document
 pm-claude-skills-opencode,claude/brainstorm-skills-features,685a2f8febc2f7d08617c82447277ee102b54bed,685a2f8,False,https://github.com/havaianasdestruido/pm-claude-skills-opencode/tree/claude/brainstorm-skills-features
+Projeto-TCC,arena/48f4ff36-projeto-tcc,0fbaa8c2b5257cd66fcf54275a7b5ab9563826bf,0fbaa8c,False,https://github.com/havaianasdestruido/Projeto-TCC/tree/arena/48f4ff36-projeto-tcc
+Projeto-TCC,main,1e909777fa9cbe75df71166a34120733e81312ec,1e90977,True,https://github.com/havaianasdestruido/Projeto-TCC/tree/main
+pwn,main,295b958377bd86375cb166f2b8c8d6dd540763d7,295b958,True,https://github.com/havaianasdestruido/pwn/tree/main
 PWSV,arena/01a10230-pwsv,e3fff493cd9c935075912655aa05ff82dd6164ba,e3fff49,False,https://github.com/havaianasdestruido/PWSV/tree/arena/01a10230-pwsv
 PWSV,main,cff8ab4923d55ea280b0cdfe11bd2b2d304521a6,cff8ab4,True,https://github.com/havaianasdestruido/PWSV/tree/main
 Quack3DMM,main,d306a9b926cd37905288ad89ec7d5fdc3521f13f,d306a9b,True,https://github.com/havaianasdestruido/Quack3DMM/tree/main

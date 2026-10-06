@@ -548,7 +548,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 1861865,
+    "bytes": 1862063,
     "percent": 93.9
   },
   {
@@ -2254,6 +2254,36 @@
     "language": "Dockerfile",
     "bytes": 468,
     "percent": 0.0
+  },
+  {
+    "repo": "Projeto-TCC",
+    "language": "JavaScript",
+    "bytes": 446802,
+    "percent": 46.8
+  },
+  {
+    "repo": "Projeto-TCC",
+    "language": "HTML",
+    "bytes": 434946,
+    "percent": 45.5
+  },
+  {
+    "repo": "Projeto-TCC",
+    "language": "Python",
+    "bytes": 38930,
+    "percent": 4.1
+  },
+  {
+    "repo": "Projeto-TCC",
+    "language": "PLpgSQL",
+    "bytes": 34880,
+    "percent": 3.7
+  },
+  {
+    "repo": "pwn",
+    "language": "HTML",
+    "bytes": 415,
+    "percent": 100.0
   },
   {
     "repo": "PWSV",

@@ -1651,6 +1651,19 @@
     "url": "https://github.com/havaianasdestruido/plainhtml-me/pull/1"
   },
   {
+    "repo": "Projeto-TCC",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "fix(bercos): cria tabela public.bercos e corrige erro PGRST205 na tela de Embarcações",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-06T18:06:37Z",
+    "base_branch": "main",
+    "head_branch": "arena/48f4ff36-projeto-tcc",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/pull/1"
+  },
+  {
     "repo": "PWSV",
     "state": "closed",
     "status": "merged",
