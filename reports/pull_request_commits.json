@@ -1833,6 +1833,14 @@
   },
   {
     "repo": "Projeto-TCC",
+    "pr_number": 2,
+    "sha": "a516ad137f37cb792a96facb09839cfa87278b83",
+    "sha_short": "a516ad1",
+    "message": "fix(security): neutraliza XSS DOM-based em todo o front-end",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/a516ad137f37cb792a96facb09839cfa87278b83"
+  },
+  {
+    "repo": "Projeto-TCC",
     "pr_number": 1,
     "sha": "5cb30a6876c026d727936d697e0da4cc039232de",
     "sha_short": "5cb30a6",

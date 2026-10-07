@@ -1652,6 +1652,19 @@
   },
   {
     "repo": "Projeto-TCC",
+    "state": "open",
+    "status": "open",
+    "number": 2,
+    "title": "fix(security): neutraliza XSS DOM-based em todo o front-end",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-07T01:51:51Z",
+    "base_branch": "main",
+    "head_branch": "arena/616596f5-projeto-tcc",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/pull/2"
+  },
+  {
+    "repo": "Projeto-TCC",
     "state": "closed",
     "status": "merged",
     "number": 1,
