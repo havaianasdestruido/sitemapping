@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-08T03:52:48Z",
+  "profile": {
+    "login": "havaianasdestruido",
+    "url": "https://github.com/havaianasdestruido"
+  },
+  "counts": {
+    "branches": 202,
+    "commits": 3202,
+    "contributors": 334,
+    "followers": 8,
+    "following": 30,
+    "forks": 0,
+    "issues": 7,
+    "languages": 432,
+    "pull_request_commits": 259,
+    "pull_requests": 144,
+    "release_assets": 0,
+    "releases": 5,
+    "repos": 100,
+    "stargazers": 15,
+    "starred_by_user": 166,
+    "watchers": 2
+  },
+  "formats": [
+    "json",
+    "jsonl",
+    "csv"
+  ],
+  "dataSource": "GitHub public API report snapshot"
+}

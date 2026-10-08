@@ -25,11 +25,11 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests PyGithub python-dotenv
+          pip install requests
 
       - name: Run analyzer script
         env:
-          GITHUB_TOKEN: ${{ secrets.ACESS_PAT }}
+          GITHUB_TOKEN: ${{ github.token }}
           GITHUB_ACTOR: ${{ github.actor }}
         run: |
           python scripts/generate_report.py

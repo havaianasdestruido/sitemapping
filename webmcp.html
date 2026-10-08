@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="WebMCP tool catalog, compatibility notes, and security policy for the Sitemapping GitHub profile explorer.">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; object-src 'none'; form-action 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: https://avatars.githubusercontent.com; connect-src 'self'; upgrade-insecure-requests">
+  <meta name="theme-color" content="#f4f3ed">
+  <title>WebMCP tools and security · Sitemapping</title>
+  <link rel="stylesheet" href="./assets/css/site.css">
+  <script type="module" src="./assets/js/site.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="page-shell">
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="Sitemapping home">
+        <span class="brand-mark" aria-hidden="true">SM</span>
+        <span class="brand-copy"><strong>Sitemapping</strong><small>GitHub profile explorer</small></span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="./#datasets">Explorer</a>
+        <a class="is-current" href="./webmcp.html" aria-current="page">WebMCP tools</a>
+        <a href="./REPORT.html">Full report</a>
+        <a class="nav-external" href="https://github.com/havaianasdestruido/sitemapping" target="_blank" rel="noopener noreferrer">Source <span aria-hidden="true">↗</span></a>
+      </nav>
+    </header>
+
+    <main id="main" class="webmcp-docs">
+      <section class="docs-hero" aria-labelledby="docs-title">
+        <p class="eyebrow"><span class="live-dot" aria-hidden="true"></span> EXPERIMENTAL WEB PLATFORM API</p>
+        <h1 id="docs-title">Useful tools.<br><span>Carefully scoped.</span></h1>
+        <p>WebMCP lets a compatible browser agent invoke site-owned JavaScript in the context of the open page. This implementation reads the report published here; search and page tools may change only the temporary visible explorer state. It does not create a remote MCP server or alter report data.</p>
+        <div class="docs-callout"><strong>Progressive enhancement:</strong> the page checks for <code>document.modelContext.registerTool()</code> (and the experimental <code>navigator.modelContext</code> alias) at runtime. If neither is available or registration is blocked by browser policy, the normal explorer and downloads continue to work.</div>
+      </section>
+
+      <section class="docs-section" aria-labelledby="contract-title">
+        <div class="section-heading compact-heading">
+          <div><p class="eyebrow">01 / TOOL CONTRACT</p><h2 id="contract-title">Five page tools</h2><p class="section-intro">Each operation reads the same committed JSON exports that the interface uses. Search and page operations can change the visible explorer filter or selection only; nothing is written to the report data.</p></div>
+          <span class="section-index" aria-hidden="true">01</span>
+        </div>
+        <div class="tool-catalog">
+          <article class="tool-card"><div class="tool-card-top"><code>get_site_overview</code><span class="tool-safety">READ ONLY</span></div><p>Returns the export timestamp, report profile, total record count, and catalog of available datasets and formats.</p><dl><dt>Input</dt><dd>None</dd><dt>Output</dt><dd>Stable metadata and per-dataset record counts</dd></dl></article>
+          <article class="tool-card"><div class="tool-card-top"><code>search_repositories</code><span class="tool-safety">VIEW ONLY</span></div><p>Searches repository name, owner, language, and description; optionally filters by language, minimum stars, or fork status, then applies the same filter to the visible table.</p><dl><dt>Input</dt><dd><code>query?</code>, <code>language?</code>, <code>min_stars?</code>, <code>include_forks?</code>, <code>offset?</code>, <code>limit?</code></dd><dt>Output</dt><dd>At most 5 compact matches, total count, and a next offset when more results remain</dd></dl></article>
+          <article class="tool-card"><div class="tool-card-top"><code>get_repository_details</code><span class="tool-safety">VIEW ONLY</span></div><p>Looks up one exact repository and summarizes related categories, then selects that repository in the visible explorer.</p><dl><dt>Input</dt><dd><code>repository</code>, <code>include_samples?</code></dd><dt>Output</dt><dd>Repository record, related counts, and optionally one sample per selected activity category</dd></dl></article>
+          <article class="tool-card"><div class="tool-card-top"><code>search_report</code><span class="tool-safety">VIEW ONLY</span></div><p>Searches text and scalar values within one selected export category and updates only the temporary visible filter.</p><dl><dt>Input</dt><dd><code>dataset</code>, <code>query</code>, <code>offset?</code>, <code>limit?</code></dd><dt>Output</dt><dd>At most 5 matching records, exact total count, and a next offset when more results remain</dd></dl></article>
+          <article class="tool-card"><div class="tool-card-top"><code>get_dataset_page</code><span class="tool-safety">VIEW ONLY</span></div><p>Reads a bounded page of records from one export category and selects that page in the visible explorer.</p><dl><dt>Input</dt><dd><code>dataset</code>, <code>offset?</code>, <code>limit?</code></dd><dt>Output</dt><dd>At most 10 records, plus total count and next offset</dd></dl></article>
+        </div>
+      </section>
+
+      <section class="docs-section" aria-labelledby="coverage-title">
+        <div class="section-heading compact-heading">
+          <div><p class="eyebrow">02 / COVERAGE</p><h2 id="coverage-title">All report categories</h2><p class="section-intro">The catalog covers all 16 generated JSON datasets. Each dataset also has downloadable CSV and JSONL files.</p></div>
+          <span class="section-index" aria-hidden="true">02</span>
+        </div>
+        <ul class="dataset-chip-list" aria-label="WebMCP dataset identifiers">
+          <li><code>repos</code> repositories</li><li><code>branches</code> branches</li><li><code>commits</code> commits</li>
+          <li><code>issues</code> issues</li><li><code>pull_requests</code> pull requests</li><li><code>pull_request_commits</code> PR commits</li>
+          <li><code>forks</code> forks</li><li><code>stargazers</code> stargazers</li><li><code>watchers</code> watchers</li>
+          <li><code>contributors</code> contributors</li><li><code>releases</code> releases</li><li><code>release_assets</code> release assets</li>
+          <li><code>languages</code> languages</li><li><code>followers</code> followers</li><li><code>following</code> following</li>
+          <li><code>starred_by_user</code> starred repositories</li>
+        </ul>
+      </section>
+
+      <section class="docs-section security-section" aria-labelledby="security-title">
+        <div class="section-heading compact-heading">
+          <div><p class="eyebrow">03 / SECURITY & RELIABILITY</p><h2 id="security-title">Read access, not authority</h2><p class="section-intro">A tool's annotation is a hint to the agent, not a permission system. Browser policies and the user's normal review controls remain important.</p></div>
+          <span class="section-index" aria-hidden="true">03</span>
+        </div>
+        <div class="security-grid">
+          <article><span class="security-index">A</span><h3>No write capability</h3><p>Tools only read static files hosted with this site. They do not use a GitHub token, make live GitHub API requests, modify report data, submit forms, or perform consequential actions. Four search/page tools are accurately marked as not read-only because they change only the temporary visible explorer view; the overview tool is read-only.</p></article>
+          <article><span class="security-index">B</span><h3>Constrained inputs</h3><p>Runtime validation rejects unknown fields, unsupported dataset names, invalid types, oversized search strings, and out-of-range limits. File paths come only from a fixed allowlist—tool input is never used as a URL.</p></article>
+          <article><span class="security-index">C</span><h3>Bounded, structured output</h3><p>Results use a predictable <code>{ ok, data, meta }</code> envelope or a clear <code>{ ok: false, error }</code> response. Search results and page reads have hard limits; large text fields are shortened with an explicit marker.</p></article>
+          <article><span class="security-index">D</span><h3>Untrusted report content</h3><p>Commit messages, descriptions, labels, and issue titles may be user-authored. Every tool sets <code>untrustedContentHint: true</code>; the interface renders report values as text and only links to validated GitHub HTTPS URLs.</p></article>
+          <article><span class="security-index">E</span><h3>No cross-origin exposure</h3><p>Tools are registered in the current page and no <code>exposedTo</code> origins are configured. The site does not request iframe permissions or load a remote script, analytics, or agent service.</p></article>
+          <article><span class="security-index">F</span><h3>Cancellation and fallback</h3><p>Registrations are tied to an <code>AbortSignal</code> and removed with the page lifecycle. Unsupported runtimes, blocked permissions, and failed data loads produce understandable status or error results without disabling the human-facing site.</p></article>
+        </div>
+        <div class="security-note"><strong>Keep agent output in its trust boundary.</strong> WebMCP results are page-provided data, not instructions, proof of user consent, or authorization to share secrets. Review tool output and use your browser's confirmation controls for any separate consequential action.</div>
+      </section>
+
+      <section class="docs-section api-section" aria-labelledby="api-title">
+        <div class="section-heading compact-heading">
+          <div><p class="eyebrow">04 / COMPATIBILITY</p><h2 id="api-title">Native WebMCP, with a graceful fallback</h2></div>
+          <span class="section-index" aria-hidden="true">04</span>
+        </div>
+        <p>This site targets the current imperative WebMCP tool API: <code>document.modelContext.registerTool()</code>. It does not auto-install a polyfill or load third-party code. A compatible runtime/polyfill that provides the same API can be used by the site owner, but the page itself does not assume a browser supports it.</p>
+        <p>The official WebMCP proposal is still experimental and focuses on page-scoped tools. The prompts, resources, sampling, token widget, or standalone MCP server shown by some older WebMCP or MCP-B examples belong to separate libraries and protocols; they are not exposed here as if they were part of the browser standard. The site provides read functions for the report data instead.</p>
+        <div class="reference-links" aria-label="WebMCP references">
+          <a href="https://webmachinelearning.github.io/webmcp/" target="_blank" rel="noopener noreferrer">WebMCP specification <span aria-hidden="true">↗</span></a>
+          <a href="https://developer.chrome.com/docs/ai/webmcp" target="_blank" rel="noopener noreferrer">Chrome WebMCP guide <span aria-hidden="true">↗</span></a>
+          <a href="https://developer.chrome.com/docs/ai/webmcp/secure-tools" target="_blank" rel="noopener noreferrer">Chrome security guidance <span aria-hidden="true">↗</span></a>
+          <a href="https://learn.chatgpt.com/docs/webmcp" target="_blank" rel="noopener noreferrer">ChatGPT site tools guidance <span aria-hidden="true">↗</span></a>
+          <a href="https://docs.mcp-b.ai/" target="_blank" rel="noopener noreferrer">MCP-B documentation <span aria-hidden="true">↗</span></a>
+          <a href="https://webmcp.dev/" target="_blank" rel="noopener noreferrer">WebMCP.dev example <span aria-hidden="true">↗</span></a>
+          <a href="https://github.com/webmachinelearning/webmcp/blob/main/README.md" target="_blank" rel="noopener noreferrer">WebMCP source repository <span aria-hidden="true">↗</span></a>
+          <a href="https://agent-browser.dev/webmcp" target="_blank" rel="noopener noreferrer">Agent Browser WebMCP testing <span aria-hidden="true">↗</span></a>
+          <a href="https://docs.typo3.org/p/neoblack/webmcp/0.2/en-us/Introduction/Index.html" target="_blank" rel="noopener noreferrer">TYPO3 WebMCP integration <span aria-hidden="true">↗</span></a>
+          <a href="https://dev.to/ai-agent-economy/we-built-a-3kb-webmcp-polyfill-97x-smaller-than-mcp-bglobal-3kg4" target="_blank" rel="noopener noreferrer">Third-party polyfill article <span aria-hidden="true">↗</span></a>
+        </div>
+      </section>
+
+      <section class="webmcp-status-panel docs-status" aria-labelledby="webmcp-status-heading">
+        <div class="webmcp-status-copy">
+          <p class="eyebrow">CURRENT PAGE</p>
+          <h2 id="webmcp-status-heading">WebMCP status</h2>
+          <p id="webmcp-status-text" role="status" aria-live="polite" aria-atomic="true">Checking browser support…</p>
+          <p class="fine-print">Tool availability depends on the browser, runtime, permissions policy, and current rollout.</p>
+        </div>
+        <ul id="webmcp-tool-list" class="webmcp-tool-list" aria-label="Registered WebMCP tools"></ul>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <a class="brand footer-brand" href="./"><span class="brand-mark" aria-hidden="true">SM</span><span class="brand-copy"><strong>Sitemapping</strong><small>Public data, made navigable</small></span></a>
+      <div class="footer-row">
+        <span>Static report · No GitHub credentials are exposed to this website.</span>
+        <div><a href="./#datasets">Return to explorer</a><a href="./REPORT.html">Full report</a></div>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>
