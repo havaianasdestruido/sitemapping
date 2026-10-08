@@ -541,27 +541,51 @@
   },
   {
     "repo": "sitemapping",
+    "language": "JavaScript",
+    "bytes": 61132,
+    "percent": 37.3
+  },
+  {
+    "repo": "sitemapping",
     "language": "Python",
-    "bytes": 29474,
-    "percent": 100.0
+    "bytes": 51362,
+    "percent": 31.3
+  },
+  {
+    "repo": "sitemapping",
+    "language": "HTML",
+    "bytes": 26709,
+    "percent": 16.3
+  },
+  {
+    "repo": "sitemapping",
+    "language": "CSS",
+    "bytes": 24836,
+    "percent": 15.1
   },
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 1862036,
-    "percent": 93.9
+    "bytes": 4870144,
+    "percent": 93.5
   },
   {
     "repo": "top100",
     "language": "Python",
-    "bytes": 115745,
-    "percent": 5.8
+    "bytes": 170108,
+    "percent": 3.3
+  },
+  {
+    "repo": "top100",
+    "language": "JavaScript",
+    "bytes": 161810,
+    "percent": 3.1
   },
   {
     "repo": "top100",
     "language": "CSS",
-    "bytes": 4402,
-    "percent": 0.2
+    "bytes": 6452,
+    "percent": 0.1
   },
   {
     "repo": "WindowsMovieMakerDecomp",

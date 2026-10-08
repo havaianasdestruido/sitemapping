@@ -24,7 +24,7 @@ PersonaDB,arena/01a0ee73-personadb,93bf14e62d3baaf84470d8204a1c648a34621b6b,93bf
 PersonaDB,arena/01a0fd74-personadb,be14fc2c9fdd5db7cb5962aa952059b26c3d5128,be14fc2,False,https://github.com/havaianasdestruido/PersonaDB/tree/arena/01a0fd74-personadb
 PersonaDB,arena/01a0ff48-personadb,8b2e1c4b9a0d40d1f4e97b41fa4c524bdaa52235,8b2e1c4,False,https://github.com/havaianasdestruido/PersonaDB/tree/arena/01a0ff48-personadb
 PersonaDB,coderabbit/fix-validator-ci-and-docs/fa681462,0b8a3ed44fde4083850fba944e7417db51672919,0b8a3ed,False,https://github.com/havaianasdestruido/PersonaDB/tree/coderabbit/fix-validator-ci-and-docs/fa681462
-PersonaDB,codex/finalize-remaining-work-to-100%,4ec345a922409f39ba7b19c272e31f86955b9ef5,4ec345a,False,https://github.com/havaianasdestruido/PersonaDB/tree/codex/finalize-remaining-work-to-100%
+PersonaDB,codex/finalize-remaining-work-to-100%,4ec345a922409f39ba7b19c272e31f86955b9ef5,4ec345a,False,https://github.com/havaianasdestruido/PersonaDB/tree/codex/finalize-remaining-work-to-100%25
 PersonaDB,imgbot,a0b43bca491785324780c2d398f1ef8a445ab15e,a0b43bc,False,https://github.com/havaianasdestruido/PersonaDB/tree/imgbot
 pong-pop,codex/atualizar-texto-do-botao-ao-iniciar-o-jogo,0b452305acfc9acbde3097a56f397fe7e0de921f,0b45230,False,https://github.com/havaianasdestruido/pong-pop/tree/codex/atualizar-texto-do-botao-ao-iniciar-o-jogo
 pong-pop,codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola,796d5c1f8434666fa2d70df3093f594ec3d26c03,796d5c1,False,https://github.com/havaianasdestruido/pong-pop/tree/codex/corrigir-janela-da-ia-tremendo-ao-seguir-a-bola
@@ -36,8 +36,10 @@ R2K16,arena/01a0ff4f-r2k16,0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0,0659d3d,Fals
 R2K16,arena/01a10307-r2k16,a51d8a137fb67314ebea6734e530f99ea1813b14,a51d8a1,False,https://github.com/havaianasdestruido/R2K16/tree/arena/01a10307-r2k16
 R2K16,dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece,d7f519da3b8d2c4b6b201c655273292229b4619d,d7f519d,False,https://github.com/havaianasdestruido/R2K16/tree/dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece
 R2K16,main,e38de88218960d322afbcd497e8fa7aaf1d492b1,e38de88,True,https://github.com/havaianasdestruido/R2K16/tree/main
-sitemapping,main,0a791f6e30cc6f4017dc588230ce1172439cfb79,0a791f6,True,https://github.com/havaianasdestruido/sitemapping/tree/main
-top100,main,47b8c63103d425c54ecfdd817e654dde95c2eac0,47b8c63,True,https://github.com/havaianasdestruido/top100/tree/main
+sitemapping,arena/6a1ac155-sitemapping,a63fb24f0350fb2099eaa99501410f1c43c9e5b2,a63fb24,False,https://github.com/havaianasdestruido/sitemapping/tree/arena/6a1ac155-sitemapping
+sitemapping,main,2adbc6ee7117a82c375da2d71ca7d510d64ef47a,2adbc6e,True,https://github.com/havaianasdestruido/sitemapping/tree/main
+top100,arena/51c06a64-top100,19e156e42924dc25ea65de55606908d117b2b18c,19e156e,False,https://github.com/havaianasdestruido/top100/tree/arena/51c06a64-top100
+top100,main,480056d5ffd6fe21dae86fc2d7d1072de9fe5faa,480056d,True,https://github.com/havaianasdestruido/top100/tree/main
 Win7APIs,main,231896442cb7537a08cf5c7f23864854ac7a9247,2318964,True,https://github.com/havaianasdestruido/Win7APIs/tree/main
 WindowsMovieMakerDecomp,arena/01a0fd75-windowsmoviemakerdecomp,4a2ece5e92fa5b08abf32cd91eb407f25df39972,4a2ece5,False,https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/arena/01a0fd75-windowsmoviemakerdecomp
 WindowsMovieMakerDecomp,arena/01a0fe24-windowsmoviemakerdecomp,b575d5a7e88392d7228b9c33bc7a17caf3d63eb5,b575d5a,False,https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/arena/01a0fe24-windowsmoviemakerdecomp

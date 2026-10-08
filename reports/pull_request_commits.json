@@ -744,6 +744,30 @@
     "url": "https://github.com/havaianasdestruido/R2K16/commit/7868b756bd7dc1cdcfe5292e0025046d640bdede"
   },
   {
+    "repo": "sitemapping",
+    "pr_number": 1,
+    "sha": "a63fb24f0350fb2099eaa99501410f1c43c9e5b2",
+    "sha_short": "a63fb24",
+    "message": "Implement secure WebMCP report explorer",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/a63fb24f0350fb2099eaa99501410f1c43c9e5b2"
+  },
+  {
+    "repo": "top100",
+    "pr_number": 2,
+    "sha": "d605050886d748354b1bea2d6739f671db2754a3",
+    "sha_short": "d605050",
+    "message": "Add full WebMCP support to every page",
+    "url": "https://github.com/havaianasdestruido/top100/commit/d605050886d748354b1bea2d6739f671db2754a3"
+  },
+  {
+    "repo": "top100",
+    "pr_number": 2,
+    "sha": "19e156e42924dc25ea65de55606908d117b2b18c",
+    "sha_short": "19e156e",
+    "message": "docs: describe the WebMCP layer and gate the workflow on its tests",
+    "url": "https://github.com/havaianasdestruido/top100/commit/19e156e42924dc25ea65de55606908d117b2b18c"
+  },
+  {
     "repo": "top100",
     "pr_number": 1,
     "sha": "e3147393b4141b1d00ec9087e94d922160b0f150",

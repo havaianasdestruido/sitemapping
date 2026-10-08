@@ -611,6 +611,32 @@
     "url": "https://github.com/havaianasdestruido/R2K16/pull/1"
   },
   {
+    "repo": "sitemapping",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Add secure WebMCP report explorer",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-08T19:08:50Z",
+    "base_branch": "main",
+    "head_branch": "arena/6a1ac155-sitemapping",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/sitemapping/pull/1"
+  },
+  {
+    "repo": "top100",
+    "state": "closed",
+    "status": "merged",
+    "number": 2,
+    "title": "Add full WebMCP support to every page",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-08T18:45:23Z",
+    "base_branch": "main",
+    "head_branch": "arena/51c06a64-top100",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/top100/pull/2"
+  },
+  {
     "repo": "top100",
     "state": "closed",
     "status": "merged",
