@@ -1833,11 +1833,27 @@
   },
   {
     "repo": "Projeto-TCC",
+    "pr_number": 3,
+    "sha": "4ff4712724c8ed4be68ea72ba8b2f43988161c24",
+    "sha_short": "4ff4712",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/4ff4712724c8ed4be68ea72ba8b2f43988161c24"
+  },
+  {
+    "repo": "Projeto-TCC",
     "pr_number": 2,
     "sha": "a516ad137f37cb792a96facb09839cfa87278b83",
     "sha_short": "a516ad1",
     "message": "fix(security): neutraliza XSS DOM-based em todo o front-end",
     "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/a516ad137f37cb792a96facb09839cfa87278b83"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "pr_number": 2,
+    "sha": "3d304b8a25856ef8c5edd48b77f796f617af3872",
+    "sha_short": "3d304b8",
+    "message": "fix(security): endurece safeUrl, scanner estático e testes de XSS",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/3d304b8a25856ef8c5edd48b77f796f617af3872"
   },
   {
     "repo": "Projeto-TCC",

@@ -90,7 +90,7 @@ R2K16,SCSS,259,0.0
 R2K16,GDB,227,0.0
 R2K16,Sass,167,0.0
 sitemapping,Python,29474,100.0
-top100,HTML,1862258,93.9
+top100,HTML,1862135,93.9
 top100,Python,115745,5.8
 top100,CSS,4402,0.2
 WindowsMovieMakerDecomp,C++,6273216,90.9
@@ -375,10 +375,10 @@ pm-claude-skills-opencode,CSS,53304,1.2
 pm-claude-skills-opencode,Rust,4589,0.1
 pm-claude-skills-opencode,TypeScript,1377,0.0
 pm-claude-skills-opencode,Dockerfile,468,0.0
-Projeto-TCC,JavaScript,446802,46.8
-Projeto-TCC,HTML,434946,45.5
-Projeto-TCC,Python,38930,4.1
-Projeto-TCC,PLpgSQL,34880,3.7
+Projeto-TCC,JavaScript,494854,49.2
+Projeto-TCC,HTML,436420,43.4
+Projeto-TCC,Python,38930,3.9
+Projeto-TCC,PLpgSQL,34880,3.5
 pwn,HTML,415,100.0
 PWSV,C++,36784,37.8
 PWSV,HTML,19935,20.5

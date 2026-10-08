@@ -548,7 +548,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 1862258,
+    "bytes": 1862135,
     "percent": 93.9
   },
   {
@@ -2258,26 +2258,26 @@
   {
     "repo": "Projeto-TCC",
     "language": "JavaScript",
-    "bytes": 446802,
-    "percent": 46.8
+    "bytes": 494854,
+    "percent": 49.2
   },
   {
     "repo": "Projeto-TCC",
     "language": "HTML",
-    "bytes": 434946,
-    "percent": 45.5
+    "bytes": 436420,
+    "percent": 43.4
   },
   {
     "repo": "Projeto-TCC",
     "language": "Python",
     "bytes": 38930,
-    "percent": 4.1
+    "percent": 3.9
   },
   {
     "repo": "Projeto-TCC",
     "language": "PLpgSQL",
     "bytes": 34880,
-    "percent": 3.7
+    "percent": 3.5
   },
   {
     "repo": "pwn",

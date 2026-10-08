@@ -1654,13 +1654,26 @@
     "repo": "Projeto-TCC",
     "state": "open",
     "status": "open",
+    "number": 3,
+    "title": "[ImgBot] Optimize images",
+    "user": "imgbot[bot]",
+    "created_at": "2026-10-07T13:10:10Z",
+    "base_branch": "main",
+    "head_branch": "imgbot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/pull/3"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "state": "closed",
+    "status": "merged",
     "number": 2,
     "title": "fix(security): neutraliza XSS DOM-based em todo o front-end",
     "user": "havaianasdestruido",
     "created_at": "2026-10-07T01:51:51Z",
     "base_branch": "main",
     "head_branch": "arena/616596f5-projeto-tcc",
-    "commit_count": 1,
+    "commit_count": 2,
     "url": "https://github.com/havaianasdestruido/Projeto-TCC/pull/2"
   },
   {

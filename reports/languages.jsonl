@@ -89,7 +89,7 @@
 {"repo": "R2K16", "language": "GDB", "bytes": 227, "percent": 0.0}
 {"repo": "R2K16", "language": "Sass", "bytes": 167, "percent": 0.0}
 {"repo": "sitemapping", "language": "Python", "bytes": 29474, "percent": 100.0}
-{"repo": "top100", "language": "HTML", "bytes": 1862258, "percent": 93.9}
+{"repo": "top100", "language": "HTML", "bytes": 1862135, "percent": 93.9}
 {"repo": "top100", "language": "Python", "bytes": 115745, "percent": 5.8}
 {"repo": "top100", "language": "CSS", "bytes": 4402, "percent": 0.2}
 {"repo": "WindowsMovieMakerDecomp", "language": "C++", "bytes": 6273216, "percent": 90.9}
@@ -374,10 +374,10 @@
 {"repo": "pm-claude-skills-opencode", "language": "Rust", "bytes": 4589, "percent": 0.1}
 {"repo": "pm-claude-skills-opencode", "language": "TypeScript", "bytes": 1377, "percent": 0.0}
 {"repo": "pm-claude-skills-opencode", "language": "Dockerfile", "bytes": 468, "percent": 0.0}
-{"repo": "Projeto-TCC", "language": "JavaScript", "bytes": 446802, "percent": 46.8}
-{"repo": "Projeto-TCC", "language": "HTML", "bytes": 434946, "percent": 45.5}
-{"repo": "Projeto-TCC", "language": "Python", "bytes": 38930, "percent": 4.1}
-{"repo": "Projeto-TCC", "language": "PLpgSQL", "bytes": 34880, "percent": 3.7}
+{"repo": "Projeto-TCC", "language": "JavaScript", "bytes": 494854, "percent": 49.2}
+{"repo": "Projeto-TCC", "language": "HTML", "bytes": 436420, "percent": 43.4}
+{"repo": "Projeto-TCC", "language": "Python", "bytes": 38930, "percent": 3.9}
+{"repo": "Projeto-TCC", "language": "PLpgSQL", "bytes": 34880, "percent": 3.5}
 {"repo": "pwn", "language": "HTML", "bytes": 415, "percent": 100.0}
 {"repo": "PWSV", "language": "C++", "bytes": 36784, "percent": 37.8}
 {"repo": "PWSV", "language": "HTML", "bytes": 19935, "percent": 20.5}
