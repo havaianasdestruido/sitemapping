@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'self'; object-src 'none'; form-action 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: https://avatars.githubusercontent.com; connect-src 'self'; upgrade-insecure-requests">
+  <meta name="theme-color" content="#f4f3ed">
+  <title>{{ page.title | default: site.title | escape }} · Sitemapping</title>
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  <script type="module" src="{{ '/assets/js/site.js' | relative_url }}"></script>
+</head>
+<body class="document-page">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="page-shell">
+    <header class="site-header">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Sitemapping home">
+        <span class="brand-mark" aria-hidden="true">SM</span>
+        <span class="brand-copy"><strong>Sitemapping</strong><small>GitHub profile explorer</small></span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="{{ '/' | relative_url }}">Explorer</a>
+        <a href="{{ '/webmcp.html' | relative_url }}">WebMCP tools</a>
+        <a href="{{ '/REPORT.html' | relative_url }}">Full report</a>
+      </nav>
+    </header>
+
+    <main id="main" class="document-main prose">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <section class="webmcp-status-panel" aria-labelledby="webmcp-status-heading">
+        <div class="webmcp-status-copy">
+          <p class="eyebrow">BROWSER AGENT SUPPORT</p>
+          <h2 id="webmcp-status-heading">WebMCP status</h2>
+          <p id="webmcp-status-text" role="status" aria-live="polite" aria-atomic="true">Checking browser support…</p>
+          <p class="fine-print">Tools read public report data; search/page calls can change only this temporary view. Results are untrusted page content.</p>
+          <a class="text-link" href="{{ '/webmcp.html' | relative_url }}">Tool catalog and security notes <span aria-hidden="true">↗</span></a>
+        </div>
+        <ul id="webmcp-tool-list" class="webmcp-tool-list" aria-label="Registered WebMCP tools"></ul>
+      </section>
+      <div class="footer-row">
+        <span>Static report · No GitHub credentials are exposed to this website.</span>
+        <a href="https://github.com/havaianasdestruido/sitemapping" target="_blank" rel="noopener noreferrer">Source on GitHub <span aria-hidden="true">↗</span></a>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>

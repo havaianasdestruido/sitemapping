@@ -1,0 +1,25 @@
+title: "GitHub Profile Explorer"
+description: "A searchable, read-only explorer for public GitHub profile and repository reports."
+url: "https://havaianasdestruido.github.io"
+baseurl: "/sitemapping"
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Give the generated Markdown report the same safe, progressively enhanced
+# shell as the explorer. The static index.html and webmcp.html are complete
+# documents and intentionally do not depend on Jekyll layouts.
+defaults:
+  - scope:
+      path: "REPORT.md"
+      type: pages
+    values:
+      layout: default
+exclude:
+  - .github
+  - scripts
+  - tests
+  - README.md
+  - LICENSE
+  - .imgbotconfig
