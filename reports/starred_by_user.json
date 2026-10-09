@@ -1,5 +1,10 @@
 [
   {
+    "full_name": "GoogleChrome/lighthouse",
+    "url": "https://github.com/GoogleChrome/lighthouse",
+    "description": "Automated auditing, performance metrics, and best practices for the web."
+  },
+  {
     "full_name": "SANTCC/Projeto-TCC",
     "url": "https://github.com/SANTCC/Projeto-TCC",
     "description": ""
