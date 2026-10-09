@@ -254,7 +254,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 89,
+    "contributions": 90,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -266,7 +266,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 105,
+    "contributions": 106,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -284,7 +284,7 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "login": "havaianasdestruido",
-    "contributions": 25,
+    "contributions": 27,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -836,7 +836,7 @@
   {
     "repo": "eleicoes-data",
     "login": "github-actions[bot]",
-    "contributions": 16,
+    "contributions": 17,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -1699,6 +1699,12 @@
   },
   {
     "repo": "Projeto-TCC",
+    "login": "havaianasdestruido",
+    "contributions": 57,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "Projeto-TCC",
     "login": "google-labs-jules[bot]",
     "contributions": 54,
     "profile_url": "https://github.com/apps/google-labs-jules"
@@ -1711,15 +1717,15 @@
   },
   {
     "repo": "Projeto-TCC",
-    "login": "havaianasdestruido",
-    "contributions": 12,
-    "profile_url": "https://github.com/havaianasdestruido"
-  },
-  {
-    "repo": "Projeto-TCC",
     "login": "PEDRO042011",
     "contributions": 2,
     "profile_url": "https://github.com/PEDRO042011"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "login": "ImgBotApp",
+    "contributions": 1,
+    "profile_url": "https://github.com/ImgBotApp"
   },
   {
     "repo": "pwn",

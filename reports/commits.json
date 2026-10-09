@@ -6662,6 +6662,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "00ade0924adf81fb8baaed8a15aa000b01f83676",
+    "sha_short": "00ade09",
+    "author": "GitHub Action Bot",
+    "date": "2026-10-09T11:10:08Z",
+    "message": "📊 [2026-10-09 11:10:08 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/00ade0924adf81fb8baaed8a15aa000b01f83676"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "d426b919374d8cf6000b15e149e2612f15462842",
     "sha_short": "d426b91",
     "author": "GitHub Action Bot",
@@ -6752,12 +6762,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "1c6e3995c52b825d4f703014a889d9428cf94486",
-    "sha_short": "1c6e399",
+    "sha": "e220b3be8bd72f2abdfc4e0882ee2c1fe32752c8",
+    "sha_short": "e220b3b",
     "author": "GitHub Action Bot",
-    "date": "2026-10-06T23:32:26Z",
-    "message": "📊 [2026-10-06 23:32:26 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/1c6e3995c52b825d4f703014a889d9428cf94486"
+    "date": "2026-09-30T03:07:36Z",
+    "message": "📊 [2026-09-30 03:07:36 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/e220b3be8bd72f2abdfc4e0882ee2c1fe32752c8"
   },
   {
     "repo": "sitemapping",
@@ -6852,12 +6862,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "3bd85f1c5ce5ad5384f3c6941636e2eabd2c20cc",
-    "sha_short": "3bd85f1",
+    "sha": "96fc96c90edae66820c49908317c1a02c28b23f9",
+    "sha_short": "96fc96c",
     "author": "GitHub Action Bot",
-    "date": "2026-09-27T09:42:42Z",
-    "message": "📊 [2026-09-27 09:42:42 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/3bd85f1c5ce5ad5384f3c6941636e2eabd2c20cc"
+    "date": "2026-09-21T22:59:31Z",
+    "message": "📊 [2026-09-21 22:59:31 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/96fc96c90edae66820c49908317c1a02c28b23f9"
   },
   {
     "repo": "sitemapping",
@@ -6952,12 +6962,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "317107fd6dbb0a8373147e97b36ebf7ac9af45f5",
-    "sha_short": "317107f",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-20T20:16:46Z",
-    "message": "📊 [2026-09-20 20:16:46 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/317107fd6dbb0a8373147e97b36ebf7ac9af45f5"
+    "sha": "f6fd77b275bbe54cb676aa5c340390d1e8ca0b32",
+    "sha_short": "f6fd77b",
+    "author": "Pato (new acc)",
+    "date": "2026-09-13T17:38:32Z",
+    "message": "switched form static page serving to jekyll page serving",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/f6fd77b275bbe54cb676aa5c340390d1e8ca0b32"
   },
   {
     "repo": "sitemapping",
@@ -7442,6 +7452,16 @@
   {
     "repo": "top100",
     "branch": "main",
+    "sha": "2ce745e7413c8139effce0b649bea661a593a7a8",
+    "sha_short": "2ce745e",
+    "author": "github-actions[bot]",
+    "date": "2026-10-09T13:57:56Z",
+    "message": "data: update top repos data (2026-10-09 13:57 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/2ce745e7413c8139effce0b649bea661a593a7a8"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
     "sha": "d407d947aae89182c4dfbba17fd4868b2ebf4570",
     "sha_short": "d407d94",
     "author": "github-actions[bot]",
@@ -7532,12 +7552,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "a227d51782b7486ba8065b9e7772b42f3611e309",
-    "sha_short": "a227d51",
+    "sha": "5680b44bf62839073fc7a4cb821f3d9d95d17507",
+    "sha_short": "5680b44",
     "author": "github-actions[bot]",
-    "date": "2026-10-08T00:32:42Z",
-    "message": "data: update top repos data (2026-10-08 00:32 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/a227d51782b7486ba8065b9e7772b42f3611e309"
+    "date": "2026-10-02T19:38:23Z",
+    "message": "data: update top repos data (2026-10-02 19:38 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/5680b44bf62839073fc7a4cb821f3d9d95d17507"
   },
   {
     "repo": "top100",
@@ -7632,12 +7652,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "aaaa7faa6be6f92432563e82913aa3644f5d4b49",
-    "sha_short": "aaaa7fa",
+    "sha": "49c8d0c6701b03e26ba58deb865cedc440ea919a",
+    "sha_short": "49c8d0c",
     "author": "github-actions[bot]",
-    "date": "2026-09-30T14:21:57Z",
-    "message": "data: update top repos data (2026-09-30 14:21 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/aaaa7faa6be6f92432563e82913aa3644f5d4b49"
+    "date": "2026-09-26T10:23:53Z",
+    "message": "data: update top repos data (2026-09-26)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/49c8d0c6701b03e26ba58deb865cedc440ea919a"
   },
   {
     "repo": "top100",
@@ -7732,12 +7752,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "c77c725e036073ecc4b785a94f9a9a791731f561",
-    "sha_short": "c77c725",
+    "sha": "e27e32c6300ac9d0b8681874904a6ef9b307be09",
+    "sha_short": "e27e32c",
     "author": "github-actions[bot]",
-    "date": "2026-09-24T19:33:27Z",
-    "message": "data: update top repos data (2026-09-24)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/c77c725e036073ecc4b785a94f9a9a791731f561"
+    "date": "2026-09-20T23:49:11Z",
+    "message": "data: update top repos data (2026-09-20)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/e27e32c6300ac9d0b8681874904a6ef9b307be09"
   },
   {
     "repo": "top100",
@@ -7828,16 +7848,6 @@
     "date": "2026-09-20T19:55:17Z",
     "message": "Add push trigger for main branch in workflow",
     "url": "https://github.com/havaianasdestruido/top100/commit/89733e0187ff2f7ebe1a3ea347ff69de3560b9c9"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "2723f0f56f61ee64dcf59100cf8524c93769b885",
-    "sha_short": "2723f0f",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:54:16Z",
-    "message": "Update cron schedule to run every hour",
-    "url": "https://github.com/havaianasdestruido/top100/commit/2723f0f56f61ee64dcf59100cf8524c93769b885"
   },
   {
     "repo": "Win7APIs",
@@ -10272,6 +10282,26 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "branch": "main",
+    "sha": "6eaae163e87df91898f299b30278dd2c3cdb013c",
+    "sha_short": "6eaae16",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-09T17:09:19Z",
+    "message": "Merge pull request #6 from havaianasdestruido/arena/b2afcea8-windowsmoviemakerdecomp",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/6eaae163e87df91898f299b30278dd2c3cdb013c"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "main",
+    "sha": "06026d0ee57fb99ba35f075d22ac782348ae92fe",
+    "sha_short": "06026d0",
+    "author": "havaianasdestruido",
+    "date": "2026-10-09T01:09:30Z",
+    "message": "Resolve all 14 TODO(reconstruction) audit annotations",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/06026d0ee57fb99ba35f075d22ac782348ae92fe"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "main",
     "sha": "2dfe0abd115312f7b9e7c139136ddb0d5e3f4e59",
     "sha_short": "2dfe0ab",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -10352,22 +10382,22 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "branch": "main",
-    "sha": "66f7a725e8010b29ca8e312b82b6f4a32628fdea",
-    "sha_short": "66f7a72",
-    "author": "Arena Agent",
-    "date": "2026-10-02T17:03:09Z",
-    "message": "docs: add full-codebase Docusaurus documentation site",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/66f7a725e8010b29ca8e312b82b6f4a32628fdea"
+    "sha": "b7baaca3cf47e83c5debaa0755065ca6d1f5800b",
+    "sha_short": "b7baaca",
+    "author": "UltimateQuack",
+    "date": "2026-08-03T02:05:50Z",
+    "message": "submodules: bump mmr-cli to 0def37a and mmr-python to 0dfddee (full 21-DLL frameworks)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b7baaca3cf47e83c5debaa0755065ca6d1f5800b"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
     "branch": "main",
-    "sha": "a39854215baf5cff17271aeaffeff3617c931100",
-    "sha_short": "a398542",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-22T00:28:48Z",
-    "message": "Merge pull request #2 from havaianasdestruido/codex/add-workflows-for-project-builds",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a39854215baf5cff17271aeaffeff3617c931100"
+    "sha": "3d6316222f68ce86e7163f39b301ed7b272c2c93",
+    "sha_short": "3d63162",
+    "author": "UltimateQuack",
+    "date": "2026-08-03T01:56:18Z",
+    "message": "submodules: bump mmr-gui to 86e9125 (full 21-DLL suite browser, CI, README)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3d6316222f68ce86e7163f39b301ed7b272c2c93"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -10452,22 +10482,22 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "branch": "main",
-    "sha": "30cc6c65019a371da0a4007d3ec61cd07413fd0e",
-    "sha_short": "30cc6c6",
+    "sha": "185ecf7049f6cd09071c9a4aea6fe7c93ac99b45",
+    "sha_short": "185ecf7",
     "author": "UltimateQuack",
-    "date": "2026-08-01T22:32:15Z",
-    "message": "test: nodejs — basic DLL ffi",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/30cc6c65019a371da0a4007d3ec61cd07413fd0e"
+    "date": "2026-07-31T16:16:02Z",
+    "message": "fix: AVCapture — added null HWND check in VideoCapture::StartPreview",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/185ecf7049f6cd09071c9a4aea6fe7c93ac99b45"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
     "branch": "main",
-    "sha": "f033f2dd972960a4d643688ec037abd59b232cf4",
-    "sha_short": "f033f2d",
+    "sha": "0abf7b3e5709ef636fe65e3fd2e9530dd6f2fcbe",
+    "sha_short": "0abf7b3",
     "author": "UltimateQuack",
-    "date": "2026-08-01T22:31:45Z",
-    "message": "test: csharp — basic DLL interop",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/f033f2dd972960a4d643688ec037abd59b232cf4"
+    "date": "2026-07-30T21:26:38Z",
+    "message": "fix: TimelineController — seek overflow guards, zero-duration clamping, thread-safe locking",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/0abf7b3e5709ef636fe65e3fd2e9530dd6f2fcbe"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -10552,22 +10582,22 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "branch": "main",
-    "sha": "735d9c00ceeff235cf5350d1113b19f5b67aac34",
-    "sha_short": "735d9c0",
+    "sha": "4868658a46edaa3d6db2314200abc20c685f55d2",
+    "sha_short": "4868658",
     "author": "UltimateQuack",
-    "date": "2026-07-30T18:51:43Z",
-    "message": "Phase 7: Integrate new engines into MovieMakerCore/SundanceAppMain",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/735d9c00ceeff235cf5350d1113b19f5b67aac34"
+    "date": "2026-07-28T18:40:01Z",
+    "message": "MovieMakerExe: update analysis.md",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4868658a46edaa3d6db2314200abc20c685f55d2"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
     "branch": "main",
-    "sha": "75025ce518daeb7c7d94fdb3f44dceedeb0d140f",
-    "sha_short": "75025ce",
+    "sha": "863d64a44c8f7cda5d34e80e2f0dcb0ce2838287",
+    "sha_short": "863d64a",
     "author": "UltimateQuack",
-    "date": "2026-07-30T17:43:37Z",
-    "message": "Phase 6: Playback & Rendering Pipeline — GPURenderer, PlaybackEngine, TimelineDispatcher",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/75025ce518daeb7c7d94fdb3f44dceedeb0d140f"
+    "date": "2026-07-28T18:36:30Z",
+    "message": "cleanup: remove debug artifact test_minimal.c",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/863d64a44c8f7cda5d34e80e2f0dcb0ce2838287"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -10648,26 +10678,6 @@
     "date": "2026-07-28T18:12:52Z",
     "message": "test(WLXTranscode.exe): dedicated test harness with CLI arg fuzzing",
     "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3794c4ca875164ebeaff78577f240aa2efedc176"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "branch": "main",
-    "sha": "31a25736832fbe892ddf4b416f5e99056cd0defd",
-    "sha_short": "31a2573",
-    "author": "UltimateQuack",
-    "date": "2026-07-28T18:11:21Z",
-    "message": "test(WLXQuickTime): dedicated harness for QuickTime control host + proxy/stub + shell ext",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/31a25736832fbe892ddf4b416f5e99056cd0defd"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "branch": "main",
-    "sha": "7dcb32360677c59c404b88078925b54ca6e3ae4a",
-    "sha_short": "7dcb323",
-    "author": "UltimateQuack",
-    "date": "2026-07-28T18:10:27Z",
-    "message": "test(WLXPhotoGalleryRepair.exe): dedicated test harness",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/7dcb32360677c59c404b88078925b54ca6e3ae4a"
   },
   {
     "repo": ".github",
@@ -14932,6 +14942,16 @@
   {
     "repo": "eleicoes-data",
     "branch": "main",
+    "sha": "d20cd42fec627e59091a96024ff8e80070d9c6e9",
+    "sha_short": "d20cd42",
+    "author": "github-actions[bot]",
+    "date": "2026-10-09T13:08:38Z",
+    "message": "data: TSE presidente snapshot 2026-10-09 13:08:38Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/d20cd42fec627e59091a96024ff8e80070d9c6e9"
+  },
+  {
+    "repo": "eleicoes-data",
+    "branch": "main",
     "sha": "d49c8a049ea31dced18b59aa0472d7bf427afbc2",
     "sha_short": "d49c8a0",
     "author": "github-actions[bot]",
@@ -15018,16 +15038,6 @@
     "date": "2026-10-07T09:15:04Z",
     "message": "data: TSE presidente snapshot 2026-10-07 09:15:04Z",
     "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/805c87ab4a4c1e43f38ce48cc46f2d81ef312cc1"
-  },
-  {
-    "repo": "eleicoes-data",
-    "branch": "main",
-    "sha": "0ab45c6886b57c2d15a8c786aa4e4816e882091d",
-    "sha_short": "0ab45c6",
-    "author": "github-actions[bot]",
-    "date": "2026-10-07T02:42:13Z",
-    "message": "data: TSE presidente snapshot 2026-10-07 02:42:13Z",
-    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/0ab45c6886b57c2d15a8c786aa4e4816e882091d"
   },
   {
     "repo": "EleLab_v2",
@@ -29401,803 +29411,403 @@
   },
   {
     "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "4ff4712724c8ed4be68ea72ba8b2f43988161c24",
-    "sha_short": "4ff4712",
-    "author": "ImgBotApp",
-    "date": "2026-10-07T13:09:37Z",
-    "message": "[ImgBot] Optimize images",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/4ff4712724c8ed4be68ea72ba8b2f43988161c24"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "f3991ac0258ebfa76b34438102b30fb375fe5fc8",
-    "sha_short": "f3991ac",
+    "branch": "main",
+    "sha": "f900f1769324ad36583ed7455df179f924e1b545",
+    "sha_short": "f900f17",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-07T13:07:35Z",
-    "message": "Merge branch 'SANTCC:main' into main",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/f3991ac0258ebfa76b34438102b30fb375fe5fc8"
+    "date": "2026-10-09T17:09:43Z",
+    "message": "Merge pull request #3 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/f900f1769324ad36583ed7455df179f924e1b545"
   },
   {
     "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "676d05db177f82d1d78841f02173db849d1929db",
-    "sha_short": "676d05d",
+    "branch": "main",
+    "sha": "eb27bb6cf3c77611cfd82fc8df1fc04b57b2a386",
+    "sha_short": "eb27bb6",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-07T13:07:15Z",
-    "message": "Merge pull request #2 from havaianasdestruido/arena/616596f5-projeto-tcc",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/676d05db177f82d1d78841f02173db849d1929db"
+    "date": "2026-10-09T00:04:14Z",
+    "message": "Merge pull request #70 from SANTCC/arena/30451bc2-projeto-tcc",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/eb27bb6cf3c77611cfd82fc8df1fc04b57b2a386"
   },
   {
     "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "3d304b8a25856ef8c5edd48b77f796f617af3872",
-    "sha_short": "3d304b8",
+    "branch": "main",
+    "sha": "9ff6a9b35d042efbc1f46dfb1b735f3219233326",
+    "sha_short": "9ff6a9b",
     "author": "havaianasdestruido",
-    "date": "2026-10-07T13:05:21Z",
-    "message": "fix(security): endurece safeUrl, scanner estático e testes de XSS",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/3d304b8a25856ef8c5edd48b77f796f617af3872"
+    "date": "2026-10-08T23:54:43Z",
+    "message": "fix: login sem 406, gravação de inspeção sem falso sucesso e histórico de inspeções",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/9ff6a9b35d042efbc1f46dfb1b735f3219233326"
   },
   {
     "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "c378e7b1679c10883839eb378ff6f06e8debb735",
-    "sha_short": "c378e7b",
+    "branch": "main",
+    "sha": "91ed3e7cef81c3ce84f6838f9c93317ad8954651",
+    "sha_short": "91ed3e7",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-07T12:53:34Z",
+    "date": "2026-10-08T23:48:05Z",
     "message": "Update backlog3.md",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/c378e7b1679c10883839eb378ff6f06e8debb735"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "aae02b817fe331f426f9866d57e1933676653966",
-    "sha_short": "aae02b8",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-07T12:37:11Z",
-    "message": "Create backlog3.md",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/aae02b817fe331f426f9866d57e1933676653966"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "99293bba7cbff0b2dcb65b3a53d08c68714dd9bc",
-    "sha_short": "99293bb",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-07T12:33:13Z",
-    "message": "Create backlog2.md",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/99293bba7cbff0b2dcb65b3a53d08c68714dd9bc"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "6e43d5d7c351f33d7b1b6ed53efb3af1db5a4478",
-    "sha_short": "6e43d5d",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-07T11:49:07Z",
-    "message": "Create TABLES.md",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/6e43d5d7c351f33d7b1b6ed53efb3af1db5a4478"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "a819e4fcbf0f1d3ad9c62e2e8b7642b97e1770f9",
-    "sha_short": "a819e4f",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-07T02:15:08Z",
-    "message": "movido testes pra pasta adequada",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/a819e4fcbf0f1d3ad9c62e2e8b7642b97e1770f9"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "a516ad137f37cb792a96facb09839cfa87278b83",
-    "sha_short": "a516ad1",
-    "author": "havaianasdestruido",
-    "date": "2026-10-07T01:49:43Z",
-    "message": "fix(security): neutraliza XSS DOM-based em todo o front-end",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/a516ad137f37cb792a96facb09839cfa87278b83"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "dd4bb6b67a2f52ac176c7b81ad10e6eee172ea6a",
-    "sha_short": "dd4bb6b",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-09-27T17:31:42Z",
-    "message": "fix: implement 15-point system corrections for NexusPort",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/dd4bb6b67a2f52ac176c7b81ad10e6eee172ea6a"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "1fff80b3ea6cc34d992136832bb0e9e492214fb2",
-    "sha_short": "1fff80b",
-    "author": "Gustavorodriguesse",
-    "date": "2026-09-27T01:49:49Z",
-    "message": "Atualizações do Projeto",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/1fff80b3ea6cc34d992136832bb0e9e492214fb2"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "9aabf6ad38da3270cce0af7aeda2f04fff1e4be4",
-    "sha_short": "9aabf6a",
-    "author": "NexusPort Dev",
-    "date": "2026-09-26T20:09:45Z",
-    "message": "Tarefa 7.1, 7.2, 7.3: Aplicar politicas RLS granulares no Supabase e documentar modelo de seguranca",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/9aabf6ad38da3270cce0af7aeda2f04fff1e4be4"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "48fed5b651a3736114b7ac5b557e68df52df39e7",
-    "sha_short": "48fed5b",
-    "author": "NexusPort Dev",
-    "date": "2026-09-26T20:03:35Z",
-    "message": "Tarefa 6.5: Associar FK de tipo de carga no agendamento",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/48fed5b651a3736114b7ac5b557e68df52df39e7"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "895dd43a6efddb606b49f62bc6bc1c8b3323fb49",
-    "sha_short": "895dd43",
-    "author": "NexusPort Dev",
-    "date": "2026-09-26T19:58:52Z",
-    "message": "Tarefa 6.4: Corrigir metricas do Painel de Indicadores (RF 7.1)",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/895dd43a6efddb606b49f62bc6bc1c8b3323fb49"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "0ac2562750dc927a570e425a9cc8fc096f8507ed",
-    "sha_short": "0ac2562",
-    "author": "NexusPort Dev",
-    "date": "2026-09-26T19:58:02Z",
-    "message": "Tarefa 6.3: Corrigir exportacao de historico (CSV) na Visao Estrategica do Diretor",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/0ac2562750dc927a570e425a9cc8fc096f8507ed"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "aa6ef6c62c1a09ffe0ffba2c0b38d33a609407f3",
-    "sha_short": "aa6ef6c",
-    "author": "NexusPort Dev",
-    "date": "2026-09-26T19:56:16Z",
-    "message": "Tarefa 6.2: Adicionar filtro por periodo de datas em Cargas (RF 10.1)",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/aa6ef6c62c1a09ffe0ffba2c0b38d33a609407f3"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "86588f2ff3413df0185679a99ae13e8e9e9f373f",
-    "sha_short": "86588f2",
-    "author": "NexusPort Dev",
-    "date": "2026-09-26T19:54:43Z",
-    "message": "Tarefa 6.1: Implementar CRUD de rotas maritimas e trava de bloqueio de saida (RN 9)",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/86588f2ff3413df0185679a99ae13e8e9e9f373f"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "ad6e223cd0e02ee7c91619ee786c2d628d2efcd7",
-    "sha_short": "ad6e223",
-    "author": "NexusPort Dev",
-    "date": "2026-09-26T19:50:41Z",
-    "message": "Tarefa 5.5: Validar RN de volume maximo, aprovacao de checklist e demais travas de frontend",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/ad6e223cd0e02ee7c91619ee786c2d628d2efcd7"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "1aa93069b38308cf28416fbed67fcb22517ac0c2",
-    "sha_short": "1aa9306",
-    "author": "NexusPort Dev",
-    "date": "2026-09-26T19:49:52Z",
-    "message": "Tarefa 5.4: Implementar Visao Propria (segregacao de cargas por operador)",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/1aa93069b38308cf28416fbed67fcb22517ac0c2"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "baeddab5fa8241638df62eff7c7ad942238b64d9",
-    "sha_short": "baeddab",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-09-25T14:20:10Z",
-    "message": "feat: purge unlinked cargas, unlinked ships, and retain exclusively employee Maxwell Philip da Cruz MAT-1914",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/baeddab5fa8241638df62eff7c7ad942238b64d9"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "dc1bf994bc3a3181d5300b5aa66ce73ca6d9b09f",
-    "sha_short": "dc1bf99",
-    "author": "Gustavorodriguesse",
-    "date": "2026-09-25T14:11:39Z",
-    "message": "Delete relatorio-backlog.md",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/dc1bf994bc3a3181d5300b5aa66ce73ca6d9b09f"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "d9c7c791552d4a0425901837465e87358d4526ca",
-    "sha_short": "d9c7c79",
-    "author": "mxwllphlp-coder",
-    "date": "2026-09-25T14:03:10Z",
-    "message": "Merge pull request #38 from SANTCC/docs/update-backlog-specs-4219619319409070701",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/d9c7c791552d4a0425901837465e87358d4526ca"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "23b1841c1300bc9e45cad7271ee6cb3e3dfc7070",
-    "sha_short": "23b1841",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-09-25T14:01:59Z",
-    "message": "feat: remove all static mock arrays and display exclusively Supabase database records per Rule A9",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/23b1841c1300bc9e45cad7271ee6cb3e3dfc7070"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "7b20b80ca469159edd9ba76df5ff6eb430c26b7c",
-    "sha_short": "7b20b80",
-    "author": "mxwllphlp-coder",
-    "date": "2026-09-25T13:40:03Z",
-    "message": "Merge pull request #37 from SANTCC/docs/update-backlog-specs-4219619319409070701",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/7b20b80ca469159edd9ba76df5ff6eb430c26b7c"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "ec875202b0a392273ae4af1cad280edc3fb636e4",
-    "sha_short": "ec87520",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-09-25T13:38:37Z",
-    "message": "feat: persist vessel departure timestamps in database and count cancelled cargas in dashboard",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/ec875202b0a392273ae4af1cad280edc3fb636e4"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "f10cfed09d231a9336605fe85c80f06ee5ca6b6d",
-    "sha_short": "f10cfed",
-    "author": "mxwllphlp-coder",
-    "date": "2026-09-25T13:09:10Z",
-    "message": "Merge pull request #36 from SANTCC/docs/update-backlog-specs-4219619319409070701",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/f10cfed09d231a9336605fe85c80f06ee5ca6b6d"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "be3c1f859938bfc086ae31d767c04e240496a291",
-    "sha_short": "be3c1f8",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-09-25T13:07:16Z",
-    "message": "feat: complete implementation of backlog fixes and full Supabase integration",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/be3c1f859938bfc086ae31d767c04e240496a291"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "984e631370f88fe66b6155d3044f3202e380e4cc",
-    "sha_short": "984e631",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-09-25T12:40:09Z",
-    "message": "docs: update SPECs/backlog.md with complete system diagnostic items",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/984e631370f88fe66b6155d3044f3202e380e4cc"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "56aff78aa133ea383c148689ae811e83bb0c15ce",
-    "sha_short": "56aff78",
-    "author": "Gustavorodriguesse",
-    "date": "2026-09-25T12:20:37Z",
-    "message": "Delete backlog.md",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/56aff78aa133ea383c148689ae811e83bb0c15ce"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "149c1f483ffcdf6c40cec9669dbeb0c083dffad0",
-    "sha_short": "149c1f4",
-    "author": "mxwllphlp-coder",
-    "date": "2026-09-23T00:02:30Z",
-    "message": "Merge pull request #25 from SANTCC/dadossupabase-12247591099202896997",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/149c1f483ffcdf6c40cec9669dbeb0c083dffad0"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "f7ec94fa94ec6be3adc74d54c0aa284a1dbbe073",
-    "sha_short": "f7ec94f",
-    "author": "mxwllphlp-coder",
-    "date": "2026-09-23T00:01:50Z",
-    "message": "Merge branch 'main' into dadossupabase-12247591099202896997",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/f7ec94fa94ec6be3adc74d54c0aa284a1dbbe073"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "d964cb2fb2c05e7fe419be05b1cd77894b99dc9c",
-    "sha_short": "d964cb2",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-09-22T23:57:58Z",
-    "message": "docs: Formatar backlog.md e SPECs/backlog.md na estrutura BACKLOG #00X",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/d964cb2fb2c05e7fe419be05b1cd77894b99dc9c"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "51b3d4bf941db89056697fcf27a6e88758761a42",
-    "sha_short": "51b3d4b",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-09-22T23:51:34Z",
-    "message": "docs: Criar backlog.md e atualizar SPECs/tasks.md com o progresso do projeto",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/51b3d4bf941db89056697fcf27a6e88758761a42"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "3aa80052664a2630cd4d604ace8f052d8d11596b",
-    "sha_short": "3aa8005",
-    "author": "mxwllphlp-coder",
-    "date": "2026-09-22T23:36:31Z",
-    "message": "Revise tasks in correcoes.md and add new items",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/3aa80052664a2630cd4d604ace8f052d8d11596b"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "cf18980a47fe853e43ce288fbbb9874f0db197f2",
-    "sha_short": "cf18980",
-    "author": "Gustavorodriguesse",
-    "date": "2026-09-22T18:01:43Z",
-    "message": "Add files via upload",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/cf18980a47fe853e43ce288fbbb9874f0db197f2"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "0cf0d1ad5623c68d24b947e1d5421c963a4f5e59",
-    "sha_short": "0cf0d1a",
-    "author": "Gustavorodriguesse",
-    "date": "2026-09-22T18:00:36Z",
-    "message": "Delete SPECs/backlog .md",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/0cf0d1ad5623c68d24b947e1d5421c963a4f5e59"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "f12bd31cb09f1340f2b58caef4b24880859a5072",
-    "sha_short": "f12bd31",
-    "author": "Gustavorodriguesse",
-    "date": "2026-09-22T17:59:46Z",
-    "message": "Add files via upload",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/f12bd31cb09f1340f2b58caef4b24880859a5072"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "d2d91fe4d34144bc17124910b0a6a515c9c7b7c4",
-    "sha_short": "d2d91fe",
-    "author": "Gustavorodriguesse",
-    "date": "2026-09-22T17:58:53Z",
-    "message": "Delete SPECs/correcoes.md",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/d2d91fe4d34144bc17124910b0a6a515c9c7b7c4"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "imgbot",
-    "sha": "fb1e1ef6f451a418217ac5b421f043e1f51793af",
-    "sha_short": "fb1e1ef",
-    "author": "mxwllphlp-coder",
-    "date": "2026-09-22T17:29:31Z",
-    "message": "Merge pull request #24 from SANTCC/dadossupabase-12247591099202896997",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/fb1e1ef6f451a418217ac5b421f043e1f51793af"
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/91ed3e7cef81c3ce84f6838f9c93317ad8954651"
   },
   {
     "repo": "Projeto-TCC",
     "branch": "main",
-    "sha": "f3991ac0258ebfa76b34438102b30fb375fe5fc8",
-    "sha_short": "f3991ac",
+    "sha": "63e1c99f6545b4d2b2b80a0a073d4b4d73da4171",
+    "sha_short": "63e1c99",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-07T13:07:35Z",
-    "message": "Merge branch 'SANTCC:main' into main",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/f3991ac0258ebfa76b34438102b30fb375fe5fc8"
+    "date": "2026-10-08T23:41:31Z",
+    "message": "Create backlog4.md",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/63e1c99f6545b4d2b2b80a0a073d4b4d73da4171"
   },
   {
     "repo": "Projeto-TCC",
     "branch": "main",
-    "sha": "676d05db177f82d1d78841f02173db849d1929db",
-    "sha_short": "676d05d",
+    "sha": "830b637a33ca170684df0752b350a28dedb1d791",
+    "sha_short": "830b637",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-07T13:07:15Z",
-    "message": "Merge pull request #2 from havaianasdestruido/arena/616596f5-projeto-tcc",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/676d05db177f82d1d78841f02173db849d1929db"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "3d304b8a25856ef8c5edd48b77f796f617af3872",
-    "sha_short": "3d304b8",
-    "author": "havaianasdestruido",
-    "date": "2026-10-07T13:05:21Z",
-    "message": "fix(security): endurece safeUrl, scanner estático e testes de XSS",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/3d304b8a25856ef8c5edd48b77f796f617af3872"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "c378e7b1679c10883839eb378ff6f06e8debb735",
-    "sha_short": "c378e7b",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-07T12:53:34Z",
+    "date": "2026-10-08T23:17:55Z",
     "message": "Update backlog3.md",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/c378e7b1679c10883839eb378ff6f06e8debb735"
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/830b637a33ca170684df0752b350a28dedb1d791"
   },
   {
     "repo": "Projeto-TCC",
     "branch": "main",
-    "sha": "aae02b817fe331f426f9866d57e1933676653966",
-    "sha_short": "aae02b8",
+    "sha": "5215c3aabb0bf789b667795c9788588b3c7ee66a",
+    "sha_short": "5215c3a",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-07T12:37:11Z",
-    "message": "Create backlog3.md",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/aae02b817fe331f426f9866d57e1933676653966"
+    "date": "2026-10-08T23:14:40Z",
+    "message": "Update backlog3.md",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/5215c3aabb0bf789b667795c9788588b3c7ee66a"
   },
   {
     "repo": "Projeto-TCC",
     "branch": "main",
-    "sha": "99293bba7cbff0b2dcb65b3a53d08c68714dd9bc",
-    "sha_short": "99293bb",
+    "sha": "86f85b4962aabd7ab79545e9588edf39fdd37aea",
+    "sha_short": "86f85b4",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-07T12:33:13Z",
-    "message": "Create backlog2.md",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/99293bba7cbff0b2dcb65b3a53d08c68714dd9bc"
+    "date": "2026-10-08T23:13:40Z",
+    "message": "Update backlog3.md",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/86f85b4962aabd7ab79545e9588edf39fdd37aea"
   },
   {
     "repo": "Projeto-TCC",
     "branch": "main",
-    "sha": "6e43d5d7c351f33d7b1b6ed53efb3af1db5a4478",
-    "sha_short": "6e43d5d",
+    "sha": "e04250b41758218b133afbd611a838d90d375efb",
+    "sha_short": "e04250b",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-07T11:49:07Z",
-    "message": "Create TABLES.md",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/6e43d5d7c351f33d7b1b6ed53efb3af1db5a4478"
+    "date": "2026-10-08T23:08:34Z",
+    "message": "Merge pull request #68 from SANTCC/arena/7a614c99-projeto-tcc",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/e04250b41758218b133afbd611a838d90d375efb"
   },
   {
     "repo": "Projeto-TCC",
     "branch": "main",
-    "sha": "a819e4fcbf0f1d3ad9c62e2e8b7642b97e1770f9",
-    "sha_short": "a819e4f",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-07T02:15:08Z",
-    "message": "movido testes pra pasta adequada",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/a819e4fcbf0f1d3ad9c62e2e8b7642b97e1770f9"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "a516ad137f37cb792a96facb09839cfa87278b83",
-    "sha_short": "a516ad1",
+    "sha": "e6295b97c67099a5d17e46cf9f6f2a8792818ff7",
+    "sha_short": "e6295b9",
     "author": "havaianasdestruido",
-    "date": "2026-10-07T01:49:43Z",
-    "message": "fix(security): neutraliza XSS DOM-based em todo o front-end",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/a516ad137f37cb792a96facb09839cfa87278b83"
+    "date": "2026-10-08T22:45:14Z",
+    "message": "Merge remote-tracking branch 'origin/main' into arena/7a614c99-projeto-tcc",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/e6295b97c67099a5d17e46cf9f6f2a8792818ff7"
   },
   {
     "repo": "Projeto-TCC",
     "branch": "main",
-    "sha": "1e909777fa9cbe75df71166a34120733e81312ec",
-    "sha_short": "1e90977",
+    "sha": "01bcbfd19c2ff2bb16629a9f04f7b901f8b0bde0",
+    "sha_short": "01bcbfd",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-06T18:32:31Z",
-    "message": "Merge pull request #1 from havaianasdestruido/arena/48f4ff36-projeto-tcc",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/1e909777fa9cbe75df71166a34120733e81312ec"
+    "date": "2026-10-08T12:26:39Z",
+    "message": "Merge branch 'main' into arena/336b7694-projeto-tcc",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/01bcbfd19c2ff2bb16629a9f04f7b901f8b0bde0"
   },
   {
     "repo": "Projeto-TCC",
     "branch": "main",
-    "sha": "1fff80b3ea6cc34d992136832bb0e9e492214fb2",
-    "sha_short": "1fff80b",
+    "sha": "b3018cb445fea5b972200bdf8eb8329ab8fca7cb",
+    "sha_short": "b3018cb",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-08T12:25:40Z",
+    "message": "Merge pull request #58 from SANTCC/arena/aa16ddc3-projeto-tcc",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/b3018cb445fea5b972200bdf8eb8329ab8fca7cb"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "92523b2691e3df7000ad72cad4c149efd7546b33",
+    "sha_short": "92523b2",
+    "author": "Arena Agent",
+    "date": "2026-10-08T12:24:26Z",
+    "message": "fix(panico): corrige 404/PGRST205 em /rest/v1/emergencias (migração reparadora + resiliência)",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/92523b2691e3df7000ad72cad4c149efd7546b33"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "3ae970be97df97b8705765cdbeedd48fffd8c90e",
+    "sha_short": "3ae970b",
+    "author": "Arena Agent",
+    "date": "2026-10-08T12:22:16Z",
+    "message": "Add Google tag (G-50V6WDEMPT) to all app pages",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/3ae970be97df97b8705765cdbeedd48fffd8c90e"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "a73d8e61e6aa9cd0b5e327f43307cd1aef5d21f9",
+    "sha_short": "a73d8e6",
+    "author": "Arena Agent",
+    "date": "2026-10-08T12:22:00Z",
+    "message": "fix(berços): normaliza payloads e evita erro 23514 no vínculo navio × berço",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/a73d8e61e6aa9cd0b5e327f43307cd1aef5d21f9"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "52019b8f742a969cd9da664e81d81cc7b649522c",
+    "sha_short": "52019b8",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-08T01:36:30Z",
+    "message": "Merge pull request #57 from SANTCC/arena/70edd3b9-projeto-tcc",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/52019b8f742a969cd9da664e81d81cc7b649522c"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "7f5d5c24087703a6bf944e4ed47ebc5e4fe9eeb5",
+    "sha_short": "7f5d5c2",
+    "author": "havaianasdestruido",
+    "date": "2026-10-08T01:26:47Z",
+    "message": "Fix vibration API handling and diagnostics",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/7f5d5c24087703a6bf944e4ed47ebc5e4fe9eeb5"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "735254452371833700743ca5e1628c12298aa2b8",
+    "sha_short": "7352544",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-07T21:29:15Z",
+    "message": "Merge pull request #56 from SANTCC/arena/26bbd635-projeto-tcc",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/735254452371833700743ca5e1628c12298aa2b8"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "99776b28b1d103acaaaac33e27acfa2bf202b19f",
+    "sha_short": "99776b2",
+    "author": "Arena Agent",
+    "date": "2026-10-07T21:25:23Z",
+    "message": "fix(panico): vibração mais perceptível e liberação por toque no Android",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/99776b28b1d103acaaaac33e27acfa2bf202b19f"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "142ead46e1890b2d5781537ae7cfefdb02d51601",
+    "sha_short": "142ead4",
+    "author": "Arena Agent",
+    "date": "2026-10-07T21:15:56Z",
+    "message": "fix(panico): fazer o botão SOS realmente vibrar no celular",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/142ead46e1890b2d5781537ae7cfefdb02d51601"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "1cbf0d6c2eca27829470f02982d7928b5a374abb",
+    "sha_short": "1cbf0d6",
     "author": "Gustavorodriguesse",
-    "date": "2026-09-27T01:49:49Z",
-    "message": "Atualizações do Projeto",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/1fff80b3ea6cc34d992136832bb0e9e492214fb2"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "9aabf6ad38da3270cce0af7aeda2f04fff1e4be4",
-    "sha_short": "9aabf6a",
-    "author": "NexusPort Dev",
-    "date": "2026-09-26T20:09:45Z",
-    "message": "Tarefa 7.1, 7.2, 7.3: Aplicar politicas RLS granulares no Supabase e documentar modelo de seguranca",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/9aabf6ad38da3270cce0af7aeda2f04fff1e4be4"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "48fed5b651a3736114b7ac5b557e68df52df39e7",
-    "sha_short": "48fed5b",
-    "author": "NexusPort Dev",
-    "date": "2026-09-26T20:03:35Z",
-    "message": "Tarefa 6.5: Associar FK de tipo de carga no agendamento",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/48fed5b651a3736114b7ac5b557e68df52df39e7"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "895dd43a6efddb606b49f62bc6bc1c8b3323fb49",
-    "sha_short": "895dd43",
-    "author": "NexusPort Dev",
-    "date": "2026-09-26T19:58:52Z",
-    "message": "Tarefa 6.4: Corrigir metricas do Painel de Indicadores (RF 7.1)",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/895dd43a6efddb606b49f62bc6bc1c8b3323fb49"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "0ac2562750dc927a570e425a9cc8fc096f8507ed",
-    "sha_short": "0ac2562",
-    "author": "NexusPort Dev",
-    "date": "2026-09-26T19:58:02Z",
-    "message": "Tarefa 6.3: Corrigir exportacao de historico (CSV) na Visao Estrategica do Diretor",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/0ac2562750dc927a570e425a9cc8fc096f8507ed"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "aa6ef6c62c1a09ffe0ffba2c0b38d33a609407f3",
-    "sha_short": "aa6ef6c",
-    "author": "NexusPort Dev",
-    "date": "2026-09-26T19:56:16Z",
-    "message": "Tarefa 6.2: Adicionar filtro por periodo de datas em Cargas (RF 10.1)",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/aa6ef6c62c1a09ffe0ffba2c0b38d33a609407f3"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "86588f2ff3413df0185679a99ae13e8e9e9f373f",
-    "sha_short": "86588f2",
-    "author": "NexusPort Dev",
-    "date": "2026-09-26T19:54:43Z",
-    "message": "Tarefa 6.1: Implementar CRUD de rotas maritimas e trava de bloqueio de saida (RN 9)",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/86588f2ff3413df0185679a99ae13e8e9e9f373f"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "ad6e223cd0e02ee7c91619ee786c2d628d2efcd7",
-    "sha_short": "ad6e223",
-    "author": "NexusPort Dev",
-    "date": "2026-09-26T19:50:41Z",
-    "message": "Tarefa 5.5: Validar RN de volume maximo, aprovacao de checklist e demais travas de frontend",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/ad6e223cd0e02ee7c91619ee786c2d628d2efcd7"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "1aa93069b38308cf28416fbed67fcb22517ac0c2",
-    "sha_short": "1aa9306",
-    "author": "NexusPort Dev",
-    "date": "2026-09-26T19:49:52Z",
-    "message": "Tarefa 5.4: Implementar Visao Propria (segregacao de cargas por operador)",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/1aa93069b38308cf28416fbed67fcb22517ac0c2"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "0b46f912d9d6f20f45dbc05209f247b4c4160b9e",
-    "sha_short": "0b46f91",
-    "author": "NexusPort Dev",
-    "date": "2026-09-26T19:32:50Z",
-    "message": "Tarefa 5.3: Implementar trava de status no cancelamento de cargas (RN 16)",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/0b46f912d9d6f20f45dbc05209f247b4c4160b9e"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "dc1bf994bc3a3181d5300b5aa66ce73ca6d9b09f",
-    "sha_short": "dc1bf99",
-    "author": "Gustavorodriguesse",
-    "date": "2026-09-25T14:11:39Z",
-    "message": "Delete relatorio-backlog.md",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/dc1bf994bc3a3181d5300b5aa66ce73ca6d9b09f"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "d9c7c791552d4a0425901837465e87358d4526ca",
-    "sha_short": "d9c7c79",
-    "author": "mxwllphlp-coder",
-    "date": "2026-09-25T14:03:10Z",
-    "message": "Merge pull request #38 from SANTCC/docs/update-backlog-specs-4219619319409070701",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/d9c7c791552d4a0425901837465e87358d4526ca"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "23b1841c1300bc9e45cad7271ee6cb3e3dfc7070",
-    "sha_short": "23b1841",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-09-25T14:01:59Z",
-    "message": "feat: remove all static mock arrays and display exclusively Supabase database records per Rule A9",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/23b1841c1300bc9e45cad7271ee6cb3e3dfc7070"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "7b20b80ca469159edd9ba76df5ff6eb430c26b7c",
-    "sha_short": "7b20b80",
-    "author": "mxwllphlp-coder",
-    "date": "2026-09-25T13:40:03Z",
-    "message": "Merge pull request #37 from SANTCC/docs/update-backlog-specs-4219619319409070701",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/7b20b80ca469159edd9ba76df5ff6eb430c26b7c"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "ec875202b0a392273ae4af1cad280edc3fb636e4",
-    "sha_short": "ec87520",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-09-25T13:38:37Z",
-    "message": "feat: persist vessel departure timestamps in database and count cancelled cargas in dashboard",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/ec875202b0a392273ae4af1cad280edc3fb636e4"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "f10cfed09d231a9336605fe85c80f06ee5ca6b6d",
-    "sha_short": "f10cfed",
-    "author": "mxwllphlp-coder",
-    "date": "2026-09-25T13:09:10Z",
-    "message": "Merge pull request #36 from SANTCC/docs/update-backlog-specs-4219619319409070701",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/f10cfed09d231a9336605fe85c80f06ee5ca6b6d"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "be3c1f859938bfc086ae31d767c04e240496a291",
-    "sha_short": "be3c1f8",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-09-25T13:07:16Z",
-    "message": "feat: complete implementation of backlog fixes and full Supabase integration",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/be3c1f859938bfc086ae31d767c04e240496a291"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "984e631370f88fe66b6155d3044f3202e380e4cc",
-    "sha_short": "984e631",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-09-25T12:40:09Z",
-    "message": "docs: update SPECs/backlog.md with complete system diagnostic items",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/984e631370f88fe66b6155d3044f3202e380e4cc"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "56aff78aa133ea383c148689ae811e83bb0c15ce",
-    "sha_short": "56aff78",
-    "author": "Gustavorodriguesse",
-    "date": "2026-09-25T12:20:37Z",
+    "date": "2026-09-29T15:56:23Z",
     "message": "Delete backlog.md",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/56aff78aa133ea383c148689ae811e83bb0c15ce"
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/1cbf0d6c2eca27829470f02982d7928b5a374abb"
   },
   {
     "repo": "Projeto-TCC",
     "branch": "main",
-    "sha": "bae52ece11c773f69ab80271fb085fee38663ca1",
-    "sha_short": "bae52ec",
+    "sha": "9cb4b28db1a6fc7421c073fc557fbf4b9933b2c7",
+    "sha_short": "9cb4b28",
     "author": "Gustavorodriguesse",
-    "date": "2026-09-25T02:06:29Z",
-    "message": "Merge pull request #35 from SANTCC/fix-backlog-001-6542576215625170157",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/bae52ece11c773f69ab80271fb085fee38663ca1"
+    "date": "2026-09-29T15:55:55Z",
+    "message": "Delete RELATORIO_GERAL_CONFORMIDADE_TESTES.md",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/9cb4b28db1a6fc7421c073fc557fbf4b9933b2c7"
   },
   {
     "repo": "Projeto-TCC",
     "branch": "main",
-    "sha": "f7ec94fa94ec6be3adc74d54c0aa284a1dbbe073",
-    "sha_short": "f7ec94f",
-    "author": "mxwllphlp-coder",
-    "date": "2026-09-23T00:01:50Z",
-    "message": "Merge branch 'main' into dadossupabase-12247591099202896997",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/f7ec94fa94ec6be3adc74d54c0aa284a1dbbe073"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "d964cb2fb2c05e7fe419be05b1cd77894b99dc9c",
-    "sha_short": "d964cb2",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-09-22T23:57:58Z",
-    "message": "docs: Formatar backlog.md e SPECs/backlog.md na estrutura BACKLOG #00X",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/d964cb2fb2c05e7fe419be05b1cd77894b99dc9c"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "51b3d4bf941db89056697fcf27a6e88758761a42",
-    "sha_short": "51b3d4b",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-09-22T23:51:34Z",
-    "message": "docs: Criar backlog.md e atualizar SPECs/tasks.md com o progresso do projeto",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/51b3d4bf941db89056697fcf27a6e88758761a42"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "3aa80052664a2630cd4d604ace8f052d8d11596b",
-    "sha_short": "3aa8005",
-    "author": "mxwllphlp-coder",
-    "date": "2026-09-22T23:36:31Z",
-    "message": "Revise tasks in correcoes.md and add new items",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/3aa80052664a2630cd4d604ace8f052d8d11596b"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "cf18980a47fe853e43ce288fbbb9874f0db197f2",
-    "sha_short": "cf18980",
+    "sha": "e5de4ccc26a29891272923926f4156834f09a88c",
+    "sha_short": "e5de4cc",
     "author": "Gustavorodriguesse",
-    "date": "2026-09-22T18:01:43Z",
+    "date": "2026-09-29T15:54:48Z",
+    "message": "Delete SPECs/relatorio-backlog-001.md",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/e5de4ccc26a29891272923926f4156834f09a88c"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "33ffaf185b9287336f6d208d57129e5ed4667c54",
+    "sha_short": "33ffaf1",
+    "author": "Gustavorodriguesse",
+    "date": "2026-09-29T15:54:22Z",
+    "message": "Delete SPECs/relatorio-auditoria-completa.md",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/33ffaf185b9287336f6d208d57129e5ed4667c54"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "0f5338b28965cffc2f06be795ca559b46b26d745",
+    "sha_short": "0f5338b",
+    "author": "Gustavorodriguesse",
+    "date": "2026-09-29T15:54:06Z",
+    "message": "Delete SPECs/RELATORIO_GERAL_CONFORMIDADE_TESTES.md",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/0f5338b28965cffc2f06be795ca559b46b26d745"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "dce473c2e9cabcd3b33094054045cbaf4de1b224",
+    "sha_short": "dce473c",
+    "author": "Gustavorodriguesse",
+    "date": "2026-09-29T15:53:53Z",
+    "message": "Delete SPECs/backlog-001.md",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/dce473c2e9cabcd3b33094054045cbaf4de1b224"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "f2ef5164a3a2577f489d2683b581032aae6b2468",
+    "sha_short": "f2ef516",
+    "author": "Gustavorodriguesse",
+    "date": "2026-09-29T15:32:48Z",
+    "message": "Delete SPECs/backlog.md",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/f2ef5164a3a2577f489d2683b581032aae6b2468"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "d48e94f51d97aae3d1bb834d54e857bb2a9dd0b4",
+    "sha_short": "d48e94f",
+    "author": "Gustavorodriguesse",
+    "date": "2026-09-29T04:33:26Z",
+    "message": "Merge pull request #51 from SANTCC/fix/correcoes-adicionais-system-3833271451490660091",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/d48e94f51d97aae3d1bb834d54e857bb2a9dd0b4"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "2a944678dfa90acab5365adbe8363df4f0a4803e",
+    "sha_short": "2a94467",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-09-29T04:32:38Z",
+    "message": "fix: implement additional system corrections for tasks 1 to 6",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/2a944678dfa90acab5365adbe8363df4f0a4803e"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "a45145bd0e628b7c703d4003a4285ff5e46616b6",
+    "sha_short": "a45145b",
+    "author": "Gustavorodriguesse",
+    "date": "2026-09-29T03:11:31Z",
+    "message": "Merge pull request #50 from SANTCC/fix/correcoes-1-versao-10152989199524978958",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/a45145bd0e628b7c703d4003a4285ff5e46616b6"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "4208fcc583b46b503eb51c9388a76b31fb418b4e",
+    "sha_short": "4208fcc",
+    "author": "NexusPort Dev",
+    "date": "2026-09-26T19:23:52Z",
+    "message": "Tarefa 4.1: Substituir dados ficticios de produtividade por agregacao real",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/4208fcc583b46b503eb51c9388a76b31fb418b4e"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "6ccb4da39a0cdbc6815ed9188d0b19fcb2a00e04",
+    "sha_short": "6ccb4da",
+    "author": "NexusPort Dev",
+    "date": "2026-09-26T19:19:03Z",
+    "message": "Tarefa 3.3: Corrigir gravacao de itens de inspecao (string vs. UUID)",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/6ccb4da39a0cdbc6815ed9188d0b19fcb2a00e04"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "85efcbe939a7dec146aa051a8a19cc3b3ec0fbc0",
+    "sha_short": "85efcbe",
+    "author": "NexusPort Dev",
+    "date": "2026-09-26T19:16:25Z",
+    "message": "Tarefa 3.2: Corrigir enum de estado de manutencao de navios",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/85efcbe939a7dec146aa051a8a19cc3b3ec0fbc0"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "836c3f00201d94cd67e7e55ceb61024670908e68",
+    "sha_short": "836c3f0",
+    "author": "NexusPort Dev",
+    "date": "2026-09-26T19:14:33Z",
+    "message": "Tarefa 3.1: Corrigir vinculacao de carga a conteiner (string vs. UUID)",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/836c3f00201d94cd67e7e55ceb61024670908e68"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "ec327101c6335e577467d65efd333a572d5770e6",
+    "sha_short": "ec32710",
+    "author": "NexusPort Dev",
+    "date": "2026-09-26T19:10:02Z",
+    "message": "Tarefa 2.1: Corrigir bug de variavel indefinida no cadastro de funcionarios",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/ec327101c6335e577467d65efd333a572d5770e6"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "f6ab27bc64c6187ff77fbec9540726a49e65cd70",
+    "sha_short": "f6ab27b",
+    "author": "NexusPort Dev",
+    "date": "2026-09-26T19:04:48Z",
+    "message": "Tarefa 1.2: Incluir data-repository.js em todas as paginas HTML",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/f6ab27bc64c6187ff77fbec9540726a49e65cd70"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "0ef8a8be8f99839803babf7988474e7677fdb124",
+    "sha_short": "0ef8a8b",
+    "author": "NexusPort Dev",
+    "date": "2026-09-26T18:57:58Z",
+    "message": "Tarefa 1.1: Corrigir erro de sintaxe em js/data-repository.js",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/0ef8a8be8f99839803babf7988474e7677fdb124"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "branch": "main",
+    "sha": "05491542681f38714d71f1cbc5888826ce5e02d2",
+    "sha_short": "0549154",
+    "author": "Gustavorodriguesse",
+    "date": "2026-09-26T12:59:18Z",
     "message": "Add files via upload",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/cf18980a47fe853e43ce288fbbb9874f0db197f2"
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/05491542681f38714d71f1cbc5888826ce5e02d2"
   },
   {
     "repo": "Projeto-TCC",
     "branch": "main",
-    "sha": "0cf0d1ad5623c68d24b947e1d5421c963a4f5e59",
-    "sha_short": "0cf0d1a",
+    "sha": "fca2ded17cf0813058bea82019018a3c9d542f1b",
+    "sha_short": "fca2ded",
     "author": "Gustavorodriguesse",
-    "date": "2026-09-22T18:00:36Z",
-    "message": "Delete SPECs/backlog .md",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/0cf0d1ad5623c68d24b947e1d5421c963a4f5e59"
+    "date": "2026-09-26T12:58:52Z",
+    "message": "Delete SPECs/backlog.md",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/fca2ded17cf0813058bea82019018a3c9d542f1b"
   },
   {
     "repo": "Projeto-TCC",
     "branch": "main",
-    "sha": "f12bd31cb09f1340f2b58caef4b24880859a5072",
-    "sha_short": "f12bd31",
+    "sha": "4c3341b2faf604f21d5be130c8a63afff353fa5a",
+    "sha_short": "4c3341b",
     "author": "Gustavorodriguesse",
-    "date": "2026-09-22T17:59:46Z",
+    "date": "2026-09-26T12:58:36Z",
     "message": "Add files via upload",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/f12bd31cb09f1340f2b58caef4b24880859a5072"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "d2d91fe4d34144bc17124910b0a6a515c9c7b7c4",
-    "sha_short": "d2d91fe",
-    "author": "Gustavorodriguesse",
-    "date": "2026-09-22T17:58:53Z",
-    "message": "Delete SPECs/correcoes.md",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/d2d91fe4d34144bc17124910b0a6a515c9c7b7c4"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "fb1e1ef6f451a418217ac5b421f043e1f51793af",
-    "sha_short": "fb1e1ef",
-    "author": "mxwllphlp-coder",
-    "date": "2026-09-22T17:29:31Z",
-    "message": "Merge pull request #24 from SANTCC/dadossupabase-12247591099202896997",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/fb1e1ef6f451a418217ac5b421f043e1f51793af"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "branch": "main",
-    "sha": "650f4b699403a9787c28710e05fda43bbd72552d",
-    "sha_short": "650f4b6",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-09-22T17:28:25Z",
-    "message": "feat: Sincronizar dados do sistema com o Supabase e corrigir login de novos funcionarios",
-    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/650f4b699403a9787c28710e05fda43bbd72552d"
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/4c3341b2faf604f21d5be130c8a63afff353fa5a"
   },
   {
     "repo": "pwn",

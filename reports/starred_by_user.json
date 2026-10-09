@@ -1,5 +1,10 @@
 [
   {
+    "full_name": "Alex313031/Python-Win7",
+    "url": "https://github.com/Alex313031/Python-Win7",
+    "description": "Python 3.8+ installers that support Windows 7 SP1 and Windows Server 2008 R2"
+  },
+  {
     "full_name": "GoogleChrome/lighthouse",
     "url": "https://github.com/GoogleChrome/lighthouse",
     "description": "Automated auditing, performance metrics, and best practices for the web."

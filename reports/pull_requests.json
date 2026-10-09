@@ -651,8 +651,8 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 6,
     "title": "Resolve all 14 TODO(reconstruction) audit annotations",
     "user": "havaianasdestruido",
@@ -1704,8 +1704,8 @@
   },
   {
     "repo": "Projeto-TCC",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 3,
     "title": "[ImgBot] Optimize images",
     "user": "imgbot[bot]",

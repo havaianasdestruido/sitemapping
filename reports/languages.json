@@ -566,7 +566,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 4870410,
+    "bytes": 4870666,
     "percent": 93.5
   },
   {
@@ -590,7 +590,7 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "language": "C++",
-    "bytes": 6273216,
+    "bytes": 6330604,
     "percent": 90.9
   },
   {
@@ -608,7 +608,7 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "language": "CMake",
-    "bytes": 45592,
+    "bytes": 45610,
     "percent": 0.7
   },
   {
@@ -2294,26 +2294,32 @@
   {
     "repo": "Projeto-TCC",
     "language": "JavaScript",
-    "bytes": 494854,
-    "percent": 49.2
+    "bytes": 1351816,
+    "percent": 68.0
   },
   {
     "repo": "Projeto-TCC",
     "language": "HTML",
-    "bytes": 436420,
-    "percent": 43.4
+    "bytes": 481421,
+    "percent": 24.2
   },
   {
     "repo": "Projeto-TCC",
     "language": "Python",
-    "bytes": 38930,
-    "percent": 3.9
+    "bytes": 69647,
+    "percent": 3.5
   },
   {
     "repo": "Projeto-TCC",
     "language": "PLpgSQL",
-    "bytes": 34880,
+    "bytes": 68735,
     "percent": 3.5
+  },
+  {
+    "repo": "Projeto-TCC",
+    "language": "TypeScript",
+    "bytes": 15082,
+    "percent": 0.8
   },
   {
     "repo": "pwn",
