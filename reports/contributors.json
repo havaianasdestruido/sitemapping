@@ -188,8 +188,14 @@
   {
     "repo": "hemorroidabot",
     "login": "havaianasdestruido",
-    "contributions": 43,
+    "contributions": 44,
     "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "hemorroidabot",
+    "login": "google-labs-jules[bot]",
+    "contributions": 3,
+    "profile_url": "https://github.com/apps/google-labs-jules"
   },
   {
     "repo": "hemorroidabot",
@@ -254,7 +260,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 90,
+    "contributions": 91,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -266,7 +272,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 106,
+    "contributions": 108,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -836,7 +842,7 @@
   {
     "repo": "eleicoes-data",
     "login": "github-actions[bot]",
-    "contributions": 17,
+    "contributions": 19,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -1580,7 +1586,7 @@
   {
     "repo": "p2unrealscript",
     "login": "havaianasdestruido",
-    "contributions": 1,
+    "contributions": 3,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {

@@ -287,6 +287,32 @@
   },
   {
     "repo": "hemorroidabot",
+    "state": "open",
+    "status": "open",
+    "number": 7,
+    "title": "Fix UI-related issues",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-09T23:09:12Z",
+    "base_branch": "master",
+    "head_branch": "fix-ui-issues-17063770601056554583",
+    "commit_count": 5,
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/pull/7"
+  },
+  {
+    "repo": "hemorroidabot",
+    "state": "closed",
+    "status": "merged",
+    "number": 8,
+    "title": "Fix model-loading related issues",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-09T23:19:50Z",
+    "base_branch": "master",
+    "head_branch": "fix-model-loading-issues-16680381811278233495",
+    "commit_count": 3,
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/pull/8"
+  },
+  {
+    "repo": "hemorroidabot",
     "state": "closed",
     "status": "merged",
     "number": 6,

@@ -13,7 +13,9 @@ hemorroidabot,arena/01a0f2c9-hemorroidabot,de0a86a681d76c55fb52874d9b5448e3d073e
 hemorroidabot,arena/01a1045a-hemorroidabot,3c65f639aa1869123bb18b75a948c687dde0a4e7,3c65f63,False,https://github.com/havaianasdestruido/hemorroidabot/tree/arena/01a1045a-hemorroidabot
 hemorroidabot,arena/01a10462-hemorroidabot,7cb85e4ea92574a60e15d7ebf155ade61205e594,7cb85e4,False,https://github.com/havaianasdestruido/hemorroidabot/tree/arena/01a10462-hemorroidabot
 hemorroidabot,codex/add-i18n.js-with-pt-br-and-en-support,9611bd3a2e82b786aaaac0fa3435b1d1556fb5a3,9611bd3,False,https://github.com/havaianasdestruido/hemorroidabot/tree/codex/add-i18n.js-with-pt-br-and-en-support
-hemorroidabot,master,4a9bd452cb22f3537154c07010c829b2f9a10e3f,4a9bd45,True,https://github.com/havaianasdestruido/hemorroidabot/tree/master
+hemorroidabot,fix-model-loading-issues-16680381811278233495,12068c29b94110cfa88e83e56bb890dd079f019f,12068c2,False,https://github.com/havaianasdestruido/hemorroidabot/tree/fix-model-loading-issues-16680381811278233495
+hemorroidabot,fix-ui-issues-17063770601056554583,0cc3b26c187e7f181acb667e3c92c4dad26b794c,0cc3b26,False,https://github.com/havaianasdestruido/hemorroidabot/tree/fix-ui-issues-17063770601056554583
+hemorroidabot,master,eb47284b4c78af47b13ae34eda52f6e331dc010e,eb47284,True,https://github.com/havaianasdestruido/hemorroidabot/tree/master
 KaukaMed,arena/01a0d488-kaukamed,0d7603161b8e5104d1d6779f7a3145e10bb10b29,0d76031,False,https://github.com/havaianasdestruido/KaukaMed/tree/arena/01a0d488-kaukamed
 KaukaMed,arena/01a0ee6c-kaukamed,aeed028f6dae5f527abc703ac09670243a075972,aeed028,False,https://github.com/havaianasdestruido/KaukaMed/tree/arena/01a0ee6c-kaukamed
 KaukaMed,arena/01a0fd76-kaukamed,f89552cf6560008cbd9dc30efb42b286f2c7a4db,f89552c,False,https://github.com/havaianasdestruido/KaukaMed/tree/arena/01a0fd76-kaukamed
@@ -37,9 +39,9 @@ R2K16,arena/01a10307-r2k16,a51d8a137fb67314ebea6734e530f99ea1813b14,a51d8a1,Fals
 R2K16,dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece,d7f519da3b8d2c4b6b201c655273292229b4619d,d7f519d,False,https://github.com/havaianasdestruido/R2K16/tree/dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece
 R2K16,main,e38de88218960d322afbcd497e8fa7aaf1d492b1,e38de88,True,https://github.com/havaianasdestruido/R2K16/tree/main
 sitemapping,arena/6a1ac155-sitemapping,a63fb24f0350fb2099eaa99501410f1c43c9e5b2,a63fb24,False,https://github.com/havaianasdestruido/sitemapping/tree/arena/6a1ac155-sitemapping
-sitemapping,main,00ade0924adf81fb8baaed8a15aa000b01f83676,00ade09,True,https://github.com/havaianasdestruido/sitemapping/tree/main
+sitemapping,main,5926ab8c5dcb4b0a186782255c2ef9e4f78a3090,5926ab8,True,https://github.com/havaianasdestruido/sitemapping/tree/main
 top100,arena/51c06a64-top100,19e156e42924dc25ea65de55606908d117b2b18c,19e156e,False,https://github.com/havaianasdestruido/top100/tree/arena/51c06a64-top100
-top100,main,2ce745e7413c8139effce0b649bea661a593a7a8,2ce745e,True,https://github.com/havaianasdestruido/top100/tree/main
+top100,main,f1a1469b81b045a17a8eb7cdf87b51e4139ac5ba,f1a1469,True,https://github.com/havaianasdestruido/top100/tree/main
 Win7APIs,main,231896442cb7537a08cf5c7f23864854ac7a9247,2318964,True,https://github.com/havaianasdestruido/Win7APIs/tree/main
 WindowsMovieMakerDecomp,arena/b2afcea8-windowsmoviemakerdecomp,06026d0ee57fb99ba35f075d22ac782348ae92fe,06026d0,False,https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/arena/b2afcea8-windowsmoviemakerdecomp
 WindowsMovieMakerDecomp,arena/01a0fd75-windowsmoviemakerdecomp,4a2ece5e92fa5b08abf32cd91eb407f25df39972,4a2ece5,False,https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/arena/01a0fd75-windowsmoviemakerdecomp
@@ -81,7 +83,7 @@ ClassHub,main,cf70ec3359c53042666b3890e8199802e8ea79c4,cf70ec3,True,https://gith
 dadosabertos,arena/01a0e80c-dadosabertos,8635c04cf229c6396879860c510f7696630cd261,8635c04,False,https://github.com/havaianasdestruido/dadosabertos/tree/arena/01a0e80c-dadosabertos
 dadosabertos,main,78a56cf2217e2c5a072ebaef7319ac63877491c2,78a56cf,True,https://github.com/havaianasdestruido/dadosabertos/tree/main
 eleicoes-data,arena/01a10951-eleicoes-data,b90f4e8d553e37a6caec61aa4b19cb981c4883ca,b90f4e8,False,https://github.com/havaianasdestruido/eleicoes-data/tree/arena/01a10951-eleicoes-data
-eleicoes-data,main,d20cd42fec627e59091a96024ff8e80070d9c6e9,d20cd42,True,https://github.com/havaianasdestruido/eleicoes-data/tree/main
+eleicoes-data,main,7bbe97800520becb0486c5c9c7a1ff77e0e6b4e9,7bbe978,True,https://github.com/havaianasdestruido/eleicoes-data/tree/main
 EleLab_v2,master,9306cddca1e8b6b14c4f6a4f572579d2eedd44df,9306cdd,True,https://github.com/havaianasdestruido/EleLab_v2/tree/master
 EZInfiniteYTLive,arena/01a0fd78-ezinfiniteytlive,299b72a11732fe88043029d28ce3634c6be31bb3,299b72a,False,https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/arena/01a0fd78-ezinfiniteytlive
 EZInfiniteYTLive,arena/01a0ff49-ezinfiniteytlive,7a2a38902fcdabbe75a20ddf48196c9548d5cf5f,7a2a389,False,https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/arena/01a0ff49-ezinfiniteytlive
@@ -152,7 +154,7 @@ OdontoAura,fix-login-redirect-flow-1754381547150028108,8e395c88961ba949ce9eeeaf7
 OdontoAura,host-frontend-github-pages-7416436364491725714,59802b85c195337f55aaa5c68ceee7609b0334d7,59802b8,False,https://github.com/havaianasdestruido/OdontoAura/tree/host-frontend-github-pages-7416436364491725714
 OdontoAura,jules-426731085996982659-7bcf478f,d0f81e0f8ad022761a38077e31ae985e1d2946dc,d0f81e0,False,https://github.com/havaianasdestruido/OdontoAura/tree/jules-426731085996982659-7bcf478f
 orelha,main,397825f341ced84dd08e530ab3be864eaf5c2f54,397825f,True,https://github.com/havaianasdestruido/orelha/tree/main
-p2unrealscript,master,e9c1349a85ec7e1502c0fc17a7372b3629ff4af4,e9c1349,True,https://github.com/havaianasdestruido/p2unrealscript/tree/master
+p2unrealscript,master,7a54988f6869f8f1d3be95a1a8848b32a33e7028,7a54988,True,https://github.com/havaianasdestruido/p2unrealscript/tree/master
 PhoenixLiveWallpaper,arena/01a0e3c6-phoenixlivewallpaper,1a6155d55ffd4b7cec4c4a613808bd68d5966342,1a6155d,False,https://github.com/havaianasdestruido/PhoenixLiveWallpaper/tree/arena/01a0e3c6-phoenixlivewallpaper
 PhoenixLiveWallpaper,main,c67f909f90b993068433e2ce059b9c4ce6672dbf,c67f909,True,https://github.com/havaianasdestruido/PhoenixLiveWallpaper/tree/main
 PhonkHub,arena/01a0edad-phonkhub,1157448635d2332673f45483671e2cab1c95f135,1157448,False,https://github.com/havaianasdestruido/PhonkHub/tree/arena/01a0edad-phonkhub

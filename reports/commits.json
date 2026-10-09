@@ -4011,6 +4011,446 @@
   },
   {
     "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "12068c29b94110cfa88e83e56bb890dd079f019f",
+    "sha_short": "12068c2",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-09T23:28:04Z",
+    "message": "Fix model loading issues and labeler workflow",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/12068c29b94110cfa88e83e56bb890dd079f019f"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "62ae114b64b72458f64d53a4bb8041145d8d5b32",
+    "sha_short": "62ae114",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-09T23:25:21Z",
+    "message": "Fix model loading issues and labeler workflow",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/62ae114b64b72458f64d53a4bb8041145d8d5b32"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "22d0050825a4ac2ec8b7c1781be1f0f8cf53ecde",
+    "sha_short": "22d0050",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-09T23:23:05Z",
+    "message": "Fix model loading issues and labeler configuration",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/22d0050825a4ac2ec8b7c1781be1f0f8cf53ecde"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "185d0d399dfab9c9cd6c037d5b15c173d3d8e306",
+    "sha_short": "185d0d3",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-09T23:19:47Z",
+    "message": "Fix model loading, switching, and cache checks",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/185d0d399dfab9c9cd6c037d5b15c173d3d8e306"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "4a9bd452cb22f3537154c07010c829b2f9a10e3f",
+    "sha_short": "4a9bd45",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-05T13:10:46Z",
+    "message": "Merge pull request #6 from havaianasdestruido/arena/01a10462-hemorroidabot",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/4a9bd452cb22f3537154c07010c829b2f9a10e3f"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "7cb85e4ea92574a60e15d7ebf155ade61205e594",
+    "sha_short": "7cb85e4",
+    "author": "arena-agent",
+    "date": "2026-10-04T01:00:31Z",
+    "message": "Corrige carga do WASM no deploy do Pages (subpath) e o 404 do favicon",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/7cb85e4ea92574a60e15d7ebf155ade61205e594"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "256b485031a8dfd9939ee7ea88fe96457a1a8511",
+    "sha_short": "256b485",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T00:46:54Z",
+    "message": "Merge pull request #5 from havaianasdestruido/arena/01a1045a-hemorroidabot",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/256b485031a8dfd9939ee7ea88fe96457a1a8511"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "3c65f639aa1869123bb18b75a948c687dde0a4e7",
+    "sha_short": "3c65f63",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T00:45:12Z",
+    "message": "fix: publicar runtime do wllama no GitHub Pages",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/3c65f639aa1869123bb18b75a948c687dde0a4e7"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "b1086df8a254e549bf0a6fdcb5cf5943b9c97572",
+    "sha_short": "b1086df",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T13:59:54Z",
+    "message": "Merge pull request #4 from havaianasdestruido/arena/01a0f2c2-hemorroidabot",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/b1086df8a254e549bf0a6fdcb5cf5943b9c97572"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "d11f8ecea8e07767e060ecf1ddfebd47502a7229",
+    "sha_short": "d11f8ec",
+    "author": "havaianasdestruido",
+    "date": "2026-10-01T13:48:04Z",
+    "message": "fix: revisao - listagem stale, coordenacao carga/descarga e blob.size",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/d11f8ecea8e07767e060ecf1ddfebd47502a7229"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "a48986f2add155a47d4bccf3c1bf152bc4cee0d0",
+    "sha_short": "a48986f",
+    "author": "havaianasdestruido",
+    "date": "2026-09-03T13:46:38Z",
+    "message": "fix(security): harden server path traversal + crash guards",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/a48986f2add155a47d4bccf3c1bf152bc4cee0d0"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "7ad238a9df479d8e621a59cb8f2efcb653ae55ff",
+    "sha_short": "7ad238a",
+    "author": "Pato (new acc)",
+    "date": "2026-09-01T20:51:02Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/7ad238a9df479d8e621a59cb8f2efcb653ae55ff"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "50106efdd0fb7627b854eb2bc0192d2b85c58e45",
+    "sha_short": "50106ef",
+    "author": "Pato (new acc)",
+    "date": "2026-09-01T20:50:54Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/50106efdd0fb7627b854eb2bc0192d2b85c58e45"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "1627c137513229df1c28629b01a324108d56745f",
+    "sha_short": "1627c13",
+    "author": "Pato (new acc)",
+    "date": "2026-09-01T20:49:20Z",
+    "message": "fix: prevent path traversal via URL-encoded slashes",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/1627c137513229df1c28629b01a324108d56745f"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "6a08de947d4b03ab276159a1c78e55c1471d3e9d",
+    "sha_short": "6a08de9",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T20:46:52Z",
+    "message": "ci: add GitHub Actions test workflow",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/6a08de947d4b03ab276159a1c78e55c1471d3e9d"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "075f31ce9bc7db179d53b29a10ec9016b962adfc",
+    "sha_short": "075f31c",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T20:43:16Z",
+    "message": "feat(brain): add tools, external APIs, voice, history, perf",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/075f31ce9bc7db179d53b29a10ec9016b962adfc"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "59d74fbd120e9724f16a83b2e816b39059b9facb",
+    "sha_short": "59d74fb",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T18:30:26Z",
+    "message": "fix: resolve module specifier with ./ relative path for wllama import",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/59d74fbd120e9724f16a83b2e816b39059b9facb"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "dd54f67aaf206b31c57d60b5396af84fe263df49",
+    "sha_short": "dd54f67",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T18:12:53Z",
+    "message": "feat: local GGUF inference via wllama (llama.cpp WASM) from browser cache",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/dd54f67aaf206b31c57d60b5396af84fe263df49"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "5d8446c9fc6f064b06742a34c59dc140229d2905",
+    "sha_short": "5d8446c",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T18:00:17Z",
+    "message": "feat: HuggingFace model download + browser cache (Cache Storage API)",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/5d8446c9fc6f064b06742a34c59dc140229d2905"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-model-loading-issues-16680381811278233495",
+    "sha": "d306e33ec8614b2f9678a0de59ae783b3e3e5888",
+    "sha_short": "d306e33",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T17:57:33Z",
+    "message": "feat: centered layout, font sizing, forms+fieldsets, tools grid renderer",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/d306e33ec8614b2f9678a0de59ae783b3e3e5888"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "0cc3b26c187e7f181acb667e3c92c4dad26b794c",
+    "sha_short": "0cc3b26",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-09T23:29:13Z",
+    "message": "Fix UI layout styling and labeler v5 workflow configuration",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/0cc3b26c187e7f181acb667e3c92c4dad26b794c"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "3c4452a99ec0625947038f301963218eed9eaa49",
+    "sha_short": "3c4452a",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-09T23:20:14Z",
+    "message": "Fix UI styling layout and labeler v5 workflow configuration",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/3c4452a99ec0625947038f301963218eed9eaa49"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "9cb46cf47be3d73c6bce64c8aa1b3e267feaa569",
+    "sha_short": "9cb46cf",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-09T23:15:49Z",
+    "message": "Fix UI styling layout and labeler v4 configuration",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/9cb46cf47be3d73c6bce64c8aa1b3e267feaa569"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "db1956ea96b2db96366eeedc9682b11edd8ebf37",
+    "sha_short": "db1956e",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-09T23:12:40Z",
+    "message": "Fix UI layout and actions/labeler v4 configuration",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/db1956ea96b2db96366eeedc9682b11edd8ebf37"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "c247cf3290e497e6c38d38ae1b1267687828aeac",
+    "sha_short": "c247cf3",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-09T23:09:09Z",
+    "message": "Fix UI layout, styling, and message overflow in index.html",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/c247cf3290e497e6c38d38ae1b1267687828aeac"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "4a9bd452cb22f3537154c07010c829b2f9a10e3f",
+    "sha_short": "4a9bd45",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-05T13:10:46Z",
+    "message": "Merge pull request #6 from havaianasdestruido/arena/01a10462-hemorroidabot",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/4a9bd452cb22f3537154c07010c829b2f9a10e3f"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "7cb85e4ea92574a60e15d7ebf155ade61205e594",
+    "sha_short": "7cb85e4",
+    "author": "arena-agent",
+    "date": "2026-10-04T01:00:31Z",
+    "message": "Corrige carga do WASM no deploy do Pages (subpath) e o 404 do favicon",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/7cb85e4ea92574a60e15d7ebf155ade61205e594"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "256b485031a8dfd9939ee7ea88fe96457a1a8511",
+    "sha_short": "256b485",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-04T00:46:54Z",
+    "message": "Merge pull request #5 from havaianasdestruido/arena/01a1045a-hemorroidabot",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/256b485031a8dfd9939ee7ea88fe96457a1a8511"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "3c65f639aa1869123bb18b75a948c687dde0a4e7",
+    "sha_short": "3c65f63",
+    "author": "havaianasdestruido",
+    "date": "2026-10-04T00:45:12Z",
+    "message": "fix: publicar runtime do wllama no GitHub Pages",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/3c65f639aa1869123bb18b75a948c687dde0a4e7"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "b1086df8a254e549bf0a6fdcb5cf5943b9c97572",
+    "sha_short": "b1086df",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-01T13:59:54Z",
+    "message": "Merge pull request #4 from havaianasdestruido/arena/01a0f2c2-hemorroidabot",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/b1086df8a254e549bf0a6fdcb5cf5943b9c97572"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "f221312d33202bd90c454b736788f5d8ae050db2",
+    "sha_short": "f221312",
+    "author": "havaianasdestruido",
+    "date": "2026-09-03T14:03:12Z",
+    "message": "fix(server): guard raw path for '..' before normalize",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/f221312d33202bd90c454b736788f5d8ae050db2"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "a48986f2add155a47d4bccf3c1bf152bc4cee0d0",
+    "sha_short": "a48986f",
+    "author": "havaianasdestruido",
+    "date": "2026-09-03T13:46:38Z",
+    "message": "fix(security): harden server path traversal + crash guards",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/a48986f2add155a47d4bccf3c1bf152bc4cee0d0"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "7ad238a9df479d8e621a59cb8f2efcb653ae55ff",
+    "sha_short": "7ad238a",
+    "author": "Pato (new acc)",
+    "date": "2026-09-01T20:51:02Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/7ad238a9df479d8e621a59cb8f2efcb653ae55ff"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "50106efdd0fb7627b854eb2bc0192d2b85c58e45",
+    "sha_short": "50106ef",
+    "author": "Pato (new acc)",
+    "date": "2026-09-01T20:50:54Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/50106efdd0fb7627b854eb2bc0192d2b85c58e45"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "1627c137513229df1c28629b01a324108d56745f",
+    "sha_short": "1627c13",
+    "author": "Pato (new acc)",
+    "date": "2026-09-01T20:49:20Z",
+    "message": "fix: prevent path traversal via URL-encoded slashes",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/1627c137513229df1c28629b01a324108d56745f"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "6a08de947d4b03ab276159a1c78e55c1471d3e9d",
+    "sha_short": "6a08de9",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T20:46:52Z",
+    "message": "ci: add GitHub Actions test workflow",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/6a08de947d4b03ab276159a1c78e55c1471d3e9d"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "075f31ce9bc7db179d53b29a10ec9016b962adfc",
+    "sha_short": "075f31c",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T20:43:16Z",
+    "message": "feat(brain): add tools, external APIs, voice, history, perf",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/075f31ce9bc7db179d53b29a10ec9016b962adfc"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "59d74fbd120e9724f16a83b2e816b39059b9facb",
+    "sha_short": "59d74fb",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T18:30:26Z",
+    "message": "fix: resolve module specifier with ./ relative path for wllama import",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/59d74fbd120e9724f16a83b2e816b39059b9facb"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "dd54f67aaf206b31c57d60b5396af84fe263df49",
+    "sha_short": "dd54f67",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T18:12:53Z",
+    "message": "feat: local GGUF inference via wllama (llama.cpp WASM) from browser cache",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/dd54f67aaf206b31c57d60b5396af84fe263df49"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "fix-ui-issues-17063770601056554583",
+    "sha": "5d8446c9fc6f064b06742a34c59dc140229d2905",
+    "sha_short": "5d8446c",
+    "author": "havaianasdestruido",
+    "date": "2026-09-01T18:00:17Z",
+    "message": "feat: HuggingFace model download + browser cache (Cache Storage API)",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/5d8446c9fc6f064b06742a34c59dc140229d2905"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "master",
+    "sha": "eb47284b4c78af47b13ae34eda52f6e331dc010e",
+    "sha_short": "eb47284",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-09T23:26:52Z",
+    "message": "Merge pull request #8 from havaianasdestruido/fix-model-loading-issues-16680381811278233495",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/eb47284b4c78af47b13ae34eda52f6e331dc010e"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "master",
+    "sha": "62ae114b64b72458f64d53a4bb8041145d8d5b32",
+    "sha_short": "62ae114",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-09T23:25:21Z",
+    "message": "Fix model loading issues and labeler workflow",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/62ae114b64b72458f64d53a4bb8041145d8d5b32"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "master",
+    "sha": "22d0050825a4ac2ec8b7c1781be1f0f8cf53ecde",
+    "sha_short": "22d0050",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-09T23:23:05Z",
+    "message": "Fix model loading issues and labeler configuration",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/22d0050825a4ac2ec8b7c1781be1f0f8cf53ecde"
+  },
+  {
+    "repo": "hemorroidabot",
+    "branch": "master",
+    "sha": "185d0d399dfab9c9cd6c037d5b15c173d3d8e306",
+    "sha_short": "185d0d3",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-09T23:19:47Z",
+    "message": "Fix model loading, switching, and cache checks",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/185d0d399dfab9c9cd6c037d5b15c173d3d8e306"
+  },
+  {
+    "repo": "hemorroidabot",
     "branch": "master",
     "sha": "4a9bd452cb22f3537154c07010c829b2f9a10e3f",
     "sha_short": "4a9bd45",
@@ -4072,42 +4512,42 @@
   {
     "repo": "hemorroidabot",
     "branch": "master",
-    "sha": "27d8d44a7b1a8a3fa8e236896adbac12d8dc4e9b",
-    "sha_short": "27d8d44",
+    "sha": "a48986f2add155a47d4bccf3c1bf152bc4cee0d0",
+    "sha_short": "a48986f",
     "author": "havaianasdestruido",
-    "date": "2026-10-01T13:16:44Z",
-    "message": "fix: bugs de cache e de modelo (download/carga/selecao)",
-    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/27d8d44a7b1a8a3fa8e236896adbac12d8dc4e9b"
+    "date": "2026-09-03T13:46:38Z",
+    "message": "fix(security): harden server path traversal + crash guards",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/a48986f2add155a47d4bccf3c1bf152bc4cee0d0"
   },
   {
     "repo": "hemorroidabot",
     "branch": "master",
-    "sha": "cc139c32d908286b91eb90aaead2b97357439d2e",
-    "sha_short": "cc139c3",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-22T00:11:24Z",
-    "message": "Merge pull request #1 from havaianasdestruido/imgbot",
-    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/cc139c32d908286b91eb90aaead2b97357439d2e"
+    "sha": "7ad238a9df479d8e621a59cb8f2efcb653ae55ff",
+    "sha_short": "7ad238a",
+    "author": "Pato (new acc)",
+    "date": "2026-09-01T20:51:02Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/7ad238a9df479d8e621a59cb8f2efcb653ae55ff"
   },
   {
     "repo": "hemorroidabot",
     "branch": "master",
-    "sha": "cd9d3a4cb8cfba04d223444136fbb44201920079",
-    "sha_short": "cd9d3a4",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-22T00:11:13Z",
-    "message": "Merge pull request #2 from havaianasdestruido/codex/add-i18n.js-with-pt-br-and-en-support",
-    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/cd9d3a4cb8cfba04d223444136fbb44201920079"
+    "sha": "50106efdd0fb7627b854eb2bc0192d2b85c58e45",
+    "sha_short": "50106ef",
+    "author": "Pato (new acc)",
+    "date": "2026-09-01T20:50:54Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/50106efdd0fb7627b854eb2bc0192d2b85c58e45"
   },
   {
     "repo": "hemorroidabot",
     "branch": "master",
-    "sha": "9611bd3a2e82b786aaaac0fa3435b1d1556fb5a3",
-    "sha_short": "9611bd3",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-22T00:06:45Z",
-    "message": "Add pt-BR and en-US i18n support",
-    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/9611bd3a2e82b786aaaac0fa3435b1d1556fb5a3"
+    "sha": "1627c137513229df1c28629b01a324108d56745f",
+    "sha_short": "1627c13",
+    "author": "Pato (new acc)",
+    "date": "2026-09-01T20:49:20Z",
+    "message": "fix: prevent path traversal via URL-encoded slashes",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/1627c137513229df1c28629b01a324108d56745f"
   },
   {
     "repo": "hemorroidabot",
@@ -4168,46 +4608,6 @@
     "date": "2026-09-01T17:57:33Z",
     "message": "feat: centered layout, font sizing, forms+fieldsets, tools grid renderer",
     "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/d306e33ec8614b2f9678a0de59ae783b3e3e5888"
-  },
-  {
-    "repo": "hemorroidabot",
-    "branch": "master",
-    "sha": "912ac63f0cf0208846e70467abffceea56972f19",
-    "sha_short": "912ac63",
-    "author": "havaianasdestruido",
-    "date": "2026-09-01T17:52:41Z",
-    "message": "refactor: plain HTML only, zero CSS, no styles",
-    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/912ac63f0cf0208846e70467abffceea56972f19"
-  },
-  {
-    "repo": "hemorroidabot",
-    "branch": "master",
-    "sha": "9ac7029ebaea7c18fabe2ef6e8d015f0d43e4bc8",
-    "sha_short": "9ac7029",
-    "author": "havaianasdestruido",
-    "date": "2026-09-01T17:50:56Z",
-    "message": "docs: use bullet points instead of numbered list, fix duplicate Lyrics.ovh entry",
-    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/9ac7029ebaea7c18fabe2ef6e8d015f0d43e4bc8"
-  },
-  {
-    "repo": "hemorroidabot",
-    "branch": "master",
-    "sha": "29de305cebf5069ce729544ff6f03fa96ab4862c",
-    "sha_short": "29de305",
-    "author": "havaianasdestruido",
-    "date": "2026-09-01T17:48:54Z",
-    "message": "feat: initial prototype with chat UI and API registry",
-    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/29de305cebf5069ce729544ff6f03fa96ab4862c"
-  },
-  {
-    "repo": "hemorroidabot",
-    "branch": "master",
-    "sha": "3acda7f77573de3f84a21f8f4e9584e856e2b65f",
-    "sha_short": "3acda7f",
-    "author": "havaianasdestruido",
-    "date": "2026-09-01T17:47:49Z",
-    "message": "docs: add API difficulty ratings with colored ball indicators",
-    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/3acda7f77573de3f84a21f8f4e9584e856e2b65f"
   },
   {
     "repo": "KaukaMed",
@@ -6662,6 +7062,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "5926ab8c5dcb4b0a186782255c2ef9e4f78a3090",
+    "sha_short": "5926ab8",
+    "author": "GitHub Action Bot",
+    "date": "2026-10-09T17:55:00Z",
+    "message": "📊 [2026-10-09 17:55:00 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/5926ab8c5dcb4b0a186782255c2ef9e4f78a3090"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "00ade0924adf81fb8baaed8a15aa000b01f83676",
     "sha_short": "00ade09",
     "author": "GitHub Action Bot",
@@ -6752,12 +7162,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "84a12abf4a03fe1904c744e0159e198906a285e4",
-    "sha_short": "84a12ab",
+    "sha": "1e44d471cddb8fe37676cf595053ac187c64f48a",
+    "sha_short": "1e44d47",
     "author": "GitHub Action Bot",
-    "date": "2026-10-07T03:28:48Z",
-    "message": "📊 [2026-10-07 03:28:48 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/84a12abf4a03fe1904c744e0159e198906a285e4"
+    "date": "2026-09-30T10:11:23Z",
+    "message": "📊 [2026-09-30 10:11:23 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/1e44d471cddb8fe37676cf595053ac187c64f48a"
   },
   {
     "repo": "sitemapping",
@@ -6852,12 +7262,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "7c8b61b6b22d501a3adaebf44c1217a443b036b9",
-    "sha_short": "7c8b61b",
+    "sha": "dd65ed4d9bf4b0aaac4f90c027096570b117ad2b",
+    "sha_short": "dd65ed4",
     "author": "GitHub Action Bot",
-    "date": "2026-09-27T16:05:10Z",
-    "message": "📊 [2026-09-27 16:05:10 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/7c8b61b6b22d501a3adaebf44c1217a443b036b9"
+    "date": "2026-09-22T02:31:36Z",
+    "message": "📊 [2026-09-22 02:31:36 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/dd65ed4d9bf4b0aaac4f90c027096570b117ad2b"
   },
   {
     "repo": "sitemapping",
@@ -6952,12 +7362,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "ecdd6b7a1a940356aea4019a438490d4e44adcdf",
-    "sha_short": "ecdd6b7",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-20T20:46:50Z",
-    "message": "📊 [2026-09-20 20:46:50 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/ecdd6b7a1a940356aea4019a438490d4e44adcdf"
+    "sha": "8a1dfa511cb32299f8904cc067d3a506bb6a3b04",
+    "sha_short": "8a1dfa5",
+    "author": "Pato (new acc)",
+    "date": "2026-09-13T20:22:56Z",
+    "message": "now it runs daily",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/8a1dfa511cb32299f8904cc067d3a506bb6a3b04"
   },
   {
     "repo": "sitemapping",
@@ -7452,6 +7862,26 @@
   {
     "repo": "top100",
     "branch": "main",
+    "sha": "f1a1469b81b045a17a8eb7cdf87b51e4139ac5ba",
+    "sha_short": "f1a1469",
+    "author": "github-actions[bot]",
+    "date": "2026-10-09T23:40:40Z",
+    "message": "data: update top repos data (2026-10-09 23:40 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/f1a1469b81b045a17a8eb7cdf87b51e4139ac5ba"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "20abff1334fbad6a217f38747f1e86c7ea036de0",
+    "sha_short": "20abff1",
+    "author": "github-actions[bot]",
+    "date": "2026-10-09T19:09:33Z",
+    "message": "data: update top repos data (2026-10-09 19:09 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/20abff1334fbad6a217f38747f1e86c7ea036de0"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
     "sha": "2ce745e7413c8139effce0b649bea661a593a7a8",
     "sha_short": "2ce745e",
     "author": "github-actions[bot]",
@@ -7532,22 +7962,22 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "47b8c63103d425c54ecfdd817e654dde95c2eac0",
-    "sha_short": "47b8c63",
+    "sha": "663abb6f8654d28ec152be5beababace7da50345",
+    "sha_short": "663abb6",
     "author": "github-actions[bot]",
-    "date": "2026-10-08T14:09:54Z",
-    "message": "data: update top repos data (2026-10-08 14:09 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/47b8c63103d425c54ecfdd817e654dde95c2eac0"
+    "date": "2026-10-03T02:33:08Z",
+    "message": "data: update top repos data (2026-10-03 02:33 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/663abb6f8654d28ec152be5beababace7da50345"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "95cc96730f164d4cb1e1c4e41cf3c50a5bdb7ddd",
-    "sha_short": "95cc967",
+    "sha": "77fe42b49c205f1f1a4dce6ed6538a972c218867",
+    "sha_short": "77fe42b",
     "author": "github-actions[bot]",
-    "date": "2026-10-08T06:46:56Z",
-    "message": "data: update top repos data (2026-10-08 06:46 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/95cc96730f164d4cb1e1c4e41cf3c50a5bdb7ddd"
+    "date": "2026-10-02T23:23:06Z",
+    "message": "data: update top repos data (2026-10-02 23:23 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/77fe42b49c205f1f1a4dce6ed6538a972c218867"
   },
   {
     "repo": "top100",
@@ -7632,22 +8062,22 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "215352a89d923024ea5c5cd2293fd01ee11826c1",
-    "sha_short": "215352a",
+    "sha": "9c7cbef9ea46d4eed3b9fc73b08bed950c3eba14",
+    "sha_short": "9c7cbef",
     "author": "github-actions[bot]",
-    "date": "2026-09-30T23:17:56Z",
-    "message": "data: update top repos data (2026-09-30 23:17 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/215352a89d923024ea5c5cd2293fd01ee11826c1"
+    "date": "2026-09-26T18:08:15Z",
+    "message": "data: update top repos data (2026-09-26)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/9c7cbef9ea46d4eed3b9fc73b08bed950c3eba14"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "f0ced816f217d91ba4d803dfb8741ef4398ae44c",
-    "sha_short": "f0ced81",
+    "sha": "e47d900d743469bdcae5c140007157d5954b56c5",
+    "sha_short": "e47d900",
     "author": "github-actions[bot]",
-    "date": "2026-09-30T19:43:46Z",
-    "message": "data: update top repos data (2026-09-30 19:43 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/f0ced816f217d91ba4d803dfb8741ef4398ae44c"
+    "date": "2026-09-26T14:47:44Z",
+    "message": "data: update top repos data (2026-09-26)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/e47d900d743469bdcae5c140007157d5954b56c5"
   },
   {
     "repo": "top100",
@@ -7732,22 +8162,22 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "8aa95956bbb067f1a77c017df50e524476daa228",
-    "sha_short": "8aa9595",
+    "sha": "563def76948e61ad0ed93a4c198648e96a91f0ed",
+    "sha_short": "563def7",
     "author": "github-actions[bot]",
-    "date": "2026-09-25T00:58:26Z",
-    "message": "data: update top repos data (2026-09-25)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/8aa95956bbb067f1a77c017df50e524476daa228"
+    "date": "2026-09-21T00:38:57Z",
+    "message": "data: update top repos data (2026-09-21)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/563def76948e61ad0ed93a4c198648e96a91f0ed"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "c7fdf180ccd7181ec2bbc2e6c82d75ddf7bbe90e",
-    "sha_short": "c7fdf18",
-    "author": "github-actions[bot]",
-    "date": "2026-09-24T22:46:18Z",
-    "message": "data: update top repos data (2026-09-24)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/c7fdf180ccd7181ec2bbc2e6c82d75ddf7bbe90e"
+    "sha": "748db272fa3dde12a41ce8c58e9404b70c2f7418",
+    "sha_short": "748db27",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:05Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/top100/commit/748db272fa3dde12a41ce8c58e9404b70c2f7418"
   },
   {
     "repo": "top100",
@@ -7828,26 +8258,6 @@
     "date": "2026-09-20T19:57:27Z",
     "message": "data: update top repos data (2026-09-20)",
     "url": "https://github.com/havaianasdestruido/top100/commit/ede024c3bf8e0e4653f7088c079c907655daa9de"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "85406284ee1510f62fab3e4df7263f7d7f5e8ce4",
-    "sha_short": "8540628",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:55:55Z",
-    "message": "Fix link case sensitivity in README.md",
-    "url": "https://github.com/havaianasdestruido/top100/commit/85406284ee1510f62fab3e4df7263f7d7f5e8ce4"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "89733e0187ff2f7ebe1a3ea347ff69de3560b9c9",
-    "sha_short": "89733e0",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:55:17Z",
-    "message": "Add push trigger for main branch in workflow",
-    "url": "https://github.com/havaianasdestruido/top100/commit/89733e0187ff2f7ebe1a3ea347ff69de3560b9c9"
   },
   {
     "repo": "Win7APIs",
@@ -14942,6 +15352,26 @@
   {
     "repo": "eleicoes-data",
     "branch": "main",
+    "sha": "7bbe97800520becb0486c5c9c7a1ff77e0e6b4e9",
+    "sha_short": "7bbe978",
+    "author": "github-actions[bot]",
+    "date": "2026-10-09T22:54:50Z",
+    "message": "data: TSE presidente snapshot 2026-10-09 22:54:50Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/7bbe97800520becb0486c5c9c7a1ff77e0e6b4e9"
+  },
+  {
+    "repo": "eleicoes-data",
+    "branch": "main",
+    "sha": "e6a7a76b5239c9896182eb26d5ca674f72d34b82",
+    "sha_short": "e6a7a76",
+    "author": "github-actions[bot]",
+    "date": "2026-10-09T18:46:18Z",
+    "message": "data: TSE presidente snapshot 2026-10-09 18:46:18Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/e6a7a76b5239c9896182eb26d5ca674f72d34b82"
+  },
+  {
+    "repo": "eleicoes-data",
+    "branch": "main",
     "sha": "d20cd42fec627e59091a96024ff8e80070d9c6e9",
     "sha_short": "d20cd42",
     "author": "github-actions[bot]",
@@ -15018,26 +15448,6 @@
     "date": "2026-10-07T21:26:51Z",
     "message": "data: TSE presidente snapshot 2026-10-07 21:26:51Z",
     "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/a7511a0498ca695d38833c958aad85392e154448"
-  },
-  {
-    "repo": "eleicoes-data",
-    "branch": "main",
-    "sha": "251bcb3c7317c4c10063b9506dcb8c00c1da6d83",
-    "sha_short": "251bcb3",
-    "author": "github-actions[bot]",
-    "date": "2026-10-07T16:28:26Z",
-    "message": "data: TSE presidente snapshot 2026-10-07 16:28:26Z",
-    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/251bcb3c7317c4c10063b9506dcb8c00c1da6d83"
-  },
-  {
-    "repo": "eleicoes-data",
-    "branch": "main",
-    "sha": "805c87ab4a4c1e43f38ce48cc46f2d81ef312cc1",
-    "sha_short": "805c87a",
-    "author": "github-actions[bot]",
-    "date": "2026-10-07T09:15:04Z",
-    "message": "data: TSE presidente snapshot 2026-10-07 09:15:04Z",
-    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/805c87ab4a4c1e43f38ce48cc46f2d81ef312cc1"
   },
   {
     "repo": "EleLab_v2",
@@ -24868,6 +25278,26 @@
     "date": "2026-08-25T17:36:29Z",
     "message": "Initial commit",
     "url": "https://github.com/havaianasdestruido/orelha/commit/fd8e9fad9708f9a5ae6889c947b1eca2cc1cf566"
+  },
+  {
+    "repo": "p2unrealscript",
+    "branch": "master",
+    "sha": "7a54988f6869f8f1d3be95a1a8848b32a33e7028",
+    "sha_short": "7a54988",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-09T23:15:05Z",
+    "message": "Atualizar o TODO.md",
+    "url": "https://github.com/havaianasdestruido/p2unrealscript/commit/7a54988f6869f8f1d3be95a1a8848b32a33e7028"
+  },
+  {
+    "repo": "p2unrealscript",
+    "branch": "master",
+    "sha": "2f6add38c982d526fed9b369ca6529624098318c",
+    "sha_short": "2f6add3",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-09T23:08:53Z",
+    "message": "Atualizar o TODO.md",
+    "url": "https://github.com/havaianasdestruido/p2unrealscript/commit/2f6add38c982d526fed9b369ca6529624098318c"
   },
   {
     "repo": "p2unrealscript",
