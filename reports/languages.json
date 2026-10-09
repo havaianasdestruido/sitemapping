@@ -566,7 +566,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 4870029,
+    "bytes": 4870410,
     "percent": 93.5
   },
   {
@@ -1126,6 +1126,18 @@
     "language": "Ruby",
     "bytes": 262,
     "percent": 0.4
+  },
+  {
+    "repo": "global-sitemap",
+    "language": "Python",
+    "bytes": 22226,
+    "percent": 99.4
+  },
+  {
+    "repo": "global-sitemap",
+    "language": "HTML",
+    "bytes": 142,
+    "percent": 0.6
   },
   {
     "repo": "havaianasdestruido.github.io",

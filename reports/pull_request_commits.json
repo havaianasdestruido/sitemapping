@@ -785,6 +785,14 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 6,
+    "sha": "06026d0ee57fb99ba35f075d22ac782348ae92fe",
+    "sha_short": "06026d0",
+    "message": "Resolve all 14 TODO(reconstruction) audit annotations",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/06026d0ee57fb99ba35f075d22ac782348ae92fe"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
     "pr_number": 5,
     "sha": "1bf19ea8727360b9dd4e8cb515a6b4af12938b50",
     "sha_short": "1bf19ea",
@@ -1454,6 +1462,14 @@
     "sha_short": "7b5cb88",
     "message": "docs: add Git installation tutorials for OS platforms",
     "url": "https://github.com/havaianasdestruido/gitgithub/commit/7b5cb88ce47a6367a08c9edcfa140e6c9022d068"
+  },
+  {
+    "repo": "global-sitemap",
+    "pr_number": 1,
+    "sha": "272c38b588280626b858d81fe555a38d1c51cb87",
+    "sha_short": "272c38b",
+    "message": "feat: token-less XML sitemap generator + GitHub Actions workflow",
+    "url": "https://github.com/havaianasdestruido/global-sitemap/commit/272c38b588280626b858d81fe555a38d1c51cb87"
   },
   {
     "repo": "havaianasdestruido.github.io",

@@ -92,7 +92,7 @@
 {"repo": "sitemapping", "language": "Python", "bytes": 51362, "percent": 31.3}
 {"repo": "sitemapping", "language": "HTML", "bytes": 26709, "percent": 16.3}
 {"repo": "sitemapping", "language": "CSS", "bytes": 24836, "percent": 15.1}
-{"repo": "top100", "language": "HTML", "bytes": 4870029, "percent": 93.5}
+{"repo": "top100", "language": "HTML", "bytes": 4870410, "percent": 93.5}
 {"repo": "top100", "language": "Python", "bytes": 170108, "percent": 3.3}
 {"repo": "top100", "language": "JavaScript", "bytes": 161810, "percent": 3.1}
 {"repo": "top100", "language": "CSS", "bytes": 6452, "percent": 0.1}
@@ -186,6 +186,8 @@
 {"repo": "Giggles-Shit", "language": "CSS", "bytes": 12258, "percent": 16.9}
 {"repo": "Giggles-Shit", "language": "HTML", "bytes": 3377, "percent": 4.7}
 {"repo": "Giggles-Shit", "language": "Ruby", "bytes": 262, "percent": 0.4}
+{"repo": "global-sitemap", "language": "Python", "bytes": 22226, "percent": 99.4}
+{"repo": "global-sitemap", "language": "HTML", "bytes": 142, "percent": 0.6}
 {"repo": "havaianasdestruido.github.io", "language": "HTML", "bytes": 12591, "percent": 68.5}
 {"repo": "havaianasdestruido.github.io", "language": "JavaScript", "bytes": 3284, "percent": 17.9}
 {"repo": "havaianasdestruido.github.io", "language": "CSS", "bytes": 2510, "percent": 13.7}

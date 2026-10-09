@@ -6662,6 +6662,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "d426b919374d8cf6000b15e149e2612f15462842",
+    "sha_short": "d426b91",
+    "author": "GitHub Action Bot",
+    "date": "2026-10-09T00:10:55Z",
+    "message": "📊 [2026-10-09 00:10:55 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/d426b919374d8cf6000b15e149e2612f15462842"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "9e32092a408301d37c563e0655e937da5a5675ff",
     "sha_short": "9e32092",
     "author": "GitHub Action Bot",
@@ -6752,12 +6762,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "60824837146cc2022932d7eeb8bbe8c5d854b87c",
-    "sha_short": "6082483",
+    "sha": "c8eabd67db9ed31999c85bacd5dc98839f438f8f",
+    "sha_short": "c8eabd6",
     "author": "GitHub Action Bot",
-    "date": "2026-10-06T17:42:08Z",
-    "message": "📊 [2026-10-06 17:42:08 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/60824837146cc2022932d7eeb8bbe8c5d854b87c"
+    "date": "2026-09-29T23:23:31Z",
+    "message": "📊 [2026-09-29 23:23:31 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/c8eabd67db9ed31999c85bacd5dc98839f438f8f"
   },
   {
     "repo": "sitemapping",
@@ -6852,12 +6862,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "4652927517292e24f3e68a33018df8a383f18f2b",
-    "sha_short": "4652927",
+    "sha": "0dd76621ed7678be15d93e1d4c94bbfb59c72a1b",
+    "sha_short": "0dd7662",
     "author": "GitHub Action Bot",
-    "date": "2026-09-27T02:36:47Z",
-    "message": "📊 [2026-09-27 02:36:47 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/4652927517292e24f3e68a33018df8a383f18f2b"
+    "date": "2026-09-21T17:30:15Z",
+    "message": "📊 [2026-09-21 17:30:15 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/0dd76621ed7678be15d93e1d4c94bbfb59c72a1b"
   },
   {
     "repo": "sitemapping",
@@ -6952,12 +6962,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "cbc3fac2a3e9b844ac3e411adb25802c76abb3f9",
-    "sha_short": "cbc3fac",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T20:13:36Z",
-    "message": "docs: add star history chart",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/cbc3fac2a3e9b844ac3e411adb25802c76abb3f9"
+    "sha": "40e60b0e78401f338eb7999711921a136c71be2c",
+    "sha_short": "40e60b0",
+    "author": "Pato (new acc)",
+    "date": "2026-09-13T17:37:47Z",
+    "message": "whoops",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/40e60b0e78401f338eb7999711921a136c71be2c"
   },
   {
     "repo": "sitemapping",
@@ -7432,6 +7442,26 @@
   {
     "repo": "top100",
     "branch": "main",
+    "sha": "d407d947aae89182c4dfbba17fd4868b2ebf4570",
+    "sha_short": "d407d94",
+    "author": "github-actions[bot]",
+    "date": "2026-10-09T06:55:05Z",
+    "message": "data: update top repos data (2026-10-09 06:55 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/d407d947aae89182c4dfbba17fd4868b2ebf4570"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "010f8097fb80c4652f9b883986038fc6e94d5055",
+    "sha_short": "010f809",
+    "author": "github-actions[bot]",
+    "date": "2026-10-09T00:47:02Z",
+    "message": "data: update top repos data (2026-10-09 00:47 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/010f8097fb80c4652f9b883986038fc6e94d5055"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
     "sha": "efa21d9f72e590173c303246cdee9359d85d218f",
     "sha_short": "efa21d9",
     "author": "github-actions[bot]",
@@ -7512,22 +7542,22 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "81d8fd4718f92e7c9c5c2762ef0dcb57e79a4716",
-    "sha_short": "81d8fd4",
+    "sha": "7a0ff6aa146a00398204c2d7786fd6509721e0e1",
+    "sha_short": "7a0ff6a",
     "author": "github-actions[bot]",
-    "date": "2026-10-07T20:17:40Z",
-    "message": "data: update top repos data (2026-10-07 20:17 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/81d8fd4718f92e7c9c5c2762ef0dcb57e79a4716"
+    "date": "2026-10-02T14:15:39Z",
+    "message": "data: update top repos data (2026-10-02 14:15 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/7a0ff6aa146a00398204c2d7786fd6509721e0e1"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "bcd6311f2ee8f443ae3bf925d9e9341c6e6177f6",
-    "sha_short": "bcd6311",
+    "sha": "2a2039773b57ceff0fd2c4f641460dd44b4d0690",
+    "sha_short": "2a20397",
     "author": "github-actions[bot]",
-    "date": "2026-10-07T14:51:19Z",
-    "message": "data: update top repos data (2026-10-07 14:51 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/bcd6311f2ee8f443ae3bf925d9e9341c6e6177f6"
+    "date": "2026-10-02T07:39:24Z",
+    "message": "data: update top repos data (2026-10-02 07:39 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/2a2039773b57ceff0fd2c4f641460dd44b4d0690"
   },
   {
     "repo": "top100",
@@ -7612,22 +7642,22 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "c26319f2bef9c324b1790ec08015c36716a21271",
-    "sha_short": "c26319f",
+    "sha": "a0d93d704698c09eb350d6dd38e6f56658f5de4d",
+    "sha_short": "a0d93d7",
     "author": "github-actions[bot]",
-    "date": "2026-09-30T07:37:13Z",
-    "message": "data: update top repos data (2026-09-30 07:37 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/c26319f2bef9c324b1790ec08015c36716a21271"
+    "date": "2026-09-26T05:54:36Z",
+    "message": "data: update top repos data (2026-09-26)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/a0d93d704698c09eb350d6dd38e6f56658f5de4d"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "643a29a81c920fd4f41e6f5aa3657b9a4b3b0de9",
-    "sha_short": "643a29a",
+    "sha": "5f7000603749d37b475f9734826d6bc9dbdcd14c",
+    "sha_short": "5f70006",
     "author": "github-actions[bot]",
-    "date": "2026-09-30T01:43:19Z",
-    "message": "data: update top repos data (2026-09-30 01:43 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/643a29a81c920fd4f41e6f5aa3657b9a4b3b0de9"
+    "date": "2026-09-26T01:00:35Z",
+    "message": "data: update top repos data (2026-09-26)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/5f7000603749d37b475f9734826d6bc9dbdcd14c"
   },
   {
     "repo": "top100",
@@ -7712,22 +7742,22 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "4d68ad077ca28680ef1b0d362d2f8451718833ea",
-    "sha_short": "4d68ad0",
+    "sha": "00fa3447ba3f3efb69ca7b4156b032e8ec661950",
+    "sha_short": "00fa344",
     "author": "github-actions[bot]",
-    "date": "2026-09-24T15:33:23Z",
-    "message": "data: update top repos data (2026-09-24)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/4d68ad077ca28680ef1b0d362d2f8451718833ea"
+    "date": "2026-09-20T21:58:55Z",
+    "message": "data: update top repos data (2026-09-20)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/00fa3447ba3f3efb69ca7b4156b032e8ec661950"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "b33d0b8f2e23abe396e545d96031fb97630f5f81",
-    "sha_short": "b33d0b8",
+    "sha": "10bf3c202df7250171f79545ebd0d423e1b42b8f",
+    "sha_short": "10bf3c2",
     "author": "github-actions[bot]",
-    "date": "2026-09-24T10:36:40Z",
-    "message": "data: update top repos data (2026-09-24)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/b33d0b8f2e23abe396e545d96031fb97630f5f81"
+    "date": "2026-09-20T20:22:51Z",
+    "message": "data: update top repos data (2026-09-20)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/10bf3c202df7250171f79545ebd0d423e1b42b8f"
   },
   {
     "repo": "top100",
@@ -7810,26 +7840,6 @@
     "url": "https://github.com/havaianasdestruido/top100/commit/2723f0f56f61ee64dcf59100cf8524c93769b885"
   },
   {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "931f06c1bcb03ed092a402330fafe30eb8d5a9a1",
-    "sha_short": "931f06c",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-09-20T19:52:39Z",
-    "message": "Update README.md",
-    "url": "https://github.com/havaianasdestruido/top100/commit/931f06c1bcb03ed092a402330fafe30eb8d5a9a1"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "533c2d12813a4daf10d195c8a97f5b94f9f15ddc",
-    "sha_short": "533c2d1",
-    "author": "github-actions[bot]",
-    "date": "2026-09-20T19:49:16Z",
-    "message": "data: update top repos data (2026-09-20)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/533c2d12813a4daf10d195c8a97f5b94f9f15ddc"
-  },
-  {
     "repo": "Win7APIs",
     "branch": "main",
     "sha": "231896442cb7537a08cf5c7f23864854ac7a9247",
@@ -7858,6 +7868,406 @@
     "date": "2026-10-05T20:40:09Z",
     "message": "Initial commit",
     "url": "https://github.com/havaianasdestruido/Win7APIs/commit/32fe14ddcd594b24557e456eb49b4a040f5efdc4"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "06026d0ee57fb99ba35f075d22ac782348ae92fe",
+    "sha_short": "06026d0",
+    "author": "havaianasdestruido",
+    "date": "2026-10-09T01:09:30Z",
+    "message": "Resolve all 14 TODO(reconstruction) audit annotations",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/06026d0ee57fb99ba35f075d22ac782348ae92fe"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "2dfe0abd115312f7b9e7c139136ddb0d5e3f4e59",
+    "sha_short": "2dfe0ab",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T18:16:29Z",
+    "message": "Merge pull request #5 from havaianasdestruido/arena/01a101a4-windowsmoviemakerdecomp",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/2dfe0abd115312f7b9e7c139136ddb0d5e3f4e59"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "43f5c57d5e3da1810664f846afa2630859a9a6e5",
+    "sha_short": "43f5c57",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T17:14:44Z",
+    "message": "fix(website): address review feedback on workflow permissions, reduced motion, snippet syntax, and docs links",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/43f5c57d5e3da1810664f846afa2630859a9a6e5"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "1bf19ea8727360b9dd4e8cb515a6b4af12938b50",
+    "sha_short": "1bf19ea",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T17:01:26Z",
+    "message": "website: use Jekyll for primary webpage and Docusaurus for /docs",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/1bf19ea8727360b9dd4e8cb515a6b4af12938b50"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "df141b4cac7d81e04701c04265ae402a8cc8ae4b",
+    "sha_short": "df141b4",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-02T23:37:42Z",
+    "message": "Atualizar o build-projects.yml",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/df141b4cac7d81e04701c04265ae402a8cc8ae4b"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "484f021590c8647a764fceff93b6b2a0350b389b",
+    "sha_short": "484f021",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-02T23:37:20Z",
+    "message": "Merge pull request #4 from havaianasdestruido/arena/01a0fe24-windowsmoviemakerdecomp",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/484f021590c8647a764fceff93b6b2a0350b389b"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "b575d5a7e88392d7228b9c33bc7a17caf3d63eb5",
+    "sha_short": "b575d5a",
+    "author": "havaianasdestruido",
+    "date": "2026-10-02T22:28:57Z",
+    "message": "website: redesign docs homepage and theme tokens (taste-skill pass)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b575d5a7e88392d7228b9c33bc7a17caf3d63eb5"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "fb5d53705b93409cdbd987da29cc51d91e6a5558",
+    "sha_short": "fb5d537",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-02T19:40:31Z",
+    "message": "Merge pull request #3 from havaianasdestruido/arena/01a0fd75-windowsmoviemakerdecomp",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/fb5d53705b93409cdbd987da29cc51d91e6a5558"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "4a2ece5e92fa5b08abf32cd91eb407f25df39972",
+    "sha_short": "4a2ece5",
+    "author": "Arena Agent",
+    "date": "2026-10-02T19:39:32Z",
+    "message": "docs: apply review fixes — accuracy corrections across the docs site",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4a2ece5e92fa5b08abf32cd91eb407f25df39972"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "66f7a725e8010b29ca8e312b82b6f4a32628fdea",
+    "sha_short": "66f7a72",
+    "author": "Arena Agent",
+    "date": "2026-10-02T17:03:09Z",
+    "message": "docs: add full-codebase Docusaurus documentation site",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/66f7a725e8010b29ca8e312b82b6f4a32628fdea"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "3d6316222f68ce86e7163f39b301ed7b272c2c93",
+    "sha_short": "3d63162",
+    "author": "UltimateQuack",
+    "date": "2026-08-03T01:56:18Z",
+    "message": "submodules: bump mmr-gui to 86e9125 (full 21-DLL suite browser, CI, README)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3d6316222f68ce86e7163f39b301ed7b272c2c93"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "9a9b90c7b7533eab171d6259eecaccb782ca61e7",
+    "sha_short": "9a9b90c",
+    "author": "UltimateQuack",
+    "date": "2026-08-03T00:51:40Z",
+    "message": "submodules: bump mmr-gui to 2508d97 (UxControlsCreateObject stdcall arity fix)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/9a9b90c7b7533eab171d6259eecaccb782ca61e7"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "063139bafd0c471f6180a835cd7671bcb9802e13",
+    "sha_short": "063139b",
+    "author": "UltimateQuack",
+    "date": "2026-08-03T00:44:57Z",
+    "message": "submodules: add mmr-cli, mmr-gui, mmr-python integration test harnesses",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/063139bafd0c471f6180a835cd7671bcb9802e13"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "bc80745a3c58c6efb7be68b2a2922f5b63ee3a13",
+    "sha_short": "bc80745",
+    "author": "UltimateQuack",
+    "date": "2026-08-01T23:26:40Z",
+    "message": "fix: wlidcli WLGetEnvironment returns S_OK after allocating env string",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/bc80745a3c58c6efb7be68b2a2922f5b63ee3a13"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "06739dd035dd025d4821aa3609fc14557884a9f6",
+    "sha_short": "06739dd",
+    "author": "UltimateQuack",
+    "date": "2026-08-01T22:49:28Z",
+    "message": "test: remove language-stub test scripts (rust/node/php/csharp/cpp/batch/powershell)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/06739dd035dd025d4821aa3609fc14557884a9f6"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "63b5e74678f7722b81fd4df7e66e4877afd2b3fb",
+    "sha_short": "63b5e74",
+    "author": "UltimateQuack",
+    "date": "2026-08-01T22:35:33Z",
+    "message": "test: cpp — basic DLL load",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/63b5e74678f7722b81fd4df7e66e4877afd2b3fb"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "4757d166db22ea06136b15fdb0051eaa240c1120",
+    "sha_short": "4757d16",
+    "author": "UltimateQuack",
+    "date": "2026-08-01T22:33:45Z",
+    "message": "test: batch — basic rundll32 call",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4757d166db22ea06136b15fdb0051eaa240c1120"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "30ddd9af6310ca14ff6c218be536d2b5e567e924",
+    "sha_short": "30ddd9a",
+    "author": "UltimateQuack",
+    "date": "2026-08-01T22:33:24Z",
+    "message": "test: powershell — basic DLL call",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/30ddd9af6310ca14ff6c218be536d2b5e567e924"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "44f438dea44a9219555a71a3b10f34f995ff37d8",
+    "sha_short": "44f438d",
+    "author": "UltimateQuack",
+    "date": "2026-08-01T22:32:46Z",
+    "message": "test: php — basic DLL ffi",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/44f438dea44a9219555a71a3b10f34f995ff37d8"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "30cc6c65019a371da0a4007d3ec61cd07413fd0e",
+    "sha_short": "30cc6c6",
+    "author": "UltimateQuack",
+    "date": "2026-08-01T22:32:15Z",
+    "message": "test: nodejs — basic DLL ffi",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/30cc6c65019a371da0a4007d3ec61cd07413fd0e"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "0abf7b3e5709ef636fe65e3fd2e9530dd6f2fcbe",
+    "sha_short": "0abf7b3",
+    "author": "UltimateQuack",
+    "date": "2026-07-30T21:26:38Z",
+    "message": "fix: TimelineController — seek overflow guards, zero-duration clamping, thread-safe locking",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/0abf7b3e5709ef636fe65e3fd2e9530dd6f2fcbe"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "875b13acd52e19d7d93e12f62d91a01e8118dcd2",
+    "sha_short": "875b13a",
+    "author": "UltimateQuack",
+    "date": "2026-07-30T21:18:44Z",
+    "message": "fix: PreviewPresenter — stop race, pause render, remove dead callback",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/875b13acd52e19d7d93e12f62d91a01e8118dcd2"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "1c002b950478a122574b846ad84406f437f7e825",
+    "sha_short": "1c002b9",
+    "author": "UltimateQuack",
+    "date": "2026-07-30T21:15:56Z",
+    "message": "fix: PlaybackController - prevent COM session leak on CreateSession failure; use CComPtr for IMFClock in GetCurrentPositionHns",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/1c002b950478a122574b846ad84406f437f7e825"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "29e06fd775731c4b8d0f4fa276a5fdb22aef35cd",
+    "sha_short": "29e06fd",
+    "author": "UltimateQuack",
+    "date": "2026-07-30T21:14:45Z",
+    "message": "fix: Theme/Templates — memory leaks in ThemeMid (default effect template & transition never freed), error handling in Theme::LoadFromStream (load state & return value on read failures), idempotent setters for ThemeMid defaults",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/29e06fd775731c4b8d0f4fa276a5fdb22aef35cd"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "b25a68c161d3477616a7513cce7b43fc20f26aa8",
+    "sha_short": "b25a68c",
+    "author": "UltimateQuack",
+    "date": "2026-07-30T20:41:40Z",
+    "message": "fix: wlidcli/DmxBici/MetadataSys — thread-safety fixes",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b25a68c161d3477616a7513cce7b43fc20f26aa8"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "aaaf468924fac9b1b6ecb742103d560ff2c8f229",
+    "sha_short": "aaaf468",
+    "author": "UltimateQuack",
+    "date": "2026-07-30T20:27:37Z",
+    "message": "fix: ThumbnailCache — thread safety, LRU eviction, staleness detection",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/aaaf468924fac9b1b6ecb742103d560ff2c8f229"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "50e0756315add0ff5d64d46ba3c20e3433bc24ce",
+    "sha_short": "50e0756",
+    "author": "UltimateQuack",
+    "date": "2026-07-30T20:18:31Z",
+    "message": "fix: SundanceAppMain — null checks for engine allocs, ctor init all ptrs, pair window destroy",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/50e0756315add0ff5d64d46ba3c20e3433bc24ce"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "2d5a0a0b55ad893979c505b3f41e1dc418558e39",
+    "sha_short": "2d5a0a0",
+    "author": "UltimateQuack",
+    "date": "2026-07-30T20:05:13Z",
+    "message": "fix: Audio subsystem — shutdown CS race in AudioQueue, zero-frame WriteSample guard, null-check in UpdateNarrationLevel, partial-init leak in AudioQueue",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/2d5a0a0b55ad893979c505b3f41e1dc418558e39"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "bc1bbe27c04e1676bcf856a591e149004b6e14d4",
+    "sha_short": "bc1bbe2",
+    "author": "UltimateQuack",
+    "date": "2026-07-30T20:00:55Z",
+    "message": "fix: CommandLineParser — guard IsSwitch against empty strings, handle NULL argv safely",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/bc1bbe27c04e1676bcf856a591e149004b6e14d4"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "735d9c00ceeff235cf5350d1113b19f5b67aac34",
+    "sha_short": "735d9c0",
+    "author": "UltimateQuack",
+    "date": "2026-07-30T18:51:43Z",
+    "message": "Phase 7: Integrate new engines into MovieMakerCore/SundanceAppMain",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/735d9c00ceeff235cf5350d1113b19f5b67aac34"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "863d64a44c8f7cda5d34e80e2f0dcb0ce2838287",
+    "sha_short": "863d64a",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:36:30Z",
+    "message": "cleanup: remove debug artifact test_minimal.c",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/863d64a44c8f7cda5d34e80e2f0dcb0ce2838287"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "baaa467748633fc755c3a29b32dd3f65e615b9e6",
+    "sha_short": "baaa467",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:36:23Z",
+    "message": "test(WLXVideoAcquireWizard.exe): dedicated test harness",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/baaa467748633fc755c3a29b32dd3f65e615b9e6"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "614f48ee102e9fc44b14965579e3cb8eea14abc2",
+    "sha_short": "614f48e",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:23:25Z",
+    "message": "test(wlxclip.dll): dedicated test harness for clipboard exports",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/614f48ee102e9fc44b14965579e3cb8eea14abc2"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "cdae0f4052ef01644b9cb09cfe0b85ba874dcece",
+    "sha_short": "cdae0f4",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:20:52Z",
+    "message": "Revert \"test(WLXCodecHost.exe): dedicated test harness\"",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/cdae0f4052ef01644b9cb09cfe0b85ba874dcece"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "81619d06e7edd2a40903adc34659622265d6818d",
+    "sha_short": "81619d0",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:17:06Z",
+    "message": "test(WLXCodecHostPS.dll): dedicated test harness",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/81619d06e7edd2a40903adc34659622265d6818d"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "cfddcdf0d036abbd5010ea85840386108ce4838a",
+    "sha_short": "cfddcdf",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:16:17Z",
+    "message": "test(WLXCodecHost.exe): dedicated test harness",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/cfddcdf0d036abbd5010ea85840386108ce4838a"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "89a507722810c7ab7933b4ba7048cccd0ee8e287",
+    "sha_short": "89a5077",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:14:47Z",
+    "message": "test(WLXPhotoLibraryDatabase.dll): dedicated test harness for 17 exports",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/89a507722810c7ab7933b4ba7048cccd0ee8e287"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "5e8de77078afba4337fa32ee440799c56594935c",
+    "sha_short": "5e8de77",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:14:44Z",
+    "message": "test(WLXPhotoVoyager.dll): dedicated harness for 8 CLSIDs + 4 COM exports",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5e8de77078afba4337fa32ee440799c56594935c"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "3794c4ca875164ebeaff78577f240aa2efedc176",
+    "sha_short": "3794c4c",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:12:52Z",
+    "message": "test(WLXTranscode.exe): dedicated test harness with CLI arg fuzzing",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3794c4ca875164ebeaff78577f240aa2efedc176"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "branch": "arena/b2afcea8-windowsmoviemakerdecomp",
+    "sha": "31a25736832fbe892ddf4b416f5e99056cd0defd",
+    "sha_short": "31a2573",
+    "author": "UltimateQuack",
+    "date": "2026-07-28T18:11:21Z",
+    "message": "test(WLXQuickTime): dedicated harness for QuickTime control host + proxy/stub + shell ext",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/31a25736832fbe892ddf4b416f5e99056cd0defd"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -14522,6 +14932,26 @@
   {
     "repo": "eleicoes-data",
     "branch": "main",
+    "sha": "d49c8a049ea31dced18b59aa0472d7bf427afbc2",
+    "sha_short": "d49c8a0",
+    "author": "github-actions[bot]",
+    "date": "2026-10-09T06:08:54Z",
+    "message": "data: TSE presidente snapshot 2026-10-09 06:08:54Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/d49c8a049ea31dced18b59aa0472d7bf427afbc2"
+  },
+  {
+    "repo": "eleicoes-data",
+    "branch": "main",
+    "sha": "ede9c7595d061ee1e60b968cfa799493cc469492",
+    "sha_short": "ede9c75",
+    "author": "github-actions[bot]",
+    "date": "2026-10-09T00:15:11Z",
+    "message": "data: TSE presidente snapshot 2026-10-09 00:15:11Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/ede9c7595d061ee1e60b968cfa799493cc469492"
+  },
+  {
+    "repo": "eleicoes-data",
+    "branch": "main",
     "sha": "74cbd8f68e5e4eae019aa04e26e3b7c6433fbaef",
     "sha_short": "74cbd8f",
     "author": "github-actions[bot]",
@@ -14598,26 +15028,6 @@
     "date": "2026-10-07T02:42:13Z",
     "message": "data: TSE presidente snapshot 2026-10-07 02:42:13Z",
     "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/0ab45c6886b57c2d15a8c786aa4e4816e882091d"
-  },
-  {
-    "repo": "eleicoes-data",
-    "branch": "main",
-    "sha": "a27b156d65e23491dc1dba9cb846dadddde626fd",
-    "sha_short": "a27b156",
-    "author": "github-actions[bot]",
-    "date": "2026-10-06T23:45:40Z",
-    "message": "data: TSE presidente snapshot 2026-10-06 23:45:40Z",
-    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/a27b156d65e23491dc1dba9cb846dadddde626fd"
-  },
-  {
-    "repo": "eleicoes-data",
-    "branch": "main",
-    "sha": "60bbfe55921924301aa308927ef9f3602734482a",
-    "sha_short": "60bbfe5",
-    "author": "github-actions[bot]",
-    "date": "2026-10-06T20:08:49Z",
-    "message": "data: TSE presidente snapshot 2026-10-06 20:08:49Z",
-    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/60bbfe55921924301aa308927ef9f3602734482a"
   },
   {
     "repo": "EleLab_v2",
@@ -18440,6 +18850,86 @@
     "url": "https://github.com/havaianasdestruido/gitgithub/commit/bacb6888fe68e73d40b698da1507080b8773f626"
   },
   {
+    "repo": "global-sitemap",
+    "branch": "arena/a696df08-global-sitemap",
+    "sha": "272c38b588280626b858d81fe555a38d1c51cb87",
+    "sha_short": "272c38b",
+    "author": "havaianasdestruido",
+    "date": "2026-10-09T00:29:55Z",
+    "message": "feat: token-less XML sitemap generator + GitHub Actions workflow",
+    "url": "https://github.com/havaianasdestruido/global-sitemap/commit/272c38b588280626b858d81fe555a38d1c51cb87"
+  },
+  {
+    "repo": "global-sitemap",
+    "branch": "arena/a696df08-global-sitemap",
+    "sha": "d000ae3cc6743d1ecba2fab1dd2cb5d8504217c0",
+    "sha_short": "d000ae3",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-09T00:10:54Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/global-sitemap/commit/d000ae3cc6743d1ecba2fab1dd2cb5d8504217c0"
+  },
+  {
+    "repo": "global-sitemap",
+    "branch": "main",
+    "sha": "3142c969d56b748182f17ecb0b241859d392380a",
+    "sha_short": "3142c96",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-09T00:38:33Z",
+    "message": "Create index.html",
+    "url": "https://github.com/havaianasdestruido/global-sitemap/commit/3142c969d56b748182f17ecb0b241859d392380a"
+  },
+  {
+    "repo": "global-sitemap",
+    "branch": "main",
+    "sha": "c4940b16a89efda52855c75323e94412889330da",
+    "sha_short": "c4940b1",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-09T00:37:29Z",
+    "message": "Create static.yml",
+    "url": "https://github.com/havaianasdestruido/global-sitemap/commit/c4940b16a89efda52855c75323e94412889330da"
+  },
+  {
+    "repo": "global-sitemap",
+    "branch": "main",
+    "sha": "56947cd5617b2d41eec1148c04bc81d3a889ffe0",
+    "sha_short": "56947cd",
+    "author": "github-actions[bot]",
+    "date": "2026-10-09T00:34:36Z",
+    "message": "chore: update sitemap",
+    "url": "https://github.com/havaianasdestruido/global-sitemap/commit/56947cd5617b2d41eec1148c04bc81d3a889ffe0"
+  },
+  {
+    "repo": "global-sitemap",
+    "branch": "main",
+    "sha": "25f9a233988c67e38f1200d4de03225a7e234ce4",
+    "sha_short": "25f9a23",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-09T00:31:19Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/a696df08-global-sitemap",
+    "url": "https://github.com/havaianasdestruido/global-sitemap/commit/25f9a233988c67e38f1200d4de03225a7e234ce4"
+  },
+  {
+    "repo": "global-sitemap",
+    "branch": "main",
+    "sha": "272c38b588280626b858d81fe555a38d1c51cb87",
+    "sha_short": "272c38b",
+    "author": "havaianasdestruido",
+    "date": "2026-10-09T00:29:55Z",
+    "message": "feat: token-less XML sitemap generator + GitHub Actions workflow",
+    "url": "https://github.com/havaianasdestruido/global-sitemap/commit/272c38b588280626b858d81fe555a38d1c51cb87"
+  },
+  {
+    "repo": "global-sitemap",
+    "branch": "main",
+    "sha": "d000ae3cc6743d1ecba2fab1dd2cb5d8504217c0",
+    "sha_short": "d000ae3",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-09T00:10:54Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/global-sitemap/commit/d000ae3cc6743d1ecba2fab1dd2cb5d8504217c0"
+  },
+  {
     "repo": "havaianasdestruido.github.io",
     "branch": "arena/01a103cc-havaianasdestruido-github-io",
     "sha": "dd2fc93d32bfbb57ceae46cb61e128518d1dc83d",
@@ -18692,6 +19182,26 @@
   {
     "repo": "havaianasdestruido.github.io",
     "branch": "new",
+    "sha": "c969d609c82a0a81c52fa23135035c58200c4764",
+    "sha_short": "c969d60",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-09T00:44:46Z",
+    "message": "Create sitemap.xml",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/c969d609c82a0a81c52fa23135035c58200c4764"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "new",
+    "sha": "bea0ee876ba9d41b2003caed0403bfe4f88aa226",
+    "sha_short": "bea0ee8",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-09T00:41:38Z",
+    "message": "Create robots.txt",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/bea0ee876ba9d41b2003caed0403bfe4f88aa226"
+  },
+  {
+    "repo": "havaianasdestruido.github.io",
+    "branch": "new",
     "sha": "552f94407f98801e3cd949e2e8ee64802bfbba6d",
     "sha_short": "552f944",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
@@ -18772,22 +19282,22 @@
   {
     "repo": "havaianasdestruido.github.io",
     "branch": "new",
-    "sha": "f4b57d85304ead3df07e05af1a979aa811774cea",
-    "sha_short": "f4b57d8",
-    "author": "ImgBotApp",
-    "date": "2026-10-03T22:21:35Z",
-    "message": "[ImgBot] Optimize images",
-    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/f4b57d85304ead3df07e05af1a979aa811774cea"
+    "sha": "6bc11d49fe79fe7feda88adab46d84aa552476c1",
+    "sha_short": "6bc11d4",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-02T13:09:34Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/6bc11d49fe79fe7feda88adab46d84aa552476c1"
   },
   {
     "repo": "havaianasdestruido.github.io",
     "branch": "new",
-    "sha": "c01cc9da799766e6806eeea240d9e690a05f95c2",
-    "sha_short": "c01cc9d",
+    "sha": "358146ac4c24d565ed893dc77cf69fbcd6fc7c2e",
+    "sha_short": "358146a",
     "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-03T22:17:20Z",
-    "message": "Merge pull request #2 from havaianasdestruido/arena/01a103cc-havaianasdestruido-github-io",
-    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/c01cc9da799766e6806eeea240d9e690a05f95c2"
+    "date": "2026-09-24T14:54:35Z",
+    "message": "Update index.html",
+    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/358146ac4c24d565ed893dc77cf69fbcd6fc7c2e"
   },
   {
     "repo": "havaianasdestruido.github.io",
@@ -18868,26 +19378,6 @@
     "date": "2026-08-12T16:08:52Z",
     "message": "full screen car",
     "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e07cb17dc90152c120daa3785996ccb258bafce2"
-  },
-  {
-    "repo": "havaianasdestruido.github.io",
-    "branch": "new",
-    "sha": "14ded868c36f7260c5c95e4b06f75130ce0cf5e8",
-    "sha_short": "14ded86",
-    "author": "Pato (new acc)",
-    "date": "2026-08-12T16:03:05Z",
-    "message": "Create static.yml",
-    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/14ded868c36f7260c5c95e4b06f75130ce0cf5e8"
-  },
-  {
-    "repo": "havaianasdestruido.github.io",
-    "branch": "new",
-    "sha": "e0fd055e859dcba9378aefb4f4624dda73efd9c0",
-    "sha_short": "e0fd055",
-    "author": "Pato (new acc)",
-    "date": "2026-08-12T16:02:43Z",
-    "message": "Create index.html",
-    "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/e0fd055e859dcba9378aefb4f4624dda73efd9c0"
   },
   {
     "repo": "haxeopenflhaxeflixel-skill",

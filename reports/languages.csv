@@ -93,7 +93,7 @@ sitemapping,JavaScript,61132,37.3
 sitemapping,Python,51362,31.3
 sitemapping,HTML,26709,16.3
 sitemapping,CSS,24836,15.1
-top100,HTML,4870029,93.5
+top100,HTML,4870410,93.5
 top100,Python,170108,3.3
 top100,JavaScript,161810,3.1
 top100,CSS,6452,0.1
@@ -187,6 +187,8 @@ Giggles-Shit,JavaScript,56648,78.1
 Giggles-Shit,CSS,12258,16.9
 Giggles-Shit,HTML,3377,4.7
 Giggles-Shit,Ruby,262,0.4
+global-sitemap,Python,22226,99.4
+global-sitemap,HTML,142,0.6
 havaianasdestruido.github.io,HTML,12591,68.5
 havaianasdestruido.github.io,JavaScript,3284,17.9
 havaianasdestruido.github.io,CSS,2510,13.7
