@@ -286,6 +286,19 @@
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/10"
   },
   {
+    "repo": "apkdecomp-skill",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Add Jekyll landing site and Docusaurus documentation",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-03T16:03:02Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a10231-apkdecomp-skill",
+    "commit_count": 3,
+    "url": "https://github.com/havaianasdestruido/apkdecomp-skill/pull/1"
+  },
+  {
     "repo": "hemorroidabot",
     "state": "open",
     "status": "open",
@@ -295,7 +308,7 @@
     "created_at": "2026-10-09T23:09:12Z",
     "base_branch": "master",
     "head_branch": "fix-ui-issues-17063770601056554583",
-    "commit_count": 5,
+    "commit_count": 6,
     "url": "https://github.com/havaianasdestruido/hemorroidabot/pull/7"
   },
   {
@@ -676,6 +689,19 @@
     "url": "https://github.com/havaianasdestruido/top100/pull/1"
   },
   {
+    "repo": "WAL-skill",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Add W3C WAI frontend accessibility Claude skill",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-02T17:01:30Z",
+    "base_branch": "main",
+    "head_branch": "arena/01a0fd83-wal-skill",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/WAL-skill/pull/1"
+  },
+  {
     "repo": "WindowsMovieMakerDecomp",
     "state": "closed",
     "status": "merged",
@@ -765,19 +791,6 @@
     "head_branch": "arena/01a0ef9a-abnt-skill",
     "commit_count": 2,
     "url": "https://github.com/havaianasdestruido/abnt-skill/pull/1"
-  },
-  {
-    "repo": "apkdecomp-skill",
-    "state": "closed",
-    "status": "merged",
-    "number": 1,
-    "title": "Add Jekyll landing site and Docusaurus documentation",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-03T16:03:02Z",
-    "base_branch": "main",
-    "head_branch": "arena/01a10231-apkdecomp-skill",
-    "commit_count": 3,
-    "url": "https://github.com/havaianasdestruido/apkdecomp-skill/pull/1"
   },
   {
     "repo": "AudioTaste",
@@ -1690,6 +1703,19 @@
     "url": "https://github.com/havaianasdestruido/orelha/pull/1"
   },
   {
+    "repo": "p2unrealscript",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Implement SetSpeed cheat command",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-09T23:48:27Z",
+    "base_branch": "master",
+    "head_branch": "jules-15697663121556354766-c5226132",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/p2unrealscript/pull/1"
+  },
+  {
     "repo": "PhoenixLiveWallpaper",
     "state": "closed",
     "status": "merged",
@@ -1922,19 +1948,6 @@
     "head_branch": "arena/01a10887-termuxubuntuproot",
     "commit_count": 4,
     "url": "https://github.com/havaianasdestruido/TermuxUbuntuPRoot/pull/1"
-  },
-  {
-    "repo": "WAL-skill",
-    "state": "closed",
-    "status": "merged",
-    "number": 1,
-    "title": "Add W3C WAI frontend accessibility Claude skill",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-02T17:01:30Z",
-    "base_branch": "main",
-    "head_branch": "arena/01a0fd83-wal-skill",
-    "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/WAL-skill/pull/1"
   },
   {
     "repo": "WebRadioFM",

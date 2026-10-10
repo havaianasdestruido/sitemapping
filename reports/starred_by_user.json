@@ -1,5 +1,25 @@
 [
   {
+    "full_name": "havaianasdestruido/apkdecomp-skill",
+    "url": "https://github.com/havaianasdestruido/apkdecomp-skill",
+    "description": ""
+  },
+  {
+    "full_name": "havaianasdestruido/WAL-skill",
+    "url": "https://github.com/havaianasdestruido/WAL-skill",
+    "description": ""
+  },
+  {
+    "full_name": "havaianasdestruido/haxeopenflhaxeflixel-skill",
+    "url": "https://github.com/havaianasdestruido/haxeopenflhaxeflixel-skill",
+    "description": ""
+  },
+  {
+    "full_name": "havaianasdestruido/Win7MSUs",
+    "url": "https://github.com/havaianasdestruido/Win7MSUs",
+    "description": "QoL Offline Updates"
+  },
+  {
     "full_name": "Alex313031/Python-Win7",
     "url": "https://github.com/Alex313031/Python-Win7",
     "description": "Python 3.8+ installers that support Windows 7 SP1 and Windows Server 2008 R2"

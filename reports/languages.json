@@ -54,6 +54,36 @@
     "percent": 0.1
   },
   {
+    "repo": "apkdecomp-skill",
+    "language": "CSS",
+    "bytes": 17732,
+    "percent": 53.5
+  },
+  {
+    "repo": "apkdecomp-skill",
+    "language": "HTML",
+    "bytes": 12353,
+    "percent": 37.3
+  },
+  {
+    "repo": "apkdecomp-skill",
+    "language": "JavaScript",
+    "bytes": 1986,
+    "percent": 6.0
+  },
+  {
+    "repo": "apkdecomp-skill",
+    "language": "Shell",
+    "bytes": 988,
+    "percent": 3.0
+  },
+  {
+    "repo": "apkdecomp-skill",
+    "language": "Ruby",
+    "bytes": 78,
+    "percent": 0.2
+  },
+  {
     "repo": "blaster",
     "language": "C",
     "bytes": 46157,
@@ -566,7 +596,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 4871127,
+    "bytes": 4871042,
     "percent": 93.5
   },
   {
@@ -586,6 +616,12 @@
     "language": "CSS",
     "bytes": 6452,
     "percent": 0.1
+  },
+  {
+    "repo": "WAL-skill",
+    "language": "JavaScript",
+    "bytes": 29178,
+    "percent": 100.0
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -676,36 +712,6 @@
     "language": "JavaScript",
     "bytes": 94,
     "percent": 0.1
-  },
-  {
-    "repo": "apkdecomp-skill",
-    "language": "CSS",
-    "bytes": 17732,
-    "percent": 53.5
-  },
-  {
-    "repo": "apkdecomp-skill",
-    "language": "HTML",
-    "bytes": 12353,
-    "percent": 37.3
-  },
-  {
-    "repo": "apkdecomp-skill",
-    "language": "JavaScript",
-    "bytes": 1986,
-    "percent": 6.0
-  },
-  {
-    "repo": "apkdecomp-skill",
-    "language": "Shell",
-    "bytes": 988,
-    "percent": 3.0
-  },
-  {
-    "repo": "apkdecomp-skill",
-    "language": "Ruby",
-    "bytes": 78,
-    "percent": 0.2
   },
   {
     "repo": "AudioTaste",
@@ -2156,7 +2162,7 @@
   {
     "repo": "p2unrealscript",
     "language": "UnrealScript",
-    "bytes": 13143634,
+    "bytes": 13144057,
     "percent": 100.0
   },
   {
@@ -2596,12 +2602,6 @@
     "language": "Batchfile",
     "bytes": 109,
     "percent": 0.0
-  },
-  {
-    "repo": "WAL-skill",
-    "language": "JavaScript",
-    "bytes": 29178,
-    "percent": 100.0
   },
   {
     "repo": "WebRadioFM",

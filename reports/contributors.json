@@ -180,9 +180,21 @@
     "profile_url": "https://github.com/skedgyedgy"
   },
   {
+    "repo": "apkdecomp-skill",
+    "login": "havaianasdestruido",
+    "contributions": 8,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
     "repo": "blaster",
     "login": "havaianasdestruido",
     "contributions": 6,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "haxeopenflhaxeflixel-skill",
+    "login": "havaianasdestruido",
+    "contributions": 2,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -260,7 +272,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 91,
+    "contributions": 92,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -272,7 +284,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 108,
+    "contributions": 109,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -282,9 +294,21 @@
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
+    "repo": "WAL-skill",
+    "login": "havaianasdestruido",
+    "contributions": 4,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
     "repo": "Win7APIs",
     "login": "havaianasdestruido",
     "contributions": 3,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "Win7MSUs",
+    "login": "havaianasdestruido",
+    "contributions": 1,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -310,12 +334,6 @@
     "login": "kjagsadvisors",
     "contributions": 27,
     "profile_url": "https://github.com/kjagsadvisors"
-  },
-  {
-    "repo": "apkdecomp-skill",
-    "login": "havaianasdestruido",
-    "contributions": 8,
-    "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "AudioTaste",
@@ -842,7 +860,7 @@
   {
     "repo": "eleicoes-data",
     "login": "github-actions[bot]",
-    "contributions": 19,
+    "contributions": 20,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -1204,12 +1222,6 @@
     "login": "ImgBotApp",
     "contributions": 1,
     "profile_url": "https://github.com/ImgBotApp"
-  },
-  {
-    "repo": "haxeopenflhaxeflixel-skill",
-    "login": "havaianasdestruido",
-    "contributions": 2,
-    "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "Hiphenatus",
@@ -1586,8 +1598,14 @@
   {
     "repo": "p2unrealscript",
     "login": "havaianasdestruido",
-    "contributions": 3,
+    "contributions": 4,
     "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "p2unrealscript",
+    "login": "google-labs-jules[bot]",
+    "contributions": 1,
+    "profile_url": "https://github.com/apps/google-labs-jules"
   },
   {
     "repo": "PhoenixLiveWallpaper",
@@ -2010,21 +2028,9 @@
     "profile_url": "https://github.com/TheBuilderXD"
   },
   {
-    "repo": "WAL-skill",
-    "login": "havaianasdestruido",
-    "contributions": 4,
-    "profile_url": "https://github.com/havaianasdestruido"
-  },
-  {
     "repo": "WebRadioFM",
     "login": "havaianasdestruido",
     "contributions": 6,
-    "profile_url": "https://github.com/havaianasdestruido"
-  },
-  {
-    "repo": "Win7MSUs",
-    "login": "havaianasdestruido",
-    "contributions": 1,
     "profile_url": "https://github.com/havaianasdestruido"
   }
 ]
