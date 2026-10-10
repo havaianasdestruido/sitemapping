@@ -188,7 +188,7 @@
   {
     "repo": "R2K16",
     "language": "C++",
-    "bytes": 557213413,
+    "bytes": 557213420,
     "percent": 51.8
   },
   {
@@ -596,7 +596,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 4869653,
+    "bytes": 4869726,
     "percent": 93.5
   },
   {
@@ -626,14 +626,14 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "language": "C++",
-    "bytes": 6330899,
-    "percent": 90.9
+    "bytes": 6394951,
+    "percent": 90.6
   },
   {
     "repo": "WindowsMovieMakerDecomp",
     "language": "Python",
     "bytes": 299173,
-    "percent": 4.3
+    "percent": 4.2
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -643,21 +643,21 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
+    "language": "HTML",
+    "bytes": 62228,
+    "percent": 0.9
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
     "language": "CMake",
-    "bytes": 45610,
-    "percent": 0.7
+    "bytes": 45653,
+    "percent": 0.6
   },
   {
     "repo": "WindowsMovieMakerDecomp",
     "language": "CSS",
     "bytes": 42602,
     "percent": 0.6
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "language": "HTML",
-    "bytes": 27168,
-    "percent": 0.4
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -740,7 +740,7 @@
   {
     "repo": "BloodAndBacon-DnSpyEx",
     "language": "C#",
-    "bytes": 11557836,
+    "bytes": 11558304,
     "percent": 100.0
   },
   {
@@ -1296,6 +1296,24 @@
     "percent": 100.0
   },
   {
+    "repo": "LetterPad",
+    "language": "C++",
+    "bytes": 341153,
+    "percent": 90.5
+  },
+  {
+    "repo": "LetterPad",
+    "language": "CMake",
+    "bytes": 20491,
+    "percent": 5.4
+  },
+  {
+    "repo": "LetterPad",
+    "language": "C",
+    "bytes": 15459,
+    "percent": 4.1
+  },
+  {
     "repo": "manimce-claude",
     "language": "JavaScript",
     "bytes": 2462,
@@ -1546,6 +1564,18 @@
     "language": "C#",
     "bytes": 27368,
     "percent": 100.0
+  },
+  {
+    "repo": "mshearts",
+    "language": "C++",
+    "bytes": 101631,
+    "percent": 99.1
+  },
+  {
+    "repo": "mshearts",
+    "language": "C",
+    "bytes": 951,
+    "percent": 0.9
   },
   {
     "repo": "neo-nt5",
@@ -2306,32 +2336,32 @@
   {
     "repo": "Projeto-TCC",
     "language": "JavaScript",
-    "bytes": 1351816,
-    "percent": 68.0
+    "bytes": 1943867,
+    "percent": 69.5
   },
   {
     "repo": "Projeto-TCC",
     "language": "HTML",
-    "bytes": 481421,
-    "percent": 24.2
+    "bytes": 581731,
+    "percent": 20.8
   },
   {
     "repo": "Projeto-TCC",
     "language": "Python",
-    "bytes": 69647,
-    "percent": 3.5
+    "bytes": 166910,
+    "percent": 6.0
   },
   {
     "repo": "Projeto-TCC",
     "language": "PLpgSQL",
-    "bytes": 68735,
-    "percent": 3.5
+    "bytes": 87638,
+    "percent": 3.1
   },
   {
     "repo": "Projeto-TCC",
     "language": "TypeScript",
-    "bytes": 15082,
-    "percent": 0.8
+    "bytes": 17111,
+    "percent": 0.6
   },
   {
     "repo": "pwn",
@@ -2638,5 +2668,17 @@
     "language": "Batchfile",
     "bytes": 501,
     "percent": 0.4
+  },
+  {
+    "repo": "Win7IE",
+    "language": "Rich Text Format",
+    "bytes": 235189,
+    "percent": 99.8
+  },
+  {
+    "repo": "Win7IE",
+    "language": "TeX",
+    "bytes": 464,
+    "percent": 0.2
   }
 ]

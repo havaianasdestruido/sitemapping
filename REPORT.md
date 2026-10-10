@@ -4,8 +4,8 @@
 
 > fka\. PatoFlamejantetv\/UltimateQuack
 
-**Generated:** 2026-10-10 16:35:39 UTC
-**Public Repositories:** 102
+**Generated:** 2026-10-10 23:05:51 UTC
+**Public Repositories:** 110
 
 ---
 
@@ -17,10 +17,12 @@
 
   - 🔗 Forked from: [JordanSantiagoYT\/FNF\-JS\-Engine](<https://github.com/JordanSantiagoYT/FNF-JS-Engine>)
     - ### 🌿 Branches (16)
-      - [arena\/c369986f\-fnf\-phoenix\-engine](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/arena/c369986f-fnf-phoenix-engine>) — HEAD: `971e2a4`
+      - [arena\/c369986f\-fnf\-phoenix\-engine](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/arena/c369986f-fnf-phoenix-engine>) — HEAD: `d82b6d7`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/arena/c369986f-fnf-phoenix-engine>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/arena/c369986f-fnf-phoenix-engine>)
+          - [d82b6d7](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d82b6d7e8d7e4e29272f125aa4ad6c8ac238c1f5>) Merge branch 'main' into arena\/c369986f\-fnf\-phoenix\-engine — PatoFlamejanteTV (2026\-10\-10)
           - [971e2a4](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/971e2a4d65736c4fd08dc12112ef158cc81807ce>) docs\: add Bolt performance journal entry — havaianasdestruido (2026\-10\-10)
+          - [04a3a44](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/04a3a4431978eb44fc3a675bf5c71777c5daea7a>) ⚡ Bolt\: Optimize notesHitDateArray iteration logic in updateNps \(\#32\) — PatoFlamejanteTV (2026\-10\-10)
           - [73ad58e](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/73ad58e3b76e02aac045ebeab23ebce168e9a63e>) docs\: full codebase documentation site \(Docusaurus\) \(\#31\) — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-02)
           - [df208ed](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/df208ede7b914077e460b4768a6d8e8483e824c4>) compress images by \~19% \+ add tools\/compress\-images scripts \(\#30\) — arena\-ai\-coding\-agent\[bot\] (2026\-09\-27)
           - [3b71fc1](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/3b71fc11040bb5feb1ecc15391328e2f632ed7ee>) Update README\.md — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-27)
@@ -28,9 +30,9 @@
           - [ce32df4](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/ce32df47153047fe0b5d34e8bedceafb6a7b0598>) compressed music a bit \(\.OGG &amp; \.MP3\) — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-27)
           - [eabf5be](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/eabf5be559724c950fd4f10d634056105c15ed38>) tools\: fix audio compressor root default and the File\.Replace\(\) failure — arena\-ai\-coding\-agent\[bot\] (2026\-09\-27)
           - [04c399f](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/04c399f7185482b5a469a999d6c6b315de5a55c0>) Add MP3 and OGG compression tools \(\#27\) — arena\-ai\-coding\-agent\[bot\] (2026\-09\-27)
-          - [e139c90](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e139c900a24da4a2f1321105f1b9cf3eaa56cb77>) Create dependabot\.yml — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-27)
-          - [5503461](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5503461e306d503d381d34dfcbdd9bcd29eb52b6>) Update README\.md — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-27)
-        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/arena/c369986f-fnf-phoenix-engine/?after=bda326f0cefcf42206ca3773ae0b116692134a00+34>)
+        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/arena/c369986f-fnf-phoenix-engine/?after=9bc31254e29934dfaaa8ad0f0bd4e5ac86bf2bf2+34>)
+          - [5ec5ba5](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5ec5ba5432b7a1c76938c5331a9be6ddc4c40165>) Revise README\.md for Phoenix Engine updates — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-26)
+          - [bda326f](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/bda326f0cefcf42206ca3773ae0b116692134a00>) Revise README\.md for Phoenix Engine updates — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-26)
           - [cd53ef6](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/cd53ef65316b3f4b7f5f595d1773464d804f8f8b>) Merge pull request \#19 from havaianasdestruido\/arena\/01a0d978\-fnf\-phoeni — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-26)
           - [b86002c](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b86002c7a1ca0b9ec8c7607ef16ffc3715637ffa>) fix\: point Android artifact uploads at the debug APK flavor — havaianasdestruido (2026\-09\-25)
           - [e7bab58](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e7bab58afc41fa63b4d4370d86d9630283693f66>) Merge pull request \#18 from havaianasdestruido\/codex\/fix\-undefined\-symbo — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-24)
@@ -39,9 +41,9 @@
           - [9bd823d](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9bd823dad2063c1288cae53a3186dd36c4d4215f>) fix\: avoid TankmenBG reset signature conflict — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-22)
           - [d7b4de8](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d7b4de828255471fa72726c7f24d58ff58a477ba>) fix\(ci\)\: limit Windows C\+\+ build parallelism — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-22)
           - [105cc16](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/105cc16be8801bbaaef68310f5f09efc2e6ebd3e>) Merge pull request \#15 from havaianasdestruido\/codex\/remove\-obscene\-word — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-22)
-          - [00139b4](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/00139b4a6962e49172a2115b3fdf616187fed9dd>) refactor\: rename inappropriate identifiers — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-22)
-          - [1117fa6](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1117fa6ae4d2c521ee4893d1263b86ddcfc21d77>) docs\: add canonical agent instructions \(AGENTS\.md\) \+ pointers \(CLAUDE\/AI — havaianasdestruido (2026\-09\-18)
-        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/arena/c369986f-fnf-phoenix-engine/?after=62a07dae3c1ba48d378b1b777fae1d3bc16d670e+34>)
+        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/arena/c369986f-fnf-phoenix-engine/?after=6a1774554a3d77a1d47149e5691778b3a0536176+34>)
+          - [b83f604](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b83f604b7007c88c36a8d87fe5ead519d2408221>) Update README\.md — Pato \(new acc\) (2026\-08\-31)
+          - [62a07da](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/62a07dae3c1ba48d378b1b777fae1d3bc16d670e>) Update nightly\.yml — Pato \(new acc\) (2026\-08\-31)
           - [662945b](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/662945b94e9382fa1fab9da1826c9bf99853c817>) Update mobile\.yml — Pato \(new acc\) (2026\-08\-31)
           - [181b9dd](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/181b9dd1792ba4850818e5df29902aa8f335a572>) Update mobile\-release\.yml — Pato \(new acc\) (2026\-08\-31)
           - [31f39ab](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/31f39abd9c3997556de871d92b2a1dd48918e1ce>) Update nightly\.yml — Pato \(new acc\) (2026\-08\-31)
@@ -50,9 +52,9 @@
           - [682639c](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/682639c362a719cec04ec5341f9b305de1676436>) Update main\.yml — Pato \(new acc\) (2026\-08\-31)
           - [a2180eb](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a2180ebddf5d39f7ad6663acf011f9b30eb3ed84>) wtf — Pato \(new acc\) (2026\-08\-31)
           - [6aa0104](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6aa01043a37ecc99dd16811ad10bac782b9b45c3>) asdagfd — Pato \(new acc\) (2026\-08\-31)
-          - [2056490](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/20564903272cca331b0b1ee150634428943442ae>) now the default "build only win \+ android" thing should work — Pato \(new acc\) (2026\-08\-31)
-          - [6cdad81](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6cdad81f7878a8243ee690b8b65dc0134bbc22cd>) test fix with that matrix thing — Pato \(new acc\) (2026\-08\-31)
-        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/arena/c369986f-fnf-phoenix-engine/?after=4e86b3429b20cb3eeddf3828485508a12fe9bf86+34>)
+        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/arena/c369986f-fnf-phoenix-engine/?after=aaa6971794ed0ae8b2702b3607988e4d904465c9+34>)
+          - [b88410f](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b88410f0e50681c0d2ebad8cdf10adbfbe1c3b48>) Add mobile \(Android\) target support and touch controls — google\-labs\-jules\[bot\] (2026\-08\-30)
+          - [4e86b34](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4e86b3429b20cb3eeddf3828485508a12fe9bf86>) Fix mobile CI workflow paths, keystore handling, and null safety — google\-labs\-jules\[bot\] (2026\-08\-30)
           - [adee2fe](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/adee2fec8cbd7d2f5f817d7fc563565fd413b630>) Fix Certificate type qualification in project\.hxp for HXP build — google\-labs\-jules\[bot\] (2026\-08\-30)
           - [e18aa9c](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e18aa9c3d85cf8c350f31bbc5c14665bd8c364e6>) Fix HXP certificate reference and update mobile CI workflows — google\-labs\-jules\[bot\] (2026\-08\-30)
           - [b049c31](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b049c3172a677cf9b9ee456783a778a55f4d710c>) Add mobile and Android support with touch controls and CI workflows — google\-labs\-jules\[bot\] (2026\-08\-29)
@@ -61,8 +63,6 @@
           - [aabd946](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/aabd946f1b4a7898e90083e88a7620e46c550cab>) refactor\: add headers package to categorize helper groups — havaianasdestruido (2026\-08\-28)
           - [85ff843](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/85ff8436e3cb28d72d56de320d50fa900b94a3d7>) refactor\: extract remaining monoliths into helper classes — havaianasdestruido (2026\-08\-28)
           - [4181d10](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4181d109d534da7874bc24beee64e44f2c30c43b>) yay\: new readme — Pato \(new acc\) (2026\-08\-28)
-          - [387269d](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/387269d3c9879f53645b4c475e00d8dd6bb9935c>) ci\: drop stale precompiled headers from hxcpp cache — havaianasdestruido (2026\-08\-28)
-          - [24be099](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/24be09902c3f78b95642048f88b5e3d741f65f2e>) fix\: gate window coloring to Windows\-only — havaianasdestruido (2026\-08\-28)
       - [arena\/01a0e3c1\-fnf\-phoenix\-engine](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/arena/01a0e3c1-fnf-phoenix-engine>) — HEAD: `65f2dce`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/arena/01a0e3c1-fnf-phoenix-engine>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/arena/01a0e3c1-fnf-phoenix-engine>)
@@ -404,6 +404,10 @@
             - [31dd949](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/31dd949d22f0cdb30abe0d92249d2cc09044c1ff>) fix\: repair broken GitHub Actions workflows and Android comp
             - [f76f7fe](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f76f7fea749db8c1434656c779d714e4884d6d5e>) fix\: repair broken GitHub Actions workflows and Android buil
       - **Closed PRs** (20)
+        - ✅ Merged [\#33 ⚡ Bolt\: record performance findings in journal \(no runtime c](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/33>) — havaianasdestruido (2026\-10\-10) `arena/c369986f-fnf-phoenix-engine` → `main`
+          - 📝 2 commit(s) in this PR
+            - [971e2a4](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/971e2a4d65736c4fd08dc12112ef158cc81807ce>) docs\: add Bolt performance journal entry
+            - [d82b6d7](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d82b6d7e8d7e4e29272f125aa4ad6c8ac238c1f5>) Merge branch 'main' into arena\/c369986f\-fnf\-phoenix\-engine
         - ✅ Merged [\#32 ⚡ Bolt\: Optimize loop in PlayStateRating\.updateNps](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/32>) — havaianasdestruido (2026\-10\-10) `bolt-nps-optimization-6990886896528488390` → `main`
           - 📝 1 commit(s) in this PR
             - [5dec4eb](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5dec4eb422d6142534587c27bca3747bd1c91da8>) ⚡ Bolt\: Optimize notesHitDateArray iteration logic in update
@@ -480,10 +484,6 @@
         - ✅ Merged [\#12 Fix UTF\-8 BOM in hmm\.json causing hmm install failure](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/12>) — havaianasdestruido (2026\-08\-30) `fix-hmm-json-bom-12799565648666142956` → `main`
           - 📝 1 commit(s) in this PR
             - [f275f5e](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f275f5e55e21feea5d1a6067ab4eae594897faa3>) Fix UTF\-8 BOM in hmm\.json and JSON configs
-        - ✅ Merged [\#11 Rebranding](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/11>) — havaianasdestruido (2026\-08\-30) `rename-executable-phoenix-engine-9312091600553147924` → `main`
-          - 📝 2 commit(s) in this PR
-            - [42ad9bc](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/42ad9bcc91179cb478bb3d0a77b9f5f3e064ebb4>) Rename engine executable and package name to FNF\-Phoenix\-Eng
-            - [9304f53](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9304f53c5621d8d370f89aa0f681b58d6075a461>) Merge branch 'main' into rename\-executable\-phoenix\-engine\-93
 
     - ### 🍴 Forks (0)
 
@@ -495,7 +495,7 @@
       - [@JordanSantiagoYT](<https://github.com/JordanSantiagoYT>) — 1227 commit(s)
       - [@moxie\-coder](<https://github.com/moxie-coder>) — 487 commit(s)
       - [@ShadowMario](<https://github.com/ShadowMario>) — 363 commit(s)
-      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 161 commit(s)
+      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 162 commit(s)
       - [@TheStinkern](<https://github.com/TheStinkern>) — 122 commit(s)
       - [@imavie](<https://github.com/imavie>) — 100 commit(s)
       - [@bbpanzu](<https://github.com/bbpanzu>) — 84 commit(s)
@@ -1307,10 +1307,10 @@
 
 - ## [R2K16](<https://github.com/havaianasdestruido/R2K16>) `🍴 Fork | 🗃️ Template`
   > 2K16 RBLX
-  > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 1 open issues | 💻 C\+\+ | 📅 Created: 2026-09-06 | 🔄 Updated: 2026-10-03
+  > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 1 open issues | 💻 C\+\+ | 📅 Created: 2026-09-06 | 🔄 Updated: 2026-10-10
 
   - 🔗 Forked from: [Artifaqt\/ROBLOX2016](<https://github.com/Artifaqt/ROBLOX2016>)
-    - ### 🌿 Branches (5)
+    - ### 🌿 Branches (6)
       - [arena\/01a0fd75\-r2k16](<https://github.com/havaianasdestruido/R2K16/tree/arena/01a0fd75-r2k16>) — HEAD: `2a104c1`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/R2K16/commits/arena/01a0fd75-r2k16>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/R2K16/commits/arena/01a0fd75-r2k16>)
@@ -1356,6 +1356,23 @@
           - [dd0298a](<https://github.com/havaianasdestruido/R2K16/commit/dd0298aee99bff9edd85298e6482ba767a045283>) \[ImgBot\] Optimize images — ImgBotApp (2024\-12\-19)
           - [05db15d](<https://github.com/havaianasdestruido/R2K16/commit/05db15d61050dd4a972636202cb613043ad4a9c0>) full source code — PatoFlamejanteTV (2024\-12\-19)
           - [2b621be](<https://github.com/havaianasdestruido/R2K16/commit/2b621be4c91a2253b7123960bd517382da8e6ca1>) Initial commit — UltimateQuack (2024\-12\-19)
+      - [bolt\-opt\-replicator\-copy\-16327855235489815194](<https://github.com/havaianasdestruido/R2K16/tree/bolt-opt-replicator-copy-16327855235489815194>) — HEAD: `171f482`
+        - 📋 [All Commits](<https://github.com/havaianasdestruido/R2K16/commits/bolt-opt-replicator-copy-16327855235489815194>)
+        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/R2K16/commits/bolt-opt-replicator-copy-16327855235489815194>)
+          - [171f482](<https://github.com/havaianasdestruido/R2K16/commit/171f482b00b181f471ff4f4a5204e300b8201dea>) Optimize network packet processing loop — google\-labs\-jules\[bot\] (2026\-10\-10)
+          - [e38de88](<https://github.com/havaianasdestruido/R2K16/commit/e38de88218960d322afbcd497e8fa7aaf1d492b1>) Merge pull request \#4 from havaianasdestruido\/arena\/01a0ff4f\-r2k16 — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-03)
+          - [0659d3d](<https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0>) Split website\: Jekyll primary page at \/, Docusaurus docs at \/docs — havaianasdestruido (2026\-10\-03)
+          - [a14bf78](<https://github.com/havaianasdestruido/R2K16/commit/a14bf7882b8b25e12814f5da9640375969f12e4a>) Merge pull request \#3 from havaianasdestruido\/arena\/01a0fd75\-r2k16 — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-02)
+          - [2a104c1](<https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73>) Apply review fixes to docs site and deploy workflow — havaianasdestruido (2026\-10\-02)
+          - [3770f5a](<https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb>) Add full codebase documentation site \(Docusaurus 3\) — havaianasdestruido (2026\-10\-02)
+          - [0f63b0c](<https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666>) Revise Extras section in README\.md — Pato \(new acc\) (2026\-09\-20)
+          - [809a16d](<https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172>) images about security scanning results — Pato \(new acc\) (2026\-09\-20)
+          - [e4bb2b2](<https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624>) Create README\.txt — Pato \(new acc\) (2026\-09\-20)
+          - [786adea](<https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140>) Create README\.txt — Pato \(new acc\) (2026\-09\-20)
+        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/R2K16/commits/bolt-opt-replicator-copy-16327855235489815194/?after=f52ba91c240db4b0db6b6c1345a7094c8c43e177+34>)
+          - [dd0298a](<https://github.com/havaianasdestruido/R2K16/commit/dd0298aee99bff9edd85298e6482ba767a045283>) \[ImgBot\] Optimize images — ImgBotApp (2024\-12\-19)
+          - [05db15d](<https://github.com/havaianasdestruido/R2K16/commit/05db15d61050dd4a972636202cb613043ad4a9c0>) full source code — PatoFlamejanteTV (2024\-12\-19)
+          - [2b621be](<https://github.com/havaianasdestruido/R2K16/commit/2b621be4c91a2253b7123960bd517382da8e6ca1>) Initial commit — UltimateQuack (2024\-12\-19)
       - [dependabot\/npm\_and\_yarn\/RobloxHybrid\/docs\/jaguar\/npm\_and\_yarn\-b258cd4ece](<https://github.com/havaianasdestruido/R2K16/tree/dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece>) — HEAD: `d7f519d`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/R2K16/commits/dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/R2K16/commits/dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece>)
@@ -1369,9 +1386,11 @@
           - [eadb785](<https://github.com/havaianasdestruido/R2K16/commit/eadb785b1eb98eedcdd7255de3d0f4d602a47289>) Create msvc\.yml — Pato \(new acc\) (2026\-09\-15)
           - [1248551](<https://github.com/havaianasdestruido/R2K16/commit/12485510185848deae9179973b0df3c9ef5f6cc3>) Delete \.github\/workflows\/build\.yml — Pato \(new acc\) (2026\-09\-15)
           - [65d06ee](<https://github.com/havaianasdestruido/R2K16/commit/65d06ee027294a5aa256b813f5fe3377652e2f17>) added manual triggering — Pato \(new acc\) (2026\-09\-15)
-      - [main](<https://github.com/havaianasdestruido/R2K16/tree/main>) _(default)_ — HEAD: `e38de88`
+      - [main](<https://github.com/havaianasdestruido/R2K16/tree/main>) _(default)_ — HEAD: `860a7c6`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/R2K16/commits/main>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/R2K16/commits/main>)
+          - [860a7c6](<https://github.com/havaianasdestruido/R2K16/commit/860a7c6c25739556618419ad487bf1957aaa798c>) Merge pull request \#5 from havaianasdestruido\/bolt\-opt\-replicator\-copy\-1 — PatoFlamejanteTV (2026\-10\-10)
+          - [171f482](<https://github.com/havaianasdestruido/R2K16/commit/171f482b00b181f471ff4f4a5204e300b8201dea>) Optimize network packet processing loop — google\-labs\-jules\[bot\] (2026\-10\-10)
           - [e38de88](<https://github.com/havaianasdestruido/R2K16/commit/e38de88218960d322afbcd497e8fa7aaf1d492b1>) Merge pull request \#4 from havaianasdestruido\/arena\/01a0ff4f\-r2k16 — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-03)
           - [0659d3d](<https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0>) Split website\: Jekyll primary page at \/, Docusaurus docs at \/docs — havaianasdestruido (2026\-10\-03)
           - [a14bf78](<https://github.com/havaianasdestruido/R2K16/commit/a14bf7882b8b25e12814f5da9640375969f12e4a>) Merge pull request \#3 from havaianasdestruido\/arena\/01a0fd75\-r2k16 — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-02)
@@ -1380,9 +1399,9 @@
           - [0f63b0c](<https://github.com/havaianasdestruido/R2K16/commit/0f63b0c3ed022ea11e7e5248e626c5dd9c80b666>) Revise Extras section in README\.md — Pato \(new acc\) (2026\-09\-20)
           - [809a16d](<https://github.com/havaianasdestruido/R2K16/commit/809a16d97a62d37745fb293479a5d8b2d6bd5172>) images about security scanning results — Pato \(new acc\) (2026\-09\-20)
           - [e4bb2b2](<https://github.com/havaianasdestruido/R2K16/commit/e4bb2b29e09d63c0086efeca4a0d23fb7a5c8624>) Create README\.txt — Pato \(new acc\) (2026\-09\-20)
-          - [786adea](<https://github.com/havaianasdestruido/R2K16/commit/786adea40c8dbebdddef32a16dfebb042b99b140>) Create README\.txt — Pato \(new acc\) (2026\-09\-20)
-          - [0a3caf7](<https://github.com/havaianasdestruido/R2K16/commit/0a3caf7be83adad1b0b2ada14a594c669f6ce33f>) \-DCMAKE\_POLICY\_VERSION\_MINIMUM\=3\.5 — Pato \(new acc\) (2026\-09\-20)
-        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/R2K16/commits/main/?after=dd0298aee99bff9edd85298e6482ba767a045283+34>)
+        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/R2K16/commits/main/?after=332b61a14b369472a21643bd54a1e98668169a81+34>)
+          - [f52ba91](<https://github.com/havaianasdestruido/R2K16/commit/f52ba91c240db4b0db6b6c1345a7094c8c43e177>) Create jekyll\-gh\-pages\.yml — UltimateQuack (2024\-12\-20)
+          - [dd0298a](<https://github.com/havaianasdestruido/R2K16/commit/dd0298aee99bff9edd85298e6482ba767a045283>) \[ImgBot\] Optimize images — ImgBotApp (2024\-12\-19)
           - [05db15d](<https://github.com/havaianasdestruido/R2K16/commit/05db15d61050dd4a972636202cb613043ad4a9c0>) full source code — PatoFlamejanteTV (2024\-12\-19)
           - [2b621be](<https://github.com/havaianasdestruido/R2K16/commit/2b621be4c91a2253b7123960bd517382da8e6ca1>) Initial commit — UltimateQuack (2024\-12\-19)
 
@@ -1395,7 +1414,10 @@
         - 🟢 Open [\#2 Bump the npm\_and\_yarn group across 2 directories with 3 upda](<https://github.com/havaianasdestruido/R2K16/pull/2>) — dependabot\[bot\] (2026\-09\-20) `dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-b258cd4ece` → `main`
           - 📝 1 commit(s) in this PR
             - [d7f519d](<https://github.com/havaianasdestruido/R2K16/commit/d7f519da3b8d2c4b6b201c655273292229b4619d>) Bump the npm\_and\_yarn group across 2 directories with 3 upda
-      - **Closed PRs** (3)
+      - **Closed PRs** (4)
+        - ✅ Merged [\#5 ⚡ Bolt\: Optimize network packet processing loop](<https://github.com/havaianasdestruido/R2K16/pull/5>) — havaianasdestruido (2026\-10\-10) `bolt-opt-replicator-copy-16327855235489815194` → `main`
+          - 📝 1 commit(s) in this PR
+            - [171f482](<https://github.com/havaianasdestruido/R2K16/commit/171f482b00b181f471ff4f4a5204e300b8201dea>) Optimize network packet processing loop
         - ✅ Merged [\#4 Split website\: Jekyll primary page at \/, Docusaurus docs onl](<https://github.com/havaianasdestruido/R2K16/pull/4>) — havaianasdestruido (2026\-10\-03) `arena/01a0ff4f-r2k16` → `main`
           - 📝 1 commit(s) in this PR
             - [0659d3d](<https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0>) Split website\: Jekyll primary page at \/, Docusaurus docs at
@@ -1413,14 +1435,15 @@
 
     - ### 👀 Watchers / Subscribers (0)
 
-    - ### 👥 Contributors (2)
-      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 29 commit(s)
+    - ### 👥 Contributors (3)
+      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 30 commit(s)
       - [@ImgBotApp](<https://github.com/ImgBotApp>) — 1 commit(s)
+      - [@google\-labs\-jules\[bot\]](<https://github.com/apps/google-labs-jules>) — 1 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `C++` — 51.8% (557,213,413 bytes)
+      - `C++` — 51.8% (557,213,420 bytes)
       - `HTML` — 32.4% (348,770,724 bytes)
       - `C` — 13.0% (139,874,683 bytes)
       - `JavaScript` — 0.4% (4,020,845 bytes)
@@ -1532,9 +1555,10 @@
           - [7490501](<https://github.com/havaianasdestruido/sitemapping/commit/74905013cec52ff6f220f129c172f9d7a5a0b006>) 📊 Update repository report \[2026\-09\-13 17\:31\:21 UTC\] — GitHub Action Bot (2026\-09\-13)
           - [b113a1a](<https://github.com/havaianasdestruido/sitemapping/commit/b113a1a7238707136a74b436700b150607d5a51c>) Create repo\-analyzer\.yml — Pato \(new acc\) (2026\-09\-13)
           - [a6ebe1d](<https://github.com/havaianasdestruido/sitemapping/commit/a6ebe1dd4f364ad874898f2a9a3628718a2b35f0>) Create generate\_report\.py — Pato \(new acc\) (2026\-09\-13)
-      - [main](<https://github.com/havaianasdestruido/sitemapping/tree/main>) _(default)_ — HEAD: `5f82fb1`
+      - [main](<https://github.com/havaianasdestruido/sitemapping/tree/main>) _(default)_ — HEAD: `2301beb`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/sitemapping/commits/main>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/sitemapping/commits/main>)
+          - [2301beb](<https://github.com/havaianasdestruido/sitemapping/commit/2301beb3fbe72c2e1edaf00df17e7652761b0c94>) 📊 \[2026\-10\-10 16\:46\:51 UTC\] — GitHub Action Bot (2026\-10\-10)
           - [5f82fb1](<https://github.com/havaianasdestruido/sitemapping/commit/5f82fb1cadf9f18b456db10fa73231d0346d72f0>) 📊 \[2026\-10\-10 10\:22\:38 UTC\] — GitHub Action Bot (2026\-10\-10)
           - [5ef3ce4](<https://github.com/havaianasdestruido/sitemapping/commit/5ef3ce43484f644b822119cc842575350f9dd4b0>) 📊 \[2026\-10\-10 03\:32\:08 UTC\] — GitHub Action Bot (2026\-10\-10)
           - [60a1f90](<https://github.com/havaianasdestruido/sitemapping/commit/60a1f902b65000512b8d3537353e2dab5276e9da>) 📊 \[2026\-10\-09 23\:50\:04 UTC\] — GitHub Action Bot (2026\-10\-09)
@@ -1544,8 +1568,8 @@
           - [9e32092](<https://github.com/havaianasdestruido/sitemapping/commit/9e32092a408301d37c563e0655e937da5a5675ff>) 📊 \[2026\-10\-08 19\:23\:50 UTC\] — GitHub Action Bot (2026\-10\-08)
           - [2adbc6e](<https://github.com/havaianasdestruido/sitemapping/commit/2adbc6ee7117a82c375da2d71ca7d510d64ef47a>) Merge pull request \#1 from havaianasdestruido\/arena\/6a1ac155\-sitemapping — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-08)
           - [a63fb24](<https://github.com/havaianasdestruido/sitemapping/commit/a63fb24f0350fb2099eaa99501410f1c43c9e5b2>) Implement secure WebMCP report explorer — havaianasdestruido (2026\-10\-08)
-          - [57b03e8](<https://github.com/havaianasdestruido/sitemapping/commit/57b03e84f1b6c83b073d82732643d530a05e14ff>) 📊 \[2026\-10\-08 18\:19\:13 UTC\] — GitHub Action Bot (2026\-10\-08)
-        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/sitemapping/commits/main/?after=2e4df37ec2445a61595a4df939b7e0add5056f59+34>)
+        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/sitemapping/commits/main/?after=cdafb22ef58c520c4db42ac5b0332684e3aea10d+34>)
+          - [2e4df37](<https://github.com/havaianasdestruido/sitemapping/commit/2e4df37ec2445a61595a4df939b7e0add5056f59>) 📊 \[2026\-10\-01 10\:41\:26 UTC\] — GitHub Action Bot (2026\-10\-01)
           - [262cd52](<https://github.com/havaianasdestruido/sitemapping/commit/262cd526f9ec81c70e67dc924dc20f6cd98c1ff0>) 📊 \[2026\-10\-01 03\:14\:11 UTC\] — GitHub Action Bot (2026\-10\-01)
           - [8419335](<https://github.com/havaianasdestruido/sitemapping/commit/84193355c6cfd1f9083dbc988f3abf077ecfc7d5>) 📊 \[2026\-09\-30 23\:26\:40 UTC\] — GitHub Action Bot (2026\-09\-30)
           - [b500c6d](<https://github.com/havaianasdestruido/sitemapping/commit/b500c6d104ff01ca9275e465b0a90fff25bec2a1>) 📊 \[2026\-09\-30 17\:21\:01 UTC\] — GitHub Action Bot (2026\-09\-30)
@@ -1555,8 +1579,8 @@
           - [ed85bf1](<https://github.com/havaianasdestruido/sitemapping/commit/ed85bf197e83f53b1c3247c1b67b63151c85a491>) 📊 \[2026\-09\-29 17\:21\:44 UTC\] — GitHub Action Bot (2026\-09\-29)
           - [026ac8c](<https://github.com/havaianasdestruido/sitemapping/commit/026ac8cc975a2e24a2885633842142d1ee516c05>) 📊 \[2026\-09\-29 10\:20\:25 UTC\] — GitHub Action Bot (2026\-09\-29)
           - [5503f13](<https://github.com/havaianasdestruido/sitemapping/commit/5503f13b1bbe70157abbde3b764ccad913d09f99>) 📊 \[2026\-09\-29 00\:10\:46 UTC\] — GitHub Action Bot (2026\-09\-29)
-          - [1cafda7](<https://github.com/havaianasdestruido/sitemapping/commit/1cafda728e4c10d10556283d3878e091f8421420>) 📊 \[2026\-09\-28 19\:04\:43 UTC\] — GitHub Action Bot (2026\-09\-28)
-        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/sitemapping/commits/main/?after=aba140c0fc74e41185e6fe50a2a6f8ed8f345fc2+34>)
+        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/sitemapping/commits/main/?after=6c39cfb5e873ac228a8d70c6b3ce34c46f66745d+34>)
+          - [aba140c](<https://github.com/havaianasdestruido/sitemapping/commit/aba140c0fc74e41185e6fe50a2a6f8ed8f345fc2>) 📊 \[2026\-09\-22 22\:36\:14 UTC\] — GitHub Action Bot (2026\-09\-22)
           - [535b65d](<https://github.com/havaianasdestruido/sitemapping/commit/535b65dc07b4e4dce0236477f417efd4a7e5034b>) 📊 \[2026\-09\-22 19\:34\:35 UTC\] — GitHub Action Bot (2026\-09\-22)
           - [3cb0548](<https://github.com/havaianasdestruido/sitemapping/commit/3cb0548354a1737c223002715994438a4a991cd0>) 📊 \[2026\-09\-22 16\:01\:58 UTC\] — GitHub Action Bot (2026\-09\-22)
           - [52a4d11](<https://github.com/havaianasdestruido/sitemapping/commit/52a4d116f0e35663e24145163fb1464d9e6f34c2>) 📊 \[2026\-09\-22 08\:59\:46 UTC\] — GitHub Action Bot (2026\-09\-22)
@@ -1566,8 +1590,8 @@
           - [070563f](<https://github.com/havaianasdestruido/sitemapping/commit/070563fb8247767751938e9402b98ccb80b9aa01>) 📊 \[2026\-09\-21 09\:28\:41 UTC\] — GitHub Action Bot (2026\-09\-21)
           - [3c9b26a](<https://github.com/havaianasdestruido/sitemapping/commit/3c9b26a5127b7fe5160892d07673f12665f8dc0b>) 📊 \[2026\-09\-21 02\:27\:01 UTC\] — GitHub Action Bot (2026\-09\-21)
           - [64412d1](<https://github.com/havaianasdestruido/sitemapping/commit/64412d1f798c4c039d5d32f94c9cc007d320084f>) 📊 \[2026\-09\-21 01\:14\:25 UTC\] — GitHub Action Bot (2026\-09\-21)
-          - [8113d82](<https://github.com/havaianasdestruido/sitemapping/commit/8113d8276f6f47b1930675e94df54e8a1d9be39b>) Set imgbot schedule to weekly — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
-        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/sitemapping/commits/main/?after=ee38a4da95223bc0d67a72062e40d7e365314f14+34>)
+        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/sitemapping/commits/main/?after=d51ffae9e72f4b6c25ae0f6ab15bb0c421db3f94+34>)
+          - [ee38a4d](<https://github.com/havaianasdestruido/sitemapping/commit/ee38a4da95223bc0d67a72062e40d7e365314f14>) 📊 Update repository report \[2026\-09\-17 03\:58\:56 UTC\] — GitHub Action Bot (2026\-09\-17)
           - [1017217](<https://github.com/havaianasdestruido/sitemapping/commit/1017217c1004225c81bce86fd0c950cc45a407b0>) 📊 Update repository report \[2026\-09\-16 03\:52\:54 UTC\] — GitHub Action Bot (2026\-09\-16)
           - [518e02b](<https://github.com/havaianasdestruido/sitemapping/commit/518e02b945a9029fd85e3cedcbb1353d8b93587b>) 📊 Update repository report \[2026\-09\-15 03\:58\:06 UTC\] — GitHub Action Bot (2026\-09\-15)
           - [fbc53b5](<https://github.com/havaianasdestruido/sitemapping/commit/fbc53b5c264ad02c50fb01e8a22ada50ea818e4b>) 📊 Update repository report \[2026\-09\-14 03\:56\:10 UTC\] — GitHub Action Bot (2026\-09\-14)
@@ -1577,7 +1601,6 @@
           - [5d2974a](<https://github.com/havaianasdestruido/sitemapping/commit/5d2974a527ec5d7883ed2f9672c67366ddfa24a6>) live demo URL — Pato \(new acc\) (2026\-09\-13)
           - [fb926d4](<https://github.com/havaianasdestruido/sitemapping/commit/fb926d484c27d6c8ab04286cb761505a70f88b48>) jekyll workflow — Pato \(new acc\) (2026\-09\-13)
           - [5b9d33e](<https://github.com/havaianasdestruido/sitemapping/commit/5b9d33e8dab6999935cda632f67c1caf515d9458>) fixed readme — Pato \(new acc\) (2026\-09\-13)
-          - [a042f20](<https://github.com/havaianasdestruido/sitemapping/commit/a042f201a2496fb53c9e2cf09809f837cb81b29a>) Create README\.md — Pato \(new acc\) (2026\-09\-13)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -1598,7 +1621,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@actions\-user](<https://github.com/actions-user>) — 94 commit(s)
+      - [@actions\-user](<https://github.com/actions-user>) — 95 commit(s)
       - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 24 commit(s)
 
     - ### 🏷️ Releases (2)
@@ -1664,9 +1687,11 @@
           - [effc1ae](<https://github.com/havaianasdestruido/top100/commit/effc1ae74aef9001bba6e70f3b09c6387d64d460>) Include LISTS\.md in commit results step — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-20)
           - [e61227a](<https://github.com/havaianasdestruido/top100/commit/e61227aa541d6345d1d0864e843cb6dbce81b4e0>) data\: update top repos data \(2026\-09\-20\) — github\-actions\[bot\] (2026\-09\-20)
           - [941015e](<https://github.com/havaianasdestruido/top100/commit/941015ea6dd0be571c10ae5073d9dc005639dc6b>) Implement write\_lists\_md function for markdown indexing — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-20)
-      - [main](<https://github.com/havaianasdestruido/top100/tree/main>) _(default)_ — HEAD: `e08470f`
+      - [main](<https://github.com/havaianasdestruido/top100/tree/main>) _(default)_ — HEAD: `58cbe7a`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/top100/commits/main>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/top100/commits/main>)
+          - [58cbe7a](<https://github.com/havaianasdestruido/top100/commit/58cbe7ad1e008f044df5e3ba650f2b8c5c9b7d3d>) data\: update top repos data \(2026\-10\-10 23\:02 UTC\) — github\-actions\[bot\] (2026\-10\-10)
+          - [22a8d5a](<https://github.com/havaianasdestruido/top100/commit/22a8d5a1473a9e898cd74bcc9130bbaa4ab9fd14>) data\: update top repos data \(2026\-10\-10 19\:38 UTC\) — github\-actions\[bot\] (2026\-10\-10)
           - [e08470f](<https://github.com/havaianasdestruido/top100/commit/e08470fe622f44ee72f7bdabcc5a8afba9eeac6b>) data\: update top repos data \(2026\-10\-10 15\:39 UTC\) — github\-actions\[bot\] (2026\-10\-10)
           - [2fe8183](<https://github.com/havaianasdestruido/top100/commit/2fe8183f2d70728649af3adc78490f64c61254bd>) data\: update top repos data \(2026\-10\-10 09\:17 UTC\) — github\-actions\[bot\] (2026\-10\-10)
           - [02d3e04](<https://github.com/havaianasdestruido/top100/commit/02d3e0412dd22711d049ad29ae85cfd86613b091>) data\: update top repos data \(2026\-10\-10 02\:59 UTC\) — github\-actions\[bot\] (2026\-10\-10)
@@ -1675,9 +1700,9 @@
           - [2ce745e](<https://github.com/havaianasdestruido/top100/commit/2ce745e7413c8139effce0b649bea661a593a7a8>) data\: update top repos data \(2026\-10\-09 13\:57 UTC\) — github\-actions\[bot\] (2026\-10\-09)
           - [d407d94](<https://github.com/havaianasdestruido/top100/commit/d407d947aae89182c4dfbba17fd4868b2ebf4570>) data\: update top repos data \(2026\-10\-09 06\:55 UTC\) — github\-actions\[bot\] (2026\-10\-09)
           - [010f809](<https://github.com/havaianasdestruido/top100/commit/010f8097fb80c4652f9b883986038fc6e94d5055>) data\: update top repos data \(2026\-10\-09 00\:47 UTC\) — github\-actions\[bot\] (2026\-10\-09)
-          - [efa21d9](<https://github.com/havaianasdestruido/top100/commit/efa21d9f72e590173c303246cdee9359d85d218f>) data\: update top repos data \(2026\-10\-08 20\:20 UTC\) — github\-actions\[bot\] (2026\-10\-08)
-          - [a17303e](<https://github.com/havaianasdestruido/top100/commit/a17303e113f96086dcfd7d1563052e06a5997ed1>) data\: update top repos data \(2026\-10\-08 19\:17 UTC\) — github\-actions\[bot\] (2026\-10\-08)
-        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/top100/commits/main/?after=2a14178fa21c6f6f6c94c979472c5815020c3c54+34>)
+        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/top100/commits/main/?after=6178e783ab1b9546847cda30ebdaa50a1db450e7+34>)
+          - [6bdc48d](<https://github.com/havaianasdestruido/top100/commit/6bdc48d1de6eaf46615773697d0007c2795ac33e>) data\: update top repos data \(2026\-10\-03 23\:26 UTC\) — github\-actions\[bot\] (2026\-10\-03)
+          - [2a14178](<https://github.com/havaianasdestruido/top100/commit/2a14178fa21c6f6f6c94c979472c5815020c3c54>) data\: update top repos data \(2026\-10\-03 20\:18 UTC\) — github\-actions\[bot\] (2026\-10\-03)
           - [891de91](<https://github.com/havaianasdestruido/top100/commit/891de91f24d010a2c8b0b00e48bfb721fc1c4356>) data\: update top repos data \(2026\-10\-03 17\:50 UTC\) — github\-actions\[bot\] (2026\-10\-03)
           - [3842d5e](<https://github.com/havaianasdestruido/top100/commit/3842d5ef2a94383f5682218a24355f1704dd5fb8>) data\: update top repos data \(2026\-10\-03 14\:01 UTC\) — github\-actions\[bot\] (2026\-10\-03)
           - [c1f147a](<https://github.com/havaianasdestruido/top100/commit/c1f147a92360dfeaf15aba5812df7b513df924ce>) data\: update top repos data \(2026\-10\-03 08\:39 UTC\) — github\-actions\[bot\] (2026\-10\-03)
@@ -1686,9 +1711,9 @@
           - [5680b44](<https://github.com/havaianasdestruido/top100/commit/5680b44bf62839073fc7a4cb821f3d9d95d17507>) data\: update top repos data \(2026\-10\-02 19\:38 UTC\) — github\-actions\[bot\] (2026\-10\-02)
           - [7a0ff6a](<https://github.com/havaianasdestruido/top100/commit/7a0ff6aa146a00398204c2d7786fd6509721e0e1>) data\: update top repos data \(2026\-10\-02 14\:15 UTC\) — github\-actions\[bot\] (2026\-10\-02)
           - [2a20397](<https://github.com/havaianasdestruido/top100/commit/2a2039773b57ceff0fd2c4f641460dd44b4d0690>) data\: update top repos data \(2026\-10\-02 07\:39 UTC\) — github\-actions\[bot\] (2026\-10\-02)
-          - [a7dbb14](<https://github.com/havaianasdestruido/top100/commit/a7dbb14a155a67f6ae5b60d261db7cdd9580411a>) data\: update top repos data \(2026\-10\-02 01\:10 UTC\) — github\-actions\[bot\] (2026\-10\-02)
-          - [b7da815](<https://github.com/havaianasdestruido/top100/commit/b7da8152797a07fa2388f2473ed9c437d4964a12>) data\: update top repos data \(2026\-10\-01 21\:29 UTC\) — github\-actions\[bot\] (2026\-10\-01)
-        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/top100/commits/main/?after=f2ee0ebd527190d53aa1f67c93bb0997590ce769+34>)
+        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/top100/commits/main/?after=cfca86e1be4b2c0590634a4e101afa77db4a4175+34>)
+          - [3f60b27](<https://github.com/havaianasdestruido/top100/commit/3f60b27613749013bf809b0872e80b7a0927f60e>) data\: update top repos data \(2026\-09\-27\) — github\-actions\[bot\] (2026\-09\-27)
+          - [f2ee0eb](<https://github.com/havaianasdestruido/top100/commit/f2ee0ebd527190d53aa1f67c93bb0997590ce769>) data\: update top repos data \(2026\-09\-27\) — github\-actions\[bot\] (2026\-09\-27)
           - [1d2ee2c](<https://github.com/havaianasdestruido/top100/commit/1d2ee2cdd5f0995906682913d339daf51c110005>) data\: update top repos data \(2026\-09\-27\) — github\-actions\[bot\] (2026\-09\-27)
           - [ff24016](<https://github.com/havaianasdestruido/top100/commit/ff24016d9f46338d475a69f6652e536d72116a3b>) data\: update top repos data \(2026\-09\-26\) — github\-actions\[bot\] (2026\-09\-26)
           - [e946c7f](<https://github.com/havaianasdestruido/top100/commit/e946c7f4652fde3688fc7e2316835b68254fa032>) data\: update top repos data \(2026\-09\-26\) — github\-actions\[bot\] (2026\-09\-26)
@@ -1697,9 +1722,9 @@
           - [49c8d0c](<https://github.com/havaianasdestruido/top100/commit/49c8d0c6701b03e26ba58deb865cedc440ea919a>) data\: update top repos data \(2026\-09\-26\) — github\-actions\[bot\] (2026\-09\-26)
           - [a0d93d7](<https://github.com/havaianasdestruido/top100/commit/a0d93d704698c09eb350d6dd38e6f56658f5de4d>) data\: update top repos data \(2026\-09\-26\) — github\-actions\[bot\] (2026\-09\-26)
           - [5f70006](<https://github.com/havaianasdestruido/top100/commit/5f7000603749d37b475f9734826d6bc9dbdcd14c>) data\: update top repos data \(2026\-09\-26\) — github\-actions\[bot\] (2026\-09\-26)
-          - [e7a9059](<https://github.com/havaianasdestruido/top100/commit/e7a9059028bb3b774db87f6353df6cef6252ab3a>) data\: update top repos data \(2026\-09\-25\) — github\-actions\[bot\] (2026\-09\-25)
-          - [16822d7](<https://github.com/havaianasdestruido/top100/commit/16822d70a64e847c1f54399d8f1964cff0658bed>) data\: update top repos data \(2026\-09\-25\) — github\-actions\[bot\] (2026\-09\-25)
-        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/top100/commits/main/?after=a48b212d6b3b79b9ec2f24b956dee679b22545da+34>)
+        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/top100/commits/main/?after=b2f273be75fec726e72aa59fa1b5fb65c45ed4d8+34>)
+          - [c7665d0](<https://github.com/havaianasdestruido/top100/commit/c7665d0011c1f43d921afb8af22aad1664c51ddd>) data\: update top repos data \(2026\-09\-21\) — github\-actions\[bot\] (2026\-09\-21)
+          - [a48b212](<https://github.com/havaianasdestruido/top100/commit/a48b212d6b3b79b9ec2f24b956dee679b22545da>) data\: update top repos data \(2026\-09\-21\) — github\-actions\[bot\] (2026\-09\-21)
           - [62cdd4d](<https://github.com/havaianasdestruido/top100/commit/62cdd4dfedc004ef723890a3eb97adda10907611>) data\: update top repos data \(2026\-09\-21\) — github\-actions\[bot\] (2026\-09\-21)
           - [1fab4ce](<https://github.com/havaianasdestruido/top100/commit/1fab4ce39708cefca5ea71c432108406cdcde873>) data\: update top repos data \(2026\-09\-21\) — github\-actions\[bot\] (2026\-09\-21)
           - [623f15d](<https://github.com/havaianasdestruido/top100/commit/623f15dea9611cd851b9c4733174367b4502b4fc>) Set imgbot schedule to weekly — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
@@ -1708,8 +1733,6 @@
           - [e27e32c](<https://github.com/havaianasdestruido/top100/commit/e27e32c6300ac9d0b8681874904a6ef9b307be09>) data\: update top repos data \(2026\-09\-20\) — github\-actions\[bot\] (2026\-09\-20)
           - [00fa344](<https://github.com/havaianasdestruido/top100/commit/00fa3447ba3f3efb69ca7b4156b032e8ec661950>) data\: update top repos data \(2026\-09\-20\) — github\-actions\[bot\] (2026\-09\-20)
           - [10bf3c2](<https://github.com/havaianasdestruido/top100/commit/10bf3c202df7250171f79545ebd0d423e1b42b8f>) data\: update top repos data \(2026\-09\-20\) — github\-actions\[bot\] (2026\-09\-20)
-          - [3238f03](<https://github.com/havaianasdestruido/top100/commit/3238f03c96924197524b9faad42f8dc0952f9a1f>) Create jekyll\-gh\-pages\.yml — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-20)
-          - [00bd00a](<https://github.com/havaianasdestruido/top100/commit/00bd00a84710d2aa9695513d698b3944ab12312a>) data\: update top repos data \(2026\-09\-20\) — github\-actions\[bot\] (2026\-09\-20)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -1734,13 +1757,13 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@github\-actions\[bot\]](<https://github.com/apps/github-actions>) — 111 commit(s)
+      - [@github\-actions\[bot\]](<https://github.com/apps/github-actions>) — 113 commit(s)
       - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 23 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `HTML` — 93.5% (4,869,653 bytes)
+      - `HTML` — 93.5% (4,869,726 bytes)
       - `Python` — 3.3% (170,108 bytes)
       - `JavaScript` — 3.1% (161,810 bytes)
       - `CSS` — 0.1% (6,452 bytes)
@@ -1862,7 +1885,7 @@
   > Full decompilation of Microsoft Windows Movie Maker, extracted from a 2012 Live
   > ⭐ 1 | 🍴 0 | 👀 1 | 🐛 0 open issues | 💻 C\+\+ | 📅 Created: 2026-07-15 | 🔄 Updated: 2026-10-10
 
-    - ### 🌿 Branches (9)
+    - ### 🌿 Branches (11)
       - [arena\/b2afcea8\-windowsmoviemakerdecomp](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/arena/b2afcea8-windowsmoviemakerdecomp>) — HEAD: `06026d0`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/arena/b2afcea8-windowsmoviemakerdecomp>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/arena/b2afcea8-windowsmoviemakerdecomp>)
@@ -1909,6 +1932,52 @@
           - [5e8de77](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5e8de77078afba4337fa32ee440799c56594935c>) test\(WLXPhotoVoyager\.dll\)\: dedicated harness for 8 CLSIDs \+ 4 COM export — UltimateQuack (2026\-07\-28)
           - [3794c4c](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3794c4ca875164ebeaff78577f240aa2efedc176>) test\(WLXTranscode\.exe\)\: dedicated test harness with CLI arg fuzzing — UltimateQuack (2026\-07\-28)
           - [31a2573](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/31a25736832fbe892ddf4b416f5e99056cd0defd>) test\(WLXQuickTime\)\: dedicated harness for QuickTime control host \+ proxy — UltimateQuack (2026\-07\-28)
+      - [arena\/caeabdf4\-windowsmoviemakerdecomp](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/arena/caeabdf4-windowsmoviemakerdecomp>) — HEAD: `c7b123d`
+        - 📋 [All Commits](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/arena/caeabdf4-windowsmoviemakerdecomp>)
+        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/arena/caeabdf4-windowsmoviemakerdecomp>)
+          - [c7b123d](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/c7b123d797cb40c86d9008a50dab6a44205d8ea8>) fix\: address review findings across inventory, datetime parsing, close f — havaianasdestruido (2026\-10\-10)
+          - [8e6ee45](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8e6ee45c5d70754847175dada6f6d5e8f950ae6e>) feat\: complete remaining decomp gaps \+ 1\:1 UI shell reconstruction — havaianasdestruido (2026\-10\-10)
+          - [14d018a](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/14d018a6457044ea450a72d989de48e1a4034490>) Merge pull request \#8 from havaianasdestruido\/bolt\-x3dreader\-zero\-copy\-p — PatoFlamejanteTV (2026\-10\-10)
+          - [b955764](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b955764e7ba9ba8dcdcbadaa909b9a9bd799ff29>) Merge branch 'main' into bolt\-x3dreader\-zero\-copy\-parsing\-29826555327146 — PatoFlamejanteTV (2026\-10\-10)
+          - [797b47b](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/797b47b8f4fe1b769423de2e08a447f2441d5ad7>) ⚡ Bolt\: Eliminate large string copies in X3DReader — google\-labs\-jules\[bot\] (2026\-10\-10)
+          - [b0f33e4](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b0f33e472823362dea1217345e63442c79feaea6>) Merge pull request \#7 from havaianasdestruido\/arena\/3a45a1a0\-windowsmovi — PatoFlamejanteTV (2026\-10\-10)
+          - [d57aec6](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d57aec6abcdf206569dcbe76464e9982fcc667cf>) ⚡ Optimize homepage hero image transfer with WebP — havaianasdestruido (2026\-10\-10)
+          - [6eaae16](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/6eaae163e87df91898f299b30278dd2c3cdb013c>) Merge pull request \#6 from havaianasdestruido\/arena\/b2afcea8\-windowsmovi — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-09)
+          - [06026d0](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/06026d0ee57fb99ba35f075d22ac782348ae92fe>) Resolve all 14 TODO\(reconstruction\) audit annotations — havaianasdestruido (2026\-10\-09)
+          - [2dfe0ab](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/2dfe0abd115312f7b9e7c139136ddb0d5e3f4e59>) Merge pull request \#5 from havaianasdestruido\/arena\/01a101a4\-windowsmovi — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-03)
+        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/arena/caeabdf4-windowsmoviemakerdecomp/?after=5fa9f564cbfbe902bb9bd17f7b371ceeb0a63e1d+34>)
+          - [af63df7](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/af63df74bc3392b91e07d059b93803b71ecde26f>) feat\: real implementations for WLXMediaPublishSubscribe, WLXPipeline, WL — UltimateQuack (2026\-08\-05)
+          - [2e60efc](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/2e60efc6b2b75b3fa99be04cef6e21b5a2223f0c>) feat\: implement MetadataSys \+ WLXFaceRecognition, fix compile errors acr — UltimateQuack (2026\-08\-05)
+          - [887e185](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/887e185e2952963b5e906d5a3fd19f90e15fe9cb>) feat\: real implementations for supporting DLLs \+ add\-in ABI \+ build fixe — UltimateQuack (2026\-08\-05)
+          - [cf53c53](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/cf53c536a9d90275974f95798d389ee0d6665317>) chore\: add all new apps as submodules — UltimateQuack (2026\-08\-03)
+          - [93ba32c](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/93ba32cddc7fdc5f3ec7c95b976527b1061ba8f2>) Change Dependabot update interval to daily — havaianasdestruido (2026\-08\-03)
+          - [16ebf55](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/16ebf55f1daa9427535345da4dcc42ac0fb65d65>) refactor\: move integration test submodules under tests\/ — UltimateQuack (2026\-08\-03)
+          - [cdb3136](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/cdb313600bc88512993dabd6fc041a3d220c16f3>) chore\: point submodules at GitHub remotes — UltimateQuack (2026\-08\-03)
+          - [b7baaca](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b7baaca3cf47e83c5debaa0755065ca6d1f5800b>) submodules\: bump mmr\-cli to 0def37a and mmr\-python to 0dfddee \(full 21\-D — UltimateQuack (2026\-08\-03)
+          - [3d63162](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3d6316222f68ce86e7163f39b301ed7b272c2c93>) submodules\: bump mmr\-gui to 86e9125 \(full 21\-DLL suite browser, CI, READ — UltimateQuack (2026\-08\-03)
+          - [9a9b90c](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/9a9b90c7b7533eab171d6259eecaccb782ca61e7>) submodules\: bump mmr\-gui to 2508d97 \(UxControlsCreateObject stdcall arit — UltimateQuack (2026\-08\-03)
+        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/arena/caeabdf4-windowsmoviemakerdecomp/?after=4b66717c013872dd5ceddf4376d21e9bf96dd46f+34>)
+          - [d501108](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d5011083790d04b888110c92348f788e551a892d>) fix\: clean full\-solution Debug build — 25 binaries compile — UltimateQuack (2026\-07\-31)
+          - [a8bc47b](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a8bc47bcc3701dcda3f28012b44bb2db0371e1d2>) fix\: Legacy UI — GDI\+ modernized for Win10 SDK \(Font\/Matrix are non\-copy — UltimateQuack (2026\-07\-31)
+          - [fde4194](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/fde4194369b0da90bb2f41166d6e6c1e40c6900f>) fix\: SundanceAppDataContext — add connection\-point property notification — UltimateQuack (2026\-07\-31)
+          - [15c6919](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/15c691917238f000fd4df04079af10b1d0ae7182>) fix\: VideoProc\/TextureInterop\/SyncVideoSource — format\-aware frame pitch — UltimateQuack (2026\-07\-31)
+          - [71c58ac](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/71c58ac34c96dedf22063cf9b4060844233f0a9a>) fix\: PreviewDataContext — push property\-change notifications on presente — UltimateQuack (2026\-07\-31)
+          - [bf3b68d](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/bf3b68d3ff907784d92bd1b06d9f9b532477f754>) fix\: RibbonSites — Shutdown\(\) now resets all site state, CMRUSite guards — UltimateQuack (2026\-07\-31)
+          - [e11dec5](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/e11dec588183d07cf905c1894a8e252370a47caf>) fix\: MediaItem — type\-safe proxy transcode state machine, magic number r — UltimateQuack (2026\-07\-31)
+          - [185ecf7](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/185ecf7049f6cd09071c9a4aea6fe7c93ac99b45>) fix\: AVCapture — added null HWND check in VideoCapture\:\:StartPreview — UltimateQuack (2026\-07\-31)
+          - [0abf7b3](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/0abf7b3e5709ef636fe65e3fd2e9530dd6f2fcbe>) fix\: TimelineController — seek overflow guards, zero\-duration clamping, — UltimateQuack (2026\-07\-30)
+          - [875b13a](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/875b13acd52e19d7d93e12f62d91a01e8118dcd2>) fix\: PreviewPresenter — stop race, pause render, remove dead callback — UltimateQuack (2026\-07\-30)
+        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/arena/caeabdf4-windowsmoviemakerdecomp/?after=d5da6b40025df1e0df9c715fca060e832607b1c2+34>)
+          - [5a8fe6d](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5a8fe6de5e0990345a4c4f1a2602283ab101c193>) WLXAlbumDownloadWizard\: add test harness — UltimateQuack (2026\-07\-28)
+          - [bc20aa3](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/bc20aa3523e7e9910e917935403fa9064607ad65>) WLFacebookPlugin\: add analysis — UltimateQuack (2026\-07\-28)
+          - [4549eb7](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4549eb77de66a3cf34e141df91e28e08731ea663>) wlidux \(Shared\)\: add analysis — UltimateQuack (2026\-07\-28)
+          - [f67702b](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/f67702be4f3599fa2aa1360dc81af325a699ec33>) Shared\: add test harness — UltimateQuack (2026\-07\-28)
+          - [3154b52](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3154b52dc92d7b108d0f58ca507058cf59721fd4>) WLAVRes \(Shared\)\: add analysis — UltimateQuack (2026\-07\-28)
+          - [a0c8c4c](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a0c8c4c34459a33deb1957cfd48458006685c961>) PhotoViewerShimx64\: add analysis — UltimateQuack (2026\-07\-28)
+          - [473a2a3](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/473a2a3bd0076c387c5cb820de396cd12db11488>) MovieMakerCore\: add raw data dumps — UltimateQuack (2026\-07\-28)
+          - [4868658](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4868658a46edaa3d6db2314200abc20c685f55d2>) MovieMakerExe\: update analysis\.md — UltimateQuack (2026\-07\-28)
+          - [863d64a](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/863d64a44c8f7cda5d34e80e2f0dcb0ce2838287>) cleanup\: remove debug artifact test\_minimal\.c — UltimateQuack (2026\-07\-28)
+          - [baaa467](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/baaa467748633fc755c3a29b32dd3f65e615b9e6>) test\(WLXVideoAcquireWizard\.exe\)\: dedicated test harness — UltimateQuack (2026\-07\-28)
       - [arena\/01a0fd75\-windowsmoviemakerdecomp](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/arena/01a0fd75-windowsmoviemakerdecomp>) — HEAD: `4a2ece5`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/arena/01a0fd75-windowsmoviemakerdecomp>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/arena/01a0fd75-windowsmoviemakerdecomp>)
@@ -2093,6 +2162,52 @@
           - [cfddcdf](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/cfddcdf0d036abbd5010ea85840386108ce4838a>) test\(WLXCodecHost\.exe\)\: dedicated test harness — UltimateQuack (2026\-07\-28)
           - [89a5077](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/89a507722810c7ab7933b4ba7048cccd0ee8e287>) test\(WLXPhotoLibraryDatabase\.dll\)\: dedicated test harness for 17 exports — UltimateQuack (2026\-07\-28)
           - [5e8de77](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5e8de77078afba4337fa32ee440799c56594935c>) test\(WLXPhotoVoyager\.dll\)\: dedicated harness for 8 CLSIDs \+ 4 COM export — UltimateQuack (2026\-07\-28)
+      - [arena\/06d342b1\-windowsmoviemakerdecomp](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/arena/06d342b1-windowsmoviemakerdecomp>) — HEAD: `e09d88a`
+        - 📋 [All Commits](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/arena/06d342b1-windowsmoviemakerdecomp>)
+        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/arena/06d342b1-windowsmoviemakerdecomp>)
+          - [e09d88a](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/e09d88a7a3aca3a03af274f55d62349ad3c5f2ba>) Audit pass\: fix contract violations \+ restore reference export parity — havaianasdestruido (2026\-10\-10)
+          - [55cdc65](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/55cdc651b544996aba78ed692595cb20316b55a1>) Merge pull request \#9 from havaianasdestruido\/arena\/caeabdf4\-windowsmovi — PatoFlamejanteTV (2026\-10\-10)
+          - [c7b123d](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/c7b123d797cb40c86d9008a50dab6a44205d8ea8>) fix\: address review findings across inventory, datetime parsing, close f — havaianasdestruido (2026\-10\-10)
+          - [8e6ee45](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8e6ee45c5d70754847175dada6f6d5e8f950ae6e>) feat\: complete remaining decomp gaps \+ 1\:1 UI shell reconstruction — havaianasdestruido (2026\-10\-10)
+          - [14d018a](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/14d018a6457044ea450a72d989de48e1a4034490>) Merge pull request \#8 from havaianasdestruido\/bolt\-x3dreader\-zero\-copy\-p — PatoFlamejanteTV (2026\-10\-10)
+          - [b955764](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b955764e7ba9ba8dcdcbadaa909b9a9bd799ff29>) Merge branch 'main' into bolt\-x3dreader\-zero\-copy\-parsing\-29826555327146 — PatoFlamejanteTV (2026\-10\-10)
+          - [797b47b](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/797b47b8f4fe1b769423de2e08a447f2441d5ad7>) ⚡ Bolt\: Eliminate large string copies in X3DReader — google\-labs\-jules\[bot\] (2026\-10\-10)
+          - [b0f33e4](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b0f33e472823362dea1217345e63442c79feaea6>) Merge pull request \#7 from havaianasdestruido\/arena\/3a45a1a0\-windowsmovi — PatoFlamejanteTV (2026\-10\-10)
+          - [d57aec6](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d57aec6abcdf206569dcbe76464e9982fcc667cf>) ⚡ Optimize homepage hero image transfer with WebP — havaianasdestruido (2026\-10\-10)
+          - [6eaae16](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/6eaae163e87df91898f299b30278dd2c3cdb013c>) Merge pull request \#6 from havaianasdestruido\/arena\/b2afcea8\-windowsmovi — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-09)
+        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/arena/06d342b1-windowsmoviemakerdecomp/?after=1e8baa6e3283444e5d3e2951ae91cdd500f97580+34>)
+          - [62351dc](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/62351dc50d5fbb5857bf520dad23d128ddf65b47>) Create README\.md — Pato \(new acc\) (2026\-09\-13)
+          - [5fa9f56](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5fa9f564cbfbe902bb9bd17f7b371ceeb0a63e1d>) feat\: implement UXCore resource\/layout\/element stubs, export 4 DLL API s — havaianasdestruido (2026\-09\-13)
+          - [af63df7](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/af63df74bc3392b91e07d059b93803b71ecde26f>) feat\: real implementations for WLXMediaPublishSubscribe, WLXPipeline, WL — UltimateQuack (2026\-08\-05)
+          - [2e60efc](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/2e60efc6b2b75b3fa99be04cef6e21b5a2223f0c>) feat\: implement MetadataSys \+ WLXFaceRecognition, fix compile errors acr — UltimateQuack (2026\-08\-05)
+          - [887e185](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/887e185e2952963b5e906d5a3fd19f90e15fe9cb>) feat\: real implementations for supporting DLLs \+ add\-in ABI \+ build fixe — UltimateQuack (2026\-08\-05)
+          - [cf53c53](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/cf53c536a9d90275974f95798d389ee0d6665317>) chore\: add all new apps as submodules — UltimateQuack (2026\-08\-03)
+          - [93ba32c](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/93ba32cddc7fdc5f3ec7c95b976527b1061ba8f2>) Change Dependabot update interval to daily — havaianasdestruido (2026\-08\-03)
+          - [16ebf55](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/16ebf55f1daa9427535345da4dcc42ac0fb65d65>) refactor\: move integration test submodules under tests\/ — UltimateQuack (2026\-08\-03)
+          - [cdb3136](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/cdb313600bc88512993dabd6fc041a3d220c16f3>) chore\: point submodules at GitHub remotes — UltimateQuack (2026\-08\-03)
+          - [b7baaca](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b7baaca3cf47e83c5debaa0755065ca6d1f5800b>) submodules\: bump mmr\-cli to 0def37a and mmr\-python to 0dfddee \(full 21\-D — UltimateQuack (2026\-08\-03)
+        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/arena/06d342b1-windowsmoviemakerdecomp/?after=0f5dccc479a8f73256e0ad9db18d6bfae55b552f+34>)
+          - [299cbbc](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/299cbbc6d8e1daeb8737a7ff145e47f30bf2493a>) fix\: WLXPhotoBase — eliminate Exception allocation leak in Throw — UltimateQuack (2026\-07\-31)
+          - [4b66717](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4b66717c013872dd5ceddf4376d21e9bf96dd46f>) fix\: WLXCodecHost \- free argv in all paths, use nothrow new for bitmap — UltimateQuack (2026\-07\-31)
+          - [d501108](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d5011083790d04b888110c92348f788e551a892d>) fix\: clean full\-solution Debug build — 25 binaries compile — UltimateQuack (2026\-07\-31)
+          - [a8bc47b](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a8bc47bcc3701dcda3f28012b44bb2db0371e1d2>) fix\: Legacy UI — GDI\+ modernized for Win10 SDK \(Font\/Matrix are non\-copy — UltimateQuack (2026\-07\-31)
+          - [fde4194](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/fde4194369b0da90bb2f41166d6e6c1e40c6900f>) fix\: SundanceAppDataContext — add connection\-point property notification — UltimateQuack (2026\-07\-31)
+          - [15c6919](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/15c691917238f000fd4df04079af10b1d0ae7182>) fix\: VideoProc\/TextureInterop\/SyncVideoSource — format\-aware frame pitch — UltimateQuack (2026\-07\-31)
+          - [71c58ac](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/71c58ac34c96dedf22063cf9b4060844233f0a9a>) fix\: PreviewDataContext — push property\-change notifications on presente — UltimateQuack (2026\-07\-31)
+          - [bf3b68d](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/bf3b68d3ff907784d92bd1b06d9f9b532477f754>) fix\: RibbonSites — Shutdown\(\) now resets all site state, CMRUSite guards — UltimateQuack (2026\-07\-31)
+          - [e11dec5](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/e11dec588183d07cf905c1894a8e252370a47caf>) fix\: MediaItem — type\-safe proxy transcode state machine, magic number r — UltimateQuack (2026\-07\-31)
+          - [185ecf7](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/185ecf7049f6cd09071c9a4aea6fe7c93ac99b45>) fix\: AVCapture — added null HWND check in VideoCapture\:\:StartPreview — UltimateQuack (2026\-07\-31)
+        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/arena/06d342b1-windowsmoviemakerdecomp/?after=9f19df165a6ae1eb177de8da076906694980fb3f+34>)
+          - [7a4e55b](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/7a4e55bf28fe1039ef78adf3ecb6f2ee04d2e85b>) WLXPhotoBase\: add test harness — UltimateQuack (2026\-07\-28)
+          - [d5da6b4](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d5da6b40025df1e0df9c715fca060e832607b1c2>) WLXDSPA\: add test harness — UltimateQuack (2026\-07\-28)
+          - [5a8fe6d](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5a8fe6de5e0990345a4c4f1a2602283ab101c193>) WLXAlbumDownloadWizard\: add test harness — UltimateQuack (2026\-07\-28)
+          - [bc20aa3](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/bc20aa3523e7e9910e917935403fa9064607ad65>) WLFacebookPlugin\: add analysis — UltimateQuack (2026\-07\-28)
+          - [4549eb7](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4549eb77de66a3cf34e141df91e28e08731ea663>) wlidux \(Shared\)\: add analysis — UltimateQuack (2026\-07\-28)
+          - [f67702b](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/f67702be4f3599fa2aa1360dc81af325a699ec33>) Shared\: add test harness — UltimateQuack (2026\-07\-28)
+          - [3154b52](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3154b52dc92d7b108d0f58ca507058cf59721fd4>) WLAVRes \(Shared\)\: add analysis — UltimateQuack (2026\-07\-28)
+          - [a0c8c4c](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a0c8c4c34459a33deb1957cfd48458006685c961>) PhotoViewerShimx64\: add analysis — UltimateQuack (2026\-07\-28)
+          - [473a2a3](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/473a2a3bd0076c387c5cb820de396cd12db11488>) MovieMakerCore\: add raw data dumps — UltimateQuack (2026\-07\-28)
+          - [4868658](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4868658a46edaa3d6db2314200abc20c685f55d2>) MovieMakerExe\: update analysis\.md — UltimateQuack (2026\-07\-28)
       - [bolt\-x3dreader\-zero\-copy\-parsing\-2982655532714649705](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/bolt-x3dreader-zero-copy-parsing-2982655532714649705>) — HEAD: `b955764`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/bolt-x3dreader-zero-copy-parsing-2982655532714649705>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/bolt-x3dreader-zero-copy-parsing-2982655532714649705>)
@@ -2139,99 +2254,7 @@
           - [614f48e](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/614f48ee102e9fc44b14965579e3cb8eea14abc2>) test\(wlxclip\.dll\)\: dedicated test harness for clipboard exports — UltimateQuack (2026\-07\-28)
           - [cdae0f4](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/cdae0f4052ef01644b9cb09cfe0b85ba874dcece>) Revert "test\(WLXCodecHost\.exe\)\: dedicated test harness" — UltimateQuack (2026\-07\-28)
           - [81619d0](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/81619d06e7edd2a40903adc34659622265d6818d>) test\(WLXCodecHostPS\.dll\)\: dedicated test harness — UltimateQuack (2026\-07\-28)
-      - [codex\/add\-todos\-to\-unfinished\-code](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/codex/add-todos-to-unfinished-code>) — HEAD: `0587ed0`
-        - 📋 [All Commits](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/codex/add-todos-to-unfinished-code>)
-        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/codex/add-todos-to-unfinished-code>)
-          - [0587ed0](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/0587ed0e3fa7c578dfba5e54ec0f5f2dfcacc186>) Add reconstruction TODO audit annotations — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-22)
-          - [6ade6bf](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/6ade6bf4e75edb026978b4779b11e6bfe622e087>) Set imgbot schedule to weekly — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
-          - [18892fc](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/18892fc883f2e3d411384532a3baf6e95c2c06fd>) Add \.imgbotconfig for aggressive image compression — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
-          - [d570944](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d57094460078a84b7616959b6c633dae90c07913>) docs\: add star history chart — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-20)
-          - [fb99b15](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/fb99b156973ee401023b9fd8d2d76efb02d0196f>) Create sync\.yml — Pato \(new acc\) (2026\-09\-20)
-          - [60d0425](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/60d0425bb8edbdc09cf17c69ae37ebb00ea6ce38>) Create LICENSE — Pato \(new acc\) (2026\-09\-18)
-          - [7afcd87](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/7afcd87f0f18ed9195664e37e7193b124a2995d9>) docs\: add canonical AGENTS\.md agent instructions plus CLAUDE\.md\/AI\.md po — havaianasdestruido (2026\-09\-17)
-          - [a86ba27](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a86ba2793d691bf6f04018fec0d88e2bf3d7af56>) feat\: harden untrusted input paths, DPAPI credential store, fix S\_FALSE — havaianasdestruido (2026\-09\-17)
-          - [e27f4f1](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/e27f4f14a20c2ec81d68b393bdc23d90b6eae26e>) Add comprehensive labeler configuration for massive decompilation projec — Pato \(new acc\) (2026\-09\-13)
-          - [db14118](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/db141182d3e37357f670b63568257fba11624596>) Create label\.yml — Pato \(new acc\) (2026\-09\-13)
-        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/codex/add-todos-to-unfinished-code/?after=6a1c6f78c9460d44f7b2af4f67757dd8b13cda33+34>)
-          - [5294975](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5294975c3789df7114e4ff47bbeec58f8e5b1614>) fix\: WLXSlideshow — initialize GdiplusStartupInput to avoid uninitialize — UltimateQuack (2026\-07\-31)
-          - [567ee7a](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/567ee7a870df0e8d7fc0aa689d50570cf0029b41>) fix\: WLXPhotoCinematic — prevent division by zero, init GDI\+ correctly, — UltimateQuack (2026\-07\-31)
-          - [3935677](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/393567714da9f0c5d05ea0dca24535e178645e29>) fix\: WLXMovieLibrary — invalidate thumbnail releases bitmap — UltimateQuack (2026\-07\-31)
-          - [8a634b2](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8a634b2ee09e21921b19ebd744e66f5b01743a33>) fix\: WLXMediaPublishSubscribe — remove invalid WinInet cleanup — UltimateQuack (2026\-07\-31)
-          - [15d65d1](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/15d65d18fd84a0f5e0bb8aa186863f9f2969893c>) fix\: WLXMP4Parser — proper box size handling and null check — UltimateQuack (2026\-07\-31)
-          - [be0ddbf](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/be0ddbf853811bd1c1578248619f456dc17bd2df>) fix\: WLXFaceRecognition — initialize GdiplusStartupInput, guard histogra — UltimateQuack (2026\-07\-31)
-          - [2838048](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/283804800f570ed8ffa589256d4c3362b2d41ffa>) fix\: WLXCodecHost — added exit\-event failure handling and cleanup label — UltimateQuack (2026\-07\-31)
-          - [dd51b80](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/dd51b804cd9dce6bc14f5515ac9345113450575f>) fix\: MovieMakerLang — resolve resource ID conflicts, add missing string — UltimateQuack (2026\-07\-31)
-          - [5ee02eb](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5ee02eb5907eb00dc96a5995f7fc78c84d819cfe>) fix\: MovieMakerCore — remove duplicate AppCommandIds enum — UltimateQuack (2026\-07\-31)
-          - [11a2369](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/11a23691d1cbef7134033cf9a303b5a1828f06da>) fix\: GPURenderer — added missing m\_pContext null checks — UltimateQuack (2026\-07\-31)
-        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/codex/add-todos-to-unfinished-code/?after=386fd6eb3d0b22b4e141fa237d514c84ca07bcba+34>)
-          - [f42bef2](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/f42bef2ba7ab98ea32f7ac8f7981bbf65944ae6e>) Phase 3\: UXCore rendering pipeline &amp; layout engine — UltimateQuack (2026\-07\-29)
-          - [9c9c6ba](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/9c9c6ba4fdb49a56e242b16950beb81c781bcc49>) Full UXCore sprint\: DirectUI stub framework, build fixes, resource infra — UltimateQuack (2026\-07\-29)
-          - [e24afc2](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/e24afc23991f2f6f810350d347bd84f8458b1d81>) Add WLXPhotoSqm\.dll stub \(44 SQM telemetry exports\) — UltimateQuack (2026\-07\-29)
-          - [3cff752](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3cff7529fa5c79cf66f2b29b3d76bc035960a484>) Add wlidcli\.dll stub \(7 ordinal exports for Live ID auth\) — UltimateQuack (2026\-07\-29)
-          - [6bf32c8](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/6bf32c8c63edcbc6619139c9b8730e4a12a77646>) Add uxctl\.dll stub \(Windows Live UI Controls factory\) — UltimateQuack (2026\-07\-29)
-          - [7a6edee](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/7a6edee567a39ea34eb95ea2ea0ff72749168632>) Add UXCore\.dll stub \(DirectUI framework init\/class factory\) — UltimateQuack (2026\-07\-29)
-          - [f923813](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/f9238135b10eac26d292a5ed3f3e9f0e53adb6eb>) Add MetadataSys\.dll stub \(WLXPSGetItemPropertyHandler \+ COM\) — UltimateQuack (2026\-07\-29)
-          - [96befe2](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/96befe268dd5f7909e0d8ce47878e661425a596d>) Add DmxBici\.dll stub \(19 BICI telemetry exports\) — UltimateQuack (2026\-07\-29)
-          - [ae840f7](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/ae840f7dba47969f0a8ef0318a485b7b487fb04b>) Fix \.def files and add delay\-load for UXCore\/uxctl — UltimateQuack (2026\-07\-29)
-          - [94fc8cb](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/94fc8cbf8cd2f37dca1502583502d087b1b4ad0e>) wlsoxe\: add test harness — UltimateQuack (2026\-07\-29)
-        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/codex/add-todos-to-unfinished-code/?after=23bfa1a3f072230d822b72b724be79a8b505f482+34>)
-          - [2857f48](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/2857f488f9e2ad250f8302bbbdab260b0c518a46>) test\(WLXImageTranscode\.dll\)\: dedicated test harness — UltimateQuack (2026\-07\-28)
-          - [59ae83f](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/59ae83f6eb2a0e545cf72f46f3fbce13052b6ad6>) test\(WLXPhotoLibraryMain\.dll\)\: dedicated test harness — UltimateQuack (2026\-07\-28)
-          - [986b4ee](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/986b4ee87de6b92e6ba083688ff4e990041019f1>) test\(WLXGrinderScheduler\.dll\)\: dedicated test harness — UltimateQuack (2026\-07\-28)
-          - [8510a6a](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8510a6a0c74dfec99bd050a71a083e41f472c747>) test\(WLXPhotoAcq\.dll\)\: dedicated test harness — UltimateQuack (2026\-07\-28)
-          - [3e360c9](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3e360c9be3e74d75d21eb587889a9a23aa8c0d4b>) test\(WLXPhotoSqm\.dll\)\: dedicated harness testing all 44 SQM exports — UltimateQuack (2026\-07\-28)
-          - [4cbc521](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4cbc521ee1151cb90735b3ff74177fd57bb60484>) test\(WLXPhotoClassic\.dll\)\: dedicated test harness with build\.bat — UltimateQuack (2026\-07\-28)
-          - [46e3503](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/46e35032cfcf94b71111874f0d370b0f75dfa2d1>) analysis\(AlbumDownloadProtocolHandler\.dll\)\: protocol handler, wlalbumdow — UltimateQuack (2026\-07\-28)
-          - [e0f3dc3](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/e0f3dc37f3b7624c2debf4f590a9154d1efe3163>) analysis\(WLFlickrPlugin\.dll\)\: Flickr publish plugin, REST API, OAuth flo — UltimateQuack (2026\-07\-28)
-          - [87755dc](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/87755dc0b291c2308f7bf6e2ebaa832b8b4eb897>) analysis\(Shared telemetry\)\: sqmapi\+wlbici\+wldcore\+wldlog \- WL infrastruc — UltimateQuack (2026\-07\-28)
-          - [e029529](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/e0295298967cdb77e26658e6cc20969ad90e133c>) analysis\(WLXPhotoViewer\.dll\)\: 284 RTTI classes, Easel codename, LaunchVi — UltimateQuack (2026\-07\-28)
-      - [codex\/add\-workflows\-for\-project\-builds](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/tree/codex/add-workflows-for-project-builds>) — HEAD: `8b29433`
-        - 📋 [All Commits](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/codex/add-workflows-for-project-builds>)
-        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/codex/add-workflows-for-project-builds>)
-          - [8b29433](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8b29433062320266ed913539ec6848fd1f2690b8>) ci\: pin Visual Studio 2022 runner — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-22)
-          - [a129e04](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a129e04a21227883e148e93ac852cf47054e71ae>) ci\: build each CMake project — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-22)
-          - [313c023](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/313c023f9836d854d2fd05fe5b10b93667b67db3>) Merge pull request \#1 from havaianasdestruido\/codex\/add\-todos\-to\-unfinis — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-22)
-          - [0587ed0](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/0587ed0e3fa7c578dfba5e54ec0f5f2dfcacc186>) Add reconstruction TODO audit annotations — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-22)
-          - [6ade6bf](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/6ade6bf4e75edb026978b4779b11e6bfe622e087>) Set imgbot schedule to weekly — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
-          - [18892fc](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/18892fc883f2e3d411384532a3baf6e95c2c06fd>) Add \.imgbotconfig for aggressive image compression — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
-          - [d570944](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d57094460078a84b7616959b6c633dae90c07913>) docs\: add star history chart — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-20)
-          - [fb99b15](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/fb99b156973ee401023b9fd8d2d76efb02d0196f>) Create sync\.yml — Pato \(new acc\) (2026\-09\-20)
-          - [60d0425](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/60d0425bb8edbdc09cf17c69ae37ebb00ea6ce38>) Create LICENSE — Pato \(new acc\) (2026\-09\-18)
-          - [7afcd87](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/7afcd87f0f18ed9195664e37e7193b124a2995d9>) docs\: add canonical AGENTS\.md agent instructions plus CLAUDE\.md\/AI\.md po — havaianasdestruido (2026\-09\-17)
-        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/codex/add-workflows-for-project-builds/?after=f033f2dd972960a4d643688ec037abd59b232cf4+34>)
-          - [ef9b0c4](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/ef9b0c474f8f3af2591dd3cd36e7381a33f6e6c2>) test\: rust — basic DLL loading — UltimateQuack (2026\-08\-01)
-          - [327e607](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/327e6072caef4364bbb4eb772bb9d3e9be7cf132>) test — UltimateQuack (2026\-08\-01)
-          - [6a1c6f7](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/6a1c6f78c9460d44f7b2af4f67757dd8b13cda33>) fix\: WLXVideoTrim — abort DLL load if COM init fails — UltimateQuack (2026\-07\-31)
-          - [5294975](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5294975c3789df7114e4ff47bbeec58f8e5b1614>) fix\: WLXSlideshow — initialize GdiplusStartupInput to avoid uninitialize — UltimateQuack (2026\-07\-31)
-          - [567ee7a](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/567ee7a870df0e8d7fc0aa689d50570cf0029b41>) fix\: WLXPhotoCinematic — prevent division by zero, init GDI\+ correctly, — UltimateQuack (2026\-07\-31)
-          - [3935677](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/393567714da9f0c5d05ea0dca24535e178645e29>) fix\: WLXMovieLibrary — invalidate thumbnail releases bitmap — UltimateQuack (2026\-07\-31)
-          - [8a634b2](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8a634b2ee09e21921b19ebd744e66f5b01743a33>) fix\: WLXMediaPublishSubscribe — remove invalid WinInet cleanup — UltimateQuack (2026\-07\-31)
-          - [15d65d1](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/15d65d18fd84a0f5e0bb8aa186863f9f2969893c>) fix\: WLXMP4Parser — proper box size handling and null check — UltimateQuack (2026\-07\-31)
-          - [be0ddbf](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/be0ddbf853811bd1c1578248619f456dc17bd2df>) fix\: WLXFaceRecognition — initialize GdiplusStartupInput, guard histogra — UltimateQuack (2026\-07\-31)
-          - [2838048](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/283804800f570ed8ffa589256d4c3362b2d41ffa>) fix\: WLXCodecHost — added exit\-event failure handling and cleanup label — UltimateQuack (2026\-07\-31)
-        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/codex/add-workflows-for-project-builds/?after=75025ce518daeb7c7d94fdb3f44dceedeb0d140f+34>)
-          - [7702892](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/7702892246bc6c653a289a0403d0061d9a36aa65>) Switch ProjectManager to pure C\+\+ XML serialization \(remove tinyxml2\), a — UltimateQuack (2026\-07\-30)
-          - [362e4b5](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/362e4b523fd61c820d3f715eea4ce6f3c9a87660>) Full UI implementation – rendering, layout, event system, control text, — UltimateQuack (2026\-07\-30)
-          - [386fd6e](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/386fd6eb3d0b22b4e141fa237d514c84ca07bcba>) Phase 4\: event system, control rendering, dialog hosting — UltimateQuack (2026\-07\-29)
-          - [f42bef2](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/f42bef2ba7ab98ea32f7ac8f7981bbf65944ae6e>) Phase 3\: UXCore rendering pipeline &amp; layout engine — UltimateQuack (2026\-07\-29)
-          - [9c9c6ba](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/9c9c6ba4fdb49a56e242b16950beb81c781bcc49>) Full UXCore sprint\: DirectUI stub framework, build fixes, resource infra — UltimateQuack (2026\-07\-29)
-          - [e24afc2](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/e24afc23991f2f6f810350d347bd84f8458b1d81>) Add WLXPhotoSqm\.dll stub \(44 SQM telemetry exports\) — UltimateQuack (2026\-07\-29)
-          - [3cff752](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3cff7529fa5c79cf66f2b29b3d76bc035960a484>) Add wlidcli\.dll stub \(7 ordinal exports for Live ID auth\) — UltimateQuack (2026\-07\-29)
-          - [6bf32c8](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/6bf32c8c63edcbc6619139c9b8730e4a12a77646>) Add uxctl\.dll stub \(Windows Live UI Controls factory\) — UltimateQuack (2026\-07\-29)
-          - [7a6edee](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/7a6edee567a39ea34eb95ea2ea0ff72749168632>) Add UXCore\.dll stub \(DirectUI framework init\/class factory\) — UltimateQuack (2026\-07\-29)
-          - [f923813](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/f9238135b10eac26d292a5ed3f3e9f0e53adb6eb>) Add MetadataSys\.dll stub \(WLXPSGetItemPropertyHandler \+ COM\) — UltimateQuack (2026\-07\-29)
-        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commits/codex/add-workflows-for-project-builds/?after=7dcb32360677c59c404b88078925b54ca6e3ae4a+34>)
-          - [88e16fc](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/88e16fcbdf4100e56afc12946768a42f76f75885>) test\(WLXVAFilt\.dll\)\: dedicated test harness — UltimateQuack (2026\-07\-28)
-          - [4c15053](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4c150535406cb913cfb0d619bb9113f63816c15a>) test\(WLXPhotoViewer\.dll\)\: dedicated harness for 6 exports \+ COM probing — UltimateQuack (2026\-07\-28)
-          - [23bfa1a](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/23bfa1a3f072230d822b72b724be79a8b505f482>) test\(AlbumDownloadProtocolHandler\.dll\)\: dedicated test harness — UltimateQuack (2026\-07\-28)
-          - [2857f48](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/2857f488f9e2ad250f8302bbbdab260b0c518a46>) test\(WLXImageTranscode\.dll\)\: dedicated test harness — UltimateQuack (2026\-07\-28)
-          - [59ae83f](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/59ae83f6eb2a0e545cf72f46f3fbce13052b6ad6>) test\(WLXPhotoLibraryMain\.dll\)\: dedicated test harness — UltimateQuack (2026\-07\-28)
-          - [986b4ee](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/986b4ee87de6b92e6ba083688ff4e990041019f1>) test\(WLXGrinderScheduler\.dll\)\: dedicated test harness — UltimateQuack (2026\-07\-28)
-          - [8510a6a](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8510a6a0c74dfec99bd050a71a083e41f472c747>) test\(WLXPhotoAcq\.dll\)\: dedicated test harness — UltimateQuack (2026\-07\-28)
-          - [3e360c9](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/3e360c9be3e74d75d21eb587889a9a23aa8c0d4b>) test\(WLXPhotoSqm\.dll\)\: dedicated harness testing all 44 SQM exports — UltimateQuack (2026\-07\-28)
-          - [4cbc521](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4cbc521ee1151cb90735b3ff74177fd57bb60484>) test\(WLXPhotoClassic\.dll\)\: dedicated test harness with build\.bat — UltimateQuack (2026\-07\-28)
-          - [46e3503](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/46e35032cfcf94b71111874f0d370b0f75dfa2d1>) analysis\(AlbumDownloadProtocolHandler\.dll\)\: protocol handler, wlalbumdow — UltimateQuack (2026\-07\-28)
-      - …and 1 more — [View all branches](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/branches>)
+      - …and 3 more — [View all branches](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/branches>)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -2239,7 +2262,11 @@
 
     - ### 🔀 Pull Requests
       - **Open PRs** (0)
-      - **Closed PRs** (8)
+      - **Closed PRs** (9)
+        - ✅ Merged [\#9 Complete remaining decompilation gaps \+ 1\:1 UI shell reconst](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/pull/9>) — havaianasdestruido (2026\-10\-10) `arena/caeabdf4-windowsmoviemakerdecomp` → `main`
+          - 📝 2 commit(s) in this PR
+            - [8e6ee45](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8e6ee45c5d70754847175dada6f6d5e8f950ae6e>) feat\: complete remaining decomp gaps \+ 1\:1 UI shell reconstr
+            - [c7b123d](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/c7b123d797cb40c86d9008a50dab6a44205d8ea8>) fix\: address review findings across inventory, datetime pars
         - ✅ Merged [\#8 ⚡ Bolt\: Eliminate large string copies in X3DReader](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/pull/8>) — havaianasdestruido (2026\-10\-10) `bolt-x3dreader-zero-copy-parsing-2982655532714649705` → `main`
           - 📝 2 commit(s) in this PR
             - [797b47b](<https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/797b47b8f4fe1b769423de2e08a447f2441d5ad7>) ⚡ Bolt\: Eliminate large string copies in X3DReader
@@ -2276,18 +2303,18 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 31 commit(s)
+      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 34 commit(s)
       - [@google\-labs\-jules\[bot\]](<https://github.com/apps/google-labs-jules>) — 1 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `C++` — 90.9% (6,330,899 bytes)
-      - `Python` — 4.3% (299,173 bytes)
+      - `C++` — 90.6% (6,394,951 bytes)
+      - `Python` — 4.2% (299,173 bytes)
       - `C` — 2.5% (174,028 bytes)
-      - `CMake` — 0.7% (45,610 bytes)
+      - `HTML` — 0.9% (62,228 bytes)
+      - `CMake` — 0.6% (45,653 bytes)
       - `CSS` — 0.6% (42,602 bytes)
-      - `HTML` — 0.4% (27,168 bytes)
       - `C#` — 0.2% (15,287 bytes)
       - `Batchfile` — 0.2% (13,954 bytes)
       - `JavaScript` — 0.1% (10,107 bytes)
@@ -2604,12 +2631,22 @@
 
 - ## [BloodAndBacon\-DnSpyEx](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx>)
   > Decompile of Blood &amp; Bacon made using DnSpyEx\.
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C\# | 📅 Created: 2026-08-12 | 🔄 Updated: 2026-09-21
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C\# | 📅 Created: 2026-08-12 | 🔄 Updated: 2026-10-10
 
-    - ### 🌿 Branches (1)
-      - [main](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/tree/main>) _(default)_ — HEAD: `5ec8cce`
+    - ### 🌿 Branches (2)
+      - [bolt\-perf\-vector3\-4048617450725827117](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/tree/bolt-perf-vector3-4048617450725827117>) — HEAD: `5cf7b85`
+        - 📋 [All Commits](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commits/bolt-perf-vector3-4048617450725827117>)
+        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commits/bolt-perf-vector3-4048617450725827117>)
+          - [5cf7b85](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/5cf7b856d6e7452e12ca1e501be5ee587fe2197c>) ⚡ Bolt\: Optimize Vector3\.Distance to Vector3\.DistanceSquared — google\-labs\-jules\[bot\] (2026\-10\-10)
+          - [5ec8cce](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/5ec8ccea7b86163a2fafe6e6be0c90955b1f345c>) Set imgbot schedule to weekly — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
+          - [58e3cd9](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/58e3cd9c16e0283b3c653a852d175c0e38f5fc7b>) Add \.imgbotconfig for aggressive image compression — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
+          - [a3d6e8e](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/a3d6e8e0b015893a8a080e50cd6f5dc3353d48ec>) Add MIT License — Pato \(new acc\) (2026\-09\-18)
+          - [0813bc7](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/0813bc7bffd7af5680e338235220396ab306964f>) init — havaianasdestruido (2026\-08\-12)
+      - [main](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/tree/main>) _(default)_ — HEAD: `6ff4976`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commits/main>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commits/main>)
+          - [6ff4976](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/6ff4976cf9387aca968ddcb2ebbbc78b73fde4ec>) Merge pull request \#1 from havaianasdestruido\/bolt\-perf\-vector3\-40486174 — PatoFlamejanteTV (2026\-10\-10)
+          - [5cf7b85](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/5cf7b856d6e7452e12ca1e501be5ee587fe2197c>) ⚡ Bolt\: Optimize Vector3\.Distance to Vector3\.DistanceSquared — google\-labs\-jules\[bot\] (2026\-10\-10)
           - [5ec8cce](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/5ec8ccea7b86163a2fafe6e6be0c90955b1f345c>) Set imgbot schedule to weekly — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
           - [58e3cd9](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/58e3cd9c16e0283b3c653a852d175c0e38f5fc7b>) Add \.imgbotconfig for aggressive image compression — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
           - [a3d6e8e](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/a3d6e8e0b015893a8a080e50cd6f5dc3353d48ec>) Add MIT License — Pato \(new acc\) (2026\-09\-18)
@@ -2621,7 +2658,10 @@
 
     - ### 🔀 Pull Requests
       - **Open PRs** (0)
-      - **Closed PRs** (0)
+      - **Closed PRs** (1)
+        - ✅ Merged [\#1 ⚡ Bolt\: Optimize Vector3\.Distance to Vector3\.DistanceSquared](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/pull/1>) — havaianasdestruido (2026\-10\-10) `bolt-perf-vector3-4048617450725827117` → `main`
+          - 📝 1 commit(s) in this PR
+            - [5cf7b85](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/5cf7b856d6e7452e12ca1e501be5ee587fe2197c>) ⚡ Bolt\: Optimize Vector3\.Distance to Vector3\.DistanceSquared
 
     - ### 🍴 Forks (0)
 
@@ -2629,13 +2669,14 @@
 
     - ### 👀 Watchers / Subscribers (0)
 
-    - ### 👥 Contributors (1)
-      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 4 commit(s)
+    - ### 👥 Contributors (2)
+      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 5 commit(s)
+      - [@google\-labs\-jules\[bot\]](<https://github.com/apps/google-labs-jules>) — 1 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `C#` — 100.0% (11,557,836 bytes)
+      - `C#` — 100.0% (11,558,304 bytes)
 
 ---
 
@@ -3602,9 +3643,11 @@
           - [b90f4e8](<https://github.com/havaianasdestruido/eleicoes-data/commit/b90f4e8d553e37a6caec61aa4b19cb981c4883ca>) chore\: add \.gitignore, drop committed \_\_pycache\_\_ artifacts — havaianasdestruido (2026\-10\-05)
           - [0905f2f](<https://github.com/havaianasdestruido/eleicoes-data/commit/0905f2f879bfc54e21921380632c0e19e42e941d>) Add TSE presidential results scraper \+ every\-minute GitHub Actions workf — havaianasdestruido (2026\-10\-05)
           - [0a42fe9](<https://github.com/havaianasdestruido/eleicoes-data/commit/0a42fe997b1239ec53318820f1371e2d88babf47>) Initial commit — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-04)
-      - [main](<https://github.com/havaianasdestruido/eleicoes-data/tree/main>) _(default)_ — HEAD: `8df0d14`
+      - [main](<https://github.com/havaianasdestruido/eleicoes-data/tree/main>) _(default)_ — HEAD: `d6007d7`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/eleicoes-data/commits/main>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/eleicoes-data/commits/main>)
+          - [d6007d7](<https://github.com/havaianasdestruido/eleicoes-data/commit/d6007d777abfcd159e91e66967f26c7e9756179a>) data\: TSE presidente snapshot 2026\-10\-10 21\:41\:55Z — github\-actions\[bot\] (2026\-10\-10)
+          - [22f9f1f](<https://github.com/havaianasdestruido/eleicoes-data/commit/22f9f1f5e775aa6a707d3baaeb884dfe460f7dac>) data\: TSE presidente snapshot 2026\-10\-10 18\:13\:33Z — github\-actions\[bot\] (2026\-10\-10)
           - [8df0d14](<https://github.com/havaianasdestruido/eleicoes-data/commit/8df0d1446bb9fabab6777ad48c51eee225e73493>) data\: TSE presidente snapshot 2026\-10\-10 13\:59\:42Z — github\-actions\[bot\] (2026\-10\-10)
           - [af21001](<https://github.com/havaianasdestruido/eleicoes-data/commit/af21001a189a4356a38bd11300eb341047bcaf61>) data\: TSE presidente snapshot 2026\-10\-10 07\:55\:06Z — github\-actions\[bot\] (2026\-10\-10)
           - [866ee5a](<https://github.com/havaianasdestruido/eleicoes-data/commit/866ee5a5284196e724e1c1448d036c5fb0564854>) data\: TSE presidente snapshot 2026\-10\-10 01\:56\:49Z — github\-actions\[bot\] (2026\-10\-10)
@@ -3613,8 +3656,6 @@
           - [d20cd42](<https://github.com/havaianasdestruido/eleicoes-data/commit/d20cd42fec627e59091a96024ff8e80070d9c6e9>) data\: TSE presidente snapshot 2026\-10\-09 13\:08\:38Z — github\-actions\[bot\] (2026\-10\-09)
           - [d49c8a0](<https://github.com/havaianasdestruido/eleicoes-data/commit/d49c8a049ea31dced18b59aa0472d7bf427afbc2>) data\: TSE presidente snapshot 2026\-10\-09 06\:08\:54Z — github\-actions\[bot\] (2026\-10\-09)
           - [ede9c75](<https://github.com/havaianasdestruido/eleicoes-data/commit/ede9c7595d061ee1e60b968cfa799493cc469492>) data\: TSE presidente snapshot 2026\-10\-09 00\:15\:11Z — github\-actions\[bot\] (2026\-10\-09)
-          - [74cbd8f](<https://github.com/havaianasdestruido/eleicoes-data/commit/74cbd8f68e5e4eae019aa04e26e3b7c6433fbaef>) data\: TSE presidente snapshot 2026\-10\-08 20\:04\:36Z — github\-actions\[bot\] (2026\-10\-08)
-          - [cdda5cb](<https://github.com/havaianasdestruido/eleicoes-data/commit/cdda5cba72a362d3fd4dd38b65ab2a726c9139dc>) data\: TSE presidente snapshot 2026\-10\-08 14\:36\:26Z — github\-actions\[bot\] (2026\-10\-08)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -3635,7 +3676,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@github\-actions\[bot\]](<https://github.com/apps/github-actions>) — 22 commit(s)
+      - [@github\-actions\[bot\]](<https://github.com/apps/github-actions>) — 24 commit(s)
       - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 4 commit(s)
 
     - ### 🏷️ Releases (0)
@@ -5201,6 +5242,60 @@
 
 ---
 
+- ## [LetterPad](<https://github.com/havaianasdestruido/LetterPad>)
+  > Windows 7 WordPad clone\.
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C\+\+ | 📅 Created: 2026-10-10 | 🔄 Updated: 2026-10-10
+
+    - ### 🌿 Branches (2)
+      - [arena\/e96d1f0f\-letterpad](<https://github.com/havaianasdestruido/LetterPad/tree/arena/e96d1f0f-letterpad>) — HEAD: `2617f8d`
+        - 📋 [All Commits](<https://github.com/havaianasdestruido/LetterPad/commits/arena/e96d1f0f-letterpad>)
+        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/LetterPad/commits/arena/e96d1f0f-letterpad>)
+          - [2617f8d](<https://github.com/havaianasdestruido/LetterPad/commit/2617f8d761240bf84465a7454556b933f1456b98>) Address code review\: 40 correctness, safety and documentation fixes — havaianasdestruido (2026\-10\-10)
+          - [d877f12](<https://github.com/havaianasdestruido/LetterPad/commit/d877f12c8409df9e0820b192599abb5eb87289da>) LetterPad\: original WordPad\-style rich\-text word processor — havaianasdestruido (2026\-10\-10)
+          - [3a996ed](<https://github.com/havaianasdestruido/LetterPad/commit/3a996ed68670b835990ed7f98f84c4b829d5ba86>) Remove proprietary Microsoft binaries from the working tree — havaianasdestruido (2026\-10\-10)
+          - [c983ea1](<https://github.com/havaianasdestruido/LetterPad/commit/c983ea1e244dcaed47ff6c63eb79de7cca488083>) Update README\.md — PatoFlamejanteTV (2026\-10\-10)
+          - [96cb0f2](<https://github.com/havaianasdestruido/LetterPad/commit/96cb0f215fcacebeb0c6a7680aa1b03bca1e5cc4>) Initial commit — PatoFlamejanteTV (2026\-10\-10)
+      - [main](<https://github.com/havaianasdestruido/LetterPad/tree/main>) _(default)_ — HEAD: `3cf70b3`
+        - 📋 [All Commits](<https://github.com/havaianasdestruido/LetterPad/commits/main>)
+        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/LetterPad/commits/main>)
+          - [3cf70b3](<https://github.com/havaianasdestruido/LetterPad/commit/3cf70b3d85ddfc988d1c3e24c69974dd88097349>) Merge pull request \#1 from havaianasdestruido\/arena\/e96d1f0f\-letterpad — PatoFlamejanteTV (2026\-10\-10)
+          - [2617f8d](<https://github.com/havaianasdestruido/LetterPad/commit/2617f8d761240bf84465a7454556b933f1456b98>) Address code review\: 40 correctness, safety and documentation fixes — havaianasdestruido (2026\-10\-10)
+          - [d877f12](<https://github.com/havaianasdestruido/LetterPad/commit/d877f12c8409df9e0820b192599abb5eb87289da>) LetterPad\: original WordPad\-style rich\-text word processor — havaianasdestruido (2026\-10\-10)
+          - [3a996ed](<https://github.com/havaianasdestruido/LetterPad/commit/3a996ed68670b835990ed7f98f84c4b829d5ba86>) Remove proprietary Microsoft binaries from the working tree — havaianasdestruido (2026\-10\-10)
+          - [c983ea1](<https://github.com/havaianasdestruido/LetterPad/commit/c983ea1e244dcaed47ff6c63eb79de7cca488083>) Update README\.md — PatoFlamejanteTV (2026\-10\-10)
+          - [96cb0f2](<https://github.com/havaianasdestruido/LetterPad/commit/96cb0f215fcacebeb0c6a7680aa1b03bca1e5cc4>) Initial commit — PatoFlamejanteTV (2026\-10\-10)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (1)
+        - ✅ Merged [\#1 Remove Microsoft binaries; add original WordPad\-style word p](<https://github.com/havaianasdestruido/LetterPad/pull/1>) — havaianasdestruido (2026\-10\-10) `arena/e96d1f0f-letterpad` → `main`
+          - 📝 3 commit(s) in this PR
+            - [3a996ed](<https://github.com/havaianasdestruido/LetterPad/commit/3a996ed68670b835990ed7f98f84c4b829d5ba86>) Remove proprietary Microsoft binaries from the working tree
+            - [d877f12](<https://github.com/havaianasdestruido/LetterPad/commit/d877f12c8409df9e0820b192599abb5eb87289da>) LetterPad\: original WordPad\-style rich\-text word processor
+            - [2617f8d](<https://github.com/havaianasdestruido/LetterPad/commit/2617f8d761240bf84465a7454556b933f1456b98>) Address code review\: 40 correctness, safety and documentatio
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 6 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C++` — 90.5% (341,153 bytes)
+      - `CMake` — 5.4% (20,491 bytes)
+      - `C` — 4.1% (15,459 bytes)
+
+---
+
 - ## [manimce\-claude](<https://github.com/havaianasdestruido/manimce-claude>)
   > Skill do Claude \(SKILL\.md\) com referência da Manim Community Edition \(ManimCE\)\:
   > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 JavaScript | 📅 Created: 2026-09-13 | 🔄 Updated: 2026-10-03
@@ -5712,6 +5807,42 @@
 
     - ### 💻 Languages
       - `C#` — 100.0% (27,368 bytes)
+
+---
+
+- ## [mshearts](<https://github.com/havaianasdestruido/mshearts>)
+  > mshearts taken from windows nt 5\.1's source doe, now patched to add new stuff\.
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C\+\+ | 📅 Created: 2026-10-10 | 🔄 Updated: 2026-10-10
+
+    - ### 🌿 Branches (1)
+      - [main](<https://github.com/havaianasdestruido/mshearts/tree/main>) _(default)_ — HEAD: `c34d726`
+        - 📋 [All Commits](<https://github.com/havaianasdestruido/mshearts/commits/main>)
+        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/mshearts/commits/main>)
+          - [c34d726](<https://github.com/havaianasdestruido/mshearts/commit/c34d7265dc34e1e4d309fabab04110831c02aa58>) init — PatoFlamejanteTV (2026\-10\-10)
+          - [c719a36](<https://github.com/havaianasdestruido/mshearts/commit/c719a363c56bf3c38e266fc8a59c55919253f9a2>) Initial commit — PatoFlamejanteTV (2026\-10\-10)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 2 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `C++` — 99.1% (101,631 bytes)
+      - `C` — 0.9% (951 bytes)
 
 ---
 
@@ -7249,148 +7380,56 @@
 
 - ## [Projeto\-TCC](<https://github.com/havaianasdestruido/Projeto-TCC>) `🍴 Fork`
   > No description
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 JavaScript | 📅 Created: 2026-10-06 | 🔄 Updated: 2026-10-09
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 JavaScript | 📅 Created: 2026-10-06 | 🔄 Updated: 2026-10-10
 
   - 🔗 Forked from: [SANTCC\/Projeto\-TCC](<https://github.com/SANTCC/Projeto-TCC>)
-    - ### 🌿 Branches (3)
-      - [arena\/48f4ff36\-projeto\-tcc](<https://github.com/havaianasdestruido/Projeto-TCC/tree/arena/48f4ff36-projeto-tcc>) — HEAD: `0fbaa8c`
-        - 📋 [All Commits](<https://github.com/havaianasdestruido/Projeto-TCC/commits/arena/48f4ff36-projeto-tcc>)
-        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/Projeto-TCC/commits/arena/48f4ff36-projeto-tcc>)
-          - [0fbaa8c](<https://github.com/havaianasdestruido/Projeto-TCC/commit/0fbaa8c2b5257cd66fcf54275a7b5ab9563826bf>) fix\(bercos\)\: endurece migracao 001 \(constraints, idempotencia, pre\-requi — havaianasdestruido (2026\-10\-06)
-          - [5cb30a6](<https://github.com/havaianasdestruido/Projeto-TCC/commit/5cb30a6876c026d727936d697e0da4cc039232de>) fix\(bercos\)\: cria tabela public\.bercos e torna o app resiliente ao erro — havaianasdestruido (2026\-10\-06)
-          - [0955345](<https://github.com/havaianasdestruido/Projeto-TCC/commit/095534574ccc4c876d456e0e5dec099a2ce42464>) Add files via upload — Gustavorodriguesse (2026\-09\-29)
-          - [0fffd23](<https://github.com/havaianasdestruido/Projeto-TCC/commit/0fffd2384d7b5d97dcd1ad45602471a1a735255f>) Delete MANUAL\_OPERACIONAL\.md — Gustavorodriguesse (2026\-09\-29)
-          - [71ee077](<https://github.com/havaianasdestruido/Projeto-TCC/commit/71ee077f5510a2b13140075ad11a03dcfdbf6e20>) Delete relatorio\-backlog\-001\.md — Gustavorodriguesse (2026\-09\-29)
-          - [1cbf0d6](<https://github.com/havaianasdestruido/Projeto-TCC/commit/1cbf0d6c2eca27829470f02982d7928b5a374abb>) Delete backlog\.md — Gustavorodriguesse (2026\-09\-29)
-          - [9cb4b28](<https://github.com/havaianasdestruido/Projeto-TCC/commit/9cb4b28db1a6fc7421c073fc557fbf4b9933b2c7>) Delete RELATORIO\_GERAL\_CONFORMIDADE\_TESTES\.md — Gustavorodriguesse (2026\-09\-29)
-          - [e5de4cc](<https://github.com/havaianasdestruido/Projeto-TCC/commit/e5de4ccc26a29891272923926f4156834f09a88c>) Delete SPECs\/relatorio\-backlog\-001\.md — Gustavorodriguesse (2026\-09\-29)
-          - [33ffaf1](<https://github.com/havaianasdestruido/Projeto-TCC/commit/33ffaf185b9287336f6d208d57129e5ed4667c54>) Delete SPECs\/relatorio\-auditoria\-completa\.md — Gustavorodriguesse (2026\-09\-29)
-          - [0f5338b](<https://github.com/havaianasdestruido/Projeto-TCC/commit/0f5338b28965cffc2f06be795ca559b46b26d745>) Delete SPECs\/RELATORIO\_GERAL\_CONFORMIDADE\_TESTES\.md — Gustavorodriguesse (2026\-09\-29)
-        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/Projeto-TCC/commits/arena/48f4ff36-projeto-tcc/?after=0b46f912d9d6f20f45dbc05209f247b4c4160b9e+34>)
-          - [a60bcae](<https://github.com/havaianasdestruido/Projeto-TCC/commit/a60bcaece2bee91d42ca5e6aa2015d5c9389df31>) Tarefa 5\.2\: Remover ocultacao de navios sem carga na tela de GPS — NexusPort Dev (2026\-09\-26)
-          - [ae98c50](<https://github.com/havaianasdestruido/Projeto-TCC/commit/ae98c50307f3f15e189d374063f07e793884c937>) Tarefa 5\.1\: Restaurar autoridade do Supervisor na liberacao de navios — NexusPort Dev (2026\-09\-26)
-          - [7a52c10](<https://github.com/havaianasdestruido/Projeto-TCC/commit/7a52c101f998fcafa7a0d8db459cdb1c48741aee>) Tarefa 4\.5\: Dinamizar o formulario de Ordem de Servico \(equipamentos e a — NexusPort Dev (2026\-09\-26)
-          - [a36a1b2](<https://github.com/havaianasdestruido/Projeto-TCC/commit/a36a1b2c5acd22724529f92a79d17130ab25ae66>) Tarefa 4\.4\: Remover dados ficticios do grafico de navios mais utilizados — NexusPort Dev (2026\-09\-26)
-          - [623cc04](<https://github.com/havaianasdestruido/Projeto-TCC/commit/623cc04429d266e94133811d1889d5cbaaebfb5d>) Tarefa 4\.3\: Remover dados de fallback no PDF de relatorios \(IMO fixo\) — NexusPort Dev (2026\-09\-26)
-          - [4208fcc](<https://github.com/havaianasdestruido/Projeto-TCC/commit/4208fcc583b46b503eb51c9388a76b31fb418b4e>) Tarefa 4\.1\: Substituir dados ficticios de produtividade por agregacao re — NexusPort Dev (2026\-09\-26)
-          - [6ccb4da](<https://github.com/havaianasdestruido/Projeto-TCC/commit/6ccb4da39a0cdbc6815ed9188d0b19fcb2a00e04>) Tarefa 3\.3\: Corrigir gravacao de itens de inspecao \(string vs\. UUID\) — NexusPort Dev (2026\-09\-26)
-          - [85efcbe](<https://github.com/havaianasdestruido/Projeto-TCC/commit/85efcbe939a7dec146aa051a8a19cc3b3ec0fbc0>) Tarefa 3\.2\: Corrigir enum de estado de manutencao de navios — NexusPort Dev (2026\-09\-26)
-          - [836c3f0](<https://github.com/havaianasdestruido/Projeto-TCC/commit/836c3f00201d94cd67e7e55ceb61024670908e68>) Tarefa 3\.1\: Corrigir vinculacao de carga a conteiner \(string vs\. UUID\) — NexusPort Dev (2026\-09\-26)
-          - [ec32710](<https://github.com/havaianasdestruido/Projeto-TCC/commit/ec327101c6335e577467d65efd333a572d5770e6>) Tarefa 2\.1\: Corrigir bug de variavel indefinida no cadastro de funcionar — NexusPort Dev (2026\-09\-26)
-        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/Projeto-TCC/commits/arena/48f4ff36-projeto-tcc/?after=bae52ece11c773f69ab80271fb085fee38663ca1+34>)
-          - [0d2221a](<https://github.com/havaianasdestruido/Projeto-TCC/commit/0d2221a31654722008c1cba4f84e3ec392dcbb00>) Implementa correções C1\-C15 e ajustes A1\-A9 do backlog\.md — google\-labs\-jules\[bot\] (2026\-09\-25)
-          - [c9ca398](<https://github.com/havaianasdestruido/Projeto-TCC/commit/c9ca398bcd4e96d264db64dd1ca7bc3379e372ca>) Add files via upload — Gustavorodriguesse (2026\-09\-25)
-          - [9e8234e](<https://github.com/havaianasdestruido/Projeto-TCC/commit/9e8234e72c9b3f8f9beea46761e2d8c7a8a6b5c1>) Delete SPECs\/correcoes\(2\)\.md — Gustavorodriguesse (2026\-09\-25)
-          - [b3ac9ae](<https://github.com/havaianasdestruido/Projeto-TCC/commit/b3ac9aea1aaeb3e67dc55f8805744568bb389183>) Delete SPECs\/backlog\.md — Gustavorodriguesse (2026\-09\-25)
-          - [98b0ba9](<https://github.com/havaianasdestruido/Projeto-TCC/commit/98b0ba919213f1d10f16e8291fecdd07d4d7226a>) Merge pull request \#34 from SANTCC\/feat\/rbac\-guindastes\-bercos\-livres\-82 — mxwllphlp\-coder (2026\-09\-24)
-          - [0b1bd68](<https://github.com/havaianasdestruido/Projeto-TCC/commit/0b1bd68e65cc83444fa751a29811369d80e0534e>) feat\: implement RBAC permissions, crane management, and free berth unloa — google\-labs\-jules\[bot\] (2026\-09\-24)
-          - [76ea7a7](<https://github.com/havaianasdestruido/Projeto-TCC/commit/76ea7a7c10564fdf6179c2947e2f54d275daa0d7>) Merge pull request \#33 from SANTCC\/feature\/supabase\-full\-integration\-123 — mxwllphlp\-coder (2026\-09\-24)
-          - [ecda1c3](<https://github.com/havaianasdestruido/Projeto-TCC/commit/ecda1c3a909990cbfc7e0465175d10fc7c35f63e>) feat\: integracao total do Supabase, validacoes de prioridade alta\/media, — google\-labs\-jules\[bot\] (2026\-09\-24)
-          - [a6e9934](<https://github.com/havaianasdestruido/Projeto-TCC/commit/a6e99346991cbf77377e23a649d84afb7eee2a8f>) Merge pull request \#32 from SANTCC\/feature\/supabase\-full\-integration\-123 — mxwllphlp\-coder (2026\-09\-24)
-          - [24f0a2a](<https://github.com/havaianasdestruido/Projeto-TCC/commit/24f0a2add6d7d4ca36fdf00cd07edbb8e9d9cc73>) feat\: conexao total das tabelas Supabase, leitor QR Code com informacao — google\-labs\-jules\[bot\] (2026\-09\-24)
-        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/Projeto-TCC/commits/arena/48f4ff36-projeto-tcc/?after=650f4b699403a9787c28710e05fda43bbd72552d+34>)
-          - [6697729](<https://github.com/havaianasdestruido/Projeto-TCC/commit/669772981b55812b1443a6dac4eb2aac7f1c3350>) Merge pull request \#23 from SANTCC\/fix\/correcoes\-especificacao\-nexusport — Gustavorodriguesse (2026\-09\-22)
-          - [3a51b66](<https://github.com/havaianasdestruido/Projeto-TCC/commit/3a51b66c86fff9548966492451f78f0f035e68ab>) refactor\: implementar validacao estrita de login e navegacao multi\-pagin — google\-labs\-jules\[bot\] (2026\-09\-22)
-          - [5475857](<https://github.com/havaianasdestruido/Projeto-TCC/commit/5475857414615bc6982edea19f3881f649ab1cfa>) Merge pull request \#21 from SANTCC\/fix\/correcoes\-especificacao\-nexusport — Gustavorodriguesse (2026\-09\-22)
-          - [7cf49f5](<https://github.com/havaianasdestruido/Projeto-TCC/commit/7cf49f559834bb86ac5b2e29535f08c27ac9c7f0>) refactor\: implementar correcoes do sistema e arquitetura multi\-pagina co — google\-labs\-jules\[bot\] (2026\-09\-22)
-          - [2905b2a](<https://github.com/havaianasdestruido/Projeto-TCC/commit/2905b2a12945f0d36e7ef3ce4496cf56f995efc0>) Add files via upload — Gustavorodriguesse (2026\-09\-22)
-          - [383ce46](<https://github.com/havaianasdestruido/Projeto-TCC/commit/383ce46218e3acc558a7e4e747d343c82ba05f73>) Delete SPECs\/NexusPort\-Plano\-Correcao\.md — Gustavorodriguesse (2026\-09\-22)
-          - [fe51c01](<https://github.com/havaianasdestruido/Projeto-TCC/commit/fe51c01d665c99fb1839255ba669a7cc053efa46>) Merge pull request \#20 from SANTCC\/fix\/nexusport\-corrections\-80532175815 — Gustavorodriguesse (2026\-09\-22)
-          - [7c1ff86](<https://github.com/havaianasdestruido/Projeto-TCC/commit/7c1ff867d36af9e7a1a22f80df55a256156f9268>) fix\(nexusport\)\: implement corrections for database persistence, login an — google\-labs\-jules\[bot\] (2026\-09\-22)
-          - [86d3672](<https://github.com/havaianasdestruido/Projeto-TCC/commit/86d367204aa78409b801bff1c9de427c7dac0bc8>) Add files via upload — Gustavorodriguesse (2026\-09\-21)
-          - [ae6bb0a](<https://github.com/havaianasdestruido/Projeto-TCC/commit/ae6bb0aa2677c08d961c536ed1c41856d2c2b7a0>) Merge pull request \#19 from SANTCC\/main\-6134715176812905281 — mxwllphlp\-coder (2026\-09\-20)
-      - [arena\/616596f5\-projeto\-tcc](<https://github.com/havaianasdestruido/Projeto-TCC/tree/arena/616596f5-projeto-tcc>) — HEAD: `3d304b8`
-        - 📋 [All Commits](<https://github.com/havaianasdestruido/Projeto-TCC/commits/arena/616596f5-projeto-tcc>)
-        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/Projeto-TCC/commits/arena/616596f5-projeto-tcc>)
-          - [3d304b8](<https://github.com/havaianasdestruido/Projeto-TCC/commit/3d304b8a25856ef8c5edd48b77f796f617af3872>) fix\(security\)\: endurece safeUrl, scanner estático e testes de XSS — havaianasdestruido (2026\-10\-07)
-          - [a516ad1](<https://github.com/havaianasdestruido/Projeto-TCC/commit/a516ad137f37cb792a96facb09839cfa87278b83>) fix\(security\)\: neutraliza XSS DOM\-based em todo o front\-end — havaianasdestruido (2026\-10\-07)
-          - [1e90977](<https://github.com/havaianasdestruido/Projeto-TCC/commit/1e909777fa9cbe75df71166a34120733e81312ec>) Merge pull request \#1 from havaianasdestruido\/arena\/48f4ff36\-projeto\-tcc — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-06)
-          - [0fbaa8c](<https://github.com/havaianasdestruido/Projeto-TCC/commit/0fbaa8c2b5257cd66fcf54275a7b5ab9563826bf>) fix\(bercos\)\: endurece migracao 001 \(constraints, idempotencia, pre\-requi — havaianasdestruido (2026\-10\-06)
-          - [5cb30a6](<https://github.com/havaianasdestruido/Projeto-TCC/commit/5cb30a6876c026d727936d697e0da4cc039232de>) fix\(bercos\)\: cria tabela public\.bercos e torna o app resiliente ao erro — havaianasdestruido (2026\-10\-06)
-          - [0955345](<https://github.com/havaianasdestruido/Projeto-TCC/commit/095534574ccc4c876d456e0e5dec099a2ce42464>) Add files via upload — Gustavorodriguesse (2026\-09\-29)
-          - [0fffd23](<https://github.com/havaianasdestruido/Projeto-TCC/commit/0fffd2384d7b5d97dcd1ad45602471a1a735255f>) Delete MANUAL\_OPERACIONAL\.md — Gustavorodriguesse (2026\-09\-29)
-          - [71ee077](<https://github.com/havaianasdestruido/Projeto-TCC/commit/71ee077f5510a2b13140075ad11a03dcfdbf6e20>) Delete relatorio\-backlog\-001\.md — Gustavorodriguesse (2026\-09\-29)
-          - [1cbf0d6](<https://github.com/havaianasdestruido/Projeto-TCC/commit/1cbf0d6c2eca27829470f02982d7928b5a374abb>) Delete backlog\.md — Gustavorodriguesse (2026\-09\-29)
-          - [9cb4b28](<https://github.com/havaianasdestruido/Projeto-TCC/commit/9cb4b28db1a6fc7421c073fc557fbf4b9933b2c7>) Delete RELATORIO\_GERAL\_CONFORMIDADE\_TESTES\.md — Gustavorodriguesse (2026\-09\-29)
-        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/Projeto-TCC/commits/arena/616596f5-projeto-tcc/?after=86588f2ff3413df0185679a99ae13e8e9e9f373f+34>)
-          - [ad6e223](<https://github.com/havaianasdestruido/Projeto-TCC/commit/ad6e223cd0e02ee7c91619ee786c2d628d2efcd7>) Tarefa 5\.5\: Validar RN de volume maximo, aprovacao de checklist e demais — NexusPort Dev (2026\-09\-26)
-          - [1aa9306](<https://github.com/havaianasdestruido/Projeto-TCC/commit/1aa93069b38308cf28416fbed67fcb22517ac0c2>) Tarefa 5\.4\: Implementar Visao Propria \(segregacao de cargas por operador — NexusPort Dev (2026\-09\-26)
-          - [0b46f91](<https://github.com/havaianasdestruido/Projeto-TCC/commit/0b46f912d9d6f20f45dbc05209f247b4c4160b9e>) Tarefa 5\.3\: Implementar trava de status no cancelamento de cargas \(RN 16 — NexusPort Dev (2026\-09\-26)
-          - [a60bcae](<https://github.com/havaianasdestruido/Projeto-TCC/commit/a60bcaece2bee91d42ca5e6aa2015d5c9389df31>) Tarefa 5\.2\: Remover ocultacao de navios sem carga na tela de GPS — NexusPort Dev (2026\-09\-26)
-          - [ae98c50](<https://github.com/havaianasdestruido/Projeto-TCC/commit/ae98c50307f3f15e189d374063f07e793884c937>) Tarefa 5\.1\: Restaurar autoridade do Supervisor na liberacao de navios — NexusPort Dev (2026\-09\-26)
-          - [7a52c10](<https://github.com/havaianasdestruido/Projeto-TCC/commit/7a52c101f998fcafa7a0d8db459cdb1c48741aee>) Tarefa 4\.5\: Dinamizar o formulario de Ordem de Servico \(equipamentos e a — NexusPort Dev (2026\-09\-26)
-          - [a36a1b2](<https://github.com/havaianasdestruido/Projeto-TCC/commit/a36a1b2c5acd22724529f92a79d17130ab25ae66>) Tarefa 4\.4\: Remover dados ficticios do grafico de navios mais utilizados — NexusPort Dev (2026\-09\-26)
-          - [623cc04](<https://github.com/havaianasdestruido/Projeto-TCC/commit/623cc04429d266e94133811d1889d5cbaaebfb5d>) Tarefa 4\.3\: Remover dados de fallback no PDF de relatorios \(IMO fixo\) — NexusPort Dev (2026\-09\-26)
-          - [4208fcc](<https://github.com/havaianasdestruido/Projeto-TCC/commit/4208fcc583b46b503eb51c9388a76b31fb418b4e>) Tarefa 4\.1\: Substituir dados ficticios de produtividade por agregacao re — NexusPort Dev (2026\-09\-26)
-          - [6ccb4da](<https://github.com/havaianasdestruido/Projeto-TCC/commit/6ccb4da39a0cdbc6815ed9188d0b19fcb2a00e04>) Tarefa 3\.3\: Corrigir gravacao de itens de inspecao \(string vs\. UUID\) — NexusPort Dev (2026\-09\-26)
-        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/Projeto-TCC/commits/arena/616596f5-projeto-tcc/?after=be3c1f859938bfc086ae31d767c04e240496a291+34>)
-          - [984e631](<https://github.com/havaianasdestruido/Projeto-TCC/commit/984e631370f88fe66b6155d3044f3202e380e4cc>) docs\: update SPECs\/backlog\.md with complete system diagnostic items — google\-labs\-jules\[bot\] (2026\-09\-25)
-          - [56aff78](<https://github.com/havaianasdestruido/Projeto-TCC/commit/56aff78aa133ea383c148689ae811e83bb0c15ce>) Delete backlog\.md — Gustavorodriguesse (2026\-09\-25)
-          - [bae52ec](<https://github.com/havaianasdestruido/Projeto-TCC/commit/bae52ece11c773f69ab80271fb085fee38663ca1>) Merge pull request \#35 from SANTCC\/fix\-backlog\-001\-6542576215625170157 — Gustavorodriguesse (2026\-09\-25)
-          - [0d2221a](<https://github.com/havaianasdestruido/Projeto-TCC/commit/0d2221a31654722008c1cba4f84e3ec392dcbb00>) Implementa correções C1\-C15 e ajustes A1\-A9 do backlog\.md — google\-labs\-jules\[bot\] (2026\-09\-25)
-          - [c9ca398](<https://github.com/havaianasdestruido/Projeto-TCC/commit/c9ca398bcd4e96d264db64dd1ca7bc3379e372ca>) Add files via upload — Gustavorodriguesse (2026\-09\-25)
-          - [9e8234e](<https://github.com/havaianasdestruido/Projeto-TCC/commit/9e8234e72c9b3f8f9beea46761e2d8c7a8a6b5c1>) Delete SPECs\/correcoes\(2\)\.md — Gustavorodriguesse (2026\-09\-25)
-          - [b3ac9ae](<https://github.com/havaianasdestruido/Projeto-TCC/commit/b3ac9aea1aaeb3e67dc55f8805744568bb389183>) Delete SPECs\/backlog\.md — Gustavorodriguesse (2026\-09\-25)
-          - [98b0ba9](<https://github.com/havaianasdestruido/Projeto-TCC/commit/98b0ba919213f1d10f16e8291fecdd07d4d7226a>) Merge pull request \#34 from SANTCC\/feat\/rbac\-guindastes\-bercos\-livres\-82 — mxwllphlp\-coder (2026\-09\-24)
-          - [0b1bd68](<https://github.com/havaianasdestruido/Projeto-TCC/commit/0b1bd68e65cc83444fa751a29811369d80e0534e>) feat\: implement RBAC permissions, crane management, and free berth unloa — google\-labs\-jules\[bot\] (2026\-09\-24)
-          - [76ea7a7](<https://github.com/havaianasdestruido/Projeto-TCC/commit/76ea7a7c10564fdf6179c2947e2f54d275daa0d7>) Merge pull request \#33 from SANTCC\/feature\/supabase\-full\-integration\-123 — mxwllphlp\-coder (2026\-09\-24)
-        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/Projeto-TCC/commits/arena/616596f5-projeto-tcc/?after=f12bd31cb09f1340f2b58caef4b24880859a5072+34>)
-          - [d2d91fe](<https://github.com/havaianasdestruido/Projeto-TCC/commit/d2d91fe4d34144bc17124910b0a6a515c9c7b7c4>) Delete SPECs\/correcoes\.md — Gustavorodriguesse (2026\-09\-22)
-          - [fb1e1ef](<https://github.com/havaianasdestruido/Projeto-TCC/commit/fb1e1ef6f451a418217ac5b421f043e1f51793af>) Merge pull request \#24 from SANTCC\/dadossupabase\-12247591099202896997 — mxwllphlp\-coder (2026\-09\-22)
-          - [650f4b6](<https://github.com/havaianasdestruido/Projeto-TCC/commit/650f4b699403a9787c28710e05fda43bbd72552d>) feat\: Sincronizar dados do sistema com o Supabase e corrigir login de no — google\-labs\-jules\[bot\] (2026\-09\-22)
-          - [6697729](<https://github.com/havaianasdestruido/Projeto-TCC/commit/669772981b55812b1443a6dac4eb2aac7f1c3350>) Merge pull request \#23 from SANTCC\/fix\/correcoes\-especificacao\-nexusport — Gustavorodriguesse (2026\-09\-22)
-          - [3a51b66](<https://github.com/havaianasdestruido/Projeto-TCC/commit/3a51b66c86fff9548966492451f78f0f035e68ab>) refactor\: implementar validacao estrita de login e navegacao multi\-pagin — google\-labs\-jules\[bot\] (2026\-09\-22)
-          - [5475857](<https://github.com/havaianasdestruido/Projeto-TCC/commit/5475857414615bc6982edea19f3881f649ab1cfa>) Merge pull request \#21 from SANTCC\/fix\/correcoes\-especificacao\-nexusport — Gustavorodriguesse (2026\-09\-22)
-          - [7cf49f5](<https://github.com/havaianasdestruido/Projeto-TCC/commit/7cf49f559834bb86ac5b2e29535f08c27ac9c7f0>) refactor\: implementar correcoes do sistema e arquitetura multi\-pagina co — google\-labs\-jules\[bot\] (2026\-09\-22)
-          - [2905b2a](<https://github.com/havaianasdestruido/Projeto-TCC/commit/2905b2a12945f0d36e7ef3ce4496cf56f995efc0>) Add files via upload — Gustavorodriguesse (2026\-09\-22)
-          - [383ce46](<https://github.com/havaianasdestruido/Projeto-TCC/commit/383ce46218e3acc558a7e4e747d343c82ba05f73>) Delete SPECs\/NexusPort\-Plano\-Correcao\.md — Gustavorodriguesse (2026\-09\-22)
-          - [fe51c01](<https://github.com/havaianasdestruido/Projeto-TCC/commit/fe51c01d665c99fb1839255ba669a7cc053efa46>) Merge pull request \#20 from SANTCC\/fix\/nexusport\-corrections\-80532175815 — Gustavorodriguesse (2026\-09\-22)
-      - [main](<https://github.com/havaianasdestruido/Projeto-TCC/tree/main>) _(default)_ — HEAD: `f900f17`
+    - ### 🌿 Branches (1)
+      - [main](<https://github.com/havaianasdestruido/Projeto-TCC/tree/main>) _(default)_ — HEAD: `449cfcf`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/Projeto-TCC/commits/main>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/Projeto-TCC/commits/main>)
-          - [f900f17](<https://github.com/havaianasdestruido/Projeto-TCC/commit/f900f1769324ad36583ed7455df179f924e1b545>) Merge pull request \#3 from havaianasdestruido\/imgbot — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-09)
-          - [eb27bb6](<https://github.com/havaianasdestruido/Projeto-TCC/commit/eb27bb6cf3c77611cfd82fc8df1fc04b57b2a386>) Merge pull request \#70 from SANTCC\/arena\/30451bc2\-projeto\-tcc — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-09)
-          - [9ff6a9b](<https://github.com/havaianasdestruido/Projeto-TCC/commit/9ff6a9b35d042efbc1f46dfb1b735f3219233326>) fix\: login sem 406, gravação de inspeção sem falso sucesso e histórico d — havaianasdestruido (2026\-10\-08)
-          - [91ed3e7](<https://github.com/havaianasdestruido/Projeto-TCC/commit/91ed3e7cef81c3ce84f6838f9c93317ad8954651>) Update backlog3\.md — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-08)
-          - [63e1c99](<https://github.com/havaianasdestruido/Projeto-TCC/commit/63e1c99f6545b4d2b2b80a0a073d4b4d73da4171>) Create backlog4\.md — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-08)
-          - [830b637](<https://github.com/havaianasdestruido/Projeto-TCC/commit/830b637a33ca170684df0752b350a28dedb1d791>) Update backlog3\.md — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-08)
-          - [5215c3a](<https://github.com/havaianasdestruido/Projeto-TCC/commit/5215c3aabb0bf789b667795c9788588b3c7ee66a>) Update backlog3\.md — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-08)
-          - [86f85b4](<https://github.com/havaianasdestruido/Projeto-TCC/commit/86f85b4962aabd7ab79545e9588edf39fdd37aea>) Update backlog3\.md — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-08)
-          - [e04250b](<https://github.com/havaianasdestruido/Projeto-TCC/commit/e04250b41758218b133afbd611a838d90d375efb>) Merge pull request \#68 from SANTCC\/arena\/7a614c99\-projeto\-tcc — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-08)
-          - [e6295b9](<https://github.com/havaianasdestruido/Projeto-TCC/commit/e6295b97c67099a5d17e46cf9f6f2a8792818ff7>) Merge remote\-tracking branch 'origin\/main' into arena\/7a614c99\-projeto\-t — havaianasdestruido (2026\-10\-08)
-        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/Projeto-TCC/commits/main/?after=0f0bad3a9d9ec278386d0a05aedfa6e78f65278b+34>)
-          - [01bcbfd](<https://github.com/havaianasdestruido/Projeto-TCC/commit/01bcbfd19c2ff2bb16629a9f04f7b901f8b0bde0>) Merge branch 'main' into arena\/336b7694\-projeto\-tcc — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-08)
-          - [b3018cb](<https://github.com/havaianasdestruido/Projeto-TCC/commit/b3018cb445fea5b972200bdf8eb8329ab8fca7cb>) Merge pull request \#58 from SANTCC\/arena\/aa16ddc3\-projeto\-tcc — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-08)
-          - [92523b2](<https://github.com/havaianasdestruido/Projeto-TCC/commit/92523b2691e3df7000ad72cad4c149efd7546b33>) fix\(panico\)\: corrige 404\/PGRST205 em \/rest\/v1\/emergencias \(migração repa — Arena Agent (2026\-10\-08)
-          - [3ae970b](<https://github.com/havaianasdestruido/Projeto-TCC/commit/3ae970be97df97b8705765cdbeedd48fffd8c90e>) Add Google tag \(G\-50V6WDEMPT\) to all app pages — Arena Agent (2026\-10\-08)
-          - [a73d8e6](<https://github.com/havaianasdestruido/Projeto-TCC/commit/a73d8e61e6aa9cd0b5e327f43307cd1aef5d21f9>) fix\(berços\)\: normaliza payloads e evita erro 23514 no vínculo navio × be — Arena Agent (2026\-10\-08)
-          - [52019b8](<https://github.com/havaianasdestruido/Projeto-TCC/commit/52019b8f742a969cd9da664e81d81cc7b649522c>) Merge pull request \#57 from SANTCC\/arena\/70edd3b9\-projeto\-tcc — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-08)
-          - [7f5d5c2](<https://github.com/havaianasdestruido/Projeto-TCC/commit/7f5d5c24087703a6bf944e4ed47ebc5e4fe9eeb5>) Fix vibration API handling and diagnostics — havaianasdestruido (2026\-10\-08)
-          - [7352544](<https://github.com/havaianasdestruido/Projeto-TCC/commit/735254452371833700743ca5e1628c12298aa2b8>) Merge pull request \#56 from SANTCC\/arena\/26bbd635\-projeto\-tcc — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-07)
-          - [99776b2](<https://github.com/havaianasdestruido/Projeto-TCC/commit/99776b28b1d103acaaaac33e27acfa2bf202b19f>) fix\(panico\)\: vibração mais perceptível e liberação por toque no Android — Arena Agent (2026\-10\-07)
-          - [142ead4](<https://github.com/havaianasdestruido/Projeto-TCC/commit/142ead46e1890b2d5781537ae7cfefdb02d51601>) fix\(panico\)\: fazer o botão SOS realmente vibrar no celular — Arena Agent (2026\-10\-07)
-        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/Projeto-TCC/commits/main/?after=71ee077f5510a2b13140075ad11a03dcfdbf6e20+34>)
-          - [1cbf0d6](<https://github.com/havaianasdestruido/Projeto-TCC/commit/1cbf0d6c2eca27829470f02982d7928b5a374abb>) Delete backlog\.md — Gustavorodriguesse (2026\-09\-29)
-          - [9cb4b28](<https://github.com/havaianasdestruido/Projeto-TCC/commit/9cb4b28db1a6fc7421c073fc557fbf4b9933b2c7>) Delete RELATORIO\_GERAL\_CONFORMIDADE\_TESTES\.md — Gustavorodriguesse (2026\-09\-29)
-          - [e5de4cc](<https://github.com/havaianasdestruido/Projeto-TCC/commit/e5de4ccc26a29891272923926f4156834f09a88c>) Delete SPECs\/relatorio\-backlog\-001\.md — Gustavorodriguesse (2026\-09\-29)
-          - [33ffaf1](<https://github.com/havaianasdestruido/Projeto-TCC/commit/33ffaf185b9287336f6d208d57129e5ed4667c54>) Delete SPECs\/relatorio\-auditoria\-completa\.md — Gustavorodriguesse (2026\-09\-29)
-          - [0f5338b](<https://github.com/havaianasdestruido/Projeto-TCC/commit/0f5338b28965cffc2f06be795ca559b46b26d745>) Delete SPECs\/RELATORIO\_GERAL\_CONFORMIDADE\_TESTES\.md — Gustavorodriguesse (2026\-09\-29)
-          - [dce473c](<https://github.com/havaianasdestruido/Projeto-TCC/commit/dce473c2e9cabcd3b33094054045cbaf4de1b224>) Delete SPECs\/backlog\-001\.md — Gustavorodriguesse (2026\-09\-29)
-          - [f2ef516](<https://github.com/havaianasdestruido/Projeto-TCC/commit/f2ef5164a3a2577f489d2683b581032aae6b2468>) Delete SPECs\/backlog\.md — Gustavorodriguesse (2026\-09\-29)
-          - [d48e94f](<https://github.com/havaianasdestruido/Projeto-TCC/commit/d48e94f51d97aae3d1bb834d54e857bb2a9dd0b4>) Merge pull request \#51 from SANTCC\/fix\/correcoes\-adicionais\-system\-38332 — Gustavorodriguesse (2026\-09\-29)
-          - [2a94467](<https://github.com/havaianasdestruido/Projeto-TCC/commit/2a944678dfa90acab5365adbe8363df4f0a4803e>) fix\: implement additional system corrections for tasks 1 to 6 — google\-labs\-jules\[bot\] (2026\-09\-29)
-          - [a45145b](<https://github.com/havaianasdestruido/Projeto-TCC/commit/a45145bd0e628b7c703d4003a4285ff5e46616b6>) Merge pull request \#50 from SANTCC\/fix\/correcoes\-1\-versao\-10152989199524 — Gustavorodriguesse (2026\-09\-29)
-        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/Projeto-TCC/commits/main/?after=623cc04429d266e94133811d1889d5cbaaebfb5d+34>)
-          - [4208fcc](<https://github.com/havaianasdestruido/Projeto-TCC/commit/4208fcc583b46b503eb51c9388a76b31fb418b4e>) Tarefa 4\.1\: Substituir dados ficticios de produtividade por agregacao re — NexusPort Dev (2026\-09\-26)
-          - [6ccb4da](<https://github.com/havaianasdestruido/Projeto-TCC/commit/6ccb4da39a0cdbc6815ed9188d0b19fcb2a00e04>) Tarefa 3\.3\: Corrigir gravacao de itens de inspecao \(string vs\. UUID\) — NexusPort Dev (2026\-09\-26)
-          - [85efcbe](<https://github.com/havaianasdestruido/Projeto-TCC/commit/85efcbe939a7dec146aa051a8a19cc3b3ec0fbc0>) Tarefa 3\.2\: Corrigir enum de estado de manutencao de navios — NexusPort Dev (2026\-09\-26)
-          - [836c3f0](<https://github.com/havaianasdestruido/Projeto-TCC/commit/836c3f00201d94cd67e7e55ceb61024670908e68>) Tarefa 3\.1\: Corrigir vinculacao de carga a conteiner \(string vs\. UUID\) — NexusPort Dev (2026\-09\-26)
-          - [ec32710](<https://github.com/havaianasdestruido/Projeto-TCC/commit/ec327101c6335e577467d65efd333a572d5770e6>) Tarefa 2\.1\: Corrigir bug de variavel indefinida no cadastro de funcionar — NexusPort Dev (2026\-09\-26)
-          - [f6ab27b](<https://github.com/havaianasdestruido/Projeto-TCC/commit/f6ab27bc64c6187ff77fbec9540726a49e65cd70>) Tarefa 1\.2\: Incluir data\-repository\.js em todas as paginas HTML — NexusPort Dev (2026\-09\-26)
-          - [0ef8a8b](<https://github.com/havaianasdestruido/Projeto-TCC/commit/0ef8a8be8f99839803babf7988474e7677fdb124>) Tarefa 1\.1\: Corrigir erro de sintaxe em js\/data\-repository\.js — NexusPort Dev (2026\-09\-26)
-          - [0549154](<https://github.com/havaianasdestruido/Projeto-TCC/commit/05491542681f38714d71f1cbc5888826ce5e02d2>) Add files via upload — Gustavorodriguesse (2026\-09\-26)
-          - [fca2ded](<https://github.com/havaianasdestruido/Projeto-TCC/commit/fca2ded17cf0813058bea82019018a3c9d542f1b>) Delete SPECs\/backlog\.md — Gustavorodriguesse (2026\-09\-26)
-          - [4c3341b](<https://github.com/havaianasdestruido/Projeto-TCC/commit/4c3341b2faf604f21d5be130c8a63afff353fa5a>) Add files via upload — Gustavorodriguesse (2026\-09\-26)
+          - [449cfcf](<https://github.com/havaianasdestruido/Projeto-TCC/commit/449cfcfb58fd0a1ea3b5cd0a36ce5e9955a81141>) Merge pull request \#96 from SANTCC\/revert\-95\-arena\/9d3beca0\-projeto\-tcc — mxwllphlp\-coder (2026\-10\-10)
+          - [284417f](<https://github.com/havaianasdestruido/Projeto-TCC/commit/284417f4f6094475f7e361784b11d9b2a62dd5ae>) Revert "docs\: documentação técnica completa em Docusaurus publicada em \/ — mxwllphlp\-coder (2026\-10\-10)
+          - [2119f8b](<https://github.com/havaianasdestruido/Projeto-TCC/commit/2119f8bcc0d01eeda5d7292fb1e1b4bd5ad63cbb>) Merge pull request \#95 from SANTCC\/arena\/9d3beca0\-projeto\-tcc — PatoFlamejanteTV (2026\-10\-10)
+          - [9f6ae30](<https://github.com/havaianasdestruido/Projeto-TCC/commit/9f6ae30052dbe115a729419685aaafba37de37fe>) Merge branch 'main' into arena\/9d3beca0\-projeto\-tcc — arena (2026\-10\-10)
+          - [1c67d0e](<https://github.com/havaianasdestruido/Projeto-TCC/commit/1c67d0e36f305dd6d3b30c0effb9ab74e1d0d3d4>) Merge pull request \#94 from SANTCC\/arena\/24202563\-projeto\-tcc — PatoFlamejanteTV (2026\-10\-10)
+          - [2d64f63](<https://github.com/havaianasdestruido/Projeto-TCC/commit/2d64f630aa75bbd18a4160fd86d8ebed825f49e3>) feat\(about\)\: adicionar ícones e ilustrações unDraw na página sobre — havaianasdestruido (2026\-10\-10)
+          - [dfb869c](<https://github.com/havaianasdestruido/Projeto-TCC/commit/dfb869c742d25b66ac562188194c07c079d6dea6>) docs\: site Docusaurus completo em \/docs\/ com 53 páginas, galeria e captu — arena (2026\-10\-10)
+          - [2015c43](<https://github.com/havaianasdestruido/Projeto-TCC/commit/2015c439e1f646b21db0917bd93eb27b246276d8>) Merge pull request \#93 from havaianasdestruido\/main — PatoFlamejanteTV (2026\-10\-10)
+          - [cf0c942](<https://github.com/havaianasdestruido/Projeto-TCC/commit/cf0c94253858bee121b2f517e2fa6660e1dd2225>) Merge pull request \#4 from havaianasdestruido\/imgbot — PatoFlamejanteTV (2026\-10\-10)
+          - [1394639](<https://github.com/havaianasdestruido/Projeto-TCC/commit/139463983661f2ec597705110d14842ea0e38662>) \[ImgBot\] Optimize images — ImgBotApp (2026\-10\-10)
+        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/Projeto-TCC/commits/main/?after=fad53660eba532fb813ee0f021405295dbc7ab84+34>)
+          - [42a371b](<https://github.com/havaianasdestruido/Projeto-TCC/commit/42a371b0c1876d7ffd4088401990146d7df25477>) Merge pull request \#82 from SANTCC\/add\-not\-added\-yet\-backlog\-entries\-678 — PatoFlamejanteTV (2026\-10\-10)
+          - [804b700](<https://github.com/havaianasdestruido/Projeto-TCC/commit/804b700aaaf81bdc1e5fa6a6bfc58356f8abe50c>) docs\: add Backlog 004 entries to backlog\.md and relatorios\-backlog\.md — google\-labs\-jules\[bot\] (2026\-10\-10)
+          - [a397e4b](<https://github.com/havaianasdestruido/Projeto-TCC/commit/a397e4bbe8129443f89398b3db728fbddb58ab18>) Merge pull request \#80 from SANTCC\/bolt\-escapehtml\-fastpath\-optimization — PatoFlamejanteTV (2026\-10\-10)
+          - [5c45b25](<https://github.com/havaianasdestruido/Projeto-TCC/commit/5c45b25f0bcd0eb65f1fb0a2728c02372449998c>) Merge pull request \#81 from SANTCC\/arena\/73e71c4c\-projeto\-tcc — mxwllphlp\-coder (2026\-10\-10)
+          - [9474695](<https://github.com/havaianasdestruido/Projeto-TCC/commit/9474695b1886bcd9d68de1236790dc8ff1b213c1>) feat\: implement and validate backlog tasks BL\-001 through BL\-017 — mxwllphlp\-coder (2026\-10\-10)
+          - [3011e76](<https://github.com/havaianasdestruido/Projeto-TCC/commit/3011e76e83b97f601931f817784b67edba1438ca>) ⚡ Bolt\: Add fast\-path check in Anti\-XSS escapeHtml to optimize DOM rende — google\-labs\-jules\[bot\] (2026\-10\-10)
+          - [af101d4](<https://github.com/havaianasdestruido/Projeto-TCC/commit/af101d43be9165527cdecc5276da4bb50f92209f>) Add files via upload — Gustavorodriguesse (2026\-10\-10)
+          - [66338f4](<https://github.com/havaianasdestruido/Projeto-TCC/commit/66338f4cf94517e309f746d0cab79a8cedabc123>) Delete SPECs\/relatorios\-backlog\.md — Gustavorodriguesse (2026\-10\-10)
+          - [6470be6](<https://github.com/havaianasdestruido/Projeto-TCC/commit/6470be65cb9f3a4d97e6c353979d81bd7435975e>) Delete SPECs\/backlog\.md — Gustavorodriguesse (2026\-10\-10)
+          - [56b0975](<https://github.com/havaianasdestruido/Projeto-TCC/commit/56b09751db7ebb204942e03590be56899f7ff1fe>) Delete SPECs\/webmcp\.md — Gustavorodriguesse (2026\-10\-10)
+        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/Projeto-TCC/commits/main/?after=6d01e90f702649c149a04ede2ff78216d7925bc0+34>)
+          - [1bff78d](<https://github.com/havaianasdestruido/Projeto-TCC/commit/1bff78dbf3de680267da578943375ae67039f4c2>) backlog3 \(F\)\: cookie de dispositivo no Google Analytics — havaianasdestruido (2026\-10\-09)
+          - [8e52c73](<https://github.com/havaianasdestruido/Projeto-TCC/commit/8e52c731b7e33e9c0e7214b2828b332674e7b4a2>) backlog3 \(E\)\: nº de usuários on\-line no cabeçalho — havaianasdestruido (2026\-10\-09)
+          - [1795dee](<https://github.com/havaianasdestruido/Projeto-TCC/commit/1795dee8429dfdb4a009f3931c08e1a172875a91>) merge\: traz origin\/main \(PRs \#72 a \#74\) para a branch do backlog3 — havaianasdestruido (2026\-10\-09)
+          - [1432bef](<https://github.com/havaianasdestruido/Projeto-TCC/commit/1432bef1e211975a657d62e82f9b13c0f69c4d89>) Merge pull request \#74 from SANTCC\/jules\-4868331441474060702\-20ba6348 — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-09)
+          - [ff49ce0](<https://github.com/havaianasdestruido/Projeto-TCC/commit/ff49ce0398b39b6cd32c2f753e90a476603397f2>) Merge pull request \#73 from SANTCC\/update\-backlogs\-status\-17684342155513 — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-09)
+          - [5c771d3](<https://github.com/havaianasdestruido/Projeto-TCC/commit/5c771d3d8388b93929859fc099f915eaebfac932>) Merge pull request \#72 from SANTCC\/docs\/add\-agents\-claude\-ai\-md\-59484257 — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-09)
+          - [a5ca983](<https://github.com/havaianasdestruido/Projeto-TCC/commit/a5ca983ff164424f5041a0ca7b66d12002225e0c>) docs\: simplify README\.md by removing unnecessary details — google\-labs\-jules\[bot\] (2026\-10\-09)
+          - [2455497](<https://github.com/havaianasdestruido/Projeto-TCC/commit/24554975115c8035df4c7adbce350f2842f52bbe>) docs\: update backlogs status removing implemented items and detailing pe — google\-labs\-jules\[bot\] (2026\-10\-09)
+          - [88917cc](<https://github.com/havaianasdestruido/Projeto-TCC/commit/88917cc19b9b94c91ed79c8450baf5d75474f5fe>) Add agents\.md developer guide and claude\.md\/ai\.md references — google\-labs\-jules\[bot\] (2026\-10\-09)
+          - [6fec9b4](<https://github.com/havaianasdestruido/Projeto-TCC/commit/6fec9b44e88720914eacacbb838dce196feb1da9>) backlog3 \(I, N, O\)\: status no backlog e teste da reorganização de js\/ — havaianasdestruido (2026\-10\-09)
+        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/Projeto-TCC/commits/main/?after=0b13030642db96390cd5da0433a31752302d6480+34>)
+          - [97be684](<https://github.com/havaianasdestruido/Projeto-TCC/commit/97be68490565b3984a8a3415879400b6458ca8de>) fix\(charts\)\: auto refresh de 1 minuto, sem reload de 10s por heartbeat d — havaianasdestruido (2026\-10\-08)
+          - [741a5ba](<https://github.com/havaianasdestruido/Projeto-TCC/commit/741a5bab014534624a7fe6f0bc165f1663e27a7d>) Merge pull request \#64 from SANTCC\/arena\/9ac14415\-projeto\-tcc — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-08)
+          - [b6e29e8](<https://github.com/havaianasdestruido/Projeto-TCC/commit/b6e29e8fdc4db9934d8b42aef290cb14c01f1ba7>) test\(backlog3\)\: suíte de regressão das correções \+ documentação — havaianasdestruido (2026\-10\-08)
+          - [e089523](<https://github.com/havaianasdestruido/Projeto-TCC/commit/e089523b8d260cdf5ba7bc70633807d6f16f501b>) fix\(manutencao\)\: pânico idempotente, tabela de OS legível e travas \(back — havaianasdestruido (2026\-10\-08)
+          - [e6866ac](<https://github.com/havaianasdestruido/Projeto-TCC/commit/e6866ac407bf43033f3d461a5a56c629fc15f3e2>) fix\(regras\)\: travas de carga em trânsito, emergência e localização de na — havaianasdestruido (2026\-10\-08)
+          - [2b1a0f2](<https://github.com/havaianasdestruido/Projeto-TCC/commit/2b1a0f2805826b7e79b27eef4a5f368db9cec2c7>) fix\(ux\)\: auto\-hífen no login, sidebar fixa ao rolar e scanner QR 1\:1 \(ba — havaianasdestruido (2026\-10\-08)
+          - [2aea156](<https://github.com/havaianasdestruido/Projeto-TCC/commit/2aea156ef232532040a9160588fd3d4f2be1ecf7>) Merge pull request \#63 from SANTCC\/arena\/0fda155d\-projeto\-tcc — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-08)
+          - [eaa93cf](<https://github.com/havaianasdestruido/Projeto-TCC/commit/eaa93cf11ac825994a763d4d4b7e95b3a9d97610>) feat\(debug\)\: verbose client\-to\-server network logging in the browser con — havaianasdestruido (2026\-10\-08)
+          - [c7cee27](<https://github.com/havaianasdestruido/Projeto-TCC/commit/c7cee27ba90308aa2639b53fa3ae26aab15645bb>) Update backlog3\.md — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-08)
+          - [a26f1cd](<https://github.com/havaianasdestruido/Projeto-TCC/commit/a26f1cd64826db069fb2ba6a9e84417110af7eca>) add\: anotações do pedro — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-08)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -7398,7 +7437,10 @@
 
     - ### 🔀 Pull Requests
       - **Open PRs** (0)
-      - **Closed PRs** (3)
+      - **Closed PRs** (4)
+        - ✅ Merged [\#4 \[ImgBot\] Optimize images](<https://github.com/havaianasdestruido/Projeto-TCC/pull/4>) — imgbot\[bot\] (2026\-10\-10) `imgbot` → `main`
+          - 📝 1 commit(s) in this PR
+            - [1394639](<https://github.com/havaianasdestruido/Projeto-TCC/commit/139463983661f2ec597705110d14842ea0e38662>) \[ImgBot\] Optimize images
         - ✅ Merged [\#3 \[ImgBot\] Optimize images](<https://github.com/havaianasdestruido/Projeto-TCC/pull/3>) — imgbot\[bot\] (2026\-10\-07) `imgbot` → `main`
           - 📝 1 commit(s) in this PR
             - [4ff4712](<https://github.com/havaianasdestruido/Projeto-TCC/commit/4ff4712724c8ed4be68ea72ba8b2f43988161c24>) \[ImgBot\] Optimize images
@@ -7418,21 +7460,21 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (6)
-      - [@Gustavorodriguesse](<https://github.com/Gustavorodriguesse>) — 81 commit(s)
-      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 57 commit(s)
-      - [@google\-labs\-jules\[bot\]](<https://github.com/apps/google-labs-jules>) — 54 commit(s)
-      - [@mxwllphlp\-coder](<https://github.com/mxwllphlp-coder>) — 40 commit(s)
+      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 106 commit(s)
+      - [@Gustavorodriguesse](<https://github.com/Gustavorodriguesse>) — 88 commit(s)
+      - [@google\-labs\-jules\[bot\]](<https://github.com/apps/google-labs-jules>) — 64 commit(s)
+      - [@mxwllphlp\-coder](<https://github.com/mxwllphlp-coder>) — 49 commit(s)
+      - [@ImgBotApp](<https://github.com/ImgBotApp>) — 2 commit(s)
       - [@PEDRO042011](<https://github.com/PEDRO042011>) — 2 commit(s)
-      - [@ImgBotApp](<https://github.com/ImgBotApp>) — 1 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `JavaScript` — 68.0% (1,351,816 bytes)
-      - `HTML` — 24.2% (481,421 bytes)
-      - `Python` — 3.5% (69,647 bytes)
-      - `PLpgSQL` — 3.5% (68,735 bytes)
-      - `TypeScript` — 0.8% (15,082 bytes)
+      - `JavaScript` — 69.5% (1,943,867 bytes)
+      - `HTML` — 20.8% (581,731 bytes)
+      - `Python` — 6.0% (166,910 bytes)
+      - `PLpgSQL` — 3.1% (87,638 bytes)
+      - `TypeScript` — 0.6% (17,111 bytes)
 
 ---
 
@@ -8150,9 +8192,9 @@
 
 - ## [steamlogger](<https://github.com/havaianasdestruido/steamlogger>)
   > Rust app that logs every Steam game session to a JSON file, with optional enrich
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 1 open issues | 💻 MDX | 📅 Created: 2026-08-11 | 🔄 Updated: 2026-10-02
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 2 open issues | 💻 MDX | 📅 Created: 2026-08-11 | 🔄 Updated: 2026-10-02
 
-    - ### 🌿 Branches (3)
+    - ### 🌿 Branches (4)
       - [arena\/01a0fd79\-steamlogger](<https://github.com/havaianasdestruido/steamlogger/tree/arena/01a0fd79-steamlogger>) — HEAD: `ed8f729`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/steamlogger/commits/arena/01a0fd79-steamlogger>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/steamlogger/commits/arena/01a0fd79-steamlogger>)
@@ -8164,6 +8206,19 @@
           - [c87f09b](<https://github.com/havaianasdestruido/steamlogger/commit/c87f09b961df51f76c3d70ef350615b309fa1f6f>) Add MIT License — Pato \(new acc\) (2026\-09\-18)
           - [a4e4ac8](<https://github.com/havaianasdestruido/steamlogger/commit/a4e4ac867419af19c733597ae638403b6a773526>) feat\: implement session tracking with friends, lobby and map enrichment — havaianasdestruido (2026\-08\-10)
           - [42a8dbd](<https://github.com/havaianasdestruido/steamlogger/commit/42a8dbd8c7833c1dfebaca6544170e41437a1686>) chore\: scaffold steamlogger crate with module contracts — havaianasdestruido (2026\-08\-10)
+      - [bolt\-optimize\-json\-stream\-12627142233738284781](<https://github.com/havaianasdestruido/steamlogger/tree/bolt-optimize-json-stream-12627142233738284781>) — HEAD: `4c39f23`
+        - 📋 [All Commits](<https://github.com/havaianasdestruido/steamlogger/commits/bolt-optimize-json-stream-12627142233738284781>)
+        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/steamlogger/commits/bolt-optimize-json-stream-12627142233738284781>)
+          - [4c39f23](<https://github.com/havaianasdestruido/steamlogger/commit/4c39f23a0923a9ebc0a1a1af8dd9a33661b7ff53>) ⚡ Bolt\: Stream JSON log to disk to avoid repeated allocations — google\-labs\-jules\[bot\] (2026\-10\-10)
+          - [e3c708f](<https://github.com/havaianasdestruido/steamlogger/commit/e3c708f8e083e804030d990e3f6569f4ea36556d>) Merge pull request \#3 from havaianasdestruido\/imgbot — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-02)
+          - [d675d2e](<https://github.com/havaianasdestruido/steamlogger/commit/d675d2e036341813334584f40cf43b5e50feea04>) \[ImgBot\] Optimize images — ImgBotApp (2026\-10\-02)
+          - [5f67195](<https://github.com/havaianasdestruido/steamlogger/commit/5f67195168a42c86a6114f030a77ed7851c33eae>) Merge pull request \#2 from havaianasdestruido\/arena\/01a0fd79\-steamlogger — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-02)
+          - [ed8f729](<https://github.com/havaianasdestruido/steamlogger/commit/ed8f729bf205f73fd6ae9e02b7fcaebf9943d8d0>) docs\: address review feedback on the documentation site — havaianasdestruido (2026\-10\-02)
+          - [00a1d0d](<https://github.com/havaianasdestruido/steamlogger/commit/00a1d0df6adb9c3e0dc70cc165b7ec213b85aa8b>) docs\: add full Docusaurus documentation site — Arena Agent (2026\-10\-02)
+          - [2060c88](<https://github.com/havaianasdestruido/steamlogger/commit/2060c881b6becea30e93f7829a0c710d593e5a4b>) Set imgbot schedule to weekly — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
+          - [691928a](<https://github.com/havaianasdestruido/steamlogger/commit/691928a661d6007cfed2a4e4e4ba95579315dbf3>) Add \.imgbotconfig for aggressive image compression — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
+          - [9c8a57e](<https://github.com/havaianasdestruido/steamlogger/commit/9c8a57e96a64ec2d9bd9b70d7d6a823276c4d6fe>) docs\: add star history chart — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-20)
+          - [c87f09b](<https://github.com/havaianasdestruido/steamlogger/commit/c87f09b961df51f76c3d70ef350615b309fa1f6f>) Add MIT License — Pato \(new acc\) (2026\-09\-18)
       - [codex\/investigar\-problema\-de\-log](<https://github.com/havaianasdestruido/steamlogger/tree/codex/investigar-problema-de-log>) — HEAD: `da63afc`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/steamlogger/commits/codex/investigar-problema-de-log>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/steamlogger/commits/codex/investigar-problema-de-log>)
@@ -8189,7 +8244,10 @@
       - **Closed Issues** (0)
 
     - ### 🔀 Pull Requests
-      - **Open PRs** (1)
+      - **Open PRs** (2)
+        - 🟢 Open [\#4 ⚡ Bolt\: Stream JSON directly to disk](<https://github.com/havaianasdestruido/steamlogger/pull/4>) — havaianasdestruido (2026\-10\-10) `bolt-optimize-json-stream-12627142233738284781` → `main`
+          - 📝 1 commit(s) in this PR
+            - [4c39f23](<https://github.com/havaianasdestruido/steamlogger/commit/4c39f23a0923a9ebc0a1a1af8dd9a33661b7ff53>) ⚡ Bolt\: Stream JSON log to disk to avoid repeated allocation
         - 🟢 Open [\#1 Tolerate brief missing Steam current\-game polls](<https://github.com/havaianasdestruido/steamlogger/pull/1>) — havaianasdestruido (2026\-08\-14) `codex/investigar-problema-de-log` → `main`
           - 📝 1 commit(s) in this PR
             - [da63afc](<https://github.com/havaianasdestruido/steamlogger/commit/da63afce1905635b901bc16af104022937168df1>) Tolerate brief missing Steam game polls
@@ -8594,6 +8652,205 @@
 
 ---
 
+- ## [Win7Defender](<https://github.com/havaianasdestruido/Win7Defender>)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-10-10 | 🔄 Updated: 2026-10-10
+
+    - ### 🌿 Branches (1)
+      - [main](<https://github.com/havaianasdestruido/Win7Defender/tree/main>) _(default)_ — HEAD: `f6a141f`
+        - 📋 [All Commits](<https://github.com/havaianasdestruido/Win7Defender/commits/main>)
+        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/Win7Defender/commits/main>)
+          - [f6a141f](<https://github.com/havaianasdestruido/Win7Defender/commit/f6a141fe12af735d37e34efdab7fdea04d7cb4da>) Add files via upload — PatoFlamejanteTV (2026\-10\-10)
+          - [5ad8917](<https://github.com/havaianasdestruido/Win7Defender/commit/5ad8917cb80cee93e134e9a3ce94411e3304b7f3>) Initial commit — PatoFlamejanteTV (2026\-10\-10)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 2 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+
+---
+
+- ## [Win7DVDC](<https://github.com/havaianasdestruido/Win7DVDC>)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-10-10 | 🔄 Updated: 2026-10-10
+
+    - ### 🌿 Branches (1)
+      - [main](<https://github.com/havaianasdestruido/Win7DVDC/tree/main>) _(default)_ — HEAD: `eae81b4`
+        - 📋 [All Commits](<https://github.com/havaianasdestruido/Win7DVDC/commits/main>)
+        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/Win7DVDC/commits/main>)
+          - [eae81b4](<https://github.com/havaianasdestruido/Win7DVDC/commit/eae81b4a795255cb2817c3361a594f58d64bc562>) Initial commit — PatoFlamejanteTV (2026\-10\-10)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+
+---
+
+- ## [Win7IE](<https://github.com/havaianasdestruido/Win7IE>)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 Rich Text Format | 📅 Created: 2026-10-10 | 🔄 Updated: 2026-10-10
+
+    - ### 🌿 Branches (1)
+      - [main](<https://github.com/havaianasdestruido/Win7IE/tree/main>) _(default)_ — HEAD: `2c8c8b8`
+        - 📋 [All Commits](<https://github.com/havaianasdestruido/Win7IE/commits/main>)
+        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/Win7IE/commits/main>)
+          - [2c8c8b8](<https://github.com/havaianasdestruido/Win7IE/commit/2c8c8b8608f8d10651d61c0499ad910a43a69d85>) Add files via upload — PatoFlamejanteTV (2026\-10\-10)
+          - [162026e](<https://github.com/havaianasdestruido/Win7IE/commit/162026e3e882c7dc707768e0b91eb8d65d95788b>) Initial commit — PatoFlamejanteTV (2026\-10\-10)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 2 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+    - ### 💻 Languages
+      - `Rich Text Format` — 99.8% (235,189 bytes)
+      - `TeX` — 0.2% (464 bytes)
+
+---
+
+- ## [Win7MediaPlayer](<https://github.com/havaianasdestruido/Win7MediaPlayer>)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-10-10 | 🔄 Updated: 2026-10-10
+
+    - ### 🌿 Branches (1)
+      - [main](<https://github.com/havaianasdestruido/Win7MediaPlayer/tree/main>) _(default)_ — HEAD: `5497fb6`
+        - 📋 [All Commits](<https://github.com/havaianasdestruido/Win7MediaPlayer/commits/main>)
+        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/Win7MediaPlayer/commits/main>)
+          - [5497fb6](<https://github.com/havaianasdestruido/Win7MediaPlayer/commit/5497fb6cd168c10e91dea6d0a5336da01111e6bf>) Add files via upload — PatoFlamejanteTV (2026\-10\-10)
+          - [4be4b81](<https://github.com/havaianasdestruido/Win7MediaPlayer/commit/4be4b814ffcf92b3e9398adf2e31884b9a17f6d6>) Initial commit — PatoFlamejanteTV (2026\-10\-10)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 2 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+
+---
+
+- ## [Win7MSSQLSrv](<https://github.com/havaianasdestruido/Win7MSSQLSrv>)
+  > No description
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-10-10 | 🔄 Updated: 2026-10-10
+
+    - ### 🌿 Branches (1)
+      - [main](<https://github.com/havaianasdestruido/Win7MSSQLSrv/tree/main>) _(default)_ — HEAD: `ad92ea0`
+        - 📋 [All Commits](<https://github.com/havaianasdestruido/Win7MSSQLSrv/commits/main>)
+        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/Win7MSSQLSrv/commits/main>)
+          - [ad92ea0](<https://github.com/havaianasdestruido/Win7MSSQLSrv/commit/ad92ea04a309677e5e0a6161ebd2c5ad034e00df>) Initial commit — PatoFlamejanteTV (2026\-10\-10)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 1 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+
+---
+
+- ## [Win7WordPad\-ReUp](<https://github.com/havaianasdestruido/Win7WordPad-ReUp>) `📦 Archived | 🗃️ Template`
+  > Plain copy\-pasted binary of the Windows 7 original WordPad\. With en\-us and pt\-br
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 unknown | 📅 Created: 2026-10-10 | 🔄 Updated: 2026-10-10
+
+    - ### 🌿 Branches (1)
+      - [main](<https://github.com/havaianasdestruido/Win7WordPad-ReUp/tree/main>) _(default)_ — HEAD: `9bc9f4d`
+        - 📋 [All Commits](<https://github.com/havaianasdestruido/Win7WordPad-ReUp/commits/main>)
+        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/Win7WordPad-ReUp/commits/main>)
+          - [9bc9f4d](<https://github.com/havaianasdestruido/Win7WordPad-ReUp/commit/9bc9f4df41c8a9bd7b4e1e3556f507b4b0448310>) uploaded binaries — PatoFlamejanteTV (2026\-10\-10)
+          - [7c58eab](<https://github.com/havaianasdestruido/Win7WordPad-ReUp/commit/7c58eab33779bf1739871fdd62f209f33d15ddba>) Initial commit — PatoFlamejanteTV (2026\-10\-10)
+
+    - ### 🐛 Issues
+      - **Open Issues** (0)
+      - **Closed Issues** (0)
+
+    - ### 🔀 Pull Requests
+      - **Open PRs** (0)
+      - **Closed PRs** (0)
+
+    - ### 🍴 Forks (0)
+
+    - ### ⭐ Stargazers (0)
+
+    - ### 👀 Watchers / Subscribers (0)
+
+    - ### 👥 Contributors (1)
+      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 2 commit(s)
+
+    - ### 🏷️ Releases (0)
+
+
+---
+
 ---
 
 ## 👤 Social Graph
@@ -8601,7 +8858,7 @@
 ### Followers (8)
 
 - [@ishandutta2007](<https://github.com/ishandutta2007>)
-  - 📦 4314 public repos | 👥 follows 48996 people
+  - 📦 4326 public repos | 👥 follows 49168 people
 - [@moxie\-coder](<https://github.com/moxie-coder>)
   - 📦 221 public repos | 👥 follows 1652 people
 - [@Okafor\-twd](<https://github.com/Okafor-twd>)
@@ -8613,9 +8870,9 @@
 - [@andrewexec](<https://github.com/andrewexec>)
   - 📦 1 public repos | 👥 follows 2 people
 - [@ancaferro](<https://github.com/ancaferro>)
-  - 📦 4 public repos | 👥 follows 15618 people
+  - 📦 4 public repos | 👥 follows 15616 people
 - [@lxcadoza993](<https://github.com/lxcadoza993>)
-  - 📦 7 public repos | 👥 follows 171661 people
+  - 📦 7 public repos | 👥 follows 171660 people
 
 ### Following (31)
 
@@ -8651,8 +8908,11 @@
 - [@Gustavorodriguesse](<https://github.com/Gustavorodriguesse>)
 - [@SANTCC](<https://github.com/SANTCC>)
 
-### ⭐ Repos Starred by @havaianasdestruido (172)
+### ⭐ Repos Starred by @havaianasdestruido (175)
 
+- [killvxk\/winxpscodes](<https://github.com/killvxk/winxpscodes>) — 
+- [DeDf\/winxp\_source](<https://github.com/DeDf/winxp_source>) — 
+- [katahiromz\/RWordPad](<https://github.com/katahiromz/RWordPad>) — Independent ReactOS WordPad
 - [havaianasdestruido\/apkdecomp\-skill](<https://github.com/havaianasdestruido/apkdecomp-skill>) — 
 - [havaianasdestruido\/WAL\-skill](<https://github.com/havaianasdestruido/WAL-skill>) — 
 - [havaianasdestruido\/haxeopenflhaxeflixel\-skill](<https://github.com/havaianasdestruido/haxeopenflhaxeflixel-skill>) — 
@@ -8827,4 +9087,4 @@
 - [opa334\/darksword\-kexploit](<https://github.com/opa334/darksword-kexploit>) — iOS &lt;\=26\.0\.1 DarkSword Kernel Exploit reimplemented in Objec
 
 ---
-Report auto-generated by [GitHub Actions](<https://github.com/features/actions>) on 2026\-10\-10 16\:35\:39 UTC
+Report auto-generated by [GitHub Actions](<https://github.com/features/actions>) on 2026\-10\-10 23\:05\:51 UTC

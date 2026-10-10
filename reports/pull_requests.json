@@ -29,6 +29,19 @@
     "repo": "FNF-Phoenix-Engine",
     "state": "closed",
     "status": "merged",
+    "number": 33,
+    "title": "⚡ Bolt: record performance findings in journal (no runtime change)",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-10T19:00:38Z",
+    "base_branch": "main",
+    "head_branch": "arena/c369986f-fnf-phoenix-engine",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/33"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "closed",
+    "status": "merged",
     "number": 32,
     "title": "⚡ Bolt: Optimize loop in PlayStateRating.updateNps",
     "user": "havaianasdestruido",
@@ -271,19 +284,6 @@
     "head_branch": "fix-hmm-json-bom-12799565648666142956",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/12"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "status": "merged",
-    "number": 11,
-    "title": "Rebranding",
-    "user": "havaianasdestruido",
-    "created_at": "2026-08-30T19:14:21Z",
-    "base_branch": "main",
-    "head_branch": "rename-executable-phoenix-engine-9312091600553147924",
-    "commit_count": 2,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/11"
   },
   {
     "repo": "apkdecomp-skill",
@@ -614,6 +614,19 @@
     "repo": "R2K16",
     "state": "closed",
     "status": "merged",
+    "number": 5,
+    "title": "⚡ Bolt: Optimize network packet processing loop",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-10T18:49:26Z",
+    "base_branch": "main",
+    "head_branch": "bolt-opt-replicator-copy-16327855235489815194",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/R2K16/pull/5"
+  },
+  {
+    "repo": "R2K16",
+    "state": "closed",
+    "status": "merged",
     "number": 4,
     "title": "Split website: Jekyll primary page at /, Docusaurus docs only at /docs",
     "user": "havaianasdestruido",
@@ -700,6 +713,19 @@
     "head_branch": "arena/01a0fd83-wal-skill",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/WAL-skill/pull/1"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "state": "closed",
+    "status": "merged",
+    "number": 9,
+    "title": "Complete remaining decompilation gaps + 1:1 UI shell reconstruction",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-10T17:06:35Z",
+    "base_branch": "main",
+    "head_branch": "arena/caeabdf4-windowsmoviemakerdecomp",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/pull/9"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -895,6 +921,19 @@
     "head_branch": "vercel/install-vercel-speed-insights-ftzuun",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/AudioTaste/pull/1"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "⚡ Bolt: Optimize Vector3.Distance to Vector3.DistanceSquared",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-10T17:08:57Z",
+    "base_branch": "main",
+    "head_branch": "bolt-perf-vector3-4048617450725827117",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/pull/1"
   },
   {
     "repo": "bootloader-unlock-wall-of-shame",
@@ -1456,6 +1495,19 @@
     "url": "https://github.com/havaianasdestruido/Hiphenatus/pull/1"
   },
   {
+    "repo": "LetterPad",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "Remove Microsoft binaries; add original WordPad-style word processor (LetterPad)",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-10T19:03:06Z",
+    "base_branch": "main",
+    "head_branch": "arena/e96d1f0f-letterpad",
+    "commit_count": 3,
+    "url": "https://github.com/havaianasdestruido/LetterPad/pull/1"
+  },
+  {
     "repo": "manimce-claude",
     "state": "closed",
     "status": "merged",
@@ -1888,6 +1940,19 @@
     "repo": "Projeto-TCC",
     "state": "closed",
     "status": "merged",
+    "number": 4,
+    "title": "[ImgBot] Optimize images",
+    "user": "imgbot[bot]",
+    "created_at": "2026-10-10T22:03:42Z",
+    "base_branch": "main",
+    "head_branch": "imgbot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/pull/4"
+  },
+  {
+    "repo": "Projeto-TCC",
+    "state": "closed",
+    "status": "merged",
     "number": 3,
     "title": "[ImgBot] Optimize images",
     "user": "imgbot[bot]",
@@ -2026,6 +2091,19 @@
     "head_branch": "imgbot",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/Sonic4/pull/1"
+  },
+  {
+    "repo": "steamlogger",
+    "state": "open",
+    "status": "open",
+    "number": 4,
+    "title": "⚡ Bolt: Stream JSON directly to disk",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-10T21:09:51Z",
+    "base_branch": "main",
+    "head_branch": "bolt-optimize-json-stream-12627142233738284781",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/steamlogger/pull/4"
   },
   {
     "repo": "steamlogger",

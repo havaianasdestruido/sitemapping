@@ -49,6 +49,22 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
+    "pr_number": 33,
+    "sha": "971e2a4d65736c4fd08dc12112ef158cc81807ce",
+    "sha_short": "971e2a4",
+    "message": "docs: add Bolt performance journal entry",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/971e2a4d65736c4fd08dc12112ef158cc81807ce"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 33,
+    "sha": "d82b6d7e8d7e4e29272f125aa4ad6c8ac238c1f5",
+    "sha_short": "d82b6d7",
+    "message": "Merge branch 'main' into arena/c369986f-fnf-phoenix-engine",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d82b6d7e8d7e4e29272f125aa4ad6c8ac238c1f5"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
     "pr_number": 32,
     "sha": "5dec4eb422d6142534587c27bca3747bd1c91da8",
     "sha_short": "5dec4eb",
@@ -350,22 +366,6 @@
     "sha_short": "f275f5e",
     "message": "Fix UTF-8 BOM in hmm.json and JSON configs",
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f275f5e55e21feea5d1a6067ab4eae594897faa3"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 11,
-    "sha": "42ad9bcc91179cb478bb3d0a77b9f5f3e064ebb4",
-    "sha_short": "42ad9bc",
-    "message": "Rename engine executable and package name to FNF-Phoenix-Engine and quack.fnf.phoenix",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/42ad9bcc91179cb478bb3d0a77b9f5f3e064ebb4"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 11,
-    "sha": "9304f53c5621d8d370f89aa0f681b58d6075a461",
-    "sha_short": "9304f53",
-    "message": "Merge branch 'main' into rename-executable-phoenix-engine-9312091600553147924",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9304f53c5621d8d370f89aa0f681b58d6075a461"
   },
   {
     "repo": "apkdecomp-skill",
@@ -769,6 +769,14 @@
   },
   {
     "repo": "R2K16",
+    "pr_number": 5,
+    "sha": "171f482b00b181f471ff4f4a5204e300b8201dea",
+    "sha_short": "171f482",
+    "message": "Optimize network packet processing loop",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/171f482b00b181f471ff4f4a5204e300b8201dea"
+  },
+  {
+    "repo": "R2K16",
     "pr_number": 4,
     "sha": "0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0",
     "sha_short": "0659d3d",
@@ -846,6 +854,22 @@
     "sha_short": "905afbb",
     "message": "Add W3C WAI frontend accessibility Claude skill",
     "url": "https://github.com/havaianasdestruido/WAL-skill/commit/905afbb4c2b065838bbad033a19c448c9733b7d8"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 9,
+    "sha": "8e6ee45c5d70754847175dada6f6d5e8f950ae6e",
+    "sha_short": "8e6ee45",
+    "message": "feat: complete remaining decomp gaps + 1:1 UI shell reconstruction",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8e6ee45c5d70754847175dada6f6d5e8f950ae6e"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 9,
+    "sha": "c7b123d797cb40c86d9008a50dab6a44205d8ea8",
+    "sha_short": "c7b123d",
+    "message": "fix: address review findings across inventory, datetime parsing, close flow, selection state and replica wiring",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/c7b123d797cb40c86d9008a50dab6a44205d8ea8"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -1046,6 +1070,14 @@
     "sha_short": "4e7ad01",
     "message": "Install Vercel Speed Insights with framework support",
     "url": "https://github.com/havaianasdestruido/AudioTaste/commit/4e7ad01509542836213e7125ccc4fb067bb78d9b"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "pr_number": 1,
+    "sha": "5cf7b856d6e7452e12ca1e501be5ee587fe2197c",
+    "sha_short": "5cf7b85",
+    "message": "⚡ Bolt: Optimize Vector3.Distance to Vector3.DistanceSquared",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/5cf7b856d6e7452e12ca1e501be5ee587fe2197c"
   },
   {
     "repo": "bootloader-unlock-wall-of-shame",
@@ -1664,6 +1696,30 @@
     "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/1bc346215cd7465722f1d51239d262f69b14a9d9"
   },
   {
+    "repo": "LetterPad",
+    "pr_number": 1,
+    "sha": "3a996ed68670b835990ed7f98f84c4b829d5ba86",
+    "sha_short": "3a996ed",
+    "message": "Remove proprietary Microsoft binaries from the working tree",
+    "url": "https://github.com/havaianasdestruido/LetterPad/commit/3a996ed68670b835990ed7f98f84c4b829d5ba86"
+  },
+  {
+    "repo": "LetterPad",
+    "pr_number": 1,
+    "sha": "d877f12c8409df9e0820b192599abb5eb87289da",
+    "sha_short": "d877f12",
+    "message": "LetterPad: original WordPad-style rich-text word processor",
+    "url": "https://github.com/havaianasdestruido/LetterPad/commit/d877f12c8409df9e0820b192599abb5eb87289da"
+  },
+  {
+    "repo": "LetterPad",
+    "pr_number": 1,
+    "sha": "2617f8d761240bf84465a7454556b933f1456b98",
+    "sha_short": "2617f8d",
+    "message": "Address code review: 40 correctness, safety and documentation fixes",
+    "url": "https://github.com/havaianasdestruido/LetterPad/commit/2617f8d761240bf84465a7454556b933f1456b98"
+  },
+  {
     "repo": "manimce-claude",
     "pr_number": 1,
     "sha": "7c89e73ebd2f8d3917f7a6b9f40f571da93bb97a",
@@ -2049,6 +2105,14 @@
   },
   {
     "repo": "Projeto-TCC",
+    "pr_number": 4,
+    "sha": "139463983661f2ec597705110d14842ea0e38662",
+    "sha_short": "1394639",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/139463983661f2ec597705110d14842ea0e38662"
+  },
+  {
+    "repo": "Projeto-TCC",
     "pr_number": 3,
     "sha": "4ff4712724c8ed4be68ea72ba8b2f43988161c24",
     "sha_short": "4ff4712",
@@ -2190,6 +2254,14 @@
     "sha_short": "b876165",
     "message": "[ImgBot] Optimize images",
     "url": "https://github.com/havaianasdestruido/Sonic4/commit/b8761650af88efeb084aa64d23a411cbb9d30987"
+  },
+  {
+    "repo": "steamlogger",
+    "pr_number": 4,
+    "sha": "4c39f23a0923a9ebc0a1a1af8dd9a33661b7ff53",
+    "sha_short": "4c39f23",
+    "message": "⚡ Bolt: Stream JSON log to disk to avoid repeated allocations",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/4c39f23a0923a9ebc0a1a1af8dd9a33661b7ff53"
   },
   {
     "repo": "steamlogger",
