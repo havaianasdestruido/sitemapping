@@ -1,7 +1,7 @@
 name,owner,url,description,stars,forks,watchers,open_issues,language,default_branch,created_at,updated_at,is_fork,is_archived,is_template,forked_from
-FNF-Phoenix-Engine,havaianasdestruido,https://github.com/havaianasdestruido/FNF-Phoenix-Engine,"Phoenix Engine is an enhanced fork of JSE, which in turn is a fork of Psych but with performance-related additions.",4,0,4,2,Haxe,main,2026-04-23T14:23:01Z,2026-10-05T14:06:18Z,True,False,True,JordanSantiagoYT/FNF-JS-Engine
+FNF-Phoenix-Engine,havaianasdestruido,https://github.com/havaianasdestruido/FNF-Phoenix-Engine,"Phoenix Engine is an enhanced fork of JSE, which in turn is a fork of Psych but with performance-related additions.",4,0,4,2,Haxe,main,2026-04-23T14:23:01Z,2026-10-10T14:58:20Z,True,False,True,JordanSantiagoYT/FNF-JS-Engine
 apkdecomp-skill,havaianasdestruido,https://github.com/havaianasdestruido/apkdecomp-skill,,1,0,1,0,CSS,main,2026-09-20T13:44:19Z,2026-10-10T01:49:14Z,False,False,False,
-blaster,havaianasdestruido,https://github.com/havaianasdestruido/blaster,MIRROR of blaster worm code decomp,1,0,1,0,C,main,2026-09-10T00:24:07Z,2026-09-21T01:10:28Z,False,False,False,
+blaster,havaianasdestruido,https://github.com/havaianasdestruido/blaster,MIRROR of blaster worm code decomp,1,0,1,0,C,main,2026-09-10T00:24:07Z,2026-10-10T16:05:53Z,False,False,False,
 haxeopenflhaxeflixel-skill,havaianasdestruido,https://github.com/havaianasdestruido/haxeopenflhaxeflixel-skill,,1,0,1,0,unknown,main,2026-09-24T12:53:36Z,2026-10-10T01:48:39Z,False,False,False,
 hemorroidabot,havaianasdestruido,https://github.com/havaianasdestruido/hemorroidabot,,1,0,1,1,JavaScript,master,2026-09-01T20:45:25Z,2026-10-09T23:26:56Z,False,False,True,
 KaukaMed,havaianasdestruido,https://github.com/havaianasdestruido/KaukaMed,,1,0,1,2,TypeScript,main,2026-09-24T16:39:52Z,2026-10-05T12:24:30Z,False,False,False,
@@ -9,15 +9,16 @@ PersonaDB,havaianasdestruido,https://github.com/havaianasdestruido/PersonaDB,"La
 pong-pop,havaianasdestruido,https://github.com/havaianasdestruido/pong-pop,"Jogo simples onde você joga ping pong, mas com pop ups.",1,0,1,0,JavaScript,main,2026-07-28T19:07:27Z,2026-09-21T01:10:32Z,False,False,False,
 PrintSpoolerAutoRun,havaianasdestruido,https://github.com/havaianasdestruido/PrintSpoolerAutoRun,Simple win32 app that starts the printer spooler service if its not running.,1,0,1,0,C++,main,2026-09-18T00:27:16Z,2026-09-21T01:10:30Z,False,False,False,
 R2K16,havaianasdestruido,https://github.com/havaianasdestruido/R2K16,2K16 RBLX,1,0,1,1,C++,main,2026-09-06T18:49:26Z,2026-10-03T19:32:13Z,True,False,True,Artifaqt/ROBLOX2016
-sitemapping,havaianasdestruido,https://github.com/havaianasdestruido/sitemapping,workflow to make me get indexed on some stuff. aka SEO stuff,1,0,1,0,JavaScript,main,2026-09-13T17:26:42Z,2026-10-10T03:32:13Z,False,False,True,
-top100,havaianasdestruido,https://github.com/havaianasdestruido/top100,"TOP 100 GitHub repositories for each major programming language, listed by stars.",1,0,1,0,HTML,main,2026-09-20T19:20:25Z,2026-10-10T09:17:22Z,False,False,False,
+sitemapping,havaianasdestruido,https://github.com/havaianasdestruido/sitemapping,workflow to make me get indexed on some stuff. aka SEO stuff,1,0,1,0,JavaScript,main,2026-09-13T17:26:42Z,2026-10-10T10:22:44Z,False,False,True,
+top100,havaianasdestruido,https://github.com/havaianasdestruido/top100,"TOP 100 GitHub repositories for each major programming language, listed by stars.",1,0,1,0,HTML,main,2026-09-20T19:20:25Z,2026-10-10T15:39:20Z,False,False,False,
 WAL-skill,havaianasdestruido,https://github.com/havaianasdestruido/WAL-skill,,1,0,1,0,JavaScript,main,2026-10-02T16:46:30Z,2026-10-10T01:48:43Z,False,False,False,
 Win7APIs,havaianasdestruido,https://github.com/havaianasdestruido/Win7APIs,"DLLs useful for using when you encounter a ""missing DLL"" error",1,0,1,0,unknown,main,2026-10-05T20:40:07Z,2026-10-05T23:17:29Z,False,False,False,
 Win7MSUs,havaianasdestruido,https://github.com/havaianasdestruido/Win7MSUs,QoL Offline Updates,1,0,1,0,unknown,main,2026-10-07T01:53:59Z,2026-10-10T01:48:14Z,False,False,False,
-WindowsMovieMakerDecomp,havaianasdestruido,https://github.com/havaianasdestruido/WindowsMovieMakerDecomp,"Full decompilation of Microsoft Windows Movie Maker, extracted from a 2012 Live Essentials setup.",1,0,1,0,C++,main,2026-07-15T20:18:27Z,2026-10-09T17:09:25Z,False,False,False,
+WindowsMovieMakerDecomp,havaianasdestruido,https://github.com/havaianasdestruido/WindowsMovieMakerDecomp,"Full decompilation of Microsoft Windows Movie Maker, extracted from a 2012 Live Essentials setup.",1,0,1,0,C++,main,2026-07-15T20:18:27Z,2026-10-10T14:48:17Z,False,False,False,
 .github,havaianasdestruido,https://github.com/havaianasdestruido/.github,me,0,0,0,0,unknown,main,2026-08-09T19:49:51Z,2026-09-29T18:21:00Z,False,False,False,
 abnt-skill,havaianasdestruido,https://github.com/havaianasdestruido/abnt-skill,Uma única skill pra dominar completamente o conjunto Office.,0,0,0,0,Python,main,2026-09-29T23:56:52Z,2026-10-03T18:40:07Z,False,False,False,
 aisearchhelpers,havaianasdestruido,https://github.com/havaianasdestruido/aisearchhelpers,Free AI search visibility scanner + lead funnel — asks AI assistants your customers' real buying questions and scores the 9 factors that drive AI citations,0,0,0,0,unknown,main,2026-09-28T20:34:48Z,2026-09-28T20:34:48Z,True,False,False,kjagsadvisors/aisearchhelpers
+AmIOnline,havaianasdestruido,https://github.com/havaianasdestruido/AmIOnline,Simple WiFi/Ethernet connection checker Android app.,0,0,0,2,Kotlin,main,2026-10-09T23:38:11Z,2026-10-10T14:35:28Z,False,False,False,
 AudioTaste,havaianasdestruido,https://github.com/havaianasdestruido/AudioTaste,,0,0,0,0,JavaScript,main,2026-08-07T17:55:19Z,2026-09-21T01:10:17Z,False,False,False,
 BloodAndBacon-DnSpyEx,havaianasdestruido,https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx,Decompile of Blood & Bacon made using DnSpyEx.,0,0,0,0,C#,main,2026-08-12T23:51:04Z,2026-09-21T01:10:17Z,False,False,False,
 bloxNES,havaianasdestruido,https://github.com/havaianasdestruido/bloxNES,,0,0,0,0,Lua,main,2026-05-03T16:17:42Z,2026-09-21T01:10:30Z,False,False,True,
@@ -31,7 +32,7 @@ CivilConection-Fernando,havaianasdestruido,https://github.com/havaianasdestruido
 CivilConnection,havaianasdestruido,https://github.com/havaianasdestruido/CivilConnection,,0,0,0,0,PLpgSQL,main,2026-10-04T19:46:52Z,2026-10-05T13:33:53Z,False,False,False,
 ClassHub,havaianasdestruido,https://github.com/havaianasdestruido/ClassHub,Sistema de gerenciamento escolar (Projeto da etec),0,0,0,0,JavaScript,main,2026-09-29T18:12:52Z,2026-09-30T00:06:35Z,True,False,False,cavaleiro-olimpioo/ClassHub
 dadosabertos,havaianasdestruido,https://github.com/havaianasdestruido/dadosabertos,,0,0,0,0,Python,main,2026-09-28T12:39:19Z,2026-09-28T20:10:02Z,False,False,False,
-eleicoes-data,havaianasdestruido,https://github.com/havaianasdestruido/eleicoes-data,,0,0,0,0,Python,main,2026-10-04T23:44:47Z,2026-10-10T07:55:11Z,False,False,False,
+eleicoes-data,havaianasdestruido,https://github.com/havaianasdestruido/eleicoes-data,,0,0,0,0,Python,main,2026-10-04T23:44:47Z,2026-10-10T13:59:47Z,False,False,False,
 EleLab_v2,havaianasdestruido,https://github.com/havaianasdestruido/EleLab_v2,Cheap DIY lab system for hobbyists and the tinkering folk,0,0,0,0,unknown,master,2026-09-19T19:59:57Z,2026-09-19T19:59:57Z,True,False,False,Chrismettal/EleLab_v2
 EZInfiniteYTLive,havaianasdestruido,https://github.com/havaianasdestruido/EZInfiniteYTLive,,0,0,0,0,C#,main,2026-09-13T18:08:46Z,2026-10-03T17:05:41Z,False,False,False,
 face-tagger,havaianasdestruido,https://github.com/havaianasdestruido/face-tagger,,0,0,0,0,C#,master,2026-08-03T16:50:46Z,2026-09-21T01:10:17Z,False,False,False,
@@ -47,7 +48,7 @@ Giggles-Shit,havaianasdestruido,https://github.com/havaianasdestruido/Giggles-Sh
 gitgithub,havaianasdestruido,https://github.com/havaianasdestruido/gitgithub,trabalho escolar,0,0,0,0,unknown,main,2026-08-14T17:00:04Z,2026-09-21T01:10:28Z,False,False,False,
 global-sitemap,havaianasdestruido,https://github.com/havaianasdestruido/global-sitemap,,0,0,0,0,Python,main,2026-10-09T00:10:52Z,2026-10-09T00:38:36Z,False,False,False,
 havaianasdestruido.github.io,havaianasdestruido,https://github.com/havaianasdestruido/havaianasdestruido.github.io,,0,0,0,0,HTML,new,2026-08-12T15:37:31Z,2026-10-09T00:44:50Z,False,False,False,
-Hiphenatus,havaianasdestruido,https://github.com/havaianasdestruido/Hiphenatus,,0,0,0,0,C#,main,2026-09-07T17:25:35Z,2026-09-21T01:10:32Z,False,False,False,
+Hiphenatus,havaianasdestruido,https://github.com/havaianasdestruido/Hiphenatus,,0,0,0,0,C#,main,2026-09-07T17:25:35Z,2026-10-10T16:32:46Z,False,False,False,
 hscript-improved,havaianasdestruido,https://github.com/havaianasdestruido/hscript-improved,Fork of HScript with many new features,0,0,0,0,Haxe,master,2026-08-09T20:20:24Z,2026-08-09T22:52:36Z,True,False,False,CodenameCrew/hscript-improved
 hxluau,havaianasdestruido,https://github.com/havaianasdestruido/hxluau,Haxe/hxcpp @:native bindings for Luau.,0,0,0,0,C++,main,2026-08-09T20:14:59Z,2026-08-09T22:46:45Z,True,False,False,Ajwyunsx/hxluau
 ImaturidadePlusPlus,havaianasdestruido,https://github.com/havaianasdestruido/ImaturidadePlusPlus,old fnf mod,0,0,0,0,Lua,main,2026-08-09T19:23:11Z,2026-09-20T18:24:25Z,False,True,True,
@@ -71,7 +72,7 @@ noisy,havaianasdestruido,https://github.com/havaianasdestruido/noisy,,0,0,0,0,C#
 nomescenso2022,havaianasdestruido,https://github.com/havaianasdestruido/nomescenso2022,,0,0,0,0,Python,main,2026-09-28T12:21:54Z,2026-09-29T18:44:34Z,False,False,False,
 OdontoAura,havaianasdestruido,https://github.com/havaianasdestruido/OdontoAura,"Sistema de gerenciamento, agendamento e manutenção de pacientes, horários, consultas e seleção de especialidades médicas.",0,0,0,2,TypeScript,main,2026-09-03T17:10:12Z,2026-09-22T16:35:34Z,False,False,False,
 orelha,havaianasdestruido,https://github.com/havaianasdestruido/orelha,,0,0,0,0,HTML,main,2026-08-25T17:36:28Z,2026-09-21T01:10:24Z,False,False,False,
-p2unrealscript,havaianasdestruido,https://github.com/havaianasdestruido/p2unrealscript,Postal 2 UnrealScript source,0,0,0,0,UnrealScript,master,2026-10-03T17:36:54Z,2026-10-09T23:49:24Z,True,False,False,Kizoky/p2unrealscript
+p2unrealscript,havaianasdestruido,https://github.com/havaianasdestruido/p2unrealscript,Postal 2 UnrealScript source,0,0,0,0,UnrealScript,master,2026-10-03T17:36:54Z,2026-10-10T14:42:10Z,True,False,False,Kizoky/p2unrealscript
 PhoenixLiveWallpaper,havaianasdestruido,https://github.com/havaianasdestruido/PhoenixLiveWallpaper,Haxe easteregg,0,0,0,0,Haxe,main,2026-09-27T16:49:40Z,2026-09-27T20:29:22Z,False,False,False,
 PhonkHub,havaianasdestruido,https://github.com/havaianasdestruido/PhonkHub,Sistema de gerenciamento escolar (Projeto da etec),0,0,0,0,JavaScript,main,2026-09-29T14:57:55Z,2026-09-29T18:12:21Z,False,False,False,
 photoviewer,havaianasdestruido,https://github.com/havaianasdestruido/photoviewer,,0,0,0,0,C#,master,2026-08-03T16:49:42Z,2026-09-21T01:10:22Z,False,False,False,
@@ -81,7 +82,7 @@ pm-claude-skills-opencode,havaianasdestruido,https://github.com/havaianasdestrui
 Projeto-TCC,havaianasdestruido,https://github.com/havaianasdestruido/Projeto-TCC,,0,0,0,0,JavaScript,main,2026-10-06T17:39:30Z,2026-10-09T17:09:48Z,True,False,False,SANTCC/Projeto-TCC
 pwn,havaianasdestruido,https://github.com/havaianasdestruido/pwn,lol,0,0,0,0,HTML,main,2026-10-06T20:15:21Z,2026-10-06T21:35:54Z,False,False,False,
 PWSV,havaianasdestruido,https://github.com/havaianasdestruido/PWSV,Pato's WebSocket VST(3) plugin.,0,0,0,0,C++,main,2026-07-26T01:18:05Z,2026-10-03T18:21:12Z,False,False,True,
-Quack3DMM,havaianasdestruido,https://github.com/havaianasdestruido/Quack3DMM,This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.,0,0,0,0,SWIG,main,2026-07-12T22:05:10Z,2026-09-20T18:09:19Z,True,False,False,microsoft/Microsoft-3D-Movie-Maker
+Quack3DMM,havaianasdestruido,https://github.com/havaianasdestruido/Quack3DMM,This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.,0,0,0,0,SWIG,main,2026-07-12T22:05:10Z,2026-10-10T14:48:11Z,True,False,False,microsoft/Microsoft-3D-Movie-Maker
 quackdb,havaianasdestruido,https://github.com/havaianasdestruido/quackdb,"Simple DuckDB viewer, fully client-sided.",0,0,0,0,JavaScript,main,2026-10-03T18:50:30Z,2026-10-03T18:58:44Z,False,False,False,
 Rbx2Source-enhanced,havaianasdestruido,https://github.com/havaianasdestruido/Rbx2Source-enhanced,"A utility tool that automatically assembles Roblox assets into geometry data, which is then compiled into the Source Engine.",0,0,0,0,C#,experimental,2026-08-11T14:49:44Z,2026-09-19T20:04:54Z,True,False,False,aleksa07/Rbx2Source-enhanced
 resumos-eleicao-2026,havaianasdestruido,https://github.com/havaianasdestruido/resumos-eleicao-2026,Resumos digitais (hashes) das Eleições 2026 – 1º turno e 2º turnos,0,0,0,0,HTML,main,2026-10-04T16:39:14Z,2026-10-04T16:48:25Z,False,False,False,

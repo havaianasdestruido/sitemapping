@@ -49,6 +49,14 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
+    "pr_number": 32,
+    "sha": "5dec4eb422d6142534587c27bca3747bd1c91da8",
+    "sha_short": "5dec4eb",
+    "message": "⚡ Bolt: Optimize notesHitDateArray iteration logic in updateNps",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5dec4eb422d6142534587c27bca3747bd1c91da8"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
     "pr_number": 31,
     "sha": "af35c3f0085259fa1892f0fe5984c4badf25810c",
     "sha_short": "af35c3f",
@@ -358,46 +366,6 @@
     "sha_short": "9304f53",
     "message": "Merge branch 'main' into rename-executable-phoenix-engine-9312091600553147924",
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9304f53c5621d8d370f89aa0f681b58d6075a461"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 10,
-    "sha": "b049c3172a677cf9b9ee456783a778a55f4d710c",
-    "sha_short": "b049c31",
-    "message": "Add mobile and Android support with touch controls and CI workflows",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b049c3172a677cf9b9ee456783a778a55f4d710c"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 10,
-    "sha": "e18aa9c3d85cf8c350f31bbc5c14665bd8c364e6",
-    "sha_short": "e18aa9c",
-    "message": "Fix HXP certificate reference and update mobile CI workflows",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e18aa9c3d85cf8c350f31bbc5c14665bd8c364e6"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 10,
-    "sha": "adee2fec8cbd7d2f5f817d7fc563565fd413b630",
-    "sha_short": "adee2fe",
-    "message": "Fix Certificate type qualification in project.hxp for HXP build",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/adee2fec8cbd7d2f5f817d7fc563565fd413b630"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 10,
-    "sha": "4e86b3429b20cb3eeddf3828485508a12fe9bf86",
-    "sha_short": "4e86b34",
-    "message": "Fix mobile CI workflow paths, keystore handling, and null safety",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4e86b3429b20cb3eeddf3828485508a12fe9bf86"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 10,
-    "sha": "b88410f0e50681c0d2ebad8cdf10adbfbe1c3b48",
-    "sha_short": "b88410f",
-    "message": "Add mobile (Android) target support and touch controls",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b88410f0e50681c0d2ebad8cdf10adbfbe1c3b48"
   },
   {
     "repo": "apkdecomp-skill",
@@ -881,6 +849,30 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 8,
+    "sha": "797b47b8f4fe1b769423de2e08a447f2441d5ad7",
+    "sha_short": "797b47b",
+    "message": "⚡ Bolt: Eliminate large string copies in X3DReader",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/797b47b8f4fe1b769423de2e08a447f2441d5ad7"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 8,
+    "sha": "b955764e7ba9ba8dcdcbadaa909b9a9bd799ff29",
+    "sha_short": "b955764",
+    "message": "Merge branch 'main' into bolt-x3dreader-zero-copy-parsing-2982655532714649705",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b955764e7ba9ba8dcdcbadaa909b9a9bd799ff29"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 7,
+    "sha": "d57aec6abcdf206569dcbe76464e9982fcc667cf",
+    "sha_short": "d57aec6",
+    "message": "⚡ Optimize homepage hero image transfer with WebP",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d57aec6abcdf206569dcbe76464e9982fcc667cf"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
     "pr_number": 6,
     "sha": "06026d0ee57fb99ba35f075d22ac782348ae92fe",
     "sha_short": "06026d0",
@@ -966,6 +958,86 @@
     "sha_short": "a4d0723",
     "message": "Aplica revisao: precisao ABNT, checklist duplex, limite Access, parser fail-closed",
     "url": "https://github.com/havaianasdestruido/abnt-skill/commit/a4d0723375c0d8d8c6b871f3a13f6ea507cf6752"
+  },
+  {
+    "repo": "AmIOnline",
+    "pr_number": 5,
+    "sha": "ec7e9ec44e042e30e02f62796c6b108c54a1e3a7",
+    "sha_short": "ec7e9ec",
+    "message": "Extract hostname regex in NetworkUtils for performance",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/ec7e9ec44e042e30e02f62796c6b108c54a1e3a7"
+  },
+  {
+    "repo": "AmIOnline",
+    "pr_number": 5,
+    "sha": "552034085b20ad7a261aef6348d998d7ad1c0f89",
+    "sha_short": "5520340",
+    "message": "Merge branch 'main' into bolt-optimize-regex-12058775158933601535",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/552034085b20ad7a261aef6348d998d7ad1c0f89"
+  },
+  {
+    "repo": "AmIOnline",
+    "pr_number": 3,
+    "sha": "4346ee5a38e93b5e21cc71a13a1ce67a2040749b",
+    "sha_short": "4346ee5",
+    "message": "Improve ping console performance",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/4346ee5a38e93b5e21cc71a13a1ce67a2040749b"
+  },
+  {
+    "repo": "AmIOnline",
+    "pr_number": 3,
+    "sha": "417a6e5e5303743efe20461e7127c863d5a3b60d",
+    "sha_short": "417a6e5",
+    "message": "Fix scroll and hostname review findings",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/417a6e5e5303743efe20461e7127c863d5a3b60d"
+  },
+  {
+    "repo": "AmIOnline",
+    "pr_number": 3,
+    "sha": "57b70d3422f82dcf5810ae9ab72f8968066edd0d",
+    "sha_short": "57b70d3",
+    "message": "Merge remote-tracking branch 'origin/main' into arena/f627303f-amionline",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/57b70d3422f82dcf5810ae9ab72f8968066edd0d"
+  },
+  {
+    "repo": "AmIOnline",
+    "pr_number": 3,
+    "sha": "3ddfa975b74b6ec0b9d8c22c12d2ab6ee1b36168",
+    "sha_short": "3ddfa97",
+    "message": "Resolve hostname regex after base update",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/3ddfa975b74b6ec0b9d8c22c12d2ab6ee1b36168"
+  },
+  {
+    "repo": "AmIOnline",
+    "pr_number": 4,
+    "sha": "30bd0e46403fbc9fd42a853d21c6043411700b6a",
+    "sha_short": "30bd0e4",
+    "message": "⚡ Bolt: compile hostname regex once instead of per call",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/30bd0e46403fbc9fd42a853d21c6043411700b6a"
+  },
+  {
+    "repo": "AmIOnline",
+    "pr_number": 2,
+    "sha": "f606e3fb986a1ca27a0b5a5c6d4dcccc79e82eec",
+    "sha_short": "f606e3f",
+    "message": "Rename package to com.quack.online",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/f606e3fb986a1ca27a0b5a5c6d4dcccc79e82eec"
+  },
+  {
+    "repo": "AmIOnline",
+    "pr_number": 1,
+    "sha": "dc52ef36d8c369a2335dcc02e6f5462a1685ab81",
+    "sha_short": "dc52ef3",
+    "message": "feat: implement native AmIOnline Android ping application",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/dc52ef36d8c369a2335dcc02e6f5462a1685ab81"
+  },
+  {
+    "repo": "AmIOnline",
+    "pr_number": 1,
+    "sha": "7d55d9190ecb42ff464ba346fe42639587e3bcd3",
+    "sha_short": "7d55d91",
+    "message": "ci: add GitHub Actions workflow for building app and uploading APK artifact",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/7d55d9190ecb42ff464ba346fe42639587e3bcd3"
   },
   {
     "repo": "AudioTaste",
@@ -1584,6 +1656,14 @@
     "url": "https://github.com/havaianasdestruido/havaianasdestruido.github.io/commit/56e00a93cf6a687245159cc63b09c106fe7270bb"
   },
   {
+    "repo": "Hiphenatus",
+    "pr_number": 1,
+    "sha": "1bc346215cd7465722f1d51239d262f69b14a9d9",
+    "sha_short": "1bc3462",
+    "message": "⚡ Bolt: Cache loop-invariant math calculations in Shaders",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/1bc346215cd7465722f1d51239d262f69b14a9d9"
+  },
+  {
     "repo": "manimce-claude",
     "pr_number": 1,
     "sha": "7c89e73ebd2f8d3917f7a6b9f40f571da93bb97a",
@@ -1889,6 +1969,22 @@
   },
   {
     "repo": "p2unrealscript",
+    "pr_number": 3,
+    "sha": "359930be0c43cdec52a4f0fd20c00d9dec215205",
+    "sha_short": "359930b",
+    "message": "Reduce lag spikes when gasoline/fire ignites",
+    "url": "https://github.com/havaianasdestruido/p2unrealscript/commit/359930be0c43cdec52a4f0fd20c00d9dec215205"
+  },
+  {
+    "repo": "p2unrealscript",
+    "pr_number": 2,
+    "sha": "0975a2684d6131a40be29dc5fd7d6b83e693c391",
+    "sha_short": "0975a26",
+    "message": "Optimize fire emitter neighbor scan",
+    "url": "https://github.com/havaianasdestruido/p2unrealscript/commit/0975a2684d6131a40be29dc5fd7d6b83e693c391"
+  },
+  {
+    "repo": "p2unrealscript",
     "pr_number": 1,
     "sha": "9f629571727e23c849e7af31dd1886e42506243f",
     "sha_short": "9f62957",
@@ -2030,6 +2126,14 @@
     "sha_short": "1eea800",
     "message": "ci: separate build and deploy jobs for GitHub Pages workflow",
     "url": "https://github.com/havaianasdestruido/PWSV/commit/1eea800835125417437294fe20acc9d2e885676e"
+  },
+  {
+    "repo": "Quack3DMM",
+    "pr_number": 2,
+    "sha": "7bbd95cc01693e1f180c2a6141e674c1ed16c28c",
+    "sha_short": "7bbd95c",
+    "message": "perf: optimize EventBus::fire_internal by deferring time checks for unthrottled events",
+    "url": "https://github.com/havaianasdestruido/Quack3DMM/commit/7bbd95cc01693e1f180c2a6141e674c1ed16c28c"
   },
   {
     "repo": "Quack3DMM",

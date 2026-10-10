@@ -20,7 +20,7 @@
   {
     "repo": "FNF-Phoenix-Engine",
     "login": "havaianasdestruido",
-    "contributions": 160,
+    "contributions": 161,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -188,7 +188,7 @@
   {
     "repo": "blaster",
     "login": "havaianasdestruido",
-    "contributions": 6,
+    "contributions": 7,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -272,7 +272,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 93,
+    "contributions": 94,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -284,7 +284,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 110,
+    "contributions": 111,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -314,8 +314,14 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "login": "havaianasdestruido",
-    "contributions": 27,
+    "contributions": 31,
     "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "login": "google-labs-jules[bot]",
+    "contributions": 1,
+    "profile_url": "https://github.com/apps/google-labs-jules"
   },
   {
     "repo": ".github",
@@ -334,6 +340,18 @@
     "login": "kjagsadvisors",
     "contributions": 27,
     "profile_url": "https://github.com/kjagsadvisors"
+  },
+  {
+    "repo": "AmIOnline",
+    "login": "havaianasdestruido",
+    "contributions": 9,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "AmIOnline",
+    "login": "google-labs-jules[bot]",
+    "contributions": 3,
+    "profile_url": "https://github.com/apps/google-labs-jules"
   },
   {
     "repo": "AudioTaste",
@@ -860,7 +878,7 @@
   {
     "repo": "eleicoes-data",
     "login": "github-actions[bot]",
-    "contributions": 21,
+    "contributions": 22,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -1226,8 +1244,14 @@
   {
     "repo": "Hiphenatus",
     "login": "havaianasdestruido",
-    "contributions": 3,
+    "contributions": 4,
     "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "Hiphenatus",
+    "login": "google-labs-jules[bot]",
+    "contributions": 1,
+    "profile_url": "https://github.com/apps/google-labs-jules"
   },
   {
     "repo": "hscript-improved",
@@ -1598,7 +1622,7 @@
   {
     "repo": "p2unrealscript",
     "login": "havaianasdestruido",
-    "contributions": 4,
+    "contributions": 7,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -1766,7 +1790,7 @@
   {
     "repo": "Quack3DMM",
     "login": "havaianasdestruido",
-    "contributions": 4,
+    "contributions": 5,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -1780,6 +1804,12 @@
     "login": "ImgBotApp",
     "contributions": 1,
     "profile_url": "https://github.com/ImgBotApp"
+  },
+  {
+    "repo": "Quack3DMM",
+    "login": "google-labs-jules[bot]",
+    "contributions": 1,
+    "profile_url": "https://github.com/apps/google-labs-jules"
   },
   {
     "repo": "quackdb",
