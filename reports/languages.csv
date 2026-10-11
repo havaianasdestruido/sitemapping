@@ -98,7 +98,7 @@ sitemapping,JavaScript,61132,37.3
 sitemapping,Python,51362,31.3
 sitemapping,HTML,26709,16.3
 sitemapping,CSS,24836,15.1
-top100,HTML,4869726,93.5
+top100,HTML,4869230,93.5
 top100,Python,170108,3.3
 top100,JavaScript,161810,3.1
 top100,CSS,6452,0.1
@@ -215,6 +215,7 @@ ImaturidadePlusPlus,Rich Text Format,14,0.0
 ImgBotAutomerger,PowerShell,893,100.0
 ImgBotTools,Shell,7209,100.0
 imgrep,HTML,4133,100.0
+js-bot-detector,JavaScript,217286,100.0
 LetterPad,C++,341153,90.5
 LetterPad,CMake,20491,5.4
 LetterPad,C,15459,4.1

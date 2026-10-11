@@ -278,7 +278,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 95,
+    "contributions": 96,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -290,7 +290,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 113,
+    "contributions": 114,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -890,7 +890,7 @@
   {
     "repo": "eleicoes-data",
     "login": "github-actions[bot]",
-    "contributions": 24,
+    "contributions": 25,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -1467,6 +1467,24 @@
     "repo": "imgrep",
     "login": "havaianasdestruido",
     "contributions": 5,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "js-bot-detector",
+    "login": "niksbanna",
+    "contributions": 10,
+    "profile_url": "https://github.com/niksbanna"
+  },
+  {
+    "repo": "js-bot-detector",
+    "login": "Copilot",
+    "contributions": 2,
+    "profile_url": "https://github.com/apps/copilot-swe-agent"
+  },
+  {
+    "repo": "js-bot-detector",
+    "login": "havaianasdestruido",
+    "contributions": 1,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {

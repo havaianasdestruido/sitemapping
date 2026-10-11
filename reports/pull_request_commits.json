@@ -1696,6 +1696,14 @@
     "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/1bc346215cd7465722f1d51239d262f69b14a9d9"
   },
   {
+    "repo": "js-bot-detector",
+    "pr_number": 1,
+    "sha": "c79cfd2c3b42f7d1ca174ae4e70f4c642fa15291",
+    "sha_short": "c79cfd2",
+    "message": "fix: eliminate false positives across every signal",
+    "url": "https://github.com/havaianasdestruido/js-bot-detector/commit/c79cfd2c3b42f7d1ca174ae4e70f4c642fa15291"
+  },
+  {
     "repo": "LetterPad",
     "pr_number": 1,
     "sha": "3a996ed68670b835990ed7f98f84c4b829d5ba86",
