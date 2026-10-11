@@ -1,6 +1,14 @@
 [
   {
     "repo": "FNF-Phoenix-Engine",
+    "pr_number": 34,
+    "sha": "e987f4d13026f418582b0718e81f5da9b1d6adb3",
+    "sha_short": "e987f4d",
+    "message": "⚡ Bolt: Avoid O(n) indexOf when no scripts are active",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e987f4d13026f418582b0718e81f5da9b1d6adb3"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
     "pr_number": 17,
     "sha": "af09202348924912353fa6aaa9970e140436a925",
     "sha_short": "af09202",
@@ -366,6 +374,54 @@
     "sha_short": "f275f5e",
     "message": "Fix UTF-8 BOM in hmm.json and JSON configs",
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f275f5e55e21feea5d1a6067ab4eae594897faa3"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 5,
+    "sha": "171f482b00b181f471ff4f4a5204e300b8201dea",
+    "sha_short": "171f482",
+    "message": "Optimize network packet processing loop",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/171f482b00b181f471ff4f4a5204e300b8201dea"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 4,
+    "sha": "0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0",
+    "sha_short": "0659d3d",
+    "message": "Split website: Jekyll primary page at /, Docusaurus docs at /docs",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 3,
+    "sha": "3770f5a54ca9ad7f4bf7639e6ec4e461205400fb",
+    "sha_short": "3770f5a",
+    "message": "Add full codebase documentation site (Docusaurus 3)",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 3,
+    "sha": "2a104c133273cc655775d759af4bb1abcf434d73",
+    "sha_short": "2a104c1",
+    "message": "Apply review fixes to docs site and deploy workflow",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 2,
+    "sha": "d7f519da3b8d2c4b6b201c655273292229b4619d",
+    "sha_short": "d7f519d",
+    "message": "Bump the npm_and_yarn group across 2 directories with 3 updates",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/d7f519da3b8d2c4b6b201c655273292229b4619d"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 1,
+    "sha": "7868b756bd7dc1cdcfe5292e0025046d640bdede",
+    "sha_short": "7868b75",
+    "message": "Bump the npm_and_yarn group across 2 directories with 3 updates",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/7868b756bd7dc1cdcfe5292e0025046d640bdede"
   },
   {
     "repo": "apkdecomp-skill",
@@ -760,54 +816,6 @@
     "url": "https://github.com/havaianasdestruido/pong-pop/commit/ebce1a99b0c8c9c21ffd5527c3b589af2b134f73"
   },
   {
-    "repo": "R2K16",
-    "pr_number": 2,
-    "sha": "d7f519da3b8d2c4b6b201c655273292229b4619d",
-    "sha_short": "d7f519d",
-    "message": "Bump the npm_and_yarn group across 2 directories with 3 updates",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/d7f519da3b8d2c4b6b201c655273292229b4619d"
-  },
-  {
-    "repo": "R2K16",
-    "pr_number": 5,
-    "sha": "171f482b00b181f471ff4f4a5204e300b8201dea",
-    "sha_short": "171f482",
-    "message": "Optimize network packet processing loop",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/171f482b00b181f471ff4f4a5204e300b8201dea"
-  },
-  {
-    "repo": "R2K16",
-    "pr_number": 4,
-    "sha": "0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0",
-    "sha_short": "0659d3d",
-    "message": "Split website: Jekyll primary page at /, Docusaurus docs at /docs",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/0659d3dbafd42c0b8dfd9d32ca03391508e3c8c0"
-  },
-  {
-    "repo": "R2K16",
-    "pr_number": 3,
-    "sha": "3770f5a54ca9ad7f4bf7639e6ec4e461205400fb",
-    "sha_short": "3770f5a",
-    "message": "Add full codebase documentation site (Docusaurus 3)",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/3770f5a54ca9ad7f4bf7639e6ec4e461205400fb"
-  },
-  {
-    "repo": "R2K16",
-    "pr_number": 3,
-    "sha": "2a104c133273cc655775d759af4bb1abcf434d73",
-    "sha_short": "2a104c1",
-    "message": "Apply review fixes to docs site and deploy workflow",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/2a104c133273cc655775d759af4bb1abcf434d73"
-  },
-  {
-    "repo": "R2K16",
-    "pr_number": 1,
-    "sha": "7868b756bd7dc1cdcfe5292e0025046d640bdede",
-    "sha_short": "7868b75",
-    "message": "Bump the npm_and_yarn group across 2 directories with 3 updates",
-    "url": "https://github.com/havaianasdestruido/R2K16/commit/7868b756bd7dc1cdcfe5292e0025046d640bdede"
-  },
-  {
     "repo": "sitemapping",
     "pr_number": 1,
     "sha": "a63fb24f0350fb2099eaa99501410f1c43c9e5b2",
@@ -854,6 +862,14 @@
     "sha_short": "905afbb",
     "message": "Add W3C WAI frontend accessibility Claude skill",
     "url": "https://github.com/havaianasdestruido/WAL-skill/commit/905afbb4c2b065838bbad033a19c448c9733b7d8"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 10,
+    "sha": "5051b61da4e789f2a41dc2825cd80df273d97281",
+    "sha_short": "5051b61",
+    "message": "⚡ Bolt: [performance improvement]",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5051b61da4e789f2a41dc2825cd80df273d97281"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -1033,6 +1049,14 @@
   },
   {
     "repo": "AmIOnline",
+    "pr_number": 6,
+    "sha": "82e62446c3e420f9104aff10a12af03243ebf7a8",
+    "sha_short": "82e6244",
+    "message": "⚡ Bolt: [debounce scroll layout updates]",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/82e62446c3e420f9104aff10a12af03243ebf7a8"
+  },
+  {
+    "repo": "AmIOnline",
     "pr_number": 4,
     "sha": "30bd0e46403fbc9fd42a853d21c6043411700b6a",
     "sha_short": "30bd0e4",
@@ -1070,6 +1094,14 @@
     "sha_short": "4e7ad01",
     "message": "Install Vercel Speed Insights with framework support",
     "url": "https://github.com/havaianasdestruido/AudioTaste/commit/4e7ad01509542836213e7125ccc4fb067bb78d9b"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "pr_number": 2,
+    "sha": "dfef88e2a84714e9ecefba17fdcc62c22adeca1b",
+    "sha_short": "dfef88e",
+    "message": "Optimize Vector3.Distance to Vector3.DistanceSquared in debrisBlood",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/dfef88e2a84714e9ecefba17fdcc62c22adeca1b"
   },
   {
     "repo": "BloodAndBacon-DnSpyEx",
@@ -1689,6 +1721,14 @@
   },
   {
     "repo": "Hiphenatus",
+    "pr_number": 2,
+    "sha": "8ef8a09b42633ca99f4be7fcd4d2f2c6fddc6c74",
+    "sha_short": "8ef8a09",
+    "message": "⚡ Bolt: Precompute Math.Sqrt for RGB values in Shader6",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/8ef8a09b42633ca99f4be7fcd4d2f2c6fddc6c74"
+  },
+  {
+    "repo": "Hiphenatus",
     "pr_number": 1,
     "sha": "1bc346215cd7465722f1d51239d262f69b14a9d9",
     "sha_short": "1bc3462",
@@ -2161,6 +2201,14 @@
   },
   {
     "repo": "PWSV",
+    "pr_number": 2,
+    "sha": "be74d6c5a7e0e79d8977bd97dd8d341754903e04",
+    "sha_short": "be74d6c",
+    "message": "⚡ Bolt: O(1) MIDI array removal on audio thread",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/be74d6c5a7e0e79d8977bd97dd8d341754903e04"
+  },
+  {
+    "repo": "PWSV",
     "pr_number": 1,
     "sha": "c1cfed6d8b6db416ba29471363e78051e8317c2c",
     "sha_short": "c1cfed6",
@@ -2281,6 +2329,14 @@
   },
   {
     "repo": "steamlogger",
+    "pr_number": 5,
+    "sha": "fd65516359620b51becb7dd9e2c4a28ce635c728",
+    "sha_short": "fd65516",
+    "message": "Prevent unnecessary disk I/O and allocations",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/fd65516359620b51becb7dd9e2c4a28ce635c728"
+  },
+  {
+    "repo": "steamlogger",
     "pr_number": 3,
     "sha": "d675d2e036341813334584f40cf43b5e50feea04",
     "sha_short": "d675d2e",
@@ -2302,6 +2358,14 @@
     "sha_short": "ed8f729",
     "message": "docs: address review feedback on the documentation site",
     "url": "https://github.com/havaianasdestruido/steamlogger/commit/ed8f729bf205f73fd6ae9e02b7fcaebf9943d8d0"
+  },
+  {
+    "repo": "terminal-win7",
+    "pr_number": 1,
+    "sha": "a9283c5ef055430310d97e9a5413e5613cc6aa6d",
+    "sha_short": "a9283c5",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/terminal-win7/commit/a9283c5ef055430310d97e9a5413e5613cc6aa6d"
   },
   {
     "repo": "TermuxUbuntuPRoot",
