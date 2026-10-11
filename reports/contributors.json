@@ -20,7 +20,7 @@
   {
     "repo": "FNF-Phoenix-Engine",
     "login": "havaianasdestruido",
-    "contributions": 162,
+    "contributions": 163,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -182,20 +182,20 @@
   {
     "repo": "R2K16",
     "login": "havaianasdestruido",
-    "contributions": 30,
+    "contributions": 31,
     "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "R2K16",
+    "login": "google-labs-jules[bot]",
+    "contributions": 2,
+    "profile_url": "https://github.com/apps/google-labs-jules"
   },
   {
     "repo": "R2K16",
     "login": "ImgBotApp",
     "contributions": 1,
     "profile_url": "https://github.com/ImgBotApp"
-  },
-  {
-    "repo": "R2K16",
-    "login": "google-labs-jules[bot]",
-    "contributions": 1,
-    "profile_url": "https://github.com/apps/google-labs-jules"
   },
   {
     "repo": "apkdecomp-skill",
@@ -232,12 +232,6 @@
     "login": "ImgBotApp",
     "contributions": 1,
     "profile_url": "https://github.com/ImgBotApp"
-  },
-  {
-    "repo": "hemorroidabot",
-    "login": "Nixes407",
-    "contributions": 1,
-    "profile_url": "https://github.com/Nixes407"
   },
   {
     "repo": "KaukaMed",
@@ -284,7 +278,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 98,
+    "contributions": 99,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -296,7 +290,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 116,
+    "contributions": 118,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -328,12 +322,6 @@
     "login": "havaianasdestruido",
     "contributions": 35,
     "profile_url": "https://github.com/havaianasdestruido"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "login": "Nixes407",
-    "contributions": 2,
-    "profile_url": "https://github.com/Nixes407"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -595,12 +583,6 @@
   },
   {
     "repo": "brnews-db",
-    "login": "Nixes407",
-    "contributions": 11,
-    "profile_url": "https://github.com/Nixes407"
-  },
-  {
-    "repo": "brnews-db",
     "login": "havaianasdestruido",
     "contributions": 7,
     "profile_url": "https://github.com/havaianasdestruido"
@@ -823,12 +805,6 @@
   },
   {
     "repo": "CivilConection",
-    "login": "Nixes407",
-    "contributions": 2,
-    "profile_url": "https://github.com/Nixes407"
-  },
-  {
-    "repo": "CivilConection",
     "login": "ImgBotApp",
     "contributions": 2,
     "profile_url": "https://github.com/ImgBotApp"
@@ -850,12 +826,6 @@
     "login": "google-labs-jules[bot]",
     "contributions": 4,
     "profile_url": "https://github.com/apps/google-labs-jules"
-  },
-  {
-    "repo": "CivilConection-Fernando",
-    "login": "Nixes407",
-    "contributions": 2,
-    "profile_url": "https://github.com/Nixes407"
   },
   {
     "repo": "CivilConection-Fernando",
@@ -920,7 +890,7 @@
   {
     "repo": "eleicoes-data",
     "login": "github-actions[bot]",
-    "contributions": 27,
+    "contributions": 29,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -1513,12 +1483,6 @@
   },
   {
     "repo": "js-bot-detector",
-    "login": "Nixes407",
-    "contributions": 1,
-    "profile_url": "https://github.com/Nixes407"
-  },
-  {
-    "repo": "js-bot-detector",
     "login": "havaianasdestruido",
     "contributions": 1,
     "profile_url": "https://github.com/havaianasdestruido"
@@ -1540,12 +1504,6 @@
     "login": "havaianasdestruido",
     "contributions": 3,
     "profile_url": "https://github.com/havaianasdestruido"
-  },
-  {
-    "repo": "MeatyMod",
-    "login": "Nixes407",
-    "contributions": 2,
-    "profile_url": "https://github.com/Nixes407"
   },
   {
     "repo": "mediapublisher",
@@ -1651,12 +1609,6 @@
   },
   {
     "repo": "nomescenso2022",
-    "login": "Nixes407",
-    "contributions": 5,
-    "profile_url": "https://github.com/Nixes407"
-  },
-  {
-    "repo": "nomescenso2022",
     "login": "havaianasdestruido",
     "contributions": 1,
     "profile_url": "https://github.com/havaianasdestruido"
@@ -1720,12 +1672,6 @@
     "login": "google-labs-jules[bot]",
     "contributions": 1,
     "profile_url": "https://github.com/apps/google-labs-jules"
-  },
-  {
-    "repo": "PhoenixLiveWallpaper",
-    "login": "Nixes407",
-    "contributions": 15,
-    "profile_url": "https://github.com/Nixes407"
   },
   {
     "repo": "PhoenixLiveWallpaper",
@@ -1858,12 +1804,6 @@
     "login": "mxwllphlp-coder",
     "contributions": 49,
     "profile_url": "https://github.com/mxwllphlp-coder"
-  },
-  {
-    "repo": "Projeto-TCC",
-    "login": "Nixes407",
-    "contributions": 17,
-    "profile_url": "https://github.com/Nixes407"
   },
   {
     "repo": "Projeto-TCC",
@@ -2056,12 +1996,6 @@
     "login": "havaianasdestruido",
     "contributions": 10,
     "profile_url": "https://github.com/havaianasdestruido"
-  },
-  {
-    "repo": "steamlogger",
-    "login": "Nixes407",
-    "contributions": 1,
-    "profile_url": "https://github.com/Nixes407"
   },
   {
     "repo": "steamlogger",

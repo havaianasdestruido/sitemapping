@@ -3,19 +3,6 @@
     "repo": "FNF-Phoenix-Engine",
     "state": "open",
     "status": "open",
-    "number": 34,
-    "title": "⚡ Bolt: Avoid O(n) indexOf when no scripts are active",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-11T16:32:11Z",
-    "base_branch": "main",
-    "head_branch": "bolt-optimize-indexOf-9743339718692353484",
-    "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/34"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "open",
-    "status": "open",
     "number": 17,
     "title": "docs: add Javadoc/JSDoc-style tags to functions across codebase",
     "user": "havaianasdestruido",
@@ -37,6 +24,19 @@
     "head_branch": "fix-broken-workflows-451876394576674102",
     "commit_count": 4,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/14"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "closed",
+    "status": "merged",
+    "number": 34,
+    "title": "⚡ Bolt: Avoid O(n) indexOf when no scripts are active",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-11T16:32:11Z",
+    "base_branch": "main",
+    "head_branch": "bolt-optimize-indexOf-9743339718692353484",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/34"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -286,17 +286,30 @@
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/13"
   },
   {
-    "repo": "FNF-Phoenix-Engine",
+    "repo": "R2K16",
+    "state": "open",
+    "status": "open",
+    "number": 7,
+    "title": "⚡ Bolt: [performance improvement] Convert auto to const auto& in range-based loops",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-11T21:37:01Z",
+    "base_branch": "main",
+    "head_branch": "bolt-auto-to-const-auto-ref-4813003327288351532",
+    "commit_count": 4,
+    "url": "https://github.com/havaianasdestruido/R2K16/pull/7"
+  },
+  {
+    "repo": "R2K16",
     "state": "closed",
     "status": "merged",
-    "number": 12,
-    "title": "Fix UTF-8 BOM in hmm.json causing hmm install failure",
+    "number": 6,
+    "title": "⚡ Bolt: [performance improvement] Avoid unnecessary std::shared_ptr and object copies in range-based loops",
     "user": "havaianasdestruido",
-    "created_at": "2026-08-30T19:49:15Z",
+    "created_at": "2026-10-11T18:08:16Z",
     "base_branch": "main",
-    "head_branch": "fix-hmm-json-bom-12799565648666142956",
+    "head_branch": "bolt-perf-loop-copies-6212837342965292154",
     "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/12"
+    "url": "https://github.com/havaianasdestruido/R2K16/pull/6"
   },
   {
     "repo": "R2K16",

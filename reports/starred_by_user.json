@@ -1,5 +1,10 @@
 [
   {
+    "full_name": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries."
+  },
+  {
     "full_name": "havaianasdestruido/R2K16",
     "url": "https://github.com/havaianasdestruido/R2K16",
     "description": "2K16 RBLX"
