@@ -370,8 +370,8 @@
   {
     "repo": "sitemapping",
     "name": "main",
-    "head_sha": "041d072e25543aa493c3396c90d7e71500fd1c8a",
-    "head_sha_short": "041d072",
+    "head_sha": "fef94e4175958501b8db24571ab5bd7cea6bef2c",
+    "head_sha_short": "fef94e4",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/sitemapping/tree/main"
   },
@@ -386,8 +386,8 @@
   {
     "repo": "top100",
     "name": "main",
-    "head_sha": "74faaa0c06dbc450a2c49171f3359695165e94a0",
-    "head_sha_short": "74faaa0",
+    "head_sha": "36513679c38f641f3113c088d55d4b6dcee7c3ca",
+    "head_sha_short": "3651367",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/top100/tree/main"
   },
@@ -666,8 +666,8 @@
   {
     "repo": "brnews-db",
     "name": "main",
-    "head_sha": "5c0d72b81e5c52d57f11108d4f183c3e640d9d5a",
-    "head_sha_short": "5c0d72b",
+    "head_sha": "1f713e10d5e4c6a7315c97d837d12753b2cd995f",
+    "head_sha_short": "1f713e1",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/brnews-db/tree/main"
   },
@@ -802,8 +802,8 @@
   {
     "repo": "eleicoes-data",
     "name": "main",
-    "head_sha": "816d90ac343691788c03a35cc6bebea4a96dcbeb",
-    "head_sha_short": "816d90a",
+    "head_sha": "4ba519375288743eed5d0f83406fe1bb9c56d16e",
+    "head_sha_short": "4ba5193",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/eleicoes-data/tree/main"
   },
