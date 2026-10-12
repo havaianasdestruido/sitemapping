@@ -289,6 +289,32 @@
     "repo": "R2K16",
     "state": "open",
     "status": "open",
+    "number": 10,
+    "title": "⚡ Bolt: [performance improvement] Avoid atomic ref-count overhead in loops",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-12T16:47:18Z",
+    "base_branch": "main",
+    "head_branch": "bolt-avoid-ref-count-overhead-6887518461037686063",
+    "commit_count": 4,
+    "url": "https://github.com/havaianasdestruido/R2K16/pull/10"
+  },
+  {
+    "repo": "R2K16",
+    "state": "open",
+    "status": "open",
+    "number": 9,
+    "title": "⚡ Bolt: [performance improvement] Avoid expensive copies in range-based for loops",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-12T14:43:33Z",
+    "base_branch": "main",
+    "head_branch": "bolt/optimize-auto-ref-15681142426176733422",
+    "commit_count": 3,
+    "url": "https://github.com/havaianasdestruido/R2K16/pull/9"
+  },
+  {
+    "repo": "R2K16",
+    "state": "open",
+    "status": "open",
     "number": 8,
     "title": "Bump the npm_and_yarn group across 3 directories with 4 updates",
     "user": "dependabot[bot]",
@@ -755,6 +781,19 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
+    "state": "open",
+    "status": "open",
+    "number": 11,
+    "title": "⚡ Bolt: [performance improvement] Optimize X3DReader array parsing with zero allocations",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-12T15:26:25Z",
+    "base_branch": "main",
+    "head_branch": "optimize-x3d-parser-169458583323663978",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/pull/11"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
     "state": "closed",
     "status": "merged",
     "number": 10,
@@ -900,6 +939,19 @@
     "repo": "AmIOnline",
     "state": "open",
     "status": "open",
+    "number": 7,
+    "title": "⚡ Bolt: Batch TextView appends to reduce UI thread layout passes",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-12T18:46:16Z",
+    "base_branch": "main",
+    "head_branch": "bolt-batch-ui-appends-4810326626962579159",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/AmIOnline/pull/7"
+  },
+  {
+    "repo": "AmIOnline",
+    "state": "open",
+    "status": "open",
     "number": 5,
     "title": "⚡ Bolt: Extract Regex compilation in NetworkUtils",
     "user": "havaianasdestruido",
@@ -986,6 +1038,19 @@
     "head_branch": "vercel/install-vercel-speed-insights-ftzuun",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/AudioTaste/pull/1"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "state": "open",
+    "status": "open",
+    "number": 3,
+    "title": "⚡ Bolt: [Performance] Replace Vector Distance checks with DistanceSquared",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-12T16:16:45Z",
+    "base_branch": "main",
+    "head_branch": "bolt-performance-distance-squared-14347848413715180709",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/pull/3"
   },
   {
     "repo": "BloodAndBacon-DnSpyEx",
@@ -1561,6 +1626,19 @@
   },
   {
     "repo": "Hiphenatus",
+    "state": "open",
+    "status": "open",
+    "number": 3,
+    "title": "⚡ Bolt: [performance improvement] Optimize math and indexing in pixel shaders",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-12T14:09:28Z",
+    "base_branch": "main",
+    "head_branch": "bolt-optimize-math-14117362207707340819",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/pull/3"
+  },
+  {
+    "repo": "Hiphenatus",
     "state": "closed",
     "status": "merged",
     "number": 2,
@@ -2094,6 +2172,19 @@
   },
   {
     "repo": "PWSV",
+    "state": "open",
+    "status": "open",
+    "number": 3,
+    "title": "⚡ Bolt: Replace juce::String concatenations with operator<< in JSON serialization",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-12T13:52:53Z",
+    "base_branch": "main",
+    "head_branch": "bolt-json-optimization-2536688082538153751",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/PWSV/pull/3"
+  },
+  {
+    "repo": "PWSV",
     "state": "closed",
     "status": "merged",
     "number": 2,
@@ -2117,6 +2208,19 @@
     "head_branch": "arena/01a10230-pwsv",
     "commit_count": 6,
     "url": "https://github.com/havaianasdestruido/PWSV/pull/1"
+  },
+  {
+    "repo": "Quack3DMM",
+    "state": "open",
+    "status": "open",
+    "number": 3,
+    "title": "⚡ Bolt: Eliminate heap allocations in EventBus",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-12T12:39:11Z",
+    "base_branch": "main",
+    "head_branch": "bolt-event-bus-optimization-4466536191934742471",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/Quack3DMM/pull/3"
   },
   {
     "repo": "Quack3DMM",
@@ -2208,6 +2312,19 @@
     "head_branch": "imgbot",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/Sonic4/pull/1"
+  },
+  {
+    "repo": "steamlogger",
+    "state": "open",
+    "status": "open",
+    "number": 6,
+    "title": "⚡ Bolt: stream JSON directly to disk",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-12T13:26:56Z",
+    "base_branch": "main",
+    "head_branch": "bolt-optimize-json-write-11022104096064710085",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/steamlogger/pull/6"
   },
   {
     "repo": "steamlogger",

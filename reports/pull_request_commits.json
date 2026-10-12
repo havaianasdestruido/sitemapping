@@ -369,6 +369,62 @@
   },
   {
     "repo": "R2K16",
+    "pr_number": 10,
+    "sha": "4a9498a5bb9fcb1d75e676d5a9f5558168681479",
+    "sha_short": "4a9498a",
+    "message": "⚡ Bolt: [performance improvement] Avoid atomic ref-count overhead in loops",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/4a9498a5bb9fcb1d75e676d5a9f5558168681479"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 10,
+    "sha": "918c49c7fb1c2c39a26f1b7fc893d227fee68257",
+    "sha_short": "918c49c",
+    "message": "⚡ Bolt: [performance improvement] Avoid atomic ref-count overhead in loops",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/918c49c7fb1c2c39a26f1b7fc893d227fee68257"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 10,
+    "sha": "ceca6f9fd334c813fb8e7a5a08c7402dd2afc32a",
+    "sha_short": "ceca6f9",
+    "message": "⚡ Bolt: [performance improvement] Avoid atomic ref-count overhead in loops",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/ceca6f9fd334c813fb8e7a5a08c7402dd2afc32a"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 10,
+    "sha": "3c08effe4c6cf8e6a88cd5fc1c1105e78eb15b78",
+    "sha_short": "3c08eff",
+    "message": "⚡ Bolt: [performance improvement] Avoid atomic ref-count overhead in loops",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/3c08effe4c6cf8e6a88cd5fc1c1105e78eb15b78"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 9,
+    "sha": "23efd8bca33c534510fcf9b49416d08686bd38b0",
+    "sha_short": "23efd8b",
+    "message": "⚡ Bolt: Optimize range-based for loops to avoid expensive copies and atomic operations",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/23efd8bca33c534510fcf9b49416d08686bd38b0"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 9,
+    "sha": "683a513ec09c637fd9462f6ef2ae36d2b8d75f07",
+    "sha_short": "683a513",
+    "message": "⚡ Bolt: Optimize range-based for loops to avoid expensive copies and atomic operations",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/683a513ec09c637fd9462f6ef2ae36d2b8d75f07"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 9,
+    "sha": "45c3e33d9ebebdbc1d58df9c255680a0db00b03a",
+    "sha_short": "45c3e33",
+    "message": "⚡ Bolt: Optimize range-based for loops to avoid expensive copies and atomic operations",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/45c3e33d9ebebdbc1d58df9c255680a0db00b03a"
+  },
+  {
+    "repo": "R2K16",
     "pr_number": 8,
     "sha": "a2595db51a3ccac7bd9534b06db017100861d3e3",
     "sha_short": "a2595db",
@@ -905,6 +961,14 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 11,
+    "sha": "2eb028123e26922112bc95e99cead58f2efafb1d",
+    "sha_short": "2eb0281",
+    "message": "Refactor X3D array parsing for zero-allocation performance",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/2eb028123e26922112bc95e99cead58f2efafb1d"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
     "pr_number": 10,
     "sha": "5051b61da4e789f2a41dc2825cd80df273d97281",
     "sha_short": "5051b61",
@@ -1041,6 +1105,14 @@
   },
   {
     "repo": "AmIOnline",
+    "pr_number": 7,
+    "sha": "22229c772c1444a2ffb27bb8942972dfe615832c",
+    "sha_short": "22229c7",
+    "message": "Batch TextView appends to reduce UI thread layout passes",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/22229c772c1444a2ffb27bb8942972dfe615832c"
+  },
+  {
+    "repo": "AmIOnline",
     "pr_number": 5,
     "sha": "ec7e9ec44e042e30e02f62796c6b108c54a1e3a7",
     "sha_short": "ec7e9ec",
@@ -1134,6 +1206,14 @@
     "sha_short": "4e7ad01",
     "message": "Install Vercel Speed Insights with framework support",
     "url": "https://github.com/havaianasdestruido/AudioTaste/commit/4e7ad01509542836213e7125ccc4fb067bb78d9b"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "pr_number": 3,
+    "sha": "6152c23998e240edf22d5deac21b25f3c7994deb",
+    "sha_short": "6152c23",
+    "message": "⚡ Bolt: Optimize Vector3.Distance with DistanceSquared",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/6152c23998e240edf22d5deac21b25f3c7994deb"
   },
   {
     "repo": "BloodAndBacon-DnSpyEx",
@@ -1761,6 +1841,14 @@
   },
   {
     "repo": "Hiphenatus",
+    "pr_number": 3,
+    "sha": "97afb4d3174ee1d0246ca7535cafd9aadd1562e4",
+    "sha_short": "97afb4d",
+    "message": "⚡ Bolt: [performance improvement] optimize math and indexing in Shader7 and Shader8",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/97afb4d3174ee1d0246ca7535cafd9aadd1562e4"
+  },
+  {
+    "repo": "Hiphenatus",
     "pr_number": 2,
     "sha": "8ef8a09b42633ca99f4be7fcd4d2f2c6fddc6c74",
     "sha_short": "8ef8a09",
@@ -2241,6 +2329,14 @@
   },
   {
     "repo": "PWSV",
+    "pr_number": 3,
+    "sha": "0f853654437b79cafb57f63318f32e96424fd324",
+    "sha_short": "0f85365",
+    "message": "⚡ Bolt: Replace juce::String concatenations with operator<< in JSON serialization",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/0f853654437b79cafb57f63318f32e96424fd324"
+  },
+  {
+    "repo": "PWSV",
     "pr_number": 2,
     "sha": "be74d6c5a7e0e79d8977bd97dd8d341754903e04",
     "sha_short": "be74d6c",
@@ -2286,6 +2382,14 @@
     "sha_short": "1eea800",
     "message": "ci: separate build and deploy jobs for GitHub Pages workflow",
     "url": "https://github.com/havaianasdestruido/PWSV/commit/1eea800835125417437294fe20acc9d2e885676e"
+  },
+  {
+    "repo": "Quack3DMM",
+    "pr_number": 3,
+    "sha": "bbdcea239ec4c736b20212338929dc9ef8349fe2",
+    "sha_short": "bbdcea2",
+    "message": "perf(event_bus): eliminate unnecessary heap allocations",
+    "url": "https://github.com/havaianasdestruido/Quack3DMM/commit/bbdcea239ec4c736b20212338929dc9ef8349fe2"
   },
   {
     "repo": "Quack3DMM",
@@ -2350,6 +2454,14 @@
     "sha_short": "b876165",
     "message": "[ImgBot] Optimize images",
     "url": "https://github.com/havaianasdestruido/Sonic4/commit/b8761650af88efeb084aa64d23a411cbb9d30987"
+  },
+  {
+    "repo": "steamlogger",
+    "pr_number": 6,
+    "sha": "d5849d42aee66bc8312c44b7dcad39e65ba9a4b3",
+    "sha_short": "d5849d4",
+    "message": "perf: stream JSON directly to disk to avoid memory spike",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/d5849d42aee66bc8312c44b7dcad39e65ba9a4b3"
   },
   {
     "repo": "steamlogger",
