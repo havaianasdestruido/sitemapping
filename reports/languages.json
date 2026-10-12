@@ -56,7 +56,7 @@
   {
     "repo": "R2K16",
     "language": "C++",
-    "bytes": 557213462,
+    "bytes": 557213553,
     "percent": 51.8
   },
   {
@@ -146,7 +146,7 @@
   {
     "repo": "R2K16",
     "language": "CMake",
-    "bytes": 768823,
+    "bytes": 768813,
     "percent": 0.1
   },
   {
@@ -596,7 +596,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 4871519,
+    "bytes": 4871401,
     "percent": 93.5
   },
   {

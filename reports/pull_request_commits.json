@@ -369,6 +369,14 @@
   },
   {
     "repo": "R2K16",
+    "pr_number": 8,
+    "sha": "a2595db51a3ccac7bd9534b06db017100861d3e3",
+    "sha_short": "a2595db",
+    "message": "Bump the npm_and_yarn group across 3 directories with 4 updates",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/a2595db51a3ccac7bd9534b06db017100861d3e3"
+  },
+  {
+    "repo": "R2K16",
     "pr_number": 7,
     "sha": "1c9f3f2b1eebfc8609c7a80fbb81647ae5be0fce",
     "sha_short": "1c9f3f2",

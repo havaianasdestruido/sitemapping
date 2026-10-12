@@ -13,7 +13,8 @@ R2K16,arena/01a10307-r2k16,a51d8a137fb67314ebea6734e530f99ea1813b14,a51d8a1,Fals
 R2K16,bolt-auto-to-const-auto-ref-4813003327288351532,22e2eb133569af00f4ff40a70298cd75b916d72e,22e2eb1,False,https://github.com/havaianasdestruido/R2K16/tree/bolt-auto-to-const-auto-ref-4813003327288351532
 R2K16,bolt-opt-replicator-copy-16327855235489815194,171f482b00b181f471ff4f4a5204e300b8201dea,171f482,False,https://github.com/havaianasdestruido/R2K16/tree/bolt-opt-replicator-copy-16327855235489815194
 R2K16,bolt-perf-loop-copies-6212837342965292154,f547fe1ad4d78778579b9ce801c70853dc5101cf,f547fe1,False,https://github.com/havaianasdestruido/R2K16/tree/bolt-perf-loop-copies-6212837342965292154
-R2K16,main,97c90a340c3939ecd1daec0315b38c6720e899bd,97c90a3,True,https://github.com/havaianasdestruido/R2K16/tree/main
+R2K16,dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-f14288f96e,a2595db51a3ccac7bd9534b06db017100861d3e3,a2595db,False,https://github.com/havaianasdestruido/R2K16/tree/dependabot/npm_and_yarn/RobloxHybrid/docs/jaguar/npm_and_yarn-f14288f96e
+R2K16,main,5b4ee6ce8012379c0fd745fb53bd8cd7535a0dbc,5b4ee6c,True,https://github.com/havaianasdestruido/R2K16/tree/main
 apkdecomp-skill,arena/01a10231-apkdecomp-skill,6757f18b5d4c377ac52072b9a53b046fcde14c6f,6757f18,False,https://github.com/havaianasdestruido/apkdecomp-skill/tree/arena/01a10231-apkdecomp-skill
 apkdecomp-skill,main,c84cacf51fd5c5b86e2f346e5032a7d0e4240625,c84cacf,True,https://github.com/havaianasdestruido/apkdecomp-skill/tree/main
 blaster,main,8a021ad4f98bce7d4cbe43f214c82646fd2ab3bd,8a021ad,True,https://github.com/havaianasdestruido/blaster/tree/main
@@ -44,9 +45,9 @@ pong-pop,codex/create-pong-game-with-popup-windows,ebce1a99b0c8c9c21ffd5527c3b58
 pong-pop,main,b990a2b0aa98f321f656e80add22ea572c0d39e6,b990a2b,True,https://github.com/havaianasdestruido/pong-pop/tree/main
 PrintSpoolerAutoRun,main,2c118e7fe1cbbbc466ae66b77302e6c53458554b,2c118e7,True,https://github.com/havaianasdestruido/PrintSpoolerAutoRun/tree/main
 sitemapping,arena/6a1ac155-sitemapping,a63fb24f0350fb2099eaa99501410f1c43c9e5b2,a63fb24,False,https://github.com/havaianasdestruido/sitemapping/tree/arena/6a1ac155-sitemapping
-sitemapping,main,38ffbd51b017e1fdd8f26eda0d40b3fc3a533dd0,38ffbd5,True,https://github.com/havaianasdestruido/sitemapping/tree/main
+sitemapping,main,041d072e25543aa493c3396c90d7e71500fd1c8a,041d072,True,https://github.com/havaianasdestruido/sitemapping/tree/main
 top100,arena/51c06a64-top100,19e156e42924dc25ea65de55606908d117b2b18c,19e156e,False,https://github.com/havaianasdestruido/top100/tree/arena/51c06a64-top100
-top100,main,1f22fb98ad4ade24d6b83dc865bb35a39e006cf8,1f22fb9,True,https://github.com/havaianasdestruido/top100/tree/main
+top100,main,74faaa0c06dbc450a2c49171f3359695165e94a0,74faaa0,True,https://github.com/havaianasdestruido/top100/tree/main
 WAL-skill,arena/01a0fd83-wal-skill,905afbb4c2b065838bbad033a19c448c9733b7d8,905afbb,False,https://github.com/havaianasdestruido/WAL-skill/tree/arena/01a0fd83-wal-skill
 WAL-skill,main,60abcdc0ee5cd505ec7ca69317f337f2bc8b979d,60abcdc,True,https://github.com/havaianasdestruido/WAL-skill/tree/main
 Win7APIs,main,231896442cb7537a08cf5c7f23864854ac7a9247,2318964,True,https://github.com/havaianasdestruido/Win7APIs/tree/main
@@ -98,7 +99,7 @@ ClassHub,main,cf70ec3359c53042666b3890e8199802e8ea79c4,cf70ec3,True,https://gith
 dadosabertos,arena/01a0e80c-dadosabertos,8635c04cf229c6396879860c510f7696630cd261,8635c04,False,https://github.com/havaianasdestruido/dadosabertos/tree/arena/01a0e80c-dadosabertos
 dadosabertos,main,78a56cf2217e2c5a072ebaef7319ac63877491c2,78a56cf,True,https://github.com/havaianasdestruido/dadosabertos/tree/main
 eleicoes-data,arena/01a10951-eleicoes-data,b90f4e8d553e37a6caec61aa4b19cb981c4883ca,b90f4e8,False,https://github.com/havaianasdestruido/eleicoes-data/tree/arena/01a10951-eleicoes-data
-eleicoes-data,main,783b39dff4cbbb0d67b7f8e4b6f301ecb0b48815,783b39d,True,https://github.com/havaianasdestruido/eleicoes-data/tree/main
+eleicoes-data,main,816d90ac343691788c03a35cc6bebea4a96dcbeb,816d90a,True,https://github.com/havaianasdestruido/eleicoes-data/tree/main
 EleLab_v2,master,9306cddca1e8b6b14c4f6a4f572579d2eedd44df,9306cdd,True,https://github.com/havaianasdestruido/EleLab_v2/tree/master
 EZInfiniteYTLive,arena/01a0fd78-ezinfiniteytlive,299b72a11732fe88043029d28ce3634c6be31bb3,299b72a,False,https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/arena/01a0fd78-ezinfiniteytlive
 EZInfiniteYTLive,arena/01a0ff49-ezinfiniteytlive,7a2a38902fcdabbe75a20ddf48196c9548d5cf5f,7a2a389,False,https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/arena/01a0ff49-ezinfiniteytlive
