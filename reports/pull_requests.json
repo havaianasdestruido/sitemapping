@@ -536,6 +536,19 @@
     "repo": "KaukaMed",
     "state": "open",
     "status": "open",
+    "number": 6,
+    "title": "chore(deps): bump shell-quote and concurrently",
+    "user": "dependabot[bot]",
+    "created_at": "2026-10-13T17:38:45Z",
+    "base_branch": "main",
+    "head_branch": "dependabot/npm_and_yarn/multi-ccb330a867",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/KaukaMed/pull/6"
+  },
+  {
+    "repo": "KaukaMed",
+    "state": "open",
+    "status": "open",
     "number": 4,
     "title": "Entrega 1 (V1): agendamento real, deploy no GitHub Pages e ENTREGA-V1.md (inclui o #2)",
     "user": "arena-ai-coding-agent[bot]",
@@ -778,6 +791,19 @@
     "head_branch": "arena/01a0fd83-wal-skill",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/WAL-skill/pull/1"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "state": "closed",
+    "status": "merged",
+    "number": 12,
+    "title": "⚡ Bolt: Pre-allocate std::vector capacities in procedural mesh generation",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-13T16:46:22Z",
+    "base_branch": "main",
+    "head_branch": "bolt-mesh-resource-reserve-12858452736582120826",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/pull/12"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -2328,8 +2354,8 @@
   },
   {
     "repo": "Quack3DMM",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 5,
     "title": "⚡ Bolt: Optimize single-item erasure and string allocations",
     "user": "havaianasdestruido",
@@ -2460,19 +2486,6 @@
     "repo": "steamlogger",
     "state": "open",
     "status": "open",
-    "number": 7,
-    "title": "⚡ Bolt: Optimize player summaries URL string allocation",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-13T15:08:10Z",
-    "base_branch": "main",
-    "head_branch": "bolt-optimize-url-allocations-17322043973033610492",
-    "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/steamlogger/pull/7"
-  },
-  {
-    "repo": "steamlogger",
-    "state": "open",
-    "status": "open",
     "number": 4,
     "title": "⚡ Bolt: Stream JSON directly to disk",
     "user": "havaianasdestruido",
@@ -2494,6 +2507,19 @@
     "head_branch": "codex/investigar-problema-de-log",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/steamlogger/pull/1"
+  },
+  {
+    "repo": "steamlogger",
+    "state": "closed",
+    "status": "merged",
+    "number": 7,
+    "title": "⚡ Bolt: Optimize player summaries URL string allocation",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-13T15:08:10Z",
+    "base_branch": "main",
+    "head_branch": "bolt-optimize-url-allocations-17322043973033610492",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/steamlogger/pull/7"
   },
   {
     "repo": "steamlogger",

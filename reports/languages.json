@@ -596,7 +596,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 4873123,
+    "bytes": 4872967,
     "percent": 93.5
   },
   {
@@ -626,7 +626,7 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "language": "C++",
-    "bytes": 6396537,
+    "bytes": 6397799,
     "percent": 90.6
   },
   {
@@ -2432,7 +2432,7 @@
   {
     "repo": "Quack3DMM",
     "language": "C++",
-    "bytes": 6862420,
+    "bytes": 6862440,
     "percent": 18.4
   },
   {
@@ -2595,13 +2595,13 @@
     "repo": "steamlogger",
     "language": "MDX",
     "bytes": 181352,
-    "percent": 65.4
+    "percent": 65.3
   },
   {
     "repo": "steamlogger",
     "language": "Rust",
-    "bytes": 72062,
-    "percent": 26.0
+    "bytes": 72484,
+    "percent": 26.1
   },
   {
     "repo": "steamlogger",

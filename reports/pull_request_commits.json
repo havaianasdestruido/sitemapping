@@ -657,6 +657,14 @@
   },
   {
     "repo": "KaukaMed",
+    "pr_number": 6,
+    "sha": "8f2c5456bf9ebd6bb4adeb881d5e5a5254ec65e5",
+    "sha_short": "8f2c545",
+    "message": "chore(deps): bump shell-quote and concurrently",
+    "url": "https://github.com/havaianasdestruido/KaukaMed/commit/8f2c5456bf9ebd6bb4adeb881d5e5a5254ec65e5"
+  },
+  {
+    "repo": "KaukaMed",
     "pr_number": 4,
     "sha": "aaa20a96d1582ff11508d38f6f2ccc14670e01a7",
     "sha_short": "aaa20a9",
@@ -950,6 +958,14 @@
     "sha_short": "905afbb",
     "message": "Add W3C WAI frontend accessibility Claude skill",
     "url": "https://github.com/havaianasdestruido/WAL-skill/commit/905afbb4c2b065838bbad033a19c448c9733b7d8"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 12,
+    "sha": "adedd88f47de8b0b8f3b58fdaffbab3965eb9b65",
+    "sha_short": "adedd88",
+    "message": "⚡ Bolt: Pre-allocate std::vector capacities in procedural mesh generation",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/adedd88f47de8b0b8f3b58fdaffbab3965eb9b65"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -2545,14 +2561,6 @@
   },
   {
     "repo": "steamlogger",
-    "pr_number": 7,
-    "sha": "27f21f58b4274da0fa0e705a0846f02051983672",
-    "sha_short": "27f21f5",
-    "message": "⚡ Bolt: Optimize player summaries URL string allocation",
-    "url": "https://github.com/havaianasdestruido/steamlogger/commit/27f21f58b4274da0fa0e705a0846f02051983672"
-  },
-  {
-    "repo": "steamlogger",
     "pr_number": 4,
     "sha": "4c39f23a0923a9ebc0a1a1af8dd9a33661b7ff53",
     "sha_short": "4c39f23",
@@ -2566,6 +2574,14 @@
     "sha_short": "da63afc",
     "message": "Tolerate brief missing Steam game polls",
     "url": "https://github.com/havaianasdestruido/steamlogger/commit/da63afce1905635b901bc16af104022937168df1"
+  },
+  {
+    "repo": "steamlogger",
+    "pr_number": 7,
+    "sha": "27f21f58b4274da0fa0e705a0846f02051983672",
+    "sha_short": "27f21f5",
+    "message": "⚡ Bolt: Optimize player summaries URL string allocation",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/27f21f58b4274da0fa0e705a0846f02051983672"
   },
   {
     "repo": "steamlogger",

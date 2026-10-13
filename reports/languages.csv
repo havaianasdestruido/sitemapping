@@ -98,12 +98,12 @@ sitemapping,JavaScript,61132,37.3
 sitemapping,Python,51362,31.3
 sitemapping,HTML,26709,16.3
 sitemapping,CSS,24836,15.1
-top100,HTML,4873123,93.5
+top100,HTML,4872967,93.5
 top100,Python,170108,3.3
 top100,JavaScript,161810,3.1
 top100,CSS,6452,0.1
 WAL-skill,JavaScript,29178,100.0
-WindowsMovieMakerDecomp,C++,6396537,90.6
+WindowsMovieMakerDecomp,C++,6397799,90.6
 WindowsMovieMakerDecomp,Python,299173,4.2
 WindowsMovieMakerDecomp,C,174028,2.5
 WindowsMovieMakerDecomp,HTML,62228,0.9
@@ -404,7 +404,7 @@ PWSV,Batchfile,4421,4.5
 PWSV,CMake,3431,3.5
 PWSV,Ruby,78,0.1
 Quack3DMM,SWIG,28864788,77.3
-Quack3DMM,C++,6862420,18.4
+Quack3DMM,C++,6862440,18.4
 Quack3DMM,C,1495027,4.0
 Quack3DMM,Makefile,84917,0.2
 Quack3DMM,CMake,30766,0.1
@@ -431,8 +431,8 @@ Sonic4,Pawn,221311,1.0
 Sonic4,Objective-C++,146447,0.7
 Sonic4,Objective-C,119638,0.6
 Sonic4,CMake,153,0.0
-steamlogger,MDX,181352,65.4
-steamlogger,Rust,72062,26.0
+steamlogger,MDX,181352,65.3
+steamlogger,Rust,72484,26.1
 steamlogger,JavaScript,19864,7.2
 steamlogger,CSS,4098,1.5
 terminal-win7,C++,12582435,92.4
