@@ -98,7 +98,7 @@ sitemapping,JavaScript,61132,37.3
 sitemapping,Python,51362,31.3
 sitemapping,HTML,26709,16.3
 sitemapping,CSS,24836,15.1
-top100,HTML,4872506,93.5
+top100,HTML,4873123,93.5
 top100,Python,170108,3.3
 top100,JavaScript,161810,3.1
 top100,CSS,6452,0.1
@@ -118,11 +118,11 @@ abnt-skill,Python,14862,100.0
 aisearchhelpers,TypeScript,150428,99.0
 aisearchhelpers,CSS,1397,0.9
 aisearchhelpers,JavaScript,94,0.1
-AmIOnline,Kotlin,16293,100.0
+AmIOnline,Kotlin,16308,100.0
 AudioTaste,JavaScript,88551,79.3
 AudioTaste,CSS,15248,13.6
 AudioTaste,HTML,7933,7.1
-BloodAndBacon-DnSpyEx,C#,11559856,100.0
+BloodAndBacon-DnSpyEx,C#,11560068,100.0
 bloxNES,Lua,58862,99.8
 bloxNES,Luau,116,0.2
 brasilapidumped,Python,45827,100.0
@@ -184,7 +184,7 @@ freellmapi,CSS,5991,0.1
 freellmapi,Shell,4332,0.1
 freellmapi,Dockerfile,3698,0.1
 freellmapi,PowerShell,2940,0.0
-ftping,Python,19540,100.0
+ftping,Python,69331,100.0
 g1,Python,12964,100.0
 Giggles-Shit,JavaScript,56648,78.1
 Giggles-Shit,CSS,12258,16.9

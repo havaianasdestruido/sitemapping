@@ -3,19 +3,6 @@
     "repo": "FNF-Phoenix-Engine",
     "state": "open",
     "status": "open",
-    "number": 35,
-    "title": "⚡ Bolt: Avoid O(n) indexOf when no scripts are active",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-13T01:27:48Z",
-    "base_branch": "main",
-    "head_branch": "bolt-indexOf-optimization-13439205363626752212",
-    "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/35"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "open",
-    "status": "open",
     "number": 17,
     "title": "docs: add Javadoc/JSDoc-style tags to functions across codebase",
     "user": "havaianasdestruido",
@@ -37,6 +24,19 @@
     "head_branch": "fix-broken-workflows-451876394576674102",
     "commit_count": 4,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/14"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "closed",
+    "status": "merged",
+    "number": 35,
+    "title": "⚡ Bolt: Avoid O(n) indexOf when no scripts are active",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-13T01:27:48Z",
+    "base_branch": "main",
+    "head_branch": "bolt-indexOf-optimization-13439205363626752212",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/35"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -284,19 +284,6 @@
     "head_branch": "codex/remove-obscene-words-from-code",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/15"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "status": "merged",
-    "number": 13,
-    "title": "workflow: default builds to Windows and Android with toggle",
-    "user": "havaianasdestruido",
-    "created_at": "2026-08-30T20:06:10Z",
-    "base_branch": "main",
-    "head_branch": "jules-15472080900066083561-4f7fe005",
-    "commit_count": 3,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/13"
   },
   {
     "repo": "R2K16",
@@ -978,6 +965,19 @@
     "repo": "AmIOnline",
     "state": "closed",
     "status": "merged",
+    "number": 8,
+    "title": "⚡ Bolt: Eliminate redundant DNS lookup in PingRunner",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-13T13:15:19Z",
+    "base_branch": "main",
+    "head_branch": "bolt-optimize-dns-lookup-422694711296163069",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/AmIOnline/pull/8"
+  },
+  {
+    "repo": "AmIOnline",
+    "state": "closed",
+    "status": "merged",
     "number": 7,
     "title": "⚡ Bolt: Batch TextView appends to reduce UI thread layout passes",
     "user": "havaianasdestruido",
@@ -1051,6 +1051,19 @@
     "head_branch": "vercel/install-vercel-speed-insights-ftzuun",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/AudioTaste/pull/1"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "state": "closed",
+    "status": "merged",
+    "number": 4,
+    "title": "⚡ Bolt: Optimize Vector3.Distance to Vector3.DistanceSquared in Princess collision loop",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-13T12:56:30Z",
+    "base_branch": "main",
+    "head_branch": "bolt-vector3-distance-squared-optimization-13924836998611377248",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/pull/4"
   },
   {
     "repo": "BloodAndBacon-DnSpyEx",
@@ -1472,6 +1485,32 @@
     "repo": "ftping",
     "state": "closed",
     "status": "merged",
+    "number": 5,
+    "title": "Log last-modified, created-at, created-by and more metadata in root directory listings",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-13T13:21:41Z",
+    "base_branch": "main",
+    "head_branch": "arena/bf661f11-ftping",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/ftping/pull/5"
+  },
+  {
+    "repo": "ftping",
+    "state": "closed",
+    "status": "merged",
+    "number": 4,
+    "title": "Write root directory listings for reachable FTP servers",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-13T13:12:52Z",
+    "base_branch": "main",
+    "head_branch": "arena/9105ecaa-ftping",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/ftping/pull/4"
+  },
+  {
+    "repo": "ftping",
+    "state": "closed",
+    "status": "merged",
     "number": 3,
     "title": "Number success reports on reruns instead of overwriting them",
     "user": "havaianasdestruido",
@@ -1779,6 +1818,19 @@
     "head_branch": "bolt-extract-isos-optimization-8097900334142576862",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/microsoft/pull/1"
+  },
+  {
+    "repo": "mshearts",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "⚡ Bolt: Replace hand-rolled math/bit-twiddling with standard/intrinsic equivalents",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-13T14:11:27Z",
+    "base_branch": "main",
+    "head_branch": "bolt-perf-math-optimizations-18433753904538681485",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/mshearts/pull/1"
   },
   {
     "repo": "Neo-Order-project",
@@ -2276,6 +2328,19 @@
   },
   {
     "repo": "Quack3DMM",
+    "state": "open",
+    "status": "open",
+    "number": 5,
+    "title": "⚡ Bolt: Optimize single-item erasure and string allocations",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-13T15:23:49Z",
+    "base_branch": "main",
+    "head_branch": "bolt-performance-optimizations-16883162654829146458",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/Quack3DMM/pull/5"
+  },
+  {
+    "repo": "Quack3DMM",
     "state": "closed",
     "status": "merged",
     "number": 4,
@@ -2390,6 +2455,19 @@
     "head_branch": "imgbot",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/Sonic4/pull/1"
+  },
+  {
+    "repo": "steamlogger",
+    "state": "open",
+    "status": "open",
+    "number": 7,
+    "title": "⚡ Bolt: Optimize player summaries URL string allocation",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-13T15:08:10Z",
+    "base_branch": "main",
+    "head_branch": "bolt-optimize-url-allocations-17322043973033610492",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/steamlogger/pull/7"
   },
   {
     "repo": "steamlogger",
