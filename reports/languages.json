@@ -596,7 +596,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 4872967,
+    "bytes": 4873505,
     "percent": 93.5
   },
   {
@@ -2384,7 +2384,7 @@
   {
     "repo": "PWSV",
     "language": "C++",
-    "bytes": 37292,
+    "bytes": 37304,
     "percent": 38.1
   },
   {

@@ -1743,6 +1743,19 @@
   },
   {
     "repo": "Hiphenatus",
+    "state": "open",
+    "status": "open",
+    "number": 4,
+    "title": "⚡ Bolt: Optimize array indexing in pixel shaders",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-14T02:11:53Z",
+    "base_branch": "main",
+    "head_branch": "bolt-optimize-shaders-2904943528483215869",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/pull/4"
+  },
+  {
+    "repo": "Hiphenatus",
     "state": "closed",
     "status": "merged",
     "number": 3,
@@ -2312,6 +2325,19 @@
     "head_branch": "arena/48f4ff36-projeto-tcc",
     "commit_count": 2,
     "url": "https://github.com/havaianasdestruido/Projeto-TCC/pull/1"
+  },
+  {
+    "repo": "PWSV",
+    "state": "closed",
+    "status": "merged",
+    "number": 4,
+    "title": "⚡ Bolt: [performance improvement] Optimize network framing and lock overhead in WebSocketServer",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-13T21:02:59Z",
+    "base_branch": "main",
+    "head_branch": "bolt-performance-optimizations-15093875258518217056",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/PWSV/pull/4"
   },
   {
     "repo": "PWSV",

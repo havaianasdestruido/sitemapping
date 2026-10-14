@@ -1905,6 +1905,14 @@
   },
   {
     "repo": "Hiphenatus",
+    "pr_number": 4,
+    "sha": "dcc049c53843daaac2726bd1f51d850a6e91147c",
+    "sha_short": "dcc049c",
+    "message": "Optimize array indexing in pixel shaders",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/dcc049c53843daaac2726bd1f51d850a6e91147c"
+  },
+  {
+    "repo": "Hiphenatus",
     "pr_number": 3,
     "sha": "97afb4d3174ee1d0246ca7535cafd9aadd1562e4",
     "sha_short": "97afb4d",
@@ -2406,6 +2414,14 @@
     "sha_short": "0fbaa8c",
     "message": "fix(bercos): endurece migracao 001 (constraints, idempotencia, pre-requisitos) apos revisao",
     "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/0fbaa8c2b5257cd66fcf54275a7b5ab9563826bf"
+  },
+  {
+    "repo": "PWSV",
+    "pr_number": 4,
+    "sha": "f6e547acb67ec553ea770357c9c08bd64cf85544",
+    "sha_short": "f6e547a",
+    "message": "⚡ Bolt: Optimize tick loop and network framing for WebSocketServer",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/f6e547acb67ec553ea770357c9c08bd64cf85544"
   },
   {
     "repo": "PWSV",
