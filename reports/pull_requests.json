@@ -490,7 +490,7 @@
     "created_at": "2026-10-01T13:17:04Z",
     "base_branch": "master",
     "head_branch": "arena/01a0f2c2-hemorroidabot",
-    "commit_count": 2,
+    "commit_count": 0,
     "url": "https://github.com/havaianasdestruido/hemorroidabot/pull/4"
   },
   {
@@ -960,6 +960,19 @@
     "head_branch": "arena/01a0ef9a-abnt-skill",
     "commit_count": 2,
     "url": "https://github.com/havaianasdestruido/abnt-skill/pull/1"
+  },
+  {
+    "repo": "AmIOnline",
+    "state": "open",
+    "status": "open",
+    "number": 9,
+    "title": "⚡ Bolt: Optimize console update debouncing",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-14T12:31:29Z",
+    "base_branch": "main",
+    "head_branch": "bolt-ui-thread-debouncing-optimization-10322238327531635706",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/AmIOnline/pull/9"
   },
   {
     "repo": "AmIOnline",
@@ -1745,6 +1758,19 @@
     "repo": "Hiphenatus",
     "state": "open",
     "status": "open",
+    "number": 5,
+    "title": "⚡ Bolt: Optimize Sines screen effect performance",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-14T12:41:06Z",
+    "base_branch": "main",
+    "head_branch": "bolt/optimize-sines-math-17701645183589301807",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/pull/5"
+  },
+  {
+    "repo": "Hiphenatus",
+    "state": "open",
+    "status": "open",
     "number": 4,
     "title": "⚡ Bolt: Optimize array indexing in pixel shaders",
     "user": "havaianasdestruido",
@@ -2325,6 +2351,19 @@
     "head_branch": "arena/48f4ff36-projeto-tcc",
     "commit_count": 2,
     "url": "https://github.com/havaianasdestruido/Projeto-TCC/pull/1"
+  },
+  {
+    "repo": "PWSV",
+    "state": "open",
+    "status": "open",
+    "number": 5,
+    "title": "⚡ Bolt: [performance improvement] Non-blocking Audio Thread Telemetry Lock",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-14T12:59:06Z",
+    "base_branch": "main",
+    "head_branch": "bolt-trylock-optimization-11752279283507187009",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/PWSV/pull/5"
   },
   {
     "repo": "PWSV",

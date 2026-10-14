@@ -8022,6 +8022,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "cc4c5d682b5c5886b27e409c7126cd71373a4ab8",
+    "sha_short": "cc4c5d6",
+    "author": "GitHub Action Bot",
+    "date": "2026-10-14T09:22:15Z",
+    "message": "📊 [2026-10-14 09:22:15 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/cc4c5d682b5c5886b27e409c7126cd71373a4ab8"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "4ab5595d85a635e49617f6bb75e5ae3c4dcafd3a",
     "sha_short": "4ab5595",
     "author": "GitHub Action Bot",
@@ -8112,12 +8122,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "8e0fc05ea9afcb8b98d993a45ff213a717927ffb",
-    "sha_short": "8e0fc05",
+    "sha": "2666f0a68ad815ce37f630f110efc521781633e8",
+    "sha_short": "2666f0a",
     "author": "GitHub Action Bot",
-    "date": "2026-10-11T10:37:20Z",
-    "message": "📊 [2026-10-11 10:37:20 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/8e0fc05ea9afcb8b98d993a45ff213a717927ffb"
+    "date": "2026-10-04T10:25:49Z",
+    "message": "📊 [2026-10-04 10:25:49 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/2666f0a68ad815ce37f630f110efc521781633e8"
   },
   {
     "repo": "sitemapping",
@@ -8212,12 +8222,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "1f7881d85853fdc7352fc01a4eeff35b49deb63f",
-    "sha_short": "1f7881d",
+    "sha": "c6a3debff984dfb0cf21c87adf7b2e6621adcdbd",
+    "sha_short": "c6a3deb",
     "author": "GitHub Action Bot",
-    "date": "2026-10-02T03:13:01Z",
-    "message": "📊 [2026-10-02 03:13:01 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/1f7881d85853fdc7352fc01a4eeff35b49deb63f"
+    "date": "2026-09-25T23:02:41Z",
+    "message": "📊 [2026-09-25 23:02:41 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/c6a3debff984dfb0cf21c87adf7b2e6621adcdbd"
   },
   {
     "repo": "sitemapping",
@@ -8312,12 +8322,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "c6b4d6831811476955e36df5febc17257d3cda7b",
-    "sha_short": "c6b4d68",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-23T15:53:42Z",
-    "message": "📊 [2026-09-23 15:53:42 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/c6b4d6831811476955e36df5febc17257d3cda7b"
+    "sha": "b66d1152a90174daab03f6b132534edaf84d3ff0",
+    "sha_short": "b66d115",
+    "author": "Pato (new acc)",
+    "date": "2026-09-20T14:58:46Z",
+    "message": "Simplify commit message format in workflow",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/b66d1152a90174daab03f6b132534edaf84d3ff0"
   },
   {
     "repo": "sitemapping",
@@ -8408,16 +8418,6 @@
     "date": "2026-09-19T14:12:24Z",
     "message": "Implement data export to CSV and JSON formats",
     "url": "https://github.com/havaianasdestruido/sitemapping/commit/9fb18fd83017c24ce07c433b500ed44fb009b718"
-  },
-  {
-    "repo": "sitemapping",
-    "branch": "main",
-    "sha": "066fe0e4049f15ce3de8c0eae193d0e90c4af2d8",
-    "sha_short": "066fe0e",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-19T03:43:23Z",
-    "message": "📊 Update repository report [2026-09-19 03:43:23 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/066fe0e4049f15ce3de8c0eae193d0e90c4af2d8"
   },
   {
     "repo": "top100",
@@ -8822,6 +8822,26 @@
   {
     "repo": "top100",
     "branch": "main",
+    "sha": "5a259a945cb3ca9c4da4535cf9a1598d6d293e5d",
+    "sha_short": "5a259a9",
+    "author": "github-actions[bot]",
+    "date": "2026-10-14T15:38:04Z",
+    "message": "data: update top repos data (2026-10-14 15:38 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/5a259a945cb3ca9c4da4535cf9a1598d6d293e5d"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "d0660e24b3a4d0acaf8d139828f2f5980e27066f",
+    "sha_short": "d0660e2",
+    "author": "github-actions[bot]",
+    "date": "2026-10-14T10:46:04Z",
+    "message": "data: update top repos data (2026-10-14 10:46 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/d0660e24b3a4d0acaf8d139828f2f5980e27066f"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
     "sha": "0fc9ba2e0ee272a40e5555dee34d8a4010778879",
     "sha_short": "0fc9ba2",
     "author": "github-actions[bot]",
@@ -8902,22 +8922,22 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "74faaa0c06dbc450a2c49171f3359695165e94a0",
-    "sha_short": "74faaa0",
+    "sha": "bcd6311f2ee8f443ae3bf925d9e9341c6e6177f6",
+    "sha_short": "bcd6311",
     "author": "github-actions[bot]",
-    "date": "2026-10-12T02:53:26Z",
-    "message": "data: update top repos data (2026-10-12 02:53 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/74faaa0c06dbc450a2c49171f3359695165e94a0"
+    "date": "2026-10-07T14:51:19Z",
+    "message": "data: update top repos data (2026-10-07 14:51 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/bcd6311f2ee8f443ae3bf925d9e9341c6e6177f6"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "1f22fb98ad4ade24d6b83dc865bb35a39e006cf8",
-    "sha_short": "1f22fb9",
+    "sha": "bad6200b0c4f1826d222cf18eb4719f78575cd34",
+    "sha_short": "bad6200",
     "author": "github-actions[bot]",
-    "date": "2026-10-11T23:18:28Z",
-    "message": "data: update top repos data (2026-10-11 23:18 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/1f22fb98ad4ade24d6b83dc865bb35a39e006cf8"
+    "date": "2026-10-07T07:50:01Z",
+    "message": "data: update top repos data (2026-10-07 07:50 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/bad6200b0c4f1826d222cf18eb4719f78575cd34"
   },
   {
     "repo": "top100",
@@ -9002,22 +9022,22 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "c1710d817a15bf4301cb36ea0045c0a675af9dab",
-    "sha_short": "c1710d8",
+    "sha": "643a29a81c920fd4f41e6f5aa3657b9a4b3b0de9",
+    "sha_short": "643a29a",
     "author": "github-actions[bot]",
-    "date": "2026-10-05T01:23:03Z",
-    "message": "data: update top repos data (2026-10-05 01:23 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/c1710d817a15bf4301cb36ea0045c0a675af9dab"
+    "date": "2026-09-30T01:43:19Z",
+    "message": "data: update top repos data (2026-09-30 01:43 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/643a29a81c920fd4f41e6f5aa3657b9a4b3b0de9"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "a3c11e3e17a2374b66c6e2c490ba4b8e82f83813",
-    "sha_short": "a3c11e3",
+    "sha": "282951719c38f0ff53fe9723abe7e214f1f49ecc",
+    "sha_short": "2829517",
     "author": "github-actions[bot]",
-    "date": "2026-10-04T22:04:24Z",
-    "message": "data: update top repos data (2026-10-04 22:04 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/a3c11e3e17a2374b66c6e2c490ba4b8e82f83813"
+    "date": "2026-09-29T22:47:34Z",
+    "message": "data: update top repos data (2026-09-29 22:47 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/282951719c38f0ff53fe9723abe7e214f1f49ecc"
   },
   {
     "repo": "top100",
@@ -9102,22 +9122,22 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "57aabb98925d9200f16f805c295fc63fc9f1a816",
-    "sha_short": "57aabb9",
-    "author": "havaianasdestruido",
-    "date": "2026-09-28T13:04:56Z",
-    "message": "review: fix 17 verified issues found in the first pass",
-    "url": "https://github.com/havaianasdestruido/top100/commit/57aabb98925d9200f16f805c295fc63fc9f1a816"
+    "sha": "b33d0b8f2e23abe396e545d96031fb97630f5f81",
+    "sha_short": "b33d0b8",
+    "author": "github-actions[bot]",
+    "date": "2026-09-24T10:36:40Z",
+    "message": "data: update top repos data (2026-09-24)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/b33d0b8f2e23abe396e545d96031fb97630f5f81"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "e3147393b4141b1d00ec9087e94d922160b0f150",
-    "sha_short": "e314739",
-    "author": "havaianasdestruido",
-    "date": "2026-09-28T12:38:52Z",
-    "message": "site: turn the 117-word page into a real content site for AI and search visibility",
-    "url": "https://github.com/havaianasdestruido/top100/commit/e3147393b4141b1d00ec9087e94d922160b0f150"
+    "sha": "6e55d3e3a65c00aaf8449fb77a0283983e8762bc",
+    "sha_short": "6e55d3e",
+    "author": "github-actions[bot]",
+    "date": "2026-09-24T05:35:04Z",
+    "message": "data: update top repos data (2026-09-24)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/6e55d3e3a65c00aaf8449fb77a0283983e8762bc"
   },
   {
     "repo": "top100",
@@ -9198,26 +9218,6 @@
     "date": "2026-09-22T20:33:41Z",
     "message": "data: update top repos data (2026-09-22)",
     "url": "https://github.com/havaianasdestruido/top100/commit/8e2356494b3ac900ddda11232eef7a60192a406a"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "7a5c02e5a1c84b9bbac7f7220b6c41637c11a8c8",
-    "sha_short": "7a5c02e",
-    "author": "github-actions[bot]",
-    "date": "2026-09-22T17:24:24Z",
-    "message": "data: update top repos data (2026-09-22)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/7a5c02e5a1c84b9bbac7f7220b6c41637c11a8c8"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "abab9a1bc47088eeacf4349201eb40bfc710b76f",
-    "sha_short": "abab9a1",
-    "author": "github-actions[bot]",
-    "date": "2026-09-22T12:11:23Z",
-    "message": "data: update top repos data (2026-09-22)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/abab9a1bc47088eeacf4349201eb40bfc710b76f"
   },
   {
     "repo": "WAL-skill",
@@ -13401,6 +13401,106 @@
   },
   {
     "repo": "AmIOnline",
+    "branch": "bolt-ui-thread-debouncing-optimization-10322238327531635706",
+    "sha": "2a24442d0ef0154a1e989062d71f3a483962bf5b",
+    "sha_short": "2a24442",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-14T12:31:25Z",
+    "message": "⚡ Bolt: Optimize console update debouncing",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/2a24442d0ef0154a1e989062d71f3a483962bf5b"
+  },
+  {
+    "repo": "AmIOnline",
+    "branch": "bolt-ui-thread-debouncing-optimization-10322238327531635706",
+    "sha": "722cd98eaafde27fe2d67804a473913cee57d02c",
+    "sha_short": "722cd98",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-13T13:16:28Z",
+    "message": "Merge pull request #8 from havaianasdestruido/bolt-optimize-dns-lookup-422694711296163069",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/722cd98eaafde27fe2d67804a473913cee57d02c"
+  },
+  {
+    "repo": "AmIOnline",
+    "branch": "bolt-ui-thread-debouncing-optimization-10322238327531635706",
+    "sha": "0a4426fb7a51e683500a5557d826b3ef0f9dda27",
+    "sha_short": "0a4426f",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-13T13:15:15Z",
+    "message": "Eliminate redundant DNS lookup in `buildPingCommand`",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/0a4426fb7a51e683500a5557d826b3ef0f9dda27"
+  },
+  {
+    "repo": "AmIOnline",
+    "branch": "bolt-ui-thread-debouncing-optimization-10322238327531635706",
+    "sha": "ea6154f736da61c800d0d6edd797b3ef194b9426",
+    "sha_short": "ea6154f",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-13T00:45:15Z",
+    "message": "Merge pull request #7 from havaianasdestruido/bolt-batch-ui-appends-4810326626962579159",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/ea6154f736da61c800d0d6edd797b3ef194b9426"
+  },
+  {
+    "repo": "AmIOnline",
+    "branch": "bolt-ui-thread-debouncing-optimization-10322238327531635706",
+    "sha": "22229c772c1444a2ffb27bb8942972dfe615832c",
+    "sha_short": "22229c7",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-12T18:46:13Z",
+    "message": "Batch TextView appends to reduce UI thread layout passes",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/22229c772c1444a2ffb27bb8942972dfe615832c"
+  },
+  {
+    "repo": "AmIOnline",
+    "branch": "bolt-ui-thread-debouncing-optimization-10322238327531635706",
+    "sha": "227b1f1d38f95ad1577247a546b8a54a43d90951",
+    "sha_short": "227b1f1",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-11T13:17:30Z",
+    "message": "Merge pull request #6 from havaianasdestruido/bolt-debounce-scroll-17595750906209638105",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/227b1f1d38f95ad1577247a546b8a54a43d90951"
+  },
+  {
+    "repo": "AmIOnline",
+    "branch": "bolt-ui-thread-debouncing-optimization-10322238327531635706",
+    "sha": "82e62446c3e420f9104aff10a12af03243ebf7a8",
+    "sha_short": "82e6244",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-11T13:00:40Z",
+    "message": "⚡ Bolt: [debounce scroll layout updates]",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/82e62446c3e420f9104aff10a12af03243ebf7a8"
+  },
+  {
+    "repo": "AmIOnline",
+    "branch": "bolt-ui-thread-debouncing-optimization-10322238327531635706",
+    "sha": "f09889cd942af25af32667b4a0489db986c54758",
+    "sha_short": "f09889c",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-10T14:35:23Z",
+    "message": "Merge pull request #4 from havaianasdestruido/arena/175211cc-amionline",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/f09889cd942af25af32667b4a0489db986c54758"
+  },
+  {
+    "repo": "AmIOnline",
+    "branch": "bolt-ui-thread-debouncing-optimization-10322238327531635706",
+    "sha": "30bd0e46403fbc9fd42a853d21c6043411700b6a",
+    "sha_short": "30bd0e4",
+    "author": "havaianasdestruido",
+    "date": "2026-10-10T14:27:08Z",
+    "message": "⚡ Bolt: compile hostname regex once instead of per call",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/30bd0e46403fbc9fd42a853d21c6043411700b6a"
+  },
+  {
+    "repo": "AmIOnline",
+    "branch": "bolt-ui-thread-debouncing-optimization-10322238327531635706",
+    "sha": "2d4c22932849dd239be481f9178224abee899bbf",
+    "sha_short": "2d4c229",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-10T13:44:33Z",
+    "message": "rename screenshots and add them to README",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/2d4c22932849dd239be481f9178224abee899bbf"
+  },
+  {
+    "repo": "AmIOnline",
     "branch": "feat/amionline-native-app-3291315205698628128",
     "sha": "7d55d9190ecb42ff464ba346fe42639587e3bcd3",
     "sha_short": "7d55d91",
@@ -13428,106 +13528,6 @@
     "date": "2026-10-09T23:38:12Z",
     "message": "Initial commit",
     "url": "https://github.com/havaianasdestruido/AmIOnline/commit/aba97eb1dbb43c32fafb072f8193e7309fb29744"
-  },
-  {
-    "repo": "AmIOnline",
-    "branch": "main",
-    "sha": "722cd98eaafde27fe2d67804a473913cee57d02c",
-    "sha_short": "722cd98",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-13T13:16:28Z",
-    "message": "Merge pull request #8 from havaianasdestruido/bolt-optimize-dns-lookup-422694711296163069",
-    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/722cd98eaafde27fe2d67804a473913cee57d02c"
-  },
-  {
-    "repo": "AmIOnline",
-    "branch": "main",
-    "sha": "0a4426fb7a51e683500a5557d826b3ef0f9dda27",
-    "sha_short": "0a4426f",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-10-13T13:15:15Z",
-    "message": "Eliminate redundant DNS lookup in `buildPingCommand`",
-    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/0a4426fb7a51e683500a5557d826b3ef0f9dda27"
-  },
-  {
-    "repo": "AmIOnline",
-    "branch": "main",
-    "sha": "ea6154f736da61c800d0d6edd797b3ef194b9426",
-    "sha_short": "ea6154f",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-13T00:45:15Z",
-    "message": "Merge pull request #7 from havaianasdestruido/bolt-batch-ui-appends-4810326626962579159",
-    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/ea6154f736da61c800d0d6edd797b3ef194b9426"
-  },
-  {
-    "repo": "AmIOnline",
-    "branch": "main",
-    "sha": "22229c772c1444a2ffb27bb8942972dfe615832c",
-    "sha_short": "22229c7",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-10-12T18:46:13Z",
-    "message": "Batch TextView appends to reduce UI thread layout passes",
-    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/22229c772c1444a2ffb27bb8942972dfe615832c"
-  },
-  {
-    "repo": "AmIOnline",
-    "branch": "main",
-    "sha": "227b1f1d38f95ad1577247a546b8a54a43d90951",
-    "sha_short": "227b1f1",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-11T13:17:30Z",
-    "message": "Merge pull request #6 from havaianasdestruido/bolt-debounce-scroll-17595750906209638105",
-    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/227b1f1d38f95ad1577247a546b8a54a43d90951"
-  },
-  {
-    "repo": "AmIOnline",
-    "branch": "main",
-    "sha": "82e62446c3e420f9104aff10a12af03243ebf7a8",
-    "sha_short": "82e6244",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-10-11T13:00:40Z",
-    "message": "⚡ Bolt: [debounce scroll layout updates]",
-    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/82e62446c3e420f9104aff10a12af03243ebf7a8"
-  },
-  {
-    "repo": "AmIOnline",
-    "branch": "main",
-    "sha": "f09889cd942af25af32667b4a0489db986c54758",
-    "sha_short": "f09889c",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-10T14:35:23Z",
-    "message": "Merge pull request #4 from havaianasdestruido/arena/175211cc-amionline",
-    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/f09889cd942af25af32667b4a0489db986c54758"
-  },
-  {
-    "repo": "AmIOnline",
-    "branch": "main",
-    "sha": "30bd0e46403fbc9fd42a853d21c6043411700b6a",
-    "sha_short": "30bd0e4",
-    "author": "havaianasdestruido",
-    "date": "2026-10-10T14:27:08Z",
-    "message": "⚡ Bolt: compile hostname regex once instead of per call",
-    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/30bd0e46403fbc9fd42a853d21c6043411700b6a"
-  },
-  {
-    "repo": "AmIOnline",
-    "branch": "main",
-    "sha": "2d4c22932849dd239be481f9178224abee899bbf",
-    "sha_short": "2d4c229",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-10T13:44:33Z",
-    "message": "rename screenshots and add them to README",
-    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/2d4c22932849dd239be481f9178224abee899bbf"
-  },
-  {
-    "repo": "AmIOnline",
-    "branch": "main",
-    "sha": "f097323ba43ddaf37bc2a0e3171c4a7bc3936835",
-    "sha_short": "f097323",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-10T12:25:04Z",
-    "message": "Merge pull request #2 from havaianasdestruido/refactor/rename-package-com-quack-online-14985316877159880328",
-    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/f097323ba43ddaf37bc2a0e3171c4a7bc3936835"
   },
   {
     "repo": "AudioTaste",
@@ -17732,6 +17732,26 @@
   {
     "repo": "eleicoes-data",
     "branch": "main",
+    "sha": "292b175e4a13e5353652d5df72067c4938912787",
+    "sha_short": "292b175",
+    "author": "github-actions[bot]",
+    "date": "2026-10-14T15:14:09Z",
+    "message": "data: TSE presidente snapshot 2026-10-14 15:14:09Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/292b175e4a13e5353652d5df72067c4938912787"
+  },
+  {
+    "repo": "eleicoes-data",
+    "branch": "main",
+    "sha": "ecd54146a16fbdcc1cc2758d7a842e5ea667dc95",
+    "sha_short": "ecd5414",
+    "author": "github-actions[bot]",
+    "date": "2026-10-14T10:22:09Z",
+    "message": "data: TSE presidente snapshot 2026-10-14 10:22:09Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/ecd54146a16fbdcc1cc2758d7a842e5ea667dc95"
+  },
+  {
+    "repo": "eleicoes-data",
+    "branch": "main",
     "sha": "cc262053a8b71db0a33fb72857b37f390a833f97",
     "sha_short": "cc26205",
     "author": "github-actions[bot]",
@@ -17812,22 +17832,22 @@
   {
     "repo": "eleicoes-data",
     "branch": "main",
-    "sha": "4ba519375288743eed5d0f83406fe1bb9c56d16e",
-    "sha_short": "4ba5193",
+    "sha": "a27b156d65e23491dc1dba9cb846dadddde626fd",
+    "sha_short": "a27b156",
     "author": "github-actions[bot]",
-    "date": "2026-10-12T06:13:50Z",
-    "message": "data: TSE presidente snapshot 2026-10-12 06:13:50Z",
-    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/4ba519375288743eed5d0f83406fe1bb9c56d16e"
+    "date": "2026-10-06T23:45:40Z",
+    "message": "data: TSE presidente snapshot 2026-10-06 23:45:40Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/a27b156d65e23491dc1dba9cb846dadddde626fd"
   },
   {
     "repo": "eleicoes-data",
     "branch": "main",
-    "sha": "816d90ac343691788c03a35cc6bebea4a96dcbeb",
-    "sha_short": "816d90a",
+    "sha": "60bbfe55921924301aa308927ef9f3602734482a",
+    "sha_short": "60bbfe5",
     "author": "github-actions[bot]",
-    "date": "2026-10-12T00:26:14Z",
-    "message": "data: TSE presidente snapshot 2026-10-12 00:26:14Z",
-    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/816d90ac343691788c03a35cc6bebea4a96dcbeb"
+    "date": "2026-10-06T20:08:49Z",
+    "message": "data: TSE presidente snapshot 2026-10-06 20:08:49Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/60bbfe55921924301aa308927ef9f3602734482a"
   },
   {
     "repo": "eleicoes-data",
@@ -22948,6 +22968,166 @@
     "date": "2025-04-18T14:24:08Z",
     "message": "raised the exe amount thing",
     "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/fad8ae14672c5759d9e62f6e038b2b1c7f3623c7"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "bolt/optimize-sines-math-17701645183589301807",
+    "sha": "29659163e180b0c9a852bce7771b6c72e652ce87",
+    "sha_short": "2965916",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-14T12:41:02Z",
+    "message": "⚡ Bolt: Optimize Sines screen effect performance",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/29659163e180b0c9a852bce7771b6c72e652ce87"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "bolt/optimize-sines-math-17701645183589301807",
+    "sha": "4366f4be1c48de43647a970c022147d915b54cc8",
+    "sha_short": "4366f4b",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-13T00:44:43Z",
+    "message": "Merge pull request #3 from havaianasdestruido/bolt-optimize-math-14117362207707340819",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/4366f4be1c48de43647a970c022147d915b54cc8"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "bolt/optimize-sines-math-17701645183589301807",
+    "sha": "97afb4d3174ee1d0246ca7535cafd9aadd1562e4",
+    "sha_short": "97afb4d",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-12T14:09:24Z",
+    "message": "⚡ Bolt: [performance improvement] optimize math and indexing in Shader7 and Shader8",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/97afb4d3174ee1d0246ca7535cafd9aadd1562e4"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "bolt/optimize-sines-math-17701645183589301807",
+    "sha": "12972d22307270febf80be28f12166bfb300f294",
+    "sha_short": "12972d2",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-11T14:18:27Z",
+    "message": "Merge pull request #2 from havaianasdestruido/bolt/optimize-shader6-sqrt-14328770865741558304",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/12972d22307270febf80be28f12166bfb300f294"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "bolt/optimize-sines-math-17701645183589301807",
+    "sha": "8ef8a09b42633ca99f4be7fcd4d2f2c6fddc6c74",
+    "sha_short": "8ef8a09",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-11T13:39:41Z",
+    "message": "⚡ Bolt: Precompute Math.Sqrt for RGB values in Shader6",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/8ef8a09b42633ca99f4be7fcd4d2f2c6fddc6c74"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "bolt/optimize-sines-math-17701645183589301807",
+    "sha": "b6b0e027ec124b66386ab0a8fe36e78bb2104f69",
+    "sha_short": "b6b0e02",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-10T16:32:41Z",
+    "message": "Merge pull request #1 from havaianasdestruido/bolt/optimize-shader-loops-5217655882379629724",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/b6b0e027ec124b66386ab0a8fe36e78bb2104f69"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "bolt/optimize-sines-math-17701645183589301807",
+    "sha": "1bc346215cd7465722f1d51239d262f69b14a9d9",
+    "sha_short": "1bc3462",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-10T16:16:07Z",
+    "message": "⚡ Bolt: Cache loop-invariant math calculations in Shaders",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/1bc346215cd7465722f1d51239d262f69b14a9d9"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "bolt/optimize-sines-math-17701645183589301807",
+    "sha": "6d8f27b2c2e0e66d21e0109d0f8f97b815f104f2",
+    "sha_short": "6d8f27b",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T01:10:28Z",
+    "message": "Set imgbot schedule to weekly",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/6d8f27b2c2e0e66d21e0109d0f8f97b815f104f2"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "bolt/optimize-sines-math-17701645183589301807",
+    "sha": "feb4a18757b3cf8c341038163db0beb2f4da4bcb",
+    "sha_short": "feb4a18",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T00:38:05Z",
+    "message": "Add .imgbotconfig for aggressive image compression",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/feb4a18757b3cf8c341038163db0beb2f4da4bcb"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "bolt/optimize-sines-math-17701645183589301807",
+    "sha": "77c9661cd5033af1fd593c19e31ec9550cb9dedc",
+    "sha_short": "77c9661",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:14:28Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/77c9661cd5033af1fd593c19e31ec9550cb9dedc"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "bolt/optimize-sines-math-17701645183589301807",
+    "sha": "b1623e0952971ac7f590d56e115793ee793c0fb7",
+    "sha_short": "b1623e0",
+    "author": "UltimateQuack",
+    "date": "2025-04-16T15:34:19Z",
+    "message": "removed old unused test",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/b1623e0952971ac7f590d56e115793ee793c0fb7"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "bolt/optimize-sines-math-17701645183589301807",
+    "sha": "40e68edfa085eb9cdfba021207bf0fcf94332c4f",
+    "sha_short": "40e68ed",
+    "author": "UltimateQuack",
+    "date": "2025-04-16T15:33:44Z",
+    "message": "Added OpenHiphenatus - a way to test shaders without risk of running destructible payloads!",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/40e68edfa085eb9cdfba021207bf0fcf94332c4f"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "bolt/optimize-sines-math-17701645183589301807",
+    "sha": "40961aa99b87c497a9048ef96aacd8da8f402ff1",
+    "sha_short": "40961aa",
+    "author": "UltimateQuack",
+    "date": "2025-04-16T14:42:50Z",
+    "message": "new thingsggkjhgjhg",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/40961aa99b87c497a9048ef96aacd8da8f402ff1"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "bolt/optimize-sines-math-17701645183589301807",
+    "sha": "6b8fcb60245a468a9bc8a6dee218582ee930fb05",
+    "sha_short": "6b8fcb6",
+    "author": "UltimateQuack",
+    "date": "2025-04-16T13:42:03Z",
+    "message": "WIP anti destructive system",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/6b8fcb60245a468a9bc8a6dee218582ee930fb05"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "bolt/optimize-sines-math-17701645183589301807",
+    "sha": "63d5d202caa61b5e9e61b75bfc370bf731a5a457",
+    "sha_short": "63d5d20",
+    "author": "UltimateQuack",
+    "date": "2025-04-15T20:21:19Z",
+    "message": "Adicionar arquivos de projeto.",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/63d5d202caa61b5e9e61b75bfc370bf731a5a457"
+  },
+  {
+    "repo": "Hiphenatus",
+    "branch": "bolt/optimize-sines-math-17701645183589301807",
+    "sha": "3175b4141e6f10995a9dc8d33cc1ad6abe9ae440",
+    "sha_short": "3175b41",
+    "author": "UltimateQuack",
+    "date": "2025-04-15T20:21:17Z",
+    "message": "Adicione .gitattributes, .gitignore, README.md e LICENSE.txt.",
+    "url": "https://github.com/havaianasdestruido/Hiphenatus/commit/3175b4141e6f10995a9dc8d33cc1ad6abe9ae440"
   },
   {
     "repo": "Hiphenatus",
@@ -34018,6 +34198,106 @@
     "date": "2026-10-03T17:08:46Z",
     "message": "fix(ci): remove Gemfile.lock to allow bundler platform gem resolution",
     "url": "https://github.com/havaianasdestruido/PWSV/commit/f720ee725c59bed84fd29ecd2e47f688b2875ec5"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-trylock-optimization-11752279283507187009",
+    "sha": "cb1ee79aac417e7adfa8e3e6b6730033165b584f",
+    "sha_short": "cb1ee79",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-14T12:59:02Z",
+    "message": "Optimize WebSocketServer position update with try_lock",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/cb1ee79aac417e7adfa8e3e6b6730033165b584f"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-trylock-optimization-11752279283507187009",
+    "sha": "535fc37e8e2cf8733ec68dfe614653a49743f303",
+    "sha_short": "535fc37",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-13T21:34:26Z",
+    "message": "Merge pull request #4 from havaianasdestruido/bolt-performance-optimizations-15093875258518217056",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/535fc37e8e2cf8733ec68dfe614653a49743f303"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-trylock-optimization-11752279283507187009",
+    "sha": "f6e547acb67ec553ea770357c9c08bd64cf85544",
+    "sha_short": "f6e547a",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-13T21:02:54Z",
+    "message": "⚡ Bolt: Optimize tick loop and network framing for WebSocketServer",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/f6e547acb67ec553ea770357c9c08bd64cf85544"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-trylock-optimization-11752279283507187009",
+    "sha": "8c96cf167a6b3ce0f5c735e27dc619249a53f354",
+    "sha_short": "8c96cf1",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-13T00:44:47Z",
+    "message": "Merge pull request #3 from havaianasdestruido/bolt-json-optimization-2536688082538153751",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/8c96cf167a6b3ce0f5c735e27dc619249a53f354"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-trylock-optimization-11752279283507187009",
+    "sha": "0f853654437b79cafb57f63318f32e96424fd324",
+    "sha_short": "0f85365",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-12T13:52:50Z",
+    "message": "⚡ Bolt: Replace juce::String concatenations with operator<< in JSON serialization",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/0f853654437b79cafb57f63318f32e96424fd324"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-trylock-optimization-11752279283507187009",
+    "sha": "256dd95ec603055e4e7c36d5399bd33e95a7f603",
+    "sha_short": "256dd95",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-11T17:08:33Z",
+    "message": "Merge pull request #2 from havaianasdestruido/jules-performance-optimization-1291372089201965832",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/256dd95ec603055e4e7c36d5399bd33e95a7f603"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-trylock-optimization-11752279283507187009",
+    "sha": "be74d6c5a7e0e79d8977bd97dd8d341754903e04",
+    "sha_short": "be74d6c",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-11T16:04:17Z",
+    "message": "⚡ Bolt: O(1) MIDI array removal on audio thread",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/be74d6c5a7e0e79d8977bd97dd8d341754903e04"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-trylock-optimization-11752279283507187009",
+    "sha": "cff8ab4923d55ea280b0cdfe11bd2b2d304521a6",
+    "sha_short": "cff8ab4",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-03T18:17:02Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/01a10230-pwsv",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/cff8ab4923d55ea280b0cdfe11bd2b2d304521a6"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-trylock-optimization-11752279283507187009",
+    "sha": "e3fff493cd9c935075912655aa05ff82dd6164ba",
+    "sha_short": "e3fff49",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T17:15:11Z",
+    "message": "chore: gitignore docs build artifacts and untrack generated js bundles",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/e3fff493cd9c935075912655aa05ff82dd6164ba"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-trylock-optimization-11752279283507187009",
+    "sha": "1eea800835125417437294fe20acc9d2e885676e",
+    "sha_short": "1eea800",
+    "author": "havaianasdestruido",
+    "date": "2026-10-03T17:11:51Z",
+    "message": "ci: separate build and deploy jobs for GitHub Pages workflow",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/1eea800835125417437294fe20acc9d2e885676e"
   },
   {
     "repo": "PWSV",
