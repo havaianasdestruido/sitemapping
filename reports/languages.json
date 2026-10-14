@@ -56,7 +56,7 @@
   {
     "repo": "R2K16",
     "language": "C++",
-    "bytes": 557213694,
+    "bytes": 557214450,
     "percent": 51.8
   },
   {
@@ -438,6 +438,72 @@
     "percent": 0.0
   },
   {
+    "repo": "WindowsMovieMakerDecomp",
+    "language": "C++",
+    "bytes": 6397799,
+    "percent": 90.6
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "language": "Python",
+    "bytes": 299173,
+    "percent": 4.2
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "language": "C",
+    "bytes": 174028,
+    "percent": 2.5
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "language": "HTML",
+    "bytes": 62364,
+    "percent": 0.9
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "language": "CMake",
+    "bytes": 45653,
+    "percent": 0.6
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "language": "CSS",
+    "bytes": 42602,
+    "percent": 0.6
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "language": "C#",
+    "bytes": 15287,
+    "percent": 0.2
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "language": "Batchfile",
+    "bytes": 13954,
+    "percent": 0.2
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "language": "JavaScript",
+    "bytes": 10107,
+    "percent": 0.1
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "language": "PowerShell",
+    "bytes": 3670,
+    "percent": 0.1
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "language": "Ruby",
+    "bytes": 102,
+    "percent": 0.0
+  },
+  {
     "repo": "apkdecomp-skill",
     "language": "CSS",
     "bytes": 17732,
@@ -596,7 +662,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 4872513,
+    "bytes": 4872203,
     "percent": 93.5
   },
   {
@@ -622,72 +688,6 @@
     "language": "JavaScript",
     "bytes": 29178,
     "percent": 100.0
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "language": "C++",
-    "bytes": 6397799,
-    "percent": 90.6
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "language": "Python",
-    "bytes": 299173,
-    "percent": 4.2
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "language": "C",
-    "bytes": 174028,
-    "percent": 2.5
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "language": "HTML",
-    "bytes": 62228,
-    "percent": 0.9
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "language": "CMake",
-    "bytes": 45653,
-    "percent": 0.6
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "language": "CSS",
-    "bytes": 42602,
-    "percent": 0.6
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "language": "C#",
-    "bytes": 15287,
-    "percent": 0.2
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "language": "Batchfile",
-    "bytes": 13954,
-    "percent": 0.2
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "language": "JavaScript",
-    "bytes": 10107,
-    "percent": 0.1
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "language": "PowerShell",
-    "bytes": 3670,
-    "percent": 0.1
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "language": "Ruby",
-    "bytes": 102,
-    "percent": 0.0
   },
   {
     "repo": "abnt-skill",
@@ -716,7 +716,7 @@
   {
     "repo": "AmIOnline",
     "language": "Kotlin",
-    "bytes": 16308,
+    "bytes": 16235,
     "percent": 100.0
   },
   {
@@ -740,7 +740,7 @@
   {
     "repo": "BloodAndBacon-DnSpyEx",
     "language": "C#",
-    "bytes": 11560068,
+    "bytes": 11560393,
     "percent": 100.0
   },
   {
@@ -754,12 +754,6 @@
     "language": "Luau",
     "bytes": 116,
     "percent": 0.2
-  },
-  {
-    "repo": "brasilapidumped",
-    "language": "Python",
-    "bytes": 45827,
-    "percent": 100.0
   },
   {
     "repo": "brnews-db",
@@ -973,21 +967,33 @@
   },
   {
     "repo": "dadosabertos",
+    "language": "Jupyter Notebook",
+    "bytes": 2666989,
+    "percent": 90.9
+  },
+  {
+    "repo": "dadosabertos",
     "language": "Python",
-    "bytes": 179496,
-    "percent": 73.8
+    "bytes": 202690,
+    "percent": 6.9
   },
   {
     "repo": "dadosabertos",
     "language": "HTML",
     "bytes": 63794,
-    "percent": 26.2
+    "percent": 2.2
+  },
+  {
+    "repo": "eleicoes-data",
+    "language": "Jupyter Notebook",
+    "bytes": 5578224,
+    "percent": 99.7
   },
   {
     "repo": "eleicoes-data",
     "language": "Python",
-    "bytes": 13667,
-    "percent": 100.0
+    "bytes": 18494,
+    "percent": 0.3
   },
   {
     "repo": "EZInfiniteYTLive",
@@ -1111,15 +1117,27 @@
   },
   {
     "repo": "ftping",
+    "language": "Jupyter Notebook",
+    "bytes": 583103,
+    "percent": 89.4
+  },
+  {
+    "repo": "ftping",
     "language": "Python",
     "bytes": 69331,
-    "percent": 100.0
+    "percent": 10.6
+  },
+  {
+    "repo": "g1",
+    "language": "Jupyter Notebook",
+    "bytes": 1454264,
+    "percent": 99.1
   },
   {
     "repo": "g1",
     "language": "Python",
     "bytes": 12964,
-    "percent": 100.0
+    "percent": 0.9
   },
   {
     "repo": "Giggles-Shit",
@@ -1178,14 +1196,14 @@
   {
     "repo": "Hiphenatus",
     "language": "C#",
-    "bytes": 101384,
-    "percent": 93.3
+    "bytes": 102872,
+    "percent": 93.4
   },
   {
     "repo": "Hiphenatus",
     "language": "Visual Basic .NET",
     "bytes": 7278,
-    "percent": 6.7
+    "percent": 6.6
   },
   {
     "repo": "hscript-improved",
@@ -1378,6 +1396,18 @@
     "language": "C#",
     "bytes": 50369,
     "percent": 100.0
+  },
+  {
+    "repo": "memz-1",
+    "language": "C",
+    "bytes": 123351,
+    "percent": 96.6
+  },
+  {
+    "repo": "memz-1",
+    "language": "Makefile",
+    "bytes": 4293,
+    "percent": 3.4
   },
   {
     "repo": "metadata-editor",
@@ -1592,7 +1622,7 @@
   {
     "repo": "neo-nt5",
     "language": "C++",
-    "bytes": 1000275095,
+    "bytes": 1001404576,
     "percent": 46.0
   },
   {
@@ -1610,19 +1640,19 @@
   {
     "repo": "neo-nt5",
     "language": "Assembly",
-    "bytes": 36352300,
+    "bytes": 36975414,
     "percent": 1.7
   },
   {
     "repo": "neo-nt5",
     "language": "HTML",
-    "bytes": 26158881,
+    "bytes": 25921376,
     "percent": 1.2
   },
   {
     "repo": "neo-nt5",
     "language": "CWeb",
-    "bytes": 18661844,
+    "bytes": 18594449,
     "percent": 0.9
   },
   {
@@ -1646,7 +1676,7 @@
   {
     "repo": "neo-nt5",
     "language": "Perl",
-    "bytes": 8677827,
+    "bytes": 8345931,
     "percent": 0.4
   },
   {
@@ -1669,8 +1699,8 @@
   },
   {
     "repo": "neo-nt5",
-    "language": "POV-Ray SDL",
-    "bytes": 2467590,
+    "language": "RPC",
+    "bytes": 2946159,
     "percent": 0.1
   },
   {
@@ -1681,27 +1711,15 @@
   },
   {
     "repo": "neo-nt5",
+    "language": "BitBake",
+    "bytes": 2117064,
+    "percent": 0.1
+  },
+  {
+    "repo": "neo-nt5",
     "language": "C#",
     "bytes": 2079730,
     "percent": 0.1
-  },
-  {
-    "repo": "neo-nt5",
-    "language": "Logos",
-    "bytes": 1364141,
-    "percent": 0.1
-  },
-  {
-    "repo": "neo-nt5",
-    "language": "RPC",
-    "bytes": 1316583,
-    "percent": 0.1
-  },
-  {
-    "repo": "neo-nt5",
-    "language": "Smarty",
-    "bytes": 1059662,
-    "percent": 0.0
   },
   {
     "repo": "neo-nt5",
@@ -1717,8 +1735,8 @@
   },
   {
     "repo": "neo-nt5",
-    "language": "BitBake",
-    "bytes": 1019583,
+    "language": "Smarty",
+    "bytes": 978679,
     "percent": 0.0
   },
   {
@@ -1736,7 +1754,7 @@
   {
     "repo": "neo-nt5",
     "language": "PHP",
-    "bytes": 556418,
+    "bytes": 455834,
     "percent": 0.0
   },
   {
@@ -1747,14 +1765,26 @@
   },
   {
     "repo": "neo-nt5",
+    "language": "Raku",
+    "bytes": 392816,
+    "percent": 0.0
+  },
+  {
+    "repo": "neo-nt5",
     "language": "ASL",
     "bytes": 387737,
     "percent": 0.0
   },
   {
     "repo": "neo-nt5",
+    "language": "Pascal",
+    "bytes": 379271,
+    "percent": 0.0
+  },
+  {
+    "repo": "neo-nt5",
     "language": "M4",
-    "bytes": 358237,
+    "bytes": 358671,
     "percent": 0.0
   },
   {
@@ -1771,18 +1801,6 @@
   },
   {
     "repo": "neo-nt5",
-    "language": "Roff",
-    "bytes": 310723,
-    "percent": 0.0
-  },
-  {
-    "repo": "neo-nt5",
-    "language": "Pascal",
-    "bytes": 308080,
-    "percent": 0.0
-  },
-  {
-    "repo": "neo-nt5",
     "language": "Java",
     "bytes": 296451,
     "percent": 0.0
@@ -1795,20 +1813,8 @@
   },
   {
     "repo": "neo-nt5",
-    "language": "NASL",
-    "bytes": 235694,
-    "percent": 0.0
-  },
-  {
-    "repo": "neo-nt5",
     "language": "Lex",
     "bytes": 221153,
-    "percent": 0.0
-  },
-  {
-    "repo": "neo-nt5",
-    "language": "D",
-    "bytes": 221012,
     "percent": 0.0
   },
   {
@@ -1819,8 +1825,32 @@
   },
   {
     "repo": "neo-nt5",
+    "language": "IL Assembly",
+    "bytes": 220114,
+    "percent": 0.0
+  },
+  {
+    "repo": "neo-nt5",
+    "language": "OpenEdge ABL",
+    "bytes": 215456,
+    "percent": 0.0
+  },
+  {
+    "repo": "neo-nt5",
     "language": "sed",
     "bytes": 207314,
+    "percent": 0.0
+  },
+  {
+    "repo": "neo-nt5",
+    "language": "DTrace",
+    "bytes": 203583,
+    "percent": 0.0
+  },
+  {
+    "repo": "neo-nt5",
+    "language": "Pawn",
+    "bytes": 175211,
     "percent": 0.0
   },
   {
@@ -1833,12 +1863,6 @@
     "repo": "neo-nt5",
     "language": "Visual Basic .NET",
     "bytes": 160156,
-    "percent": 0.0
-  },
-  {
-    "repo": "neo-nt5",
-    "language": "OpenEdge ABL",
-    "bytes": 148061,
     "percent": 0.0
   },
   {
@@ -1861,8 +1885,14 @@
   },
   {
     "repo": "neo-nt5",
-    "language": "Pawn",
-    "bytes": 128955,
+    "language": "Smalltalk",
+    "bytes": 121605,
+    "percent": 0.0
+  },
+  {
+    "repo": "neo-nt5",
+    "language": "Roff",
+    "bytes": 119331,
     "percent": 0.0
   },
   {
@@ -1873,8 +1903,8 @@
   },
   {
     "repo": "neo-nt5",
-    "language": "Smalltalk",
-    "bytes": 117276,
+    "language": "SWIG",
+    "bytes": 114831,
     "percent": 0.0
   },
   {
@@ -1897,7 +1927,7 @@
   },
   {
     "repo": "neo-nt5",
-    "language": "BASIC",
+    "language": "QuickBASIC",
     "bytes": 109175,
     "percent": 0.0
   },
@@ -1909,7 +1939,13 @@
   },
   {
     "repo": "neo-nt5",
-    "language": "Mathematica",
+    "language": "Go Template",
+    "bytes": 80983,
+    "percent": 0.0
+  },
+  {
+    "repo": "neo-nt5",
+    "language": "Wolfram Language",
     "bytes": 72446,
     "percent": 0.0
   },
@@ -1927,26 +1963,26 @@
   },
   {
     "repo": "neo-nt5",
-    "language": "Shell",
-    "bytes": 53182,
+    "language": "NASL",
+    "bytes": 65341,
+    "percent": 0.0
+  },
+  {
+    "repo": "neo-nt5",
+    "language": "D",
+    "bytes": 58553,
     "percent": 0.0
   },
   {
     "repo": "neo-nt5",
     "language": "Prolog",
-    "bytes": 47138,
+    "bytes": 56741,
     "percent": 0.0
   },
   {
     "repo": "neo-nt5",
-    "language": "Raku",
-    "bytes": 42468,
-    "percent": 0.0
-  },
-  {
-    "repo": "neo-nt5",
-    "language": "DTrace",
-    "bytes": 41124,
+    "language": "Shell",
+    "bytes": 53182,
     "percent": 0.0
   },
   {
@@ -1957,26 +1993,20 @@
   },
   {
     "repo": "neo-nt5",
-    "language": "SWIG",
-    "bytes": 37308,
-    "percent": 0.0
-  },
-  {
-    "repo": "neo-nt5",
-    "language": "IDL",
-    "bytes": 30264,
-    "percent": 0.0
-  },
-  {
-    "repo": "neo-nt5",
     "language": "MATLAB",
     "bytes": 27667,
     "percent": 0.0
   },
   {
     "repo": "neo-nt5",
-    "language": "AL",
-    "bytes": 18452,
+    "language": "IDL",
+    "bytes": 20661,
+    "percent": 0.0
+  },
+  {
+    "repo": "neo-nt5",
+    "language": "AGS Script",
+    "bytes": 18071,
     "percent": 0.0
   },
   {
@@ -1989,12 +2019,6 @@
     "repo": "neo-nt5",
     "language": "Rebol",
     "bytes": 17187,
-    "percent": 0.0
-  },
-  {
-    "repo": "neo-nt5",
-    "language": "AGS Script",
-    "bytes": 16907,
     "percent": 0.0
   },
   {
@@ -2035,6 +2059,18 @@
   },
   {
     "repo": "neo-nt5",
+    "language": "Python",
+    "bytes": 11746,
+    "percent": 0.0
+  },
+  {
+    "repo": "neo-nt5",
+    "language": "Logos",
+    "bytes": 11720,
+    "percent": 0.0
+  },
+  {
+    "repo": "neo-nt5",
     "language": "Faust",
     "bytes": 11684,
     "percent": 0.0
@@ -2047,6 +2083,12 @@
   },
   {
     "repo": "neo-nt5",
+    "language": "B (Formal Method)",
+    "bytes": 10599,
+    "percent": 0.0
+  },
+  {
+    "repo": "neo-nt5",
     "language": "TeX",
     "bytes": 9660,
     "percent": 0.0
@@ -2054,7 +2096,7 @@
   {
     "repo": "neo-nt5",
     "language": "SourcePawn",
-    "bytes": 9566,
+    "bytes": 7356,
     "percent": 0.0
   },
   {
@@ -2079,12 +2121,6 @@
     "repo": "neo-nt5",
     "language": "Portugol",
     "bytes": 4336,
-    "percent": 0.0
-  },
-  {
-    "repo": "neo-nt5",
-    "language": "StringTemplate",
-    "bytes": 4329,
     "percent": 0.0
   },
   {
@@ -2119,8 +2155,8 @@
   },
   {
     "repo": "neo-nt5",
-    "language": "DenizenScript",
-    "bytes": 991,
+    "language": "Sway",
+    "bytes": 742,
     "percent": 0.0
   },
   {
@@ -2131,20 +2167,20 @@
   },
   {
     "repo": "neo-nt5",
-    "language": "Objective-J",
+    "language": "Jasmin",
     "bytes": 715,
-    "percent": 0.0
-  },
-  {
-    "repo": "neo-nt5",
-    "language": "Monkey C",
-    "bytes": 491,
     "percent": 0.0
   },
   {
     "repo": "neo-nt5",
     "language": "REXX",
     "bytes": 316,
+    "percent": 0.0
+  },
+  {
+    "repo": "neo-nt5",
+    "language": "Linker Script",
+    "bytes": 8,
     "percent": 0.0
   },
   {
@@ -2173,9 +2209,15 @@
   },
   {
     "repo": "nomescenso2022",
+    "language": "Jupyter Notebook",
+    "bytes": 1008161,
+    "percent": 98.3
+  },
+  {
+    "repo": "nomescenso2022",
     "language": "Python",
     "bytes": 17015,
-    "percent": 100.0
+    "percent": 1.7
   },
   {
     "repo": "OdontoAura",
@@ -2384,26 +2426,26 @@
   {
     "repo": "PWSV",
     "language": "C++",
-    "bytes": 37304,
-    "percent": 38.1
+    "bytes": 37634,
+    "percent": 38.3
   },
   {
     "repo": "PWSV",
     "language": "HTML",
     "bytes": 19935,
-    "percent": 20.4
+    "percent": 20.3
   },
   {
     "repo": "PWSV",
     "language": "JavaScript",
     "bytes": 16907,
-    "percent": 17.3
+    "percent": 17.2
   },
   {
     "repo": "PWSV",
     "language": "CSS",
     "bytes": 15731,
-    "percent": 16.1
+    "percent": 16.0
   },
   {
     "repo": "PWSV",
@@ -2505,7 +2547,19 @@
     "repo": "resumos-eleicao-2026",
     "language": "HTML",
     "bytes": 566956,
-    "percent": 100.0
+    "percent": 72.6
+  },
+  {
+    "repo": "resumos-eleicao-2026",
+    "language": "Jupyter Notebook",
+    "bytes": 204155,
+    "percent": 26.1
+  },
+  {
+    "repo": "resumos-eleicao-2026",
+    "language": "Python",
+    "bytes": 10012,
+    "percent": 1.3
   },
   {
     "repo": "RoBrowser",
@@ -2712,6 +2766,42 @@
     "percent": 100.0
   },
   {
+    "repo": "VineMEMZ",
+    "language": "C++",
+    "bytes": 51130,
+    "percent": 84.5
+  },
+  {
+    "repo": "VineMEMZ",
+    "language": "C",
+    "bytes": 5212,
+    "percent": 8.6
+  },
+  {
+    "repo": "VineMEMZ",
+    "language": "Assembly",
+    "bytes": 2421,
+    "percent": 4.0
+  },
+  {
+    "repo": "VineMEMZ",
+    "language": "Python",
+    "bytes": 1455,
+    "percent": 2.4
+  },
+  {
+    "repo": "VineMEMZ",
+    "language": "Batchfile",
+    "bytes": 167,
+    "percent": 0.3
+  },
+  {
+    "repo": "VineMEMZ",
+    "language": "Shell",
+    "bytes": 98,
+    "percent": 0.2
+  },
+  {
     "repo": "VsDave",
     "language": "Haxe",
     "bytes": 446348,
@@ -2754,6 +2844,30 @@
     "percent": 0.4
   },
   {
+    "repo": "Win7Defender-Decomp",
+    "language": "C",
+    "bytes": 8430854,
+    "percent": 99.1
+  },
+  {
+    "repo": "Win7Defender-Decomp",
+    "language": "Python",
+    "bytes": 77671,
+    "percent": 0.9
+  },
+  {
+    "repo": "Win7Defender-Decomp",
+    "language": "CMake",
+    "bytes": 572,
+    "percent": 0.0
+  },
+  {
+    "repo": "Win7DVDC-Decomp",
+    "language": "Python",
+    "bytes": 48788,
+    "percent": 100.0
+  },
+  {
     "repo": "Win7IE",
     "language": "Rich Text Format",
     "bytes": 235189,
@@ -2761,6 +2875,30 @@
   },
   {
     "repo": "Win7IE",
+    "language": "TeX",
+    "bytes": 464,
+    "percent": 0.2
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "language": "Rich Text Format",
+    "bytes": 235189,
+    "percent": 94.9
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "language": "Python",
+    "bytes": 6887,
+    "percent": 2.8
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "language": "C",
+    "bytes": 5205,
+    "percent": 2.1
+  },
+  {
+    "repo": "Win7IE-Decomp",
     "language": "TeX",
     "bytes": 464,
     "percent": 0.2

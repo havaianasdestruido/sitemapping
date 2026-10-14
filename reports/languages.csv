@@ -8,7 +8,7 @@ FNF-Phoenix-Engine,Python,10375,0.4
 FNF-Phoenix-Engine,Batchfile,8043,0.3
 FNF-Phoenix-Engine,C,3044,0.1
 FNF-Phoenix-Engine,CSS,3016,0.1
-R2K16,C++,557213694,51.8
+R2K16,C++,557214450,51.8
 R2K16,HTML,348770724,32.4
 R2K16,C,139874683,13.0
 R2K16,JavaScript,4020845,0.4
@@ -72,6 +72,17 @@ R2K16,Rez,354,0.0
 R2K16,SCSS,259,0.0
 R2K16,GDB,227,0.0
 R2K16,Sass,167,0.0
+WindowsMovieMakerDecomp,C++,6397799,90.6
+WindowsMovieMakerDecomp,Python,299173,4.2
+WindowsMovieMakerDecomp,C,174028,2.5
+WindowsMovieMakerDecomp,HTML,62364,0.9
+WindowsMovieMakerDecomp,CMake,45653,0.6
+WindowsMovieMakerDecomp,CSS,42602,0.6
+WindowsMovieMakerDecomp,C#,15287,0.2
+WindowsMovieMakerDecomp,Batchfile,13954,0.2
+WindowsMovieMakerDecomp,JavaScript,10107,0.1
+WindowsMovieMakerDecomp,PowerShell,3670,0.1
+WindowsMovieMakerDecomp,Ruby,102,0.0
 apkdecomp-skill,CSS,17732,53.5
 apkdecomp-skill,HTML,12353,37.3
 apkdecomp-skill,JavaScript,1986,6.0
@@ -98,34 +109,22 @@ sitemapping,JavaScript,61132,37.3
 sitemapping,Python,51362,31.3
 sitemapping,HTML,26709,16.3
 sitemapping,CSS,24836,15.1
-top100,HTML,4872513,93.5
+top100,HTML,4872203,93.5
 top100,Python,170108,3.3
 top100,JavaScript,161810,3.1
 top100,CSS,6452,0.1
 WAL-skill,JavaScript,29178,100.0
-WindowsMovieMakerDecomp,C++,6397799,90.6
-WindowsMovieMakerDecomp,Python,299173,4.2
-WindowsMovieMakerDecomp,C,174028,2.5
-WindowsMovieMakerDecomp,HTML,62228,0.9
-WindowsMovieMakerDecomp,CMake,45653,0.6
-WindowsMovieMakerDecomp,CSS,42602,0.6
-WindowsMovieMakerDecomp,C#,15287,0.2
-WindowsMovieMakerDecomp,Batchfile,13954,0.2
-WindowsMovieMakerDecomp,JavaScript,10107,0.1
-WindowsMovieMakerDecomp,PowerShell,3670,0.1
-WindowsMovieMakerDecomp,Ruby,102,0.0
 abnt-skill,Python,14862,100.0
 aisearchhelpers,TypeScript,150428,99.0
 aisearchhelpers,CSS,1397,0.9
 aisearchhelpers,JavaScript,94,0.1
-AmIOnline,Kotlin,16308,100.0
+AmIOnline,Kotlin,16235,100.0
 AudioTaste,JavaScript,88551,79.3
 AudioTaste,CSS,15248,13.6
 AudioTaste,HTML,7933,7.1
-BloodAndBacon-DnSpyEx,C#,11560068,100.0
+BloodAndBacon-DnSpyEx,C#,11560393,100.0
 bloxNES,Lua,58862,99.8
 bloxNES,Luau,116,0.2
-brasilapidumped,Python,45827,100.0
 brnews-db,Python,80372,84.6
 brnews-db,HTML,5481,5.8
 brnews-db,JavaScript,4582,4.8
@@ -161,9 +160,11 @@ ClassHub,Shell,1267,0.2
 ClassHub,Python,1148,0.2
 ClassHub,Dockerfile,932,0.2
 ClassHub,HTML,889,0.2
-dadosabertos,Python,179496,73.8
-dadosabertos,HTML,63794,26.2
-eleicoes-data,Python,13667,100.0
+dadosabertos,Jupyter Notebook,2666989,90.9
+dadosabertos,Python,202690,6.9
+dadosabertos,HTML,63794,2.2
+eleicoes-data,Jupyter Notebook,5578224,99.7
+eleicoes-data,Python,18494,0.3
 EZInfiniteYTLive,C#,24776,67.4
 EZInfiniteYTLive,TypeScript,5471,14.9
 EZInfiniteYTLive,CSS,5241,14.3
@@ -184,8 +185,10 @@ freellmapi,CSS,5991,0.1
 freellmapi,Shell,4332,0.1
 freellmapi,Dockerfile,3698,0.1
 freellmapi,PowerShell,2940,0.0
-ftping,Python,69331,100.0
-g1,Python,12964,100.0
+ftping,Jupyter Notebook,583103,89.4
+ftping,Python,69331,10.6
+g1,Jupyter Notebook,1454264,99.1
+g1,Python,12964,0.9
 Giggles-Shit,JavaScript,56648,78.1
 Giggles-Shit,CSS,12258,16.9
 Giggles-Shit,HTML,3377,4.7
@@ -195,8 +198,8 @@ global-sitemap,HTML,142,0.6
 havaianasdestruido.github.io,HTML,12591,68.5
 havaianasdestruido.github.io,JavaScript,3284,17.9
 havaianasdestruido.github.io,CSS,2510,13.7
-Hiphenatus,C#,101384,93.3
-Hiphenatus,Visual Basic .NET,7278,6.7
+Hiphenatus,C#,102872,93.4
+Hiphenatus,Visual Basic .NET,7278,6.6
 hscript-improved,Haxe,206716,99.7
 hscript-improved,Batchfile,519,0.3
 hxluau,C++,803795,83.0
@@ -229,6 +232,8 @@ MeatyMod,Batchfile,8807,3.3
 MeatyMod,PowerShell,8410,3.1
 MeatyMod,Ruby,423,0.2
 mediapublisher,C#,50369,100.0
+memz-1,C,123351,96.6
+memz-1,Makefile,4293,3.4
 metadata-editor,C#,8775,100.0
 microsoft,C,100194924,63.9
 microsoft,C++,27465114,17.5
@@ -264,104 +269,106 @@ movielibrary,C#,7846,100.0
 moviemaker-launcher,C#,27368,100.0
 mshearts,C++,101631,99.1
 mshearts,C,951,0.9
-neo-nt5,C++,1000275095,46.0
+neo-nt5,C++,1001404576,46.0
 neo-nt5,C,908182207,41.8
 neo-nt5,Scheme,110598376,5.1
-neo-nt5,Assembly,36352300,1.7
-neo-nt5,HTML,26158881,1.2
-neo-nt5,CWeb,18661844,0.9
+neo-nt5,Assembly,36975414,1.7
+neo-nt5,HTML,25921376,1.2
+neo-nt5,CWeb,18594449,0.9
 neo-nt5,Makefile,10926920,0.5
 neo-nt5,Rich Text Format,10041756,0.5
 neo-nt5,Batchfile,9571729,0.4
-neo-nt5,Perl,8677827,0.4
+neo-nt5,Perl,8345931,0.4
 neo-nt5,Visual Basic 6.0,5453618,0.3
 neo-nt5,JavaScript,3781053,0.2
 neo-nt5,VBScript,3757687,0.2
-neo-nt5,POV-Ray SDL,2467590,0.1
+neo-nt5,RPC,2946159,0.1
 neo-nt5,Classic ASP,2242469,0.1
+neo-nt5,BitBake,2117064,0.1
 neo-nt5,C#,2079730,0.1
-neo-nt5,Logos,1364141,0.1
-neo-nt5,RPC,1316583,0.1
-neo-nt5,Smarty,1059662,0.0
 neo-nt5,PostScript,1039575,0.0
 neo-nt5,Yacc,1020505,0.0
-neo-nt5,BitBake,1019583,0.0
+neo-nt5,Smarty,978679,0.0
 neo-nt5,PLSQL,689014,0.0
 neo-nt5,Objective-C,622252,0.0
-neo-nt5,PHP,556418,0.0
+neo-nt5,PHP,455834,0.0
 neo-nt5,XSLT,452261,0.0
+neo-nt5,Raku,392816,0.0
 neo-nt5,ASL,387737,0.0
-neo-nt5,M4,358237,0.0
+neo-nt5,Pascal,379271,0.0
+neo-nt5,M4,358671,0.0
 neo-nt5,TSQL,329741,0.0
 neo-nt5,Clarion,316484,0.0
-neo-nt5,Roff,310723,0.0
-neo-nt5,Pascal,308080,0.0
 neo-nt5,Java,296451,0.0
 neo-nt5,LLVM,252930,0.0
-neo-nt5,NASL,235694,0.0
 neo-nt5,Lex,221153,0.0
-neo-nt5,D,221012,0.0
 neo-nt5,CSS,220752,0.0
+neo-nt5,IL Assembly,220114,0.0
+neo-nt5,OpenEdge ABL,215456,0.0
 neo-nt5,sed,207314,0.0
+neo-nt5,DTrace,203583,0.0
+neo-nt5,Pawn,175211,0.0
 neo-nt5,VBA,165066,0.0
 neo-nt5,Visual Basic .NET,160156,0.0
-neo-nt5,OpenEdge ABL,148061,0.0
 neo-nt5,GLSL,145497,0.0
 neo-nt5,Haskell,142125,0.0
 neo-nt5,Awk,138387,0.0
-neo-nt5,Pawn,128955,0.0
+neo-nt5,Smalltalk,121605,0.0
+neo-nt5,Roff,119331,0.0
 neo-nt5,Emacs Lisp,118845,0.0
-neo-nt5,Smalltalk,117276,0.0
+neo-nt5,SWIG,114831,0.0
 neo-nt5,NewLisp,112608,0.0
 neo-nt5,Ruby,111952,0.0
 neo-nt5,SystemVerilog,110526,0.0
-neo-nt5,BASIC,109175,0.0
+neo-nt5,QuickBASIC,109175,0.0
 neo-nt5,ASP.NET,84838,0.0
-neo-nt5,Mathematica,72446,0.0
+neo-nt5,Go Template,80983,0.0
+neo-nt5,Wolfram Language,72446,0.0
 neo-nt5,Game Maker Language,71810,0.0
 neo-nt5,Rez,69891,0.0
+neo-nt5,NASL,65341,0.0
+neo-nt5,D,58553,0.0
+neo-nt5,Prolog,56741,0.0
 neo-nt5,Shell,53182,0.0
-neo-nt5,Prolog,47138,0.0
-neo-nt5,Raku,42468,0.0
-neo-nt5,DTrace,41124,0.0
 neo-nt5,IGOR Pro,39620,0.0
-neo-nt5,SWIG,37308,0.0
-neo-nt5,IDL,30264,0.0
 neo-nt5,MATLAB,27667,0.0
-neo-nt5,AL,18452,0.0
+neo-nt5,IDL,20661,0.0
+neo-nt5,AGS Script,18071,0.0
 neo-nt5,Genero per,17941,0.0
 neo-nt5,Rebol,17187,0.0
-neo-nt5,AGS Script,16907,0.0
 neo-nt5,Module Management System,14801,0.0
 neo-nt5,Redcode,14406,0.0
 neo-nt5,Nextflow,14335,0.0
 neo-nt5,SAS,13756,0.0
 neo-nt5,WebAssembly,13560,0.0
 neo-nt5,WDL,13392,0.0
+neo-nt5,Python,11746,0.0
+neo-nt5,Logos,11720,0.0
 neo-nt5,Faust,11684,0.0
 neo-nt5,QMake,10761,0.0
+neo-nt5,B (Formal Method),10599,0.0
 neo-nt5,TeX,9660,0.0
-neo-nt5,SourcePawn,9566,0.0
+neo-nt5,SourcePawn,7356,0.0
 neo-nt5,Scilab,4965,0.0
 neo-nt5,COBOL,4534,0.0
 neo-nt5,q,4424,0.0
 neo-nt5,Portugol,4336,0.0
-neo-nt5,StringTemplate,4329,0.0
 neo-nt5,DIGITAL Command Language,3784,0.0
 neo-nt5,Scala,3441,0.0
 neo-nt5,Witcher Script,3024,0.0
 neo-nt5,TypeScript,3004,0.0
 neo-nt5,Inno Setup,2182,0.0
-neo-nt5,DenizenScript,991,0.0
+neo-nt5,Sway,742,0.0
 neo-nt5,Dylan,724,0.0
-neo-nt5,Objective-J,715,0.0
-neo-nt5,Monkey C,491,0.0
+neo-nt5,Jasmin,715,0.0
 neo-nt5,REXX,316,0.0
+neo-nt5,Linker Script,8,0.0
 Neo-Order-project,HTML,234986,69.2
 Neo-Order-project,JavaScript,97296,28.6
 Neo-Order-project,CSS,7505,2.2
 noisy,C#,47934,100.0
-nomescenso2022,Python,17015,100.0
+nomescenso2022,Jupyter Notebook,1008161,98.3
+nomescenso2022,Python,17015,1.7
 OdontoAura,TypeScript,227224,97.3
 OdontoAura,PowerShell,3951,1.7
 OdontoAura,JavaScript,1914,0.8
@@ -396,10 +403,10 @@ Projeto-TCC,Python,166910,6.0
 Projeto-TCC,PLpgSQL,87638,3.1
 Projeto-TCC,TypeScript,17111,0.6
 pwn,HTML,415,100.0
-PWSV,C++,37304,38.1
-PWSV,HTML,19935,20.4
-PWSV,JavaScript,16907,17.3
-PWSV,CSS,15731,16.1
+PWSV,C++,37634,38.3
+PWSV,HTML,19935,20.3
+PWSV,JavaScript,16907,17.2
+PWSV,CSS,15731,16.0
 PWSV,Batchfile,4421,4.5
 PWSV,CMake,3431,3.5
 PWSV,Ruby,78,0.1
@@ -416,7 +423,9 @@ Rbx2Source-enhanced,C#,335902,98.2
 Rbx2Source-enhanced,QuakeC,3337,1.0
 Rbx2Source-enhanced,Lua,2418,0.7
 Rbx2Source-enhanced,Batchfile,317,0.1
-resumos-eleicao-2026,HTML,566956,100.0
+resumos-eleicao-2026,HTML,566956,72.6
+resumos-eleicao-2026,Jupyter Notebook,204155,26.1
+resumos-eleicao-2026,Python,10012,1.3
 RoBrowser,Luau,43359,90.0
 RoBrowser,CSS,4836,10.0
 scrobbleviz,JavaScript,37131,74.7
@@ -451,6 +460,12 @@ transition-plugin,Rust,1769,76.7
 transition-plugin,C#,538,23.3
 TSOS,TypeScript,11606,100.0
 video-trimmer,C#,19619,100.0
+VineMEMZ,C++,51130,84.5
+VineMEMZ,C,5212,8.6
+VineMEMZ,Assembly,2421,4.0
+VineMEMZ,Python,1455,2.4
+VineMEMZ,Batchfile,167,0.3
+VineMEMZ,Shell,98,0.2
 VsDave,Haxe,446348,100.0
 VsDave,Batchfile,109,0.0
 WebRadioFM,C#,94930,68.2
@@ -458,5 +473,13 @@ WebRadioFM,CSS,15071,10.8
 WebRadioFM,PowerShell,14796,10.6
 WebRadioFM,JavaScript,13917,10.0
 WebRadioFM,Batchfile,501,0.4
+Win7Defender-Decomp,C,8430854,99.1
+Win7Defender-Decomp,Python,77671,0.9
+Win7Defender-Decomp,CMake,572,0.0
+Win7DVDC-Decomp,Python,48788,100.0
 Win7IE,Rich Text Format,235189,99.8
 Win7IE,TeX,464,0.2
+Win7IE-Decomp,Rich Text Format,235189,94.9
+Win7IE-Decomp,Python,6887,2.8
+Win7IE-Decomp,C,5205,2.1
+Win7IE-Decomp,TeX,464,0.2

@@ -1,5 +1,20 @@
 [
   {
+    "full_name": "havaianasdestruido/WindowsMovieMakerDecomp",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp",
+    "description": "Full decompilation of Microsoft Windows Movie Maker, extracted from a 2012 Live Essentials setup."
+  },
+  {
+    "full_name": "davila7/claude-code-templates",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code"
+  },
+  {
+    "full_name": "mrexodia/ida-pro-mcp",
+    "url": "https://github.com/mrexodia/ida-pro-mcp",
+    "description": "AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP."
+  },
+  {
     "full_name": "morluto/rea",
     "url": "https://github.com/morluto/rea",
     "description": "Reverse engineer anything with agents, from app behavior down to native binaries."

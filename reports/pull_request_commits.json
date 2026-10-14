@@ -361,6 +361,38 @@
   },
   {
     "repo": "R2K16",
+    "pr_number": 11,
+    "sha": "ac7d0b58b139530b222498d4e2adc6ad11660578",
+    "sha_short": "ac7d0b5",
+    "message": "⚡ Bolt: [performance improvement] Avoid atomic ref-count overhead in loops",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/ac7d0b58b139530b222498d4e2adc6ad11660578"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 11,
+    "sha": "a42705c35faa3f8d87f2ba6abe9d220a4507964c",
+    "sha_short": "a42705c",
+    "message": "Remove broken legacy .sln file to fix CI NuGet restore",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/a42705c35faa3f8d87f2ba6abe9d220a4507964c"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 11,
+    "sha": "376e072540b0251b70e813f95e0e61bfe6225092",
+    "sha_short": "376e072",
+    "message": "Respond to PR comments",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/376e072540b0251b70e813f95e0e61bfe6225092"
+  },
+  {
+    "repo": "R2K16",
+    "pr_number": 11,
+    "sha": "3c217c96083b6a706e4eb7619043764cbd5b8a12",
+    "sha_short": "3c217c9",
+    "message": "Remove broken legacy RCCService.Thumb.Test.sln file to fix CI NuGet restore",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/3c217c96083b6a706e4eb7619043764cbd5b8a12"
+  },
+  {
+    "repo": "R2K16",
     "pr_number": 10,
     "sha": "4a9498a5bb9fcb1d75e676d5a9f5558168681479",
     "sha_short": "4a9498a",
@@ -512,6 +544,150 @@
     "url": "https://github.com/havaianasdestruido/R2K16/commit/7868b756bd7dc1cdcfe5292e0025046d640bdede"
   },
   {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 13,
+    "sha": "400c50e752e5d832ee9e94952396c886aab9e65a",
+    "sha_short": "400c50e",
+    "message": "docs: add phased 1:1 clean-room reconstruction plan (TODO.md)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/400c50e752e5d832ee9e94952396c886aab9e65a"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 12,
+    "sha": "adedd88f47de8b0b8f3b58fdaffbab3965eb9b65",
+    "sha_short": "adedd88",
+    "message": "⚡ Bolt: Pre-allocate std::vector capacities in procedural mesh generation",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/adedd88f47de8b0b8f3b58fdaffbab3965eb9b65"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 11,
+    "sha": "2eb028123e26922112bc95e99cead58f2efafb1d",
+    "sha_short": "2eb0281",
+    "message": "Refactor X3D array parsing for zero-allocation performance",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/2eb028123e26922112bc95e99cead58f2efafb1d"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 10,
+    "sha": "5051b61da4e789f2a41dc2825cd80df273d97281",
+    "sha_short": "5051b61",
+    "message": "⚡ Bolt: [performance improvement]",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5051b61da4e789f2a41dc2825cd80df273d97281"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 9,
+    "sha": "8e6ee45c5d70754847175dada6f6d5e8f950ae6e",
+    "sha_short": "8e6ee45",
+    "message": "feat: complete remaining decomp gaps + 1:1 UI shell reconstruction",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8e6ee45c5d70754847175dada6f6d5e8f950ae6e"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 9,
+    "sha": "c7b123d797cb40c86d9008a50dab6a44205d8ea8",
+    "sha_short": "c7b123d",
+    "message": "fix: address review findings across inventory, datetime parsing, close flow, selection state and replica wiring",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/c7b123d797cb40c86d9008a50dab6a44205d8ea8"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 8,
+    "sha": "797b47b8f4fe1b769423de2e08a447f2441d5ad7",
+    "sha_short": "797b47b",
+    "message": "⚡ Bolt: Eliminate large string copies in X3DReader",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/797b47b8f4fe1b769423de2e08a447f2441d5ad7"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 8,
+    "sha": "b955764e7ba9ba8dcdcbadaa909b9a9bd799ff29",
+    "sha_short": "b955764",
+    "message": "Merge branch 'main' into bolt-x3dreader-zero-copy-parsing-2982655532714649705",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b955764e7ba9ba8dcdcbadaa909b9a9bd799ff29"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 7,
+    "sha": "d57aec6abcdf206569dcbe76464e9982fcc667cf",
+    "sha_short": "d57aec6",
+    "message": "⚡ Optimize homepage hero image transfer with WebP",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d57aec6abcdf206569dcbe76464e9982fcc667cf"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 6,
+    "sha": "06026d0ee57fb99ba35f075d22ac782348ae92fe",
+    "sha_short": "06026d0",
+    "message": "Resolve all 14 TODO(reconstruction) audit annotations",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/06026d0ee57fb99ba35f075d22ac782348ae92fe"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 5,
+    "sha": "1bf19ea8727360b9dd4e8cb515a6b4af12938b50",
+    "sha_short": "1bf19ea",
+    "message": "website: use Jekyll for primary webpage and Docusaurus for /docs",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/1bf19ea8727360b9dd4e8cb515a6b4af12938b50"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 5,
+    "sha": "43f5c57d5e3da1810664f846afa2630859a9a6e5",
+    "sha_short": "43f5c57",
+    "message": "fix(website): address review feedback on workflow permissions, reduced motion, snippet syntax, and docs links",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/43f5c57d5e3da1810664f846afa2630859a9a6e5"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 4,
+    "sha": "b575d5a7e88392d7228b9c33bc7a17caf3d63eb5",
+    "sha_short": "b575d5a",
+    "message": "website: redesign docs homepage and theme tokens (taste-skill pass)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b575d5a7e88392d7228b9c33bc7a17caf3d63eb5"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 3,
+    "sha": "66f7a725e8010b29ca8e312b82b6f4a32628fdea",
+    "sha_short": "66f7a72",
+    "message": "docs: add full-codebase Docusaurus documentation site",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/66f7a725e8010b29ca8e312b82b6f4a32628fdea"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 3,
+    "sha": "4a2ece5e92fa5b08abf32cd91eb407f25df39972",
+    "sha_short": "4a2ece5",
+    "message": "docs: apply review fixes — accuracy corrections across the docs site",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4a2ece5e92fa5b08abf32cd91eb407f25df39972"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 2,
+    "sha": "a129e04a21227883e148e93ac852cf47054e71ae",
+    "sha_short": "a129e04",
+    "message": "ci: build each CMake project",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a129e04a21227883e148e93ac852cf47054e71ae"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 2,
+    "sha": "8b29433062320266ed913539ec6848fd1f2690b8",
+    "sha_short": "8b29433",
+    "message": "ci: pin Visual Studio 2022 runner",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8b29433062320266ed913539ec6848fd1f2690b8"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 1,
+    "sha": "0587ed0e3fa7c578dfba5e54ec0f5f2dfcacc186",
+    "sha_short": "0587ed0",
+    "message": "Add reconstruction TODO audit annotations",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/0587ed0e3fa7c578dfba5e54ec0f5f2dfcacc186"
+  },
+  {
     "repo": "apkdecomp-skill",
     "pr_number": 1,
     "sha": "958f45dabd6899cc3915c8a4bc235a97348b1b1a",
@@ -614,6 +790,22 @@
     "sha_short": "3c65f63",
     "message": "fix: publicar runtime do wllama no GitHub Pages",
     "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/3c65f639aa1869123bb18b75a948c687dde0a4e7"
+  },
+  {
+    "repo": "hemorroidabot",
+    "pr_number": 4,
+    "sha": "27d8d44a7b1a8a3fa8e236896adbac12d8dc4e9b",
+    "sha_short": "27d8d44",
+    "message": "fix: bugs de cache e de modelo (download/carga/selecao)",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/27d8d44a7b1a8a3fa8e236896adbac12d8dc4e9b"
+  },
+  {
+    "repo": "hemorroidabot",
+    "pr_number": 4,
+    "sha": "d11f8ecea8e07767e060ecf1ddfebd47502a7229",
+    "sha_short": "d11f8ec",
+    "message": "fix: revisao - listagem stale, coordenacao carga/descarga e blob.size",
+    "url": "https://github.com/havaianasdestruido/hemorroidabot/commit/d11f8ecea8e07767e060ecf1ddfebd47502a7229"
   },
   {
     "repo": "hemorroidabot",
@@ -944,142 +1136,6 @@
     "url": "https://github.com/havaianasdestruido/WAL-skill/commit/905afbb4c2b065838bbad033a19c448c9733b7d8"
   },
   {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 12,
-    "sha": "adedd88f47de8b0b8f3b58fdaffbab3965eb9b65",
-    "sha_short": "adedd88",
-    "message": "⚡ Bolt: Pre-allocate std::vector capacities in procedural mesh generation",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/adedd88f47de8b0b8f3b58fdaffbab3965eb9b65"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 11,
-    "sha": "2eb028123e26922112bc95e99cead58f2efafb1d",
-    "sha_short": "2eb0281",
-    "message": "Refactor X3D array parsing for zero-allocation performance",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/2eb028123e26922112bc95e99cead58f2efafb1d"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 10,
-    "sha": "5051b61da4e789f2a41dc2825cd80df273d97281",
-    "sha_short": "5051b61",
-    "message": "⚡ Bolt: [performance improvement]",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/5051b61da4e789f2a41dc2825cd80df273d97281"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 9,
-    "sha": "8e6ee45c5d70754847175dada6f6d5e8f950ae6e",
-    "sha_short": "8e6ee45",
-    "message": "feat: complete remaining decomp gaps + 1:1 UI shell reconstruction",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8e6ee45c5d70754847175dada6f6d5e8f950ae6e"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 9,
-    "sha": "c7b123d797cb40c86d9008a50dab6a44205d8ea8",
-    "sha_short": "c7b123d",
-    "message": "fix: address review findings across inventory, datetime parsing, close flow, selection state and replica wiring",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/c7b123d797cb40c86d9008a50dab6a44205d8ea8"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 8,
-    "sha": "797b47b8f4fe1b769423de2e08a447f2441d5ad7",
-    "sha_short": "797b47b",
-    "message": "⚡ Bolt: Eliminate large string copies in X3DReader",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/797b47b8f4fe1b769423de2e08a447f2441d5ad7"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 8,
-    "sha": "b955764e7ba9ba8dcdcbadaa909b9a9bd799ff29",
-    "sha_short": "b955764",
-    "message": "Merge branch 'main' into bolt-x3dreader-zero-copy-parsing-2982655532714649705",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b955764e7ba9ba8dcdcbadaa909b9a9bd799ff29"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 7,
-    "sha": "d57aec6abcdf206569dcbe76464e9982fcc667cf",
-    "sha_short": "d57aec6",
-    "message": "⚡ Optimize homepage hero image transfer with WebP",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/d57aec6abcdf206569dcbe76464e9982fcc667cf"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 6,
-    "sha": "06026d0ee57fb99ba35f075d22ac782348ae92fe",
-    "sha_short": "06026d0",
-    "message": "Resolve all 14 TODO(reconstruction) audit annotations",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/06026d0ee57fb99ba35f075d22ac782348ae92fe"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 5,
-    "sha": "1bf19ea8727360b9dd4e8cb515a6b4af12938b50",
-    "sha_short": "1bf19ea",
-    "message": "website: use Jekyll for primary webpage and Docusaurus for /docs",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/1bf19ea8727360b9dd4e8cb515a6b4af12938b50"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 5,
-    "sha": "43f5c57d5e3da1810664f846afa2630859a9a6e5",
-    "sha_short": "43f5c57",
-    "message": "fix(website): address review feedback on workflow permissions, reduced motion, snippet syntax, and docs links",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/43f5c57d5e3da1810664f846afa2630859a9a6e5"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 4,
-    "sha": "b575d5a7e88392d7228b9c33bc7a17caf3d63eb5",
-    "sha_short": "b575d5a",
-    "message": "website: redesign docs homepage and theme tokens (taste-skill pass)",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/b575d5a7e88392d7228b9c33bc7a17caf3d63eb5"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 3,
-    "sha": "66f7a725e8010b29ca8e312b82b6f4a32628fdea",
-    "sha_short": "66f7a72",
-    "message": "docs: add full-codebase Docusaurus documentation site",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/66f7a725e8010b29ca8e312b82b6f4a32628fdea"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 3,
-    "sha": "4a2ece5e92fa5b08abf32cd91eb407f25df39972",
-    "sha_short": "4a2ece5",
-    "message": "docs: apply review fixes — accuracy corrections across the docs site",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4a2ece5e92fa5b08abf32cd91eb407f25df39972"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 2,
-    "sha": "a129e04a21227883e148e93ac852cf47054e71ae",
-    "sha_short": "a129e04",
-    "message": "ci: build each CMake project",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a129e04a21227883e148e93ac852cf47054e71ae"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 2,
-    "sha": "8b29433062320266ed913539ec6848fd1f2690b8",
-    "sha_short": "8b29433",
-    "message": "ci: pin Visual Studio 2022 runner",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/8b29433062320266ed913539ec6848fd1f2690b8"
-  },
-  {
-    "repo": "WindowsMovieMakerDecomp",
-    "pr_number": 1,
-    "sha": "0587ed0e3fa7c578dfba5e54ec0f5f2dfcacc186",
-    "sha_short": "0587ed0",
-    "message": "Add reconstruction TODO audit annotations",
-    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/0587ed0e3fa7c578dfba5e54ec0f5f2dfcacc186"
-  },
-  {
     "repo": "abnt-skill",
     "pr_number": 1,
     "sha": "97bbcb0343a89e73e3ea84020507162937f43cd0",
@@ -1094,14 +1150,6 @@
     "sha_short": "a4d0723",
     "message": "Aplica revisao: precisao ABNT, checklist duplex, limite Access, parser fail-closed",
     "url": "https://github.com/havaianasdestruido/abnt-skill/commit/a4d0723375c0d8d8c6b871f3a13f6ea507cf6752"
-  },
-  {
-    "repo": "AmIOnline",
-    "pr_number": 9,
-    "sha": "2a24442d0ef0154a1e989062d71f3a483962bf5b",
-    "sha_short": "2a24442",
-    "message": "⚡ Bolt: Optimize console update debouncing",
-    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/2a24442d0ef0154a1e989062d71f3a483962bf5b"
   },
   {
     "repo": "AmIOnline",
@@ -1150,6 +1198,14 @@
     "sha_short": "3ddfa97",
     "message": "Resolve hostname regex after base update",
     "url": "https://github.com/havaianasdestruido/AmIOnline/commit/3ddfa975b74b6ec0b9d8c22c12d2ab6ee1b36168"
+  },
+  {
+    "repo": "AmIOnline",
+    "pr_number": 9,
+    "sha": "2a24442d0ef0154a1e989062d71f3a483962bf5b",
+    "sha_short": "2a24442",
+    "message": "⚡ Bolt: Optimize console update debouncing",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/2a24442d0ef0154a1e989062d71f3a483962bf5b"
   },
   {
     "repo": "AmIOnline",
@@ -1217,6 +1273,14 @@
   },
   {
     "repo": "BloodAndBacon-DnSpyEx",
+    "pr_number": 5,
+    "sha": "ec269c552d6c693e0d29abba3578b77c7625beff",
+    "sha_short": "ec269c5",
+    "message": "⚡ Bolt: Optimize Vector3.Distance to DistanceSquared",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/ec269c552d6c693e0d29abba3578b77c7625beff"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
     "pr_number": 4,
     "sha": "0b2b93958339271b74df2219669f04c1ba00552d",
     "sha_short": "0b2b939",
@@ -1262,14 +1326,6 @@
     "sha_short": "100ad86",
     "message": "[ImgBot] Optimize images",
     "url": "https://github.com/havaianasdestruido/bootloader-unlock-wall-of-shame/commit/100ad86e7cb044600a62531c9d5998558e4968e5"
-  },
-  {
-    "repo": "brasilapidumped",
-    "pr_number": 1,
-    "sha": "1d9201b24c43ff44f40b0fe8d1f3bfce70fea193",
-    "sha_short": "1d9201b",
-    "message": "feat: add ordered resumable BrasilAPI scraper and live run report",
-    "url": "https://github.com/havaianasdestruido/brasilapidumped/commit/1d9201b24c43ff44f40b0fe8d1f3bfce70fea193"
   },
   {
     "repo": "brnews-db",
@@ -1497,6 +1553,14 @@
   },
   {
     "repo": "dadosabertos",
+    "pr_number": 2,
+    "sha": "f414d83bed8f82ab8b4bf08e958da0918cc53ed9",
+    "sha_short": "f414d83",
+    "message": "Add notebooks that graph the crawler's output reports",
+    "url": "https://github.com/havaianasdestruido/dadosabertos/commit/f414d83bed8f82ab8b4bf08e958da0918cc53ed9"
+  },
+  {
+    "repo": "dadosabertos",
     "pr_number": 1,
     "sha": "36566647e1b5ae5f2f61c4d71c0eca0560321a1e",
     "sha_short": "3656664",
@@ -1534,6 +1598,22 @@
     "sha_short": "c686cce",
     "message": "review fixes: budget double-charge, index-page containment, config defaults",
     "url": "https://github.com/havaianasdestruido/dadosabertos/commit/c686ccee266ca87958addf7d35d6c5cf16ac9f11"
+  },
+  {
+    "repo": "eleicoes-data",
+    "pr_number": 3,
+    "sha": "80681c75f1d37e38954f6dd9d9060ed2d47b7f10",
+    "sha_short": "80681c7",
+    "message": "feat: add interactive Jupyter Notebooks in test/ with embedded output graphs",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/80681c75f1d37e38954f6dd9d9060ed2d47b7f10"
+  },
+  {
+    "repo": "eleicoes-data",
+    "pr_number": 2,
+    "sha": "61d07d50a13bbc1709b91a56173a0eaa783f43bc",
+    "sha_short": "61d07d5",
+    "message": "feat: add 6 interactive Jupyter notebooks with embedded graphs at test/",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/61d07d50a13bbc1709b91a56173a0eaa783f43bc"
   },
   {
     "repo": "eleicoes-data",
@@ -1689,6 +1769,14 @@
   },
   {
     "repo": "ftping",
+    "pr_number": 6,
+    "sha": "7b35c04a10a9d1e23cb5523cb64ad350bc6cc820",
+    "sha_short": "7b35c04",
+    "message": "Add ftping_analysis.ipynb for exploring reports with embedded charts",
+    "url": "https://github.com/havaianasdestruido/ftping/commit/7b35c04a10a9d1e23cb5523cb64ad350bc6cc820"
+  },
+  {
+    "repo": "ftping",
     "pr_number": 5,
     "sha": "240c3ceb1b199f82c1ad91510c89167cf5574f26",
     "sha_short": "240c3ce",
@@ -1726,6 +1814,14 @@
     "sha_short": "52a3b2e",
     "message": "Add daily FTP reachability reports",
     "url": "https://github.com/havaianasdestruido/ftping/commit/52a3b2ed292a9c8c3d57a64b8610fe3e9153c5b1"
+  },
+  {
+    "repo": "g1",
+    "pr_number": 2,
+    "sha": "cbc7cbfe9365acf671466643ca4cd9b8cea8af7c",
+    "sha_short": "cbc7cbf",
+    "message": "Add Jupyter notebooks for exploring G1 RSS output",
+    "url": "https://github.com/havaianasdestruido/g1/commit/cbc7cbfe9365acf671466643ca4cd9b8cea8af7c"
   },
   {
     "repo": "g1",
@@ -2000,6 +2096,14 @@
     "url": "https://github.com/havaianasdestruido/MeatyMod/commit/e740676d5cfbfb3a6fad85438501e527be91cffc"
   },
   {
+    "repo": "memz-1",
+    "pr_number": 1,
+    "sha": "3c2ae90a083f4ec411720e68c6d28547169a08d8",
+    "sha_short": "3c2ae90",
+    "message": "Cache payload computations in RAM to cut CPU usage",
+    "url": "https://github.com/havaianasdestruido/memz-1/commit/3c2ae90a083f4ec411720e68c6d28547169a08d8"
+  },
+  {
     "repo": "microsoft",
     "pr_number": 1,
     "sha": "d5d384eef6b747371c3bd6621a91c02ef7f2e335",
@@ -2016,12 +2120,28 @@
     "url": "https://github.com/havaianasdestruido/mshearts/commit/7407c0dc7c351deebf3932c35df3bb3136cee2e1"
   },
   {
+    "repo": "neo-nt5",
+    "pr_number": 1,
+    "sha": "70712687c7cceef6d2b8899286700a3667284b95",
+    "sha_short": "7071268",
+    "message": "docs: map NT source tree for coding agents",
+    "url": "https://github.com/havaianasdestruido/neo-nt5/commit/70712687c7cceef6d2b8899286700a3667284b95"
+  },
+  {
     "repo": "Neo-Order-project",
     "pr_number": 1,
     "sha": "bb460e6c67ed640ad48b6faba1e0a4ef642006ee",
     "sha_short": "bb460e6",
     "message": "Eitcha! Renomeia o sistema pra Neokirk e salpica resenha, 67, la ele, bora bill e tche tcheee no código inteiro",
     "url": "https://github.com/havaianasdestruido/Neo-Order-project/commit/bb460e6c67ed640ad48b6faba1e0a4ef642006ee"
+  },
+  {
+    "repo": "nomescenso2022",
+    "pr_number": 2,
+    "sha": "4e11312925fb53b6d86cdb71d7b0b9db2b28f167",
+    "sha_short": "4e11312",
+    "message": "Add executed Jupyter notebooks in test/ for output exploration",
+    "url": "https://github.com/havaianasdestruido/nomescenso2022/commit/4e11312925fb53b6d86cdb71d7b0b9db2b28f167"
   },
   {
     "repo": "nomescenso2022",
@@ -2489,6 +2609,22 @@
   },
   {
     "repo": "Quack3DMM",
+    "pr_number": 7,
+    "sha": "f72f5eef0d25d8fdb5e47ee490c40b2713afa2be",
+    "sha_short": "f72f5ee",
+    "message": "⚡ Bolt: Optimize ITool ID comparisons to use std::string_view",
+    "url": "https://github.com/havaianasdestruido/Quack3DMM/commit/f72f5eef0d25d8fdb5e47ee490c40b2713afa2be"
+  },
+  {
+    "repo": "Quack3DMM",
+    "pr_number": 6,
+    "sha": "8f1707a4266ea8b12ed448de84a1915cc30b824f",
+    "sha_short": "8f1707a",
+    "message": "docs: add phased softmodding TODO and cite it from README",
+    "url": "https://github.com/havaianasdestruido/Quack3DMM/commit/8f1707a4266ea8b12ed448de84a1915cc30b824f"
+  },
+  {
+    "repo": "Quack3DMM",
     "pr_number": 5,
     "sha": "bbdccf78e531ee09238895222b74c3213b34d80c",
     "sha_short": "bbdccf7",
@@ -2542,6 +2678,14 @@
     "sha_short": "66c6a12",
     "message": "[ImgBot] Optimize images",
     "url": "https://github.com/havaianasdestruido/Rbx2Source-enhanced/commit/66c6a125faa3778f543762e13a1a0afc93e399e6"
+  },
+  {
+    "repo": "resumos-eleicao-2026",
+    "pr_number": 2,
+    "sha": "a7bf2d1f74856aec110a586be38ad91bb462db4f",
+    "sha_short": "a7bf2d1",
+    "message": "Add executed notebooks for exploring election hash manifests",
+    "url": "https://github.com/havaianasdestruido/resumos-eleicao-2026/commit/a7bf2d1f74856aec110a586be38ad91bb462db4f"
   },
   {
     "repo": "resumos-eleicao-2026",
@@ -2718,5 +2862,53 @@
     "sha_short": "36681f0",
     "message": "fix: address documentation review feedback",
     "url": "https://github.com/havaianasdestruido/WebRadioFM/commit/36681f09e25e00179a3c7f46e86312e4ffdfef51"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
+    "pr_number": 1,
+    "sha": "be92b823308b4792b70ac93503d879aac46c078f",
+    "sha_short": "be92b82",
+    "message": "Add reproducible Defender binary analysis and validated resolver model",
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/commit/be92b823308b4792b70ac93503d879aac46c078f"
+  },
+  {
+    "repo": "Win7DVDC-Decomp",
+    "pr_number": 1,
+    "sha": "1b1bd8f895decc3cb4e1e4e1852c5ca76e0cb6cd",
+    "sha_short": "1b1bd8f",
+    "message": "docs: add reverse engineering analysis baseline",
+    "url": "https://github.com/havaianasdestruido/Win7DVDC-Decomp/commit/1b1bd8f895decc3cb4e1e4e1852c5ca76e0cb6cd"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "pr_number": 1,
+    "sha": "4cb893965dc119e75fe985f5a585f3315851c403",
+    "sha_short": "4cb8939",
+    "message": "Add comprehensive binary analysis baseline",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/4cb893965dc119e75fe985f5a585f3315851c403"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "pr_number": 2,
+    "sha": "5652be5d4f999abac192e2c162471ea482de7661",
+    "sha_short": "5652be5",
+    "message": "Import analysis tooling, module trees and reports (work in progress snapshot)",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/5652be5d4f999abac192e2c162471ea482de7661"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "pr_number": 2,
+    "sha": "d74cabd4bcdfd1c48e24a158f509500b8d3cf012",
+    "sha_short": "d74cabd",
+    "message": "Phase 6: validation, progress and final reports; per-module harness status",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/d74cabd4bcdfd1c48e24a158f509500b8d3cf012"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "pr_number": 1,
+    "sha": "ee46ea3a69f6ec2d5d1fe6adbfe39f070bc201ea",
+    "sha_short": "ee46ea3",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/ee46ea3a69f6ec2d5d1fe6adbfe39f070bc201ea"
   }
 ]
