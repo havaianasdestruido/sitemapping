@@ -46,9 +46,9 @@ pong-pop,codex/create-pong-game-with-popup-windows,ebce1a99b0c8c9c21ffd5527c3b58
 pong-pop,main,b990a2b0aa98f321f656e80add22ea572c0d39e6,b990a2b,True,https://github.com/havaianasdestruido/pong-pop/tree/main
 PrintSpoolerAutoRun,main,2c118e7fe1cbbbc466ae66b77302e6c53458554b,2c118e7,True,https://github.com/havaianasdestruido/PrintSpoolerAutoRun/tree/main
 sitemapping,arena/6a1ac155-sitemapping,a63fb24f0350fb2099eaa99501410f1c43c9e5b2,a63fb24,False,https://github.com/havaianasdestruido/sitemapping/tree/arena/6a1ac155-sitemapping
-sitemapping,main,082e7f4178b6ce7e4e6892458b2220141db77212,082e7f4,True,https://github.com/havaianasdestruido/sitemapping/tree/main
+sitemapping,main,4ab5595d85a635e49617f6bb75e5ae3c4dcafd3a,4ab5595,True,https://github.com/havaianasdestruido/sitemapping/tree/main
 top100,arena/51c06a64-top100,19e156e42924dc25ea65de55606908d117b2b18c,19e156e,False,https://github.com/havaianasdestruido/top100/tree/arena/51c06a64-top100
-top100,main,c46b92a8e2ca3090791495d23557cbd061bfee20,c46b92a,True,https://github.com/havaianasdestruido/top100/tree/main
+top100,main,0fc9ba2e0ee272a40e5555dee34d8a4010778879,0fc9ba2,True,https://github.com/havaianasdestruido/top100/tree/main
 WAL-skill,arena/01a0fd83-wal-skill,905afbb4c2b065838bbad033a19c448c9733b7d8,905afbb,False,https://github.com/havaianasdestruido/WAL-skill/tree/arena/01a0fd83-wal-skill
 WAL-skill,main,60abcdc0ee5cd505ec7ca69317f337f2bc8b979d,60abcdc,True,https://github.com/havaianasdestruido/WAL-skill/tree/main
 Win7APIs,main,231896442cb7537a08cf5c7f23864854ac7a9247,2318964,True,https://github.com/havaianasdestruido/Win7APIs/tree/main
@@ -104,7 +104,7 @@ ClassHub,main,cf70ec3359c53042666b3890e8199802e8ea79c4,cf70ec3,True,https://gith
 dadosabertos,arena/01a0e80c-dadosabertos,8635c04cf229c6396879860c510f7696630cd261,8635c04,False,https://github.com/havaianasdestruido/dadosabertos/tree/arena/01a0e80c-dadosabertos
 dadosabertos,main,78a56cf2217e2c5a072ebaef7319ac63877491c2,78a56cf,True,https://github.com/havaianasdestruido/dadosabertos/tree/main
 eleicoes-data,arena/01a10951-eleicoes-data,b90f4e8d553e37a6caec61aa4b19cb981c4883ca,b90f4e8,False,https://github.com/havaianasdestruido/eleicoes-data/tree/arena/01a10951-eleicoes-data
-eleicoes-data,main,467fb9d71863d5a3d9960cc57f43630a500f2035,467fb9d,True,https://github.com/havaianasdestruido/eleicoes-data/tree/main
+eleicoes-data,main,cc262053a8b71db0a33fb72857b37f390a833f97,cc26205,True,https://github.com/havaianasdestruido/eleicoes-data/tree/main
 EleLab_v2,master,9306cddca1e8b6b14c4f6a4f572579d2eedd44df,9306cdd,True,https://github.com/havaianasdestruido/EleLab_v2/tree/master
 EZInfiniteYTLive,arena/01a0fd78-ezinfiniteytlive,299b72a11732fe88043029d28ce3634c6be31bb3,299b72a,False,https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/arena/01a0fd78-ezinfiniteytlive
 EZInfiniteYTLive,arena/01a0ff49-ezinfiniteytlive,7a2a38902fcdabbe75a20ddf48196c9548d5cf5f,7a2a389,False,https://github.com/havaianasdestruido/EZInfiniteYTLive/tree/arena/01a0ff49-ezinfiniteytlive
@@ -127,7 +127,7 @@ ftping,arena/d5b11fbd-ftping,026a92ba6ba11a6c7e328df2d3595b9abbc0166f,026a92b,Fa
 ftping,arena/1b8691df-ftping,52a3b2ed292a9c8c3d57a64b8610fe3e9153c5b1,52a3b2e,False,https://github.com/havaianasdestruido/ftping/tree/arena/1b8691df-ftping
 ftping,arena/48d75177-ftping,5485102ffbafd414058edec049f6a211e4c37401,5485102,False,https://github.com/havaianasdestruido/ftping/tree/arena/48d75177-ftping
 ftping,arena/9105ecaa-ftping,e7171b6a5e35722af1bca916ba39dc13556d69d3,e7171b6,False,https://github.com/havaianasdestruido/ftping/tree/arena/9105ecaa-ftping
-ftping,main,811577b081af477ea22eaf74c5c15e31bbee589f,811577b,True,https://github.com/havaianasdestruido/ftping/tree/main
+ftping,main,2bf8f11c81efa6cdf29ae7abef232a40211b77f3,2bf8f11,True,https://github.com/havaianasdestruido/ftping/tree/main
 g1,arena/01a0e805-g1,32dafde694e374755166647d12f8882665b8b2cc,32dafde,False,https://github.com/havaianasdestruido/g1/tree/arena/01a0e805-g1
 g1,main,2ac2a514966f7b9d337fc88454a03df003429d8b,2ac2a51,True,https://github.com/havaianasdestruido/g1/tree/main
 gh-pages,main,8d94eb2af2e26efd5c1a520c078b8a984489a450,8d94eb2,True,https://github.com/havaianasdestruido/gh-pages/tree/main
