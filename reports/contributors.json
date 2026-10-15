@@ -290,7 +290,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 113,
+    "contributions": 114,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -302,7 +302,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 135,
+    "contributions": 136,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -374,13 +374,13 @@
   {
     "repo": "BloodAndBacon-DnSpyEx",
     "login": "havaianasdestruido",
-    "contributions": 9,
+    "contributions": 10,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "BloodAndBacon-DnSpyEx",
     "login": "google-labs-jules[bot]",
-    "contributions": 5,
+    "contributions": 6,
     "profile_url": "https://github.com/apps/google-labs-jules"
   },
   {
@@ -878,7 +878,7 @@
   {
     "repo": "eleicoes-data",
     "login": "github-actions[bot]",
-    "contributions": 48,
+    "contributions": 49,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -1592,7 +1592,7 @@
   {
     "repo": "neo-nt5",
     "login": "havaianasdestruido",
-    "contributions": 2,
+    "contributions": 5,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -1862,13 +1862,13 @@
   {
     "repo": "PWSV",
     "login": "havaianasdestruido",
-    "contributions": 16,
+    "contributions": 17,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "PWSV",
     "login": "google-labs-jules[bot]",
-    "contributions": 4,
+    "contributions": 5,
     "profile_url": "https://github.com/apps/google-labs-jules"
   },
   {
@@ -2030,13 +2030,13 @@
   {
     "repo": "steamlogger",
     "login": "havaianasdestruido",
-    "contributions": 12,
+    "contributions": 13,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "steamlogger",
     "login": "google-labs-jules[bot]",
-    "contributions": 3,
+    "contributions": 4,
     "profile_url": "https://github.com/apps/google-labs-jules"
   },
   {
@@ -2378,7 +2378,13 @@
   {
     "repo": "Win7IE-Decomp",
     "login": "havaianasdestruido",
-    "contributions": 6,
+    "contributions": 38,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "Win7MediaCenter-Decomp",
+    "login": "havaianasdestruido",
+    "contributions": 1,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
@@ -2390,7 +2396,7 @@
   {
     "repo": "Win7MediaPlayer-Decomp",
     "login": "havaianasdestruido",
-    "contributions": 8,
+    "contributions": 34,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {

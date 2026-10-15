@@ -662,7 +662,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 4873977,
+    "bytes": 4873966,
     "percent": 93.5
   },
   {
@@ -740,7 +740,7 @@
   {
     "repo": "BloodAndBacon-DnSpyEx",
     "language": "C#",
-    "bytes": 11560393,
+    "bytes": 11560537,
     "percent": 100.0
   },
   {
@@ -1622,13 +1622,13 @@
   {
     "repo": "neo-nt5",
     "language": "C++",
-    "bytes": 1001404576,
+    "bytes": 1001404687,
     "percent": 46.0
   },
   {
     "repo": "neo-nt5",
     "language": "C",
-    "bytes": 908182207,
+    "bytes": 908185265,
     "percent": 41.8
   },
   {
@@ -2060,7 +2060,7 @@
   {
     "repo": "neo-nt5",
     "language": "Python",
-    "bytes": 11746,
+    "bytes": 11749,
     "percent": 0.0
   },
   {
@@ -2426,20 +2426,20 @@
   {
     "repo": "PWSV",
     "language": "C++",
-    "bytes": 37634,
-    "percent": 38.3
+    "bytes": 38117,
+    "percent": 38.7
   },
   {
     "repo": "PWSV",
     "language": "HTML",
     "bytes": 19935,
-    "percent": 20.3
+    "percent": 20.2
   },
   {
     "repo": "PWSV",
     "language": "JavaScript",
     "bytes": 16907,
-    "percent": 17.2
+    "percent": 17.1
   },
   {
     "repo": "PWSV",
@@ -2649,19 +2649,19 @@
     "repo": "steamlogger",
     "language": "MDX",
     "bytes": 181352,
-    "percent": 65.3
+    "percent": 65.1
   },
   {
     "repo": "steamlogger",
     "language": "Rust",
-    "bytes": 72484,
-    "percent": 26.1
+    "bytes": 73140,
+    "percent": 26.3
   },
   {
     "repo": "steamlogger",
     "language": "JavaScript",
     "bytes": 19864,
-    "percent": 7.2
+    "percent": 7.1
   },
   {
     "repo": "steamlogger",
@@ -2883,43 +2883,43 @@
     "repo": "Win7IE-Decomp",
     "language": "Rich Text Format",
     "bytes": 235189,
-    "percent": 94.9
+    "percent": 75.6
   },
   {
     "repo": "Win7IE-Decomp",
     "language": "Python",
-    "bytes": 6887,
-    "percent": 2.8
+    "bytes": 54861,
+    "percent": 17.6
   },
   {
     "repo": "Win7IE-Decomp",
     "language": "C",
-    "bytes": 5205,
-    "percent": 2.1
+    "bytes": 20547,
+    "percent": 6.6
   },
   {
     "repo": "Win7IE-Decomp",
     "language": "TeX",
     "bytes": 464,
-    "percent": 0.2
+    "percent": 0.1
   },
   {
     "repo": "Win7MediaPlayer-Decomp",
     "language": "C",
     "bytes": 4920516,
-    "percent": 81.3
+    "percent": 80.3
   },
   {
     "repo": "Win7MediaPlayer-Decomp",
     "language": "Assembly",
     "bytes": 799429,
-    "percent": 13.2
+    "percent": 13.1
   },
   {
     "repo": "Win7MediaPlayer-Decomp",
     "language": "Python",
-    "bytes": 288422,
-    "percent": 4.8
+    "bytes": 361171,
+    "percent": 5.9
   },
   {
     "repo": "Win7MediaPlayer-Decomp",
@@ -2936,7 +2936,7 @@
   {
     "repo": "Win7MediaPlayer-Decomp",
     "language": "Shell",
-    "bytes": 1275,
-    "percent": 0.0
+    "bytes": 3648,
+    "percent": 0.1
   }
 ]

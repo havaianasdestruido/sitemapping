@@ -2145,6 +2145,14 @@
   },
   {
     "repo": "neo-nt5",
+    "pr_number": 2,
+    "sha": "a6928789ae4bdb2591b430d9086f8ca45faf3331",
+    "sha_short": "a692878",
+    "message": "Apply NEONT branding to additional system-exposed strings with build toggle",
+    "url": "https://github.com/havaianasdestruido/neo-nt5/commit/a6928789ae4bdb2591b430d9086f8ca45faf3331"
+  },
+  {
+    "repo": "neo-nt5",
     "pr_number": 1,
     "sha": "70712687c7cceef6d2b8899286700a3667284b95",
     "sha_short": "7071268",
@@ -2777,6 +2785,14 @@
   },
   {
     "repo": "steamlogger",
+    "pr_number": 8,
+    "sha": "4f7ea86d31819091f1db87b9c84d7ab8abe4c4f5",
+    "sha_short": "4f7ea86",
+    "message": "⚡ Bolt: Stream JSON log reads to reduce peak memory",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/4f7ea86d31819091f1db87b9c84d7ab8abe4c4f5"
+  },
+  {
+    "repo": "steamlogger",
     "pr_number": 7,
     "sha": "27f21f58b4274da0fa0e705a0846f02051983672",
     "sha_short": "27f21f5",
@@ -2897,6 +2913,46 @@
   },
   {
     "repo": "Win7Defender-Decomp",
+    "pr_number": 3,
+    "sha": "35479105412fe8e97106e9ddca1378f590674c90",
+    "sha_short": "3547910",
+    "message": "docs: define the two-team clean-room boundary",
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/commit/35479105412fe8e97106e9ddca1378f590674c90"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
+    "pr_number": 3,
+    "sha": "8f1af9a6fb4a8c1cd8b33fb5a9242b187af5f251",
+    "sha_short": "8f1af9a",
+    "message": "docs: record sponsor authorization and project scope",
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/commit/8f1af9a6fb4a8c1cd8b33fb5a9242b187af5f251"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
+    "pr_number": 3,
+    "sha": "b4d8cc044893e19056d15fb0d68b4d070f622d7c",
+    "sha_short": "b4d8cc0",
+    "message": "docs: inventory input provenance and redistribution status",
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/commit/b4d8cc044893e19056d15fb0d68b4d070f622d7c"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
+    "pr_number": 3,
+    "sha": "fa3607daef3d95ea4ede46502301769cd4a6b7eb",
+    "sha_short": "fa3607d",
+    "message": "docs: standardize evidence-only behavior specifications",
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/commit/fa3607daef3d95ea4ede46502301769cd4a6b7eb"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
+    "pr_number": 3,
+    "sha": "53986b4542591872815b27a4bc5079e48626459c",
+    "sha_short": "53986b4",
+    "message": "docs: add a traceable resolver specification draft",
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/commit/53986b4542591872815b27a4bc5079e48626459c"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
     "pr_number": 2,
     "sha": "7c14b790928a4bf54a7f7ef82182ea94e4af7c4f",
     "sha_short": "7c14b79",
@@ -2921,6 +2977,46 @@
   },
   {
     "repo": "Win7IE-Decomp",
+    "pr_number": 3,
+    "sha": "01a6902c6d8a63c6f5e4de685b0bd772e8f8b7b1",
+    "sha_short": "01a6902",
+    "message": "feat: add stdlib PE/COFF structural parser",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/01a6902c6d8a63c6f5e4de685b0bd772e8f8b7b1"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "pr_number": 3,
+    "sha": "b03b16143ec38a4fadeecb9cc17607c3f6d30897",
+    "sha_short": "b03b161",
+    "message": "test: lock PE parser facts against the corpus",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/b03b16143ec38a4fadeecb9cc17607c3f6d30897"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "pr_number": 3,
+    "sha": "3ca2ee3bff5879984b4aa315021a4a1263cc6aa9",
+    "sha_short": "3ca2ee3",
+    "message": "refactor: rewrite inventory generator around the PE parser",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/3ca2ee3bff5879984b4aa315021a4a1263cc6aa9"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "pr_number": 3,
+    "sha": "0b9fd0c4e02acffd073b96b925128439df0bf9fe",
+    "sha_short": "0b9fd0c",
+    "message": "feat: emit a compact SHA-256 corpus lock",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/0b9fd0c4e02acffd073b96b925128439df0bf9fe"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "pr_number": 3,
+    "sha": "ba45ae928b48f8a4bbd59247d3c3944ae093a223",
+    "sha_short": "ba45ae9",
+    "message": "feat: publish parsed PE structure as JSON",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/ba45ae928b48f8a4bbd59247d3c3944ae093a223"
+  },
+  {
+    "repo": "Win7IE-Decomp",
     "pr_number": 2,
     "sha": "c80512d069dc5e98604570ffc379aa9edd8010bd",
     "sha_short": "c80512d",
@@ -2934,6 +3030,46 @@
     "sha_short": "4cb8939",
     "message": "Add comprehensive binary analysis baseline",
     "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/4cb893965dc119e75fe985f5a585f3315851c403"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "pr_number": 4,
+    "sha": "baeda8954154a5ffcf2129a82d8d21fed274393a",
+    "sha_short": "baeda89",
+    "message": "fix: restore original Media Renderer icon binaries modified by imgbot",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/baeda8954154a5ffcf2129a82d8d21fed274393a"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "pr_number": 4,
+    "sha": "7c0f27e5dc1224e810ef63769344e2d3bd62238a",
+    "sha_short": "7c0f27e",
+    "message": "fix: restore original Network Sharing icon binaries to match upstream",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/7c0f27e5dc1224e810ef63769344e2d3bd62238a"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "pr_number": 4,
+    "sha": "240a9902406d89c096c2d5dad12333d2c74cb930",
+    "sha_short": "240a990",
+    "message": "chore: add imgbot ignore rules to protect reference binaries",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/240a9902406d89c096c2d5dad12333d2c74cb930"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "pr_number": 4,
+    "sha": "03eadba952a812843986176b8c851e40564167bc",
+    "sha_short": "03eadba",
+    "message": "fix: extract full 128-bit RSDS GUID and symbol server ID in peutils",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/03eadba952a812843986176b8c851e40564167bc"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "pr_number": 4,
+    "sha": "3aa5da521d77fbe1bc9d6405054058aedae6770f",
+    "sha_short": "3aa5da5",
+    "message": "fix: skip repo metadata files and sort directory walk deterministically in inventory.py",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/3aa5da521d77fbe1bc9d6405054058aedae6770f"
   },
   {
     "repo": "Win7MediaPlayer-Decomp",

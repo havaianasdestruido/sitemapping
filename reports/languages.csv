@@ -109,7 +109,7 @@ sitemapping,JavaScript,61132,37.3
 sitemapping,Python,51362,31.3
 sitemapping,HTML,26709,16.3
 sitemapping,CSS,24836,15.1
-top100,HTML,4873977,93.5
+top100,HTML,4873966,93.5
 top100,Python,170108,3.3
 top100,JavaScript,161810,3.1
 top100,CSS,6452,0.1
@@ -122,7 +122,7 @@ AmIOnline,Kotlin,16235,100.0
 AudioTaste,JavaScript,88551,79.3
 AudioTaste,CSS,15248,13.6
 AudioTaste,HTML,7933,7.1
-BloodAndBacon-DnSpyEx,C#,11560393,100.0
+BloodAndBacon-DnSpyEx,C#,11560537,100.0
 bloxNES,Lua,58862,99.8
 bloxNES,Luau,116,0.2
 brnews-db,Python,80372,84.6
@@ -269,8 +269,8 @@ movielibrary,C#,7846,100.0
 moviemaker-launcher,C#,27368,100.0
 mshearts,C++,101631,99.1
 mshearts,C,951,0.9
-neo-nt5,C++,1001404576,46.0
-neo-nt5,C,908182207,41.8
+neo-nt5,C++,1001404687,46.0
+neo-nt5,C,908185265,41.8
 neo-nt5,Scheme,110598376,5.1
 neo-nt5,Assembly,36975414,1.7
 neo-nt5,HTML,25921376,1.2
@@ -342,7 +342,7 @@ neo-nt5,Nextflow,14335,0.0
 neo-nt5,SAS,13756,0.0
 neo-nt5,WebAssembly,13560,0.0
 neo-nt5,WDL,13392,0.0
-neo-nt5,Python,11746,0.0
+neo-nt5,Python,11749,0.0
 neo-nt5,Logos,11720,0.0
 neo-nt5,Faust,11684,0.0
 neo-nt5,QMake,10761,0.0
@@ -403,9 +403,9 @@ Projeto-TCC,Python,166910,6.0
 Projeto-TCC,PLpgSQL,87638,3.1
 Projeto-TCC,TypeScript,17111,0.6
 pwn,HTML,415,100.0
-PWSV,C++,37634,38.3
-PWSV,HTML,19935,20.3
-PWSV,JavaScript,16907,17.2
+PWSV,C++,38117,38.7
+PWSV,HTML,19935,20.2
+PWSV,JavaScript,16907,17.1
 PWSV,CSS,15731,16.0
 PWSV,Batchfile,4421,4.5
 PWSV,CMake,3431,3.5
@@ -440,9 +440,9 @@ Sonic4,Pawn,221311,1.0
 Sonic4,Objective-C++,146447,0.7
 Sonic4,Objective-C,119638,0.6
 Sonic4,CMake,153,0.0
-steamlogger,MDX,181352,65.3
-steamlogger,Rust,72484,26.1
-steamlogger,JavaScript,19864,7.2
+steamlogger,MDX,181352,65.1
+steamlogger,Rust,73140,26.3
+steamlogger,JavaScript,19864,7.1
 steamlogger,CSS,4098,1.5
 terminal-win7,C++,12582435,92.4
 terminal-win7,C#,524873,3.9
@@ -479,13 +479,13 @@ Win7Defender-Decomp,CMake,572,0.0
 Win7DVDC-Decomp,Python,48788,100.0
 Win7IE,Rich Text Format,235189,99.8
 Win7IE,TeX,464,0.2
-Win7IE-Decomp,Rich Text Format,235189,94.9
-Win7IE-Decomp,Python,6887,2.8
-Win7IE-Decomp,C,5205,2.1
-Win7IE-Decomp,TeX,464,0.2
-Win7MediaPlayer-Decomp,C,4920516,81.3
-Win7MediaPlayer-Decomp,Assembly,799429,13.2
-Win7MediaPlayer-Decomp,Python,288422,4.8
+Win7IE-Decomp,Rich Text Format,235189,75.6
+Win7IE-Decomp,Python,54861,17.6
+Win7IE-Decomp,C,20547,6.6
+Win7IE-Decomp,TeX,464,0.1
+Win7MediaPlayer-Decomp,C,4920516,80.3
+Win7MediaPlayer-Decomp,Assembly,799429,13.1
+Win7MediaPlayer-Decomp,Python,361171,5.9
 Win7MediaPlayer-Decomp,CMake,25114,0.4
 Win7MediaPlayer-Decomp,JavaScript,15900,0.3
-Win7MediaPlayer-Decomp,Shell,1275,0.0
+Win7MediaPlayer-Decomp,Shell,3648,0.1

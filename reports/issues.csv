@@ -1,4 +1,24 @@
 repo,state,number,title,user,created_at,labels,comments,url
+FNF-Phoenix-Engine,open,55,Building with -DNO_PRELOAD_ALL fails: LoadingState has no constructor and lime.utils.AssetCache has no hasSound,havaianasdestruido,2026-10-15T21:11:30Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/55
+FNF-Phoenix-Engine,open,54,Engine version strings are hard-coded and contradict project.hxp VERSION and THECHANGELOG.md,havaianasdestruido,2026-10-15T21:11:29Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/54
+FNF-Phoenix-Engine,open,53,Update checker fetches the upstream JS Engine changelog instead of this repository's own,havaianasdestruido,2026-10-15T21:11:29Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/53
+FNF-Phoenix-Engine,open,52,backend.Mods and backend.ModsStub declare the same type paths in the same package,havaianasdestruido,2026-10-15T21:11:28Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/52
+FNF-Phoenix-Engine,open,51,python-scripting.md documents Function_StopLua as available to Python scripts,havaianasdestruido,2026-10-15T21:11:28Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/51
+FNF-Phoenix-Engine,open,50,"project.hxp references source/Prebuild.hx and source/Postbuild.hx, which do not exist",havaianasdestruido,2026-10-15T21:11:27Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/50
+FNF-Phoenix-Engine,open,49,jekyll-gh-pages.yml can overwrite the published Docusaurus site,havaianasdestruido,2026-10-15T21:11:27Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/49
+FNF-Phoenix-Engine,open,48,The 'status: pending triage' and 'stale' labels used by the workflows do not exist in this repository,havaianasdestruido,2026-10-15T21:11:26Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/48
+FNF-Phoenix-Engine,open,47,The bug report template points users to the upstream JS Engine issue tracker,havaianasdestruido,2026-10-15T21:11:26Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/47
+FNF-Phoenix-Engine,open,46,Library patches are vendored under source/ instead of using the documented source-haxelib-patches/ mechanism,havaianasdestruido,2026-10-15T21:11:25Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/46
+FNF-Phoenix-Engine,open,45,Options with type 'link' are silently coerced to type 'bool',havaianasdestruido,2026-10-15T21:11:24Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/45
+FNF-Phoenix-Engine,open,44,Script hook argument lists do not match the signatures documented in script-hooks.md,havaianasdestruido,2026-10-15T21:11:24Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/44
+FNF-Phoenix-Engine,open,43,"Conductor.recalculateTimings() is never called, so the Safe Frames option does not affect timing or accuracy",havaianasdestruido,2026-10-15T21:11:23Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/43
+FNF-Phoenix-Engine,open,42,hmm.json and the setup scripts install two different hxcpp forks,havaianasdestruido,2026-10-15T21:11:22Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/42
+FNF-Phoenix-Engine,closed,41,[scratch] label probe 2,havaianasdestruido,2026-10-15T21:10:58Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/41
+FNF-Phoenix-Engine,closed,40,probe,havaianasdestruido,2026-10-15T21:10:25Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/40
+FNF-Phoenix-Engine,closed,39,[scratch] label test,havaianasdestruido,2026-10-15T21:07:35Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/39
+FNF-Phoenix-Engine,closed,38,## Summary,havaianasdestruido,2026-10-15T21:07:13Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/38
+FNF-Phoenix-Engine,closed,37,## Summary,havaianasdestruido,2026-10-15T21:07:11Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/37
+FNF-Phoenix-Engine,closed,36,## Summary,havaianasdestruido,2026-10-15T21:07:10Z,,0,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/36
 PhoenixLiveWallpaper,closed,7,CI failure: run 36342288130,github-actions[bot],2026-09-27T18:54:19Z,,0,https://github.com/havaianasdestruido/PhoenixLiveWallpaper/issues/7
 PhoenixLiveWallpaper,closed,6,CI failure: run 36342135961,github-actions[bot],2026-09-27T18:51:41Z,,0,https://github.com/havaianasdestruido/PhoenixLiveWallpaper/issues/6
 PhoenixLiveWallpaper,closed,5,CI failure: run 36342000845,github-actions[bot],2026-09-27T18:49:34Z,,0,https://github.com/havaianasdestruido/PhoenixLiveWallpaper/issues/5

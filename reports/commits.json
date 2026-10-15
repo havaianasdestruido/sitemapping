@@ -11262,6 +11262,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "4627d2eb51bdd1baec8d61d213060d8e84e7b25b",
+    "sha_short": "4627d2e",
+    "author": "GitHub Action Bot",
+    "date": "2026-10-15T19:55:31Z",
+    "message": "📊 [2026-10-15 19:55:31 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/4627d2eb51bdd1baec8d61d213060d8e84e7b25b"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "17d6ad9b2a0c9b61118731f59f487143e8ba2398",
     "sha_short": "17d6ad9",
     "author": "GitHub Action Bot",
@@ -11352,12 +11362,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "46473dcd89e1e7c3438e929995673095c14ef3a8",
-    "sha_short": "46473dc",
+    "sha": "60824837146cc2022932d7eeb8bbe8c5d854b87c",
+    "sha_short": "6082483",
     "author": "GitHub Action Bot",
-    "date": "2026-10-13T04:45:49Z",
-    "message": "📊 [2026-10-13 04:45:49 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/46473dcd89e1e7c3438e929995673095c14ef3a8"
+    "date": "2026-10-06T17:42:08Z",
+    "message": "📊 [2026-10-06 17:42:08 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/60824837146cc2022932d7eeb8bbe8c5d854b87c"
   },
   {
     "repo": "sitemapping",
@@ -11452,12 +11462,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "c43480b6349cc6953ea462d40a54a3a8e14e37fc",
-    "sha_short": "c43480b",
+    "sha": "4652927517292e24f3e68a33018df8a383f18f2b",
+    "sha_short": "4652927",
     "author": "GitHub Action Bot",
-    "date": "2026-10-03T15:29:20Z",
-    "message": "📊 [2026-10-03 15:29:20 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/c43480b6349cc6953ea462d40a54a3a8e14e37fc"
+    "date": "2026-09-27T02:36:47Z",
+    "message": "📊 [2026-09-27 02:36:47 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/4652927517292e24f3e68a33018df8a383f18f2b"
   },
   {
     "repo": "sitemapping",
@@ -11552,12 +11562,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "4b5856ca80911a4343ef9f62e444dcc7dbdd49c6",
-    "sha_short": "4b5856c",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-24T22:54:09Z",
-    "message": "📊 [2026-09-24 22:54:09 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/4b5856ca80911a4343ef9f62e444dcc7dbdd49c6"
+    "sha": "cbc3fac2a3e9b844ac3e411adb25802c76abb3f9",
+    "sha_short": "cbc3fac",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-20T20:13:36Z",
+    "message": "docs: add star history chart",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/cbc3fac2a3e9b844ac3e411adb25802c76abb3f9"
   },
   {
     "repo": "sitemapping",
@@ -11648,16 +11658,6 @@
     "date": "2026-09-19T14:59:14Z",
     "message": "Change GITHUB_TOKEN to GITHUB_PAT in workflow",
     "url": "https://github.com/havaianasdestruido/sitemapping/commit/7af849f89b6d3e9decfb834f5cedcc3d7bee8c37"
-  },
-  {
-    "repo": "sitemapping",
-    "branch": "main",
-    "sha": "530cfa225460782736ed8473366fb6434e088b5d",
-    "sha_short": "530cfa2",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-19T14:49:04Z",
-    "message": "📊 Update repository report [2026-09-19 14:49:04 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/530cfa225460782736ed8473366fb6434e088b5d"
   },
   {
     "repo": "top100",
@@ -12062,6 +12062,16 @@
   {
     "repo": "top100",
     "branch": "main",
+    "sha": "b7396740a4c86f054c502511dbd9bd35673db716",
+    "sha_short": "b739674",
+    "author": "github-actions[bot]",
+    "date": "2026-10-15T20:38:41Z",
+    "message": "data: update top repos data (2026-10-15 20:38 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/b7396740a4c86f054c502511dbd9bd35673db716"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
     "sha": "6557b1276e8f7f4e9137655f9608f986e34c9058",
     "sha_short": "6557b12",
     "author": "github-actions[bot]",
@@ -12152,12 +12162,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "c46b92a8e2ca3090791495d23557cbd061bfee20",
-    "sha_short": "c46b92a",
-    "author": "github-actions[bot]",
-    "date": "2026-10-14T00:44:23Z",
-    "message": "data: update top repos data (2026-10-14 00:44 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/c46b92a8e2ca3090791495d23557cbd061bfee20"
+    "sha": "480056d5ffd6fe21dae86fc2d7d1072de9fe5faa",
+    "sha_short": "480056d",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-08T19:14:23Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/51c06a64-top100",
+    "url": "https://github.com/havaianasdestruido/top100/commit/480056d5ffd6fe21dae86fc2d7d1072de9fe5faa"
   },
   {
     "repo": "top100",
@@ -12252,12 +12262,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "0b41028dadd780e3f9e8d4453f3e6b255d3e607f",
-    "sha_short": "0b41028",
+    "sha": "c3f079c4a001033388b31f9153cb24f3d8868bbe",
+    "sha_short": "c3f079c",
     "author": "github-actions[bot]",
-    "date": "2026-10-06T21:22:07Z",
-    "message": "data: update top repos data (2026-10-06 21:22 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/0b41028dadd780e3f9e8d4453f3e6b255d3e607f"
+    "date": "2026-10-01T16:46:12Z",
+    "message": "data: update top repos data (2026-10-01 16:46 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/c3f079c4a001033388b31f9153cb24f3d8868bbe"
   },
   {
     "repo": "top100",
@@ -12352,12 +12362,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "e8a61250ba2748e4fc0013879aa633edb84c0720",
-    "sha_short": "e8a6125",
+    "sha": "77b638903c3e21dadafda8b5dce1ffb117e932dc",
+    "sha_short": "77b6389",
     "author": "github-actions[bot]",
-    "date": "2026-09-29T13:30:46Z",
-    "message": "data: update top repos data (2026-09-29 13:30 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/e8a61250ba2748e4fc0013879aa633edb84c0720"
+    "date": "2026-09-25T15:37:10Z",
+    "message": "data: update top repos data (2026-09-25)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/77b638903c3e21dadafda8b5dce1ffb117e932dc"
   },
   {
     "repo": "top100",
@@ -12448,16 +12458,6 @@
     "date": "2026-09-24T00:04:09Z",
     "message": "data: update top repos data (2026-09-24)",
     "url": "https://github.com/havaianasdestruido/top100/commit/d7e4ff1f708ad365d6b3adf738c5b85bcd22bf47"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "266f1e4fe210532c43fa72f6cb36cc9b4f6010fe",
-    "sha_short": "266f1e4",
-    "author": "github-actions[bot]",
-    "date": "2026-09-23T21:52:02Z",
-    "message": "data: update top repos data (2026-09-23)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/266f1e4fe210532c43fa72f6cb36cc9b4f6010fe"
   },
   {
     "repo": "WAL-skill",
@@ -14262,6 +14262,26 @@
   {
     "repo": "BloodAndBacon-DnSpyEx",
     "branch": "main",
+    "sha": "880775401366a18f870c621a67517b658b6c4f47",
+    "sha_short": "8807754",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-15T20:25:13Z",
+    "message": "Merge pull request #6 from havaianasdestruido/bolt-optimize-rockstruct-distance-4449192366516837174",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/880775401366a18f870c621a67517b658b6c4f47"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "branch": "main",
+    "sha": "71b716ec23a155a4bb15b29d4e6a9605bc8b03f7",
+    "sha_short": "71b716e",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-15T16:15:44Z",
+    "message": "Optimize distance calculations in rock physics interaction",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/71b716ec23a155a4bb15b29d4e6a9605bc8b03f7"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "branch": "main",
     "sha": "77599cd2b261f18267090a3ac0666bd5a4a61fe1",
     "sha_short": "77599cd",
     "author": "PatoFlamejanteTV",
@@ -14338,26 +14358,6 @@
     "date": "2026-10-11T13:23:19Z",
     "message": "Optimize Vector3.Distance to Vector3.DistanceSquared in debrisBlood",
     "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/dfef88e2a84714e9ecefba17fdcc62c22adeca1b"
-  },
-  {
-    "repo": "BloodAndBacon-DnSpyEx",
-    "branch": "main",
-    "sha": "6ff4976cf9387aca968ddcb2ebbbc78b73fde4ec",
-    "sha_short": "6ff4976",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-10T19:39:22Z",
-    "message": "Merge pull request #1 from havaianasdestruido/bolt-perf-vector3-4048617450725827117",
-    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/6ff4976cf9387aca968ddcb2ebbbc78b73fde4ec"
-  },
-  {
-    "repo": "BloodAndBacon-DnSpyEx",
-    "branch": "main",
-    "sha": "5cf7b856d6e7452e12ca1e501be5ee587fe2197c",
-    "sha_short": "5cf7b85",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-10-10T17:08:54Z",
-    "message": "⚡ Bolt: Optimize Vector3.Distance to Vector3.DistanceSquared",
-    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/5cf7b856d6e7452e12ca1e501be5ee587fe2197c"
   },
   {
     "repo": "bloxNES",
@@ -18432,6 +18432,16 @@
   {
     "repo": "eleicoes-data",
     "branch": "main",
+    "sha": "c81d5e9421c2016c619b5bc906588ab2521df3ec",
+    "sha_short": "c81d5e9",
+    "author": "github-actions[bot]",
+    "date": "2026-10-15T21:33:41Z",
+    "message": "data: TSE presidente snapshot 2026-10-15 21:33:41Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/c81d5e9421c2016c619b5bc906588ab2521df3ec"
+  },
+  {
+    "repo": "eleicoes-data",
+    "branch": "main",
     "sha": "4778ceed84781a27becea36f3ae9a8b45e858f26",
     "sha_short": "4778cee",
     "author": "github-actions[bot]",
@@ -18522,12 +18532,12 @@
   {
     "repo": "eleicoes-data",
     "branch": "main",
-    "sha": "61d07d50a13bbc1709b91a56173a0eaa783f43bc",
-    "sha_short": "61d07d5",
-    "author": "Arena Agent",
-    "date": "2026-10-14T19:53:28Z",
-    "message": "feat: add 6 interactive Jupyter notebooks with embedded graphs at test/",
-    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/61d07d50a13bbc1709b91a56173a0eaa783f43bc"
+    "sha": "e6a7a76b5239c9896182eb26d5ca674f72d34b82",
+    "sha_short": "e6a7a76",
+    "author": "github-actions[bot]",
+    "date": "2026-10-09T18:46:18Z",
+    "message": "data: TSE presidente snapshot 2026-10-09 18:46:18Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/e6a7a76b5239c9896182eb26d5ca674f72d34b82"
   },
   {
     "repo": "eleicoes-data",
@@ -18618,16 +18628,6 @@
     "date": "2026-10-07T16:28:26Z",
     "message": "data: TSE presidente snapshot 2026-10-07 16:28:26Z",
     "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/251bcb3c7317c4c10063b9506dcb8c00c1da6d83"
-  },
-  {
-    "repo": "eleicoes-data",
-    "branch": "main",
-    "sha": "805c87ab4a4c1e43f38ce48cc46f2d81ef312cc1",
-    "sha_short": "805c87a",
-    "author": "github-actions[bot]",
-    "date": "2026-10-07T09:15:04Z",
-    "message": "data: TSE presidente snapshot 2026-10-07 09:15:04Z",
-    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/805c87ab4a4c1e43f38ce48cc46f2d81ef312cc1"
   },
   {
     "repo": "EleLab_v2",
@@ -27172,6 +27172,16 @@
   {
     "repo": "neo-nt5",
     "branch": "arena/4126b2e2-neo-nt5",
+    "sha": "a6928789ae4bdb2591b430d9086f8ca45faf3331",
+    "sha_short": "a692878",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:33:33Z",
+    "message": "Apply NEONT branding to additional system-exposed strings with build toggle",
+    "url": "https://github.com/havaianasdestruido/neo-nt5/commit/a6928789ae4bdb2591b430d9086f8ca45faf3331"
+  },
+  {
+    "repo": "neo-nt5",
+    "branch": "arena/4126b2e2-neo-nt5",
     "sha": "4d802d54e5ca305cd0ddf9b2927f1bbd10beaf70",
     "sha_short": "4d802d5",
     "author": "havaianasdestruido",
@@ -27248,6 +27258,36 @@
     "date": "2024-08-23T12:57:13Z",
     "message": "Initial commit",
     "url": "https://github.com/havaianasdestruido/neo-nt5/commit/a65edf0a87f2fd1690da4499ebc06f8e868c5911"
+  },
+  {
+    "repo": "neo-nt5",
+    "branch": "main",
+    "sha": "2a6c8205c37b7ab99406b5fd55b14dc650b5da80",
+    "sha_short": "2a6c820",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-15T20:41:28Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/4126b2e2-neo-nt5",
+    "url": "https://github.com/havaianasdestruido/neo-nt5/commit/2a6c8205c37b7ab99406b5fd55b14dc650b5da80"
+  },
+  {
+    "repo": "neo-nt5",
+    "branch": "main",
+    "sha": "a6928789ae4bdb2591b430d9086f8ca45faf3331",
+    "sha_short": "a692878",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:33:33Z",
+    "message": "Apply NEONT branding to additional system-exposed strings with build toggle",
+    "url": "https://github.com/havaianasdestruido/neo-nt5/commit/a6928789ae4bdb2591b430d9086f8ca45faf3331"
+  },
+  {
+    "repo": "neo-nt5",
+    "branch": "main",
+    "sha": "4d802d54e5ca305cd0ddf9b2927f1bbd10beaf70",
+    "sha_short": "4d802d5",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T16:22:34Z",
+    "message": "Keep only system-exposed branding changes (SMSS OS env var + build toggle)",
+    "url": "https://github.com/havaianasdestruido/neo-nt5/commit/4d802d54e5ca305cd0ddf9b2927f1bbd10beaf70"
   },
   {
     "repo": "neo-nt5",
@@ -35872,6 +35912,26 @@
   {
     "repo": "PWSV",
     "branch": "main",
+    "sha": "c8133c7dc7b54c268688145356231347082cfa44",
+    "sha_short": "c8133c7",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-15T20:25:17Z",
+    "message": "Merge pull request #6 from havaianasdestruido/bolt-cache-parameter-pointers-4448434025158655151",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/c8133c7dc7b54c268688145356231347082cfa44"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "main",
+    "sha": "b06460935d4dfe96b44003eaf5751c7ebe9b2694",
+    "sha_short": "b064609",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-15T19:28:10Z",
+    "message": "⚡ Bolt: Cache parameter pointers to avoid string lookups in audio thread",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/b06460935d4dfe96b44003eaf5751c7ebe9b2694"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "main",
     "sha": "c39a676344137f3285e921188044d824e99fecde",
     "sha_short": "c39a676",
     "author": "PatoFlamejanteTV",
@@ -35952,22 +36012,22 @@
   {
     "repo": "PWSV",
     "branch": "main",
-    "sha": "cff8ab4923d55ea280b0cdfe11bd2b2d304521a6",
-    "sha_short": "cff8ab4",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-03T18:17:02Z",
-    "message": "Merge pull request #1 from havaianasdestruido/arena/01a10230-pwsv",
-    "url": "https://github.com/havaianasdestruido/PWSV/commit/cff8ab4923d55ea280b0cdfe11bd2b2d304521a6"
+    "sha": "c44dfa1643c9b40a1c4f5fc66ee9229f793a15f2",
+    "sha_short": "c44dfa1",
+    "author": "UltimateQuack",
+    "date": "2026-07-25T23:21:15Z",
+    "message": "add: utility headers for WebSocket handshake and position data (Source/Sha1.h, Source/Base64.h, Source/PositionData.h)",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/c44dfa1643c9b40a1c4f5fc66ee9229f793a15f2"
   },
   {
     "repo": "PWSV",
     "branch": "main",
-    "sha": "e3fff493cd9c935075912655aa05ff82dd6164ba",
-    "sha_short": "e3fff49",
-    "author": "havaianasdestruido",
-    "date": "2026-10-03T17:15:11Z",
-    "message": "chore: gitignore docs build artifacts and untrack generated js bundles",
-    "url": "https://github.com/havaianasdestruido/PWSV/commit/e3fff493cd9c935075912655aa05ff82dd6164ba"
+    "sha": "8225a18e2fe93cbfecca73273f453ef93658e6a1",
+    "sha_short": "8225a18",
+    "author": "UltimateQuack",
+    "date": "2026-07-25T23:20:41Z",
+    "message": "add: CMake build system with JUCE 8 + CLAP extensions (CMakeLists.txt)",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/8225a18e2fe93cbfecca73273f453ef93658e6a1"
   },
   {
     "repo": "PWSV",
@@ -38681,6 +38741,106 @@
   },
   {
     "repo": "steamlogger",
+    "branch": "bolt-stream-json-reads-13118641453970075006",
+    "sha": "4f7ea86d31819091f1db87b9c84d7ab8abe4c4f5",
+    "sha_short": "4f7ea86",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-15T20:40:58Z",
+    "message": "⚡ Bolt: Stream JSON log reads to reduce peak memory",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/4f7ea86d31819091f1db87b9c84d7ab8abe4c4f5"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt-stream-json-reads-13118641453970075006",
+    "sha": "3bf46c1d0fa03e20fe7761a2984e8a6da08b01b8",
+    "sha_short": "3bf46c1",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-13T15:44:24Z",
+    "message": "Merge pull request #7 from havaianasdestruido/bolt-optimize-url-allocations-17322043973033610492",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/3bf46c1d0fa03e20fe7761a2984e8a6da08b01b8"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt-stream-json-reads-13118641453970075006",
+    "sha": "27f21f58b4274da0fa0e705a0846f02051983672",
+    "sha_short": "27f21f5",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-13T15:08:06Z",
+    "message": "⚡ Bolt: Optimize player summaries URL string allocation",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/27f21f58b4274da0fa0e705a0846f02051983672"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt-stream-json-reads-13118641453970075006",
+    "sha": "22339de8f45c558cf872b4520f38b8713fa0e55f",
+    "sha_short": "22339de",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-13T00:44:39Z",
+    "message": "Merge pull request #6 from havaianasdestruido/bolt-optimize-json-write-11022104096064710085",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/22339de8f45c558cf872b4520f38b8713fa0e55f"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt-stream-json-reads-13118641453970075006",
+    "sha": "d5849d42aee66bc8312c44b7dcad39e65ba9a4b3",
+    "sha_short": "d5849d4",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-12T13:26:52Z",
+    "message": "perf: stream JSON directly to disk to avoid memory spike",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/d5849d42aee66bc8312c44b7dcad39e65ba9a4b3"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt-stream-json-reads-13118641453970075006",
+    "sha": "cde1c413001d3184fb1e55704b29f479395abf4f",
+    "sha_short": "cde1c41",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-11T15:56:42Z",
+    "message": "Merge pull request #5 from havaianasdestruido/bolt-performance-optimizations-8403445024399752437",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/cde1c413001d3184fb1e55704b29f479395abf4f"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt-stream-json-reads-13118641453970075006",
+    "sha": "fd65516359620b51becb7dd9e2c4a28ce635c728",
+    "sha_short": "fd65516",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-11T14:23:46Z",
+    "message": "Prevent unnecessary disk I/O and allocations",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/fd65516359620b51becb7dd9e2c4a28ce635c728"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt-stream-json-reads-13118641453970075006",
+    "sha": "e3c708f8e083e804030d990e3f6569f4ea36556d",
+    "sha_short": "e3c708f",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-02T23:43:17Z",
+    "message": "Merge pull request #3 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/e3c708f8e083e804030d990e3f6569f4ea36556d"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt-stream-json-reads-13118641453970075006",
+    "sha": "d675d2e036341813334584f40cf43b5e50feea04",
+    "sha_short": "d675d2e",
+    "author": "ImgBotApp",
+    "date": "2026-10-02T19:40:17Z",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/d675d2e036341813334584f40cf43b5e50feea04"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt-stream-json-reads-13118641453970075006",
+    "sha": "5f67195168a42c86a6114f030a77ed7851c33eae",
+    "sha_short": "5f67195",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-02T19:39:57Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/01a0fd79-steamlogger",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/5f67195168a42c86a6114f030a77ed7851c33eae"
+  },
+  {
+    "repo": "steamlogger",
     "branch": "codex/investigar-problema-de-log",
     "sha": "da63afce1905635b901bc16af104022937168df1",
     "sha_short": "da63afc",
@@ -38708,6 +38868,26 @@
     "date": "2026-08-10T20:40:19Z",
     "message": "chore: scaffold steamlogger crate with module contracts",
     "url": "https://github.com/havaianasdestruido/steamlogger/commit/42a8dbd8c7833c1dfebaca6544170e41437a1686"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "main",
+    "sha": "a6cffcdb574358815ef32e3b1abbc34ac7445383",
+    "sha_short": "a6cffcd",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-15T20:43:10Z",
+    "message": "Merge pull request #8 from havaianasdestruido/bolt-stream-json-reads-13118641453970075006",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/a6cffcdb574358815ef32e3b1abbc34ac7445383"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "main",
+    "sha": "4f7ea86d31819091f1db87b9c84d7ab8abe4c4f5",
+    "sha_short": "4f7ea86",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-15T20:40:58Z",
+    "message": "⚡ Bolt: Stream JSON log reads to reduce peak memory",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/4f7ea86d31819091f1db87b9c84d7ab8abe4c4f5"
   },
   {
     "repo": "steamlogger",
@@ -38788,26 +38968,6 @@
     "date": "2026-10-02T19:40:17Z",
     "message": "[ImgBot] Optimize images",
     "url": "https://github.com/havaianasdestruido/steamlogger/commit/d675d2e036341813334584f40cf43b5e50feea04"
-  },
-  {
-    "repo": "steamlogger",
-    "branch": "main",
-    "sha": "5f67195168a42c86a6114f030a77ed7851c33eae",
-    "sha_short": "5f67195",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-02T19:39:57Z",
-    "message": "Merge pull request #2 from havaianasdestruido/arena/01a0fd79-steamlogger",
-    "url": "https://github.com/havaianasdestruido/steamlogger/commit/5f67195168a42c86a6114f030a77ed7851c33eae"
-  },
-  {
-    "repo": "steamlogger",
-    "branch": "main",
-    "sha": "ed8f729bf205f73fd6ae9e02b7fcaebf9943d8d0",
-    "sha_short": "ed8f729",
-    "author": "havaianasdestruido",
-    "date": "2026-10-02T19:32:23Z",
-    "message": "docs: address review feedback on the documentation site",
-    "url": "https://github.com/havaianasdestruido/steamlogger/commit/ed8f729bf205f73fd6ae9e02b7fcaebf9943d8d0"
   },
   {
     "repo": "terminal-win7",
@@ -40771,6 +40931,106 @@
   },
   {
     "repo": "Win7Defender-Decomp",
+    "branch": "arena/4e15e46d-win7defender-decomp",
+    "sha": "57793fc99f345438aae96dc954eeb9ef0b145056",
+    "sha_short": "57793fc",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:46:58Z",
+    "message": "test: cover governance gate bypasses",
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/commit/57793fc99f345438aae96dc954eeb9ef0b145056"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
+    "branch": "arena/4e15e46d-win7defender-decomp",
+    "sha": "d1923aaf954f53ce2e667370b539749e9ef31842",
+    "sha_short": "d1923aa",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:44:49Z",
+    "message": "fix: reject RVA leakage from clean specifications",
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/commit/d1923aaf954f53ce2e667370b539749e9ef31842"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
+    "branch": "arena/4e15e46d-win7defender-decomp",
+    "sha": "f25bb543634dc79a56beddb039eb76082d3c8359",
+    "sha_short": "f25bb54",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:44:10Z",
+    "message": "fix: export only the requested release batch",
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/commit/f25bb543634dc79a56beddb039eb76082d3c8359"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
+    "branch": "arena/4e15e46d-win7defender-decomp",
+    "sha": "5a68a727208877aac8ea88fe7ee682f11714a74c",
+    "sha_short": "5a68a72",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:43:44Z",
+    "message": "fix: anchor immutable inputs and governance history",
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/commit/5a68a727208877aac8ea88fe7ee682f11714a74c"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
+    "branch": "arena/4e15e46d-win7defender-decomp",
+    "sha": "8638ad1c85f91e051d6738dab3b35cc2de563812",
+    "sha_short": "8638ad1",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:42:37Z",
+    "message": "fix: scan every implementation handoff file",
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/commit/8638ad1c85f91e051d6738dab3b35cc2de563812"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
+    "branch": "arena/4e15e46d-win7defender-decomp",
+    "sha": "cdc3c3fe2db7394b80a7a874bf415762aeae109c",
+    "sha_short": "cdc3c3f",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:41:13Z",
+    "message": "fix: enforce registered independent release approvers",
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/commit/cdc3c3fe2db7394b80a7a874bf415762aeae109c"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
+    "branch": "arena/4e15e46d-win7defender-decomp",
+    "sha": "a0545135109306397a3d3a78f0ce662d5daaf5f1",
+    "sha_short": "a054513",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:40:15Z",
+    "message": "fix: validate complete ESF specification schemas",
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/commit/a0545135109306397a3d3a78f0ce662d5daaf5f1"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
+    "branch": "arena/4e15e46d-win7defender-decomp",
+    "sha": "544997e7225877e5b5a921243f792dc0146215bf",
+    "sha_short": "544997e",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:27:20Z",
+    "message": "docs: mark every Phase 0 task complete",
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/commit/544997e7225877e5b5a921243f792dc0146215bf"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
+    "branch": "arena/4e15e46d-win7defender-decomp",
+    "sha": "35f5c183a872f100b3e1b1fb41d099b0a388e287",
+    "sha_short": "35f5c18",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:27:17Z",
+    "message": "docs: publish the Phase 0 governance baseline",
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/commit/35f5c183a872f100b3e1b1fb41d099b0a388e287"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
+    "branch": "arena/4e15e46d-win7defender-decomp",
+    "sha": "60797b9cf6404447f657373142e03f2686fc0dc7",
+    "sha_short": "60797b9",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:26:31Z",
+    "message": "chore: require review for governance-sensitive changes",
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/commit/60797b9cf6404447f657373142e03f2686fc0dc7"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
     "branch": "main",
     "sha": "402fd4ff6fa1dffe6d76d99a15645ec87eb490c6",
     "sha_short": "402fd4f",
@@ -40911,6 +41171,126 @@
   },
   {
     "repo": "Win7IE-Decomp",
+    "branch": "arena/4b004e63-win7ie-decomp",
+    "sha": "a118deb7589f1a652eced1de2687ba0135fb948e",
+    "sha_short": "a118deb",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:34:00Z",
+    "message": "docs: note Security directory file-offset semantics",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/a118deb7589f1a652eced1de2687ba0135fb948e"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "arena/4b004e63-win7ie-decomp",
+    "sha": "413088f8bdf58ee1cf3854a7bd66ae85f0a8b8d0",
+    "sha_short": "413088f",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:34:00Z",
+    "message": "fix: verify generated records against the live corpus",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/413088f8bdf58ee1cf3854a7bd66ae85f0a8b8d0"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "arena/4b004e63-win7ie-decomp",
+    "sha": "3a9b62343855eade4172659dfa76e7add0f5938d",
+    "sha_short": "3a9b623",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:34:00Z",
+    "message": "fix: regenerate ledgers with Security as a file offset",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/3a9b62343855eade4172659dfa76e7add0f5938d"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "arena/4b004e63-win7ie-decomp",
+    "sha": "b33eed755969737a880c7951cd3af337119afbda",
+    "sha_short": "b33eed7",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:33:55Z",
+    "message": "feat: label data-directory address kinds in module ledgers",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/b33eed755969737a880c7951cd3af337119afbda"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "arena/4b004e63-win7ie-decomp",
+    "sha": "7c0c4e8be0ca3505a2ca8ee3b243ecb0fadc36e6",
+    "sha_short": "7c0c4e8",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:33:55Z",
+    "message": "test: lock certificate offset and PE32+ thunk masking",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/7c0c4e8be0ca3505a2ca8ee3b243ecb0fadc36e6"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "arena/4b004e63-win7ie-decomp",
+    "sha": "90d864919d328d135e60754dafd29308f036650a",
+    "sha_short": "90d8649",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:33:55Z",
+    "message": "fix: more accurate PE directory and import-thunk parsing",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/90d864919d328d135e60754dafd29308f036650a"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "arena/4b004e63-win7ie-decomp",
+    "sha": "f28f6de88a143f83bf5682483b12356cc96fb2ef",
+    "sha_short": "f28f6de",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:22:25Z",
+    "message": "fix: also verify RSDS coverage and inventory kinds",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/f28f6de88a143f83bf5682483b12356cc96fb2ef"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "arena/4b004e63-win7ie-decomp",
+    "sha": "c972c4f1c3d6c5627d113bb73ce3fc31b5d58142",
+    "sha_short": "c972c4f",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:22:15Z",
+    "message": "docs: list Phase 0 tooling in the repository map",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/c972c4f1c3d6c5627d113bb73ce3fc31b5d58142"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "arena/4b004e63-win7ie-decomp",
+    "sha": "188efe6ab49379aa1c2345461a1b2d8841956637",
+    "sha_short": "188efe6",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:22:15Z",
+    "message": "docs: record the completed Phase 0 evidence paths",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/188efe6ab49379aa1c2345461a1b2d8841956637"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "arena/4b004e63-win7ie-decomp",
+    "sha": "6887df24475ff0caea3539017df57b5d09fa4fae",
+    "sha_short": "6887df2",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:21:52Z",
+    "message": "docs: summarize the hardened Phase 0 structural baseline",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/6887df24475ff0caea3539017df57b5d09fa4fae"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "arena/4b004e63-win7ie-decomp",
+    "sha": "197da282509a2b333f54775342dda9c81081428e",
+    "sha_short": "197da28",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-14T21:21:15Z",
+    "message": "moved binaries to bin/",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/197da282509a2b333f54775342dda9c81081428e"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "arena/4b004e63-win7ie-decomp",
+    "sha": "baf734f37276e1abe720bebda2896dff53c380ca",
+    "sha_short": "baf734f",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-14T21:18:23Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/baf734f37276e1abe720bebda2896dff53c380ca"
+  },
+  {
+    "repo": "Win7IE-Decomp",
     "branch": "arena/70be0488-win7ie-decomp",
     "sha": "4cb893965dc119e75fe985f5a585f3315851c403",
     "sha_short": "4cb8939",
@@ -40992,32 +41372,102 @@
   {
     "repo": "Win7IE-Decomp",
     "branch": "main",
-    "sha": "e1f0ac7a9889cf101e856e563bc7625e8f16ebe5",
-    "sha_short": "e1f0ac7",
+    "sha": "dd47d522a666befbf33b5ce52e332176a1c9092e",
+    "sha_short": "dd47d52",
     "author": "PatoFlamejanteTV",
-    "date": "2026-10-15T16:14:07Z",
-    "message": "Merge pull request #2 from havaianasdestruido/arena/660ff212-win7ie-decomp",
-    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/e1f0ac7a9889cf101e856e563bc7625e8f16ebe5"
+    "date": "2026-10-15T20:45:30Z",
+    "message": "Merge pull request #3 from havaianasdestruido/arena/4b004e63-win7ie-decomp",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/dd47d522a666befbf33b5ce52e332176a1c9092e"
   },
   {
     "repo": "Win7IE-Decomp",
     "branch": "main",
-    "sha": "c80512d069dc5e98604570ffc379aa9edd8010bd",
-    "sha_short": "c80512d",
+    "sha": "a118deb7589f1a652eced1de2687ba0135fb948e",
+    "sha_short": "a118deb",
     "author": "havaianasdestruido",
-    "date": "2026-10-15T15:45:57Z",
-    "message": "docs: add phased 1:1 clean-room decompilation TODO roadmap and root README",
-    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/c80512d069dc5e98604570ffc379aa9edd8010bd"
+    "date": "2026-10-15T20:34:00Z",
+    "message": "docs: note Security directory file-offset semantics",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/a118deb7589f1a652eced1de2687ba0135fb948e"
   },
   {
     "repo": "Win7IE-Decomp",
     "branch": "main",
-    "sha": "b4d472ce2fec0a02dba4452c1462ea8bbb915385",
-    "sha_short": "b4d472c",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-14T22:33:47Z",
-    "message": "Merge pull request #1 from havaianasdestruido/arena/70be0488-win7ie-decomp",
-    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/b4d472ce2fec0a02dba4452c1462ea8bbb915385"
+    "sha": "413088f8bdf58ee1cf3854a7bd66ae85f0a8b8d0",
+    "sha_short": "413088f",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:34:00Z",
+    "message": "fix: verify generated records against the live corpus",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/413088f8bdf58ee1cf3854a7bd66ae85f0a8b8d0"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "main",
+    "sha": "3a9b62343855eade4172659dfa76e7add0f5938d",
+    "sha_short": "3a9b623",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:34:00Z",
+    "message": "fix: regenerate ledgers with Security as a file offset",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/3a9b62343855eade4172659dfa76e7add0f5938d"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "main",
+    "sha": "b33eed755969737a880c7951cd3af337119afbda",
+    "sha_short": "b33eed7",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:33:55Z",
+    "message": "feat: label data-directory address kinds in module ledgers",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/b33eed755969737a880c7951cd3af337119afbda"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "main",
+    "sha": "7c0c4e8be0ca3505a2ca8ee3b243ecb0fadc36e6",
+    "sha_short": "7c0c4e8",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:33:55Z",
+    "message": "test: lock certificate offset and PE32+ thunk masking",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/7c0c4e8be0ca3505a2ca8ee3b243ecb0fadc36e6"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "main",
+    "sha": "90d864919d328d135e60754dafd29308f036650a",
+    "sha_short": "90d8649",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:33:55Z",
+    "message": "fix: more accurate PE directory and import-thunk parsing",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/90d864919d328d135e60754dafd29308f036650a"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "main",
+    "sha": "f28f6de88a143f83bf5682483b12356cc96fb2ef",
+    "sha_short": "f28f6de",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:22:25Z",
+    "message": "fix: also verify RSDS coverage and inventory kinds",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/f28f6de88a143f83bf5682483b12356cc96fb2ef"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "main",
+    "sha": "c972c4f1c3d6c5627d113bb73ce3fc31b5d58142",
+    "sha_short": "c972c4f",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:22:15Z",
+    "message": "docs: list Phase 0 tooling in the repository map",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/c972c4f1c3d6c5627d113bb73ce3fc31b5d58142"
+  },
+  {
+    "repo": "Win7IE-Decomp",
+    "branch": "main",
+    "sha": "188efe6ab49379aa1c2345461a1b2d8841956637",
+    "sha_short": "188efe6",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:22:15Z",
+    "message": "docs: record the completed Phase 0 evidence paths",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/188efe6ab49379aa1c2345461a1b2d8841956637"
   },
   {
     "repo": "Win7IE-Decomp",
@@ -41048,6 +41498,16 @@
     "date": "2026-10-14T21:18:23Z",
     "message": "Initial commit",
     "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/baf734f37276e1abe720bebda2896dff53c380ca"
+  },
+  {
+    "repo": "Win7MediaCenter-Decomp",
+    "branch": "main",
+    "sha": "39d5c47865b1954e967ba1adc074bd93aa6c431d",
+    "sha_short": "39d5c47",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-15T20:11:47Z",
+    "message": "Initial commit",
+    "url": "https://github.com/havaianasdestruido/Win7MediaCenter-Decomp/commit/39d5c47865b1954e967ba1adc074bd93aa6c431d"
   },
   {
     "repo": "Win7MediaPlayer",
@@ -41071,6 +41531,106 @@
   },
   {
     "repo": "Win7MediaPlayer-Decomp",
+    "branch": "arena/c9aabba7-win7mediaplayer-decomp",
+    "sha": "fee659678210dfae125194b4164891d872905df0",
+    "sha_short": "fee6596",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:36:49Z",
+    "message": "feat: add --check-only flag to manifest_verify.py and phase0_check.py",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/fee659678210dfae125194b4164891d872905df0"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "branch": "arena/c9aabba7-win7mediaplayer-decomp",
+    "sha": "ba5352966d1b14e8a68a21cb2416906545d197b8",
+    "sha_short": "ba53529",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:36:06Z",
+    "message": "docs: reference Phase 0 deliverables and manifest verification in final-report.md",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/ba5352966d1b14e8a68a21cb2416906545d197b8"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "branch": "arena/c9aabba7-win7mediaplayer-decomp",
+    "sha": "f3840bfe3366731553427dd3340c808cd4da7ce8",
+    "sha_short": "f3840bf",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:35:51Z",
+    "message": "docs: update Check D and provenance verification details in validation.md",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/f3840bfe3366731553427dd3340c808cd4da7ce8"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "branch": "arena/c9aabba7-win7mediaplayer-decomp",
+    "sha": "f82798e4dbbb9be3dfa2dec7d89aabd44db48d78",
+    "sha_short": "f82798e",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:35:21Z",
+    "message": "docs: record Phase 0 completion and metrics in progress.md",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/f82798e4dbbb9be3dfa2dec7d89aabd44db48d78"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "branch": "arena/c9aabba7-win7mediaplayer-decomp",
+    "sha": "2c5e720a8c18769e8462badaff69b4d669d4461e",
+    "sha_short": "2c5e720",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:35:00Z",
+    "message": "docs: document Phase 0 methodology and GCC host compiler version in methodology.md",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/2c5e720a8c18769e8462badaff69b4d669d4461e"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "branch": "arena/c9aabba7-win7mediaplayer-decomp",
+    "sha": "4f6c9b5e2692f0e70b42d4c0bfa1c56b83e4951a",
+    "sha_short": "4f6c9b5",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:34:18Z",
+    "message": "docs: add Phase 0 scripts, reports, and setup commands to README.md",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/4f6c9b5e2692f0e70b42d4c0bfa1c56b83e4951a"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "branch": "arena/c9aabba7-win7mediaplayer-decomp",
+    "sha": "cf49b48bc3b6f650ac3cec7e5639ac50927fbd61",
+    "sha_short": "cf49b48",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:33:43Z",
+    "message": "docs: mark all Phase 0 tasks complete and document manifest verification in TODO.md",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/cf49b48bc3b6f650ac3cec7e5639ac50927fbd61"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "branch": "arena/c9aabba7-win7mediaplayer-decomp",
+    "sha": "7fa6332dec916f9e580e9347fe9c1f8790aae992",
+    "sha_short": "7fa6332",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:32:47Z",
+    "message": "docs: add Phase 0 validation report and JSON dataset",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/7fa6332dec916f9e580e9347fe9c1f8790aae992"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "branch": "arena/c9aabba7-win7mediaplayer-decomp",
+    "sha": "c46c2f640d65fe09040e343795a0080a4e00bafa",
+    "sha_short": "c46c2f6",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:32:47Z",
+    "message": "feat: add Phase 0 Markdown report generator and CLI runner to phase0_check.py",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/c46c2f640d65fe09040e343795a0080a4e00bafa"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "branch": "arena/c9aabba7-win7mediaplayer-decomp",
+    "sha": "747ee5416e1667673a34add6be8b07fd7bb99487",
+    "sha_short": "747ee54",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:31:38Z",
+    "message": "chore: refresh rea-evidence manifest.json with full provenance metadata",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/747ee5416e1667673a34add6be8b07fd7bb99487"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
     "branch": "arena/85f39eb2-win7mediaplayer-decomp",
     "sha": "d74cabd4bcdfd1c48e24a158f509500b8d3cf012",
     "sha_short": "d74cabd",
@@ -41192,92 +41752,102 @@
   {
     "repo": "Win7MediaPlayer-Decomp",
     "branch": "main",
-    "sha": "2236b782896db5825eb4348216f5d6d428b841b1",
-    "sha_short": "2236b78",
+    "sha": "77c4227ee75035d03a759c456be40280dfbd7671",
+    "sha_short": "77c4227",
     "author": "PatoFlamejanteTV",
-    "date": "2026-10-15T16:14:16Z",
-    "message": "Merge pull request #3 from havaianasdestruido/arena/94f182e7-win7mediaplayer-decomp",
-    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/2236b782896db5825eb4348216f5d6d428b841b1"
+    "date": "2026-10-15T20:42:48Z",
+    "message": "Merge pull request #4 from havaianasdestruido/arena/c9aabba7-win7mediaplayer-decomp",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/77c4227ee75035d03a759c456be40280dfbd7671"
   },
   {
     "repo": "Win7MediaPlayer-Decomp",
     "branch": "main",
-    "sha": "0ec03f68f888df2c33c80e2166939b32b38748ec",
-    "sha_short": "0ec03f6",
+    "sha": "fee659678210dfae125194b4164891d872905df0",
+    "sha_short": "fee6596",
     "author": "havaianasdestruido",
-    "date": "2026-10-15T15:46:30Z",
-    "message": "Add TODO.md and README.md for faithful 1:1 decompilation & reconstruction",
-    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/0ec03f68f888df2c33c80e2166939b32b38748ec"
+    "date": "2026-10-15T20:36:49Z",
+    "message": "feat: add --check-only flag to manifest_verify.py and phase0_check.py",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/fee659678210dfae125194b4164891d872905df0"
   },
   {
     "repo": "Win7MediaPlayer-Decomp",
     "branch": "main",
-    "sha": "aa6d9c278db2a46567f4122fa193a1a2ed9ec3ec",
-    "sha_short": "aa6d9c2",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-15T14:52:19Z",
-    "message": "Merge pull request #1 from havaianasdestruido/imgbot",
-    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/aa6d9c278db2a46567f4122fa193a1a2ed9ec3ec"
-  },
-  {
-    "repo": "Win7MediaPlayer-Decomp",
-    "branch": "main",
-    "sha": "0afecc1481a54053191406cd366bec931c0fcc21",
-    "sha_short": "0afecc1",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-15T00:22:59Z",
-    "message": "Merge pull request #2 from havaianasdestruido/arena/85f39eb2-win7mediaplayer-decomp",
-    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/0afecc1481a54053191406cd366bec931c0fcc21"
-  },
-  {
-    "repo": "Win7MediaPlayer-Decomp",
-    "branch": "main",
-    "sha": "d74cabd4bcdfd1c48e24a158f509500b8d3cf012",
-    "sha_short": "d74cabd",
+    "sha": "ba5352966d1b14e8a68a21cb2416906545d197b8",
+    "sha_short": "ba53529",
     "author": "havaianasdestruido",
-    "date": "2026-10-14T22:47:54Z",
-    "message": "Phase 6: validation, progress and final reports; per-module harness status",
-    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/d74cabd4bcdfd1c48e24a158f509500b8d3cf012"
+    "date": "2026-10-15T20:36:06Z",
+    "message": "docs: reference Phase 0 deliverables and manifest verification in final-report.md",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/ba5352966d1b14e8a68a21cb2416906545d197b8"
   },
   {
     "repo": "Win7MediaPlayer-Decomp",
     "branch": "main",
-    "sha": "5652be5d4f999abac192e2c162471ea482de7661",
-    "sha_short": "5652be5",
+    "sha": "f3840bfe3366731553427dd3340c808cd4da7ce8",
+    "sha_short": "f3840bf",
     "author": "havaianasdestruido",
-    "date": "2026-10-14T22:44:56Z",
-    "message": "Import analysis tooling, module trees and reports (work in progress snapshot)",
-    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/5652be5d4f999abac192e2c162471ea482de7661"
+    "date": "2026-10-15T20:35:51Z",
+    "message": "docs: update Check D and provenance verification details in validation.md",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/f3840bfe3366731553427dd3340c808cd4da7ce8"
   },
   {
     "repo": "Win7MediaPlayer-Decomp",
     "branch": "main",
-    "sha": "ee46ea3a69f6ec2d5d1fe6adbfe39f070bc201ea",
-    "sha_short": "ee46ea3",
-    "author": "ImgBotApp",
-    "date": "2026-10-14T21:31:57Z",
-    "message": "[ImgBot] Optimize images",
-    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/ee46ea3a69f6ec2d5d1fe6adbfe39f070bc201ea"
+    "sha": "f82798e4dbbb9be3dfa2dec7d89aabd44db48d78",
+    "sha_short": "f82798e",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:35:21Z",
+    "message": "docs: record Phase 0 completion and metrics in progress.md",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/f82798e4dbbb9be3dfa2dec7d89aabd44db48d78"
   },
   {
     "repo": "Win7MediaPlayer-Decomp",
     "branch": "main",
-    "sha": "5c564f7b1e2aa832395882fb99d4f8fc36a20470",
-    "sha_short": "5c564f7",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-14T21:27:28Z",
-    "message": "moved",
-    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/5c564f7b1e2aa832395882fb99d4f8fc36a20470"
+    "sha": "2c5e720a8c18769e8462badaff69b4d669d4461e",
+    "sha_short": "2c5e720",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:35:00Z",
+    "message": "docs: document Phase 0 methodology and GCC host compiler version in methodology.md",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/2c5e720a8c18769e8462badaff69b4d669d4461e"
   },
   {
     "repo": "Win7MediaPlayer-Decomp",
     "branch": "main",
-    "sha": "7808d470f3e3392b8e42217d7aa4a9990ff3e37a",
-    "sha_short": "7808d47",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-14T21:18:55Z",
-    "message": "Initial commit",
-    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/7808d470f3e3392b8e42217d7aa4a9990ff3e37a"
+    "sha": "4f6c9b5e2692f0e70b42d4c0bfa1c56b83e4951a",
+    "sha_short": "4f6c9b5",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:34:18Z",
+    "message": "docs: add Phase 0 scripts, reports, and setup commands to README.md",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/4f6c9b5e2692f0e70b42d4c0bfa1c56b83e4951a"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "branch": "main",
+    "sha": "cf49b48bc3b6f650ac3cec7e5639ac50927fbd61",
+    "sha_short": "cf49b48",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:33:43Z",
+    "message": "docs: mark all Phase 0 tasks complete and document manifest verification in TODO.md",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/cf49b48bc3b6f650ac3cec7e5639ac50927fbd61"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "branch": "main",
+    "sha": "7fa6332dec916f9e580e9347fe9c1f8790aae992",
+    "sha_short": "7fa6332",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:32:47Z",
+    "message": "docs: add Phase 0 validation report and JSON dataset",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/7fa6332dec916f9e580e9347fe9c1f8790aae992"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "branch": "main",
+    "sha": "c46c2f640d65fe09040e343795a0080a4e00bafa",
+    "sha_short": "c46c2f6",
+    "author": "havaianasdestruido",
+    "date": "2026-10-15T20:32:47Z",
+    "message": "feat: add Phase 0 Markdown report generator and CLI runner to phase0_check.py",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/c46c2f640d65fe09040e343795a0080a4e00bafa"
   },
   {
     "repo": "Win7MSSQLSrv",
