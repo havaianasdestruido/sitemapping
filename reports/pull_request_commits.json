@@ -1281,6 +1281,14 @@
   },
   {
     "repo": "BloodAndBacon-DnSpyEx",
+    "pr_number": 6,
+    "sha": "71b716ec23a155a4bb15b29d4e6a9605bc8b03f7",
+    "sha_short": "71b716e",
+    "message": "Optimize distance calculations in rock physics interaction",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/71b716ec23a155a4bb15b29d4e6a9605bc8b03f7"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
     "pr_number": 5,
     "sha": "ec269c552d6c693e0d29abba3578b77c7625beff",
     "sha_short": "ec269c5",
@@ -2129,6 +2137,14 @@
   },
   {
     "repo": "neo-nt5",
+    "pr_number": 2,
+    "sha": "4d802d54e5ca305cd0ddf9b2927f1bbd10beaf70",
+    "sha_short": "4d802d5",
+    "message": "Keep only system-exposed branding changes (SMSS OS env var + build toggle)",
+    "url": "https://github.com/havaianasdestruido/neo-nt5/commit/4d802d54e5ca305cd0ddf9b2927f1bbd10beaf70"
+  },
+  {
+    "repo": "neo-nt5",
     "pr_number": 1,
     "sha": "70712687c7cceef6d2b8899286700a3667284b95",
     "sha_short": "7071268",
@@ -2542,6 +2558,14 @@
     "sha_short": "0fbaa8c",
     "message": "fix(bercos): endurece migracao 001 (constraints, idempotencia, pre-requisitos) apos revisao",
     "url": "https://github.com/havaianasdestruido/Projeto-TCC/commit/0fbaa8c2b5257cd66fcf54275a7b5ab9563826bf"
+  },
+  {
+    "repo": "PWSV",
+    "pr_number": 6,
+    "sha": "b06460935d4dfe96b44003eaf5751c7ebe9b2694",
+    "sha_short": "b064609",
+    "message": "⚡ Bolt: Cache parameter pointers to avoid string lookups in audio thread",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/b06460935d4dfe96b44003eaf5751c7ebe9b2694"
   },
   {
     "repo": "PWSV",

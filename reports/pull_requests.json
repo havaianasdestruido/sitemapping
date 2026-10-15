@@ -430,8 +430,8 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 14,
     "title": "docs: expand phased 1:1 clean-room TODO plan and add phase table to README",
     "user": "havaianasdestruido",
@@ -1129,6 +1129,19 @@
     "head_branch": "vercel/install-vercel-speed-insights-ftzuun",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/AudioTaste/pull/1"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "state": "open",
+    "status": "open",
+    "number": 6,
+    "title": "⚡ Bolt: [performance improvement] optimize distance calculations in rockstruct",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-15T16:15:48Z",
+    "base_branch": "main",
+    "head_branch": "bolt-optimize-rockstruct-distance-4449192366516837174",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/pull/6"
   },
   {
     "repo": "BloodAndBacon-DnSpyEx",
@@ -2016,6 +2029,19 @@
   },
   {
     "repo": "neo-nt5",
+    "state": "open",
+    "status": "open",
+    "number": 2,
+    "title": "Rebrand codebase to NEONT and add system branding toggle",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-15T16:16:51Z",
+    "base_branch": "main",
+    "head_branch": "arena/4126b2e2-neo-nt5",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/neo-nt5/pull/2"
+  },
+  {
+    "repo": "neo-nt5",
     "state": "closed",
     "status": "merged",
     "number": 1,
@@ -2497,6 +2523,19 @@
   },
   {
     "repo": "PWSV",
+    "state": "open",
+    "status": "open",
+    "number": 6,
+    "title": "⚡ Bolt: Cache parameter pointers to avoid string lookups in audio thread",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-15T19:28:14Z",
+    "base_branch": "main",
+    "head_branch": "bolt-cache-parameter-pointers-4448434025158655151",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/PWSV/pull/6"
+  },
+  {
+    "repo": "PWSV",
     "state": "closed",
     "status": "merged",
     "number": 5,
@@ -2874,8 +2913,8 @@
   },
   {
     "repo": "Win7Defender-Decomp",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 2,
     "title": "Add phased reconstruction TODO list and root README",
     "user": "havaianasdestruido",
@@ -2913,8 +2952,8 @@
   },
   {
     "repo": "Win7IE-Decomp",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 2,
     "title": "docs: add phased 1:1 clean-room decompilation TODO roadmap and root README",
     "user": "havaianasdestruido",
@@ -2939,8 +2978,8 @@
   },
   {
     "repo": "Win7MediaPlayer-Decomp",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 3,
     "title": "Add TODO.md and README.md for faithful 1:1 decompilation & reconstruction",
     "user": "havaianasdestruido",
