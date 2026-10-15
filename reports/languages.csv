@@ -109,7 +109,7 @@ sitemapping,JavaScript,61132,37.3
 sitemapping,Python,51362,31.3
 sitemapping,HTML,26709,16.3
 sitemapping,CSS,24836,15.1
-top100,HTML,4872203,93.5
+top100,HTML,4872201,93.5
 top100,Python,170108,3.3
 top100,JavaScript,161810,3.1
 top100,CSS,6452,0.1
@@ -411,7 +411,7 @@ PWSV,Batchfile,4421,4.5
 PWSV,CMake,3431,3.5
 PWSV,Ruby,78,0.1
 Quack3DMM,SWIG,28864788,77.3
-Quack3DMM,C++,6862440,18.4
+Quack3DMM,C++,6862596,18.4
 Quack3DMM,C,1495027,4.0
 Quack3DMM,Makefile,84917,0.2
 Quack3DMM,CMake,30766,0.1
@@ -483,3 +483,9 @@ Win7IE-Decomp,Rich Text Format,235189,94.9
 Win7IE-Decomp,Python,6887,2.8
 Win7IE-Decomp,C,5205,2.1
 Win7IE-Decomp,TeX,464,0.2
+Win7MediaPlayer-Decomp,C,4920516,81.3
+Win7MediaPlayer-Decomp,Assembly,799429,13.2
+Win7MediaPlayer-Decomp,Python,288422,4.8
+Win7MediaPlayer-Decomp,CMake,25114,0.4
+Win7MediaPlayer-Decomp,JavaScript,15900,0.3
+Win7MediaPlayer-Decomp,Shell,1275,0.0

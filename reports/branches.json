@@ -442,8 +442,8 @@
   {
     "repo": "sitemapping",
     "name": "main",
-    "head_sha": "78ca1c8fb89df6aaf1223d898b780b6268fa852d",
-    "head_sha_short": "78ca1c8",
+    "head_sha": "7f0927d0707363516367572071ed264d22915c35",
+    "head_sha_short": "7f0927d",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/sitemapping/tree/main"
   },
@@ -458,8 +458,8 @@
   {
     "repo": "top100",
     "name": "main",
-    "head_sha": "da38af906b078eb25dc2aa7470142d2886bfc0b0",
-    "head_sha_short": "da38af9",
+    "head_sha": "6c969157db6eabc78e95f86136c8ba34f087511d",
+    "head_sha_short": "6c96915",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/top100/tree/main"
   },
@@ -858,8 +858,8 @@
   {
     "repo": "eleicoes-data",
     "name": "main",
-    "head_sha": "a4128c414b0a2824765cc41d05c2dbff46cb7132",
-    "head_sha_short": "a4128c4",
+    "head_sha": "855baa7afcd9e2f4a066515f3835a4f83ab7da2e",
+    "head_sha_short": "855baa7",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/eleicoes-data/tree/main"
   },
@@ -1890,8 +1890,8 @@
   {
     "repo": "Quack3DMM",
     "name": "main",
-    "head_sha": "4f1ddc23a6447fea0ad2ec405d377b61da2e566e",
-    "head_sha_short": "4f1ddc2",
+    "head_sha": "1baeedc1b71d0bc3ec036c3e1f4263c4c7999fd9",
+    "head_sha_short": "1baeedc",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/Quack3DMM/tree/main"
   },
@@ -2266,8 +2266,8 @@
   {
     "repo": "Win7MediaPlayer-Decomp",
     "name": "main",
-    "head_sha": "5c564f7b1e2aa832395882fb99d4f8fc36a20470",
-    "head_sha_short": "5c564f7",
+    "head_sha": "0afecc1481a54053191406cd366bec931c0fcc21",
+    "head_sha_short": "0afecc1",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/tree/main"
   },

@@ -2889,6 +2889,14 @@
   },
   {
     "repo": "Win7MediaPlayer-Decomp",
+    "pr_number": 1,
+    "sha": "ee46ea3a69f6ec2d5d1fe6adbfe39f070bc201ea",
+    "sha_short": "ee46ea3",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/ee46ea3a69f6ec2d5d1fe6adbfe39f070bc201ea"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
     "pr_number": 2,
     "sha": "5652be5d4f999abac192e2c162471ea482de7661",
     "sha_short": "5652be5",
@@ -2902,13 +2910,5 @@
     "sha_short": "d74cabd",
     "message": "Phase 6: validation, progress and final reports; per-module harness status",
     "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/d74cabd4bcdfd1c48e24a158f509500b8d3cf012"
-  },
-  {
-    "repo": "Win7MediaPlayer-Decomp",
-    "pr_number": 1,
-    "sha": "ee46ea3a69f6ec2d5d1fe6adbfe39f070bc201ea",
-    "sha_short": "ee46ea3",
-    "message": "[ImgBot] Optimize images",
-    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/ee46ea3a69f6ec2d5d1fe6adbfe39f070bc201ea"
   }
 ]

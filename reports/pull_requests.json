@@ -2549,8 +2549,8 @@
   },
   {
     "repo": "Quack3DMM",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 7,
     "title": "⚡ Bolt: Optimize ITool ID comparisons",
     "user": "havaianasdestruido",
@@ -2902,19 +2902,6 @@
     "repo": "Win7MediaPlayer-Decomp",
     "state": "open",
     "status": "open",
-    "number": 2,
-    "title": "Clean-room reverse engineering of the Windows Media Player 12 / Windows 7 binary set",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-14T22:50:42Z",
-    "base_branch": "main",
-    "head_branch": "arena/85f39eb2-win7mediaplayer-decomp",
-    "commit_count": 2,
-    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/pull/2"
-  },
-  {
-    "repo": "Win7MediaPlayer-Decomp",
-    "state": "open",
-    "status": "open",
     "number": 1,
     "title": "[ImgBot] Optimize images",
     "user": "imgbot[bot]",
@@ -2923,5 +2910,18 @@
     "head_branch": "imgbot",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/pull/1"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "state": "closed",
+    "status": "merged",
+    "number": 2,
+    "title": "Clean-room reverse engineering of the Windows Media Player 12 / Windows 7 binary set",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-14T22:50:42Z",
+    "base_branch": "main",
+    "head_branch": "arena/85f39eb2-win7mediaplayer-decomp",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/pull/2"
   }
 ]

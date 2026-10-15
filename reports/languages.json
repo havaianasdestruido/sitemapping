@@ -662,7 +662,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 4872203,
+    "bytes": 4872201,
     "percent": 93.5
   },
   {
@@ -2474,7 +2474,7 @@
   {
     "repo": "Quack3DMM",
     "language": "C++",
-    "bytes": 6862440,
+    "bytes": 6862596,
     "percent": 18.4
   },
   {
@@ -2902,5 +2902,41 @@
     "language": "TeX",
     "bytes": 464,
     "percent": 0.2
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "language": "C",
+    "bytes": 4920516,
+    "percent": 81.3
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "language": "Assembly",
+    "bytes": 799429,
+    "percent": 13.2
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "language": "Python",
+    "bytes": 288422,
+    "percent": 4.8
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "language": "CMake",
+    "bytes": 25114,
+    "percent": 0.4
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "language": "JavaScript",
+    "bytes": 15900,
+    "percent": 0.3
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "language": "Shell",
+    "bytes": 1275,
+    "percent": 0.0
   }
 ]
