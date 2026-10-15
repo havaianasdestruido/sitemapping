@@ -545,6 +545,14 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 14,
+    "sha": "90a48ce1bdf99197d7e7c42c819e2072c2c471d4",
+    "sha_short": "90a48ce",
+    "message": "docs: refine phased 1:1 clean-room TODO plan and cite phase table in README",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/90a48ce1bdf99197d7e7c42c819e2072c2c471d4"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
     "pr_number": 13,
     "sha": "400c50e752e5d832ee9e94952396c886aab9e65a",
     "sha_short": "400c50e",
@@ -2865,6 +2873,14 @@
   },
   {
     "repo": "Win7Defender-Decomp",
+    "pr_number": 2,
+    "sha": "7c14b790928a4bf54a7f7ef82182ea94e4af7c4f",
+    "sha_short": "7c14b79",
+    "message": "Add phased reconstruction TODO list and root README",
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/commit/7c14b790928a4bf54a7f7ef82182ea94e4af7c4f"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
     "pr_number": 1,
     "sha": "be92b823308b4792b70ac93503d879aac46c078f",
     "sha_short": "be92b82",
@@ -2881,6 +2897,14 @@
   },
   {
     "repo": "Win7IE-Decomp",
+    "pr_number": 2,
+    "sha": "c80512d069dc5e98604570ffc379aa9edd8010bd",
+    "sha_short": "c80512d",
+    "message": "docs: add phased 1:1 clean-room decompilation TODO roadmap and root README",
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/commit/c80512d069dc5e98604570ffc379aa9edd8010bd"
+  },
+  {
+    "repo": "Win7IE-Decomp",
     "pr_number": 1,
     "sha": "4cb893965dc119e75fe985f5a585f3315851c403",
     "sha_short": "4cb8939",
@@ -2889,11 +2913,11 @@
   },
   {
     "repo": "Win7MediaPlayer-Decomp",
-    "pr_number": 1,
-    "sha": "ee46ea3a69f6ec2d5d1fe6adbfe39f070bc201ea",
-    "sha_short": "ee46ea3",
-    "message": "[ImgBot] Optimize images",
-    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/ee46ea3a69f6ec2d5d1fe6adbfe39f070bc201ea"
+    "pr_number": 3,
+    "sha": "0ec03f68f888df2c33c80e2166939b32b38748ec",
+    "sha_short": "0ec03f6",
+    "message": "Add TODO.md and README.md for faithful 1:1 decompilation & reconstruction",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/0ec03f68f888df2c33c80e2166939b32b38748ec"
   },
   {
     "repo": "Win7MediaPlayer-Decomp",
@@ -2910,5 +2934,13 @@
     "sha_short": "d74cabd",
     "message": "Phase 6: validation, progress and final reports; per-module harness status",
     "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/d74cabd4bcdfd1c48e24a158f509500b8d3cf012"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "pr_number": 1,
+    "sha": "ee46ea3a69f6ec2d5d1fe6adbfe39f070bc201ea",
+    "sha_short": "ee46ea3",
+    "message": "[ImgBot] Optimize images",
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/commit/ee46ea3a69f6ec2d5d1fe6adbfe39f070bc201ea"
   }
 ]

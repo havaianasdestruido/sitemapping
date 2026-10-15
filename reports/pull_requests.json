@@ -430,6 +430,19 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
+    "state": "open",
+    "status": "open",
+    "number": 14,
+    "title": "docs: expand phased 1:1 clean-room TODO plan and add phase table to README",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-15T15:46:10Z",
+    "base_branch": "main",
+    "head_branch": "arena/3e856fbd-windowsmoviemakerdecomp",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/pull/14"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
     "state": "closed",
     "status": "merged",
     "number": 13,
@@ -2861,6 +2874,19 @@
   },
   {
     "repo": "Win7Defender-Decomp",
+    "state": "open",
+    "status": "open",
+    "number": 2,
+    "title": "Add phased reconstruction TODO list and root README",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-15T15:47:30Z",
+    "base_branch": "main",
+    "head_branch": "arena/1e247788-win7defender-decomp",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/Win7Defender-Decomp/pull/2"
+  },
+  {
+    "repo": "Win7Defender-Decomp",
     "state": "closed",
     "status": "merged",
     "number": 1,
@@ -2887,6 +2913,19 @@
   },
   {
     "repo": "Win7IE-Decomp",
+    "state": "open",
+    "status": "open",
+    "number": 2,
+    "title": "docs: add phased 1:1 clean-room decompilation TODO roadmap and root README",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-15T15:46:09Z",
+    "base_branch": "main",
+    "head_branch": "arena/660ff212-win7ie-decomp",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/Win7IE-Decomp/pull/2"
+  },
+  {
+    "repo": "Win7IE-Decomp",
     "state": "closed",
     "status": "merged",
     "number": 1,
@@ -2902,14 +2941,14 @@
     "repo": "Win7MediaPlayer-Decomp",
     "state": "open",
     "status": "open",
-    "number": 1,
-    "title": "[ImgBot] Optimize images",
-    "user": "imgbot[bot]",
-    "created_at": "2026-10-14T21:32:33Z",
+    "number": 3,
+    "title": "Add TODO.md and README.md for faithful 1:1 decompilation & reconstruction",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-15T15:46:40Z",
     "base_branch": "main",
-    "head_branch": "imgbot",
+    "head_branch": "arena/94f182e7-win7mediaplayer-decomp",
     "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/pull/1"
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/pull/3"
   },
   {
     "repo": "Win7MediaPlayer-Decomp",
@@ -2923,5 +2962,18 @@
     "head_branch": "arena/85f39eb2-win7mediaplayer-decomp",
     "commit_count": 2,
     "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/pull/2"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "state": "closed",
+    "status": "merged",
+    "number": 1,
+    "title": "[ImgBot] Optimize images",
+    "user": "imgbot[bot]",
+    "created_at": "2026-10-14T21:32:33Z",
+    "base_branch": "main",
+    "head_branch": "imgbot",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/Win7MediaPlayer-Decomp/pull/1"
   }
 ]

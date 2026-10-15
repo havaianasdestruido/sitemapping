@@ -290,7 +290,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 111,
+    "contributions": 112,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -302,7 +302,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 133,
+    "contributions": 134,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -878,7 +878,7 @@
   {
     "repo": "eleicoes-data",
     "login": "github-actions[bot]",
-    "contributions": 45,
+    "contributions": 47,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -2390,8 +2390,14 @@
   {
     "repo": "Win7MediaPlayer-Decomp",
     "login": "havaianasdestruido",
-    "contributions": 5,
+    "contributions": 6,
     "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
+    "repo": "Win7MediaPlayer-Decomp",
+    "login": "ImgBotApp",
+    "contributions": 1,
+    "profile_url": "https://github.com/ImgBotApp"
   },
   {
     "repo": "Win7MSSQLSrv",
