@@ -1689,6 +1689,38 @@
   },
   {
     "repo": "estudos",
+    "pr_number": 5,
+    "sha": "73990a32d625923edbe07bdd1b0c88cb98761101",
+    "sha_short": "73990a3",
+    "message": "chore: categoriza notebooks de física em subpastas",
+    "url": "https://github.com/havaianasdestruido/estudos/commit/73990a32d625923edbe07bdd1b0c88cb98761101"
+  },
+  {
+    "repo": "estudos",
+    "pr_number": 5,
+    "sha": "b43069e2bd79ae7d8d193a98ddaf557808d70307",
+    "sha_short": "b43069e",
+    "message": "Merge branch 'main' into arena/eb37ebcc-estudos",
+    "url": "https://github.com/havaianasdestruido/estudos/commit/b43069e2bd79ae7d8d193a98ddaf557808d70307"
+  },
+  {
+    "repo": "estudos",
+    "pr_number": 4,
+    "sha": "d0b7c1f477d56befcfd23082df4ad2b318d3b7da",
+    "sha_short": "d0b7c1f",
+    "message": "Executa os notebooks de fisica/ e embute as saidas",
+    "url": "https://github.com/havaianasdestruido/estudos/commit/d0b7c1f477d56befcfd23082df4ad2b318d3b7da"
+  },
+  {
+    "repo": "estudos",
+    "pr_number": 3,
+    "sha": "8295607036e570fcc3238ec6e00a1f3586551ac7",
+    "sha_short": "8295607",
+    "message": "fix: broken LaTeX delimiters in fisica notebooks",
+    "url": "https://github.com/havaianasdestruido/estudos/commit/8295607036e570fcc3238ec6e00a1f3586551ac7"
+  },
+  {
+    "repo": "estudos",
     "pr_number": 1,
     "sha": "00686f0eece98500abb8ff09d10ef50cf0d18264",
     "sha_short": "00686f0",

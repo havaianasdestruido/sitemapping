@@ -418,8 +418,8 @@
   {
     "repo": "sitemapping",
     "name": "main",
-    "head_sha": "b32fa683257763934c5691c5f6f683b3ba266f02",
-    "head_sha_short": "b32fa68",
+    "head_sha": "693a41e09c60220482c3cfda96109b15c1439153",
+    "head_sha_short": "693a41e",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/sitemapping/tree/main"
   },
@@ -434,8 +434,8 @@
   {
     "repo": "top100",
     "name": "main",
-    "head_sha": "0e7edce22a3ddbc20f18ca9af4d7c2dd76171b2e",
-    "head_sha_short": "0e7edce",
+    "head_sha": "9eba26d0d951c33bb744b52c4b80316a24a50691",
+    "head_sha_short": "9eba26d",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/top100/tree/main"
   },
@@ -850,8 +850,8 @@
   {
     "repo": "eleicoes-data",
     "name": "main",
-    "head_sha": "ab2ec545bc38d4e10413d3fe8d9c9f340025a311",
-    "head_sha_short": "ab2ec54",
+    "head_sha": "65f3512712a44fcd4d45ceb76ec13a781e20d011",
+    "head_sha_short": "65f3512",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/eleicoes-data/tree/main"
   },
@@ -865,17 +865,9 @@
   },
   {
     "repo": "estudos",
-    "name": "arena/ba87d391-estudos",
-    "head_sha": "00686f0eece98500abb8ff09d10ef50cf0d18264",
-    "head_sha_short": "00686f0",
-    "is_default": false,
-    "url": "https://github.com/havaianasdestruido/estudos/tree/arena/ba87d391-estudos"
-  },
-  {
-    "repo": "estudos",
     "name": "main",
-    "head_sha": "3b7aca66c3c36b330cf73eee1f9265a244bdb464",
-    "head_sha_short": "3b7aca6",
+    "head_sha": "0de4d659d3d1e7abd92dd5a69f19770aade214c1",
+    "head_sha_short": "0de4d65",
     "is_default": true,
     "url": "https://github.com/havaianasdestruido/estudos/tree/main"
   },

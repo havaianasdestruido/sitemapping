@@ -108,7 +108,7 @@
 {"repo": "sitemapping", "language": "Python", "bytes": 51362, "percent": 31.3}
 {"repo": "sitemapping", "language": "HTML", "bytes": 26709, "percent": 16.3}
 {"repo": "sitemapping", "language": "CSS", "bytes": 24836, "percent": 15.1}
-{"repo": "top100", "language": "HTML", "bytes": 4873005, "percent": 93.5}
+{"repo": "top100", "language": "HTML", "bytes": 4873422, "percent": 93.5}
 {"repo": "top100", "language": "Python", "bytes": 170108, "percent": 3.3}
 {"repo": "top100", "language": "JavaScript", "bytes": 161810, "percent": 3.1}
 {"repo": "top100", "language": "CSS", "bytes": 6452, "percent": 0.1}
@@ -164,7 +164,7 @@
 {"repo": "dadosabertos", "language": "HTML", "bytes": 63794, "percent": 2.2}
 {"repo": "eleicoes-data", "language": "Jupyter Notebook", "bytes": 5578224, "percent": 99.7}
 {"repo": "eleicoes-data", "language": "Python", "bytes": 18494, "percent": 0.3}
-{"repo": "estudos", "language": "Jupyter Notebook", "bytes": 628160, "percent": 100.0}
+{"repo": "estudos", "language": "Jupyter Notebook", "bytes": 1522373, "percent": 100.0}
 {"repo": "EZInfiniteYTLive", "language": "C#", "bytes": 24776, "percent": 67.4}
 {"repo": "EZInfiniteYTLive", "language": "TypeScript", "bytes": 5471, "percent": 14.9}
 {"repo": "EZInfiniteYTLive", "language": "CSS", "bytes": 5241, "percent": 14.3}
