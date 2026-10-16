@@ -662,7 +662,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 4873966,
+    "bytes": 4873282,
     "percent": 93.5
   },
   {
@@ -1610,7 +1610,7 @@
   {
     "repo": "mshearts",
     "language": "C++",
-    "bytes": 101631,
+    "bytes": 101390,
     "percent": 99.1
   },
   {
@@ -2005,6 +2005,12 @@
   },
   {
     "repo": "neo-nt5",
+    "language": "Python",
+    "bytes": 18946,
+    "percent": 0.0
+  },
+  {
+    "repo": "neo-nt5",
     "language": "AGS Script",
     "bytes": 18071,
     "percent": 0.0
@@ -2055,12 +2061,6 @@
     "repo": "neo-nt5",
     "language": "WDL",
     "bytes": 13392,
-    "percent": 0.0
-  },
-  {
-    "repo": "neo-nt5",
-    "language": "Python",
-    "bytes": 11749,
     "percent": 0.0
   },
   {
@@ -2847,18 +2847,18 @@
     "repo": "Win7Defender-Decomp",
     "language": "C",
     "bytes": 8430854,
-    "percent": 99.1
+    "percent": 98.5
   },
   {
     "repo": "Win7Defender-Decomp",
     "language": "Python",
-    "bytes": 77671,
-    "percent": 0.9
+    "bytes": 125674,
+    "percent": 1.5
   },
   {
     "repo": "Win7Defender-Decomp",
     "language": "CMake",
-    "bytes": 572,
+    "bytes": 633,
     "percent": 0.0
   },
   {

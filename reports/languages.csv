@@ -109,7 +109,7 @@ sitemapping,JavaScript,61132,37.3
 sitemapping,Python,51362,31.3
 sitemapping,HTML,26709,16.3
 sitemapping,CSS,24836,15.1
-top100,HTML,4873966,93.5
+top100,HTML,4873282,93.5
 top100,Python,170108,3.3
 top100,JavaScript,161810,3.1
 top100,CSS,6452,0.1
@@ -267,7 +267,7 @@ mmr-gui,C#,80550,100.0
 mmr-python,Python,67380,100.0
 movielibrary,C#,7846,100.0
 moviemaker-launcher,C#,27368,100.0
-mshearts,C++,101631,99.1
+mshearts,C++,101390,99.1
 mshearts,C,951,0.9
 neo-nt5,C++,1001404687,46.0
 neo-nt5,C,908185265,41.8
@@ -333,6 +333,7 @@ neo-nt5,Shell,53182,0.0
 neo-nt5,IGOR Pro,39620,0.0
 neo-nt5,MATLAB,27667,0.0
 neo-nt5,IDL,20661,0.0
+neo-nt5,Python,18946,0.0
 neo-nt5,AGS Script,18071,0.0
 neo-nt5,Genero per,17941,0.0
 neo-nt5,Rebol,17187,0.0
@@ -342,7 +343,6 @@ neo-nt5,Nextflow,14335,0.0
 neo-nt5,SAS,13756,0.0
 neo-nt5,WebAssembly,13560,0.0
 neo-nt5,WDL,13392,0.0
-neo-nt5,Python,11749,0.0
 neo-nt5,Logos,11720,0.0
 neo-nt5,Faust,11684,0.0
 neo-nt5,QMake,10761,0.0
@@ -473,9 +473,9 @@ WebRadioFM,CSS,15071,10.8
 WebRadioFM,PowerShell,14796,10.6
 WebRadioFM,JavaScript,13917,10.0
 WebRadioFM,Batchfile,501,0.4
-Win7Defender-Decomp,C,8430854,99.1
-Win7Defender-Decomp,Python,77671,0.9
-Win7Defender-Decomp,CMake,572,0.0
+Win7Defender-Decomp,C,8430854,98.5
+Win7Defender-Decomp,Python,125674,1.5
+Win7Defender-Decomp,CMake,633,0.0
 Win7DVDC-Decomp,Python,48788,100.0
 Win7IE,Rich Text Format,235189,99.8
 Win7IE,TeX,464,0.2

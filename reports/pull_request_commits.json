@@ -361,6 +361,14 @@
   },
   {
     "repo": "R2K16",
+    "pr_number": 12,
+    "sha": "a381ef0085a361f909dcc18dbae9b8c67dfa6020",
+    "sha_short": "a381ef0",
+    "message": "docs: add repository audit report",
+    "url": "https://github.com/havaianasdestruido/R2K16/commit/a381ef0085a361f909dcc18dbae9b8c67dfa6020"
+  },
+  {
+    "repo": "R2K16",
     "pr_number": 11,
     "sha": "ac7d0b58b139530b222498d4e2adc6ad11660578",
     "sha_short": "ac7d0b5",
@@ -2129,11 +2137,27 @@
   },
   {
     "repo": "mshearts",
+    "pr_number": 14,
+    "sha": "789c3935826119871327b6af8961cedf3914a38a",
+    "sha_short": "789c393",
+    "message": "docs: add audit report documenting 12 filed issues",
+    "url": "https://github.com/havaianasdestruido/mshearts/commit/789c3935826119871327b6af8961cedf3914a38a"
+  },
+  {
+    "repo": "mshearts",
     "pr_number": 1,
     "sha": "7407c0dc7c351deebf3932c35df3bb3136cee2e1",
     "sha_short": "7407c0d",
     "message": "⚡ Bolt: Replace hand-rolled math/bit-twiddling with standard/intrinsic equivalents",
     "url": "https://github.com/havaianasdestruido/mshearts/commit/7407c0dc7c351deebf3932c35df3bb3136cee2e1"
+  },
+  {
+    "repo": "neo-nt5",
+    "pr_number": 3,
+    "sha": "3828178f10f54aa6d626910fa0cc03d430655670",
+    "sha_short": "3828178",
+    "message": "Add audit findings and reproduction report",
+    "url": "https://github.com/havaianasdestruido/neo-nt5/commit/3828178f10f54aa6d626910fa0cc03d430655670"
   },
   {
     "repo": "neo-nt5",
