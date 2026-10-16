@@ -2,22 +2,11 @@
   {
     "repo": "FNF-Phoenix-Engine",
     "state": "open",
-    "number": 97,
-    "title": "[scratch] label permission probe",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-16T15:45:38Z",
-    "labels": "",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/97"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "open",
     "number": 96,
     "title": "Port GPU/CPU driver + manufacturer detection (Psych Plus Native.hx)",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:44:37Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/96"
   },
@@ -28,7 +17,7 @@
     "title": "Add Transparent Window support (FlxTransWindow port)",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:44:35Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/95"
   },
@@ -39,7 +28,7 @@
     "title": "4th wall breaking: port META_HORROR elements (CoolUtil / CppAPI) with credits",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:44:33Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/94"
   },
@@ -50,7 +39,7 @@
     "title": "Phoenix URI: build the per-screen routing layer (`phoenix://song/...`, `screen/...`, `mod/...`)",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:44:30Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/93"
   },
@@ -61,7 +50,7 @@
     "title": "BUILDING.md says 'zero warnings' but the Flash build emits 3 MP3 warnings",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:44:28Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/92"
   },
@@ -72,7 +61,7 @@
     "title": "Guard audit: decide convert-or-document for the 5 remaining `#if desktop` sites eligible for `!air`",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:44:26Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/91"
   },
@@ -83,7 +72,7 @@
     "title": "Cache Reflect.field / cast calls out of per-frame paths (ChartingUI, Conductor, window accessors)",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:44:24Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/90"
   },
@@ -94,7 +83,7 @@
     "title": "Verify FlxG.watch usage in FPSCounter is debug-only",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:44:21Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/89"
   },
@@ -105,7 +94,7 @@
     "title": "Alloc-per-frame in PlayState hot loops — no note/sustain sprite pooling (HTML5 GC pressure)",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:44:19Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/88"
   },
@@ -116,20 +105,9 @@
     "title": "Python (hython) scripting: check every callback is actually wired",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:44:17Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/87"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "open",
-    "number": 86,
-    "title": "JSON parsing without try/catch and no signature/webhook secrets for remote content",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-16T15:44:15Z",
-    "labels": "",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/86"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -138,7 +116,7 @@
     "title": "DiscordClient: guard `request[0].username` — null on AIR (no hxdiscord_rpc)",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:44:13Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/85"
   },
@@ -149,7 +127,7 @@
     "title": "Leftover stray traces: MusicPlayer 'Time:' on K, WeekEditorState / DialogueEditor 'file saved'",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:44:11Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/84"
   },
@@ -160,7 +138,7 @@
     "title": "Long-session offsync: Conductor/MusicBeatState saved to the same tick — check drift with playbackRate != 1",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:44:09Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/83"
   },
@@ -171,7 +149,7 @@
     "title": "Flash MP3 24/48kHz embed warnings: reconcile BUILDING.md's 'zero warnings' claim",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:44:07Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/82"
   },
@@ -182,7 +160,7 @@
     "title": "Add an opt-in menu for in-game keybinds bound to hardware triggers (VOL_UP / VOL_DOWN etc.)",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:44:05Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/81"
   },
@@ -193,7 +171,7 @@
     "title": "iOS target: audit `#if ios` nuances (video via hxvlc, fullscreen, mobile abstractions)",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:44:03Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/80"
   },
@@ -204,7 +182,7 @@
     "title": "Missing funkin.vis cross-target support — audit `#if desktop` guards in hacking shaders",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:44:00Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/79"
   },
@@ -215,9 +193,53 @@
     "title": "Remove dead Flash/AIR code paths (officialBuild flag, renderAll/ULTRA_OPTIMIZED, WindowColorMode stubs)",
     "user": "havaianasdestruido",
     "created_at": "2026-10-16T15:43:58Z",
-    "labels": "",
+    "labels": "Arena.AI",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/78"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "open",
+    "number": 77,
+    "title": "Lua/Python mod sandboxing: block dangerous strings/functions in softmod scripts by default",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-16T15:43:56Z",
+    "labels": "Arena.AI",
+    "comments": 0,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/77"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "open",
+    "number": 76,
+    "title": "Pin the Android NDK in CI: document/commit r27c explicitly so CI matches the verified toolchain",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-16T15:43:54Z",
+    "labels": "Arena.AI",
+    "comments": 0,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/76"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "closed",
+    "number": 97,
+    "title": "[scratch] label permission probe",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-16T15:45:38Z",
+    "labels": "",
+    "comments": 0,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/97"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "closed",
+    "number": 86,
+    "title": "JSON parsing without try/catch and no signature/webhook secrets for remote content",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-16T15:44:15Z",
+    "labels": "",
+    "comments": 0,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/86"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -275,151 +297,8 @@
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/55"
   },
   {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 54,
-    "title": "Engine version strings are hard-coded and contradict project.hxp VERSION and THECHANGELOG.md",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-15T21:11:29Z",
-    "labels": "bug",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/54"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 53,
-    "title": "Update checker fetches the upstream JS Engine changelog instead of this repository's own",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-15T21:11:29Z",
-    "labels": "bug",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/53"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 52,
-    "title": "backend.Mods and backend.ModsStub declare the same type paths in the same package",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-15T21:11:28Z",
-    "labels": "bug",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/52"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 51,
-    "title": "python-scripting.md documents Function_StopLua as available to Python scripts",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-15T21:11:28Z",
-    "labels": "bug",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/51"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 50,
-    "title": "project.hxp references source/Prebuild.hx and source/Postbuild.hx, which do not exist",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-15T21:11:27Z",
-    "labels": "bug",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/50"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 49,
-    "title": "jekyll-gh-pages.yml can overwrite the published Docusaurus site",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-15T21:11:27Z",
-    "labels": "bug, documentation",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/49"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 48,
-    "title": "The 'status: pending triage' and 'stale' labels used by the workflows do not exist in this repository",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-15T21:11:26Z",
-    "labels": "bug",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/48"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 47,
-    "title": "The bug report template points users to the upstream JS Engine issue tracker",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-15T21:11:26Z",
-    "labels": "bug",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/47"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 46,
-    "title": "Library patches are vendored under source/ instead of using the documented source-haxelib-patches/ mechanism",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-15T21:11:25Z",
-    "labels": "bug",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/46"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 45,
-    "title": "Options with type 'link' are silently coerced to type 'bool'",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-15T21:11:24Z",
-    "labels": "bug",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/45"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 44,
-    "title": "Script hook argument lists do not match the signatures documented in script-hooks.md",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-15T21:11:24Z",
-    "labels": "bug",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/44"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 43,
-    "title": "Conductor.recalculateTimings() is never called, so the Safe Frames option does not affect timing or accuracy",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-15T21:11:23Z",
-    "labels": "bug",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/43"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 42,
-    "title": "hmm.json and the setup scripts install two different hxcpp forks",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-15T21:11:22Z",
-    "labels": "bug",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/42"
-  },
-  {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 32,
     "title": "build: website lockfile carries 49 npm audit findings (16 critical) in the Docusaurus toolchain",
     "user": "havaianasdestruido",
@@ -430,7 +309,7 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 31,
     "title": "security: sync.yml embeds CODEBERG_PAT in the remote URL (persists in .git/config on the runner)",
     "user": "havaianasdestruido",
@@ -441,7 +320,7 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 30,
     "title": "build: build-projects.yml automatic triggers (push/PR) are commented out - build gate only runs manually",
     "user": "havaianasdestruido",
@@ -452,7 +331,7 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 29,
     "title": "build: tools/build.ps1 resolves $ProjectRoot to the parent of the repo - configures/builds the wrong tree",
     "user": "havaianasdestruido",
@@ -463,7 +342,7 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 28,
     "title": "tools: test_all.py checks DLLs in .../build/build/bin/Debug, exits 0 when the target exe is missing, ignores --launch",
     "user": "havaianasdestruido",
@@ -474,7 +353,7 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 27,
     "title": "tools: pe_analyzer.py reports wrong Image Base for PE32 binaries (reads BaseOfData)",
     "user": "havaianasdestruido",
@@ -485,7 +364,7 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 26,
     "title": "tools: diff_exports.py misreads export/import directories (empty results for valid PEs) and exits 0 on failure - parity gate ineffective",
     "user": "havaianasdestruido",
@@ -496,7 +375,7 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 25,
     "title": "bug: DirectUI preview stack (GPURenderer/PlaybackEngine/TimelineDispatcher) is constructed but never driven",
     "user": "havaianasdestruido",
@@ -507,7 +386,7 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 24,
     "title": "bug: PlaybackEngine::CopySampleToTexture maps a D3D11_USAGE_DEFAULT texture (always fails); row-copy underflow and IMFMediaType leak",
     "user": "havaianasdestruido",
@@ -518,7 +397,7 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 23,
     "title": "bug: AutoSaveManager::OnProjectClosed can abandon the auto-save thread, which spins on closed handles / freed memory",
     "user": "havaianasdestruido",
@@ -529,7 +408,7 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 22,
     "title": "bug: MovieProject::RecoverAutoSave makes the autosave file the project path, so saves never update the original .wlmp",
     "user": "havaianasdestruido",
@@ -540,7 +419,7 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 21,
     "title": "bug: src/Project ProjectManager::Save writes a 0-byte file and returns false; dead target duplicates struct Clip",
     "user": "havaianasdestruido",
@@ -551,7 +430,7 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 20,
     "title": "bug: UndoManager::Undo/Redo permanently discard the action when the callback fails",
     "user": "havaianasdestruido",
@@ -562,7 +441,7 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 19,
     "title": "bug: AudioQueue::SetMaxItems leaves m_dwTail == m_dwMaxItems; Enqueue then indexes out of bounds (heap corruption)",
     "user": "havaianasdestruido",
@@ -573,7 +452,7 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 18,
     "title": "bug: HMREngine::ReloadImage never joins its worker thread -> std::terminate crash on restart/destruction",
     "user": "havaianasdestruido",
@@ -584,7 +463,7 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 17,
     "title": "security: X3DReader::ParseJSON reads past end of input buffer (heap OOB read)",
     "user": "havaianasdestruido",
@@ -595,7 +474,7 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 16,
     "title": "security: WLXMP4Parser fixed-offset box field reads exceed bounds by up to 8 bytes (ParseTkhd/ParseMvhd/ParseMdhd/ParseStsd)",
     "user": "havaianasdestruido",
@@ -606,7 +485,7 @@
   },
   {
     "repo": "WindowsMovieMakerDecomp",
-    "state": "open",
+    "state": "closed",
     "number": 15,
     "title": "security: WLXMP4Parser box walkers accept 64-bit-overflowing sizes -> giant payloads and wrapped offsets (OOB reads)",
     "user": "havaianasdestruido",

@@ -2,50 +2,50 @@
   {
     "repo": "FNF-Phoenix-Engine",
     "language": "Haxe",
-    "bytes": 2191586,
-    "percent": 90.6
+    "bytes": 2195057,
+    "percent": 88.1
   },
   {
     "repo": "FNF-Phoenix-Engine",
     "language": "Java",
-    "bytes": 72669,
-    "percent": 3.0
+    "bytes": 108203,
+    "percent": 4.3
   },
   {
     "repo": "FNF-Phoenix-Engine",
     "language": "JavaScript",
-    "bytes": 55856,
-    "percent": 2.3
+    "bytes": 60080,
+    "percent": 2.4
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "language": "Python",
+    "bytes": 47023,
+    "percent": 1.9
   },
   {
     "repo": "FNF-Phoenix-Engine",
     "language": "PowerShell",
-    "bytes": 36602,
+    "bytes": 36973,
     "percent": 1.5
   },
   {
     "repo": "FNF-Phoenix-Engine",
     "language": "Shell",
-    "bytes": 24667,
-    "percent": 1.0
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "language": "Python",
-    "bytes": 23853,
+    "bytes": 25052,
     "percent": 1.0
   },
   {
     "repo": "FNF-Phoenix-Engine",
     "language": "Batchfile",
     "bytes": 8527,
-    "percent": 0.4
+    "percent": 0.3
   },
   {
     "repo": "FNF-Phoenix-Engine",
     "language": "C",
-    "bytes": 3044,
-    "percent": 0.1
+    "bytes": 6884,
+    "percent": 0.3
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -440,20 +440,20 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "language": "C++",
-    "bytes": 6404620,
-    "percent": 90.6
+    "bytes": 6403974,
+    "percent": 90.1
   },
   {
     "repo": "WindowsMovieMakerDecomp",
     "language": "Python",
-    "bytes": 299173,
-    "percent": 4.2
+    "bytes": 334710,
+    "percent": 4.7
   },
   {
     "repo": "WindowsMovieMakerDecomp",
     "language": "C",
     "bytes": 174028,
-    "percent": 2.5
+    "percent": 2.4
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -464,7 +464,7 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "language": "CMake",
-    "bytes": 45653,
+    "bytes": 45399,
     "percent": 0.6
   },
   {
@@ -494,7 +494,7 @@
   {
     "repo": "WindowsMovieMakerDecomp",
     "language": "PowerShell",
-    "bytes": 3670,
+    "bytes": 3807,
     "percent": 0.1
   },
   {
@@ -996,6 +996,12 @@
     "percent": 0.3
   },
   {
+    "repo": "estudos",
+    "language": "Jupyter Notebook",
+    "bytes": 628160,
+    "percent": 100.0
+  },
+  {
     "repo": "EZInfiniteYTLive",
     "language": "C#",
     "bytes": 24776,
@@ -1196,7 +1202,7 @@
   {
     "repo": "Hiphenatus",
     "language": "C#",
-    "bytes": 102872,
+    "bytes": 103454,
     "percent": 93.4
   },
   {
