@@ -1,6 +1,14 @@
 [
   {
     "repo": "FNF-Phoenix-Engine",
+    "name": "v0.0.1-beta",
+    "published_at": "2026-10-16T15:18:54Z",
+    "prerelease": true,
+    "draft": false,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/releases/tag/v0.0.1-beta"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
     "name": "v0.0.1-alpha",
     "published_at": "2026-10-15T21:07:31Z",
     "prerelease": true,

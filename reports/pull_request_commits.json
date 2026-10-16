@@ -1,51 +1,59 @@
 [
   {
     "repo": "FNF-Phoenix-Engine",
-    "pr_number": 17,
-    "sha": "af09202348924912353fa6aaa9970e140436a925",
-    "sha_short": "af09202",
-    "message": "docs: document function interfaces",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/af09202348924912353fa6aaa9970e140436a925"
+    "pr_number": 61,
+    "sha": "05fe9c1851b787677fd86a884a55bee249524290",
+    "sha_short": "05fe9c1",
+    "message": "fix: pin git dependencies to commits and unify hxcpp fork (#42, #58)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/05fe9c1851b787677fd86a884a55bee249524290"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "pr_number": 17,
-    "sha": "b03cf22250bd457423560ee614e80895ada78b16",
-    "sha_short": "b03cf22",
-    "message": "Merge branch 'main' into codex/add-javadoc/jsdoc-tags-to-functions",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b03cf22250bd457423560ee614e80895ada78b16"
+    "pr_number": 61,
+    "sha": "ecd756b300c01ccf9dad2ab9fe1d66dfd5658f32",
+    "sha_short": "ecd756b",
+    "message": "fix: align CI cache key, Haxe version and mobile deps (#57, #60)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/ecd756b300c01ccf9dad2ab9fe1d66dfd5658f32"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "pr_number": 14,
-    "sha": "7701ed8e5530a6192de386e5244cb8d370332f1d",
-    "sha_short": "7701ed8",
-    "message": "fix: repair broken GitHub Actions workflows",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7701ed8e5530a6192de386e5244cb8d370332f1d"
+    "pr_number": 61,
+    "sha": "35aab05920179a925026ea84b71728d1e555911b",
+    "sha_short": "35aab05",
+    "message": "fix: repair PR comment, Pages and triage workflows (#47, #48, #49, #59)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/35aab05920179a925026ea84b71728d1e555911b"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "pr_number": 14,
-    "sha": "1c73057ab2fb5a625d312d69ed3eb03bed9cbc47",
-    "sha_short": "1c73057",
-    "message": "fix: repair broken GitHub Actions workflows and project haxelib dependencies",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1c73057ab2fb5a625d312d69ed3eb03bed9cbc47"
+    "pr_number": 61,
+    "sha": "50661795ca86c8b68c69c1a4d3a42bdcddce71d5",
+    "sha_short": "5066179",
+    "message": "fix: derive Phoenix version from project version and fix update check (#53, #54)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/50661795ca86c8b68c69c1a4d3a42bdcddce71d5"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "pr_number": 14,
-    "sha": "31dd949d22f0cdb30abe0d92249d2cc09044c1ff",
-    "sha_short": "31dd949",
-    "message": "fix: repair broken GitHub Actions workflows and Android compilation issues",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/31dd949d22f0cdb30abe0d92249d2cc09044c1ff"
+    "pr_number": 61,
+    "sha": "7cdc13e8eb06bb703e56ef649078e78ed7db6df1",
+    "sha_short": "7cdc13e",
+    "message": "fix: wire Safe Frames option to Conductor.recalculateTimings (#43)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7cdc13e8eb06bb703e56ef649078e78ed7db6df1"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "pr_number": 14,
-    "sha": "f76f7fea749db8c1434656c779d714e4884d6d5e",
-    "sha_short": "f76f7fe",
-    "message": "fix: repair broken GitHub Actions workflows and Android build compilation issues",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f76f7fea749db8c1434656c779d714e4884d6d5e"
+    "pr_number": 56,
+    "sha": "1bee291aa4048c480cfec84090b03606f0278279",
+    "sha_short": "1bee291",
+    "message": "fix: reconcile build dependencies, haxelib patches, and project metadata (#42, #46, #47, #48, #49, #50)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1bee291aa4048c480cfec84090b03606f0278279"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 56,
+    "sha": "61d233960a816ac1217e2e8c28dd41a816b40b0c",
+    "sha_short": "61d2339",
+    "message": "fix: correct engine runtime, scripting, options, and timing defects (#43, #44, #45, #51, #52, #53, #54, #55)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/61d233960a816ac1217e2e8c28dd41a816b40b0c"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -328,30 +336,6 @@
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/c603b0035227e6dfc0f18910b2623bbc63ac6fb1"
   },
   {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 16,
-    "sha": "d7b4de828255471fa72726c7f24d58ff58a477ba",
-    "sha_short": "d7b4de8",
-    "message": "fix(ci): limit Windows C++ build parallelism",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d7b4de828255471fa72726c7f24d58ff58a477ba"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 16,
-    "sha": "9bd823dad2063c1288cae53a3186dd36c4d4215f",
-    "sha_short": "9bd823d",
-    "message": "fix: avoid TankmenBG reset signature conflict",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9bd823dad2063c1288cae53a3186dd36c4d4215f"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 15,
-    "sha": "00139b4a6962e49172a2115b3fdf616187fed9dd",
-    "sha_short": "00139b4",
-    "message": "refactor: rename inappropriate identifiers",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/00139b4a6962e49172a2115b3fdf616187fed9dd"
-  },
-  {
     "repo": "R2K16",
     "pr_number": 8,
     "sha": "a2595db51a3ccac7bd9534b06db017100861d3e3",
@@ -550,6 +534,54 @@
     "sha_short": "7868b75",
     "message": "Bump the npm_and_yarn group across 2 directories with 3 updates",
     "url": "https://github.com/havaianasdestruido/R2K16/commit/7868b756bd7dc1cdcfe5292e0025046d640bdede"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 34,
+    "sha": "4dfcdff8fabb281d98bcb9e614a80898cac82e40",
+    "sha_short": "4dfcdff",
+    "message": "fix: bound MP4 boxes and truncated scene parsing (#15, #16, #17)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/4dfcdff8fabb281d98bcb9e614a80898cac82e40"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 34,
+    "sha": "2a4e44b721e06a2269f18af830d72ea6d1c6170b",
+    "sha_short": "2a4e44b",
+    "message": "fix: preserve worker, queue, history and recovery invariants (#18, #19, #20, #22, #23)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/2a4e44b721e06a2269f18af830d72ea6d1c6170b"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 34,
+    "sha": "0f3982d8f5de610933a9aafb35a366dc34e6ecc6",
+    "sha_short": "0f3982d",
+    "message": "fix: negotiate RGB32 and safely upload bounded playback frames (#24)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/0f3982d8f5de610933a9aafb35a366dc34e6ecc6"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 34,
+    "sha": "a80df7dfd4bfe5869b2cc0b20db7ba51d5d2a76b",
+    "sha_short": "a80df7d",
+    "message": "fix: remove unused project model and defer dormant preview ownership (#21, #23, #25)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/a80df7dfd4bfe5869b2cc0b20db7ba51d5d2a76b"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 34,
+    "sha": "2e446bbb2c6b64562b6ebc47da10ee631dc85f96",
+    "sha_short": "2e446bb",
+    "message": "fix: make PE parity and runtime build tools trustworthy (#26, #27, #28, #29)",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/2e446bbb2c6b64562b6ebc47da10ee631dc85f96"
+  },
+  {
+    "repo": "WindowsMovieMakerDecomp",
+    "pr_number": 33,
+    "sha": "dee50b6fdc85c51f347a5e274aadc8d235d25f3f",
+    "sha_short": "dee50b6",
+    "message": "⚡ Bolt: [performance improvement] Pre-allocate std::vector in PatternMesh",
+    "url": "https://github.com/havaianasdestruido/WindowsMovieMakerDecomp/commit/dee50b6fdc85c51f347a5e274aadc8d235d25f3f"
   },
   {
     "repo": "WindowsMovieMakerDecomp",
@@ -1217,6 +1249,14 @@
   },
   {
     "repo": "AmIOnline",
+    "pr_number": 10,
+    "sha": "22c9543d2493dfe4c8bc92082ed3ec7a01562de1",
+    "sha_short": "22c9543",
+    "message": "Replace DNS lookup with Regex for IPv6 validation",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/22c9543d2493dfe4c8bc92082ed3ec7a01562de1"
+  },
+  {
+    "repo": "AmIOnline",
     "pr_number": 9,
     "sha": "2a24442d0ef0154a1e989062d71f3a483962bf5b",
     "sha_short": "2a24442",
@@ -1286,6 +1326,14 @@
     "sha_short": "4e7ad01",
     "message": "Install Vercel Speed Insights with framework support",
     "url": "https://github.com/havaianasdestruido/AudioTaste/commit/4e7ad01509542836213e7125ccc4fb067bb78d9b"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "pr_number": 7,
+    "sha": "8237ce85c8ba08552919a4d2295ea4d6f833fe7d",
+    "sha_short": "8237ce8",
+    "message": "⚡ Bolt: Optimize Vector3.Distance calls in game update loop",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/8237ce85c8ba08552919a4d2295ea4d6f833fe7d"
   },
   {
     "repo": "BloodAndBacon-DnSpyEx",
@@ -2129,6 +2177,46 @@
   },
   {
     "repo": "microsoft",
+    "pr_number": 3,
+    "sha": "cea4531777591b0f7fc77608d7f957bcc7d162ac",
+    "sha_short": "cea4531",
+    "message": "perf: use constant divisors in ASCII85 encoding",
+    "url": "https://github.com/havaianasdestruido/microsoft/commit/cea4531777591b0f7fc77608d7f957bcc7d162ac"
+  },
+  {
+    "repo": "microsoft",
+    "pr_number": 3,
+    "sha": "8f6ea1ce0f2ed82c36a184a1bfae14afc3487e8b",
+    "sha_short": "8f6ea1c",
+    "message": "test: add executable equivalence and cost harness for ASCII85 conversion",
+    "url": "https://github.com/havaianasdestruido/microsoft/commit/8f6ea1ce0f2ed82c36a184a1bfae14afc3487e8b"
+  },
+  {
+    "repo": "microsoft",
+    "pr_number": 3,
+    "sha": "67212bd0fc3484958a81228db115aeff859b9076",
+    "sha_short": "67212bd",
+    "message": "add: static worklist tooling for the recurring-path audit",
+    "url": "https://github.com/havaianasdestruido/microsoft/commit/67212bd0fc3484958a81228db115aeff859b9076"
+  },
+  {
+    "repo": "microsoft",
+    "pr_number": 3,
+    "sha": "d8105185a377840dd7be30c900347d9f53956daf",
+    "sha_short": "d810518",
+    "message": "docs: record the NT5 recurring-path performance audit",
+    "url": "https://github.com/havaianasdestruido/microsoft/commit/d8105185a377840dd7be30c900347d9f53956daf"
+  },
+  {
+    "repo": "microsoft",
+    "pr_number": 2,
+    "sha": "706056d9a8faddebd0ee27f880780206139f66dc",
+    "sha_short": "706056d",
+    "message": "⚡ Bolt: Suppress slow console I/O in batch extraction loops",
+    "url": "https://github.com/havaianasdestruido/microsoft/commit/706056d9a8faddebd0ee27f880780206139f66dc"
+  },
+  {
+    "repo": "microsoft",
     "pr_number": 1,
     "sha": "d5d384eef6b747371c3bd6621a91c02ef7f2e335",
     "sha_short": "d5d384e",
@@ -2150,6 +2238,30 @@
     "sha_short": "7407c0d",
     "message": "⚡ Bolt: Replace hand-rolled math/bit-twiddling with standard/intrinsic equivalents",
     "url": "https://github.com/havaianasdestruido/mshearts/commit/7407c0dc7c351deebf3932c35df3bb3136cee2e1"
+  },
+  {
+    "repo": "neo-nt5",
+    "pr_number": 6,
+    "sha": "ad90633d215872abc155afd1f321174902c012c8",
+    "sha_short": "ad90633",
+    "message": "docs: record kernel performance audit findings",
+    "url": "https://github.com/havaianasdestruido/neo-nt5/commit/ad90633d215872abc155afd1f321174902c012c8"
+  },
+  {
+    "repo": "neo-nt5",
+    "pr_number": 6,
+    "sha": "ffcef0a6276443ae259b50e8e0058677e6c85594",
+    "sha_short": "ffcef0a",
+    "message": "perf: avoid repeated triage dump validation",
+    "url": "https://github.com/havaianasdestruido/neo-nt5/commit/ffcef0a6276443ae259b50e8e0058677e6c85594"
+  },
+  {
+    "repo": "neo-nt5",
+    "pr_number": 6,
+    "sha": "d90d2f35f5a163cc727984c35cfe030cbe2f9f45",
+    "sha_short": "d90d2f3",
+    "message": "merge: preserve published audit report",
+    "url": "https://github.com/havaianasdestruido/neo-nt5/commit/d90d2f35f5a163cc727984c35cfe030cbe2f9f45"
   },
   {
     "repo": "neo-nt5",
