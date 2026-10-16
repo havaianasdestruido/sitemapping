@@ -2055,6 +2055,32 @@
   },
   {
     "repo": "neo-nt5",
+    "state": "open",
+    "status": "open",
+    "number": 5,
+    "title": "⚡ Bolt: optimize catalog generator performance",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-16T05:22:19Z",
+    "base_branch": "main",
+    "head_branch": "bolt-catalog-perf-optimization-18397262248182994546",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/neo-nt5/pull/5"
+  },
+  {
+    "repo": "neo-nt5",
+    "state": "open",
+    "status": "open",
+    "number": 4,
+    "title": "🛡️ Sentinel: [HIGH] Fix PPP CHAP session key buffer zeroing",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-16T04:51:23Z",
+    "base_branch": "main",
+    "head_branch": "jules-3959216696517138470-f7f31acf",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/neo-nt5/pull/4"
+  },
+  {
+    "repo": "neo-nt5",
     "state": "closed",
     "status": "merged",
     "number": 3,

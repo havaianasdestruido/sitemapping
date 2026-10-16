@@ -2153,6 +2153,22 @@
   },
   {
     "repo": "neo-nt5",
+    "pr_number": 5,
+    "sha": "7566eec25439a7029d3ff2aadac1dd78eaccf028",
+    "sha_short": "7566eec",
+    "message": "⚡ Bolt: optimize catalog generator performance",
+    "url": "https://github.com/havaianasdestruido/neo-nt5/commit/7566eec25439a7029d3ff2aadac1dd78eaccf028"
+  },
+  {
+    "repo": "neo-nt5",
+    "pr_number": 4,
+    "sha": "a7d1d139d27a8c7ccb6e4879fea91b4be2461405",
+    "sha_short": "a7d1d13",
+    "message": "Fix PPP CHAP user session key buffer zeroing in CGetSessionKeys",
+    "url": "https://github.com/havaianasdestruido/neo-nt5/commit/a7d1d139d27a8c7ccb6e4879fea91b4be2461405"
+  },
+  {
+    "repo": "neo-nt5",
     "pr_number": 3,
     "sha": "3828178f10f54aa6d626910fa0cc03d430655670",
     "sha_short": "3828178",
