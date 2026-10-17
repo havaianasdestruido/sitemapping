@@ -1,6 +1,70 @@
 [
   {
     "repo": "FNF-Phoenix-Engine",
+    "pr_number": 110,
+    "sha": "bd10b85b0dc2c7328aa12641a9b224a51e43046e",
+    "sha_short": "bd10b85",
+    "message": "feat(debug): add Haxe + C/C++ frame profiler with debug/log export",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/bd10b85b0dc2c7328aa12641a9b224a51e43046e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 110,
+    "sha": "091f3b7ddd23bd484659aed601037bc838a34ed2",
+    "sha_short": "091f3b7",
+    "message": "Merge branch 'main' into arena/b0eafba3-fnf-phoenix-engine",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/091f3b7ddd23bd484659aed601037bc838a34ed2"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 110,
+    "sha": "a705e282d1bb893df3ae28fb705988dbe2c55290",
+    "sha_short": "a705e28",
+    "message": "fix(debug): harden frame profiler metrics, phase stack, overhead, and CSV export",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a705e282d1bb893df3ae28fb705988dbe2c55290"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 111,
+    "sha": "6023b1ce5f20288f8bfb3d907c53bcba7806cddf",
+    "sha_short": "6023b1c",
+    "message": "Add persistent Android cutout fullscreen preference",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6023b1ce5f20288f8bfb3d907c53bcba7806cddf"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 111,
+    "sha": "8b9d25686f46b98e1c462879421dbb40cbef3d61",
+    "sha_short": "8b9d256",
+    "message": "Merge branch 'main' into arena/7ca2a31e-fnf-phoenix-engine",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/8b9d25686f46b98e1c462879421dbb40cbef3d61"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 111,
+    "sha": "ca5ee4668f0581e945f82a389456f71c76f8df9a",
+    "sha_short": "ca5ee46",
+    "message": "fix: isolate Android cutout insets and reapply across activity lifecycle",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/ca5ee4668f0581e945f82a389456f71c76f8df9a"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 111,
+    "sha": "700cbecf8235e87851987563fe013bc884374723",
+    "sha_short": "700cbec",
+    "message": "test: cover cutout reapplication on active content replacement",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/700cbecf8235e87851987563fe013bc884374723"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 111,
+    "sha": "330e0e15b1c185e7f0ff3f63725ab07ffab9b104",
+    "sha_short": "330e0e1",
+    "message": "test: verify foreign padding survives cutout updates",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/330e0e15b1c185e7f0ff3f63725ab07ffab9b104"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
     "pr_number": 109,
     "sha": "377440bc2b8ebfed4dd3d439b7d38e71373c9d0a",
     "sha_short": "377440b",
@@ -294,38 +358,6 @@
     "sha_short": "4ba9fba",
     "message": "docs: address review feedback on the documentation site",
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4ba9fba3430fd3de30129566fbe9243b7ae51836"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 30,
-    "sha": "7c34406a8edaf8816ce6e42696260ec9153c5081",
-    "sha_short": "7c34406",
-    "message": "compress images by ~19% + add tools/compress-images scripts",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7c34406a8edaf8816ce6e42696260ec9153c5081"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 29,
-    "sha": "d521e58d01f20453f3a15dcf20ead50ce3a08558",
-    "sha_short": "d521e58",
-    "message": "build: add NO_BUILTIN_CONTENT content-stripped (copyright-safe) build flag",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d521e58d01f20453f3a15dcf20ead50ce3a08558"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 29,
-    "sha": "20d46aade615edf1dae8511a09bd6d2c83290c08",
-    "sha_short": "20d46aa",
-    "message": "Address PR review: strip week achievement art, harden stripped-build fallbacks",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/20d46aade615edf1dae8511a09bd6d2c83290c08"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 29,
-    "sha": "65f2dce69eab35e288dc32e4ffb4d16a678f696f",
-    "sha_short": "65f2dce",
-    "message": "Merge branch 'main' into arena/01a0e3c1-fnf-phoenix-engine",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/65f2dce69eab35e288dc32e4ffb4d16a678f696f"
   },
   {
     "repo": "R2K16",
@@ -2254,6 +2286,14 @@
     "sha_short": "3c2ae90",
     "message": "Cache payload computations in RAM to cut CPU usage",
     "url": "https://github.com/havaianasdestruido/memz-1/commit/3c2ae90a083f4ec411720e68c6d28547169a08d8"
+  },
+  {
+    "repo": "microsoft",
+    "pr_number": 4,
+    "sha": "66eebf16089f2fed28ebdc7117ccbe788fdb9f92",
+    "sha_short": "66eebf1",
+    "message": "⚡ Bolt: Optimize CalcSampleRate loop division in HARDWARE.C",
+    "url": "https://github.com/havaianasdestruido/microsoft/commit/66eebf16089f2fed28ebdc7117ccbe788fdb9f92"
   },
   {
     "repo": "microsoft",

@@ -275,17 +275,6 @@
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/57"
   },
   {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 55,
-    "title": "Building with -DNO_PRELOAD_ALL fails: LoadingState has no constructor and lime.utils.AssetCache has no hasSound",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-15T21:11:30Z",
-    "labels": "bug",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/55"
-  },
-  {
     "repo": "WindowsMovieMakerDecomp",
     "state": "closed",
     "number": 32,

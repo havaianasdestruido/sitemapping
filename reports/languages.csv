@@ -1,9 +1,9 @@
 repo,language,bytes,percent
-FNF-Phoenix-Engine,Haxe,2195057,88.1
-FNF-Phoenix-Engine,Java,108203,4.3
-FNF-Phoenix-Engine,JavaScript,60080,2.4
-FNF-Phoenix-Engine,Python,47023,1.9
-FNF-Phoenix-Engine,PowerShell,36973,1.5
+FNF-Phoenix-Engine,Haxe,2198764,85.9
+FNF-Phoenix-Engine,Java,148977,5.8
+FNF-Phoenix-Engine,Python,71583,2.8
+FNF-Phoenix-Engine,JavaScript,60080,2.3
+FNF-Phoenix-Engine,PowerShell,36973,1.4
 FNF-Phoenix-Engine,Shell,25052,1.0
 FNF-Phoenix-Engine,Batchfile,8527,0.3
 FNF-Phoenix-Engine,C,6884,0.3
@@ -109,7 +109,7 @@ sitemapping,JavaScript,61132,37.3
 sitemapping,Python,51362,31.3
 sitemapping,HTML,26709,16.3
 sitemapping,CSS,24836,15.1
-top100,HTML,4873387,93.5
+top100,HTML,4873513,93.5
 top100,Python,170108,3.3
 top100,JavaScript,161810,3.1
 top100,CSS,6452,0.1
@@ -237,7 +237,7 @@ mediapublisher,C#,50369,100.0
 memz-1,C,123351,96.6
 memz-1,Makefile,4293,3.4
 metadata-editor,C#,8775,100.0
-microsoft,C,100207527,63.9
+microsoft,C,100208162,63.9
 microsoft,C++,27465114,17.5
 microsoft,Assembly,20051507,12.8
 microsoft,PLSQL,3744507,2.4

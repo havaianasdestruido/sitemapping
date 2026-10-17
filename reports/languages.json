@@ -2,32 +2,32 @@
   {
     "repo": "FNF-Phoenix-Engine",
     "language": "Haxe",
-    "bytes": 2195057,
-    "percent": 88.1
+    "bytes": 2198764,
+    "percent": 85.9
   },
   {
     "repo": "FNF-Phoenix-Engine",
     "language": "Java",
-    "bytes": 108203,
-    "percent": 4.3
+    "bytes": 148977,
+    "percent": 5.8
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "language": "Python",
+    "bytes": 71583,
+    "percent": 2.8
   },
   {
     "repo": "FNF-Phoenix-Engine",
     "language": "JavaScript",
     "bytes": 60080,
-    "percent": 2.4
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "language": "Python",
-    "bytes": 47023,
-    "percent": 1.9
+    "percent": 2.3
   },
   {
     "repo": "FNF-Phoenix-Engine",
     "language": "PowerShell",
     "bytes": 36973,
-    "percent": 1.5
+    "percent": 1.4
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -662,7 +662,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 4873387,
+    "bytes": 4873513,
     "percent": 93.5
   },
   {
@@ -1430,7 +1430,7 @@
   {
     "repo": "microsoft",
     "language": "C",
-    "bytes": 100207527,
+    "bytes": 100208162,
     "percent": 63.9
   },
   {
