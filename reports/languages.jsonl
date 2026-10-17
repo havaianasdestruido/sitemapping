@@ -108,7 +108,7 @@
 {"repo": "sitemapping", "language": "Python", "bytes": 51362, "percent": 31.3}
 {"repo": "sitemapping", "language": "HTML", "bytes": 26709, "percent": 16.3}
 {"repo": "sitemapping", "language": "CSS", "bytes": 24836, "percent": 15.1}
-{"repo": "top100", "language": "HTML", "bytes": 4873723, "percent": 93.5}
+{"repo": "top100", "language": "HTML", "bytes": 4873387, "percent": 93.5}
 {"repo": "top100", "language": "Python", "bytes": 170108, "percent": 3.3}
 {"repo": "top100", "language": "JavaScript", "bytes": 161810, "percent": 3.1}
 {"repo": "top100", "language": "CSS", "bytes": 6452, "percent": 0.1}
@@ -121,7 +121,7 @@
 {"repo": "AudioTaste", "language": "JavaScript", "bytes": 88551, "percent": 79.3}
 {"repo": "AudioTaste", "language": "CSS", "bytes": 15248, "percent": 13.6}
 {"repo": "AudioTaste", "language": "HTML", "bytes": 7933, "percent": 7.1}
-{"repo": "BloodAndBacon-DnSpyEx", "language": "C#", "bytes": 11560537, "percent": 100.0}
+{"repo": "BloodAndBacon-DnSpyEx", "language": "C#", "bytes": 11560673, "percent": 100.0}
 {"repo": "bloxNES", "language": "Lua", "bytes": 58862, "percent": 99.8}
 {"repo": "bloxNES", "language": "Luau", "bytes": 116, "percent": 0.2}
 {"repo": "brnews-db", "language": "Python", "bytes": 80372, "percent": 84.6}
@@ -275,7 +275,7 @@
 {"repo": "neo-nt5", "language": "C", "bytes": 908186412, "percent": 41.8}
 {"repo": "neo-nt5", "language": "Scheme", "bytes": 110598376, "percent": 5.1}
 {"repo": "neo-nt5", "language": "Assembly", "bytes": 36975414, "percent": 1.7}
-{"repo": "neo-nt5", "language": "HTML", "bytes": 25921376, "percent": 1.2}
+{"repo": "neo-nt5", "language": "HTML", "bytes": 25921364, "percent": 1.2}
 {"repo": "neo-nt5", "language": "CWeb", "bytes": 18594449, "percent": 0.9}
 {"repo": "neo-nt5", "language": "Makefile", "bytes": 10926920, "percent": 0.5}
 {"repo": "neo-nt5", "language": "Rich Text Format", "bytes": 10041756, "percent": 0.5}
@@ -335,7 +335,7 @@
 {"repo": "neo-nt5", "language": "IGOR Pro", "bytes": 39620, "percent": 0.0}
 {"repo": "neo-nt5", "language": "MATLAB", "bytes": 27667, "percent": 0.0}
 {"repo": "neo-nt5", "language": "IDL", "bytes": 20661, "percent": 0.0}
-{"repo": "neo-nt5", "language": "Python", "bytes": 19931, "percent": 0.0}
+{"repo": "neo-nt5", "language": "Python", "bytes": 20629, "percent": 0.0}
 {"repo": "neo-nt5", "language": "AGS Script", "bytes": 18071, "percent": 0.0}
 {"repo": "neo-nt5", "language": "Genero per", "bytes": 17941, "percent": 0.0}
 {"repo": "neo-nt5", "language": "Rebol", "bytes": 17187, "percent": 0.0}
@@ -405,10 +405,10 @@
 {"repo": "Projeto-TCC", "language": "PLpgSQL", "bytes": 87638, "percent": 3.1}
 {"repo": "Projeto-TCC", "language": "TypeScript", "bytes": 17111, "percent": 0.6}
 {"repo": "pwn", "language": "HTML", "bytes": 415, "percent": 100.0}
-{"repo": "PWSV", "language": "C++", "bytes": 38117, "percent": 38.7}
+{"repo": "PWSV", "language": "C++", "bytes": 38357, "percent": 38.8}
 {"repo": "PWSV", "language": "HTML", "bytes": 19935, "percent": 20.2}
 {"repo": "PWSV", "language": "JavaScript", "bytes": 16907, "percent": 17.1}
-{"repo": "PWSV", "language": "CSS", "bytes": 15731, "percent": 16.0}
+{"repo": "PWSV", "language": "CSS", "bytes": 15731, "percent": 15.9}
 {"repo": "PWSV", "language": "Batchfile", "bytes": 4421, "percent": 4.5}
 {"repo": "PWSV", "language": "CMake", "bytes": 3431, "percent": 3.5}
 {"repo": "PWSV", "language": "Ruby", "bytes": 78, "percent": 0.1}

@@ -662,7 +662,7 @@
   {
     "repo": "top100",
     "language": "HTML",
-    "bytes": 4873723,
+    "bytes": 4873387,
     "percent": 93.5
   },
   {
@@ -740,7 +740,7 @@
   {
     "repo": "BloodAndBacon-DnSpyEx",
     "language": "C#",
-    "bytes": 11560537,
+    "bytes": 11560673,
     "percent": 100.0
   },
   {
@@ -1664,7 +1664,7 @@
   {
     "repo": "neo-nt5",
     "language": "HTML",
-    "bytes": 25921376,
+    "bytes": 25921364,
     "percent": 1.2
   },
   {
@@ -2024,7 +2024,7 @@
   {
     "repo": "neo-nt5",
     "language": "Python",
-    "bytes": 19931,
+    "bytes": 20629,
     "percent": 0.0
   },
   {
@@ -2444,8 +2444,8 @@
   {
     "repo": "PWSV",
     "language": "C++",
-    "bytes": 38117,
-    "percent": 38.7
+    "bytes": 38357,
+    "percent": 38.8
   },
   {
     "repo": "PWSV",
@@ -2463,7 +2463,7 @@
     "repo": "PWSV",
     "language": "CSS",
     "bytes": 15731,
-    "percent": 16.0
+    "percent": 15.9
   },
   {
     "repo": "PWSV",

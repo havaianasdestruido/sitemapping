@@ -1,6 +1,22 @@
 [
   {
     "repo": "FNF-Phoenix-Engine",
+    "pr_number": 109,
+    "sha": "377440bc2b8ebfed4dd3d439b7d38e71373c9d0a",
+    "sha_short": "377440b",
+    "message": "feat(android): add Media3 media session bridge",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/377440bc2b8ebfed4dd3d439b7d38e71373c9d0a"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 109,
+    "sha": "a41d72608f91388e4ec274a8a6f211b6f6006c7b",
+    "sha_short": "a41d726",
+    "message": "fix(android): harden Media3 service lifecycle",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a41d72608f91388e4ec274a8a6f211b6f6006c7b"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
     "pr_number": 108,
     "sha": "43b98311f99b1a4d3d2290b5b3b9a45fa205f53e",
     "sha_short": "43b9831",
@@ -1310,6 +1326,14 @@
     "sha_short": "4e7ad01",
     "message": "Install Vercel Speed Insights with framework support",
     "url": "https://github.com/havaianasdestruido/AudioTaste/commit/4e7ad01509542836213e7125ccc4fb067bb78d9b"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "pr_number": 8,
+    "sha": "fc3ff0740d086edfb43db88c6ae6f31a304504ae",
+    "sha_short": "fc3ff07",
+    "message": "⚡ Bolt: Replace Vector3.Distance with DistanceSquared for proximity checks",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/fc3ff0740d086edfb43db88c6ae6f31a304504ae"
   },
   {
     "repo": "BloodAndBacon-DnSpyEx",

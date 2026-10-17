@@ -109,7 +109,7 @@ sitemapping,JavaScript,61132,37.3
 sitemapping,Python,51362,31.3
 sitemapping,HTML,26709,16.3
 sitemapping,CSS,24836,15.1
-top100,HTML,4873723,93.5
+top100,HTML,4873387,93.5
 top100,Python,170108,3.3
 top100,JavaScript,161810,3.1
 top100,CSS,6452,0.1
@@ -122,7 +122,7 @@ AmIOnline,Kotlin,17333,100.0
 AudioTaste,JavaScript,88551,79.3
 AudioTaste,CSS,15248,13.6
 AudioTaste,HTML,7933,7.1
-BloodAndBacon-DnSpyEx,C#,11560537,100.0
+BloodAndBacon-DnSpyEx,C#,11560673,100.0
 bloxNES,Lua,58862,99.8
 bloxNES,Luau,116,0.2
 brnews-db,Python,80372,84.6
@@ -276,7 +276,7 @@ neo-nt5,C++,1001404687,46.0
 neo-nt5,C,908186412,41.8
 neo-nt5,Scheme,110598376,5.1
 neo-nt5,Assembly,36975414,1.7
-neo-nt5,HTML,25921376,1.2
+neo-nt5,HTML,25921364,1.2
 neo-nt5,CWeb,18594449,0.9
 neo-nt5,Makefile,10926920,0.5
 neo-nt5,Rich Text Format,10041756,0.5
@@ -336,7 +336,7 @@ neo-nt5,Shell,53182,0.0
 neo-nt5,IGOR Pro,39620,0.0
 neo-nt5,MATLAB,27667,0.0
 neo-nt5,IDL,20661,0.0
-neo-nt5,Python,19931,0.0
+neo-nt5,Python,20629,0.0
 neo-nt5,AGS Script,18071,0.0
 neo-nt5,Genero per,17941,0.0
 neo-nt5,Rebol,17187,0.0
@@ -406,10 +406,10 @@ Projeto-TCC,Python,166910,6.0
 Projeto-TCC,PLpgSQL,87638,3.1
 Projeto-TCC,TypeScript,17111,0.6
 pwn,HTML,415,100.0
-PWSV,C++,38117,38.7
+PWSV,C++,38357,38.8
 PWSV,HTML,19935,20.2
 PWSV,JavaScript,16907,17.1
-PWSV,CSS,15731,16.0
+PWSV,CSS,15731,15.9
 PWSV,Batchfile,4421,4.5
 PWSV,CMake,3431,3.5
 PWSV,Ruby,78,0.1

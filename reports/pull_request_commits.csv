@@ -1,4 +1,6 @@
 repo,pr_number,sha,sha_short,message,url
+FNF-Phoenix-Engine,109,377440bc2b8ebfed4dd3d439b7d38e71373c9d0a,377440b,feat(android): add Media3 media session bridge,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/377440bc2b8ebfed4dd3d439b7d38e71373c9d0a
+FNF-Phoenix-Engine,109,a41d72608f91388e4ec274a8a6f211b6f6006c7b,a41d726,fix(android): harden Media3 service lifecycle,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a41d72608f91388e4ec274a8a6f211b6f6006c7b
 FNF-Phoenix-Engine,108,43b98311f99b1a4d3d2290b5b3b9a45fa205f53e,43b9831,Make Windows phoenix:// registration check-before-write and auto-register on startup,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/43b98311f99b1a4d3d2290b5b3b9a45fa205f53e
 FNF-Phoenix-Engine,107,4f98845da1e74164d8e5751abe57089e7ec20d4a,4f98845,"Move android/, source-haxelib-patches/, templates/ under source/",https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4f98845da1e74164d8e5751abe57089e7ec20d4a
 FNF-Phoenix-Engine,107,df452953afdf91213c17e20b466dc37d1a5e7dc5,df45295,Merge branch 'main' into arena/673b485f-fnf-phoenix-engine,https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/df452953afdf91213c17e20b466dc37d1a5e7dc5
@@ -163,6 +165,7 @@ AmIOnline,2,f606e3fb986a1ca27a0b5a5c6d4dcccc79e82eec,f606e3f,Rename package to c
 AmIOnline,1,dc52ef36d8c369a2335dcc02e6f5462a1685ab81,dc52ef3,feat: implement native AmIOnline Android ping application,https://github.com/havaianasdestruido/AmIOnline/commit/dc52ef36d8c369a2335dcc02e6f5462a1685ab81
 AmIOnline,1,7d55d9190ecb42ff464ba346fe42639587e3bcd3,7d55d91,ci: add GitHub Actions workflow for building app and uploading APK artifact,https://github.com/havaianasdestruido/AmIOnline/commit/7d55d9190ecb42ff464ba346fe42639587e3bcd3
 AudioTaste,1,4e7ad01509542836213e7125ccc4fb067bb78d9b,4e7ad01,Install Vercel Speed Insights with framework support,https://github.com/havaianasdestruido/AudioTaste/commit/4e7ad01509542836213e7125ccc4fb067bb78d9b
+BloodAndBacon-DnSpyEx,8,fc3ff0740d086edfb43db88c6ae6f31a304504ae,fc3ff07,⚡ Bolt: Replace Vector3.Distance with DistanceSquared for proximity checks,https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/fc3ff0740d086edfb43db88c6ae6f31a304504ae
 BloodAndBacon-DnSpyEx,7,8237ce85c8ba08552919a4d2295ea4d6f833fe7d,8237ce8,⚡ Bolt: Optimize Vector3.Distance calls in game update loop,https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/8237ce85c8ba08552919a4d2295ea4d6f833fe7d
 BloodAndBacon-DnSpyEx,6,71b716ec23a155a4bb15b29d4e6a9605bc8b03f7,71b716e,Optimize distance calculations in rock physics interaction,https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/71b716ec23a155a4bb15b29d4e6a9605bc8b03f7
 BloodAndBacon-DnSpyEx,5,ec269c552d6c693e0d29abba3578b77c7625beff,ec269c5,⚡ Bolt: Optimize Vector3.Distance to DistanceSquared,https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/ec269c552d6c693e0d29abba3578b77c7625beff

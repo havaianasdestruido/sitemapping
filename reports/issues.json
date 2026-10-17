@@ -210,17 +210,6 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "state": "open",
-    "number": 76,
-    "title": "Pin the Android NDK in CI: document/commit r27c explicitly so CI matches the verified toolchain",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-16T15:43:54Z",
-    "labels": "Arena.AI",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/76"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
     "state": "closed",
     "number": 97,
     "title": "[scratch] label permission probe",

@@ -1,6 +1,19 @@
 [
   {
     "repo": "FNF-Phoenix-Engine",
+    "state": "open",
+    "status": "open",
+    "number": 109,
+    "title": "feat(android): add Media3 media session bridge",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-17T14:10:07Z",
+    "base_branch": "main",
+    "head_branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/109"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
     "state": "closed",
     "status": "merged",
     "number": 108,
@@ -1173,6 +1186,19 @@
     "repo": "BloodAndBacon-DnSpyEx",
     "state": "closed",
     "status": "merged",
+    "number": 8,
+    "title": "⚡ Bolt: Optimize Vector3.Distance for proximity checks",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-17T12:37:31Z",
+    "base_branch": "main",
+    "head_branch": "bolt-vector3-distance-optimization-2622079422542910366",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/pull/8"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "state": "closed",
+    "status": "merged",
     "number": 7,
     "title": "⚡ Bolt: [performance improvement] Vector3.Distance to DistanceSquared optimization",
     "user": "havaianasdestruido",
@@ -2224,8 +2250,8 @@
   },
   {
     "repo": "neo-nt5",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "closed",
     "number": 9,
     "title": "🛡️ Sentinel: Fix plain-text product key exposure in README",
     "user": "havaianasdestruido",
@@ -2237,8 +2263,8 @@
   },
   {
     "repo": "neo-nt5",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 8,
     "title": "🎨 Palette: Improve image accessibility on 404 error page",
     "user": "havaianasdestruido",
@@ -2250,8 +2276,8 @@
   },
   {
     "repo": "neo-nt5",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 7,
     "title": "⚡ Bolt: Optimize Path resolution and file reading in agents/verify.py",
     "user": "havaianasdestruido",
@@ -2809,8 +2835,8 @@
   },
   {
     "repo": "PWSV",
-    "state": "open",
-    "status": "open",
+    "state": "closed",
+    "status": "merged",
     "number": 7,
     "title": "⚡ Bolt: [performance improvement] Disable Nagle's algorithm for low-latency WebSockets",
     "user": "havaianasdestruido",

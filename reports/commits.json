@@ -1,6 +1,406 @@
 [
   {
     "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "a41d72608f91388e4ec274a8a6f211b6f6006c7b",
+    "sha_short": "a41d726",
+    "author": "havaianasdestruido",
+    "date": "2026-10-17T14:29:19Z",
+    "message": "fix(android): harden Media3 service lifecycle",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a41d72608f91388e4ec274a8a6f211b6f6006c7b"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "377440bc2b8ebfed4dd3d439b7d38e71373c9d0a",
+    "sha_short": "377440b",
+    "author": "havaianasdestruido",
+    "date": "2026-10-17T14:09:55Z",
+    "message": "feat(android): add Media3 media session bridge",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/377440bc2b8ebfed4dd3d439b7d38e71373c9d0a"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "22bc5197cdef567027e287f17e8a98f17da64c75",
+    "sha_short": "22bc519",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T19:00:34Z",
+    "message": "Add files via upload",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/22bc5197cdef567027e287f17e8a98f17da64c75"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "2b9f5adb02b59bfcf6653f5e04400b7370cf31a0",
+    "sha_short": "2b9f5ad",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T19:00:14Z",
+    "message": "Create readme.txt",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/2b9f5adb02b59bfcf6653f5e04400b7370cf31a0"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "a90d01544ae2c2fa1e98b83034d45b64dcc7959d",
+    "sha_short": "a90d015",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T18:47:40Z",
+    "message": "Make Windows phoenix:// registration check-before-write and auto-register on startup (#108)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a90d01544ae2c2fa1e98b83034d45b64dcc7959d"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "43b98311f99b1a4d3d2290b5b3b9a45fa205f53e",
+    "sha_short": "43b9831",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T18:44:23Z",
+    "message": "Make Windows phoenix:// registration check-before-write and auto-register on startup",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/43b98311f99b1a4d3d2290b5b3b9a45fa205f53e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "262adf6d98e587f3904d3c622600404b296789e4",
+    "sha_short": "262adf6",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T18:07:42Z",
+    "message": "Add Android DocumentsProvider for crash logs and mods (#104)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/262adf6d98e587f3904d3c622600404b296789e4"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "bbb09c171f0d36491567c43de48e9a026312bd7f",
+    "sha_short": "bbb09c1",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T17:48:20Z",
+    "message": "Merge origin/main into arena/22536d1a-fnf-phoenix-engine",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/bbb09c171f0d36491567c43de48e9a026312bd7f"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "72ba5118cfdc83392fdf1dd427b52a3122354ff2",
+    "sha_short": "72ba511",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T17:44:06Z",
+    "message": "fix(android): refresh partially deleted SAF directories",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/72ba5118cfdc83392fdf1dd427b52a3122354ff2"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "7db65bba910888229bcaa2a1754d7b6bac132a82",
+    "sha_short": "7db65bb",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T17:40:09Z",
+    "message": "fix(android): harden SAF provider integration and CI",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7db65bba910888229bcaa2a1754d7b6bac132a82"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "963492abf21c06b7bb31749fd1b8d32ca101844e",
+    "sha_short": "963492a",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T15:53:22Z",
+    "message": "docs: link TODO.md backlog items to their tracking issues (#63-#96) (#98)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/963492abf21c06b7bb31749fd1b8d32ca101844e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "6ee9f04247c8202a42b11407bc80f9a02621e2ce",
+    "sha_short": "6ee9f04",
+    "author": "Arena Agent",
+    "date": "2026-10-16T15:49:46Z",
+    "message": "docs: link TODO.md backlog items to their tracking issues",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6ee9f04247c8202a42b11407bc80f9a02621e2ce"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "27ea5a605f1c0789d493231fd1e83d95045696ef",
+    "sha_short": "27ea5a6",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T15:16:38Z",
+    "message": "Merge pull request #61 from havaianasdestruido/arena/68e4e694-fnf-phoenix-engine",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/27ea5a605f1c0789d493231fd1e83d95045696ef"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "4caaaf2fdf9286f2103cf0178a5c2b922a7d10fc",
+    "sha_short": "4caaaf2",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T15:16:20Z",
+    "message": "Merge branch 'main' into arena/68e4e694-fnf-phoenix-engine",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4caaaf2fdf9286f2103cf0178a5c2b922a7d10fc"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "b43f763994c56bc9aad8ad6765bff1cffac80702",
+    "sha_short": "b43f763",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T15:15:09Z",
+    "message": "Update TODO.md",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b43f763994c56bc9aad8ad6765bff1cffac80702"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "a2545785c08e6dca94457fa0d75de8905994c07e",
+    "sha_short": "a254578",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T14:55:30Z",
+    "message": "ci: remove temporary diagnostic workflow",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a2545785c08e6dca94457fa0d75de8905994c07e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "e3982ff829fbe948a5a9c2cf9b9848bbd8184c3c",
+    "sha_short": "e3982ff",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T14:52:16Z",
+    "message": "fix: import Conductor in GameplaySettingsSubState (#43)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e3982ff829fbe948a5a9c2cf9b9848bbd8184c3c"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "03b38494f79c19feca187e591cf3f42d95245f3e",
+    "sha_short": "03b3849",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T14:48:57Z",
+    "message": "style: tidy imports in moved library patches (#46)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/03b38494f79c19feca187e591cf3f42d95245f3e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "b1bc97f015c638253743124ca3d061c6b00a0c1d",
+    "sha_short": "b1bc97f",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T14:48:40Z",
+    "message": "fix: add explicit imports to moved library patches (#46)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b1bc97f015c638253743124ca3d061c6b00a0c1d"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "be1cdc1cd9d62dc2b33ba9ff90e3adc4ce9d3299",
+    "sha_short": "be1cdc1",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T14:44:11Z",
+    "message": "ci: fix temporary diagnostic permissions",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/be1cdc1cd9d62dc2b33ba9ff90e3adc4ce9d3299"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "eabf5be559724c950fd4f10d634056105c15ed38",
+    "sha_short": "eabf5be",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-27T16:42:02Z",
+    "message": "tools: fix audio compressor root default and the File.Replace() failure (#28)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/eabf5be559724c950fd4f10d634056105c15ed38"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "04c399f7185482b5a469a999d6c6b315de5a55c0",
+    "sha_short": "04c399f",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-27T15:28:04Z",
+    "message": "Add MP3 and OGG compression tools (#27)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/04c399f7185482b5a469a999d6c6b315de5a55c0"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "e139c900a24da4a2f1321105f1b9cf3eaa56cb77",
+    "sha_short": "e139c90",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T15:00:42Z",
+    "message": "Create dependabot.yml",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e139c900a24da4a2f1321105f1b9cf3eaa56cb77"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "5503461e306d503d381d34dfcbdd9bcd29eb52b6",
+    "sha_short": "5503461",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T14:58:44Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5503461e306d503d381d34dfcbdd9bcd29eb52b6"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "7381cfac52c776bf3b8a2310dd06d009d7fd3c85",
+    "sha_short": "7381cfa",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-27T14:54:51Z",
+    "message": "feat: add Phoenix URI deep links for Android, iOS and Windows (#25)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7381cfac52c776bf3b8a2310dd06d009d7fd3c85"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "8496c7afe450c48a62f772269d614eb848c39cbd",
+    "sha_short": "8496c7a",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-27T14:52:46Z",
+    "message": "docs: expand every TBD section in CODESTYLE.md (#26)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/8496c7afe450c48a62f772269d614eb848c39cbd"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "55a15905f33b972390da39603148a5c0b1060e3a",
+    "sha_short": "55a1590",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T14:52:20Z",
+    "message": "Update TODO.md",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/55a15905f33b972390da39603148a5c0b1060e3a"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "40cadefa7d0d84abed2471eb08ecbbc12f42a372",
+    "sha_short": "40cadef",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T14:42:17Z",
+    "message": "Update TODO.md with new tasks for 4th wall features",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/40cadefa7d0d84abed2471eb08ecbbc12f42a372"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "f85ba4378a0a9ebe2d28d6bdc0e147c940888a3c",
+    "sha_short": "f85ba43",
+    "author": "arena-ai-coding-agent[bot]",
+    "date": "2026-09-27T12:55:53Z",
+    "message": "Android platform layer + mobile editor support (TODO.md mobile P1/P2 tasks) (#24)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f85ba4378a0a9ebe2d28d6bdc0e147c940888a3c"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "60b961efc27acf5efe5f0bacf12808975a6ba78d",
+    "sha_short": "60b961e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-27T02:02:20Z",
+    "message": "Atualizar o CODESTYLE.md",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/60b961efc27acf5efe5f0bacf12808975a6ba78d"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "d7b4de828255471fa72726c7f24d58ff58a477ba",
+    "sha_short": "d7b4de8",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:29:27Z",
+    "message": "fix(ci): limit Windows C++ build parallelism",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d7b4de828255471fa72726c7f24d58ff58a477ba"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "105cc16be8801bbaaef68310f5f09efc2e6ebd3e",
+    "sha_short": "105cc16",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:14:03Z",
+    "message": "Merge pull request #15 from havaianasdestruido/codex/remove-obscene-words-from-code",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/105cc16be8801bbaaef68310f5f09efc2e6ebd3e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "00139b4a6962e49172a2115b3fdf616187fed9dd",
+    "sha_short": "00139b4",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-22T00:08:15Z",
+    "message": "refactor: rename inappropriate identifiers",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/00139b4a6962e49172a2115b3fdf616187fed9dd"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "1117fa6ae4d2c521ee4893d1263b86ddcfc21d77",
+    "sha_short": "1117fa6",
+    "author": "havaianasdestruido",
+    "date": "2026-09-18T00:18:51Z",
+    "message": "docs: add canonical agent instructions (AGENTS.md) + pointers (CLAUDE/AI.md)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1117fa6ae4d2c521ee4893d1263b86ddcfc21d77"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "b797836d31598b700eb535c2fd53c48d0b68d9f7",
+    "sha_short": "b797836",
+    "author": "havaianasdestruido",
+    "date": "2026-09-17T13:41:34Z",
+    "message": "revert: dynamic android thread count -> hardcoded 4 (restores normal compile; __cpp__ broke Haxe cpp)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b797836d31598b700eb535c2fd53c48d0b68d9f7"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "35966870599873f38ff716388535247fdf5b12c8",
+    "sha_short": "3596687",
+    "author": "havaianasdestruido",
+    "date": "2026-09-17T12:52:34Z",
+    "message": "ci(mobile): ndk package build-number 27.0.12077973 + real NDK_ROOT (sdkmanager path)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/35966870599873f38ff716388535247fdf5b12c8"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "4f5653d75980c7a88f3fb10bbf8274fc45d8c213",
+    "sha_short": "4f5653d",
+    "author": "havaianasdestruido",
+    "date": "2026-09-16T13:13:06Z",
+    "message": "ci(mobile): setup-android@v4 packages-style (accept licenses; drop 'tools' dropped in cmdline-tools 16)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4f5653d75980c7a88f3fb10bbf8274fc45d8c213"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "e5d87f91833f78d906bc90d5e01d4a795d0417c7",
+    "sha_short": "e5d87f9",
+    "author": "havaianasdestruido",
+    "date": "2026-09-16T12:34:09Z",
+    "message": "ci: pin setup-android@v4 (real tag; v4.1.0 never existed)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e5d87f91833f78d906bc90d5e01d4a795d0417c7"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "0efa4573802918d2e5b6794599a6a403cf16f231",
+    "sha_short": "0efa457",
+    "author": "havaianasdestruido",
+    "date": "2026-09-16T12:26:34Z",
+    "message": "ci: bump setup-android v3 to v4.1.0 (cmdline-tools 16 dropped 'tools' package)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0efa4573802918d2e5b6794599a6a403cf16f231"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "branch": "arena/c829dfc3-fnf-phoenix-engine",
+    "sha": "5b297eb330f76ebef84a303fd6dd667127979ba2",
+    "sha_short": "5b297eb",
+    "author": "havaianasdestruido",
+    "date": "2026-09-16T11:49:16Z",
+    "message": "feat: dynamic android thread count (CoolUtil.getCPUThreadsCount, no hardcode)",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5b297eb330f76ebef84a303fd6dd667127979ba2"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
     "branch": "bolt-nps-optimization-6990886896528488390",
     "sha": "a0e2db3d9b5a61af19e30c166fb92fee7d61dbaf",
     "sha_short": "a0e2db3",
@@ -9822,6 +10222,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "45199d75eddb6dd047692b72ca5fbaad8bec162c",
+    "sha_short": "45199d7",
+    "author": "GitHub Action Bot",
+    "date": "2026-10-17T08:22:02Z",
+    "message": "📊 [2026-10-17 08:22:02 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/45199d75eddb6dd047692b72ca5fbaad8bec162c"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "e78ba01d83c1f0e5601cae75f5c649a12f370e39",
     "sha_short": "e78ba01",
     "author": "GitHub Action Bot",
@@ -9912,12 +10322,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "49852ba99ad855d92b0a5bd07cbb3d8a141bea8f",
-    "sha_short": "49852ba",
-    "author": "GitHub Action Bot",
-    "date": "2026-10-15T08:50:37Z",
-    "message": "📊 [2026-10-15 08:50:37 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/49852ba99ad855d92b0a5bd07cbb3d8a141bea8f"
+    "sha": "2adbc6ee7117a82c375da2d71ca7d510d64ef47a",
+    "sha_short": "2adbc6e",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-08T19:14:17Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/6a1ac155-sitemapping",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/2adbc6ee7117a82c375da2d71ca7d510d64ef47a"
   },
   {
     "repo": "sitemapping",
@@ -10012,12 +10422,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "f7e074b7bbdae4d46dfdb13f6428445ca1666271",
-    "sha_short": "f7e074b",
+    "sha": "026ac8cc975a2e24a2885633842142d1ee516c05",
+    "sha_short": "026ac8c",
     "author": "GitHub Action Bot",
-    "date": "2026-10-05T11:07:19Z",
-    "message": "📊 [2026-10-05 11:07:19 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/f7e074b7bbdae4d46dfdb13f6428445ca1666271"
+    "date": "2026-09-29T10:20:25Z",
+    "message": "📊 [2026-09-29 10:20:25 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/026ac8cc975a2e24a2885633842142d1ee516c05"
   },
   {
     "repo": "sitemapping",
@@ -10112,12 +10522,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "bec9c378a9c1fb1527d8b2280acf0eda212d0d44",
-    "sha_short": "bec9c37",
+    "sha": "3c9b26a5127b7fe5160892d07673f12665f8dc0b",
+    "sha_short": "3c9b26a",
     "author": "GitHub Action Bot",
-    "date": "2026-09-26T18:54:27Z",
-    "message": "📊 [2026-09-26 18:54:27 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/bec9c378a9c1fb1527d8b2280acf0eda212d0d44"
+    "date": "2026-09-21T02:27:01Z",
+    "message": "📊 [2026-09-21 02:27:01 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/3c9b26a5127b7fe5160892d07673f12665f8dc0b"
   },
   {
     "repo": "sitemapping",
@@ -10208,16 +10618,6 @@
     "date": "2026-09-20T18:25:43Z",
     "message": "📊 [2026-09-20 18:25:43 UTC]",
     "url": "https://github.com/havaianasdestruido/sitemapping/commit/38233970f2489a0afe61f88628f3ec88b4159e97"
-  },
-  {
-    "repo": "sitemapping",
-    "branch": "main",
-    "sha": "262d303edc47d3d607520791398cbe9712394ff8",
-    "sha_short": "262d303",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-20T15:20:12Z",
-    "message": "📊 [2026-09-20 15:20:12 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/262d303edc47d3d607520791398cbe9712394ff8"
   },
   {
     "repo": "top100",
@@ -10622,6 +11022,26 @@
   {
     "repo": "top100",
     "branch": "main",
+    "sha": "50f7ed0ad28b192a803d998d229cfe09a7ed975d",
+    "sha_short": "50f7ed0",
+    "author": "github-actions[bot]",
+    "date": "2026-10-17T13:21:01Z",
+    "message": "data: update top repos data (2026-10-17 13:21 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/50f7ed0ad28b192a803d998d229cfe09a7ed975d"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
+    "sha": "966a8bf1c383c249a688ffedf09499aa3d523229",
+    "sha_short": "966a8bf",
+    "author": "github-actions[bot]",
+    "date": "2026-10-17T09:50:13Z",
+    "message": "data: update top repos data (2026-10-17 09:50 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/966a8bf1c383c249a688ffedf09499aa3d523229"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
     "sha": "c4aced1eb41a7d7004c5f07bd801c12a7d8da6df",
     "sha_short": "c4aced1",
     "author": "github-actions[bot]",
@@ -10702,22 +11122,22 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "f7ec95188af446e1d4c3a2b0ad5e4ad1b25113a8",
-    "sha_short": "f7ec951",
+    "sha": "22a8d5a1473a9e898cd74bcc9130bbaa4ab9fd14",
+    "sha_short": "22a8d5a",
     "author": "github-actions[bot]",
-    "date": "2026-10-15T23:24:15Z",
-    "message": "data: update top repos data (2026-10-15 23:24 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/f7ec95188af446e1d4c3a2b0ad5e4ad1b25113a8"
+    "date": "2026-10-10T19:38:27Z",
+    "message": "data: update top repos data (2026-10-10 19:38 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/22a8d5a1473a9e898cd74bcc9130bbaa4ab9fd14"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "b7396740a4c86f054c502511dbd9bd35673db716",
-    "sha_short": "b739674",
+    "sha": "e08470fe622f44ee72f7bdabcc5a8afba9eeac6b",
+    "sha_short": "e08470f",
     "author": "github-actions[bot]",
-    "date": "2026-10-15T20:38:41Z",
-    "message": "data: update top repos data (2026-10-15 20:38 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/b7396740a4c86f054c502511dbd9bd35673db716"
+    "date": "2026-10-10T15:39:12Z",
+    "message": "data: update top repos data (2026-10-10 15:39 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/e08470fe622f44ee72f7bdabcc5a8afba9eeac6b"
   },
   {
     "repo": "top100",
@@ -10802,22 +11222,22 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "a17303e113f96086dcfd7d1563052e06a5997ed1",
-    "sha_short": "a17303e",
+    "sha": "2a14178fa21c6f6f6c94c979472c5815020c3c54",
+    "sha_short": "2a14178",
     "author": "github-actions[bot]",
-    "date": "2026-10-08T19:17:41Z",
-    "message": "data: update top repos data (2026-10-08 19:17 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/a17303e113f96086dcfd7d1563052e06a5997ed1"
+    "date": "2026-10-03T20:18:26Z",
+    "message": "data: update top repos data (2026-10-03 20:18 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/2a14178fa21c6f6f6c94c979472c5815020c3c54"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "480056d5ffd6fe21dae86fc2d7d1072de9fe5faa",
-    "sha_short": "480056d",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-08T19:14:23Z",
-    "message": "Merge pull request #2 from havaianasdestruido/arena/51c06a64-top100",
-    "url": "https://github.com/havaianasdestruido/top100/commit/480056d5ffd6fe21dae86fc2d7d1072de9fe5faa"
+    "sha": "891de91f24d010a2c8b0b00e48bfb721fc1c4356",
+    "sha_short": "891de91",
+    "author": "github-actions[bot]",
+    "date": "2026-10-03T17:50:53Z",
+    "message": "data: update top repos data (2026-10-03 17:50 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/891de91f24d010a2c8b0b00e48bfb721fc1c4356"
   },
   {
     "repo": "top100",
@@ -10902,22 +11322,22 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "b7da8152797a07fa2388f2473ed9c437d4964a12",
-    "sha_short": "b7da815",
+    "sha": "f2ee0ebd527190d53aa1f67c93bb0997590ce769",
+    "sha_short": "f2ee0eb",
     "author": "github-actions[bot]",
-    "date": "2026-10-01T21:29:24Z",
-    "message": "data: update top repos data (2026-10-01 21:29 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/b7da8152797a07fa2388f2473ed9c437d4964a12"
+    "date": "2026-09-27T09:35:07Z",
+    "message": "data: update top repos data (2026-09-27)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/f2ee0ebd527190d53aa1f67c93bb0997590ce769"
   },
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "c3f079c4a001033388b31f9153cb24f3d8868bbe",
-    "sha_short": "c3f079c",
+    "sha": "1d2ee2cdd5f0995906682913d339daf51c110005",
+    "sha_short": "1d2ee2c",
     "author": "github-actions[bot]",
-    "date": "2026-10-01T16:46:12Z",
-    "message": "data: update top repos data (2026-10-01 16:46 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/c3f079c4a001033388b31f9153cb24f3d8868bbe"
+    "date": "2026-09-27T03:08:53Z",
+    "message": "data: update top repos data (2026-09-27)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/1d2ee2cdd5f0995906682913d339daf51c110005"
   },
   {
     "repo": "top100",
@@ -10998,26 +11418,6 @@
     "date": "2026-09-25T22:53:17Z",
     "message": "data: update top repos data (2026-09-25)",
     "url": "https://github.com/havaianasdestruido/top100/commit/e7a9059028bb3b774db87f6353df6cef6252ab3a"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "16822d70a64e847c1f54399d8f1964cff0658bed",
-    "sha_short": "16822d7",
-    "author": "github-actions[bot]",
-    "date": "2026-09-25T19:37:40Z",
-    "message": "data: update top repos data (2026-09-25)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/16822d70a64e847c1f54399d8f1964cff0658bed"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "77b638903c3e21dadafda8b5dce1ffb117e932dc",
-    "sha_short": "77b6389",
-    "author": "github-actions[bot]",
-    "date": "2026-09-25T15:37:10Z",
-    "message": "data: update top repos data (2026-09-25)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/77b638903c3e21dadafda8b5dce1ffb117e932dc"
   },
   {
     "repo": "WAL-skill",
@@ -12821,6 +13221,106 @@
   },
   {
     "repo": "BloodAndBacon-DnSpyEx",
+    "branch": "bolt-vector3-distance-optimization-2622079422542910366",
+    "sha": "fc3ff0740d086edfb43db88c6ae6f31a304504ae",
+    "sha_short": "fc3ff07",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-17T12:37:27Z",
+    "message": "⚡ Bolt: Replace Vector3.Distance with DistanceSquared for proximity checks",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/fc3ff0740d086edfb43db88c6ae6f31a304504ae"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "branch": "bolt-vector3-distance-optimization-2622079422542910366",
+    "sha": "0b105fe11f43300e9826f0a46e17437232ee9f82",
+    "sha_short": "0b105fe",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T15:55:49Z",
+    "message": "Merge pull request #7 from havaianasdestruido/bolt-optimize-vector3-distance-5512198552331133166",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/0b105fe11f43300e9826f0a46e17437232ee9f82"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "branch": "bolt-vector3-distance-optimization-2622079422542910366",
+    "sha": "8237ce85c8ba08552919a4d2295ea4d6f833fe7d",
+    "sha_short": "8237ce8",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-16T15:20:24Z",
+    "message": "⚡ Bolt: Optimize Vector3.Distance calls in game update loop",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/8237ce85c8ba08552919a4d2295ea4d6f833fe7d"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "branch": "bolt-vector3-distance-optimization-2622079422542910366",
+    "sha": "880775401366a18f870c621a67517b658b6c4f47",
+    "sha_short": "8807754",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-15T20:25:13Z",
+    "message": "Merge pull request #6 from havaianasdestruido/bolt-optimize-rockstruct-distance-4449192366516837174",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/880775401366a18f870c621a67517b658b6c4f47"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "branch": "bolt-vector3-distance-optimization-2622079422542910366",
+    "sha": "71b716ec23a155a4bb15b29d4e6a9605bc8b03f7",
+    "sha_short": "71b716e",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-15T16:15:44Z",
+    "message": "Optimize distance calculations in rock physics interaction",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/71b716ec23a155a4bb15b29d4e6a9605bc8b03f7"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "branch": "bolt-vector3-distance-optimization-2622079422542910366",
+    "sha": "77599cd2b261f18267090a3ac0666bd5a4a61fe1",
+    "sha_short": "77599cd",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-14T18:15:34Z",
+    "message": "Merge pull request #5 from havaianasdestruido/bolt-performance-improvement-distance-squared-10341522951947020872",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/77599cd2b261f18267090a3ac0666bd5a4a61fe1"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "branch": "bolt-vector3-distance-optimization-2622079422542910366",
+    "sha": "ec269c552d6c693e0d29abba3578b77c7625beff",
+    "sha_short": "ec269c5",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-14T18:11:47Z",
+    "message": "⚡ Bolt: Optimize Vector3.Distance to DistanceSquared",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/ec269c552d6c693e0d29abba3578b77c7625beff"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "branch": "bolt-vector3-distance-optimization-2622079422542910366",
+    "sha": "938ce3ee69ba16faf81114b71b31f177315b34b2",
+    "sha_short": "938ce3e",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-13T13:05:25Z",
+    "message": "Merge pull request #4 from havaianasdestruido/bolt-vector3-distance-squared-optimization-13924836998611377248",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/938ce3ee69ba16faf81114b71b31f177315b34b2"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "branch": "bolt-vector3-distance-optimization-2622079422542910366",
+    "sha": "0b2b93958339271b74df2219669f04c1ba00552d",
+    "sha_short": "0b2b939",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-13T12:56:26Z",
+    "message": "⚡ Bolt: Optimize Vector3.Distance to Vector3.DistanceSquared in collision loops",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/0b2b93958339271b74df2219669f04c1ba00552d"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
+    "branch": "bolt-vector3-distance-optimization-2622079422542910366",
+    "sha": "91ab80edb049f9ab320ba223bcc340638c896eeb",
+    "sha_short": "91ab80e",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-13T00:45:11Z",
+    "message": "Merge pull request #3 from havaianasdestruido/bolt-performance-distance-squared-14347848413715180709",
+    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/91ab80edb049f9ab320ba223bcc340638c896eeb"
+  },
+  {
+    "repo": "BloodAndBacon-DnSpyEx",
     "branch": "bolt-vector3-distance-squared-optimization-13924836998611377248",
     "sha": "0b2b93958339271b74df2219669f04c1ba00552d",
     "sha_short": "0b2b939",
@@ -12918,106 +13418,6 @@
     "date": "2026-09-18T00:47:39Z",
     "message": "Add MIT License",
     "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/a3d6e8e0b015893a8a080e50cd6f5dc3353d48ec"
-  },
-  {
-    "repo": "BloodAndBacon-DnSpyEx",
-    "branch": "main",
-    "sha": "0b105fe11f43300e9826f0a46e17437232ee9f82",
-    "sha_short": "0b105fe",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-16T15:55:49Z",
-    "message": "Merge pull request #7 from havaianasdestruido/bolt-optimize-vector3-distance-5512198552331133166",
-    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/0b105fe11f43300e9826f0a46e17437232ee9f82"
-  },
-  {
-    "repo": "BloodAndBacon-DnSpyEx",
-    "branch": "main",
-    "sha": "8237ce85c8ba08552919a4d2295ea4d6f833fe7d",
-    "sha_short": "8237ce8",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-10-16T15:20:24Z",
-    "message": "⚡ Bolt: Optimize Vector3.Distance calls in game update loop",
-    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/8237ce85c8ba08552919a4d2295ea4d6f833fe7d"
-  },
-  {
-    "repo": "BloodAndBacon-DnSpyEx",
-    "branch": "main",
-    "sha": "880775401366a18f870c621a67517b658b6c4f47",
-    "sha_short": "8807754",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-15T20:25:13Z",
-    "message": "Merge pull request #6 from havaianasdestruido/bolt-optimize-rockstruct-distance-4449192366516837174",
-    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/880775401366a18f870c621a67517b658b6c4f47"
-  },
-  {
-    "repo": "BloodAndBacon-DnSpyEx",
-    "branch": "main",
-    "sha": "71b716ec23a155a4bb15b29d4e6a9605bc8b03f7",
-    "sha_short": "71b716e",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-10-15T16:15:44Z",
-    "message": "Optimize distance calculations in rock physics interaction",
-    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/71b716ec23a155a4bb15b29d4e6a9605bc8b03f7"
-  },
-  {
-    "repo": "BloodAndBacon-DnSpyEx",
-    "branch": "main",
-    "sha": "77599cd2b261f18267090a3ac0666bd5a4a61fe1",
-    "sha_short": "77599cd",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-14T18:15:34Z",
-    "message": "Merge pull request #5 from havaianasdestruido/bolt-performance-improvement-distance-squared-10341522951947020872",
-    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/77599cd2b261f18267090a3ac0666bd5a4a61fe1"
-  },
-  {
-    "repo": "BloodAndBacon-DnSpyEx",
-    "branch": "main",
-    "sha": "ec269c552d6c693e0d29abba3578b77c7625beff",
-    "sha_short": "ec269c5",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-10-14T18:11:47Z",
-    "message": "⚡ Bolt: Optimize Vector3.Distance to DistanceSquared",
-    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/ec269c552d6c693e0d29abba3578b77c7625beff"
-  },
-  {
-    "repo": "BloodAndBacon-DnSpyEx",
-    "branch": "main",
-    "sha": "938ce3ee69ba16faf81114b71b31f177315b34b2",
-    "sha_short": "938ce3e",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-13T13:05:25Z",
-    "message": "Merge pull request #4 from havaianasdestruido/bolt-vector3-distance-squared-optimization-13924836998611377248",
-    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/938ce3ee69ba16faf81114b71b31f177315b34b2"
-  },
-  {
-    "repo": "BloodAndBacon-DnSpyEx",
-    "branch": "main",
-    "sha": "0b2b93958339271b74df2219669f04c1ba00552d",
-    "sha_short": "0b2b939",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-10-13T12:56:26Z",
-    "message": "⚡ Bolt: Optimize Vector3.Distance to Vector3.DistanceSquared in collision loops",
-    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/0b2b93958339271b74df2219669f04c1ba00552d"
-  },
-  {
-    "repo": "BloodAndBacon-DnSpyEx",
-    "branch": "main",
-    "sha": "91ab80edb049f9ab320ba223bcc340638c896eeb",
-    "sha_short": "91ab80e",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-13T00:45:11Z",
-    "message": "Merge pull request #3 from havaianasdestruido/bolt-performance-distance-squared-14347848413715180709",
-    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/91ab80edb049f9ab320ba223bcc340638c896eeb"
-  },
-  {
-    "repo": "BloodAndBacon-DnSpyEx",
-    "branch": "main",
-    "sha": "6152c23998e240edf22d5deac21b25f3c7994deb",
-    "sha_short": "6152c23",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-10-12T16:16:40Z",
-    "message": "⚡ Bolt: Optimize Vector3.Distance with DistanceSquared",
-    "url": "https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/6152c23998e240edf22d5deac21b25f3c7994deb"
   },
   {
     "repo": "bloxNES",
@@ -17472,6 +17872,26 @@
   {
     "repo": "eleicoes-data",
     "branch": "main",
+    "sha": "d8310e31e869ec28505ef7a53d7ada7ab83c80aa",
+    "sha_short": "d8310e3",
+    "author": "github-actions[bot]",
+    "date": "2026-10-17T13:54:35Z",
+    "message": "data: TSE presidente snapshot 2026-10-17 13:54:35Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/d8310e31e869ec28505ef7a53d7ada7ab83c80aa"
+  },
+  {
+    "repo": "eleicoes-data",
+    "branch": "main",
+    "sha": "fbde941947f3377c8d5a9de030c35e5cf727fd74",
+    "sha_short": "fbde941",
+    "author": "github-actions[bot]",
+    "date": "2026-10-17T10:40:05Z",
+    "message": "data: TSE presidente snapshot 2026-10-17 10:40:05Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/fbde941947f3377c8d5a9de030c35e5cf727fd74"
+  },
+  {
+    "repo": "eleicoes-data",
+    "branch": "main",
     "sha": "8157289185b51399df1b5e0641655313cf0e1596",
     "sha_short": "8157289",
     "author": "github-actions[bot]",
@@ -17552,22 +17972,22 @@
   {
     "repo": "eleicoes-data",
     "branch": "main",
-    "sha": "18dcb6d95951f7c7ec848bda310da117de35df16",
-    "sha_short": "18dcb6d",
+    "sha": "816d90ac343691788c03a35cc6bebea4a96dcbeb",
+    "sha_short": "816d90a",
     "author": "github-actions[bot]",
-    "date": "2026-10-16T01:41:16Z",
-    "message": "data: TSE presidente snapshot 2026-10-16 01:41:16Z",
-    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/18dcb6d95951f7c7ec848bda310da117de35df16"
+    "date": "2026-10-12T00:26:14Z",
+    "message": "data: TSE presidente snapshot 2026-10-12 00:26:14Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/816d90ac343691788c03a35cc6bebea4a96dcbeb"
   },
   {
     "repo": "eleicoes-data",
     "branch": "main",
-    "sha": "85ea4598c06258c5b1d3aa54813883531f86250f",
-    "sha_short": "85ea459",
+    "sha": "783b39dff4cbbb0d67b7f8e4b6f301ecb0b48815",
+    "sha_short": "783b39d",
     "author": "github-actions[bot]",
-    "date": "2026-10-15T23:47:05Z",
-    "message": "data: TSE presidente snapshot 2026-10-15 23:47:05Z",
-    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/85ea4598c06258c5b1d3aa54813883531f86250f"
+    "date": "2026-10-11T21:04:16Z",
+    "message": "data: TSE presidente snapshot 2026-10-11 21:04:16Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/783b39dff4cbbb0d67b7f8e4b6f301ecb0b48815"
   },
   {
     "repo": "eleicoes-data",
@@ -17648,26 +18068,6 @@
     "date": "2026-10-10T07:55:06Z",
     "message": "data: TSE presidente snapshot 2026-10-10 07:55:06Z",
     "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/af21001a189a4356a38bd11300eb341047bcaf61"
-  },
-  {
-    "repo": "eleicoes-data",
-    "branch": "main",
-    "sha": "866ee5a5284196e724e1c1448d036c5fb0564854",
-    "sha_short": "866ee5a",
-    "author": "github-actions[bot]",
-    "date": "2026-10-10T01:56:49Z",
-    "message": "data: TSE presidente snapshot 2026-10-10 01:56:49Z",
-    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/866ee5a5284196e724e1c1448d036c5fb0564854"
-  },
-  {
-    "repo": "eleicoes-data",
-    "branch": "main",
-    "sha": "7bbe97800520becb0486c5c9c7a1ff77e0e6b4e9",
-    "sha_short": "7bbe978",
-    "author": "github-actions[bot]",
-    "date": "2026-10-09T22:54:50Z",
-    "message": "data: TSE presidente snapshot 2026-10-09 22:54:50Z",
-    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/7bbe97800520becb0486c5c9c7a1ff77e0e6b4e9"
   },
   {
     "repo": "EleLab_v2",
@@ -36192,6 +36592,26 @@
   {
     "repo": "PWSV",
     "branch": "main",
+    "sha": "1494ad493f1b5bf0842293e90acd89bed811d005",
+    "sha_short": "1494ad4",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-17T13:47:01Z",
+    "message": "Merge pull request #7 from havaianasdestruido/bolt-tcp-nodelay-17223056997010881068",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/1494ad493f1b5bf0842293e90acd89bed811d005"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "main",
+    "sha": "bd7d474064e17d0c2e458199d2042edb7a962d1a",
+    "sha_short": "bd7d474",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-17T00:21:59Z",
+    "message": "Disable Nagle's Algorithm for WebSocket clients",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/bd7d474064e17d0c2e458199d2042edb7a962d1a"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "main",
     "sha": "c8133c7dc7b54c268688145356231347082cfa44",
     "sha_short": "c8133c7",
     "author": "PatoFlamejanteTV",
@@ -36272,22 +36692,22 @@
   {
     "repo": "PWSV",
     "branch": "main",
-    "sha": "256dd95ec603055e4e7c36d5399bd33e95a7f603",
-    "sha_short": "256dd95",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-11T17:08:33Z",
-    "message": "Merge pull request #2 from havaianasdestruido/jules-performance-optimization-1291372089201965832",
-    "url": "https://github.com/havaianasdestruido/PWSV/commit/256dd95ec603055e4e7c36d5399bd33e95a7f603"
+    "sha": "3fa3c8ad05cf381474a864ea3cb1f090adda99fe",
+    "sha_short": "3fa3c8a",
+    "author": "UltimateQuack",
+    "date": "2026-07-25T23:22:46Z",
+    "message": "add: base processor class with WebSocket integration and APVTS (Source/WebSocketProcessorBase.h, Source/WebSocketProcessorBase.cpp)",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/3fa3c8ad05cf381474a864ea3cb1f090adda99fe"
   },
   {
     "repo": "PWSV",
     "branch": "main",
-    "sha": "be74d6c5a7e0e79d8977bd97dd8d341754903e04",
-    "sha_short": "be74d6c",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-10-11T16:04:17Z",
-    "message": "⚡ Bolt: O(1) MIDI array removal on audio thread",
-    "url": "https://github.com/havaianasdestruido/PWSV/commit/be74d6c5a7e0e79d8977bd97dd8d341754903e04"
+    "sha": "4e9668d9bd9e05a0da5ac94fc6bb081b00c488dd",
+    "sha_short": "4e9668d",
+    "author": "UltimateQuack",
+    "date": "2026-07-25T23:22:14Z",
+    "message": "add: WebSocket server with rate limiting and beat sync (Source/WebSocketServer.h, Source/WebSocketServer.cpp)",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/4e9668d9bd9e05a0da5ac94fc6bb081b00c488dd"
   },
   {
     "repo": "PWSV",

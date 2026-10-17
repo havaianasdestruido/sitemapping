@@ -4,7 +4,7 @@
 
 > fka\. PatoFlamejantetv\/UltimateQuack
 
-**Generated:** 2026-10-17 08:08:13 UTC
+**Generated:** 2026-10-17 14:39:04 UTC
 **Public Repositories:** 124
 
 ---
@@ -13,10 +13,56 @@
 
 - ## [FNF\-Phoenix\-Engine](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine>) `🍴 Fork | 🗃️ Template`
   > Phoenix Engine is an enhanced fork of JSE, which in turn is a fork of Psych but
-  > ⭐ 5 | 🍴 0 | 👀 5 | 🐛 33 open issues | 💻 Haxe | 📅 Created: 2026-04-23 | 🔄 Updated: 2026-10-16
+  > ⭐ 5 | 🍴 0 | 👀 5 | 🐛 34 open issues | 💻 Haxe | 📅 Created: 2026-04-23 | 🔄 Updated: 2026-10-16
 
   - 🔗 Forked from: [JordanSantiagoYT\/FNF\-JS\-Engine](<https://github.com/JordanSantiagoYT/FNF-JS-Engine>)
-    - ### 🌿 Branches (4)
+    - ### 🌿 Branches (5)
+      - [arena\/c829dfc3\-fnf\-phoenix\-engine](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/arena/c829dfc3-fnf-phoenix-engine>) — HEAD: `a41d726`
+        - 📋 [All Commits](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/arena/c829dfc3-fnf-phoenix-engine>)
+        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/arena/c829dfc3-fnf-phoenix-engine>)
+          - [a41d726](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a41d72608f91388e4ec274a8a6f211b6f6006c7b>) fix\(android\)\: harden Media3 service lifecycle — havaianasdestruido (2026\-10\-17)
+          - [377440b](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/377440bc2b8ebfed4dd3d439b7d38e71373c9d0a>) feat\(android\)\: add Media3 media session bridge — havaianasdestruido (2026\-10\-17)
+          - [22bc519](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/22bc5197cdef567027e287f17e8a98f17da64c75>) Add files via upload — PatoFlamejanteTV (2026\-10\-16)
+          - [2b9f5ad](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/2b9f5adb02b59bfcf6653f5e04400b7370cf31a0>) Create readme\.txt — PatoFlamejanteTV (2026\-10\-16)
+          - [a90d015](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a90d01544ae2c2fa1e98b83034d45b64dcc7959d>) Make Windows phoenix\:\/\/ registration check\-before\-write and auto\-registe — PatoFlamejanteTV (2026\-10\-16)
+          - [43b9831](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/43b98311f99b1a4d3d2290b5b3b9a45fa205f53e>) Make Windows phoenix\:\/\/ registration check\-before\-write and auto\-registe — havaianasdestruido (2026\-10\-16)
+          - [262adf6](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/262adf6d98e587f3904d3c622600404b296789e4>) Add Android DocumentsProvider for crash logs and mods \(\#104\) — PatoFlamejanteTV (2026\-10\-16)
+          - [bbb09c1](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/bbb09c171f0d36491567c43de48e9a026312bd7f>) Merge origin\/main into arena\/22536d1a\-fnf\-phoenix\-engine — havaianasdestruido (2026\-10\-16)
+          - [72ba511](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/72ba5118cfdc83392fdf1dd427b52a3122354ff2>) fix\(android\)\: refresh partially deleted SAF directories — havaianasdestruido (2026\-10\-16)
+          - [7db65bb](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7db65bba910888229bcaa2a1754d7b6bac132a82>) fix\(android\)\: harden SAF provider integration and CI — havaianasdestruido (2026\-10\-16)
+        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/arena/c829dfc3-fnf-phoenix-engine/?after=bd61cf1f56220b164d220cb65a9d66f554c78008+34>)
+          - [963492a](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/963492abf21c06b7bb31749fd1b8d32ca101844e>) docs\: link TODO\.md backlog items to their tracking issues \(\#63\-\#96\) \(\#98 — PatoFlamejanteTV (2026\-10\-16)
+          - [6ee9f04](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6ee9f04247c8202a42b11407bc80f9a02621e2ce>) docs\: link TODO\.md backlog items to their tracking issues — Arena Agent (2026\-10\-16)
+          - [27ea5a6](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/27ea5a605f1c0789d493231fd1e83d95045696ef>) Merge pull request \#61 from havaianasdestruido\/arena\/68e4e694\-fnf\-phoeni — PatoFlamejanteTV (2026\-10\-16)
+          - [4caaaf2](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4caaaf2fdf9286f2103cf0178a5c2b922a7d10fc>) Merge branch 'main' into arena\/68e4e694\-fnf\-phoenix\-engine — PatoFlamejanteTV (2026\-10\-16)
+          - [b43f763](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b43f763994c56bc9aad8ad6765bff1cffac80702>) Update TODO\.md — PatoFlamejanteTV (2026\-10\-16)
+          - [a254578](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a2545785c08e6dca94457fa0d75de8905994c07e>) ci\: remove temporary diagnostic workflow — havaianasdestruido (2026\-10\-16)
+          - [e3982ff](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e3982ff829fbe948a5a9c2cf9b9848bbd8184c3c>) fix\: import Conductor in GameplaySettingsSubState \(\#43\) — havaianasdestruido (2026\-10\-16)
+          - [03b3849](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/03b38494f79c19feca187e591cf3f42d95245f3e>) style\: tidy imports in moved library patches \(\#46\) — havaianasdestruido (2026\-10\-16)
+          - [b1bc97f](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b1bc97f015c638253743124ca3d061c6b00a0c1d>) fix\: add explicit imports to moved library patches \(\#46\) — havaianasdestruido (2026\-10\-16)
+          - [be1cdc1](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/be1cdc1cd9d62dc2b33ba9ff90e3adc4ce9d3299>) ci\: fix temporary diagnostic permissions — havaianasdestruido (2026\-10\-16)
+        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/arena/c829dfc3-fnf-phoenix-engine/?after=ce32df47153047fe0b5d34e8bedceafb6a7b0598+34>)
+          - [eabf5be](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/eabf5be559724c950fd4f10d634056105c15ed38>) tools\: fix audio compressor root default and the File\.Replace\(\) failure — arena\-ai\-coding\-agent\[bot\] (2026\-09\-27)
+          - [04c399f](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/04c399f7185482b5a469a999d6c6b315de5a55c0>) Add MP3 and OGG compression tools \(\#27\) — arena\-ai\-coding\-agent\[bot\] (2026\-09\-27)
+          - [e139c90](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e139c900a24da4a2f1321105f1b9cf3eaa56cb77>) Create dependabot\.yml — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-27)
+          - [5503461](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5503461e306d503d381d34dfcbdd9bcd29eb52b6>) Update README\.md — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-27)
+          - [7381cfa](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7381cfac52c776bf3b8a2310dd06d009d7fd3c85>) feat\: add Phoenix URI deep links for Android, iOS and Windows \(\#25\) — arena\-ai\-coding\-agent\[bot\] (2026\-09\-27)
+          - [8496c7a](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/8496c7afe450c48a62f772269d614eb848c39cbd>) docs\: expand every TBD section in CODESTYLE\.md \(\#26\) — arena\-ai\-coding\-agent\[bot\] (2026\-09\-27)
+          - [55a1590](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/55a15905f33b972390da39603148a5c0b1060e3a>) Update TODO\.md — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-27)
+          - [40cadef](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/40cadefa7d0d84abed2471eb08ecbbc12f42a372>) Update TODO\.md with new tasks for 4th wall features — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-27)
+          - [f85ba43](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/f85ba4378a0a9ebe2d28d6bdc0e147c940888a3c>) Android platform layer \+ mobile editor support \(TODO\.md mobile P1\/P2 tas — arena\-ai\-coding\-agent\[bot\] (2026\-09\-27)
+          - [60b961e](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/60b961efc27acf5efe5f0bacf12808975a6ba78d>) Atualizar o CODESTYLE\.md — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-27)
+        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/arena/c829dfc3-fnf-phoenix-engine/?after=9bd823dad2063c1288cae53a3186dd36c4d4215f+34>)
+          - [d7b4de8](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d7b4de828255471fa72726c7f24d58ff58a477ba>) fix\(ci\)\: limit Windows C\+\+ build parallelism — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-22)
+          - [105cc16](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/105cc16be8801bbaaef68310f5f09efc2e6ebd3e>) Merge pull request \#15 from havaianasdestruido\/codex\/remove\-obscene\-word — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-22)
+          - [00139b4](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/00139b4a6962e49172a2115b3fdf616187fed9dd>) refactor\: rename inappropriate identifiers — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-22)
+          - [1117fa6](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1117fa6ae4d2c521ee4893d1263b86ddcfc21d77>) docs\: add canonical agent instructions \(AGENTS\.md\) \+ pointers \(CLAUDE\/AI — havaianasdestruido (2026\-09\-18)
+          - [b797836](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/b797836d31598b700eb535c2fd53c48d0b68d9f7>) revert\: dynamic android thread count \-&gt; hardcoded 4 \(restores normal com — havaianasdestruido (2026\-09\-17)
+          - [3596687](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/35966870599873f38ff716388535247fdf5b12c8>) ci\(mobile\)\: ndk package build\-number 27\.0\.12077973 \+ real NDK\_ROOT \(sdkm — havaianasdestruido (2026\-09\-17)
+          - [4f5653d](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4f5653d75980c7a88f3fb10bbf8274fc45d8c213>) ci\(mobile\)\: setup\-android@v4 packages\-style \(accept licenses; drop 'tool — havaianasdestruido (2026\-09\-16)
+          - [e5d87f9](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e5d87f91833f78d906bc90d5e01d4a795d0417c7>) ci\: pin setup\-android@v4 \(real tag; v4\.1\.0 never existed\) — havaianasdestruido (2026\-09\-16)
+          - [0efa457](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/0efa4573802918d2e5b6794599a6a403cf16f231>) ci\: bump setup\-android v3 to v4\.1\.0 \(cmdline\-tools 16 dropped 'tools' pa — havaianasdestruido (2026\-09\-16)
+          - [5b297eb](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5b297eb330f76ebef84a303fd6dd667127979ba2>) feat\: dynamic android thread count \(CoolUtil\.getCPUThreadsCount, no hard — havaianasdestruido (2026\-09\-16)
       - [bolt\-nps\-optimization\-6990886896528488390](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/tree/bolt-nps-optimization-6990886896528488390>) — HEAD: `a0e2db3`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/bolt-nps-optimization-6990886896528488390>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commits/bolt-nps-optimization-6990886896528488390>)
@@ -203,7 +249,7 @@
           - [2b44842](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/2b44842c8225e6149c7c20ea7df6dc1983138eab>) Merge branch 'main' into refactor\/mods\-rewrite — Vinegar \(Flynn Waiver\) (2026\-03\-14)
 
     - ### 🐛 Issues
-      - **Open Issues** (20)
+      - **Open Issues** (19)
         - [\#96 Port GPU\/CPU driver \+ manufacturer detection \(Psych Plus Nat](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/96>) — havaianasdestruido (2026\-10\-16) `Arena.AI`
         - [\#95 Add Transparent Window support \(FlxTransWindow port\)](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/95>) — havaianasdestruido (2026\-10\-16) `Arena.AI`
         - [\#94 4th wall breaking\: port META\_HORROR elements \(CoolUtil \/ Cpp](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/94>) — havaianasdestruido (2026\-10\-16) `Arena.AI`
@@ -223,7 +269,6 @@
         - [\#79 Missing funkin\.vis cross\-target support — audit \`\#if desktop](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/79>) — havaianasdestruido (2026\-10\-16) `Arena.AI`
         - [\#78 Remove dead Flash\/AIR code paths \(officialBuild flag, render](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/78>) — havaianasdestruido (2026\-10\-16) `Arena.AI`
         - [\#77 Lua\/Python mod sandboxing\: block dangerous strings\/functions](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/77>) — havaianasdestruido (2026\-10\-16) `Arena.AI`
-        - [\#76 Pin the Android NDK in CI\: document\/commit r27c explicitly s](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/76>) — havaianasdestruido (2026\-10\-16) `Arena.AI`
       - **Closed Issues** (7)
         - [\#97 \[scratch\] label permission probe](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/97>) — havaianasdestruido (2026\-10\-16)
         - [\#86 JSON parsing without try\/catch and no signature\/webhook secr](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/86>) — havaianasdestruido (2026\-10\-16)
@@ -234,7 +279,11 @@
         - [\#55 Building with \-DNO\_PRELOAD\_ALL fails\: LoadingState has no co](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/55>) — havaianasdestruido (2026\-10\-15) `bug`
 
     - ### 🔀 Pull Requests
-      - **Open PRs** (0)
+      - **Open PRs** (1)
+        - 🟢 Open [\#109 feat\(android\)\: add Media3 media session bridge](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/109>) — havaianasdestruido (2026\-10\-17) `arena/c829dfc3-fnf-phoenix-engine` → `main`
+          - 📝 2 commit(s) in this PR
+            - [377440b](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/377440bc2b8ebfed4dd3d439b7d38e71373c9d0a>) feat\(android\)\: add Media3 media session bridge
+            - [a41d726](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a41d72608f91388e4ec274a8a6f211b6f6006c7b>) fix\(android\)\: harden Media3 service lifecycle
       - **Closed PRs** (20)
         - ✅ Merged [\#108 Make Windows phoenix\:\/\/ registration check\-before\-write and](<https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/108>) — havaianasdestruido (2026\-10\-16) `arena/7cedbca4-fnf-phoenix-engine` → `main`
           - 📝 1 commit(s) in this PR
@@ -2011,9 +2060,10 @@
           - [7490501](<https://github.com/havaianasdestruido/sitemapping/commit/74905013cec52ff6f220f129c172f9d7a5a0b006>) 📊 Update repository report \[2026\-09\-13 17\:31\:21 UTC\] — GitHub Action Bot (2026\-09\-13)
           - [b113a1a](<https://github.com/havaianasdestruido/sitemapping/commit/b113a1a7238707136a74b436700b150607d5a51c>) Create repo\-analyzer\.yml — Pato \(new acc\) (2026\-09\-13)
           - [a6ebe1d](<https://github.com/havaianasdestruido/sitemapping/commit/a6ebe1dd4f364ad874898f2a9a3628718a2b35f0>) Create generate\_report\.py — Pato \(new acc\) (2026\-09\-13)
-      - [main](<https://github.com/havaianasdestruido/sitemapping/tree/main>) _(default)_ — HEAD: `e78ba01`
+      - [main](<https://github.com/havaianasdestruido/sitemapping/tree/main>) _(default)_ — HEAD: `45199d7`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/sitemapping/commits/main>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/sitemapping/commits/main>)
+          - [45199d7](<https://github.com/havaianasdestruido/sitemapping/commit/45199d75eddb6dd047692b72ca5fbaad8bec162c>) 📊 \[2026\-10\-17 08\:22\:02 UTC\] — GitHub Action Bot (2026\-10\-17)
           - [e78ba01](<https://github.com/havaianasdestruido/sitemapping/commit/e78ba01d83c1f0e5601cae75f5c649a12f370e39>) 📊 \[2026\-10\-17 02\:19\:16 UTC\] — GitHub Action Bot (2026\-10\-17)
           - [821006e](<https://github.com/havaianasdestruido/sitemapping/commit/821006e52cef6ff361addf2ad286ed2dda2ceb02>) 📊 \[2026\-10\-16 22\:30\:56 UTC\] — GitHub Action Bot (2026\-10\-16)
           - [693a41e](<https://github.com/havaianasdestruido/sitemapping/commit/693a41e09c60220482c3cfda96109b15c1439153>) 📊 \[2026\-10\-16 19\:19\:13 UTC\] — GitHub Action Bot (2026\-10\-16)
@@ -2023,8 +2073,8 @@
           - [7949581](<https://github.com/havaianasdestruido/sitemapping/commit/794958197dddfbbf97837c4e1e432228e3cb068e>) 📊 \[2026\-10\-15 22\:56\:59 UTC\] — GitHub Action Bot (2026\-10\-15)
           - [4627d2e](<https://github.com/havaianasdestruido/sitemapping/commit/4627d2eb51bdd1baec8d61d213060d8e84e7b25b>) 📊 \[2026\-10\-15 19\:55\:31 UTC\] — GitHub Action Bot (2026\-10\-15)
           - [17d6ad9](<https://github.com/havaianasdestruido/sitemapping/commit/17d6ad9b2a0c9b61118731f59f487143e8ba2398>) 📊 \[2026\-10\-15 16\:10\:48 UTC\] — GitHub Action Bot (2026\-10\-15)
-          - [49852ba](<https://github.com/havaianasdestruido/sitemapping/commit/49852ba99ad855d92b0a5bd07cbb3d8a141bea8f>) 📊 \[2026\-10\-15 08\:50\:37 UTC\] — GitHub Action Bot (2026\-10\-15)
-        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/sitemapping/commits/main/?after=2adbc6ee7117a82c375da2d71ca7d510d64ef47a+34>)
+        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/sitemapping/commits/main/?after=9e32092a408301d37c563e0655e937da5a5675ff+34>)
+          - [2adbc6e](<https://github.com/havaianasdestruido/sitemapping/commit/2adbc6ee7117a82c375da2d71ca7d510d64ef47a>) Merge pull request \#1 from havaianasdestruido\/arena\/6a1ac155\-sitemapping — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-08)
           - [a63fb24](<https://github.com/havaianasdestruido/sitemapping/commit/a63fb24f0350fb2099eaa99501410f1c43c9e5b2>) Implement secure WebMCP report explorer — havaianasdestruido (2026\-10\-08)
           - [57b03e8](<https://github.com/havaianasdestruido/sitemapping/commit/57b03e84f1b6c83b073d82732643d530a05e14ff>) 📊 \[2026\-10\-08 18\:19\:13 UTC\] — GitHub Action Bot (2026\-10\-08)
           - [0a791f6](<https://github.com/havaianasdestruido/sitemapping/commit/0a791f6e30cc6f4017dc588230ce1172439cfb79>) 📊 \[2026\-10\-08 03\:58\:56 UTC\] — GitHub Action Bot (2026\-10\-08)
@@ -2034,8 +2084,8 @@
           - [1c6e399](<https://github.com/havaianasdestruido/sitemapping/commit/1c6e3995c52b825d4f703014a889d9428cf94486>) 📊 \[2026\-10\-06 23\:32\:26 UTC\] — GitHub Action Bot (2026\-10\-06)
           - [6082483](<https://github.com/havaianasdestruido/sitemapping/commit/60824837146cc2022932d7eeb8bbe8c5d854b87c>) 📊 \[2026\-10\-06 17\:42\:08 UTC\] — GitHub Action Bot (2026\-10\-06)
           - [bb9bc20](<https://github.com/havaianasdestruido/sitemapping/commit/bb9bc20417d496535ecaecb4322a5466d6f969e4>) 📊 \[2026\-10\-06 01\:12\:56 UTC\] — GitHub Action Bot (2026\-10\-06)
-          - [f7e074b](<https://github.com/havaianasdestruido/sitemapping/commit/f7e074b7bbdae4d46dfdb13f6428445ca1666271>) 📊 \[2026\-10\-05 11\:07\:19 UTC\] — GitHub Action Bot (2026\-10\-05)
-        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/sitemapping/commits/main/?after=026ac8cc975a2e24a2885633842142d1ee516c05+34>)
+        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/sitemapping/commits/main/?after=ed85bf197e83f53b1c3247c1b67b63151c85a491+34>)
+          - [026ac8c](<https://github.com/havaianasdestruido/sitemapping/commit/026ac8cc975a2e24a2885633842142d1ee516c05>) 📊 \[2026\-09\-29 10\:20\:25 UTC\] — GitHub Action Bot (2026\-09\-29)
           - [5503f13](<https://github.com/havaianasdestruido/sitemapping/commit/5503f13b1bbe70157abbde3b764ccad913d09f99>) 📊 \[2026\-09\-29 00\:10\:46 UTC\] — GitHub Action Bot (2026\-09\-29)
           - [1cafda7](<https://github.com/havaianasdestruido/sitemapping/commit/1cafda728e4c10d10556283d3878e091f8421420>) 📊 \[2026\-09\-28 19\:04\:43 UTC\] — GitHub Action Bot (2026\-09\-28)
           - [b148e3d](<https://github.com/havaianasdestruido/sitemapping/commit/b148e3dc14c26c724320306ef442854f5806542b>) 📊 \[2026\-09\-28 10\:23\:32 UTC\] — GitHub Action Bot (2026\-09\-28)
@@ -2045,8 +2095,8 @@
           - [3bd85f1](<https://github.com/havaianasdestruido/sitemapping/commit/3bd85f1c5ce5ad5384f3c6941636e2eabd2c20cc>) 📊 \[2026\-09\-27 09\:42\:42 UTC\] — GitHub Action Bot (2026\-09\-27)
           - [4652927](<https://github.com/havaianasdestruido/sitemapping/commit/4652927517292e24f3e68a33018df8a383f18f2b>) 📊 \[2026\-09\-27 02\:36\:47 UTC\] — GitHub Action Bot (2026\-09\-27)
           - [644506f](<https://github.com/havaianasdestruido/sitemapping/commit/644506f518735e6e45a081648bdf1078f7cba406>) 📊 \[2026\-09\-26 22\:20\:35 UTC\] — GitHub Action Bot (2026\-09\-26)
-          - [bec9c37](<https://github.com/havaianasdestruido/sitemapping/commit/bec9c378a9c1fb1527d8b2280acf0eda212d0d44>) 📊 \[2026\-09\-26 18\:54\:27 UTC\] — GitHub Action Bot (2026\-09\-26)
-        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/sitemapping/commits/main/?after=3c9b26a5127b7fe5160892d07673f12665f8dc0b+34>)
+        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/sitemapping/commits/main/?after=070563fb8247767751938e9402b98ccb80b9aa01+34>)
+          - [3c9b26a](<https://github.com/havaianasdestruido/sitemapping/commit/3c9b26a5127b7fe5160892d07673f12665f8dc0b>) 📊 \[2026\-09\-21 02\:27\:01 UTC\] — GitHub Action Bot (2026\-09\-21)
           - [64412d1](<https://github.com/havaianasdestruido/sitemapping/commit/64412d1f798c4c039d5d32f94c9cc007d320084f>) 📊 \[2026\-09\-21 01\:14\:25 UTC\] — GitHub Action Bot (2026\-09\-21)
           - [8113d82](<https://github.com/havaianasdestruido/sitemapping/commit/8113d8276f6f47b1930675e94df54e8a1d9be39b>) Set imgbot schedule to weekly — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
           - [01fed62](<https://github.com/havaianasdestruido/sitemapping/commit/01fed62471bfa6aafca67bb77381f9ff2455e15e>) 📊 \[2026\-09\-21 00\:41\:43 UTC\] — GitHub Action Bot (2026\-09\-21)
@@ -2056,7 +2106,6 @@
           - [317107f](<https://github.com/havaianasdestruido/sitemapping/commit/317107fd6dbb0a8373147e97b36ebf7ac9af45f5>) 📊 \[2026\-09\-20 20\:16\:46 UTC\] — GitHub Action Bot (2026\-09\-20)
           - [cbc3fac](<https://github.com/havaianasdestruido/sitemapping/commit/cbc3fac2a3e9b844ac3e411adb25802c76abb3f9>) docs\: add star history chart — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-20)
           - [3823397](<https://github.com/havaianasdestruido/sitemapping/commit/38233970f2489a0afe61f88628f3ec88b4159e97>) 📊 \[2026\-09\-20 18\:25\:43 UTC\] — GitHub Action Bot (2026\-09\-20)
-          - [262d303](<https://github.com/havaianasdestruido/sitemapping/commit/262d303edc47d3d607520791398cbe9712394ff8>) 📊 \[2026\-09\-20 15\:20\:12 UTC\] — GitHub Action Bot (2026\-09\-20)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -2077,7 +2126,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@actions\-user](<https://github.com/actions-user>) — 121 commit(s)
+      - [@actions\-user](<https://github.com/actions-user>) — 122 commit(s)
       - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 24 commit(s)
 
     - ### 🏷️ Releases (2)
@@ -2143,9 +2192,11 @@
           - [effc1ae](<https://github.com/havaianasdestruido/top100/commit/effc1ae74aef9001bba6e70f3b09c6387d64d460>) Include LISTS\.md in commit results step — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-20)
           - [e61227a](<https://github.com/havaianasdestruido/top100/commit/e61227aa541d6345d1d0864e843cb6dbce81b4e0>) data\: update top repos data \(2026\-09\-20\) — github\-actions\[bot\] (2026\-09\-20)
           - [941015e](<https://github.com/havaianasdestruido/top100/commit/941015ea6dd0be571c10ae5073d9dc005639dc6b>) Implement write\_lists\_md function for markdown indexing — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-20)
-      - [main](<https://github.com/havaianasdestruido/top100/tree/main>) _(default)_ — HEAD: `c4aced1`
+      - [main](<https://github.com/havaianasdestruido/top100/tree/main>) _(default)_ — HEAD: `50f7ed0`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/top100/commits/main>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/top100/commits/main>)
+          - [50f7ed0](<https://github.com/havaianasdestruido/top100/commit/50f7ed0ad28b192a803d998d229cfe09a7ed975d>) data\: update top repos data \(2026\-10\-17 13\:21 UTC\) — github\-actions\[bot\] (2026\-10\-17)
+          - [966a8bf](<https://github.com/havaianasdestruido/top100/commit/966a8bf1c383c249a688ffedf09499aa3d523229>) data\: update top repos data \(2026\-10\-17 09\:50 UTC\) — github\-actions\[bot\] (2026\-10\-17)
           - [c4aced1](<https://github.com/havaianasdestruido/top100/commit/c4aced1eb41a7d7004c5f07bd801c12a7d8da6df>) data\: update top repos data \(2026\-10\-17 05\:10 UTC\) — github\-actions\[bot\] (2026\-10\-17)
           - [5112a06](<https://github.com/havaianasdestruido/top100/commit/5112a067946da693109831c099d2209afcb2c4be>) data\: update top repos data \(2026\-10\-17 00\:54 UTC\) — github\-actions\[bot\] (2026\-10\-17)
           - [9eba26d](<https://github.com/havaianasdestruido/top100/commit/9eba26d0d951c33bb744b52c4b80316a24a50691>) data\: update top repos data \(2026\-10\-16 22\:18 UTC\) — github\-actions\[bot\] (2026\-10\-16)
@@ -2154,9 +2205,9 @@
           - [0257adb](<https://github.com/havaianasdestruido/top100/commit/0257adbd9386f9abe922c018b439cfcc40b9d6fa>) data\: update top repos data \(2026\-10\-16 12\:00 UTC\) — github\-actions\[bot\] (2026\-10\-16)
           - [83df890](<https://github.com/havaianasdestruido/top100/commit/83df890cc25929cb3fc49f8b2b88586e0a280c89>) data\: update top repos data \(2026\-10\-16 06\:32 UTC\) — github\-actions\[bot\] (2026\-10\-16)
           - [0739768](<https://github.com/havaianasdestruido/top100/commit/07397686cbcea69809ecb1ae293d24f7bc7fb377>) data\: update top repos data \(2026\-10\-16 01\:54 UTC\) — github\-actions\[bot\] (2026\-10\-16)
-          - [f7ec951](<https://github.com/havaianasdestruido/top100/commit/f7ec95188af446e1d4c3a2b0ad5e4ad1b25113a8>) data\: update top repos data \(2026\-10\-15 23\:24 UTC\) — github\-actions\[bot\] (2026\-10\-15)
-          - [b739674](<https://github.com/havaianasdestruido/top100/commit/b7396740a4c86f054c502511dbd9bd35673db716>) data\: update top repos data \(2026\-10\-15 20\:38 UTC\) — github\-actions\[bot\] (2026\-10\-15)
-        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/top100/commits/main/?after=e08470fe622f44ee72f7bdabcc5a8afba9eeac6b+34>)
+        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/top100/commits/main/?after=58cbe7ad1e008f044df5e3ba650f2b8c5c9b7d3d+34>)
+          - [22a8d5a](<https://github.com/havaianasdestruido/top100/commit/22a8d5a1473a9e898cd74bcc9130bbaa4ab9fd14>) data\: update top repos data \(2026\-10\-10 19\:38 UTC\) — github\-actions\[bot\] (2026\-10\-10)
+          - [e08470f](<https://github.com/havaianasdestruido/top100/commit/e08470fe622f44ee72f7bdabcc5a8afba9eeac6b>) data\: update top repos data \(2026\-10\-10 15\:39 UTC\) — github\-actions\[bot\] (2026\-10\-10)
           - [2fe8183](<https://github.com/havaianasdestruido/top100/commit/2fe8183f2d70728649af3adc78490f64c61254bd>) data\: update top repos data \(2026\-10\-10 09\:17 UTC\) — github\-actions\[bot\] (2026\-10\-10)
           - [02d3e04](<https://github.com/havaianasdestruido/top100/commit/02d3e0412dd22711d049ad29ae85cfd86613b091>) data\: update top repos data \(2026\-10\-10 02\:59 UTC\) — github\-actions\[bot\] (2026\-10\-10)
           - [f1a1469](<https://github.com/havaianasdestruido/top100/commit/f1a1469b81b045a17a8eb7cdf87b51e4139ac5ba>) data\: update top repos data \(2026\-10\-09 23\:40 UTC\) — github\-actions\[bot\] (2026\-10\-09)
@@ -2165,9 +2216,9 @@
           - [d407d94](<https://github.com/havaianasdestruido/top100/commit/d407d947aae89182c4dfbba17fd4868b2ebf4570>) data\: update top repos data \(2026\-10\-09 06\:55 UTC\) — github\-actions\[bot\] (2026\-10\-09)
           - [010f809](<https://github.com/havaianasdestruido/top100/commit/010f8097fb80c4652f9b883986038fc6e94d5055>) data\: update top repos data \(2026\-10\-09 00\:47 UTC\) — github\-actions\[bot\] (2026\-10\-09)
           - [efa21d9](<https://github.com/havaianasdestruido/top100/commit/efa21d9f72e590173c303246cdee9359d85d218f>) data\: update top repos data \(2026\-10\-08 20\:20 UTC\) — github\-actions\[bot\] (2026\-10\-08)
-          - [a17303e](<https://github.com/havaianasdestruido/top100/commit/a17303e113f96086dcfd7d1563052e06a5997ed1>) data\: update top repos data \(2026\-10\-08 19\:17 UTC\) — github\-actions\[bot\] (2026\-10\-08)
-          - [480056d](<https://github.com/havaianasdestruido/top100/commit/480056d5ffd6fe21dae86fc2d7d1072de9fe5faa>) Merge pull request \#2 from havaianasdestruido\/arena\/51c06a64\-top100 — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-08)
-        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/top100/commits/main/?after=891de91f24d010a2c8b0b00e48bfb721fc1c4356+34>)
+        - 📄 [Commits Page 3](<https://github.com/havaianasdestruido/top100/commits/main/?after=6bdc48d1de6eaf46615773697d0007c2795ac33e+34>)
+          - [2a14178](<https://github.com/havaianasdestruido/top100/commit/2a14178fa21c6f6f6c94c979472c5815020c3c54>) data\: update top repos data \(2026\-10\-03 20\:18 UTC\) — github\-actions\[bot\] (2026\-10\-03)
+          - [891de91](<https://github.com/havaianasdestruido/top100/commit/891de91f24d010a2c8b0b00e48bfb721fc1c4356>) data\: update top repos data \(2026\-10\-03 17\:50 UTC\) — github\-actions\[bot\] (2026\-10\-03)
           - [3842d5e](<https://github.com/havaianasdestruido/top100/commit/3842d5ef2a94383f5682218a24355f1704dd5fb8>) data\: update top repos data \(2026\-10\-03 14\:01 UTC\) — github\-actions\[bot\] (2026\-10\-03)
           - [c1f147a](<https://github.com/havaianasdestruido/top100/commit/c1f147a92360dfeaf15aba5812df7b513df924ce>) data\: update top repos data \(2026\-10\-03 08\:39 UTC\) — github\-actions\[bot\] (2026\-10\-03)
           - [663abb6](<https://github.com/havaianasdestruido/top100/commit/663abb6f8654d28ec152be5beababace7da50345>) data\: update top repos data \(2026\-10\-03 02\:33 UTC\) — github\-actions\[bot\] (2026\-10\-03)
@@ -2176,9 +2227,9 @@
           - [7a0ff6a](<https://github.com/havaianasdestruido/top100/commit/7a0ff6aa146a00398204c2d7786fd6509721e0e1>) data\: update top repos data \(2026\-10\-02 14\:15 UTC\) — github\-actions\[bot\] (2026\-10\-02)
           - [2a20397](<https://github.com/havaianasdestruido/top100/commit/2a2039773b57ceff0fd2c4f641460dd44b4d0690>) data\: update top repos data \(2026\-10\-02 07\:39 UTC\) — github\-actions\[bot\] (2026\-10\-02)
           - [a7dbb14](<https://github.com/havaianasdestruido/top100/commit/a7dbb14a155a67f6ae5b60d261db7cdd9580411a>) data\: update top repos data \(2026\-10\-02 01\:10 UTC\) — github\-actions\[bot\] (2026\-10\-02)
-          - [b7da815](<https://github.com/havaianasdestruido/top100/commit/b7da8152797a07fa2388f2473ed9c437d4964a12>) data\: update top repos data \(2026\-10\-01 21\:29 UTC\) — github\-actions\[bot\] (2026\-10\-01)
-          - [c3f079c](<https://github.com/havaianasdestruido/top100/commit/c3f079c4a001033388b31f9153cb24f3d8868bbe>) data\: update top repos data \(2026\-10\-01 16\:46 UTC\) — github\-actions\[bot\] (2026\-10\-01)
-        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/top100/commits/main/?after=1d2ee2cdd5f0995906682913d339daf51c110005+34>)
+        - 📄 [Commits Page 4](<https://github.com/havaianasdestruido/top100/commits/main/?after=3f60b27613749013bf809b0872e80b7a0927f60e+34>)
+          - [f2ee0eb](<https://github.com/havaianasdestruido/top100/commit/f2ee0ebd527190d53aa1f67c93bb0997590ce769>) data\: update top repos data \(2026\-09\-27\) — github\-actions\[bot\] (2026\-09\-27)
+          - [1d2ee2c](<https://github.com/havaianasdestruido/top100/commit/1d2ee2cdd5f0995906682913d339daf51c110005>) data\: update top repos data \(2026\-09\-27\) — github\-actions\[bot\] (2026\-09\-27)
           - [ff24016](<https://github.com/havaianasdestruido/top100/commit/ff24016d9f46338d475a69f6652e536d72116a3b>) data\: update top repos data \(2026\-09\-26\) — github\-actions\[bot\] (2026\-09\-26)
           - [e946c7f](<https://github.com/havaianasdestruido/top100/commit/e946c7f4652fde3688fc7e2316835b68254fa032>) data\: update top repos data \(2026\-09\-26\) — github\-actions\[bot\] (2026\-09\-26)
           - [9c7cbef](<https://github.com/havaianasdestruido/top100/commit/9c7cbef9ea46d4eed3b9fc73b08bed950c3eba14>) data\: update top repos data \(2026\-09\-26\) — github\-actions\[bot\] (2026\-09\-26)
@@ -2187,8 +2238,6 @@
           - [a0d93d7](<https://github.com/havaianasdestruido/top100/commit/a0d93d704698c09eb350d6dd38e6f56658f5de4d>) data\: update top repos data \(2026\-09\-26\) — github\-actions\[bot\] (2026\-09\-26)
           - [5f70006](<https://github.com/havaianasdestruido/top100/commit/5f7000603749d37b475f9734826d6bc9dbdcd14c>) data\: update top repos data \(2026\-09\-26\) — github\-actions\[bot\] (2026\-09\-26)
           - [e7a9059](<https://github.com/havaianasdestruido/top100/commit/e7a9059028bb3b774db87f6353df6cef6252ab3a>) data\: update top repos data \(2026\-09\-25\) — github\-actions\[bot\] (2026\-09\-25)
-          - [16822d7](<https://github.com/havaianasdestruido/top100/commit/16822d70a64e847c1f54399d8f1964cff0658bed>) data\: update top repos data \(2026\-09\-25\) — github\-actions\[bot\] (2026\-09\-25)
-          - [77b6389](<https://github.com/havaianasdestruido/top100/commit/77b638903c3e21dadafda8b5dce1ffb117e932dc>) data\: update top repos data \(2026\-09\-25\) — github\-actions\[bot\] (2026\-09\-25)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -2213,13 +2262,13 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@github\-actions\[bot\]](<https://github.com/apps/github-actions>) — 145 commit(s)
+      - [@github\-actions\[bot\]](<https://github.com/apps/github-actions>) — 147 commit(s)
       - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 23 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `HTML` — 93.5% (4,873,723 bytes)
+      - `HTML` — 93.5% (4,873,387 bytes)
       - `Python` — 3.3% (170,108 bytes)
       - `JavaScript` — 3.1% (161,810 bytes)
       - `CSS` — 0.1% (6,452 bytes)
@@ -2700,9 +2749,9 @@
 
 - ## [BloodAndBacon\-DnSpyEx](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx>)
   > Decompile of Blood &amp; Bacon made using DnSpyEx\.
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C\# | 📅 Created: 2026-08-12 | 🔄 Updated: 2026-10-16
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C\# | 📅 Created: 2026-08-12 | 🔄 Updated: 2026-10-17
 
-    - ### 🌿 Branches (8)
+    - ### 🌿 Branches (9)
       - [bolt\/optimize\-vector3\-distance\-10827051003152385101](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/tree/bolt/optimize-vector3-distance-10827051003152385101>) — HEAD: `dfef88e`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commits/bolt/optimize-vector3-distance-10827051003152385101>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commits/bolt/optimize-vector3-distance-10827051003152385101>)
@@ -2772,6 +2821,19 @@
           - [6ff4976](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/6ff4976cf9387aca968ddcb2ebbbc78b73fde4ec>) Merge pull request \#1 from havaianasdestruido\/bolt\-perf\-vector3\-40486174 — PatoFlamejanteTV (2026\-10\-10)
           - [5cf7b85](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/5cf7b856d6e7452e12ca1e501be5ee587fe2197c>) ⚡ Bolt\: Optimize Vector3\.Distance to Vector3\.DistanceSquared — google\-labs\-jules\[bot\] (2026\-10\-10)
           - [5ec8cce](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/5ec8ccea7b86163a2fafe6e6be0c90955b1f345c>) Set imgbot schedule to weekly — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
+      - [bolt\-vector3\-distance\-optimization\-2622079422542910366](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/tree/bolt-vector3-distance-optimization-2622079422542910366>) — HEAD: `fc3ff07`
+        - 📋 [All Commits](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commits/bolt-vector3-distance-optimization-2622079422542910366>)
+        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commits/bolt-vector3-distance-optimization-2622079422542910366>)
+          - [fc3ff07](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/fc3ff0740d086edfb43db88c6ae6f31a304504ae>) ⚡ Bolt\: Replace Vector3\.Distance with DistanceSquared for proximity chec — google\-labs\-jules\[bot\] (2026\-10\-17)
+          - [0b105fe](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/0b105fe11f43300e9826f0a46e17437232ee9f82>) Merge pull request \#7 from havaianasdestruido\/bolt\-optimize\-vector3\-dist — PatoFlamejanteTV (2026\-10\-16)
+          - [8237ce8](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/8237ce85c8ba08552919a4d2295ea4d6f833fe7d>) ⚡ Bolt\: Optimize Vector3\.Distance calls in game update loop — google\-labs\-jules\[bot\] (2026\-10\-16)
+          - [8807754](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/880775401366a18f870c621a67517b658b6c4f47>) Merge pull request \#6 from havaianasdestruido\/bolt\-optimize\-rockstruct\-d — PatoFlamejanteTV (2026\-10\-15)
+          - [71b716e](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/71b716ec23a155a4bb15b29d4e6a9605bc8b03f7>) Optimize distance calculations in rock physics interaction — google\-labs\-jules\[bot\] (2026\-10\-15)
+          - [77599cd](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/77599cd2b261f18267090a3ac0666bd5a4a61fe1>) Merge pull request \#5 from havaianasdestruido\/bolt\-performance\-improveme — PatoFlamejanteTV (2026\-10\-14)
+          - [ec269c5](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/ec269c552d6c693e0d29abba3578b77c7625beff>) ⚡ Bolt\: Optimize Vector3\.Distance to DistanceSquared — google\-labs\-jules\[bot\] (2026\-10\-14)
+          - [938ce3e](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/938ce3ee69ba16faf81114b71b31f177315b34b2>) Merge pull request \#4 from havaianasdestruido\/bolt\-vector3\-distance\-squa — PatoFlamejanteTV (2026\-10\-13)
+          - [0b2b939](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/0b2b93958339271b74df2219669f04c1ba00552d>) ⚡ Bolt\: Optimize Vector3\.Distance to Vector3\.DistanceSquared in collisio — google\-labs\-jules\[bot\] (2026\-10\-13)
+          - [91ab80e](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/91ab80edb049f9ab320ba223bcc340638c896eeb>) Merge pull request \#3 from havaianasdestruido\/bolt\-performance\-distance\- — PatoFlamejanteTV (2026\-10\-13)
       - [bolt\-vector3\-distance\-squared\-optimization\-13924836998611377248](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/tree/bolt-vector3-distance-squared-optimization-13924836998611377248>) — HEAD: `0b2b939`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commits/bolt-vector3-distance-squared-optimization-13924836998611377248>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commits/bolt-vector3-distance-squared-optimization-13924836998611377248>)
@@ -2785,19 +2847,7 @@
           - [5ec8cce](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/5ec8ccea7b86163a2fafe6e6be0c90955b1f345c>) Set imgbot schedule to weekly — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
           - [58e3cd9](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/58e3cd9c16e0283b3c653a852d175c0e38f5fc7b>) Add \.imgbotconfig for aggressive image compression — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
           - [a3d6e8e](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/a3d6e8e0b015893a8a080e50cd6f5dc3353d48ec>) Add MIT License — Pato \(new acc\) (2026\-09\-18)
-      - [main](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/tree/main>) _(default)_ — HEAD: `0b105fe`
-        - 📋 [All Commits](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commits/main>)
-        - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commits/main>)
-          - [0b105fe](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/0b105fe11f43300e9826f0a46e17437232ee9f82>) Merge pull request \#7 from havaianasdestruido\/bolt\-optimize\-vector3\-dist — PatoFlamejanteTV (2026\-10\-16)
-          - [8237ce8](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/8237ce85c8ba08552919a4d2295ea4d6f833fe7d>) ⚡ Bolt\: Optimize Vector3\.Distance calls in game update loop — google\-labs\-jules\[bot\] (2026\-10\-16)
-          - [8807754](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/880775401366a18f870c621a67517b658b6c4f47>) Merge pull request \#6 from havaianasdestruido\/bolt\-optimize\-rockstruct\-d — PatoFlamejanteTV (2026\-10\-15)
-          - [71b716e](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/71b716ec23a155a4bb15b29d4e6a9605bc8b03f7>) Optimize distance calculations in rock physics interaction — google\-labs\-jules\[bot\] (2026\-10\-15)
-          - [77599cd](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/77599cd2b261f18267090a3ac0666bd5a4a61fe1>) Merge pull request \#5 from havaianasdestruido\/bolt\-performance\-improveme — PatoFlamejanteTV (2026\-10\-14)
-          - [ec269c5](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/ec269c552d6c693e0d29abba3578b77c7625beff>) ⚡ Bolt\: Optimize Vector3\.Distance to DistanceSquared — google\-labs\-jules\[bot\] (2026\-10\-14)
-          - [938ce3e](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/938ce3ee69ba16faf81114b71b31f177315b34b2>) Merge pull request \#4 from havaianasdestruido\/bolt\-vector3\-distance\-squa — PatoFlamejanteTV (2026\-10\-13)
-          - [0b2b939](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/0b2b93958339271b74df2219669f04c1ba00552d>) ⚡ Bolt\: Optimize Vector3\.Distance to Vector3\.DistanceSquared in collisio — google\-labs\-jules\[bot\] (2026\-10\-13)
-          - [91ab80e](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/91ab80edb049f9ab320ba223bcc340638c896eeb>) Merge pull request \#3 from havaianasdestruido\/bolt\-performance\-distance\- — PatoFlamejanteTV (2026\-10\-13)
-          - [6152c23](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/6152c23998e240edf22d5deac21b25f3c7994deb>) ⚡ Bolt\: Optimize Vector3\.Distance with DistanceSquared — google\-labs\-jules\[bot\] (2026\-10\-12)
+      - …and 1 more — [View all branches](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/branches>)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -2805,7 +2855,10 @@
 
     - ### 🔀 Pull Requests
       - **Open PRs** (0)
-      - **Closed PRs** (7)
+      - **Closed PRs** (8)
+        - ✅ Merged [\#8 ⚡ Bolt\: Optimize Vector3\.Distance for proximity checks](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/pull/8>) — havaianasdestruido (2026\-10\-17) `bolt-vector3-distance-optimization-2622079422542910366` → `main`
+          - 📝 1 commit(s) in this PR
+            - [fc3ff07](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/fc3ff0740d086edfb43db88c6ae6f31a304504ae>) ⚡ Bolt\: Replace Vector3\.Distance with DistanceSquared for pr
         - ✅ Merged [\#7 ⚡ Bolt\: \[performance improvement\] Vector3\.Distance to Distan](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/pull/7>) — havaianasdestruido (2026\-10\-16) `bolt-optimize-vector3-distance-5512198552331133166` → `main`
           - 📝 1 commit(s) in this PR
             - [8237ce8](<https://github.com/havaianasdestruido/BloodAndBacon-DnSpyEx/commit/8237ce85c8ba08552919a4d2295ea4d6f833fe7d>) ⚡ Bolt\: Optimize Vector3\.Distance calls in game update loop
@@ -2835,13 +2888,13 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 11 commit(s)
-      - [@google\-labs\-jules\[bot\]](<https://github.com/apps/google-labs-jules>) — 7 commit(s)
+      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 12 commit(s)
+      - [@google\-labs\-jules\[bot\]](<https://github.com/apps/google-labs-jules>) — 8 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `C#` — 100.0% (11,560,537 bytes)
+      - `C#` — 100.0% (11,560,673 bytes)
 
 ---
 
@@ -3919,9 +3972,11 @@
           - [27fd914](<https://github.com/havaianasdestruido/eleicoes-data/commit/27fd9143c40a70550964938f8b1e0ef4b0cf93a6>) data\: TSE presidente snapshot 2026\-10\-05 21\:10\:48Z — github\-actions\[bot\] (2026\-10\-05)
           - [55295f6](<https://github.com/havaianasdestruido/eleicoes-data/commit/55295f63362d63b92b0762f7798e2d5113f68ff7>) Merge pull request \#1 from havaianasdestruido\/arena\/01a10951\-eleicoes\-da — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-10\-05)
           - [b90f4e8](<https://github.com/havaianasdestruido/eleicoes-data/commit/b90f4e8d553e37a6caec61aa4b19cb981c4883ca>) chore\: add \.gitignore, drop committed \_\_pycache\_\_ artifacts — havaianasdestruido (2026\-10\-05)
-      - [main](<https://github.com/havaianasdestruido/eleicoes-data/tree/main>) _(default)_ — HEAD: `8157289`
+      - [main](<https://github.com/havaianasdestruido/eleicoes-data/tree/main>) _(default)_ — HEAD: `d8310e3`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/eleicoes-data/commits/main>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/eleicoes-data/commits/main>)
+          - [d8310e3](<https://github.com/havaianasdestruido/eleicoes-data/commit/d8310e31e869ec28505ef7a53d7ada7ab83c80aa>) data\: TSE presidente snapshot 2026\-10\-17 13\:54\:35Z — github\-actions\[bot\] (2026\-10\-17)
+          - [fbde941](<https://github.com/havaianasdestruido/eleicoes-data/commit/fbde941947f3377c8d5a9de030c35e5cf727fd74>) data\: TSE presidente snapshot 2026\-10\-17 10\:40\:05Z — github\-actions\[bot\] (2026\-10\-17)
           - [8157289](<https://github.com/havaianasdestruido/eleicoes-data/commit/8157289185b51399df1b5e0641655313cf0e1596>) data\: TSE presidente snapshot 2026\-10\-17 06\:13\:12Z — github\-actions\[bot\] (2026\-10\-17)
           - [81752f7](<https://github.com/havaianasdestruido/eleicoes-data/commit/81752f72c02ba8e7b91a04dc3d0517643f9caf2d>) data\: TSE presidente snapshot 2026\-10\-17 01\:44\:39Z — github\-actions\[bot\] (2026\-10\-17)
           - [d332a56](<https://github.com/havaianasdestruido/eleicoes-data/commit/d332a5661f3aacfbae12b3b7183b227b8e0e5b98>) data\: TSE presidente snapshot 2026\-10\-16 23\:55\:21Z — github\-actions\[bot\] (2026\-10\-16)
@@ -3930,9 +3985,9 @@
           - [9afd66b](<https://github.com/havaianasdestruido/eleicoes-data/commit/9afd66be43113a5a08972fdb2b5107ee0966bf28>) data\: TSE presidente snapshot 2026\-10\-16 15\:29\:26Z — github\-actions\[bot\] (2026\-10\-16)
           - [bb7588b](<https://github.com/havaianasdestruido/eleicoes-data/commit/bb7588b56a14087d0d286aa0cc2d22bab6946b65>) data\: TSE presidente snapshot 2026\-10\-16 11\:35\:40Z — github\-actions\[bot\] (2026\-10\-16)
           - [19057dc](<https://github.com/havaianasdestruido/eleicoes-data/commit/19057dc3f5f3951237f1c2cf29554a5ed7516f4b>) data\: TSE presidente snapshot 2026\-10\-16 06\:20\:52Z — github\-actions\[bot\] (2026\-10\-16)
-          - [18dcb6d](<https://github.com/havaianasdestruido/eleicoes-data/commit/18dcb6d95951f7c7ec848bda310da117de35df16>) data\: TSE presidente snapshot 2026\-10\-16 01\:41\:16Z — github\-actions\[bot\] (2026\-10\-16)
-          - [85ea459](<https://github.com/havaianasdestruido/eleicoes-data/commit/85ea4598c06258c5b1d3aa54813883531f86250f>) data\: TSE presidente snapshot 2026\-10\-15 23\:47\:05Z — github\-actions\[bot\] (2026\-10\-15)
-        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/eleicoes-data/commits/main/?after=783b39dff4cbbb0d67b7f8e4b6f301ecb0b48815+34>)
+        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/eleicoes-data/commits/main/?after=4ba519375288743eed5d0f83406fe1bb9c56d16e+34>)
+          - [816d90a](<https://github.com/havaianasdestruido/eleicoes-data/commit/816d90ac343691788c03a35cc6bebea4a96dcbeb>) data\: TSE presidente snapshot 2026\-10\-12 00\:26\:14Z — github\-actions\[bot\] (2026\-10\-12)
+          - [783b39d](<https://github.com/havaianasdestruido/eleicoes-data/commit/783b39dff4cbbb0d67b7f8e4b6f301ecb0b48815>) data\: TSE presidente snapshot 2026\-10\-11 21\:04\:16Z — github\-actions\[bot\] (2026\-10\-11)
           - [e41528d](<https://github.com/havaianasdestruido/eleicoes-data/commit/e41528d82743d93038f9e18f31156f6f27987900>) data\: TSE presidente snapshot 2026\-10\-11 17\:46\:33Z — github\-actions\[bot\] (2026\-10\-11)
           - [f999373](<https://github.com/havaianasdestruido/eleicoes-data/commit/f9993733843203a4768a37e9f3158fe86485f7d1>) data\: TSE presidente snapshot 2026\-10\-11 12\:40\:14Z — github\-actions\[bot\] (2026\-10\-11)
           - [c7ca87f](<https://github.com/havaianasdestruido/eleicoes-data/commit/c7ca87f3ecdece808c8218c50bc75b42b766c80e>) data\: TSE presidente snapshot 2026\-10\-11 06\:07\:07Z — github\-actions\[bot\] (2026\-10\-11)
@@ -3941,8 +3996,6 @@
           - [22f9f1f](<https://github.com/havaianasdestruido/eleicoes-data/commit/22f9f1f5e775aa6a707d3baaeb884dfe460f7dac>) data\: TSE presidente snapshot 2026\-10\-10 18\:13\:33Z — github\-actions\[bot\] (2026\-10\-10)
           - [8df0d14](<https://github.com/havaianasdestruido/eleicoes-data/commit/8df0d1446bb9fabab6777ad48c51eee225e73493>) data\: TSE presidente snapshot 2026\-10\-10 13\:59\:42Z — github\-actions\[bot\] (2026\-10\-10)
           - [af21001](<https://github.com/havaianasdestruido/eleicoes-data/commit/af21001a189a4356a38bd11300eb341047bcaf61>) data\: TSE presidente snapshot 2026\-10\-10 07\:55\:06Z — github\-actions\[bot\] (2026\-10\-10)
-          - [866ee5a](<https://github.com/havaianasdestruido/eleicoes-data/commit/866ee5a5284196e724e1c1448d036c5fb0564854>) data\: TSE presidente snapshot 2026\-10\-10 01\:56\:49Z — github\-actions\[bot\] (2026\-10\-10)
-          - [7bbe978](<https://github.com/havaianasdestruido/eleicoes-data/commit/7bbe97800520becb0486c5c9c7a1ff77e0e6b4e9>) data\: TSE presidente snapshot 2026\-10\-09 22\:54\:50Z — github\-actions\[bot\] (2026\-10\-09)
 
     - ### 🐛 Issues
       - **Open Issues** (0)
@@ -3969,7 +4022,7 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@github\-actions\[bot\]](<https://github.com/apps/github-actions>) — 59 commit(s)
+      - [@github\-actions\[bot\]](<https://github.com/apps/github-actions>) — 61 commit(s)
       - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 7 commit(s)
 
     - ### 🏷️ Releases (0)
@@ -6672,7 +6725,7 @@
 
 - ## [neo\-nt5](<https://github.com/havaianasdestruido/neo-nt5>) `🍴 Fork`
   > Windows NT5 fork\.
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 3 open issues | 💻 C\+\+ | 📅 Created: 2026-10-05 | 🔄 Updated: 2026-10-16
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C\+\+ | 📅 Created: 2026-10-05 | 🔄 Updated: 2026-10-17
 
   - 🔗 Forked from: [cynegeirus\/windows\-nt5](<https://github.com/cynegeirus/windows-nt5>)
     - ### 🌿 Branches (10)
@@ -6775,17 +6828,17 @@
       - **Closed Issues** (0)
 
     - ### 🔀 Pull Requests
-      - **Open PRs** (3)
-        - 🟢 Open [\#9 🛡️ Sentinel\: Fix plain\-text product key exposure in README](<https://github.com/havaianasdestruido/neo-nt5/pull/9>) — havaianasdestruido (2026\-10\-17) `jules-11716975060472001515-2e76202b` → `main`
+      - **Open PRs** (0)
+      - **Closed PRs** (9)
+        - 🔴 Closed [\#9 🛡️ Sentinel\: Fix plain\-text product key exposure in README](<https://github.com/havaianasdestruido/neo-nt5/pull/9>) — havaianasdestruido (2026\-10\-17) `jules-11716975060472001515-2e76202b` → `main`
           - 📝 1 commit(s) in this PR
             - [ca67fd9](<https://github.com/havaianasdestruido/neo-nt5/commit/ca67fd91e02ed569da0dc1aa0750dc0a219b7b45>) fix\(security\)\: remove plain\-text product keys from README
-        - 🟢 Open [\#8 🎨 Palette\: Improve image accessibility on 404 error page](<https://github.com/havaianasdestruido/neo-nt5/pull/8>) — havaianasdestruido (2026\-10\-17) `palette/a11y-404-alt-text-18067750263814005877` → `main`
+        - ✅ Merged [\#8 🎨 Palette\: Improve image accessibility on 404 error page](<https://github.com/havaianasdestruido/neo-nt5/pull/8>) — havaianasdestruido (2026\-10\-17) `palette/a11y-404-alt-text-18067750263814005877` → `main`
           - 📝 1 commit(s) in this PR
             - [9d9005e](<https://github.com/havaianasdestruido/neo-nt5/commit/9d9005e3f77e178fa211bb2e1039034bab3910cb>) Improve image accessibility on 404 error page
-        - 🟢 Open [\#7 ⚡ Bolt\: Optimize Path resolution and file reading in agents\/](<https://github.com/havaianasdestruido/neo-nt5/pull/7>) — havaianasdestruido (2026\-10\-17) `bolt-optimize-agents-verify-7583826557595188228` → `main`
+        - ✅ Merged [\#7 ⚡ Bolt\: Optimize Path resolution and file reading in agents\/](<https://github.com/havaianasdestruido/neo-nt5/pull/7>) — havaianasdestruido (2026\-10\-17) `bolt-optimize-agents-verify-7583826557595188228` → `main`
           - 📝 1 commit(s) in this PR
             - [8745fdc](<https://github.com/havaianasdestruido/neo-nt5/commit/8745fdcd71aea1b36a0febf5f598cb40fbdc0ad2>) ⚡ Bolt\: Optimize Path resolution and file reading in agents\/
-      - **Closed PRs** (6)
         - ✅ Merged [\#6 perf\: avoid repeated triage dump validation](<https://github.com/havaianasdestruido/neo-nt5/pull/6>) — havaianasdestruido (2026\-10\-16) `arena/312df1f4-neo-nt5` → `main`
           - 📝 3 commit(s) in this PR
             - [ad90633](<https://github.com/havaianasdestruido/neo-nt5/commit/ad90633d215872abc155afd1f321174902c012c8>) docs\: record kernel performance audit findings
@@ -6815,8 +6868,8 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (3)
-      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 14 commit(s)
-      - [@google\-labs\-jules\[bot\]](<https://github.com/apps/google-labs-jules>) — 2 commit(s)
+      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 16 commit(s)
+      - [@google\-labs\-jules\[bot\]](<https://github.com/apps/google-labs-jules>) — 4 commit(s)
       - [@cynegeirus](<https://github.com/cynegeirus>) — 1 commit(s)
 
     - ### 🏷️ Releases (0)
@@ -6826,7 +6879,7 @@
       - `C` — 41.8% (908,186,412 bytes)
       - `Scheme` — 5.1% (110,598,376 bytes)
       - `Assembly` — 1.7% (36,975,414 bytes)
-      - `HTML` — 1.2% (25,921,376 bytes)
+      - `HTML` — 1.2% (25,921,364 bytes)
       - `CWeb` — 0.9% (18,594,449 bytes)
       - `Makefile` — 0.5% (10,926,920 bytes)
       - `Rich Text Format` — 0.5% (10,041,756 bytes)
@@ -6886,7 +6939,7 @@
       - `IGOR Pro` — 0.0% (39,620 bytes)
       - `MATLAB` — 0.0% (27,667 bytes)
       - `IDL` — 0.0% (20,661 bytes)
-      - `Python` — 0.0% (19,931 bytes)
+      - `Python` — 0.0% (20,629 bytes)
       - `AGS Script` — 0.0% (18,071 bytes)
       - `Genero per` — 0.0% (17,941 bytes)
       - `Rebol` — 0.0% (17,187 bytes)
@@ -8516,7 +8569,7 @@
 
 - ## [PWSV](<https://github.com/havaianasdestruido/PWSV>) `🗃️ Template`
   > Pato's WebSocket VST\(3\) plugin\.
-  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 1 open issues | 💻 C\+\+ | 📅 Created: 2026-07-26 | 🔄 Updated: 2026-10-15
+  > ⭐ 0 | 🍴 0 | 👀 0 | 🐛 0 open issues | 💻 C\+\+ | 📅 Created: 2026-07-26 | 🔄 Updated: 2026-10-17
 
     - ### 🌿 Branches (8)
       - [arena\/01a10230\-pwsv](<https://github.com/havaianasdestruido/PWSV/tree/arena/01a10230-pwsv>) — HEAD: `e3fff49`
@@ -8618,9 +8671,11 @@
           - [c1cfed6](<https://github.com/havaianasdestruido/PWSV/commit/c1cfed6d8b6db416ba29471363e78051e8317c2c>) Implement full codebase documentation with Docusaurus and Jekyll — havaianasdestruido (2026\-10\-03)
           - [1b2937c](<https://github.com/havaianasdestruido/PWSV/commit/1b2937c9cf0e0f6984b94eb1722fd26fb426199f>) Set imgbot schedule to weekly — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
           - [3e51df0](<https://github.com/havaianasdestruido/PWSV/commit/3e51df0be1d2088bb763e60755561079859ad688>) Add \.imgbotconfig for aggressive image compression — PatoFlamejanteTV \(aka\. UltimateQuack\/HavaianasDestruido\) (2026\-09\-21)
-      - [main](<https://github.com/havaianasdestruido/PWSV/tree/main>) _(default)_ — HEAD: `c8133c7`
+      - [main](<https://github.com/havaianasdestruido/PWSV/tree/main>) _(default)_ — HEAD: `1494ad4`
         - 📋 [All Commits](<https://github.com/havaianasdestruido/PWSV/commits/main>)
         - 📄 [Commits Page 1](<https://github.com/havaianasdestruido/PWSV/commits/main>)
+          - [1494ad4](<https://github.com/havaianasdestruido/PWSV/commit/1494ad493f1b5bf0842293e90acd89bed811d005>) Merge pull request \#7 from havaianasdestruido\/bolt\-tcp\-nodelay\-172230569 — PatoFlamejanteTV (2026\-10\-17)
+          - [bd7d474](<https://github.com/havaianasdestruido/PWSV/commit/bd7d474064e17d0c2e458199d2042edb7a962d1a>) Disable Nagle's Algorithm for WebSocket clients — google\-labs\-jules\[bot\] (2026\-10\-17)
           - [c8133c7](<https://github.com/havaianasdestruido/PWSV/commit/c8133c7dc7b54c268688145356231347082cfa44>) Merge pull request \#6 from havaianasdestruido\/bolt\-cache\-parameter\-point — PatoFlamejanteTV (2026\-10\-15)
           - [b064609](<https://github.com/havaianasdestruido/PWSV/commit/b06460935d4dfe96b44003eaf5751c7ebe9b2694>) ⚡ Bolt\: Cache parameter pointers to avoid string lookups in audio thread — google\-labs\-jules\[bot\] (2026\-10\-15)
           - [c39a676](<https://github.com/havaianasdestruido/PWSV/commit/c39a676344137f3285e921188044d824e99fecde>) Merge pull request \#5 from havaianasdestruido\/bolt\-trylock\-optimization\- — PatoFlamejanteTV (2026\-10\-14)
@@ -8629,9 +8684,9 @@
           - [f6e547a](<https://github.com/havaianasdestruido/PWSV/commit/f6e547acb67ec553ea770357c9c08bd64cf85544>) ⚡ Bolt\: Optimize tick loop and network framing for WebSocketServer — google\-labs\-jules\[bot\] (2026\-10\-13)
           - [8c96cf1](<https://github.com/havaianasdestruido/PWSV/commit/8c96cf167a6b3ce0f5c735e27dc619249a53f354>) Merge pull request \#3 from havaianasdestruido\/bolt\-json\-optimization\-253 — PatoFlamejanteTV (2026\-10\-13)
           - [0f85365](<https://github.com/havaianasdestruido/PWSV/commit/0f853654437b79cafb57f63318f32e96424fd324>) ⚡ Bolt\: Replace juce\:\:String concatenations with operator&lt;&lt; in JSON seri — google\-labs\-jules\[bot\] (2026\-10\-12)
-          - [256dd95](<https://github.com/havaianasdestruido/PWSV/commit/256dd95ec603055e4e7c36d5399bd33e95a7f603>) Merge pull request \#2 from havaianasdestruido\/jules\-performance\-optimiza — PatoFlamejanteTV (2026\-10\-11)
-          - [be74d6c](<https://github.com/havaianasdestruido/PWSV/commit/be74d6c5a7e0e79d8977bd97dd8d341754903e04>) ⚡ Bolt\: O\(1\) MIDI array removal on audio thread — google\-labs\-jules\[bot\] (2026\-10\-11)
-        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/PWSV/commits/main/?after=4e9668d9bd9e05a0da5ac94fc6bb081b00c488dd+34>)
+        - 📄 [Commits Page 2](<https://github.com/havaianasdestruido/PWSV/commits/main/?after=9351d68005863c63d3f146e0b9deb9f5d3da3b8b+34>)
+          - [3fa3c8a](<https://github.com/havaianasdestruido/PWSV/commit/3fa3c8ad05cf381474a864ea3cb1f090adda99fe>) add\: base processor class with WebSocket integration and APVTS \(Source\/W — UltimateQuack (2026\-07\-25)
+          - [4e9668d](<https://github.com/havaianasdestruido/PWSV/commit/4e9668d9bd9e05a0da5ac94fc6bb081b00c488dd>) add\: WebSocket server with rate limiting and beat sync \(Source\/WebSocket — UltimateQuack (2026\-07\-25)
           - [c44dfa1](<https://github.com/havaianasdestruido/PWSV/commit/c44dfa1643c9b40a1c4f5fc66ee9229f793a15f2>) add\: utility headers for WebSocket handshake and position data \(Source\/S — UltimateQuack (2026\-07\-25)
           - [8225a18](<https://github.com/havaianasdestruido/PWSV/commit/8225a18e2fe93cbfecca73273f453ef93658e6a1>) add\: CMake build system with JUCE 8 \+ CLAP extensions \(CMakeLists\.txt\) — UltimateQuack (2026\-07\-25)
           - [dbc3f9e](<https://github.com/havaianasdestruido/PWSV/commit/dbc3f9e0ccc03d7e6dfbeab2fae4f1b89a29d843>) add\: initial project structure with \.gitignore — UltimateQuack (2026\-07\-25)
@@ -8641,11 +8696,11 @@
       - **Closed Issues** (0)
 
     - ### 🔀 Pull Requests
-      - **Open PRs** (1)
-        - 🟢 Open [\#7 ⚡ Bolt\: \[performance improvement\] Disable Nagle's algorithm](<https://github.com/havaianasdestruido/PWSV/pull/7>) — havaianasdestruido (2026\-10\-17) `bolt-tcp-nodelay-17223056997010881068` → `main`
+      - **Open PRs** (0)
+      - **Closed PRs** (7)
+        - ✅ Merged [\#7 ⚡ Bolt\: \[performance improvement\] Disable Nagle's algorithm](<https://github.com/havaianasdestruido/PWSV/pull/7>) — havaianasdestruido (2026\-10\-17) `bolt-tcp-nodelay-17223056997010881068` → `main`
           - 📝 1 commit(s) in this PR
             - [bd7d474](<https://github.com/havaianasdestruido/PWSV/commit/bd7d474064e17d0c2e458199d2042edb7a962d1a>) Disable Nagle's Algorithm for WebSocket clients
-      - **Closed PRs** (6)
         - ✅ Merged [\#6 ⚡ Bolt\: Cache parameter pointers to avoid string lookups in](<https://github.com/havaianasdestruido/PWSV/pull/6>) — havaianasdestruido (2026\-10\-15) `bolt-cache-parameter-pointers-4448434025158655151` → `main`
           - 📝 1 commit(s) in this PR
             - [b064609](<https://github.com/havaianasdestruido/PWSV/commit/b06460935d4dfe96b44003eaf5751c7ebe9b2694>) ⚡ Bolt\: Cache parameter pointers to avoid string lookups in
@@ -8676,16 +8731,16 @@
     - ### 👀 Watchers / Subscribers (0)
 
     - ### 👥 Contributors (2)
-      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 17 commit(s)
-      - [@google\-labs\-jules\[bot\]](<https://github.com/apps/google-labs-jules>) — 5 commit(s)
+      - [@havaianasdestruido](<https://github.com/havaianasdestruido>) — 18 commit(s)
+      - [@google\-labs\-jules\[bot\]](<https://github.com/apps/google-labs-jules>) — 6 commit(s)
 
     - ### 🏷️ Releases (0)
 
     - ### 💻 Languages
-      - `C++` — 38.7% (38,117 bytes)
+      - `C++` — 38.8% (38,357 bytes)
       - `HTML` — 20.2% (19,935 bytes)
       - `JavaScript` — 17.1% (16,907 bytes)
-      - `CSS` — 16.0% (15,731 bytes)
+      - `CSS` — 15.9% (15,731 bytes)
       - `Batchfile` — 4.5% (4,421 bytes)
       - `CMake` — 3.5% (3,431 bytes)
       - `Ruby` — 0.1% (78 bytes)
@@ -10755,7 +10810,7 @@
 ### Followers (8)
 
 - [@ishandutta2007](<https://github.com/ishandutta2007>)
-  - 📦 4909 public repos | 👥 follows 53741 people
+  - 📦 4909 public repos | 👥 follows 54422 people
 - [@moxie\-coder](<https://github.com/moxie-coder>)
   - 📦 221 public repos | 👥 follows 1651 people
 - [@Okafor\-twd](<https://github.com/Okafor-twd>)
@@ -10767,9 +10822,9 @@
 - [@andrewexec](<https://github.com/andrewexec>)
   - 📦 1 public repos | 👥 follows 2 people
 - [@ancaferro](<https://github.com/ancaferro>)
-  - 📦 4 public repos | 👥 follows 15606 people
+  - 📦 4 public repos | 👥 follows 15605 people
 - [@lxcadoza993](<https://github.com/lxcadoza993>)
-  - 📦 7 public repos | 👥 follows 179249 people
+  - 📦 7 public repos | 👥 follows 179246 people
 
 ### Following (35)
 
@@ -10996,4 +11051,4 @@
 - [opa334\/darksword\-kexploit](<https://github.com/opa334/darksword-kexploit>) — iOS &lt;\=26\.0\.1 DarkSword Kernel Exploit reimplemented in Objec
 
 ---
-Report auto-generated by [GitHub Actions](<https://github.com/features/actions>) on 2026\-10\-17 08\:08\:13 UTC
+Report auto-generated by [GitHub Actions](<https://github.com/features/actions>) on 2026\-10\-17 14\:39\:04 UTC
