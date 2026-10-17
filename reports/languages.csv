@@ -109,7 +109,7 @@ sitemapping,JavaScript,61132,37.3
 sitemapping,Python,51362,31.3
 sitemapping,HTML,26709,16.3
 sitemapping,CSS,24836,15.1
-top100,HTML,4873422,93.5
+top100,HTML,4873589,93.5
 top100,Python,170108,3.3
 top100,JavaScript,161810,3.1
 top100,CSS,6452,0.1
@@ -160,6 +160,7 @@ ClassHub,Shell,1267,0.2
 ClassHub,Python,1148,0.2
 ClassHub,Dockerfile,932,0.2
 ClassHub,HTML,889,0.2
+CNLeaks,PostScript,17586113,100.0
 dadosabertos,Jupyter Notebook,2666989,90.9
 dadosabertos,Python,202690,6.9
 dadosabertos,HTML,63794,2.2
@@ -442,8 +443,8 @@ Sonic4,Pawn,221311,1.0
 Sonic4,Objective-C++,146447,0.7
 Sonic4,Objective-C,119638,0.6
 Sonic4,CMake,153,0.0
-steamlogger,MDX,181352,65.1
-steamlogger,Rust,73140,26.3
+steamlogger,MDX,181352,65.0
+steamlogger,Rust,73637,26.4
 steamlogger,JavaScript,19864,7.1
 steamlogger,CSS,4098,1.5
 terminal-win7,C++,12582435,92.4

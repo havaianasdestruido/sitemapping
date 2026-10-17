@@ -290,7 +290,7 @@
   {
     "repo": "sitemapping",
     "login": "actions-user",
-    "contributions": 119,
+    "contributions": 120,
     "profile_url": "https://github.com/actions-user"
   },
   {
@@ -302,7 +302,7 @@
   {
     "repo": "top100",
     "login": "github-actions[bot]",
-    "contributions": 143,
+    "contributions": 144,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -864,6 +864,12 @@
     "profile_url": "https://github.com/luizmoraes-dev"
   },
   {
+    "repo": "CNLeaks",
+    "login": "havaianasdestruido",
+    "contributions": 17,
+    "profile_url": "https://github.com/havaianasdestruido"
+  },
+  {
     "repo": "dadosabertos",
     "login": "havaianasdestruido",
     "contributions": 9,
@@ -878,7 +884,7 @@
   {
     "repo": "eleicoes-data",
     "login": "github-actions[bot]",
-    "contributions": 56,
+    "contributions": 58,
     "profile_url": "https://github.com/apps/github-actions"
   },
   {
@@ -2042,13 +2048,13 @@
   {
     "repo": "steamlogger",
     "login": "havaianasdestruido",
-    "contributions": 13,
+    "contributions": 14,
     "profile_url": "https://github.com/havaianasdestruido"
   },
   {
     "repo": "steamlogger",
     "login": "google-labs-jules[bot]",
-    "contributions": 4,
+    "contributions": 5,
     "profile_url": "https://github.com/apps/google-labs-jules"
   },
   {

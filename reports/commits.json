@@ -9822,6 +9822,16 @@
   {
     "repo": "sitemapping",
     "branch": "main",
+    "sha": "821006e52cef6ff361addf2ad286ed2dda2ceb02",
+    "sha_short": "821006e",
+    "author": "GitHub Action Bot",
+    "date": "2026-10-16T22:30:56Z",
+    "message": "📊 [2026-10-16 22:30:56 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/821006e52cef6ff361addf2ad286ed2dda2ceb02"
+  },
+  {
+    "repo": "sitemapping",
+    "branch": "main",
     "sha": "693a41e09c60220482c3cfda96109b15c1439153",
     "sha_short": "693a41e",
     "author": "GitHub Action Bot",
@@ -9912,12 +9922,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "7f0927d0707363516367572071ed264d22915c35",
-    "sha_short": "7f0927d",
+    "sha": "57b03e84f1b6c83b073d82732643d530a05e14ff",
+    "sha_short": "57b03e8",
     "author": "GitHub Action Bot",
-    "date": "2026-10-14T22:59:16Z",
-    "message": "📊 [2026-10-14 22:59:16 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/7f0927d0707363516367572071ed264d22915c35"
+    "date": "2026-10-08T18:19:13Z",
+    "message": "📊 [2026-10-08 18:19:13 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/57b03e84f1b6c83b073d82732643d530a05e14ff"
   },
   {
     "repo": "sitemapping",
@@ -10012,12 +10022,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "6bd572442e5b479e1a34dafbc25c728b6baeee05",
-    "sha_short": "6bd5724",
+    "sha": "1cafda728e4c10d10556283d3878e091f8421420",
+    "sha_short": "1cafda7",
     "author": "GitHub Action Bot",
-    "date": "2026-10-04T22:42:33Z",
-    "message": "📊 [2026-10-04 22:42:33 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/6bd572442e5b479e1a34dafbc25c728b6baeee05"
+    "date": "2026-09-28T19:04:43Z",
+    "message": "📊 [2026-09-28 19:04:43 UTC]",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/1cafda728e4c10d10556283d3878e091f8421420"
   },
   {
     "repo": "sitemapping",
@@ -10112,12 +10122,12 @@
   {
     "repo": "sitemapping",
     "branch": "main",
-    "sha": "14ad3be6829e88a905936721268dc729ec922d9e",
-    "sha_short": "14ad3be",
-    "author": "GitHub Action Bot",
-    "date": "2026-09-26T09:01:21Z",
-    "message": "📊 [2026-09-26 09:01:21 UTC]",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/14ad3be6829e88a905936721268dc729ec922d9e"
+    "sha": "8113d8276f6f47b1930675e94df54e8a1d9be39b",
+    "sha_short": "8113d82",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-09-21T01:10:09Z",
+    "message": "Set imgbot schedule to weekly",
+    "url": "https://github.com/havaianasdestruido/sitemapping/commit/8113d8276f6f47b1930675e94df54e8a1d9be39b"
   },
   {
     "repo": "sitemapping",
@@ -10208,16 +10218,6 @@
     "date": "2026-09-20T15:17:08Z",
     "message": "Update repo-analyzer.yml",
     "url": "https://github.com/havaianasdestruido/sitemapping/commit/82796a8c59836726df17349c43dc0bbd49a6e2cc"
-  },
-  {
-    "repo": "sitemapping",
-    "branch": "main",
-    "sha": "7966b0d8d2ba6efa4d1af469a18a9a6ba8817f2c",
-    "sha_short": "7966b0d",
-    "author": "Pato (new acc)",
-    "date": "2026-09-20T15:16:11Z",
-    "message": "Change cron schedule to run every 4 hours",
-    "url": "https://github.com/havaianasdestruido/sitemapping/commit/7966b0d8d2ba6efa4d1af469a18a9a6ba8817f2c"
   },
   {
     "repo": "top100",
@@ -10622,6 +10622,16 @@
   {
     "repo": "top100",
     "branch": "main",
+    "sha": "5112a067946da693109831c099d2209afcb2c4be",
+    "sha_short": "5112a06",
+    "author": "github-actions[bot]",
+    "date": "2026-10-17T00:54:05Z",
+    "message": "data: update top repos data (2026-10-17 00:54 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/5112a067946da693109831c099d2209afcb2c4be"
+  },
+  {
+    "repo": "top100",
+    "branch": "main",
     "sha": "9eba26d0d951c33bb744b52c4b80316a24a50691",
     "sha_short": "9eba26d",
     "author": "github-actions[bot]",
@@ -10712,12 +10722,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "beaa87e1b774f5d2184dd34a30ae63b495074115",
-    "sha_short": "beaa87e",
+    "sha": "02d3e0412dd22711d049ad29ae85cfd86613b091",
+    "sha_short": "02d3e04",
     "author": "github-actions[bot]",
-    "date": "2026-10-15T12:15:17Z",
-    "message": "data: update top repos data (2026-10-15 12:15 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/beaa87e1b774f5d2184dd34a30ae63b495074115"
+    "date": "2026-10-10T02:59:22Z",
+    "message": "data: update top repos data (2026-10-10 02:59 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/02d3e0412dd22711d049ad29ae85cfd86613b091"
   },
   {
     "repo": "top100",
@@ -10812,12 +10822,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "d605050886d748354b1bea2d6739f671db2754a3",
-    "sha_short": "d605050",
-    "author": "havaianasdestruido",
-    "date": "2026-10-08T18:39:45Z",
-    "message": "Add full WebMCP support to every page",
-    "url": "https://github.com/havaianasdestruido/top100/commit/d605050886d748354b1bea2d6739f671db2754a3"
+    "sha": "c1f147a92360dfeaf15aba5812df7b513df924ce",
+    "sha_short": "c1f147a",
+    "author": "github-actions[bot]",
+    "date": "2026-10-03T08:39:20Z",
+    "message": "data: update top repos data (2026-10-03 08:39 UTC)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/c1f147a92360dfeaf15aba5812df7b513df924ce"
   },
   {
     "repo": "top100",
@@ -10912,12 +10922,12 @@
   {
     "repo": "top100",
     "branch": "main",
-    "sha": "6cf7edbe6af8c12fe99820ef5f12d317fd2ffcab",
-    "sha_short": "6cf7edb",
+    "sha": "e946c7f4652fde3688fc7e2316835b68254fa032",
+    "sha_short": "e946c7f",
     "author": "github-actions[bot]",
-    "date": "2026-10-01T02:42:59Z",
-    "message": "data: update top repos data (2026-10-01 02:42 UTC)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/6cf7edbe6af8c12fe99820ef5f12d317fd2ffcab"
+    "date": "2026-09-26T21:40:05Z",
+    "message": "data: update top repos data (2026-09-26)",
+    "url": "https://github.com/havaianasdestruido/top100/commit/e946c7f4652fde3688fc7e2316835b68254fa032"
   },
   {
     "repo": "top100",
@@ -11008,16 +11018,6 @@
     "date": "2026-09-25T10:40:16Z",
     "message": "data: update top repos data (2026-09-25)",
     "url": "https://github.com/havaianasdestruido/top100/commit/cefe4023d74ade3652b85d24e761ba03ec6c6dea"
-  },
-  {
-    "repo": "top100",
-    "branch": "main",
-    "sha": "4a7bc9c7c8525e290cce2565c80d2277ace14d53",
-    "sha_short": "4a7bc9c",
-    "author": "github-actions[bot]",
-    "date": "2026-09-25T05:43:00Z",
-    "message": "data: update top repos data (2026-09-25)",
-    "url": "https://github.com/havaianasdestruido/top100/commit/4a7bc9c7c8525e290cce2565c80d2277ace14d53"
   },
   {
     "repo": "WAL-skill",
@@ -16400,6 +16400,386 @@
     "url": "https://github.com/havaianasdestruido/ClassHub/commit/207563d0afe46a083516b7bc7ac6fcf38e5713ff"
   },
   {
+    "repo": "CNLeaks",
+    "branch": "arena/a55878c5-cnleaks",
+    "sha": "84cca7554244bf01102228187388a234ab0f8dd1",
+    "sha_short": "84cca75",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T22:40:14Z",
+    "message": "Add SEO-optimized FAQ to README",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/84cca7554244bf01102228187388a234ab0f8dd1"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/a55878c5-cnleaks",
+    "sha": "76d4d4cbe86bd1c908c42c09450b86687714baa2",
+    "sha_short": "76d4d4c",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:37:59Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/2d835c0e-cnleaks",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/76d4d4cbe86bd1c908c42c09450b86687714baa2"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/a55878c5-cnleaks",
+    "sha": "7406c7323355740d3cab8948a0726dc987db4651",
+    "sha_short": "7406c73",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T22:37:18Z",
+    "message": "Render repository tree as nested Markdown list",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/7406c7323355740d3cab8948a0726dc987db4651"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/a55878c5-cnleaks",
+    "sha": "b7fc376583d54db6ee5d80c81981c384389b403c",
+    "sha_short": "b7fc376",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:34:40Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/b7fc376583d54db6ee5d80c81981c384389b403c"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/a55878c5-cnleaks",
+    "sha": "92395c985f15db3685891690da5c2ab7dc5e37af",
+    "sha_short": "92395c9",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:33:48Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/92395c985f15db3685891690da5c2ab7dc5e37af"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/a55878c5-cnleaks",
+    "sha": "49d1cbaf53d15dc1684ebac60d1800eff4e518bb",
+    "sha_short": "49d1cba",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:33:07Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/ffb0bb02-cnleaks",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/49d1cbaf53d15dc1684ebac60d1800eff4e518bb"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/a55878c5-cnleaks",
+    "sha": "cf0e67a5fa557d1991382c5917beaac2fb10e720",
+    "sha_short": "cf0e67a",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T22:32:34Z",
+    "message": "Add TREE.md: project file tree with hyperlinks",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/cf0e67a5fa557d1991382c5917beaac2fb10e720"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/a55878c5-cnleaks",
+    "sha": "378a9c9df10498e4a247c9c3f9f66cb248a63254",
+    "sha_short": "378a9c9",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:29:49Z",
+    "message": "Create jekyll-gh-pages.yml",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/378a9c9df10498e4a247c9c3f9f66cb248a63254"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/a55878c5-cnleaks",
+    "sha": "8e9566c3e24a43ba4bdb879d439944a6d0bfa444",
+    "sha_short": "8e9566c",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:28:25Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/8e9566c3e24a43ba4bdb879d439944a6d0bfa444"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/a55878c5-cnleaks",
+    "sha": "563e015a45aca823343a7835fbb678c0afed6e1e",
+    "sha_short": "563e015",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-16T22:27:42Z",
+    "message": "notice",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/563e015a45aca823343a7835fbb678c0afed6e1e"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/ffb0bb02-cnleaks",
+    "sha": "cf0e67a5fa557d1991382c5917beaac2fb10e720",
+    "sha_short": "cf0e67a",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T22:32:34Z",
+    "message": "Add TREE.md: project file tree with hyperlinks",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/cf0e67a5fa557d1991382c5917beaac2fb10e720"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/ffb0bb02-cnleaks",
+    "sha": "378a9c9df10498e4a247c9c3f9f66cb248a63254",
+    "sha_short": "378a9c9",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:29:49Z",
+    "message": "Create jekyll-gh-pages.yml",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/378a9c9df10498e4a247c9c3f9f66cb248a63254"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/ffb0bb02-cnleaks",
+    "sha": "8e9566c3e24a43ba4bdb879d439944a6d0bfa444",
+    "sha_short": "8e9566c",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:28:25Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/8e9566c3e24a43ba4bdb879d439944a6d0bfa444"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/ffb0bb02-cnleaks",
+    "sha": "563e015a45aca823343a7835fbb678c0afed6e1e",
+    "sha_short": "563e015",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-16T22:27:42Z",
+    "message": "notice",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/563e015a45aca823343a7835fbb678c0afed6e1e"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/ffb0bb02-cnleaks",
+    "sha": "a52b955c1c8e7ea81b4db99b0b0bd4e88e4ef9eb",
+    "sha_short": "a52b955",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-16T22:27:10Z",
+    "message": "TEEN TITANS",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/a52b955c1c8e7ea81b4db99b0b0bd4e88e4ef9eb"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/ffb0bb02-cnleaks",
+    "sha": "96d1db2cb00a1c2ecab016bf615cea23075bd4cc",
+    "sha_short": "96d1db2",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-16T22:26:38Z",
+    "message": "Robot Chiken",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/96d1db2cb00a1c2ecab016bf615cea23075bd4cc"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/ffb0bb02-cnleaks",
+    "sha": "56ecc627b5bc03d938304a6a1958a484ee8e9ad6",
+    "sha_short": "56ecc62",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-16T22:25:01Z",
+    "message": "Regular Show",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/56ecc627b5bc03d938304a6a1958a484ee8e9ad6"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/ffb0bb02-cnleaks",
+    "sha": "92016caeb3582af4afffa2a38af36a0818516095",
+    "sha_short": "92016ca",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-16T22:20:52Z",
+    "message": "Gumball",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/92016caeb3582af4afffa2a38af36a0818516095"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/2d835c0e-cnleaks",
+    "sha": "7406c7323355740d3cab8948a0726dc987db4651",
+    "sha_short": "7406c73",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T22:37:18Z",
+    "message": "Render repository tree as nested Markdown list",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/7406c7323355740d3cab8948a0726dc987db4651"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/2d835c0e-cnleaks",
+    "sha": "92395c985f15db3685891690da5c2ab7dc5e37af",
+    "sha_short": "92395c9",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:33:48Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/92395c985f15db3685891690da5c2ab7dc5e37af"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/2d835c0e-cnleaks",
+    "sha": "49d1cbaf53d15dc1684ebac60d1800eff4e518bb",
+    "sha_short": "49d1cba",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:33:07Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/ffb0bb02-cnleaks",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/49d1cbaf53d15dc1684ebac60d1800eff4e518bb"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/2d835c0e-cnleaks",
+    "sha": "cf0e67a5fa557d1991382c5917beaac2fb10e720",
+    "sha_short": "cf0e67a",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T22:32:34Z",
+    "message": "Add TREE.md: project file tree with hyperlinks",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/cf0e67a5fa557d1991382c5917beaac2fb10e720"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/2d835c0e-cnleaks",
+    "sha": "378a9c9df10498e4a247c9c3f9f66cb248a63254",
+    "sha_short": "378a9c9",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:29:49Z",
+    "message": "Create jekyll-gh-pages.yml",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/378a9c9df10498e4a247c9c3f9f66cb248a63254"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/2d835c0e-cnleaks",
+    "sha": "8e9566c3e24a43ba4bdb879d439944a6d0bfa444",
+    "sha_short": "8e9566c",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:28:25Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/8e9566c3e24a43ba4bdb879d439944a6d0bfa444"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/2d835c0e-cnleaks",
+    "sha": "563e015a45aca823343a7835fbb678c0afed6e1e",
+    "sha_short": "563e015",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-16T22:27:42Z",
+    "message": "notice",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/563e015a45aca823343a7835fbb678c0afed6e1e"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/2d835c0e-cnleaks",
+    "sha": "a52b955c1c8e7ea81b4db99b0b0bd4e88e4ef9eb",
+    "sha_short": "a52b955",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-16T22:27:10Z",
+    "message": "TEEN TITANS",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/a52b955c1c8e7ea81b4db99b0b0bd4e88e4ef9eb"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/2d835c0e-cnleaks",
+    "sha": "96d1db2cb00a1c2ecab016bf615cea23075bd4cc",
+    "sha_short": "96d1db2",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-16T22:26:38Z",
+    "message": "Robot Chiken",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/96d1db2cb00a1c2ecab016bf615cea23075bd4cc"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "arena/2d835c0e-cnleaks",
+    "sha": "56ecc627b5bc03d938304a6a1958a484ee8e9ad6",
+    "sha_short": "56ecc62",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-16T22:25:01Z",
+    "message": "Regular Show",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/56ecc627b5bc03d938304a6a1958a484ee8e9ad6"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "main",
+    "sha": "ed519f16f1f19077671dee98f2eb1ab9db15e6f8",
+    "sha_short": "ed519f1",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:47:02Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/ed519f16f1f19077671dee98f2eb1ab9db15e6f8"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "main",
+    "sha": "5762b2a7a25849d3ec7e625abe2fb30ea007df06",
+    "sha_short": "5762b2a",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:46:07Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/5762b2a7a25849d3ec7e625abe2fb30ea007df06"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "main",
+    "sha": "5704b3e8232303db54df88557e0aaa67c359b373",
+    "sha_short": "5704b3e",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:41:04Z",
+    "message": "Merge pull request #3 from havaianasdestruido/arena/a55878c5-cnleaks",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/5704b3e8232303db54df88557e0aaa67c359b373"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "main",
+    "sha": "84cca7554244bf01102228187388a234ab0f8dd1",
+    "sha_short": "84cca75",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T22:40:14Z",
+    "message": "Add SEO-optimized FAQ to README",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/84cca7554244bf01102228187388a234ab0f8dd1"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "main",
+    "sha": "76d4d4cbe86bd1c908c42c09450b86687714baa2",
+    "sha_short": "76d4d4c",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:37:59Z",
+    "message": "Merge pull request #2 from havaianasdestruido/arena/2d835c0e-cnleaks",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/76d4d4cbe86bd1c908c42c09450b86687714baa2"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "main",
+    "sha": "7406c7323355740d3cab8948a0726dc987db4651",
+    "sha_short": "7406c73",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T22:37:18Z",
+    "message": "Render repository tree as nested Markdown list",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/7406c7323355740d3cab8948a0726dc987db4651"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "main",
+    "sha": "b7fc376583d54db6ee5d80c81981c384389b403c",
+    "sha_short": "b7fc376",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:34:40Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/b7fc376583d54db6ee5d80c81981c384389b403c"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "main",
+    "sha": "92395c985f15db3685891690da5c2ab7dc5e37af",
+    "sha_short": "92395c9",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:33:48Z",
+    "message": "Update README.md",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/92395c985f15db3685891690da5c2ab7dc5e37af"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "main",
+    "sha": "49d1cbaf53d15dc1684ebac60d1800eff4e518bb",
+    "sha_short": "49d1cba",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-16T22:33:07Z",
+    "message": "Merge pull request #1 from havaianasdestruido/arena/ffb0bb02-cnleaks",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/49d1cbaf53d15dc1684ebac60d1800eff4e518bb"
+  },
+  {
+    "repo": "CNLeaks",
+    "branch": "main",
+    "sha": "cf0e67a5fa557d1991382c5917beaac2fb10e720",
+    "sha_short": "cf0e67a",
+    "author": "havaianasdestruido",
+    "date": "2026-10-16T22:32:34Z",
+    "message": "Add TREE.md: project file tree with hyperlinks",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/cf0e67a5fa557d1991382c5917beaac2fb10e720"
+  },
+  {
     "repo": "dadosabertos",
     "branch": "arena/01a0e80c-dadosabertos",
     "sha": "8635c04cf229c6396879860c510f7696630cd261",
@@ -17092,6 +17472,26 @@
   {
     "repo": "eleicoes-data",
     "branch": "main",
+    "sha": "81752f72c02ba8e7b91a04dc3d0517643f9caf2d",
+    "sha_short": "81752f7",
+    "author": "github-actions[bot]",
+    "date": "2026-10-17T01:44:39Z",
+    "message": "data: TSE presidente snapshot 2026-10-17 01:44:39Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/81752f72c02ba8e7b91a04dc3d0517643f9caf2d"
+  },
+  {
+    "repo": "eleicoes-data",
+    "branch": "main",
+    "sha": "d332a5661f3aacfbae12b3b7183b227b8e0e5b98",
+    "sha_short": "d332a56",
+    "author": "github-actions[bot]",
+    "date": "2026-10-16T23:55:21Z",
+    "message": "data: TSE presidente snapshot 2026-10-16 23:55:21Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/d332a5661f3aacfbae12b3b7183b227b8e0e5b98"
+  },
+  {
+    "repo": "eleicoes-data",
+    "branch": "main",
     "sha": "65f3512712a44fcd4d45ceb76ec13a781e20d011",
     "sha_short": "65f3512",
     "author": "github-actions[bot]",
@@ -17172,22 +17572,22 @@
   {
     "repo": "eleicoes-data",
     "branch": "main",
-    "sha": "4778ceed84781a27becea36f3ae9a8b45e858f26",
-    "sha_short": "4778cee",
+    "sha": "f9993733843203a4768a37e9f3158fe86485f7d1",
+    "sha_short": "f999373",
     "author": "github-actions[bot]",
-    "date": "2026-10-15T18:25:57Z",
-    "message": "data: TSE presidente snapshot 2026-10-15 18:25:57Z",
-    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/4778ceed84781a27becea36f3ae9a8b45e858f26"
+    "date": "2026-10-11T12:40:14Z",
+    "message": "data: TSE presidente snapshot 2026-10-11 12:40:14Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/f9993733843203a4768a37e9f3158fe86485f7d1"
   },
   {
     "repo": "eleicoes-data",
     "branch": "main",
-    "sha": "520425ad48f76255fa0da78cd7ef73ec701a2528",
-    "sha_short": "520425a",
+    "sha": "c7ca87f3ecdece808c8218c50bc75b42b766c80e",
+    "sha_short": "c7ca87f",
     "author": "github-actions[bot]",
-    "date": "2026-10-15T14:26:11Z",
-    "message": "data: TSE presidente snapshot 2026-10-15 14:26:11Z",
-    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/520425ad48f76255fa0da78cd7ef73ec701a2528"
+    "date": "2026-10-11T06:07:07Z",
+    "message": "data: TSE presidente snapshot 2026-10-11 06:07:07Z",
+    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/c7ca87f3ecdece808c8218c50bc75b42b766c80e"
   },
   {
     "repo": "eleicoes-data",
@@ -17268,26 +17668,6 @@
     "date": "2026-10-09T18:46:18Z",
     "message": "data: TSE presidente snapshot 2026-10-09 18:46:18Z",
     "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/e6a7a76b5239c9896182eb26d5ca674f72d34b82"
-  },
-  {
-    "repo": "eleicoes-data",
-    "branch": "main",
-    "sha": "d20cd42fec627e59091a96024ff8e80070d9c6e9",
-    "sha_short": "d20cd42",
-    "author": "github-actions[bot]",
-    "date": "2026-10-09T13:08:38Z",
-    "message": "data: TSE presidente snapshot 2026-10-09 13:08:38Z",
-    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/d20cd42fec627e59091a96024ff8e80070d9c6e9"
-  },
-  {
-    "repo": "eleicoes-data",
-    "branch": "main",
-    "sha": "d49c8a049ea31dced18b59aa0472d7bf427afbc2",
-    "sha_short": "d49c8a0",
-    "author": "github-actions[bot]",
-    "date": "2026-10-09T06:08:54Z",
-    "message": "data: TSE presidente snapshot 2026-10-09 06:08:54Z",
-    "url": "https://github.com/havaianasdestruido/eleicoes-data/commit/d49c8a049ea31dced18b59aa0472d7bf427afbc2"
   },
   {
     "repo": "EleLab_v2",
@@ -35371,6 +35751,146 @@
   },
   {
     "repo": "PWSV",
+    "branch": "bolt-tcp-nodelay-17223056997010881068",
+    "sha": "bd7d474064e17d0c2e458199d2042edb7a962d1a",
+    "sha_short": "bd7d474",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-17T00:21:59Z",
+    "message": "Disable Nagle's Algorithm for WebSocket clients",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/bd7d474064e17d0c2e458199d2042edb7a962d1a"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-tcp-nodelay-17223056997010881068",
+    "sha": "c8133c7dc7b54c268688145356231347082cfa44",
+    "sha_short": "c8133c7",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-15T20:25:17Z",
+    "message": "Merge pull request #6 from havaianasdestruido/bolt-cache-parameter-pointers-4448434025158655151",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/c8133c7dc7b54c268688145356231347082cfa44"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-tcp-nodelay-17223056997010881068",
+    "sha": "b06460935d4dfe96b44003eaf5751c7ebe9b2694",
+    "sha_short": "b064609",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-15T19:28:10Z",
+    "message": "⚡ Bolt: Cache parameter pointers to avoid string lookups in audio thread",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/b06460935d4dfe96b44003eaf5751c7ebe9b2694"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-tcp-nodelay-17223056997010881068",
+    "sha": "c39a676344137f3285e921188044d824e99fecde",
+    "sha_short": "c39a676",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-14T17:10:11Z",
+    "message": "Merge pull request #5 from havaianasdestruido/bolt-trylock-optimization-11752279283507187009",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/c39a676344137f3285e921188044d824e99fecde"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-tcp-nodelay-17223056997010881068",
+    "sha": "cb1ee79aac417e7adfa8e3e6b6730033165b584f",
+    "sha_short": "cb1ee79",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-14T12:59:02Z",
+    "message": "Optimize WebSocketServer position update with try_lock",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/cb1ee79aac417e7adfa8e3e6b6730033165b584f"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-tcp-nodelay-17223056997010881068",
+    "sha": "535fc37e8e2cf8733ec68dfe614653a49743f303",
+    "sha_short": "535fc37",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-13T21:34:26Z",
+    "message": "Merge pull request #4 from havaianasdestruido/bolt-performance-optimizations-15093875258518217056",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/535fc37e8e2cf8733ec68dfe614653a49743f303"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-tcp-nodelay-17223056997010881068",
+    "sha": "f6e547acb67ec553ea770357c9c08bd64cf85544",
+    "sha_short": "f6e547a",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-13T21:02:54Z",
+    "message": "⚡ Bolt: Optimize tick loop and network framing for WebSocketServer",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/f6e547acb67ec553ea770357c9c08bd64cf85544"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-tcp-nodelay-17223056997010881068",
+    "sha": "8c96cf167a6b3ce0f5c735e27dc619249a53f354",
+    "sha_short": "8c96cf1",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-13T00:44:47Z",
+    "message": "Merge pull request #3 from havaianasdestruido/bolt-json-optimization-2536688082538153751",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/8c96cf167a6b3ce0f5c735e27dc619249a53f354"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-tcp-nodelay-17223056997010881068",
+    "sha": "0f853654437b79cafb57f63318f32e96424fd324",
+    "sha_short": "0f85365",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-12T13:52:50Z",
+    "message": "⚡ Bolt: Replace juce::String concatenations with operator<< in JSON serialization",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/0f853654437b79cafb57f63318f32e96424fd324"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-tcp-nodelay-17223056997010881068",
+    "sha": "256dd95ec603055e4e7c36d5399bd33e95a7f603",
+    "sha_short": "256dd95",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-11T17:08:33Z",
+    "message": "Merge pull request #2 from havaianasdestruido/jules-performance-optimization-1291372089201965832",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/256dd95ec603055e4e7c36d5399bd33e95a7f603"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-tcp-nodelay-17223056997010881068",
+    "sha": "4e9668d9bd9e05a0da5ac94fc6bb081b00c488dd",
+    "sha_short": "4e9668d",
+    "author": "UltimateQuack",
+    "date": "2026-07-25T23:22:14Z",
+    "message": "add: WebSocket server with rate limiting and beat sync (Source/WebSocketServer.h, Source/WebSocketServer.cpp)",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/4e9668d9bd9e05a0da5ac94fc6bb081b00c488dd"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-tcp-nodelay-17223056997010881068",
+    "sha": "c44dfa1643c9b40a1c4f5fc66ee9229f793a15f2",
+    "sha_short": "c44dfa1",
+    "author": "UltimateQuack",
+    "date": "2026-07-25T23:21:15Z",
+    "message": "add: utility headers for WebSocket handshake and position data (Source/Sha1.h, Source/Base64.h, Source/PositionData.h)",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/c44dfa1643c9b40a1c4f5fc66ee9229f793a15f2"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-tcp-nodelay-17223056997010881068",
+    "sha": "8225a18e2fe93cbfecca73273f453ef93658e6a1",
+    "sha_short": "8225a18",
+    "author": "UltimateQuack",
+    "date": "2026-07-25T23:20:41Z",
+    "message": "add: CMake build system with JUCE 8 + CLAP extensions (CMakeLists.txt)",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/8225a18e2fe93cbfecca73273f453ef93658e6a1"
+  },
+  {
+    "repo": "PWSV",
+    "branch": "bolt-tcp-nodelay-17223056997010881068",
+    "sha": "dbc3f9e0ccc03d7e6dfbeab2fae4f1b89a29d843",
+    "sha_short": "dbc3f9e",
+    "author": "UltimateQuack",
+    "date": "2026-07-25T23:20:18Z",
+    "message": "add: initial project structure with .gitignore",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/dbc3f9e0ccc03d7e6dfbeab2fae4f1b89a29d843"
+  },
+  {
+    "repo": "PWSV",
     "branch": "bolt-trylock-optimization-11752279283507187009",
     "sha": "cb1ee79aac417e7adfa8e3e6b6730033165b584f",
     "sha_short": "cb1ee79",
@@ -38001,6 +38521,106 @@
   },
   {
     "repo": "steamlogger",
+    "branch": "bolt/zero-copy-friend-deserialization-6029544257419597236",
+    "sha": "ecfb54bad925d4709eb471846d064a9f1c693633",
+    "sha_short": "ecfb54b",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-16T23:13:12Z",
+    "message": "Performance: Zero-copy deserialization for FriendListResponse",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/ecfb54bad925d4709eb471846d064a9f1c693633"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt/zero-copy-friend-deserialization-6029544257419597236",
+    "sha": "a6cffcdb574358815ef32e3b1abbc34ac7445383",
+    "sha_short": "a6cffcd",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-15T20:43:10Z",
+    "message": "Merge pull request #8 from havaianasdestruido/bolt-stream-json-reads-13118641453970075006",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/a6cffcdb574358815ef32e3b1abbc34ac7445383"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt/zero-copy-friend-deserialization-6029544257419597236",
+    "sha": "4f7ea86d31819091f1db87b9c84d7ab8abe4c4f5",
+    "sha_short": "4f7ea86",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-15T20:40:58Z",
+    "message": "⚡ Bolt: Stream JSON log reads to reduce peak memory",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/4f7ea86d31819091f1db87b9c84d7ab8abe4c4f5"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt/zero-copy-friend-deserialization-6029544257419597236",
+    "sha": "3bf46c1d0fa03e20fe7761a2984e8a6da08b01b8",
+    "sha_short": "3bf46c1",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-13T15:44:24Z",
+    "message": "Merge pull request #7 from havaianasdestruido/bolt-optimize-url-allocations-17322043973033610492",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/3bf46c1d0fa03e20fe7761a2984e8a6da08b01b8"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt/zero-copy-friend-deserialization-6029544257419597236",
+    "sha": "27f21f58b4274da0fa0e705a0846f02051983672",
+    "sha_short": "27f21f5",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-13T15:08:06Z",
+    "message": "⚡ Bolt: Optimize player summaries URL string allocation",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/27f21f58b4274da0fa0e705a0846f02051983672"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt/zero-copy-friend-deserialization-6029544257419597236",
+    "sha": "22339de8f45c558cf872b4520f38b8713fa0e55f",
+    "sha_short": "22339de",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-13T00:44:39Z",
+    "message": "Merge pull request #6 from havaianasdestruido/bolt-optimize-json-write-11022104096064710085",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/22339de8f45c558cf872b4520f38b8713fa0e55f"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt/zero-copy-friend-deserialization-6029544257419597236",
+    "sha": "d5849d42aee66bc8312c44b7dcad39e65ba9a4b3",
+    "sha_short": "d5849d4",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-12T13:26:52Z",
+    "message": "perf: stream JSON directly to disk to avoid memory spike",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/d5849d42aee66bc8312c44b7dcad39e65ba9a4b3"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt/zero-copy-friend-deserialization-6029544257419597236",
+    "sha": "cde1c413001d3184fb1e55704b29f479395abf4f",
+    "sha_short": "cde1c41",
+    "author": "PatoFlamejanteTV",
+    "date": "2026-10-11T15:56:42Z",
+    "message": "Merge pull request #5 from havaianasdestruido/bolt-performance-optimizations-8403445024399752437",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/cde1c413001d3184fb1e55704b29f479395abf4f"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt/zero-copy-friend-deserialization-6029544257419597236",
+    "sha": "fd65516359620b51becb7dd9e2c4a28ce635c728",
+    "sha_short": "fd65516",
+    "author": "google-labs-jules[bot]",
+    "date": "2026-10-11T14:23:46Z",
+    "message": "Prevent unnecessary disk I/O and allocations",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/fd65516359620b51becb7dd9e2c4a28ce635c728"
+  },
+  {
+    "repo": "steamlogger",
+    "branch": "bolt/zero-copy-friend-deserialization-6029544257419597236",
+    "sha": "e3c708f8e083e804030d990e3f6569f4ea36556d",
+    "sha_short": "e3c708f",
+    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
+    "date": "2026-10-02T23:43:17Z",
+    "message": "Merge pull request #3 from havaianasdestruido/imgbot",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/e3c708f8e083e804030d990e3f6569f4ea36556d"
+  },
+  {
+    "repo": "steamlogger",
     "branch": "bolt-optimize-json-stream-12627142233738284781",
     "sha": "4c39f23a0923a9ebc0a1a1af8dd9a33661b7ff53",
     "sha_short": "4c39f23",
@@ -38528,106 +39148,6 @@
     "date": "2026-08-10T20:40:19Z",
     "message": "chore: scaffold steamlogger crate with module contracts",
     "url": "https://github.com/havaianasdestruido/steamlogger/commit/42a8dbd8c7833c1dfebaca6544170e41437a1686"
-  },
-  {
-    "repo": "steamlogger",
-    "branch": "main",
-    "sha": "a6cffcdb574358815ef32e3b1abbc34ac7445383",
-    "sha_short": "a6cffcd",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-15T20:43:10Z",
-    "message": "Merge pull request #8 from havaianasdestruido/bolt-stream-json-reads-13118641453970075006",
-    "url": "https://github.com/havaianasdestruido/steamlogger/commit/a6cffcdb574358815ef32e3b1abbc34ac7445383"
-  },
-  {
-    "repo": "steamlogger",
-    "branch": "main",
-    "sha": "4f7ea86d31819091f1db87b9c84d7ab8abe4c4f5",
-    "sha_short": "4f7ea86",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-10-15T20:40:58Z",
-    "message": "⚡ Bolt: Stream JSON log reads to reduce peak memory",
-    "url": "https://github.com/havaianasdestruido/steamlogger/commit/4f7ea86d31819091f1db87b9c84d7ab8abe4c4f5"
-  },
-  {
-    "repo": "steamlogger",
-    "branch": "main",
-    "sha": "3bf46c1d0fa03e20fe7761a2984e8a6da08b01b8",
-    "sha_short": "3bf46c1",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-13T15:44:24Z",
-    "message": "Merge pull request #7 from havaianasdestruido/bolt-optimize-url-allocations-17322043973033610492",
-    "url": "https://github.com/havaianasdestruido/steamlogger/commit/3bf46c1d0fa03e20fe7761a2984e8a6da08b01b8"
-  },
-  {
-    "repo": "steamlogger",
-    "branch": "main",
-    "sha": "27f21f58b4274da0fa0e705a0846f02051983672",
-    "sha_short": "27f21f5",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-10-13T15:08:06Z",
-    "message": "⚡ Bolt: Optimize player summaries URL string allocation",
-    "url": "https://github.com/havaianasdestruido/steamlogger/commit/27f21f58b4274da0fa0e705a0846f02051983672"
-  },
-  {
-    "repo": "steamlogger",
-    "branch": "main",
-    "sha": "22339de8f45c558cf872b4520f38b8713fa0e55f",
-    "sha_short": "22339de",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-13T00:44:39Z",
-    "message": "Merge pull request #6 from havaianasdestruido/bolt-optimize-json-write-11022104096064710085",
-    "url": "https://github.com/havaianasdestruido/steamlogger/commit/22339de8f45c558cf872b4520f38b8713fa0e55f"
-  },
-  {
-    "repo": "steamlogger",
-    "branch": "main",
-    "sha": "d5849d42aee66bc8312c44b7dcad39e65ba9a4b3",
-    "sha_short": "d5849d4",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-10-12T13:26:52Z",
-    "message": "perf: stream JSON directly to disk to avoid memory spike",
-    "url": "https://github.com/havaianasdestruido/steamlogger/commit/d5849d42aee66bc8312c44b7dcad39e65ba9a4b3"
-  },
-  {
-    "repo": "steamlogger",
-    "branch": "main",
-    "sha": "cde1c413001d3184fb1e55704b29f479395abf4f",
-    "sha_short": "cde1c41",
-    "author": "PatoFlamejanteTV",
-    "date": "2026-10-11T15:56:42Z",
-    "message": "Merge pull request #5 from havaianasdestruido/bolt-performance-optimizations-8403445024399752437",
-    "url": "https://github.com/havaianasdestruido/steamlogger/commit/cde1c413001d3184fb1e55704b29f479395abf4f"
-  },
-  {
-    "repo": "steamlogger",
-    "branch": "main",
-    "sha": "fd65516359620b51becb7dd9e2c4a28ce635c728",
-    "sha_short": "fd65516",
-    "author": "google-labs-jules[bot]",
-    "date": "2026-10-11T14:23:46Z",
-    "message": "Prevent unnecessary disk I/O and allocations",
-    "url": "https://github.com/havaianasdestruido/steamlogger/commit/fd65516359620b51becb7dd9e2c4a28ce635c728"
-  },
-  {
-    "repo": "steamlogger",
-    "branch": "main",
-    "sha": "e3c708f8e083e804030d990e3f6569f4ea36556d",
-    "sha_short": "e3c708f",
-    "author": "PatoFlamejanteTV (aka. UltimateQuack/HavaianasDestruido)",
-    "date": "2026-10-02T23:43:17Z",
-    "message": "Merge pull request #3 from havaianasdestruido/imgbot",
-    "url": "https://github.com/havaianasdestruido/steamlogger/commit/e3c708f8e083e804030d990e3f6569f4ea36556d"
-  },
-  {
-    "repo": "steamlogger",
-    "branch": "main",
-    "sha": "d675d2e036341813334584f40cf43b5e50feea04",
-    "sha_short": "d675d2e",
-    "author": "ImgBotApp",
-    "date": "2026-10-02T19:40:17Z",
-    "message": "[ImgBot] Optimize images",
-    "url": "https://github.com/havaianasdestruido/steamlogger/commit/d675d2e036341813334584f40cf43b5e50feea04"
   },
   {
     "repo": "terminal-win7",

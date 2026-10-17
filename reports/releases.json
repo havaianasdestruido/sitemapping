@@ -56,6 +56,14 @@
     "url": "https://github.com/havaianasdestruido/AmIOnline/releases/tag/v1.0.0"
   },
   {
+    "repo": "CNLeaks",
+    "name": "v1",
+    "published_at": "2026-10-16T22:28:48Z",
+    "prerelease": false,
+    "draft": false,
+    "url": "https://github.com/havaianasdestruido/CNLeaks/releases/tag/v1"
+  },
+  {
     "repo": "manimce-claude",
     "name": "v1.0",
     "published_at": "2026-09-14T23:26:06Z",

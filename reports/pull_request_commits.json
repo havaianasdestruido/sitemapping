@@ -1608,6 +1608,30 @@
     "url": "https://github.com/havaianasdestruido/ClassHub/commit/2666af7097e22a05cf6d8772dd71ad44ee2b6c1b"
   },
   {
+    "repo": "CNLeaks",
+    "pr_number": 3,
+    "sha": "84cca7554244bf01102228187388a234ab0f8dd1",
+    "sha_short": "84cca75",
+    "message": "Add SEO-optimized FAQ to README",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/84cca7554244bf01102228187388a234ab0f8dd1"
+  },
+  {
+    "repo": "CNLeaks",
+    "pr_number": 2,
+    "sha": "7406c7323355740d3cab8948a0726dc987db4651",
+    "sha_short": "7406c73",
+    "message": "Render repository tree as nested Markdown list",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/7406c7323355740d3cab8948a0726dc987db4651"
+  },
+  {
+    "repo": "CNLeaks",
+    "pr_number": 1,
+    "sha": "cf0e67a5fa557d1991382c5917beaac2fb10e720",
+    "sha_short": "cf0e67a",
+    "message": "Add TREE.md: project file tree with hyperlinks",
+    "url": "https://github.com/havaianasdestruido/CNLeaks/commit/cf0e67a5fa557d1991382c5917beaac2fb10e720"
+  },
+  {
     "repo": "dadosabertos",
     "pr_number": 2,
     "sha": "f414d83bed8f82ab8b4bf08e958da0918cc53ed9",
@@ -2753,6 +2777,14 @@
   },
   {
     "repo": "PWSV",
+    "pr_number": 7,
+    "sha": "bd7d474064e17d0c2e458199d2042edb7a962d1a",
+    "sha_short": "bd7d474",
+    "message": "Disable Nagle's Algorithm for WebSocket clients",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/bd7d474064e17d0c2e458199d2042edb7a962d1a"
+  },
+  {
+    "repo": "PWSV",
     "pr_number": 6,
     "sha": "b06460935d4dfe96b44003eaf5751c7ebe9b2694",
     "sha_short": "b064609",
@@ -2966,6 +2998,14 @@
     "sha_short": "da63afc",
     "message": "Tolerate brief missing Steam game polls",
     "url": "https://github.com/havaianasdestruido/steamlogger/commit/da63afce1905635b901bc16af104022937168df1"
+  },
+  {
+    "repo": "steamlogger",
+    "pr_number": 9,
+    "sha": "ecfb54bad925d4709eb471846d064a9f1c693633",
+    "sha_short": "ecfb54b",
+    "message": "Performance: Zero-copy deserialization for FriendListResponse",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/ecfb54bad925d4709eb471846d064a9f1c693633"
   },
   {
     "repo": "steamlogger",
