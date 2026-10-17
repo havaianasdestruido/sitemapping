@@ -210,6 +210,17 @@
   },
   {
     "repo": "FNF-Phoenix-Engine",
+    "state": "open",
+    "number": 76,
+    "title": "Pin the Android NDK in CI: document/commit r27c explicitly so CI matches the verified toolchain",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-16T15:43:54Z",
+    "labels": "Arena.AI",
+    "comments": 0,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/76"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
     "state": "closed",
     "number": 97,
     "title": "[scratch] label permission probe",
@@ -218,61 +229,6 @@
     "labels": "",
     "comments": 0,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/97"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 86,
-    "title": "JSON parsing without try/catch and no signature/webhook secrets for remote content",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-16T15:44:15Z",
-    "labels": "",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/86"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 60,
-    "title": "mobile.yml builds with Haxe 4.3.6 while main.yml and AGENTS.md require 4.3.7",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-16T14:14:16Z",
-    "labels": "bug",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/60"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 59,
-    "title": "The 'Comment on pull request' workflow triggers on a workflow name that does not exist in this repository",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-16T14:14:15Z",
-    "labels": "bug",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/59"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 58,
-    "title": "Most git dependencies are installed from moving branch heads, so the same commit can be built against different upstream code",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-16T14:13:23Z",
-    "labels": "bug",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/58"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "number": 57,
-    "title": "The CI dependency cache key does not pin the resolved dependency revisions and is invalidated by files that most jobs never use",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-16T14:13:23Z",
-    "labels": "bug",
-    "comments": 0,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/issues/57"
   },
   {
     "repo": "WindowsMovieMakerDecomp",

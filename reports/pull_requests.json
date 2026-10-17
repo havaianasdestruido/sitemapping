@@ -1,16 +1,68 @@
 [
   {
     "repo": "FNF-Phoenix-Engine",
-    "state": "open",
-    "status": "open",
-    "number": 110,
-    "title": "feat(debug): add Haxe + C/C++ Frame Profiler with debug/log export",
+    "state": "closed",
+    "status": "merged",
+    "number": 116,
+    "title": "fix: restore mobile hitbox note input",
     "user": "havaianasdestruido",
-    "created_at": "2026-10-17T14:39:35Z",
+    "created_at": "2026-10-17T20:23:52Z",
     "base_branch": "main",
-    "head_branch": "arena/b0eafba3-fnf-phoenix-engine",
-    "commit_count": 3,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/110"
+    "head_branch": "arena/5903afa4-fnf-phoenix-engine",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/116"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "closed",
+    "status": "merged",
+    "number": 115,
+    "title": "fix(python): wire PythonScript callbacks, text objects, and bf-clicker mod",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-17T19:24:03Z",
+    "base_branch": "main",
+    "head_branch": "arena/89d91e8c-fnf-phoenix-engine",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/115"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "closed",
+    "status": "merged",
+    "number": 114,
+    "title": "Add Mr. Robot profiler achievement",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-17T19:15:27Z",
+    "base_branch": "main",
+    "head_branch": "arena/2160ea07-fnf-phoenix-engine",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/114"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "closed",
+    "status": "merged",
+    "number": 113,
+    "title": "Add Get a Job playtime achievement",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-17T19:03:11Z",
+    "base_branch": "main",
+    "head_branch": "arena/00a50a95-fnf-phoenix-engine",
+    "commit_count": 2,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/113"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "closed",
+    "status": "merged",
+    "number": 112,
+    "title": "feat: implement Wowza mod badge",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-17T18:55:54Z",
+    "base_branch": "main",
+    "head_branch": "arena/44a17d62-fnf-phoenix-engine",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/112"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -24,6 +76,19 @@
     "head_branch": "arena/7ca2a31e-fnf-phoenix-engine",
     "commit_count": 5,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/111"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "state": "closed",
+    "status": "merged",
+    "number": 110,
+    "title": "feat(debug): add Haxe + C/C++ Frame Profiler with debug/log export",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-17T14:39:35Z",
+    "base_branch": "main",
+    "head_branch": "arena/b0eafba3-fnf-phoenix-engine",
+    "commit_count": 4,
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/110"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -193,84 +258,6 @@
     "head_branch": "arena/68e4e694-fnf-phoenix-engine",
     "commit_count": 22,
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/61"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "status": "closed",
-    "number": 56,
-    "title": "Fix batch of Arena AI audit issues (#42-#55)",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-16T13:58:25Z",
-    "base_branch": "main",
-    "head_branch": "arena/82d5e53c-fnf-phoenix-engine",
-    "commit_count": 2,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/56"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "status": "merged",
-    "number": 35,
-    "title": "⚡ Bolt: Avoid O(n) indexOf when no scripts are active",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-13T01:27:48Z",
-    "base_branch": "main",
-    "head_branch": "bolt-indexOf-optimization-13439205363626752212",
-    "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/35"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "status": "merged",
-    "number": 34,
-    "title": "⚡ Bolt: Avoid O(n) indexOf when no scripts are active",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-11T16:32:11Z",
-    "base_branch": "main",
-    "head_branch": "bolt-optimize-indexOf-9743339718692353484",
-    "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/34"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "status": "merged",
-    "number": 33,
-    "title": "⚡ Bolt: record performance findings in journal (no runtime change)",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-10T19:00:38Z",
-    "base_branch": "main",
-    "head_branch": "arena/c369986f-fnf-phoenix-engine",
-    "commit_count": 2,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/33"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "status": "merged",
-    "number": 32,
-    "title": "⚡ Bolt: Optimize loop in PlayStateRating.updateNps",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-10T14:44:48Z",
-    "base_branch": "main",
-    "head_branch": "bolt-nps-optimization-6990886896528488390",
-    "commit_count": 1,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/32"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "state": "closed",
-    "status": "merged",
-    "number": 31,
-    "title": "docs: full codebase documentation site (Docusaurus)",
-    "user": "havaianasdestruido",
-    "created_at": "2026-10-02T17:02:03Z",
-    "base_branch": "main",
-    "head_branch": "arena/01a0fd75-fnf-phoenix-engine",
-    "commit_count": 2,
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/pull/31"
   },
   {
     "repo": "R2K16",
@@ -1038,6 +1025,19 @@
     "head_branch": "arena/01a0ef9a-abnt-skill",
     "commit_count": 2,
     "url": "https://github.com/havaianasdestruido/abnt-skill/pull/1"
+  },
+  {
+    "repo": "AmIOnline",
+    "state": "open",
+    "status": "open",
+    "number": 11,
+    "title": "⚡ Bolt: Optimize IPv4 parsing",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-17T18:39:27Z",
+    "base_branch": "main",
+    "head_branch": "bolt-optimize-ipv4-parsing-5498352285987498459",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/AmIOnline/pull/11"
   },
   {
     "repo": "AmIOnline",
@@ -2848,6 +2848,19 @@
   },
   {
     "repo": "PWSV",
+    "state": "open",
+    "status": "open",
+    "number": 8,
+    "title": "⚡ Bolt: Optimize WebSocket broadcasts memory usage & safety",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-17T20:44:48Z",
+    "base_branch": "main",
+    "head_branch": "bolt-websocket-optimization-11020706825635767741",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/PWSV/pull/8"
+  },
+  {
+    "repo": "PWSV",
     "state": "closed",
     "status": "merged",
     "number": 7,
@@ -3105,6 +3118,19 @@
     "head_branch": "imgbot",
     "commit_count": 1,
     "url": "https://github.com/havaianasdestruido/Sonic4/pull/1"
+  },
+  {
+    "repo": "steamlogger",
+    "state": "open",
+    "status": "open",
+    "number": 10,
+    "title": "⚡ Bolt: [zero-copy json deserialization for player summaries]",
+    "user": "havaianasdestruido",
+    "created_at": "2026-10-17T18:20:58Z",
+    "base_branch": "main",
+    "head_branch": "bolt-zero-copy-player-summaries-1320167675830965708",
+    "commit_count": 1,
+    "url": "https://github.com/havaianasdestruido/steamlogger/pull/10"
   },
   {
     "repo": "steamlogger",

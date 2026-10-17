@@ -1,27 +1,59 @@
 [
   {
     "repo": "FNF-Phoenix-Engine",
-    "pr_number": 110,
-    "sha": "bd10b85b0dc2c7328aa12641a9b224a51e43046e",
-    "sha_short": "bd10b85",
-    "message": "feat(debug): add Haxe + C/C++ frame profiler with debug/log export",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/bd10b85b0dc2c7328aa12641a9b224a51e43046e"
+    "pr_number": 116,
+    "sha": "9490e0d9e9a3bfd43ad9eb839787212a1d34d6b4",
+    "sha_short": "9490e0d",
+    "message": "fix: restore mobile hitbox note input",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/9490e0d9e9a3bfd43ad9eb839787212a1d34d6b4"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "pr_number": 110,
-    "sha": "091f3b7ddd23bd484659aed601037bc838a34ed2",
-    "sha_short": "091f3b7",
-    "message": "Merge branch 'main' into arena/b0eafba3-fnf-phoenix-engine",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/091f3b7ddd23bd484659aed601037bc838a34ed2"
+    "pr_number": 115,
+    "sha": "78bbd93dd87d265efef2635211f427b42e83be32",
+    "sha_short": "78bbd93",
+    "message": "fix(python): wire PythonScript callbacks, text objects, and bf-clicker mod",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/78bbd93dd87d265efef2635211f427b42e83be32"
   },
   {
     "repo": "FNF-Phoenix-Engine",
-    "pr_number": 110,
-    "sha": "a705e282d1bb893df3ae28fb705988dbe2c55290",
-    "sha_short": "a705e28",
-    "message": "fix(debug): harden frame profiler metrics, phase stack, overhead, and CSV export",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a705e282d1bb893df3ae28fb705988dbe2c55290"
+    "pr_number": 115,
+    "sha": "95623ba6804358a5f771212120bf98a8a5e6c856",
+    "sha_short": "95623ba",
+    "message": "Merge branch 'main' into arena/89d91e8c-fnf-phoenix-engine",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/95623ba6804358a5f771212120bf98a8a5e6c856"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 114,
+    "sha": "1508796fd2e53820e22892846616c05a5e04bba6",
+    "sha_short": "1508796",
+    "message": "Add Mr. Robot profiler achievement",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1508796fd2e53820e22892846616c05a5e04bba6"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 113,
+    "sha": "daf5d615e745fd1e964e2f4e9662549ade33c7cf",
+    "sha_short": "daf5d61",
+    "message": "Add Get a Job playtime achievement",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/daf5d615e745fd1e964e2f4e9662549ade33c7cf"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 113,
+    "sha": "56b13ef90b4567584d03022a63ae24732e644584",
+    "sha_short": "56b13ef",
+    "message": "Merge remote-tracking branch 'origin/main' into arena/00a50a95-fnf-phoenix-engine",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/56b13ef90b4567584d03022a63ae24732e644584"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 112,
+    "sha": "035f862ca3201e8285095d245e9739e0658d1bb7",
+    "sha_short": "035f862",
+    "message": "feat: implement Wowza mod badge",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/035f862ca3201e8285095d245e9739e0658d1bb7"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -62,6 +94,38 @@
     "sha_short": "330e0e1",
     "message": "test: verify foreign padding survives cutout updates",
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/330e0e15b1c185e7f0ff3f63725ab07ffab9b104"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 110,
+    "sha": "bd10b85b0dc2c7328aa12641a9b224a51e43046e",
+    "sha_short": "bd10b85",
+    "message": "feat(debug): add Haxe + C/C++ frame profiler with debug/log export",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/bd10b85b0dc2c7328aa12641a9b224a51e43046e"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 110,
+    "sha": "091f3b7ddd23bd484659aed601037bc838a34ed2",
+    "sha_short": "091f3b7",
+    "message": "Merge branch 'main' into arena/b0eafba3-fnf-phoenix-engine",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/091f3b7ddd23bd484659aed601037bc838a34ed2"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 110,
+    "sha": "a705e282d1bb893df3ae28fb705988dbe2c55290",
+    "sha_short": "a705e28",
+    "message": "fix(debug): harden frame profiler metrics, phase stack, overhead, and CSV export",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/a705e282d1bb893df3ae28fb705988dbe2c55290"
+  },
+  {
+    "repo": "FNF-Phoenix-Engine",
+    "pr_number": 110,
+    "sha": "6c551cfb2538c7ca37ce247588b244ba7cc5bf39",
+    "sha_short": "6c551cf",
+    "message": "fix(profiler): restore relative buildXml path and harden lifecycle, inclusive phases, atomic export, and sanitizers",
+    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6c551cfb2538c7ca37ce247588b244ba7cc5bf39"
   },
   {
     "repo": "FNF-Phoenix-Engine",
@@ -286,78 +350,6 @@
     "sha_short": "7cdc13e",
     "message": "fix: wire Safe Frames option to Conductor.recalculateTimings (#43)",
     "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/7cdc13e8eb06bb703e56ef649078e78ed7db6df1"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 56,
-    "sha": "1bee291aa4048c480cfec84090b03606f0278279",
-    "sha_short": "1bee291",
-    "message": "fix: reconcile build dependencies, haxelib patches, and project metadata (#42, #46, #47, #48, #49, #50)",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/1bee291aa4048c480cfec84090b03606f0278279"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 56,
-    "sha": "61d233960a816ac1217e2e8c28dd41a816b40b0c",
-    "sha_short": "61d2339",
-    "message": "fix: correct engine runtime, scripting, options, and timing defects (#43, #44, #45, #51, #52, #53, #54, #55)",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/61d233960a816ac1217e2e8c28dd41a816b40b0c"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 35,
-    "sha": "6a027d943b356cab7437c1dd3cbf2090e7285aaf",
-    "sha_short": "6a027d9",
-    "message": "⚡ Bolt: Avoid O(n) indexOf when no scripts are active",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/6a027d943b356cab7437c1dd3cbf2090e7285aaf"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 34,
-    "sha": "e987f4d13026f418582b0718e81f5da9b1d6adb3",
-    "sha_short": "e987f4d",
-    "message": "⚡ Bolt: Avoid O(n) indexOf when no scripts are active",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/e987f4d13026f418582b0718e81f5da9b1d6adb3"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 33,
-    "sha": "971e2a4d65736c4fd08dc12112ef158cc81807ce",
-    "sha_short": "971e2a4",
-    "message": "docs: add Bolt performance journal entry",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/971e2a4d65736c4fd08dc12112ef158cc81807ce"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 33,
-    "sha": "d82b6d7e8d7e4e29272f125aa4ad6c8ac238c1f5",
-    "sha_short": "d82b6d7",
-    "message": "Merge branch 'main' into arena/c369986f-fnf-phoenix-engine",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/d82b6d7e8d7e4e29272f125aa4ad6c8ac238c1f5"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 32,
-    "sha": "5dec4eb422d6142534587c27bca3747bd1c91da8",
-    "sha_short": "5dec4eb",
-    "message": "⚡ Bolt: Optimize notesHitDateArray iteration logic in updateNps",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/5dec4eb422d6142534587c27bca3747bd1c91da8"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 31,
-    "sha": "af35c3f0085259fa1892f0fe5984c4badf25810c",
-    "sha_short": "af35c3f",
-    "message": "docs: add full Docusaurus documentation site",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/af35c3f0085259fa1892f0fe5984c4badf25810c"
-  },
-  {
-    "repo": "FNF-Phoenix-Engine",
-    "pr_number": 31,
-    "sha": "4ba9fba3430fd3de30129566fbe9243b7ae51836",
-    "sha_short": "4ba9fba",
-    "message": "docs: address review feedback on the documentation site",
-    "url": "https://github.com/havaianasdestruido/FNF-Phoenix-Engine/commit/4ba9fba3430fd3de30129566fbe9243b7ae51836"
   },
   {
     "repo": "R2K16",
@@ -1230,6 +1222,14 @@
     "sha_short": "a4d0723",
     "message": "Aplica revisao: precisao ABNT, checklist duplex, limite Access, parser fail-closed",
     "url": "https://github.com/havaianasdestruido/abnt-skill/commit/a4d0723375c0d8d8c6b871f3a13f6ea507cf6752"
+  },
+  {
+    "repo": "AmIOnline",
+    "pr_number": 11,
+    "sha": "af2249dd069d1bcb1b1704eb184b18a0da928935",
+    "sha_short": "af2249d",
+    "message": "⚡ Bolt: Optimize IPv4 parsing",
+    "url": "https://github.com/havaianasdestruido/AmIOnline/commit/af2249dd069d1bcb1b1704eb184b18a0da928935"
   },
   {
     "repo": "AmIOnline",
@@ -2865,6 +2865,14 @@
   },
   {
     "repo": "PWSV",
+    "pr_number": 8,
+    "sha": "09dc3033a023a94b5af0953f84fb555f66fb05da",
+    "sha_short": "09dc303",
+    "message": "⚡ Bolt: Avoid heap allocations during WebSocket broadcast and guard MIDI buffer size",
+    "url": "https://github.com/havaianasdestruido/PWSV/commit/09dc3033a023a94b5af0953f84fb555f66fb05da"
+  },
+  {
+    "repo": "PWSV",
     "pr_number": 7,
     "sha": "bd7d474064e17d0c2e458199d2042edb7a962d1a",
     "sha_short": "bd7d474",
@@ -3070,6 +3078,14 @@
     "sha_short": "b876165",
     "message": "[ImgBot] Optimize images",
     "url": "https://github.com/havaianasdestruido/Sonic4/commit/b8761650af88efeb084aa64d23a411cbb9d30987"
+  },
+  {
+    "repo": "steamlogger",
+    "pr_number": 10,
+    "sha": "206c2961a6f943e8547bc0e80c935cdf4e0aabcd",
+    "sha_short": "206c296",
+    "message": "⚡ Bolt: [zero-copy json deserialization for player summaries]",
+    "url": "https://github.com/havaianasdestruido/steamlogger/commit/206c2961a6f943e8547bc0e80c935cdf4e0aabcd"
   },
   {
     "repo": "steamlogger",
