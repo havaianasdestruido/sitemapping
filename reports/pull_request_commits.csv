@@ -286,6 +286,9 @@ microsoft,2,706056d9a8faddebd0ee27f880780206139f66dc,706056d,⚡ Bolt: Suppress 
 microsoft,1,d5d384eef6b747371c3bd6621a91c02ef7f2e335,d5d384e,⚡ Bolt: Optimize `extract_isos.bat` to use native `for /R` loop,https://github.com/havaianasdestruido/microsoft/commit/d5d384eef6b747371c3bd6621a91c02ef7f2e335
 mshearts,14,789c3935826119871327b6af8961cedf3914a38a,789c393,docs: add audit report documenting 12 filed issues,https://github.com/havaianasdestruido/mshearts/commit/789c3935826119871327b6af8961cedf3914a38a
 mshearts,1,7407c0dc7c351deebf3932c35df3bb3136cee2e1,7407c0d,⚡ Bolt: Replace hand-rolled math/bit-twiddling with standard/intrinsic equivalents,https://github.com/havaianasdestruido/mshearts/commit/7407c0dc7c351deebf3932c35df3bb3136cee2e1
+neo-nt5,9,ca67fd91e02ed569da0dc1aa0750dc0a219b7b45,ca67fd9,fix(security): remove plain-text product keys from README,https://github.com/havaianasdestruido/neo-nt5/commit/ca67fd91e02ed569da0dc1aa0750dc0a219b7b45
+neo-nt5,8,9d9005e3f77e178fa211bb2e1039034bab3910cb,9d9005e,Improve image accessibility on 404 error page,https://github.com/havaianasdestruido/neo-nt5/commit/9d9005e3f77e178fa211bb2e1039034bab3910cb
+neo-nt5,7,8745fdcd71aea1b36a0febf5f598cb40fbdc0ad2,8745fdc,⚡ Bolt: Optimize Path resolution and file reading in agents/verify.py,https://github.com/havaianasdestruido/neo-nt5/commit/8745fdcd71aea1b36a0febf5f598cb40fbdc0ad2
 neo-nt5,6,ad90633d215872abc155afd1f321174902c012c8,ad90633,docs: record kernel performance audit findings,https://github.com/havaianasdestruido/neo-nt5/commit/ad90633d215872abc155afd1f321174902c012c8
 neo-nt5,6,ffcef0a6276443ae259b50e8e0058677e6c85594,ffcef0a,perf: avoid repeated triage dump validation,https://github.com/havaianasdestruido/neo-nt5/commit/ffcef0a6276443ae259b50e8e0058677e6c85594
 neo-nt5,6,d90d2f35f5a163cc727984c35cfe030cbe2f9f45,d90d2f3,merge: preserve published audit report,https://github.com/havaianasdestruido/neo-nt5/commit/d90d2f35f5a163cc727984c35cfe030cbe2f9f45
